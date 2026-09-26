@@ -2,10 +2,13 @@
 
 Thank you for helping. You can work by hand or with an AI agent. Either way the path is the same:
 
-1. **Pick an [issue](https://github.com/Beyond-The-Jersey/data/issues)** (or open one: *Check a club*, *Check a sponsor*, *Report an error*). Comment that you're taking it, so nobody duplicates the work.
+1. **Pick an [issue](https://github.com/Beyond-The-Jersey/data/issues)** (or open one: *Check a club*, *Check a sponsor*, *Report an error*) and **claim it with a comment**: that you're taking it, and what you'll do. Anyone can comment, and only maintainers can assign, so the comment is the claim.
+   - An issue with a recent claim, or an assignee, is taken. Pick another one.
+   - A claim with no activity for a week is free: ask on the issue, then take it over.
+   - If you stop, say so on the issue.
 2. **Make a branch** (or fork), and add or edit records in `data/`.
 3. **Run the checks:** `pip install jsonschema && python3 scripts/validate.py`, and `python3 scripts/check_links.py --base origin/main`.
-4. **Open a pull request** using the template. Say what you added, what you couldn't source, and which tiers you propose and why.
+4. **Open a pull request** using the template, linked to the issue (`Part of #<n>`, or `Closes #<n>` when it finishes the issue). Say what you added, what you couldn't source, and which tiers you propose and why.
 5. **CI runs, the review agent comments, and a maintainer reviews.** Nothing is published until a maintainer approves it.
 
 Small fixes (a wrong date, a better source) can be made directly in the GitHub editor: open the record, edit it and choose "Create a new branch and start a pull request".
