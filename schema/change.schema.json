@@ -93,6 +93,32 @@
         "short": {
           "type": "string",
           "description": "Short label for small source lines, e.g. 'SportsPro' next to a deal value."
+        },
+        "quote": {
+          "type": "string",
+          "minLength": 10,
+          "maxLength": 400,
+          "description": "Words copied exactly from the page that support the fact (at most about 30 words). CI looks for them on the page."
+        },
+        "checked": {
+          "type": "object",
+          "required": [
+            "on",
+            "by"
+          ],
+          "additionalProperties": false,
+          "description": "Who opened the page and confirmed that the quote supports the fact, and when.",
+          "properties": {
+            "on": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1,
+              "description": "A GitHub login, or the name of the audit that checked it."
+            }
+          }
         }
       }
     }

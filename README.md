@@ -70,6 +70,8 @@ The field-by-field definitions are the JSON Schemas in [`schema/`](schema).
 
 **Licence:** the data is [CC BY 4.0](LICENSE-DATA.md). Credit "Behind the Jersey (github.com/Beyond-The-Jersey/data)". The code is [MIT](LICENSE). Images aren't part of this dataset: [`assets/`](assets) lists candidate sources and their licences.
 
+**What a release contains:** every claim, with its sources. But sponsors cite only claims whose sources were checked: someone opened the page and copied the words that support the claim. A rating whose evidence isn't complete is published as *not rated yet*, with `hold` saying why and `heldTier` holding the rating it will get. Ratings of Concern and above need two independent sources for each claim they rest on ([METHOD.md](METHOD.md), the evidence standard).
+
 **Please keep in mind:**
 - Ratings are illustrative until the method is final.
 - Deal values are reported estimates, not club accounts.
@@ -94,7 +96,7 @@ data/                   the records: one JSON file per record, named by its id
   kits/  owners/  deals/  leagues/  sports/  changes/  dropped/  contacts/
   levels.json  tiers.json  order.json   (the rating scale, and the order sports and leagues appear in)
 schema/                 JSON Schemas, one per record type: the contract with the website and other users
-scripts/                validate.py, check_links.py, build.py (standard Python; validate needs jsonschema)
+scripts/                validate.py, check_sources.py, build.py (standard Python; validate needs jsonschema, PDFs need pypdf)
 agents/                 briefs for research agents and the review agent
 assets/                 candidate image sources with licences (images themselves live with the website)
 docs/                   coverage/ (research leads per target) and the record of past migrations
@@ -103,8 +105,8 @@ docs/                   coverage/ (research leads per target) and the record of 
 Run the checks locally:
 
 ```bash
-pip install jsonschema
+pip install jsonschema pypdf
 python3 scripts/validate.py
-python3 scripts/check_links.py --base origin/main
+python3 scripts/check_sources.py --base origin/main
 python3 scripts/build.py        # writes dist/, the release
 ```
