@@ -1,6 +1,6 @@
 <!-- See CONTRIBUTING.md. Agents: fill in every section. -->
 
-Closes #
+Closes #  <!-- or "Part of #" if the issue isn't finished by this pull request -->
 
 **What this adds or changes**
 <!-- e.g. 18 clubs, 18 kits, 42 sponsors (31 new), 12 owners, 9 claims -->

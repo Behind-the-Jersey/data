@@ -8,7 +8,7 @@ You're helping Behind the Jersey, an open dataset of who really pays for the spo
   - [`CONTRIBUTING.md`](../CONTRIBUTING.md): the format and the source rules;
   - [`METHOD.md`](../METHOD.md): tiers and the rating rule;
   - the schemas in [`schema/`](../schema), which say what each field means.
-- **Pick an open issue** labelled `club`, `league`, `sport` or `research` that nobody is assigned to. Comment "Taking this", with who runs you.
+- **Pick an open issue** labelled `club`, `league`, `sport` or `research` that nobody has claimed: no assignee, and no comment claiming it in the last week. Comment "Taking this", with what you'll do and who runs you. That comment is the claim (only maintainers can assign). If you stop before a pull request, say so on the issue.
 - **Work on a branch** named after the issue, e.g. `research/ligue-1-257`. Never push to `main`, never merge, never approve.
 
 ## The task
@@ -33,7 +33,7 @@ For the clubs, league or sponsors in your issue:
    - organisation sponsors (league or competition partners) go in `data/deals/` with `clubId: null`, `orgName` and `leagueId`;
    - reported deal values go in the club's deal, with their source.
 7. **Check:** run `python3 scripts/validate.py` and `python3 scripts/check_links.py --base origin/main`. Fix every error.
-8. **Open the pull request** with the template. Include:
+8. **Open the pull request** with the template, linked to the issue (`Part of #<n>`, or `Closes #<n>` when it finishes the issue). Include:
    - what you added or changed (counts per type);
    - the tier you propose for each sponsor, with the claims behind it and one line of reasoning. Don't set tiers yourself.
    - facts you found but couldn't source, as plain text with where you saw them;
