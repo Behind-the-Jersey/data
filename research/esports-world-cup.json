@@ -1,0 +1,531 @@
+{
+ "target": "esports-world-cup",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/245",
+ "sports": [
+  {
+   "id": "esports",
+   "label": "Esports",
+   "status": "not-mapped",
+   "aliases": [
+    "electronic sports",
+    "competitive gaming",
+    "gaming"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "esports-world-cup",
+   "aliases": [
+    "EWC",
+    "Esports World Cup 2026",
+    "EWC26",
+    "Esports World Cup Foundation",
+    "Esports Foundation"
+   ],
+   "sportId": "esports",
+   "name": "Esports World Cup (Esports Foundation)",
+   "country": "Saudi Arabia",
+   "clubCount": 40,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "Event-host shape: EWC is an annual tournament, not a league; the 2026 edition ran 6 Jul - 23 Aug 2026 in Paris (moved from Riyadh; officially confirmed 20 May 2026), with 25 tournaments across 24 games and a $75m prize pool. The 2027 edition returns to Riyadh. Event-host placements (host, title sponsor) have no schema yet, so the event's commercial facts are recorded in unsourced and as org deals.",
+    "Organiser: the Esports Foundation (EF), formerly Esports World Cup Foundation (EWCF), a Riyadh-based non-profit announced by Crown Prince Mohammed bin Salman on 31 Oct 2023 (event launch) and formally established September 2023; renamed Esports Foundation on 31 Mar 2026. It is funded by a sports grant from Saudi Arabia's Public Investment Fund; the Saudi cabinet named the crown prince chair of its board of trustees on 2 Sep 2025.",
+    "Tournament operator: ESL FACEIT Group (ESL, FACEIT, DreamHack) is the Official Operating Partner of the EWC. EFG is wholly owned by Savvy Games Group, which is PIF-owned and chaired by the crown prince.",
+    "The Club Partner Program pays 40 clubs: $20m committed in 2026 (six-figure base per club, up to $1m per club), over $100m distributed across the first three years. Club participation does not guarantee a tournament spot; all clubs qualify per game.",
+    "The Club Championship pool was $30m of the $75m total; AG.AL won the 2026 Club Championship ($7m). Organizations in total took $68.6m out of EWC 2026 (The Esports Advocate, 2026-08-25).",
+    "2026 games (25 competitions, from esportsworldcup.com/en/competitions/2026): Apex Legends, Chess, CoD Black Ops, CoD Warzone, Crossfire, CS2, Dota 2, EA FC Pro, Fatal Fury: CotW, Fortnite, Free Fire, Honor of Kings, League of Legends, MLBB, MLBB Women, Overwatch, PMWC (PUBG Mobile), PUBG Battlegrounds, Rainbow Six Siege, Rocket League, Street Fighter 6, Teamfight Tactics, Tekken 8, Trackmania, Valorant.",
+    "The inaugural Esports Nations Cup was postponed from Nov 2026 to Nov 2027 (The Esports Advocate, 2026-08-18). The Olympic Esports Games are no longer tied to Saudi Arabia: the IOC and the Saudi Olympic Committee ended their 12-year deal on 30 Oct 2025."
+   ]
+  }
+ ],
+ "clubs": [],
+ "owners": [
+  {
+   "id": "government-of-saudi-arabia",
+   "name": "Government of Saudi Arabia",
+   "type": "state",
+   "country": "Saudi Arabia",
+   "parentId": null
+  },
+  {
+   "id": "saudi-pif",
+   "name": "Public Investment Fund (Saudi Arabia)",
+   "type": "state-fund",
+   "country": "Saudi Arabia",
+   "note": "Chaired by Crown Prince Mohammed bin Salman",
+   "parentId": "government-of-saudi-arabia"
+  },
+  {
+   "id": "esports-foundation",
+   "name": "Esports Foundation (formerly Esports World Cup Foundation)",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "via": "PIF sports grant",
+   "note": "Riyadh-based non-profit; claims it is not owned or operated by the Saudi government but funded through a PIF sports grant (The Esports Advocate, 2025-09-03). The Saudi cabinet named Crown Prince MBS chair of its board of trustees on 2 Sep 2025, and the crown prince announced the foundation itself in 2023, so the state link is direct.",
+   "parentId": "saudi-pif"
+  },
+  {
+   "id": "savvy-games-group",
+   "name": "Savvy Games Group",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "via": "PIF",
+   "note": "PIF-owned games and esports group chaired by Crown Prince MBS (The Esports Advocate, 2025-09-03); its own site says 'backed by our shareholder the Public Investment Fund'. Business units: Scopely and ESL FACEIT Group.",
+   "parentId": "saudi-pif"
+  },
+  {
+   "id": "esl-faceit-group",
+   "name": "ESL FACEIT Group (EFG)",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "via": "Savvy Games Group",
+   "note": "Home of ESL, FACEIT and DreamHack; 'fully owns and operates' per The Esports Advocate (2025-09-03). Official Operating Partner of the Esports World Cup.",
+   "parentId": "savvy-games-group"
+  },
+  {
+   "id": "qiddiya",
+   "name": "Qiddiya Investment Company (Qiddiya City)",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "via": "PIF",
+   "note": "Closed joint-stock company wholly owned by PIF (Saudipedia); a PIF giga-project under Vision 2030, launched 2018. Fully acquired fighting-game organizer RTS/Evo in 2025.",
+   "parentId": "saudi-pif"
+  },
+  {
+   "id": "saudi-aramco",
+   "name": "Saudi Arabian Oil Company (Aramco)",
+   "type": "state",
+   "country": "Saudi Arabia",
+   "parentId": null
+  },
+  {
+   "id": "stc",
+   "name": "stc (Saudi Telecom Company)",
+   "type": "listed-company",
+   "country": "Saudi Arabia",
+   "via": "PIF",
+   "note": "PIF is the majority shareholder; parent of neoleap.",
+   "parentId": "saudi-pif"
+  },
+  {
+   "id": "saudia",
+   "name": "Saudia (Saudi Arabian Airlines)",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "via": "PIF",
+   "note": "PIF holds the controlling stake in parent Saudi Arabian Airlines Corporation.",
+   "parentId": "saudi-pif"
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "esl-faceit-group",
+   "name": "ESL FACEIT Group (EFG)",
+   "ownerId": "esl-faceit-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "EFG",
+    "ESL",
+    "FACEIT",
+    "DreamHack"
+   ],
+   "note": "World's largest esports company; runs IEM, ESL Pro League, DreamHack and is the EWC's Official Operating Partner. PIF-owned through Savvy even for events held in Europe."
+  },
+  {
+   "id": "qiddiya",
+   "name": "Qiddiya City (Qiddiya Investment Company)",
+   "ownerId": "qiddiya",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Qiddiya City",
+    "QIC"
+   ],
+   "note": "PIF giga-project; EWC Nexus and Founding Partner. Building a gaming and esports district with arenas near Riyadh."
+  },
+  {
+   "id": "stc",
+   "name": "stc (Saudi Telecom Company)",
+   "ownerId": "stc",
+   "ownership": "part-owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "stc Group",
+    "Saudi Telecom Company"
+   ],
+   "note": "EWC Elite and Founding Partner for the third year in 2026; PIF is the majority shareholder."
+  },
+  {
+   "id": "saudia",
+   "name": "Saudia (Saudi Arabian Airlines)",
+   "ownerId": "saudia",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Saudi Arabian Airlines"
+   ],
+   "note": "EWC Official Airline 2026; already in sponsors.json as a Saudi Pro League sponsor."
+  },
+  {
+   "id": "webook",
+   "name": "Webook",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "webook.com"
+   ],
+   "note": "Saudi ticketing platform; EWC Official Ticket Partner. Ownership not sourced."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "ewc-stc",
+   "clubId": null,
+   "orgName": "Esports World Cup (Esports Foundation)",
+   "sponsorId": "stc",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Esports World Cup - EWC 26 Partners (stc page)",
+    "date": "2026-09-25",
+    "url": "https://esportsworldcup.com/en/partners",
+    "note": "'The leading digital enabler, powering Saudi Arabia's digital transformation, is the Esports World Cup Elite and Founding Partner for the third year in a row.' Partner tiers: Elite stc; Nexus Qiddiya; Strategic Lenovo, Sony, Allianz, Aramco, Saudia; Main Hilton, OBSBOT, ALBAIK; Supplier Secretlab, Webook, NRJ."
+   },
+   "leagueId": "esports-world-cup",
+   "note": "Elite Partner and Founding Partner; the relationship dates to the first 2024 edition ('third year in a row')."
+  },
+  {
+   "id": "ewc-qiddiya",
+   "clubId": null,
+   "orgName": "Esports World Cup (Esports Foundation)",
+   "sponsorId": "qiddiya",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Esports World Cup - EWC 26 Partners (Qiddiya City page)",
+    "date": "2026-09-25",
+    "url": "https://esportsworldcup.com/en/partners",
+    "note": "'Qiddiya City, a landmark global destination Powered by Play, is building the future of entertainment, sports, and culture, and joins as a Nexus and Founding Partner.'"
+   },
+   "leagueId": "esports-world-cup",
+   "note": "Nexus Partner and Founding Partner; wholly owned by PIF (Saudipedia). Also acquired Evo organizer RTS in 2025."
+  },
+  {
+   "id": "ewc-aramco",
+   "clubId": null,
+   "orgName": "Esports World Cup (Esports Foundation)",
+   "sponsorId": "aramco",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Esports World Cup - EWC 26 Partners (Aramco)",
+    "date": "2026-09-25",
+    "url": "https://esportsworldcup.com/en/partners",
+    "note": "'Aramco is one of the world's leading energy companies. Through its partnership with the Esports World Cup, Aramco supports the next generation of talent, innovation, and ambition.' Listed as a Strategic Partner on the homepage."
+   },
+   "leagueId": "esports-world-cup",
+   "note": "Saudi state oil company; already rated serious in the data."
+  },
+  {
+   "id": "ewc-saudia",
+   "clubId": null,
+   "orgName": "Esports World Cup (Esports Foundation)",
+   "sponsorId": "saudia",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Esports World Cup - Saudia Joins Esports World Cup 2026 as Official Airline, Unveils Branded EWC Aircraft",
+    "date": "2026-07-21",
+    "url": "https://esportsworldcup.com/en/press-releases/saudia-joins-esports-world-cup-2026-as-official-airline-unveils-branded-ewc-aircraft",
+    "note": "Strategic Partner and Official Airline; partnership 'builds on the relationship established in 2025'. EWC-branded aircraft flies the Riyadh-Paris route for two years."
+   },
+   "leagueId": "esports-world-cup",
+   "note": "PIF-controlled national carrier; deal value not published."
+  },
+  {
+   "id": "ewc-lenovo",
+   "clubId": null,
+   "orgName": "Esports World Cup (Esports Foundation)",
+   "sponsorId": "lenovo",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Esports World Cup - EWC 26 Partners (Lenovo)",
+    "date": "2026-09-25",
+    "url": "https://esportsworldcup.com/en/partners",
+    "note": "'Lenovo Legion is honored to stand by professional esports players as the official gaming PC sponsor of EWC.' Strategic Partner tier."
+   },
+   "leagueId": "esports-world-cup",
+   "note": "Already rated concern in the data (minority Chinese state link)."
+  },
+  {
+   "id": "ewc-webook",
+   "clubId": null,
+   "orgName": "Esports World Cup (Esports Foundation)",
+   "sponsorId": "webook",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Esports World Cup - EWC 2026 names webook.com Official Ticketing Partner (press release listing)",
+    "date": "2026-09-25",
+    "url": "https://esportsworldcup.com/en/press-releases/ewc-2026-names-webook-com-official-ticketing-partner",
+    "note": "'Webook, Saudi Arabia's ticketing and experiences platform, is the Official Ticket Partner of the Esports World Cup' (partners page); linked from the EWC 26 partners page."
+   },
+   "leagueId": "esports-world-cup",
+   "note": "Saudi ticketing platform; ownership not sourced."
+  },
+  {
+   "id": "ewc-esl-faceit-group",
+   "clubId": null,
+   "orgName": "Esports World Cup",
+   "sponsorId": "esl-faceit-group",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Savvy Games Group site (EFG ownership) / EWC partners page",
+    "date": "2026-09-25",
+    "url": "https://www.esportsworldcup.com/en/partners",
+    "note": "EWC's Official Operating Partner; runs IEM, ESL Pro League, DreamHack. Owner chain: PIF -> Savvy Games Group -> ESL FACEIT Group."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "ewcf-pif-funded",
+   "ownerIds": [
+    "esports-foundation",
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "The Esports World Cup Foundation describes itself as a non-profit not owned by the Saudi state but funded through a sports grant from the Public Investment Fund; the Saudi cabinet named Crown Prince Mohammed bin Salman chair of its board of trustees on 2 Sep 2025.",
+   "source": {
+    "name": "The Esports Advocate",
+    "date": "2025-09-03",
+    "url": "https://esportsadvocate.net/2025/09/hrh-crown-prince-mbs-named-board-of-trustees-chair-for-esports-world-cup-foundation/",
+    "note": "Cites Saudi state media on the cabinet decision; also notes MBS chairs the board of PIF-owned Savvy Games Group."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "ewc-sportswashing-criticism",
+   "ownerIds": [
+    "esports-foundation",
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "Critics and participants have framed the Esports World Cup as a Saudi sportswashing project: GeoGuessr map creators blacked out their maps in protest, calling the tournament 'a sportswashing tool used by the government of Saudi Arabia to distract from and conceal its horrific human rights record', and GamesBeat reports the event is 'frequently framed' this way.",
+   "source": {
+    "name": "Engadget",
+    "date": "2025-05-21",
+    "url": "https://www.engadget.com/gaming/geoguessr-community-maps-go-dark-in-protest-of-ewc-ties-to-human-rights-abuses-221037118.html",
+    "note": "GeoGuessr AB later withdrew from EWC 2025; GamesBeat (2026-05-14) carries the same sportswashing framing."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "saudi-executions-2026-record",
+   "ownerIds": [
+    "government-of-saudi-arabia",
+    "saudi-pif",
+    "esports-foundation",
+    "savvy-games-group"
+   ],
+   "text": "Saudi authorities carried out an unprecedented surge in executions after trials that were likely unfair, executing at least 322 individuals as of early December 2025, exceeding prior execution records.",
+   "source": {
+    "name": "Human Rights Watch, World Report 2026: Saudi Arabia",
+    "date": "2026-02-04",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/saudi-arabia",
+    "note": "Also records the June 2025 execution of journalist Turki al-Jasser after a secret trial, and continued imprisonment of critics."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "saudi-visitors-detained-2026",
+   "ownerIds": [
+    "government-of-saudi-arabia",
+    "saudi-pif"
+   ],
+   "text": "Amnesty International and ALQST documented eight people, mostly from Global South and Middle Eastern countries, arrested in Saudi Arabia during visits between July 2022 and late 2025 for social media posts, some subjected to prolonged arbitrary detention or grossly unfair trials.",
+   "source": {
+    "name": "Amnesty International",
+    "date": "2026-06",
+    "url": "https://www.amnesty.org/en/latest/news/2026/06/saudi-arabia-visitors-to-saudi-arabia-imprisoned-for-social-media-posts/",
+    "note": "Relevant to EWC's international fan and player audience: visitors, not residents, have been detained over expression."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "pif-giga-labour-abuses",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia",
+    "qiddiya"
+   ],
+   "text": "Human Rights Watch found that PIF-funded businesses and projects are among those exploiting and abusing migrant workers in Saudi Arabia's giga-project construction, including at NEOM, as Vision 2030 projects scale up toward the 2034 FIFA World Cup.",
+   "source": {
+    "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
+    "date": "2024-12-04",
+    "url": "https://www.hrw.org/report/2024/12/04/die-first-and-ill-pay-you-later/saudi-arabias-giga-projects-built-widespread",
+    "note": "Qiddiya itself is not a case study in the report, but the report's finding covers PIF-funded giga-project construction generally; Qiddiya is a PIF giga-project."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "ewcf-vision2030-announcement",
+   "ownerIds": [
+    "esports-foundation",
+    "government-of-saudi-arabia"
+   ],
+   "text": "The Esports World Cup and the Esports World Cup Foundation were announced by Crown Prince Mohammed bin Salman as part of Saudi Arabia's National Gaming and Esports Strategy and Vision 2030, aiming to add more than SAR 50 billion to GDP and create 39,000 jobs by 2030.",
+   "source": {
+    "name": "Esports World Cup - HRH Crown Prince announces Esports World Cup (official)",
+    "date": "2023-10-23",
+    "url": "https://esportsworldcup.com/en/news/hrh-crown-prince-announces-esports-world-cup",
+    "note": "The foundation is a state project by the crown prince's own announcement; page dated Jul 31, 2023 in the header, announcement text dated Riyadh, October 23, 2023."
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "esports-foundation",
+   "tier": "serious",
+   "ownerId": "esports-foundation",
+   "claimIds": [
+    "ewcf-pif-funded",
+    "ewc-sportswashing-criticism",
+    "saudi-executions-2026-record",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "The organiser is Saudi state-funded (PIF sports grant), was announced by the crown prince, and is chaired by him since Sep 2025 - the state link is direct, not incidental. Same Saudi state record as Aramco/PIF-rated sponsors (record executions, Khashoggi assessment, sportswashing criticism) -> serious, with severe reserved for live armed conflict."
+  },
+  {
+   "sponsorId": "savvy-games-group",
+   "tier": "serious",
+   "ownerId": "savvy-games-group",
+   "claimIds": [
+    "saudi-executions-2026-record",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "PIF-owned and chaired by the crown prince; the tournament operator layer of the same state money. Same Saudi state record -> serious."
+  },
+  {
+   "sponsorId": "esl-faceit-group",
+   "tier": "serious",
+   "ownerId": "esl-faceit-group",
+   "claimIds": [
+    "saudi-executions-2026-record",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "Wholly owned by PIF's Savvy and the EWC's Official Operating Partner; the rating follows the PIF owner chain even for events held in Europe (IEM, ESL Pro League, DreamHack)."
+  },
+  {
+   "sponsorId": "qiddiya",
+   "tier": "serious",
+   "ownerId": "qiddiya",
+   "claimIds": [
+    "pif-giga-labour-abuses",
+    "saudi-executions-2026-record",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "Wholly PIF-owned giga-project and EWC Nexus/Founding Partner; HRW documents labour abuses across PIF-funded giga-project construction. Same serious tier as other PIF companies."
+  },
+  {
+   "sponsorId": "stc",
+   "tier": "serious",
+   "ownerId": "stc",
+   "claimIds": [
+    "saudi-executions-2026-record",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "EWC Elite and Founding Partner; PIF is the majority shareholder, so the sponsor carries Saudi state money. Same serious tier as other PIF-controlled sponsors."
+  },
+  {
+   "sponsorId": "saudia",
+   "tier": "serious",
+   "ownerId": "saudia",
+   "claimIds": [
+    "saudi-executions-2026-record",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "State flag carrier, PIF-controlled parent; EWC Strategic Partner and Official Airline. Matches the serious tier proposed for Saudia in the Saudi Pro League research."
+  },
+  {
+   "sponsorId": "aramco",
+   "tier": "serious",
+   "ownerId": "government-of-saudi-arabia",
+   "claimIds": [
+    "gov-saudi-arabia-record"
+   ],
+   "reasoning": "EWC Strategic Partner. Already rated serious for the state-ownership chain; no new rating needed, listed for completeness."
+  },
+  {
+   "sponsorId": "lenovo",
+   "tier": "concern",
+   "ownerId": "lenovo-group-ltd",
+   "claimIds": [
+    "lenovo-group-ltd-record"
+   ],
+   "reasoning": "EWC Strategic Partner. Already rated concern (indirect minority Chinese state link via Legend Holdings); no change."
+  },
+  {
+   "sponsorId": "pif",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2026-record",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "The fund sits behind the whole structure (foundation funding, Savvy, Qiddiya). Already carried in the data as unrated; proposing serious per the established PIF logic (FIFA research made the same proposal)."
+  }
+ ],
+ "unsourced": [
+  "Event-host shape: EWC is a tournament with a $75m prize pool, 25 tournaments in 24 games, 6 Jul - 23 Aug 2026 in Paris, 850m viewers, 440m hours watched, 2,000+ players from 100+ nationalities, 175,000 tickets sold (esportsworldcup.com homepage and /en/news/ewc26-in-numbers, 2026-09-11). The schema has no event entity, so these are recorded here, not as kits or clubs.",
+  "The 40 clubs of the 2026 EF Club Partner Program (official list, esportsworldcup.com/en/clubprogram): 100 Thieves, 9z Globant, All Gamers, Alpha7 Esports, Cloud9, Edward Gaming, Fluxo W7M, Fnatic, FURIA, FUT Esports, G2 Esports, GAM Esports, Gen.G, Gentle Mates, GodLike, HEROIC, JD Gaming, LEVIATAN, MOUZ, NAVI, NIP.eStar, NRG, ONIC, REJECT, S8UL, Sentinels, T1, Team Falcons, Team Heretics, Team Liquid, Team RRQ, Team Secret, Team Spirit, Team Vitality, Titan Esports Club, Twisted Minds, Virtus.pro, Weibo Gaming, Wolves Esports, ZETA DIVISION. The Club Partner Program pays a six-figure base per club, up to $1m per club, $20m committed in 2026, over $100m over three years. Program funding comes from the PIF-funded foundation; club-by-club ownership and kit sponsors were not researched in this run.",
+  "Club jersey patches and EWC-branded kit compliance: the EWC26 Participant Sponsorship Guidelines (esportsworldcup.com/en/participant-sponsorship-guidelines) require clubs to submit EWC26-compliant jersey designs four weeks before play, restrict permitted sponsor integrations in restricted areas to player performance kit (jersey, trousers, jacket/vest) and stage equipment, blacklist betting, alcohol, tobacco and other categories, and require neutral kits where compliance fails. Individual club jersey designs for EWC26 were not collected.",
+  "France's host fee for the 2026 Paris edition: 'it's unclear whether the government of France or any other entity associated with the city of Paris is paying for the right to host this year's Esports World Cup' (GamesBeat, 2026-05-14).",
+  "EWC partner deal values (stc, Qiddiya, Aramco, Saudia, Lenovo, Sony, Allianz, Hilton, OBSBOT, ALBAIK, Secretlab, Webook, NRJ) are not published; partner tiers are from esportsworldcup.com/en/partners and the homepage.",
+  "Sony (Strategic and Founding Partner through PlayStation) and Allianz (Strategic Partner) are on the EWC partners page; Sony's owner exists in the data as sony-group. Allianz's sponsor entry exists (ownerId allianz-se). Neither was given a new deal row beyond the partners-page listing because the relationship is event-level, not league-level in the schema's sense; their tier proposals belong with the existing entries.",
+  "Hilton (Main Partner, official hotel partner), OBSBOT, ALBAIK (Main Partners), NRJ (Official Radio Partner), Secretlab (Supplier Partner) are on the EWC partners page; no sponsor or owner entries were created for them in this run.",
+  "Team Falcons' financial backers have never been formally announced; Dot Esports reported the org is 'believed' to have connections with the Saudi royal family (Wikipedia lead, fetched but not citable). Twisted Minds is Saudi-owned (Ibrahim Bin Jibreen and Hatem Almukhailed per Wikipedia's infobox, lead only) and names Riyadh Season as its main sponsor; neither ownership fact was confirmed from a primary source in this run.",
+  "The foundation rename from 'Esports World Cup Foundation' to 'Esports Foundation' on 31 Mar 2026 comes from Wikipedia's Esports Foundation article (fetched as a lead); the strongest direct evidence found this run is that EWC's own 2026 pages already say 'Esports Foundation' and 'EF Club Partner Program' throughout.",
+  "Savvy bought ESL and FACEIT in 2022 (Wikipedia, fetched as lead; primary announcements not opened this run). Savvy's own site confirms it fully owns EFG today, which is what the chain here relies on.",
+  "The Esports Foundation postponed the inaugural Esports Nations Cup from Nov 2026 to Nov 2027, remaining in Riyadh (The Esports Advocate, 2026-08-18); ENC is not part of the EWC target's entities and was not modelled.",
+  "Qiddiya fully acquired Evo organizer RTS in 2025 (The Esports Advocate, 2025-09; the article URL was reached via a listing page, the underlying deal detail not independently verified this run).",
+  "Olympic Esports Games: the IOC and the Saudi Olympic and Paralympic Committee ended their 12-year hosting deal on 30 Oct 2025 (ESPN, cited via Wikipedia as lead); planning reportedly paused as of May 2026. Not modelled; no EWC rating depends on it."
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "formula-e",
+  "aliases": [
+    "formula e",
+    "fe",
+    "fia formula e",
+    "abb fia formula e world championship",
+    "electric racing",
+    "e-prix"
+  ],
+  "sportId": "motorsport",
+  "name": "ABB FIA Formula E World Championship",
+  "clubCount": 10,
+  "season": "2026-27",
+  "status": "partial",
+  "notes": [
+    "10 teams in Season 12 (2025-26, finished 16 Aug 2026) per the official fiaformulae.com teams page (fetched 2026-09-25): Andretti, Citroen Racing, Cupra Kiro, DS Penske, Envision Racing, Jaguar TCS Racing, Lola Yamaha ABT, Mahindra Racing, Nissan, Porsche.",
+    "Season 13 (2026-27, Gen4 era) opens with a Jeddah double-header on 18-19 Dec 2026; 21 rounds across 13 events and 11 countries per the official Season 13 calendar (fiaformulae.com, fetched 2026-09-25). The full Season 13 team list was not confirmed on the official site.",
+    "Season 13 changes already announced on fiaformulae.com news (fetched 2026-09-25): Envision Racing rebrands as Paysafe Envision with Paysafe as new Title Partner (2026-09-14); Fortescue Zero acquires the Penske Formula E operation and joins the grid for 2026-27 (2026-09-18, subject to FEO and FIA approval).",
+    "Team names on the official site carry manufacturer/title brands (Jaguar TCS, Cupra Kiro, DS Penske, Lola Yamaha ABT); team-title/name placement is mapped to the schema's front value. Car-livery placements do not fit the schema yet.",
+    "Series partners per fiaformulae.com/en/partners (fetched 2026-09-25): ABB (Title Partner), Google Cloud (Principal AI), PIF (Principal Partner), and Official Partners Antofagasta Minerals, Autoliv, DHL, Fortescue Zero, Infosys, SAUDIA and TDK, plus Official Providers Aggreko, Corpay, Hackett Sport, Lenovo, Sennheiser, Taittinger and Tata Communications."
+  ]
+}

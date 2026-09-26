@@ -1,0 +1,35 @@
+{
+  "id": "tottenham-hotspur-w-2026-27-home",
+  "clubId": "tottenham-hotspur-w",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "aia",
+      "placement": "front",
+      "source": {
+        "name": "Tottenham Hotspur, Kraken partnership announcement (AIA front carried over)",
+        "date": "2024-07-16",
+        "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+        "note": "The Kraken article names AIA only implicitly via the existing shirt deal; AIA as front sponsor across the club is carried from the men's 2026/27 kit in normalized. Women's-specific front confirmation not restated."
+      }
+    },
+    {
+      "sponsorId": "kraken",
+      "placement": "sleeve",
+      "source": {
+        "name": "Tottenham Hotspur, official announcement",
+        "date": "2024-07-16",
+        "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+        "note": "Kraken became the club's first Official Crypto and Web3 Partner and the Official Sleeve Partner for the club's Men's and Women's teams from 2024/25."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "AIA fronts the Tottenham Women shirt with crypto platform Kraken on the sleeve.",
+  "change": null
+}

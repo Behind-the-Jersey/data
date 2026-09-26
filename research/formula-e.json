@@ -1,0 +1,869 @@
+{
+ "target": "formula-e",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/265",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "formula-e",
+   "aliases": [
+    "formula e",
+    "fe",
+    "fia formula e",
+    "abb fia formula e world championship",
+    "electric racing",
+    "e-prix"
+   ],
+   "sportId": "motorsport",
+   "name": "ABB FIA Formula E World Championship",
+   "clubCount": 10,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "10 teams in Season 12 (2025-26, finished 16 Aug 2026) per the official fiaformulae.com teams page (fetched 2026-09-25): Andretti, Citroen Racing, Cupra Kiro, DS Penske, Envision Racing, Jaguar TCS Racing, Lola Yamaha ABT, Mahindra Racing, Nissan, Porsche.",
+    "Season 13 (2026-27, Gen4 era) opens with a Jeddah double-header on 18-19 Dec 2026; 21 rounds across 13 events and 11 countries per the official Season 13 calendar (fiaformulae.com, fetched 2026-09-25). The full Season 13 team list was not confirmed on the official site.",
+    "Season 13 changes already announced on fiaformulae.com news (fetched 2026-09-25): Envision Racing rebrands as Paysafe Envision with Paysafe as new Title Partner (2026-09-14); Fortescue Zero acquires the Penske Formula E operation and joins the grid for 2026-27 (2026-09-18, subject to FEO and FIA approval).",
+    "Team names on the official site carry manufacturer/title brands (Jaguar TCS, Cupra Kiro, DS Penske, Lola Yamaha ABT); team-title/name placement is mapped to the schema's front value. Car-livery placements do not fit the schema yet.",
+    "Series partners per fiaformulae.com/en/partners (fetched 2026-09-25): ABB (Title Partner), Google Cloud (Principal AI), PIF (Principal Partner), and Official Partners Antofagasta Minerals, Autoliv, DHL, Fortescue Zero, Infosys, SAUDIA and TDK, plus Official Providers Aggreko, Corpay, Hackett Sport, Lenovo, Sennheiser, Taittinger and Tata Communications."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "andretti-formula-e",
+   "name": "Andretti Formula E",
+   "shortName": "Andretti",
+   "code": "AND",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "Andretti Global"
+   ]
+  },
+  {
+   "id": "citroen-racing",
+   "name": "Citroen Racing",
+   "shortName": "Citroen",
+   "code": "CIT",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "Citroen Racing Formula E Team"
+   ]
+  },
+  {
+   "id": "cupra-kiro",
+   "name": "Cupra Kiro",
+   "shortName": "Cupra Kiro",
+   "code": "CKR",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "Kiro Race Co"
+   ]
+  },
+  {
+   "id": "ds-penske",
+   "name": "DS Penske",
+   "shortName": "DS Penske",
+   "code": "DSP",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "DS Automobiles Penske Formula E Team"
+   ]
+  },
+  {
+   "id": "envision-racing",
+   "name": "Envision Racing",
+   "shortName": "Envision",
+   "code": "ENV",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "Envision Formula E Team",
+    "Paysafe Envision Racing"
+   ]
+  },
+  {
+   "id": "jaguar-tcs-racing",
+   "name": "Jaguar TCS Racing",
+   "shortName": "Jaguar TCS",
+   "code": "JAG",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "Jaguar Racing"
+   ]
+  },
+  {
+   "id": "lola-yamaha-abt",
+   "name": "Lola Yamaha ABT Formula E Team",
+   "shortName": "Lola Yamaha ABT",
+   "code": "LYA",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "Lola Cars",
+    "ABT Formula E Team"
+   ]
+  },
+  {
+   "id": "mahindra-racing",
+   "name": "Mahindra Racing",
+   "shortName": "Mahindra",
+   "code": "MAH",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "India",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "nissan-formula-e",
+   "name": "Nissan Formula E Team",
+   "shortName": "Nissan",
+   "code": "NIS",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "Japan",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "porsche-formula-e",
+   "name": "Porsche Formula E Team",
+   "shortName": "Porsche",
+   "code": "POR",
+   "sportId": "motorsport",
+   "leagueId": "formula-e",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "TAG Heuer Porsche Formula E Team"
+   ]
+  }
+ ],
+ "owners": [],
+ "sponsors": [
+  {
+   "id": "abb",
+   "name": "ABB",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Asea Brown Boveri"
+   ],
+   "note": "Title Partner of the ABB FIA Formula E World Championship since 2018 (fiaformulae.com/en/partners/abb, fetched 2026-09-25). Ownership not researched in this pass; ABB Ltd is a Swiss-Swedish engineering group."
+  },
+  {
+   "id": "paysafe",
+   "name": "Paysafe",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Paysafe Limited"
+   ],
+   "note": "New Title Partner of Envision's Formula E team from 2026-27 (fiaformulae.com driver announcement, 2026-09-14). Ownership not researched in this pass."
+  },
+  {
+   "id": "tcs",
+   "name": "TCS (Tata Consultancy Services)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Tata Consultancy Services"
+   ],
+   "note": "Title/name partner in the Jaguar TCS Racing team name (fiaformulae.com team page, fetched 2026-09-25). Tata Sons ownership chain not researched in this pass."
+  },
+  {
+   "id": "fortescue-zero",
+   "name": "Fortescue Zero",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Fortescue"
+   ],
+   "note": "Formula E Official PIT BOOST Partner and, from 2026-27, a team entrant after acquiring the Penske Formula E operation (fiaformulae.com news, 2026-09-18). Fortescue is an Australian mining group; owner chain not researched here."
+  },
+  {
+   "id": "antofagasta-minerals",
+   "name": "Antofagasta Minerals",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Copper Mining Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "autoliv",
+   "name": "Autoliv",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Automotive Safety Awareness Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "tdk",
+   "name": "TDK",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "aggreko",
+   "name": "Aggreko",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Temporary Power Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "hackett-sport",
+   "name": "Hackett Sport",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Hackett"
+   ],
+   "note": "Official Apparel Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "sennheiser",
+   "name": "Sennheiser",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Sound Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "taittinger",
+   "name": "Taittinger",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Champagne (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "tata-communications",
+   "name": "Tata Communications",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Broadcast Distribution Provider (fiaformulae.com/en/partners, fetched 2026-09-25). Tata Sons ownership chain not researched in this pass."
+  }
+ ],
+ "kits": [
+  {
+   "id": "andretti-formula-e-2025-26-home",
+   "clubId": "andretti-formula-e",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "citroen-racing-2025-26-home",
+   "clubId": "citroen-racing",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "cupra-kiro-2025-26-home",
+   "clubId": "cupra-kiro",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "cupra",
+     "placement": "front",
+     "source": {
+      "name": "FIA Formula E - Cupra Kiro team page (CUPRA in team name)",
+      "date": "2026-09-25",
+      "url": "https://www.fiaformulae.com/en/teams/cupra-kiro"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "ds-penske-2025-26-home",
+   "clubId": "ds-penske",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "ds-automobiles",
+     "placement": "front",
+     "source": {
+      "name": "FIA Formula E - DS Penske team page (DS in team name)",
+      "date": "2026-09-25",
+      "url": "https://www.fiaformulae.com/en/teams/ds-penske"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "envision-racing-2025-26-home",
+   "clubId": "envision-racing",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "paysafe",
+     "placement": "front",
+     "source": {
+      "name": "FIA Formula E - Paysafe Envision announcement (new Title Partner from 2026-27)",
+      "date": "2026-09-14",
+      "url": "https://www.fiaformulae.com/en/news/drivers/max-guenther-joins-forces-with-paysafe-envision-racing-for-2026-27-formula-e-season"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "jaguar-tcs-racing-2025-26-home",
+   "clubId": "jaguar-tcs-racing",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "tcs",
+     "placement": "front",
+     "source": {
+      "name": "FIA Formula E - Jaguar TCS Racing team page (TCS in team name)",
+      "date": "2026-09-25",
+      "url": "https://www.fiaformulae.com/en/teams/jaguar-tcs-racing"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "lola-yamaha-abt-2025-26-home",
+   "clubId": "lola-yamaha-abt",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "mahindra-racing-2025-26-home",
+   "clubId": "mahindra-racing",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "nissan-formula-e-2025-26-home",
+   "clubId": "nissan-formula-e",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "porsche-formula-e-2025-26-home",
+   "clubId": "porsche-formula-e",
+   "season": "2025-26",
+   "kitType": "home",
+   "periodLabel": "Season 12 (2025/26)",
+   "periodFrom": "2025-26",
+   "periodTo": "2025-26",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  }
+ ],
+ "deals": [
+  {
+   "id": "formula-e-abb",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "abb",
+   "placement": "league-partner",
+   "from": "2018",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partner page",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners/abb",
+    "note": "ABB has been Official Title Partner since 2018; championship carries the 'ABB FIA Formula E World Championship' name."
+   }
+  },
+  {
+   "id": "formula-e-pif",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "pif",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partner page",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners/pif",
+    "note": "Start year not stated on the page; RaceFans reported the multi-year deal on 2024-01-22."
+   }
+  },
+  {
+   "id": "formula-e-saudia",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "saudia",
+   "placement": "league-partner",
+   "from": "2018-19",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partner page",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners/saudia",
+    "note": "Saudi national flag carrier; state-owned (PIF holds the controlling stake in parent Saudi Arabian Airlines Corporation, already recorded in normalized/)."
+   }
+  },
+  {
+   "id": "formula-e-google-cloud",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "google-cloud",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-dhl",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "dhl",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-infosys",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "infosys",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-lenovo",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "lenovo",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-corpay",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "corpay",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-antofagasta-minerals",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "antofagasta-minerals",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-autoliv",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "autoliv",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-fortescue-zero",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "fortescue-zero",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-tdk",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "tdk",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-aggreko",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "aggreko",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-hackett-sport",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "hackett-sport",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-sennheiser",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "sennheiser",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-taittinger",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "taittinger",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "formula-e-tata-communications",
+   "clubId": null,
+   "orgName": "Formula E",
+   "sponsorId": "tata-communications",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/partners"
+   }
+  },
+  {
+   "id": "paysafe-envision-paysafe",
+   "clubId": "envision-racing",
+   "orgName": null,
+   "sponsorId": "paysafe",
+   "placement": "front",
+   "from": "2026-27",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Max Gunther joins forces with Paysafe Envision Racing for 2026/27 Formula E season (new Title Partner, team rebrand)",
+    "date": "2026-09-14",
+    "url": "https://www.fiaformulae.com/en/news/drivers/max-guenther-joins-forces-with-paysafe-envision-racing-for-2026-27-formula-e-season",
+    "note": "Announcement says the British squad 'welcomes a new Title Partner'; team now 'Paysafe Envision Formula E Team'. Placement front is the site's mapping of team title/name, following the MotoGP precedent."
+   }
+  },
+  {
+   "id": "cupra-kiro-cupra",
+   "clubId": "cupra-kiro",
+   "orgName": null,
+   "sponsorId": "cupra",
+   "placement": "front",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Cupra Kiro team page (CUPRA brand in the team identity)",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/teams/cupra-kiro",
+    "note": "CUPRA is embedded in the team name 'CUPRA KIRO'; the page does not label the tier. Placement front is the site's mapping of team title/name."
+   }
+  },
+  {
+   "id": "jaguar-tcs-tcs",
+   "clubId": "jaguar-tcs-racing",
+   "orgName": null,
+   "sponsorId": "tcs",
+   "placement": "front",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - Jaguar TCS Racing team page (TCS in the team name)",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/teams/jaguar-tcs-racing",
+    "note": "Team name 'JAGUAR TCS RACING'; TCS start year and terms not stated. Placement front is the site's mapping of team title/name."
+   }
+  },
+  {
+   "id": "ds-penske-ds",
+   "clubId": "ds-penske",
+   "orgName": null,
+   "sponsorId": "ds-automobiles",
+   "placement": "front",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA Formula E - DS Penske team page (DS brand in the team name)",
+    "date": "2026-09-25",
+    "url": "https://www.fiaformulae.com/en/teams/ds-penske",
+    "note": "Team name 'DS PENSKE', car DS E-Tense FE25; Penske operation acquired by Fortescue Zero for 2026-27 (2026-09-18 announcement, subject to FEO and FIA approval). Placement front is the site's mapping of team title/name."
+   }
+  }
+ ],
+ "claims": [],
+ "proposedRatings": [
+  {
+   "sponsorId": "pif",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment",
+    "pif-giga-labour-abuses"
+   ],
+   "reasoning": "PIF is a Formula E Principal Partner and the sole principal partner spanning Formula E, Extreme E and E1 under the 'Electric 360' partnership (fiaformulae.com partner page, fetched 2026-09-25); RaceFans reported the multi-year deal on 2024-01-22. PIF is the Saudi sovereign wealth fund chaired by Crown Prince Mohammed bin Salman, so the series runs on Saudi state money. The state's record - a record 345 executions in 2024 and the Khashoggi assessment - and HRW's giga-project labour-abuse findings give serious, with severe reserved for live armed conflict, matching how PIF was rated at LIV Golf and the ATP."
+  },
+  {
+   "sponsorId": "saudia",
+   "tier": "serious",
+   "ownerId": "saudia",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "Saudia is the Saudi national flag carrier and has been Formula E's Official Airline Partner since 2018/19 (fiaformulae.com partner page). Its owner chain in normalized/ already runs to PIF and the Saudi state. Same Saudi state money and record as PIF -> serious."
+  },
+  {
+   "sponsorId": "abb",
+   "tier": "none",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "ABB has been the championship's Title Partner since 2018 (fiaformulae.com/en/partners/abb). ABB Ltd is a Swiss-Swedish listed engineering group with no state or fund owner identified in this pass; no adverse claims found in this research, so 'none' as a default-tier proposal for a person to confirm."
+  }
+ ],
+ "unsourced": [
+  "EVENT-HOST SHAPE - the Season 13 (2026/27) calendar, 21 rounds across 13 events and 11 countries, from the official announcement (fiaformulae.com/en/news/races/season-13-calendar-where-will-formula-e-be-racing-in-202627, published June 2026, fetched 2026-09-25): Jeddah double-header 18-19 Dec 2026 (Jeddah Corniche Circuit, night races, GEN4 competitive debut, first Saudi season opener since 2021/22); Mexico City 16 Jan 2027; Austin/COTA 6 Feb 2027; Miami 20 Feb 2027; Sao Paulo 13 Mar 2027; Sanya/Haitang Bay 17 Apr 2027; Monaco 1-2 May 2027; Berlin/Tempelhof 8-9 May 2027; London/Brands Hatch 29-30 May 2027; Zandvoort 18-19 Jun 2027 (first Dutch race); Madrid/Jarama 26-27 Jun 2027; Shanghai 10-11 Jul 2027; Tokyo 24-25 Jul 2027 (first title-deciding night double-header in Japan). The event-host shape does not fit the schema yet.",
+  "EVENT-HOST SHAPE - Saudi host: the Jeddah E-Prix article (fiaformulae.com/en/news/races/a-new-chapter-begins-secure-your-tickets-for-the-2026-jeddah-e-prix, 2026-09-21) names no promoter or host organisation and no race title sponsor; tickets are sold via WeBook from SAR 115. The Season 12 Jeddah rounds ran 13-14 Feb 2026. A related item notes 'Saudi Arabia wins Formula E's inaugural Best Host Country award'. Who pays the host fee and which Saudi body is the promoter is unsourced.",
+  "EVENT-HOST SHAPE - race titles on the official site's partner news: the 2026 CUPRA Raval Madrid E-Prix ran 26 Mar 2026 at Circuito del Jarama (fiaformulae.com/en/news/partners/watch-best-overtakes-from-the-2026-cupra-raval-madrid-e-prix); CUPRA was also reported as 'Founding and Title Partner of Madrid E-Prix' in a news headline linked from the Cupra Kiro team page, but the announcement article itself was not opened. 'Lianxin' appears in the official race title '2026 Lianxin Sanya E-Prix' without explanation (fiaformulae.com partners news); China Duty Free Mall (CDF Mall, operated by China Duty Free Group, a subsidiary of state-owned China Tourism Group) was announced as an Official Partner of that race on 2026-06-18.",
+  "EVENT-HOST SHAPE - Chinese host cities: Sanya (17 Apr 2027) and Shanghai (10-11 Jul 2027) host three Season 13 rounds per the official calendar; the promoter entities and any state or municipal funding are not identified in any source opened. The targets brief's lead that they are run by 'Chinese local and municipal authorities' remains unverified.",
+  "EVENT-HOST SHAPE - PIF's wider Electric 360 footprint: RaceFans (2024-01-22) reported PIF backs Formula E, Extreme E and E1 under the Electric 360 brand; the fiaformulae.com PIF partner page confirms the multi-year partnership and the three-series span but gives no term or value. A Gulf News search result also reported PIF-owned Seven Entertainment signed a karting partnership with Formula E - not verified.",
+  "CAR-LIVERY SHAPE - team liveries do not fit the kit schema. Known from the Season 12 official team pages (fetched 2026-09-25): Andretti runs Porsche 99X Electric (customer); Citroen Racing runs Citroen e-CX; Cupra Kiro runs Porsche 99X Electric WCG3 and continues as a Porsche customer team in 2026/27; DS Penske runs DS E-Tense FE25; Envision Racing runs Jaguar I-Type 7 (customer); Jaguar TCS Racing runs Jaguar I-Type 7; Lola Yamaha ABT runs Lola-Yamaha T001; Mahindra Racing runs Mahindra M12Electro; Nissan runs Nissan e-4ORCE 05; Porsche runs Porsche 99X Electric. All on Hankook tyres (2025-26 season article on Wikipedia, used as a lead only).",
+  "CAR-LIVERY SHAPE - TAG Heuer ended its six-season title sponsorship of the Porsche Formula E team ahead of Season 12 (2025-26 season article on Wikipedia, used as a lead only; the official Porsche team page now shows no title sponsor and no TAG Heuer). Porsche's team page: fiaformulae.com/en/teams/porsche-formula-e-team.",
+  "CAR-LIVERY SHAPE - Lola Cars extended its technical partnership with Yamaha Motor through the GEN4 era (fiaformulae.com/en/news/partners/lola-cars-extend-technical-partnership-with-yamaha-motor-through-gen4); this is a technical partnership, not a shirt-style sponsorship.",
+  "Season 13 grid not fully confirmed: the official site had not published a Season 13 team list (fetched 2026-09-25). Announced changes: Envision Racing rebrands as Paysafe Envision Formula E Team with Paysafe as new Title Partner (fiaformulae.com, 2026-09-14); Fortescue Zero acquires the Penske Formula E operation and joins the grid in 2026-27 'subject to FEO and FIA approval' (fiaformulae.com, 2026-09-18), which puts the DS Penske entry's future in doubt; Max Gunther moved from DS Penske to Paysafe Envision and Zak O'Sullivan was confirmed there. Whether all ten Season 12 teams continue in Season 13 is unsourced.",
+  "Sponsor deal values: no financial terms are published on fiaformulae.com for any of the 17 series partners; the PIF term is described only as 'multi-year' (RaceFans, 2024-01-22) with no figure.",
+  "Club countries in this file are the teams' racing nationalities as shown by the flags in the 2025-26 Formula E season article on Wikipedia (used as a lead; the official team pages do not state bases or headquarters).",
+  "Formula E unveiled a new brand identity as it enters the GEN4 era (fiaformulae.com/en/news/culture/formula-e-unveils-bold-new-identity-as-it-accelerates-into-next-era); not further researched.",
+  "Disney+ was announced as the global streaming home of Formula E (fiaformulae.com/en/news/partners/disney-to-become-global-streaming-partner-of-formula-e); tier and start date not established. Other partners-news items not fully opened: OUTFRONT (Official OOH Partner), Top Trumps, MrBeast/Feastables, Sennheiser sound partnership, Infosys Stats Centre, Google Cloud descriptive audio."
+ ]
+}

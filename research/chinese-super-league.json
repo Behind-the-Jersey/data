@@ -1,0 +1,555 @@
+{
+  "target": "chinese-super-league",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/274",
+  "sports": [],
+  "leagues": [
+    {
+      "id": "chinese-super-league",
+      "aliases": [
+        "Chinese Super League",
+        "CSL",
+        "中超联赛",
+        "C'estbon Chinese Football Association Super League"
+      ],
+      "sportId": "soccer",
+      "name": "Chinese Football Super League",
+      "status": "partial",
+      "country": "China",
+      "clubCount": 16,
+      "season": "2026-27",
+      "notes": [
+        "Top division of Chinese football, 23rd CSL season, running 6 March to 8 November 2026 with 16 clubs.",
+        "Title sponsor C'estbon (CR Beverage); strategic partners Nike and Migu; partners Lenovo and Tsingtao; game partner Tencent FC Online; media partners CCTV Sports and Migu, per the league's official competitions page.",
+        "Club-level shirt sponsors and club ownership chains not yet sourced from primary documents."
+      ]
+    }
+  ],
+  "clubs": [
+    {
+      "id": "beijing-guoan",
+      "name": "Beijing Guoan",
+      "shortName": "Guoan",
+      "code": "BJG",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "北京国安",
+        "Beijing Sinobo Guoan"
+      ]
+    },
+    {
+      "id": "shanghai-port",
+      "name": "Shanghai Port",
+      "shortName": "Port",
+      "code": "SHP",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "上海海港",
+        "Shanghai Haigang",
+        "SIPG"
+      ]
+    },
+    {
+      "id": "chengdu-rongcheng",
+      "name": "Chengdu Rongcheng",
+      "shortName": "Rongcheng",
+      "code": "CRG",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "成都蓉城"
+      ]
+    },
+    {
+      "id": "chongqing-tonglianglong",
+      "name": "Chongqing Tonglianglong",
+      "shortName": "Tonglianglong",
+      "code": "CTL",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "重庆铜梁龙"
+      ]
+    },
+    {
+      "id": "dalian-yingbo",
+      "name": "Dalian Yingbo",
+      "shortName": "Yingbo",
+      "code": "DLY",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "大连英博"
+      ]
+    },
+    {
+      "id": "henan",
+      "name": "Henan",
+      "shortName": "Henan",
+      "code": "HEN",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "河南",
+        "Henan FC",
+        "Henan Songshan Longmen"
+      ]
+    },
+    {
+      "id": "liaoning-tieren",
+      "name": "Liaoning Tieren",
+      "shortName": "Tieren",
+      "code": "LNT",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "辽宁铁人"
+      ]
+    },
+    {
+      "id": "qingdao-hainiu",
+      "name": "Qingdao Hainiu",
+      "shortName": "Hainiu",
+      "code": "QDH",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "青岛海牛",
+        "Qingdao Mane"
+      ]
+    },
+    {
+      "id": "qingdao-west-coast",
+      "name": "Qingdao West Coast",
+      "shortName": "West Coast",
+      "code": "QDW",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "青岛西海岸"
+      ]
+    },
+    {
+      "id": "shandong-taishan",
+      "name": "Shandong Taishan",
+      "shortName": "Taishan",
+      "code": "SDT",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "山东泰山",
+        "Shandong Luneng"
+      ]
+    },
+    {
+      "id": "shanghai-shenhua",
+      "name": "Shanghai Shenhua",
+      "shortName": "Shenhua",
+      "code": "SHS",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "上海申花"
+      ]
+    },
+    {
+      "id": "shenzhen-peng-city",
+      "name": "Shenzhen Peng City",
+      "shortName": "Peng City",
+      "code": "SZP",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "深圳新鹏城",
+        "Shenzhen Peng City FC"
+      ]
+    },
+    {
+      "id": "tianjin-jinmen-tiger",
+      "name": "Tianjin Jinmen Tiger",
+      "shortName": "Jinmen Tiger",
+      "code": "TJT",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "天津津门虎",
+        "Tianjin Jinmen Tiger FC"
+      ]
+    },
+    {
+      "id": "wuhan-three-towns",
+      "name": "Wuhan Three Towns",
+      "shortName": "Three Towns",
+      "code": "WHT",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "武汉三镇"
+      ]
+    },
+    {
+      "id": "yunnan-yukun",
+      "name": "Yunnan Yukun",
+      "shortName": "Yukun",
+      "code": "YNY",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "云南玉昆"
+      ]
+    },
+    {
+      "id": "zhejiang",
+      "name": "Zhejiang",
+      "shortName": "Zhejiang",
+      "code": "ZJG",
+      "sportId": "soccer",
+      "leagueId": "chinese-super-league",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "浙江",
+        "Zhejiang FC",
+        "Zhejiang Professional"
+      ]
+    }
+  ],
+  "owners": [
+    {
+      "id": "china-resources-group",
+      "name": "China Resources (Group) Co., Ltd.",
+      "type": "state",
+      "country": "China",
+      "parentId": null,
+      "note": "State-owned conglomerate headquartered in Hong Kong, founded 1938; under the direct supervision of China's SASAC since 2003 and described on its own site as a centrally managed state-owned key backbone enterprise.",
+      "via": "China's State-owned Assets Supervision and Administration Commission (SASAC)"
+    },
+    {
+      "id": "cr-beverage",
+      "name": "CR Beverage",
+      "type": "listed-company",
+      "country": "China",
+      "parentId": "china-resources-group",
+      "note": "China Resources Beverage (Holdings) Co., Ltd., listed on HKEX under ticker 02460, headquartered in Nanshan, Shenzhen; describes itself on its own site as a core business unit under China Resources (Group) Co., Ltd. Maker of the C'estbon (怡宝) brand."
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "cestbon",
+      "name": "C'estbon",
+      "ownerId": "cr-beverage",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "怡宝",
+        "Yibao",
+        "CR Beverage",
+        "China Resources Beverage"
+      ],
+      "note": "Bottled-water brand of CR Beverage (HKEX 02460); title sponsor of the Chinese Football Super League."
+    },
+    {
+      "id": "migu",
+      "name": "Migu",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "咪咕",
+        "Migu Video",
+        "咪咕视频"
+      ],
+      "note": "Chinese streaming platform; strategic partner and media partner of the CSL. Ownership (widely reported as a China Mobile subsidiary) not verified from a primary document."
+    },
+    {
+      "id": "tsingtao",
+      "name": "Tsingtao Brewery",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "青岛啤酒",
+        "Tsingtao"
+      ],
+      "note": "Chinese brewer; CSL partner per the league's official site. Ownership (listed in Hong Kong and Shanghai, with a state-linked shareholder base) not verified from a primary document."
+    },
+    {
+      "id": "tencent-fc-online",
+      "name": "Tencent FC Online",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "FC Online足球在线",
+        "FC Online",
+        "Tencent Games FC Online"
+      ],
+      "note": "Tencent Games football game, official CSL game partner per the league's official site."
+    },
+    {
+      "id": "cctv-sports",
+      "name": "CCTV Sports",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "央视体育",
+        "CCTV-5",
+        "China Media Group Sports"
+      ],
+      "note": "State broadcaster's sports channel, CSL media partner per the league's official site. Ownership not verified from a primary document."
+    }
+  ],
+  "kits": [],
+  "deals": [
+    {
+      "id": "csl-cestbon-title",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "cestbon",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (title sponsor tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "Title sponsor of the league."
+    },
+    {
+      "id": "csl-nike-strategic",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "nike",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (strategic partner tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "Strategic partner of the league."
+    },
+    {
+      "id": "csl-migu-strategic",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "migu",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (strategic partner tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "Strategic partner of the league, alongside its role as media partner."
+    },
+    {
+      "id": "csl-lenovo-partner",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "lenovo",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (partner tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "League partner."
+    },
+    {
+      "id": "csl-tsingtao-partner",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "tsingtao",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (partner tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "League partner."
+    },
+    {
+      "id": "csl-tencent-fc-online-game",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "tencent-fc-online",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (game partner tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "Official game partner."
+    },
+    {
+      "id": "csl-cctv-sports-media",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "cctv-sports",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (media partner tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "Media partner."
+    },
+    {
+      "id": "csl-migu-media",
+      "clubId": null,
+      "orgName": "Chinese Football Super League",
+      "sponsorId": "migu",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Chinese Football Super League official site, competitions page (media partner tier)",
+        "date": "2026-09-25",
+        "url": "https://www.cfl-china.cn/zh/competitions.html?competition_code=CSL"
+      },
+      "leagueId": "chinese-super-league",
+      "note": "Media partner alongside CCTV Sports and the Migu app; Migu also appears as a strategic partner, listed once here per role."
+    }
+  ],
+  "claims": [
+    {
+      "id": "csl-crc-sasac-2003",
+      "ownerIds": [
+        "china-resources-group",
+        "cr-beverage"
+      ],
+      "text": "China Resources (Group) Co., Ltd. was placed under the direct supervision of China's State-owned Assets Supervision and Administration Commission (SASAC) in 2003 and is a centrally managed state-owned key backbone enterprise, according to the group's own corporate overview page.",
+      "short": "China Resources Group is directly supervised by China's SASAC (state-owned).",
+      "source": {
+        "name": "China Resources (Group) Co., Ltd. corporate overview",
+        "date": "2026-09-25",
+        "url": "https://www.crc.com.hk/about/overview/Introduction/"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "csl-crb-under-crc",
+      "ownerIds": [
+        "cr-beverage"
+      ],
+      "text": "CR Beverage (China Resources Beverage (Holdings) Co., Ltd., HKEX 02460) describes itself as a core business unit under China Resources (Group) Co., Ltd., headquartered in Nanshan, Shenzhen, according to the company's own website.",
+      "short": "CR Beverage is a core business unit of state-owned China Resources Group.",
+      "source": {
+        "name": "CR Beverage company website, about page",
+        "date": "2026-09-25",
+        "url": "https://www.crbeverage.com/"
+      },
+      "reviewed": false
+    }
+  ],
+  "proposedRatings": [
+    {
+      "sponsorId": "cestbon",
+      "tier": "concern",
+      "ownerId": "cr-beverage",
+      "claimIds": [
+        "csl-crc-sasac-2003",
+        "csl-crb-under-crc"
+      ],
+      "reasoning": "C'estbon's owner CR Beverage is a listed subsidiary of China Resources Group, a centrally managed state-owned enterprise directly supervised by China's SASAC (per the group's own site). A wholly state-linked chain, but no human-rights abuse record was found or reviewed in this pass, so the lesser 'concern' tier fits rather than 'serious'."
+    },
+    {
+      "sponsorId": "etihad-airways",
+      "tier": "serious",
+      "ownerId": "government-of-abu-dhabi",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "uae-mass-trial-upheld-2025"
+      ],
+      "reasoning": "Already rated 'serious' in normalized data (owned by the Government of Abu Dhabi, with the 2024 UAE mass-trial claims). Reconfirmed here only because Etihad appears on a CSL shirt for the first time, as front-of-shirt sponsor of Shenzhen Peng City; no new research was needed."
+    }
+  ],
+  "unsourced": [
+    "Chest-sponsor table for the 2026 CSL season, found on the Wikipedia '2026 Chinese Super League' page (lead only, not yet confirmed on club or press pages): Beijing Guoan - Sinobo Group; Chengdu Rongcheng - Epicland; Chongqing Tonglianglong - Southwest Securities; Dalian Yingbo - Xiwang; Henan - Yangshao Wine; Liaoning Tieren - Xinglin Nanbo One / Shengjing Store; Qingdao Hainiu - Laoshan Cola; Qingdao West Coast - Xihai'an New Area / Golden Beach Beer City; Shandong Taishan - 'The Best Spring in the World' (Baotu Spring); Shanghai Port - Bank of Shanghai; Shanghai Shenhua - Bank of Communications; Shenzhen Peng City - Etihad Airways; Tianjin Jinmen Tiger - Tianjin National Maritime Museum / TEDA Nangang Group; Wuhan Three Towns - Huayuan Securities; Yunnan Yukun - Yunnan Yukun (self-sponsored); Zhejiang - Leapmotor.",
+    "Nike as kit supplier for all 2026 CSL clubs comes from a footnote on the same Wikipedia page; not yet confirmed from Nike or club kit-launch pages, so no kits entries were written.",
+    "Shenzhen Peng City ownership: widely reported as City Football Group about 47% with China's Jianteng Fund about 53% (Wikipedia lead); no primary filing opened.",
+    "Shanghai Port ownership: Shanghai International Port Group (SIPG), majority-held by the Shanghai municipal government, about 61.07% (Wikipedia lead); no primary filing opened.",
+    "Shandong Taishan ownership: Shandong Electric Power Group, part of State Grid (Wikipedia lead); no primary filing opened.",
+    "Beijing Guoan ownership: Sinobo Group majority stake with CITIC involvement (Wikipedia lead); no primary filing opened.",
+    "CR Beverage's exact controlling-shareholder percentage on HKEX could not be confirmed: HKEX quote and disclosure pages are JavaScript-rendered templates that return no data.",
+    "Migu's ownership by China Mobile (a state-owned telecom operator) is widely reported but was not verified from a primary document.",
+    "Tsingtao Brewery's shareholder structure (state-linked, listed in Hong Kong and Shanghai) not verified from a primary document.",
+    "Tencent FC Online's parent Tencent and CCTV Sports' parent China Media Group were not researched from primary documents.",
+    "Club ownership chains for the remaining CSL clubs (Chengdu Rongcheng, Chongqing Tonglianglong, Dalian Yingbo, Henan, Liaoning Tieren, Qingdao Hainiu, Qingdao West Coast, Shanghai Shenhua, Tianjin Jinmen Tiger, Wuhan Three Towns, Yunnan Yukun, Zhejiang) were not researched from primary documents.",
+    "League season dates (6 March to 8 November 2026) and the 16-club list rest on the Wikipedia 2026 CSL page and the league's official site; official cfl-china.cn pages are JavaScript-heavy, so the partner tiers above come from that single official page fetched on 25 Sep 2026."
+  ]
+}

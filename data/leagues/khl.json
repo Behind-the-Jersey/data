@@ -1,0 +1,21 @@
+{
+  "id": "khl",
+  "aliases": [
+    "Kontinental Hockey League",
+    "FONBET KHL Championship",
+    "КХЛ"
+  ],
+  "sportId": "ice-hockey",
+  "name": "Kontinental Hockey League (KHL)",
+  "country": "Russia",
+  "clubCount": 22,
+  "season": "2026-27",
+  "status": "partial",
+  "notes": [
+    "22 clubs: 19 Russian, plus Dinamo Minsk (Belarus), Barys Astana (Kazakhstan) and Shanghai Dragons (China).",
+    "Title partner FONBET: the league championship is branded 'FONBET KHL Championship'; KHL.ru (2026-05-29) reported the title deal extended to 2027/28.",
+    "Russian clubs remain barred from IIHF competitions in 2026-27; the IIHF Council reaffirmed the ban on 2026-07-30.",
+    "khl.ru and several club sites return HTTP 403 to automated fetches; partner data was taken from club partner pages and a syndicated 2026-27 KHL partner widget on club sites.",
+    "No front-of-shirt (jersey) sponsor placements could be documented from reachable sources; kit entries carry sourced club partners with placement 'partner' and sponsorsComplete false."
+  ]
+}

@@ -1,0 +1,1515 @@
+{
+ "target": "world-rugby",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/255",
+ "sports": [
+  {
+   "id": "rugby",
+   "label": "Rugby union",
+   "status": "not-mapped",
+   "aliases": [
+    "rugby union",
+    "rugby world cup",
+    "sevens",
+    "svns"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "world-rugby",
+   "aliases": [
+    "World Rugby",
+    "Rugby World Cup",
+    "RWC 2027",
+    "HSBC SVNS",
+    "World Rugby Sevens Series",
+    "Nations Championship"
+   ],
+   "sportId": "rugby",
+   "name": "World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)",
+   "country": "Global",
+   "clubCount": 24,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "Governing-body shape, modelled like FIFA/ICC: one partner list covering World Rugby's properties in the 2026-27 window - Men's Rugby World Cup 2027 (Australia, 1 Oct - 13 Nov 2027, 24 teams) and the HSBC SVNS Series and World Championship 2026-27 (nine events, 28 Nov 2026 - 30 May 2027).",
+    "World Rugby partner tiers (world.rugby header/footer, fetched 2026-09-25): Platinum Partner Emirates; Global Partners Macron, HSBC, WizTeam.",
+    "RWC 2027 partner tiers (rugbyworldcup.com/2027/en/partners, fetched 2026-09-25): Principal Partners Emirates, Asahi Super Dry, Visa; Official Partners LIQUI MOLY, Coca-Cola, IHG Hotels & Resorts; Official Suppliers & Supporters Dove Men+Care, Gilbert, Macron, LipovitanD (Taisho Pharmaceutical), Mitsubishi Estate, Meiji, Fanatics, Ticketmaster, ChildFund Rugby. Footer also shows Tourism Australia and the NSW, Queensland, South Australia, Western Australia and Victoria governments as host destination partners.",
+    "HSBC SVNS 2026-27 (world.rugby/news/1045878, 28 Jul 2026): Dubai 28-29 Nov, Cape Town 5-6 Dec, Singapore 30-31 Jan 2027, Perth 6-7 Feb, Vancouver 6-7 Mar, New York 13-14 Mar; World Championship: Hong Kong 9-11 Apr, Valladolid 21-23 May, Bordeaux 28-30 May 2027.",
+    "The World Rugby Nations Championship (inaugural 2026, finals at Twickenham; 2028 finals in Doha) is a separate World Rugby property. Its reported Qatar Airways title sponsorship (GBP 80m, eight years to 2034) was agreed but unsigned as of 25 Jun 2026 and paused amid Middle East tensions; no World Rugby announcement confirming it had been published as of 25 Sep 2026, so it is recorded in unsourced, not as a deal.",
+    "RWC 2027 team-level shirt sponsors of the 24 national unions are not yet in this file (each union must be checked separately); verified union partner lists for three unions are recorded in unsourced."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "rugby-new-zealand",
+   "name": "New Zealand",
+   "shortName": "New Zealand",
+   "code": "NZL",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "New Zealand",
+   "crest": null,
+   "aliases": [
+    "all blacks",
+    "nzl"
+   ]
+  },
+  {
+   "id": "rugby-australia",
+   "name": "Australia",
+   "shortName": "Australia",
+   "code": "AUS",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "wallabies",
+    "host"
+   ]
+  },
+  {
+   "id": "rugby-chile",
+   "name": "Chile",
+   "shortName": "Chile",
+   "code": "CHI",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Chile",
+   "crest": null,
+   "aliases": [
+    "condors",
+    "chi"
+   ]
+  },
+  {
+   "id": "rugby-hong-kong-china",
+   "name": "Hong Kong China",
+   "shortName": "Hong Kong China",
+   "code": "HKG",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Hong Kong",
+   "crest": null,
+   "aliases": [
+    "hong kong",
+    "debutants"
+   ]
+  },
+  {
+   "id": "rugby-south-africa",
+   "name": "South Africa",
+   "shortName": "South Africa",
+   "code": "RSA",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "South Africa",
+   "crest": null,
+   "aliases": [
+    "springboks",
+    "defending champions"
+   ]
+  },
+  {
+   "id": "rugby-italy",
+   "name": "Italy",
+   "shortName": "Italy",
+   "code": "ITA",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "azzurri"
+   ]
+  },
+  {
+   "id": "rugby-georgia",
+   "name": "Georgia",
+   "shortName": "Georgia",
+   "code": "GEO",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Georgia",
+   "crest": null,
+   "aliases": [
+    "loros"
+   ]
+  },
+  {
+   "id": "rugby-romania",
+   "name": "Romania",
+   "shortName": "Romania",
+   "code": "ROU",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Romania",
+   "crest": null,
+   "aliases": [
+    "stejarii",
+    "oaks"
+   ]
+  },
+  {
+   "id": "rugby-argentina",
+   "name": "Argentina",
+   "shortName": "Argentina",
+   "code": "ARG",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Argentina",
+   "crest": null,
+   "aliases": [
+    "los pumas"
+   ]
+  },
+  {
+   "id": "rugby-fiji",
+   "name": "Fiji",
+   "shortName": "Fiji",
+   "code": "FIJ",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Fiji",
+   "crest": null,
+   "aliases": [
+    "flying fijians"
+   ]
+  },
+  {
+   "id": "rugby-spain",
+   "name": "Spain",
+   "shortName": "Spain",
+   "code": "ESP",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "los leones"
+   ]
+  },
+  {
+   "id": "rugby-canada",
+   "name": "Canada",
+   "shortName": "Canada",
+   "code": "CAN",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Canada",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "rugby-ireland",
+   "name": "Ireland",
+   "shortName": "Ireland",
+   "code": "IRE",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Ireland",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "rugby-scotland",
+   "name": "Scotland",
+   "shortName": "Scotland",
+   "code": "SCO",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Scotland",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "rugby-uruguay",
+   "name": "Uruguay",
+   "shortName": "Uruguay",
+   "code": "URU",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Uruguay",
+   "crest": null,
+   "aliases": [
+    "los teros"
+   ]
+  },
+  {
+   "id": "rugby-portugal",
+   "name": "Portugal",
+   "shortName": "Portugal",
+   "code": "POR",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Portugal",
+   "crest": null,
+   "aliases": [
+    "os lobos"
+   ]
+  },
+  {
+   "id": "rugby-france",
+   "name": "France",
+   "shortName": "France",
+   "code": "FRA",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "les bleus"
+   ]
+  },
+  {
+   "id": "rugby-japan",
+   "name": "Japan",
+   "shortName": "Japan",
+   "code": "JPN",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "brave blossoms"
+   ]
+  },
+  {
+   "id": "rugby-usa",
+   "name": "USA",
+   "shortName": "USA",
+   "code": "USA",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "USA",
+   "crest": null,
+   "aliases": [
+    "eagles",
+    "united states"
+   ]
+  },
+  {
+   "id": "rugby-samoa",
+   "name": "Samoa",
+   "shortName": "Samoa",
+   "code": "SAM",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Samoa",
+   "crest": null,
+   "aliases": [
+    "manu samoa"
+   ]
+  },
+  {
+   "id": "rugby-england",
+   "name": "England",
+   "shortName": "England",
+   "code": "ENG",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "England",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "rugby-wales",
+   "name": "Wales",
+   "shortName": "Wales",
+   "code": "WAL",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Wales",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "rugby-tonga",
+   "name": "Tonga",
+   "shortName": "Tonga",
+   "code": "TGA",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Tonga",
+   "crest": null,
+   "aliases": [
+    "ikale tahi"
+   ]
+  },
+  {
+   "id": "rugby-zimbabwe",
+   "name": "Zimbabwe",
+   "shortName": "Zimbabwe",
+   "code": "ZIM",
+   "sportId": "rugby",
+   "leagueId": "world-rugby",
+   "country": "Zimbabwe",
+   "crest": null,
+   "aliases": [
+    "sables",
+    "debutants"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "intercontinental-hotels-group",
+   "name": "InterContinental Hotels Group PLC",
+   "type": "listed-company",
+   "country": "United Kingdom",
+   "parentId": null,
+   "note": "IHG Hotels & Resorts is the consumer brand of InterContinental Hotels Group PLC (ihgplc.com); UK-listed with US ADRs."
+  },
+  {
+   "id": "live-nation-entertainment",
+   "name": "Live Nation Entertainment",
+   "type": "listed-company",
+   "country": "USA",
+   "parentId": null,
+   "note": "Ticketmaster's parent group; primary ownership statement not opened this pass (see unsourced)."
+  },
+  {
+   "id": "grays-of-cambridge",
+   "name": "Grays of Cambridge",
+   "type": "private-company",
+   "country": "United Kingdom",
+   "parentId": null,
+   "note": "Footer of gilbertrugby.com reads '(c) 2026 Grays of Cambridge. All rights reserved.' - the Gilbert Rugby brand's company."
+  },
+  {
+   "id": "unilever",
+   "name": "Unilever plc",
+   "type": "listed-company",
+   "parentId": null,
+   "country": "United Kingdom",
+   "note": "LSE-listed consumer goods group; Dove Men+Care is one of its brands."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "emirates",
+   "name": "Emirates",
+   "ownerId": "government-of-dubai",
+   "ownership": "owned",
+   "tier": "serious",
+   "status": "rated",
+   "verdict": "The airline is owned by the Dubai government's investment arm.",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "aliases": [
+    "dubai"
+   ],
+   "ownerVerb": "owned by",
+   "note": "World Rugby Platinum Partner and Principal Partner of the men's and women's Rugby World Cups through 2035; Fly Better branding on all match officials at RWCs and international fixtures; event title of the Dubai SVNS opener (Emirates Dubai 7s). Reuses the existing rated entry - no sponsor record written here.",
+   "why": {
+    "text": "Dubai is part of the United Arab Emirates, where criticising the government can land you in prison. In 2024, 43 activists got life sentences in a single mass trial. Putting Emirates on a famous shirt makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+    "claimIds": [
+     "uae-mass-trial-2024"
+    ],
+    "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+    "status": "draft"
+   }
+  },
+  {
+   "id": "qatar-airways",
+   "name": "Qatar Airways",
+   "ownerId": "government-of-qatar",
+   "ownership": "owned",
+   "tier": "serious",
+   "status": "rated",
+   "verdict": "Qatar Airways Group Q.C.S.C.",
+   "claimIds": [
+    "government-of-qatar-record"
+   ],
+   "aliases": [],
+   "note": "Reported GBP 80m eight-year title sponsor of the World Rugby Nations Championship - agreed but unsigned and paused as of Jun 2026; no deal written. Reuses the existing rated entry."
+  },
+  {
+   "id": "hsbc",
+   "name": "HSBC",
+   "ownerId": "hsbc-holdings",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "World Rugby Global Partner and title partner of the HSBC SVNS Series and World Championship 2026-27; HSBC Holdings plc is publicly listed (hsbc.com)."
+  },
+  {
+   "id": "asahi-super-dry",
+   "name": "Asahi Super Dry",
+   "ownerId": "asahi-group-holdings",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "asahi"
+   ],
+   "note": "RWC Principal Partner and Official Beer of all Rugby World Cup tournaments until 2029 (rugbyworldcup.com/2027/en/partners); Asahi Super Dry appears in the Europe/Asia Pacific brand lists of Asahi Group Holdings' business page."
+  },
+  {
+   "id": "liqui-moly",
+   "name": "LIQUI MOLY",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "RWC 2027 Official Partner (rugbyworldcup.com/2027/en/partners). Ownership (widely reported as the Würth Group since 2018) was not confirmed on a primary page this pass - see unsourced."
+  },
+  {
+   "id": "ihg-hotels-resorts",
+   "name": "IHG Hotels & Resorts",
+   "ownerId": "intercontinental-hotels-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "intercontinental hotels group",
+    "ihg"
+   ],
+   "note": "RWC 2027 Official Partner and Official Hotel Partner of Men's Rugby World Cup 2027 (announced 22 Sep 2026); also a Platinum Partner of the Emirates Dubai 7s."
+  },
+  {
+   "id": "dove-men-care",
+   "name": "Dove Men+Care",
+   "ownerId": "unilever",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "dove"
+   ],
+   "note": "Official Body Care Supplier of Rugby World Cup 2027 (rugbyworldcup.com/2027/en/partners). Dove is a Unilever brand; the normalized Unilever sponsor entry has ownerId null, so no owner chain written here."
+  },
+  {
+   "id": "gilbert",
+   "name": "Gilbert",
+   "ownerId": "grays-of-cambridge",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "gilbert rugby"
+   ],
+   "note": "Official match ball of every Rugby World Cup since 1995, supplying RWC Australia 2027 and 2029 (rugbyworldcup.com/2027/en/partners); gilbertrugby.com footer: (c) 2026 Grays of Cambridge."
+  },
+  {
+   "id": "taisho-pharmaceutical",
+   "name": "Taisho Pharmaceutical",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "lipovitand",
+    "lipovitan d"
+   ],
+   "note": "RWC 2027 Official Supplier as LipovitanD (rugbyworldcup.com/2027/en/partners); also a Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+   "id": "mitsubishi-estate",
+   "name": "Mitsubishi Estate",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "RWC 2027 Official Supplier (rugbyworldcup.com/2027/en/partners)."
+  },
+  {
+   "id": "meiji",
+   "name": "Meiji",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "RWC 2027 Official Supplier (rugbyworldcup.com/2027/en/partners)."
+  },
+  {
+   "id": "fanatics",
+   "name": "Fanatics",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "RWC 2027 Official Supplier (rugbyworldcup.com/2027/en/partners)."
+  },
+  {
+   "id": "ticketmaster",
+   "name": "Ticketmaster",
+   "ownerId": "live-nation-entertainment",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ticketmaster sport"
+   ],
+   "note": "RWC 2027 Official Supplier - 'Ticketmaster Sport is the global leader in sports ticketing' (rugbyworldcup.com/2027/en/partners). Ownership via Live Nation Entertainment not confirmed on a primary page this pass - see unsourced."
+  },
+  {
+   "id": "childfund-rugby",
+   "name": "ChildFund Rugby",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "childfund"
+   ],
+   "note": "Social Impact Supporter of Men's Rugby World Cup 2027 (rugbyworldcup.com/2027/en/partners); also appears in World Rugby's Impact Beyond footer."
+  },
+  {
+   "id": "wizteam",
+   "name": "WizTeam",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "wiz-team",
+    "event works"
+   ],
+   "note": "World Rugby Global Partner (world.rugby, fetched 2026-09-25). Swiss event-management software company, head office in Lausanne (wiz-team.com/about)."
+  },
+  {
+   "id": "dulsco",
+   "name": "Dulsco",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "dulsco group"
+   ],
+   "note": "Presenting Partner of the Emirates Dubai 7s (emiratesdubai7s.com date-announcement page); founded 1935, ownership not stated on its about page."
+  },
+  {
+   "id": "dubai-holding",
+   "name": "Dubai Holding",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Presenting Partner of the Emirates Dubai 7s (emiratesdubai7s.com date-announcement page); ownership not stated on dubaiholding.com this pass - see unsourced."
+  },
+  {
+   "id": "dnata",
+   "name": "dnata",
+   "ownerId": "government-of-dubai",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "aliases": [],
+   "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com); listed among the Emirates Group's brands on theemiratesgroup.com, whose airline is owned by the Dubai government's Investment Corporation of Dubai."
+  },
+  {
+   "id": "dubal-holding",
+   "name": "Dubal Holding",
+   "ownerId": "investment-corporation-of-dubai",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "aliases": [],
+   "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com); dubalholding.com footer: 'DUBAL Holding L.L.C - A subsidiary of Investment Corporation of Dubai'."
+  },
+  {
+   "id": "mmi",
+   "name": "mmi",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com date-announcement page); corporate identity not researched this pass."
+  },
+  {
+   "id": "altrad",
+   "name": "Altrad",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Major Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+   "id": "gallagher-insurance",
+   "name": "Gallagher Insurance",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "arthur j. gallagher"
+   ],
+   "note": "Official Platinum Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+   "id": "toyota",
+   "name": "Toyota",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Platinum Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+   "id": "bupa",
+   "name": "Bupa",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+   "id": "tudor",
+   "name": "TUDOR",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+   "id": "xero",
+   "name": "Xero",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+   "id": "o2",
+   "name": "O2",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "telefonica o2 uk"
+   ],
+   "note": "Sponsor logo shown in the englandrugby.com header ('header-sponsor-logo'); shirt placement not stated on the pages opened this pass - see unsourced."
+  },
+  {
+   "id": "fnb",
+   "name": "FNB",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "first national bank"
+   ],
+   "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
+  },
+  {
+   "id": "pick-n-pay",
+   "name": "Pick n Pay",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+  },
+  {
+   "id": "castle-lager",
+   "name": "Castle",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "castle lager"
+   ],
+   "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "world-rugby-emirates",
+   "clubId": null,
+   "orgName": "World Rugby",
+   "sponsorId": "emirates",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": "2035",
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Record-breaking extension through at least 2035: Emirates is a World Rugby Platinum Partner and Principal Partner of the men's and women's Rugby World Cups; the agreement covers every Rugby World Cup through 2035 (including RWC 2027 and 2029 in Australia and 2031/2033 in the USA), all global qualifying events, and 'Fly Better' branding on all match officials at Rugby World Cups and international fixtures.",
+   "source": {
+    "name": "World Rugby: World Rugby and Emirates announce record-breaking partnership extension",
+    "date": "2025-11-26",
+    "url": "https://www.world.rugby/news/1018926/world-rugby-and-emirates-announce-record-breaking-partnership-extension"
+   }
+  },
+  {
+   "id": "rwc2027-emirates",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "emirates",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": "2035",
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Listed first among Principal Partners on the official RWC 2027 partners page (alongside Asahi Super Dry and Visa).",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-asahi-super-dry",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "asahi-super-dry",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": "2029",
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Principal Partner of all Rugby World Cup tournaments until 2029 and Official Beer, per the partner page's own blurb: 'The successful partnership with Rugby World Cup will continue through a long-term commitment as Official Beer and Principal Partner of all tournaments until 2029'.",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-visa",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "visa",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Principal Partner for Australia 2027 and 2029 and Official Payment Technology Partner; presenting partner of the Player of the Match award; Visa Priority Ticket Sale 28-30 Sep 2026.",
+   "source": {
+    "name": "World Rugby: Visa joins Rugby World Cup as Principal Partner for Australia 2027 and 2029",
+    "date": "2026-09-14",
+    "url": "https://www.world.rugby/news/1046827/visa-joins-rugby-world-cup-as-principal-partner-for-australia-2027-and-2029"
+   }
+  },
+  {
+   "id": "rwc2027-liqui-moly",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "liqui-moly",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Partner (rugbyworldcup.com/2027/en/partners).",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-coca-cola",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "coca-cola",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Partner (rugbyworldcup.com/2027/en/partners).",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-ihg",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "ihg-hotels-resorts",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Partner and Official Hotel Partner of Men's Rugby World Cup 2027; watch parties in all seven host cities; announced 22 Sep 2026.",
+   "source": {
+    "name": "World Rugby: IHG Hotels & Resorts joins as Official Partner of Men's Rugby World Cup 2027",
+    "date": "2026-09-22",
+    "url": "https://www.world.rugby/news/1047348/ihg-hotels-resorts-joins-as-official-partner-of-mens-rugby-world-cup-2027"
+   }
+  },
+  {
+   "id": "rwc2027-dove-men-care",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "dove-men-care",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter - Official Body Care Supplier of Rugby World Cup 2027.",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-gilbert",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "gilbert",
+   "placement": "league-partner",
+   "from": "1995",
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter - official match ball of every Rugby World Cup since 1995, supplying RWC Australia 2027 and 2029.",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-macron",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "macron",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter of RWC 2027; also a World Rugby Global Partner (world.rugby, fetched 2026-09-25).",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-lipovitand",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "taisho-pharmaceutical",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter as LipovitanD (Taisho Pharmaceutical Co., Ltd.).",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-mitsubishi-estate",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "mitsubishi-estate",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter (spelled 'Mistubishi Estate' on the RWC partner page).",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-meiji",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "meiji",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter.",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-fanatics",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "fanatics",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter.",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-ticketmaster",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "ticketmaster",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter - 'Ticketmaster Sport is the global leader in sports ticketing'.",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "rwc2027-childfund-rugby",
+   "clubId": null,
+   "orgName": "Rugby World Cup 2027",
+   "sponsorId": "childfund-rugby",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Official Supplier & Supporter - Social Impact Supporter of Men's Rugby World Cup 2027.",
+   "source": {
+    "name": "Rugby World Cup 2027 - Partners & Sponsors",
+    "date": "2026-09-25",
+    "url": "https://www.rugbyworldcup.com/2027/en/partners"
+   }
+  },
+  {
+   "id": "world-rugby-hsbc",
+   "clubId": null,
+   "orgName": "World Rugby",
+   "sponsorId": "hsbc",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Global Partner of World Rugby; title partner of the HSBC SVNS Series and HSBC SVNS World Championship 2026-27 (series branded HSBC SVNS; HSBC Global Head of Brand Partnerships quoted in the schedule announcement, which says HSBC has supported rugby sevens for more than two decades).",
+   "source": {
+    "name": "World Rugby: HSBC SVNS Series and World Championship 2027 schedule confirmed",
+    "date": "2026-07-28",
+    "url": "https://www.world.rugby/news/1045878/hsbc-svns-series-and-world-championship-2027-schedule-confirmed-as-road-to-los-angeles-2028-gathers-pace"
+   }
+  },
+  {
+   "id": "world-rugby-macron",
+   "clubId": null,
+   "orgName": "World Rugby",
+   "sponsorId": "macron",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Global Partner of World Rugby (world.rugby header/footer partner strip).",
+   "source": {
+    "name": "world.rugby partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.world.rugby/"
+   }
+  },
+  {
+   "id": "world-rugby-wizteam",
+   "clubId": null,
+   "orgName": "World Rugby",
+   "sponsorId": "wizteam",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Global Partner of World Rugby (world.rugby header/footer partner strip).",
+   "source": {
+    "name": "world.rugby partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.world.rugby/"
+   }
+  },
+  {
+   "id": "svns-dubai-emirates-title",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s (HSBC SVNS Series opener, The Sevens Stadium, Dubai)",
+   "sponsorId": "emirates",
+   "placement": "league-partner",
+   "from": "1987",
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Event-host shape recorded as a league-partner deal: the Dubai SVNS opener (27-29 Nov 2026 edition) runs under the event title 'Emirates Dubai 7s', with Emirates listed as Event Owner on the official event site; World Rugby's Emirates extension release dates the Dubai Rugby Sevens title link to 1987. Event names change with sponsors; recorded here because the event itself is not a schema entity.",
+   "source": {
+    "name": "Emirates Dubai 7s - Dubai 7s 2026 Tickets on Sale Now (event site; 2025 partner tiers at emiratesdubai7s.com/news/2025-date-announcement/)",
+    "date": "2026-08-31",
+    "url": "https://emiratesdubai7s.com/news/dubai-7s-2026-tickets-on-sale-now/"
+   }
+  },
+  {
+   "id": "svns-dubai-hsbc-title",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "hsbc",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "HSBC is the 'SVNS Title Partner' shown on the Emirates Dubai 7s site.",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "svns-dubai-dulsco",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "dulsco",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Presenting Partner of the Emirates Dubai 7s.",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "svns-dubai-dubai-holding",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "dubai-holding",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Presenting Partner of the Emirates Dubai 7s.",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "svns-dubai-dnata",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "dnata",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Platinum Partner of the Emirates Dubai 7s.",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "svns-dubai-mmi",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "mmi",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Platinum Partner of the Emirates Dubai 7s.",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "svns-dubai-dhl",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "dhl",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Platinum Partner of the Emirates Dubai 7s (existing sponsor, rated 'concern').",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "svns-dubai-ihg",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "ihg-hotels-resorts",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Platinum Partner of the Emirates Dubai 7s.",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "svns-dubai-dubal-holding",
+   "clubId": null,
+   "orgName": "Emirates Dubai 7s",
+   "sponsorId": "dubal-holding",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "world-rugby",
+   "note": "Platinum Partner of the Emirates Dubai 7s.",
+   "source": {
+    "name": "Emirates Dubai 7s - 2025 date announcement (partner strip)",
+    "date": "2026-09-25",
+    "url": "https://emiratesdubai7s.com/news/2025-date-announcement/"
+   }
+  },
+  {
+   "id": "altrad-rugby-new-zealand",
+   "clubId": "rugby-new-zealand",
+   "orgName": null,
+   "sponsorId": "altrad",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Union partners page",
+    "date": "2026-09-25",
+    "url": "https://www.allblacks.com/partners/",
+    "note": "Major Global Partner of New Zealand Rugby (allblacks.com/partners)."
+   }
+  },
+  {
+   "id": "gallagher-insurance-rugby-new-zealand",
+   "clubId": "rugby-new-zealand",
+   "orgName": null,
+   "sponsorId": "gallagher-insurance",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Union partners page",
+    "date": "2026-09-25",
+    "url": "https://www.allblacks.com/partners/",
+    "note": "Official Platinum Partner of New Zealand Rugby (allblacks.com/partners)."
+   }
+  },
+  {
+   "id": "bupa-rugby-new-zealand",
+   "clubId": "rugby-new-zealand",
+   "orgName": null,
+   "sponsorId": "bupa",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Union partners page",
+    "date": "2026-09-25",
+    "url": "https://www.allblacks.com/partners/",
+    "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+   }
+  },
+  {
+   "id": "xero-rugby-new-zealand",
+   "clubId": "rugby-new-zealand",
+   "orgName": null,
+   "sponsorId": "xero",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Union partners page",
+    "date": "2026-09-25",
+    "url": "https://www.allblacks.com/partners/",
+    "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+   }
+  },
+  {
+   "id": "fnb-rugby-south-africa",
+   "clubId": "rugby-south-africa",
+   "orgName": null,
+   "sponsorId": "fnb",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Union partners page",
+    "date": "2026-09-25",
+    "url": "https://www.springboks.rugby/partners/",
+    "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
+   }
+  },
+  {
+   "id": "pick-n-pay-rugby-south-africa",
+   "clubId": "rugby-south-africa",
+   "orgName": null,
+   "sponsorId": "pick-n-pay",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Union partners page",
+    "date": "2026-09-25",
+    "url": "https://www.springboks.rugby/partners/",
+    "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+   }
+  },
+  {
+   "id": "castle-lager-rugby-south-africa",
+   "clubId": "rugby-south-africa",
+   "orgName": null,
+   "sponsorId": "castle-lager",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Union partners page",
+    "date": "2026-09-25",
+    "url": "https://www.springboks.rugby/partners/",
+    "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+   }
+  },
+  {
+   "id": "o2-rugby-england",
+   "clubId": "rugby-england",
+   "orgName": null,
+   "sponsorId": "o2",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "englandrugby.com header sponsor",
+    "date": "2026-09-25",
+    "url": "https://www.englandrugby.com/",
+    "note": "O2 sponsor logo shown in the englandrugby.com header; shirt placement not confirmed."
+   }
+  }
+ ],
+ "claims": [],
+ "proposedRatings": [
+  {
+   "sponsorId": "emirates",
+   "tier": "serious",
+   "ownerId": "government-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Already rated serious and the rating carries over: Emirates is owned by the Government of Dubai through Investment Corporation of Dubai, and the UAE mass-trial claims (43 life sentences in 2024, upheld in 2025) attach to that owner chain. As World Rugby's Platinum Partner through 2035, Principal Partner of RWC 2027/2029, brand-on-match-officials partner and title of the Dubai SVNS opener, the sportswashing logic is the same as on a club shirt - the sponsorship reaches every Rugby World Cup fan in the window."
+  },
+  {
+   "sponsorId": "qatar-airways",
+   "tier": "serious",
+   "ownerId": "government-of-qatar",
+   "claimIds": [
+    "government-of-qatar-record"
+   ],
+   "reasoning": "Already rated serious: the state-owned flag carrier's reported GBP 80m Nations Championship title deal was agreed but unsigned/paused as of Jun 2026, so no deal is written; if formalised by November 2026 as SportsPro reports, the existing Qatar state-ownership and migrant-labour record claims attach unchanged."
+  },
+  {
+   "sponsorId": "dubal-holding",
+   "tier": "serious",
+   "ownerId": "investment-corporation-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "reasoning": "Dubal Holding states on its own site that it is 'a subsidiary of Investment Corporation of Dubai', the Dubai government's investment arm, and it is a Platinum Partner of the Emirates Dubai 7s. Dubai state money in the UAE mass-trial context -> serious."
+  },
+  {
+   "sponsorId": "dnata",
+   "tier": "serious",
+   "ownerId": "government-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "reasoning": "dnata sits in the Emirates Group (listed among the group's brands on theemiratesgroup.com), whose airline is owned by the Government of Dubai via ICD; a Platinum Partner of the Dubai SVNS opener. Dubai state money in the UAE mass-trial context -> serious."
+  },
+  {
+   "sponsorId": "hsbc",
+   "tier": "none",
+   "ownerId": "hsbc-holdings",
+   "claimIds": [],
+   "reasoning": "HSBC Holdings plc is a publicly listed bank (London/Hong Kong/NYC listings; no state shareholder disclosed on hsbc.com) and the title partner of the whole SVNS Series - the brand runs across every event in the window. No state link found this pass -> none, pending a person's review."
+  },
+  {
+   "sponsorId": "asahi-super-dry",
+   "tier": "none",
+   "ownerId": "asahi-group-holdings",
+   "claimIds": [],
+   "reasoning": "Asahi Super Dry is a brand of Tokyo-listed Asahi Group Holdings (group business page lists SUPER DRY in its Europe and Asia Pacific portfolios); RWC Principal Partner and Official Beer until 2029. Private Japanese corporation, no sovereign stake found -> none."
+  },
+  {
+   "sponsorId": "ihg-hotels-resorts",
+   "tier": "none",
+   "ownerId": "intercontinental-hotels-group",
+   "claimIds": [],
+   "reasoning": "IHG Hotels & Resorts is the brand of InterContinental Hotels Group PLC, a UK-listed hotel company (ihgplc.com). Listed company, no state ownership identified -> none."
+  },
+  {
+   "sponsorId": "gilbert",
+   "tier": "none",
+   "ownerId": "grays-of-cambridge",
+   "claimIds": [],
+   "reasoning": "The match-ball brand runs under Grays of Cambridge (gilbertrugby.com footer), a private UK sporting-goods company. No state link -> none."
+  },
+  {
+   "sponsorId": "visa",
+   "tier": "none",
+   "ownerId": "visa-inc",
+   "claimIds": [
+    "visa-inc-record"
+   ],
+   "reasoning": "Already rated none: Visa Inc. is a listed US payments company with no state stake; as RWC Principal Partner for 2027/2029 the same rating carries over."
+  },
+  {
+   "sponsorId": "dhl",
+   "tier": "concern",
+   "ownerId": "deutsche-post-dhl",
+   "claimIds": [
+    "deutsche-post-dhl-record"
+   ],
+   "reasoning": "Already rated concern (KfW state-bank stake in DHL Group); carries over to DHL's Platinum Partner role at the Emirates Dubai 7s, the only placement found for it in this window."
+  }
+ ],
+ "unsourced": [
+  "EVENT-HOST SHAPE - HSBC SVNS Series 2026-27 events (schema has no event entity; dates/venues from world.rugby/news/1045878, fetched 2026-09-25): Dubai 28-29 Nov 2026 (The Sevens Stadium), Cape Town 5-6 Dec 2026 (Cape Town Stadium), Singapore 30-31 Jan 2027 (The Kallang), Perth 6-7 Feb 2027 (HBF Park), Vancouver 6-7 Mar 2027 (BC Place), New York 13-14 Mar 2027 (Sports Illustrated Stadium); World Championship: Hong Kong 9-11 Apr 2027 (Kai Tak Sports Park), Valladolid 21-23 May 2027 (Estadio Jose Zorrilla), Bordeaux 28-30 May 2027 (Stade Atlantique). 'HSBC SVNS 2 and 3' schedule details to follow.",
+  "EVENT-HOST SHAPE - the 2027 series serves as part of qualification toward the Los Angeles 2028 Olympic Games (world.rugby/news/1045878); World Rugby confirmed the LA28 qualification pathway on 9 Sep 2026 (svns.com news 1046251, headline seen, article not opened).",
+  "EVENT-HOST SHAPE - Men's Rugby World Cup 2027 runs 1 Oct - 13 Nov 2027 across seven Australian host cities; tickets went on general sale 1 Oct 2026, one year before the opening match (world.rugby/news/1046827). Host destination partners shown in the RWC 2027 partners-page footer without a tier label: Tourism Australia and the New South Wales, Queensland, South Australia, Western Australia and Victorian governments (rugbyworldcup.com/2027/en/partners, fetched 2026-09-25).",
+  "EVENT-HOST SHAPE - World Rugby Nations Championship: SportsPro (25 Jun 2026, citing The Guardian) reported an agreed but unsigned GBP 80m (USD 105.36m) eight-year Qatar Airways title sponsorship running to 2034, paused because Qatari government figures felt it 'inappropriate' to announce amid regional tension after US military action against Iran; formalisation was expected by November 2026 and autumn 2026 rounds would run without Qatar Airways branding. As of 25 Sep 2026 no World Rugby announcement confirming the deal had been published; re-check status before publication. 2026 finals at Twickenham; 2028 finals in Doha (option for 2032).",
+  "EVENT-HOST SHAPE - Emirates Dubai 7s 2026 edition runs 27-29 Nov 2026 at The Sevens Stadium ('For the third consecutive year, ticket prices remain fixed... AED 75 Friday entry'; emiratesdubai7s.com/news/dubai-7s-2026-tickets-on-sale-now/, published 31 Aug 2026). The event-site partner strip (2025 date-announcement page) lists: HSBC (SVNS Title Partner), Dulsco and Dubai Holding (Presenting Partners), Dnata, mmi, DHL, IHG and Dubal Holding (Platinum Partners). Whether the same local-partner strip carries to the 2026 edition was not re-verified.",
+  "Team-level shirt sponsors of the 24 RWC 2027 unions were not collected this pass; the three union partner lists below were verified but shirt placements were not stated on the pages opened, so no kits were written.",
+  "New Zealand Rugby partners (allblacks.com/partners, fetched 2026-09-25): Altrad 'Major Global Partner'; Adidas, Gallagher Insurance, Toyota 'Official Platinum Partner'; Bupa, Taisho Pharmaceutical, TUDOR, Xero 'Global Partners'; regional partners 2degrees, Mitsui Fudosan, Steinlager, Ray White; suppliers include Gilbert, Cadbury, Powerade, Rexona (Unilever), YETI, STATSports. Adidas is the All Blacks kit supplier (allblacks.com shop links) but placement/term not stated.",
+  "South Africa Rugby (springboks.rugby/partners, fetched 2026-09-25): Principal Partners FNB, Pick n Pay, Coca-Cola, Betway, Nike, Castle; Official Partners Vodacom, SuperSport, FlySafair, Monster, Hyundai, Southern Sun, Samsung; Official Sponsors Engen, Rhino, Unilever, Spur, AfriSam, Freddy Hirsch, Klipdrift; Official Supporters Bluu, Biogen, STATSports, Virgin Active, Oakley, Stadio, Springbok Atlas, Outsurance, Leukoplast. Nike is the Springboks on-field kit brand (springboks.rugby shop links 'Nike Official Springbok Gear') but front-of-shirt placement was not stated.",
+  "England Rugby (englandrugby.com homepage, fetched 2026-09-25): O2 appears as the header sponsor logo ('header-sponsor-logo') and Castore as kit supplier (header logos); neither page opened stated the shirt placement or term. englandrugby.com/partnerships and O2's sponsorship pages returned 403/404 to automated fetches.",
+  "LIQUI MOLY ownership: widely reported as part of the Würth Group (acquired 2018), but neither wuerth.com (JS-only directory) nor liqui-moly.com stated it on the pages fetched this pass (liqui-moly.com/en/gb/company/about-us.html fetched OK but contains no ownership statement). No owner record written; needs a primary statement (e.g. Würth Group annual report) before setting an ownerId.",
+  "Ticketmaster ownership: the RWC partner page names 'Ticketmaster Sport' as Official Supplier; ticketmaster.com's footer 'Our Network' lists Live Nation, House of Blues etc., and livenationentertainment.com links its Ticketing section to business.ticketmaster.com, but no explicit 'Ticketmaster is a Live Nation Entertainment company' statement was opened this pass. ownerId live-nation-entertainment written on that basis; confirm via Live Nation's 10-K segment description.",
+  "Dubai Holding ownership: dubaiholding.com/en/who-we-are describes a 2004 mandate 'supporting the government's long-term vision' but does not state the owner; widely described as a Dubai sovereign investment vehicle - needs a primary statement before setting an ownerId.",
+  "Dulsco ownership: dulsco.com/en/about-us traces the group to 1935 but states no owner. No ownerId set.",
+  "WizTeam is 'Swiss based, with head offices in the heart of the Olympic Capital Lausanne' with subsidiaries in Australia, Belgium, Italy and Ukraine (wiz-team.com/about); founder ownership details not stated.",
+  "Dove Men+Care is a Unilever brand per common knowledge; the RWC partner page calls it the 'Official Body Care Supplier of Rugby World Cup 2027' without naming the parent. The normalized Unilever sponsor entry carries no ownerId, so none was set here; Unilever's corporate statement would settle it.",
+  "Emirates' original RWC sponsorship dates: World Rugby's 2025 renewal release says the partnership dates 'to 1987 (title sponsor of the Dubai Rugby Sevens) and to 2007 as an official Rugby World Cup sponsor'; the deal in force before the 2025 extension and its value were not stated.",
+  "No commercial values for any World Rugby, RWC 2027 or SVNS partnership were public in the sources fetched; deal values are null throughout.",
+  "The RWC 2027 partners page spells 'Mistubishi Estate' (sic); the sponsor record uses the standard spelling Mitsubishi Estate.",
+  "Source conflict, minor: the SVNS schedule article shows World Rugby's tier structure as 'Platinum Partner' (Emirates) plus 'Global Partners' (Macron, HSBC, WizTeam) while rugbyworldcup.com uses 'Principal Partners' (Emirates, Asahi Super Dry, Visa) / 'Official Partners' / 'Official Suppliers & Supporters' - different properties use different tier names; both captured as fetched.",
+  "Rugby Australia / Wallabies partner pages were not verifiable this pass (rugbyaustralia.com.au returned 429 to automated fetch), so Australia's team sponsors are unrecorded."
+ ]
+}

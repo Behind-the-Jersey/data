@@ -1,0 +1,1057 @@
+{
+  "target": "uci-womens-worldtour",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/267",
+  "leagues": [
+    {
+      "id": "uci-womens-worldtour",
+      "aliases": [
+        "womens worldtour",
+        "uci women's worldtour",
+        "women's worldtour",
+        "women's world team"
+      ],
+      "sportId": "cycling",
+      "name": "UCI Women's WorldTour (women's road cycling)",
+      "clubCount": 14,
+      "season": "2026",
+      "status": "partial",
+      "notes": [
+        "14 UCI Women's WorldTeams granted 2026-2028 licences by the UCI Licence Commission (UCI press release, 2026-2028 cycle).",
+        "Every team is named after a sponsor; names change with sponsors.",
+        "Sponsor placement is mapped to the schema's front/back/sleeve/shorts/partner values from 'team title/name' and 'jersey'.",
+        "Mid-season rename: UAE Team ADQ became UAE Team L'IMAD on 1 August 2026 after ADQ was absorbed into L'IMAD; the UCI licence list still shows UAE Team ADQ (Cyclingnews, 2026-07-27)."
+      ]
+    }
+  ],
+  "clubs": [
+    {
+      "id": "ag-insurance-soudal-women",
+      "name": "AG Insurance-Soudal Team",
+      "shortName": "AG Insurance-Soudal",
+      "code": "AGS",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Belgium",
+      "crest": null,
+      "aliases": [
+        "ag insurance - soudal team",
+        "nxtg racing"
+      ]
+    },
+    {
+      "id": "canyon-sram-zondacrypto",
+      "name": "Canyon//SRAM zondacrypto",
+      "shortName": "Canyon//SRAM",
+      "code": "CSZ",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Germany",
+      "crest": null,
+      "aliases": [
+        "canyon-sram",
+        "canyon//sram racing"
+      ]
+    },
+    {
+      "id": "ef-education-oatly",
+      "name": "EF Education-Oatly",
+      "shortName": "EF Education-Oatly",
+      "code": "EFO",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "United States",
+      "crest": null,
+      "aliases": [
+        "ef education - oatly",
+        "ef-tibco-svb"
+      ]
+    },
+    {
+      "id": "fdj-united-suez-women",
+      "name": "FDJ United-Suez",
+      "shortName": "FDJ-Suez",
+      "code": "TFS",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "France",
+      "crest": null,
+      "aliases": [
+        "fdj-suez",
+        "fdj nouvelle aquitaine futuroscope"
+      ]
+    },
+    {
+      "id": "fenix-premier-tech",
+      "name": "Fenix-Premier Tech",
+      "shortName": "Fenix-Premier Tech",
+      "code": "FPT",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Belgium",
+      "crest": null,
+      "aliases": [
+        "fenix-deceuninck",
+        "plantur-pura",
+        "ciclismo mundial"
+      ]
+    },
+    {
+      "id": "human-powered-health-women",
+      "name": "Human Powered Health",
+      "shortName": "HPH",
+      "code": "HPH",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "United States",
+      "crest": null,
+      "aliases": [
+        "rally cycling",
+        "optum pro cycling"
+      ]
+    },
+    {
+      "id": "lidl-trek-women",
+      "name": "Lidl-Trek",
+      "shortName": "Lidl-Trek",
+      "code": "LTKW",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Germany",
+      "crest": null,
+      "aliases": [
+        "trek-segafredo women",
+        "trek factory racing women"
+      ]
+    },
+    {
+      "id": "liv-alula-jayco",
+      "name": "Liv AlUla Jayco",
+      "shortName": "Liv AlUla Jayco",
+      "code": "LIV",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Australia",
+      "crest": null,
+      "aliases": [
+        "liv jayco alula",
+        "liv racing teqfind"
+      ]
+    },
+    {
+      "id": "movistar-women",
+      "name": "Movistar Team (women)",
+      "shortName": "Movistar",
+      "code": "MOVW",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Spain",
+      "crest": null,
+      "aliases": [
+        "movistar team mujeres"
+      ]
+    },
+    {
+      "id": "team-picnic-postnl-women",
+      "name": "Team Picnic PostNL (women)",
+      "shortName": "Picnic PostNL",
+      "code": "TPPW",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Netherlands",
+      "crest": null,
+      "aliases": [
+        "team dsm",
+        "dsm-firmenich women"
+      ]
+    },
+    {
+      "id": "team-sd-worx-protime",
+      "name": "Team SD Worx-Protime",
+      "shortName": "SD Worx-Protime",
+      "code": "SDW",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Netherlands",
+      "crest": null,
+      "aliases": [
+        "boels-dolmans",
+        "dolmans-landscaping"
+      ]
+    },
+    {
+      "id": "team-visma-lease-a-bike-women",
+      "name": "Team Visma | Lease a Bike (women)",
+      "shortName": "Visma-Lease a Bike",
+      "code": "TVLW",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Netherlands",
+      "crest": null,
+      "aliases": [
+        "jumbo-visma women"
+      ]
+    },
+    {
+      "id": "uae-team-limad",
+      "name": "UAE Team L'IMAD",
+      "shortName": "UAE Team L'IMAD",
+      "code": "UADW",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "United Arab Emirates",
+      "crest": null,
+      "aliases": [
+        "uae team adq",
+        "ale-btc ljubljana"
+      ]
+    },
+    {
+      "id": "uno-x-mobility-women",
+      "name": "Uno-X Mobility (women)",
+      "shortName": "Uno-X",
+      "code": "UXMW",
+      "sportId": "cycling",
+      "leagueId": "uci-womens-worldtour",
+      "country": "Norway",
+      "crest": null,
+      "aliases": [
+        "uno-x mobility women"
+      ]
+    }
+  ],
+  "owners": [
+    {
+      "id": "limad",
+      "name": "L'IMAD (Abu Dhabi sovereign investor, formerly ADQ)",
+      "type": "state-fund",
+      "country": "United Arab Emirates",
+      "parentId": "government-of-abu-dhabi",
+      "via": "Sovereign investor of the Government of Abu Dhabi; absorbed ADQ in 2026; chaired by Sheikh Tahnoon bin Zayed (The Inner Ring, 2026-08-05)",
+      "note": "UAE Team L'IMAD sponsor page: 'L'IMAD is a sovereign investor of the Government of Abu Dhabi.' Cyclingnews (2026-07-27): Abu Dhabi sovereign wealth fund reportedly worth about $300bn, chaired by Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan; ADQ absorbed into L'IMAD. The Inner Ring (2026-08-05) says the fund is chaired by Sheikh Tahnoon bin Zayed. Chair accounts differ between sources."
+    },
+    {
+      "id": "worxinvest",
+      "name": "WorxInvest",
+      "type": "private-company",
+      "parentId": null,
+      "country": "Belgium",
+      "note": "Belgian holding company started in 2018 as SD Worx's investment arm; parent of SD Worx (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "ageas",
+      "name": "Ageas",
+      "type": "listed-company",
+      "parentId": null,
+      "country": "Belgium",
+      "note": "Belgium's largest insurer, listed on Euronext Brussels; owns 75% of AG Insurance, the other 25% held by BNP Paribas Fortis (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "arpa-industriale",
+      "name": "Arpa Industriale",
+      "type": "private-company",
+      "parentId": null,
+      "country": "Italy",
+      "note": "Italian manufacturer of high-pressure laminate; owner of the Fenix brand used as Fenix-Premier Tech's title sponsor (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "optum",
+      "name": "Optum",
+      "type": "private-company",
+      "parentId": null,
+      "country": "United States",
+      "note": "US health-services arm of UnitedHealth Group; Human Powered Health is described as a subsidiary of Optum (The Inner Ring, 2026-08-05)."
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "limad",
+      "name": "L'IMAD",
+      "ownerId": "limad",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "l'imad",
+        "uae team limad"
+      ],
+      "note": "Abu Dhabi sovereign wealth fund (formerly ADQ, absorbed into L'IMAD); title sponsor of UAE Team L'IMAD from 1 August 2026."
+    },
+    {
+      "id": "nmdc-group",
+      "name": "NMDC Group",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "nmdc"
+      ],
+      "note": "Abu Dhabi dredging/energy EPC group; main sponsor of UAE Team L'IMAD. Ownership not verified from a primary source."
+    },
+    {
+      "id": "ihc",
+      "name": "IHC (International Holding Company)",
+      "ownerId": "international-holding-company",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "international holding company"
+      ],
+      "note": "Abu Dhabi listed holding company; main sponsor of UAE Team L'IMAD. Reuses normalized owner id international-holding-company."
+    },
+    {
+      "id": "analog",
+      "name": "Analog",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "analog sports"
+      ],
+      "note": "Adaptive intelligence/technology company; official technology sponsor of UAE Team ADQ/L'IMAD. The Inner Ring (2026-08-05) says Analog is owned by G42 (normalized sponsor id g42, Mubadala-backed)."
+    },
+    {
+      "id": "mywhoosh",
+      "name": "MyWhoosh",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Indoor cycling app; main sponsor of UAE Team L'IMAD. Ownership not found."
+    },
+    {
+      "id": "oatly",
+      "name": "Oatly",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Swedish oat-drink maker listed on the New York Stock Exchange; co-title sponsor of EF Education-Oatly (Cyclist, 2026-07-14; EF partner page)."
+    },
+    {
+      "id": "suez",
+      "name": "Suez",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "French water and waste utility listed on Euronext Paris/Brussels; co-title sponsor of FDJ United-Suez (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "sd-worx",
+      "name": "SD Worx",
+      "ownerId": "worxinvest",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Belgian HR/payroll services company; title sponsor of Team SD Worx-Protime."
+    },
+    {
+      "id": "protime",
+      "name": "Protime",
+      "ownerId": "worxinvest",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Time-registration brand belonging to the SD Worx group; co-title sponsor of Team SD Worx-Protime (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "canyon",
+      "name": "Canyon",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "German bike brand; title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "sram",
+      "name": "SRAM",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Chicago-based component manufacturer; co-title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "ag-insurance",
+      "name": "AG Insurance",
+      "ownerId": "ageas",
+      "ownership": "part-owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "ag insurance - soudal"
+      ],
+      "note": "Belgian insurer founded 1824, 75% owned by Ageas, 25% by BNP Paribas Fortis; title sponsor of AG Insurance-Soudal (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "fenix",
+      "name": "Fenix",
+      "ownerId": "arpa-industriale",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Surface-material brand of Italy's Arpa Industriale; title sponsor of Fenix-Premier Tech (Cyclist, 2026-07-14)."
+    },
+    {
+      "id": "human-powered-health",
+      "name": "Human Powered Health",
+      "ownerId": "optum",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "hph"
+      ],
+      "note": "US sports-science/health company; title sponsor of the Human Powered Health Women's WorldTeam. The Inner Ring (2026-08-05) describes it as a subsidiary of Optum, part of UnitedHealth Group."
+    },
+    {
+      "id": "liv",
+      "name": "Liv",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Women's bike brand of Giant Bicycles; co-title sponsor of Liv AlUla Jayco (Cyclist, 2026-07-14: 'Liv Cycling is the women's arm of Giant Bicycles'; The Inner Ring, 2026-08-05). Giant's ownership not traced."
+    },
+    {
+      "id": "specialized",
+      "name": "Specialized",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "US bike manufacturer; premium partner of Team SD Worx-Protime (team partners page). Not state-linked."
+    }
+  ],
+  "kits": [
+    {
+      "id": "uae-team-limad-2026-home",
+      "clubId": "uae-team-limad",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season (UAE Team ADQ to 31 July, UAE Team L'IMAD from 1 August)",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "limad",
+          "placement": "front",
+          "source": {
+            "name": "Cyclingnews - UAE Team ADQ get new name for Tour de France Femmes and beyond (Matilda Price)",
+            "date": "2026-07-27",
+            "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uae-team-adq-get-new-name-for-tour-de-france-femmes-and-beyond/"
+          }
+        },
+        {
+          "sponsorId": "nmdc-group",
+          "placement": "partner",
+          "source": {
+            "name": "UAE Team L'IMAD - Main Sponsors page",
+            "date": "2026-09-25",
+            "url": "https://uaeteamlimad.com/sponsors/"
+          }
+        },
+        {
+          "sponsorId": "ihc",
+          "placement": "partner",
+          "source": {
+            "name": "UAE Team L'IMAD - Main Sponsors page",
+            "date": "2026-09-25",
+            "url": "https://uaeteamlimad.com/sponsors/"
+          }
+        },
+        {
+          "sponsorId": "analog",
+          "placement": "partner",
+          "source": {
+            "name": "UAE Team L'IMAD - Main Sponsors page",
+            "date": "2026-09-25",
+            "url": "https://uaeteamlimad.com/sponsors/"
+          }
+        },
+        {
+          "sponsorId": "mywhoosh",
+          "placement": "partner",
+          "source": {
+            "name": "UAE Team L'IMAD - Main Sponsors page",
+            "date": "2026-09-25",
+            "url": "https://uaeteamlimad.com/sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam. Title sponsor L'IMAD on the front of the jersey from 1 August 2026 (UAE Team ADQ before that); NMDC, IHC, Analog and MyWhoosh are listed main sponsors. Individual jersey positions for the main sponsors beyond the front not verified.",
+      "change": null
+    },
+    {
+      "id": "ag-insurance-soudal-women-2026-home",
+      "clubId": "ag-insurance-soudal-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "ag-insurance",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "soudal",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam named for co-title sponsors AG Insurance and Soudal; team name carries both sponsors on the jersey.",
+      "change": null
+    },
+    {
+      "id": "canyon-sram-zondacrypto-2026-home",
+      "clubId": "canyon-sram-zondacrypto",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "canyon",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        },
+        {
+          "sponsorId": "sram",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam. UCI registration keeps 'zondacrypto' but both Cyclist (2026-07-14) and The Inner Ring (2026-08-05) report zondacrypto was dropped mid-2026 and the team races as Canyon-SRAM.",
+      "change": null
+    },
+    {
+      "id": "ef-education-oatly-2026-home",
+      "clubId": "ef-education-oatly",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "ef-education-first",
+          "placement": "front",
+          "source": {
+            "name": "EF Pro Cycling - Partners page (EF Education First and Oatly logos)",
+            "date": "2026-09-25",
+            "url": "https://efprocycling.com/partners/"
+          }
+        },
+        {
+          "sponsorId": "oatly",
+          "placement": "front",
+          "source": {
+            "name": "EF Pro Cycling - Partners page (EF Education First and Oatly logos)",
+            "date": "2026-09-25",
+            "url": "https://efprocycling.com/partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam co-sponsored by EF Education First and Oatly, both shown as title partners on the team's partners page.",
+      "change": null
+    },
+    {
+      "id": "fdj-united-suez-women-2026-home",
+      "clubId": "fdj-united-suez-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "fdj",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        },
+        {
+          "sponsorId": "suez",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam named for FDJ United and Suez; The Inner Ring also notes blue-chip jersey partners Gan insurance and CB.",
+      "change": null
+    },
+    {
+      "id": "fenix-premier-tech-2026-home",
+      "clubId": "fenix-premier-tech",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "fenix",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "premier-tech",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam; Fenix (Arpa Industriale) and Premier Tech as co-title sponsors in the team name and jersey.",
+      "change": null
+    },
+    {
+      "id": "human-powered-health-women-2026-home",
+      "clubId": "human-powered-health-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "human-powered-health",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam named for its title sponsor Human Powered Health, a US health company (Optum/UnitedHealth).",
+      "change": null
+    },
+    {
+      "id": "lidl-trek-women-2026-home",
+      "clubId": "lidl-trek-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "lidl",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        },
+        {
+          "sponsorId": "trek",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam; Lidl (majority owner of the team per Cyclist) and Trek carry the team name on the jersey.",
+      "change": null
+    },
+    {
+      "id": "liv-alula-jayco-2026-home",
+      "clubId": "liv-alula-jayco",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "alula",
+          "placement": "front",
+          "source": {
+            "name": "GreenEDGE Cycling - Partners 2026 page (Experience AlUla logo, links to experiencealula.com)",
+            "date": "2026-09-25",
+            "url": "https://greenedgecycling.com/2026/2025partners/"
+          }
+        },
+        {
+          "sponsorId": "jayco",
+          "placement": "front",
+          "source": {
+            "name": "GreenEDGE Cycling - Partners 2026 page (Jayco logo, links to jayco.com.au)",
+            "date": "2026-09-25",
+            "url": "https://greenedgecycling.com/2026/2025partners/"
+          }
+        },
+        {
+          "sponsorId": "liv",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained (Liv AlUla Jayco co-title sponsors)",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam. Liv (Giant's women's brand), Jayco and Saudi state brand AlUla carry the team name on the jersey; AlUla is run by the Royal Commission for AlUla, a Saudi government agency.",
+      "change": null
+    },
+    {
+      "id": "movistar-women-2026-home",
+      "clubId": "movistar-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "movistar",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam sponsored by Movistar (Telefónica brand).",
+      "change": null
+    },
+    {
+      "id": "team-picnic-postnl-women-2026-home",
+      "clubId": "team-picnic-postnl-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "picnic",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "postnl",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam; Picnic and PostNL carry the team name on the jersey (women's team aligned with the men's squad).",
+      "change": null
+    },
+    {
+      "id": "team-sd-worx-protime-2026-home",
+      "clubId": "team-sd-worx-protime",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "sd-worx",
+          "placement": "front",
+          "source": {
+            "name": "Team SD Worx-Protime - Partners page ('SD Worx & Protime chose to sponsor the world's best women's cycling team')",
+            "date": "2026-09-25",
+            "url": "https://teamsdworxprotime.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "protime",
+          "placement": "front",
+          "source": {
+            "name": "Team SD Worx-Protime - Partners page",
+            "date": "2026-09-25",
+            "url": "https://teamsdworxprotime.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "specialized",
+          "placement": "partner",
+          "source": {
+            "name": "Team SD Worx-Protime - Partners page (premium partner Specialized)",
+            "date": "2026-09-25",
+            "url": "https://teamsdworxprotime.com/en/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam; SD Worx and Protime are the title sponsors, Specialized a premium partner.",
+      "change": null
+    },
+    {
+      "id": "team-visma-lease-a-bike-women-2026-home",
+      "clubId": "team-visma-lease-a-bike-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "visma",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        },
+        {
+          "sponsorId": "lease-a-bike",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam; Visma and Lease a Bike carry the team name (sister team of the men's WorldTour squad).",
+      "change": null
+    },
+    {
+      "id": "uno-x-mobility-women-2026-home",
+      "clubId": "uno-x-mobility-women",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "uno-x",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+            "date": "2026-08-05",
+            "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI Women's WorldTeam sponsored by Uno-X (Reitan Retail).",
+      "change": null
+    }
+  ],
+  "deals": [
+    {
+      "id": "uci-womens-worldtour-shimano",
+      "clubId": null,
+      "orgName": "UCI Women's WorldTour",
+      "sponsorId": "shimano",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "UCI - Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period (page footer: UCI World Cycling Partners Shimano, Tissot; Official Partner Santini)",
+        "date": "unknown",
+        "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+      },
+      "leagueId": "uci-womens-worldtour"
+    },
+    {
+      "id": "uci-womens-worldtour-tissot",
+      "clubId": null,
+      "orgName": "UCI Women's WorldTour",
+      "sponsorId": "tissot",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "UCI - Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period (page footer: UCI World Cycling Partners Shimano, Tissot)",
+        "date": "unknown",
+        "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+      },
+      "leagueId": "uci-womens-worldtour"
+    },
+    {
+      "id": "uci-womens-worldtour-santini",
+      "clubId": null,
+      "orgName": "UCI Women's WorldTour",
+      "sponsorId": "santini",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "UCI - Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period (page footer: UCI Official Partner Santini)",
+        "date": "unknown",
+        "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+      },
+      "leagueId": "uci-womens-worldtour"
+    }
+  ],
+  "claims": [],
+  "proposedRatings": [
+    {
+      "sponsorId": "limad",
+      "tier": "serious",
+      "ownerId": "limad",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "uae-mass-trial-upheld-2025"
+      ],
+      "reasoning": "L'IMAD is 'a sovereign investor of the Government of Abu Dhabi' (team sponsor page), the absorbed former ADQ; Cyclingnews (2026-07-27) calls it an Abu Dhabi sovereign wealth fund reportedly worth about $300bn. Same Abu Dhabi state money as the men's team's XRG/ADNOC: a 2024 mass trial of 43 activists with life sentences, upheld by the Federal Supreme Court in March 2025 (both claims already in normalized). serious."
+    },
+    {
+      "sponsorId": "alula",
+      "tier": "serious",
+      "ownerId": "royal-commission-for-alula",
+      "claimIds": [
+        "saudi-executions-2024"
+      ],
+      "reasoning": "AlUla (Experience AlUla) is run by the Royal Commission for AlUla, 'an arm of the Saudi Arabian government' (Australian Human Rights Institute, 2022-12); the UNSW Institute's director called the partnership sportswashing. Carries the Saudi state's record (a record 345 executions in 2024, claim saudi-executions-2024 already in normalized). serious, matching the men's file's rating of the same sponsor."
+    },
+    {
+      "sponsorId": "ihc",
+      "tier": "concern",
+      "ownerId": "international-holding-company",
+      "claimIds": [
+        "uae-mass-trial-2024"
+      ],
+      "reasoning": "IHC is an Abu Dhabi listed holding company chaired by Sheikh Tahnoon bin Zayed (ruling family; normalized owner entry and claim ihc-record note it is royal-family-linked but listed, not a state body). UAE state-adjacent money on the women's team jersey; concern rather than serious because the link is indirect."
+    },
+    {
+      "sponsorId": "fdj",
+      "tier": "concern",
+      "ownerId": "french-state",
+      "claimIds": [
+        "france-hrw-record"
+      ],
+      "reasoning": "FDJ is the French national lottery; the French state remains its largest shareholder after the 2019 privatisation (Cyclist, 2026-07-14). France's civic-space/policing record fits concern (claim france-hrw-record already in normalized); matches the men's file's rating of FDJ."
+    }
+  ],
+  "unsourced": [
+    "Individual jersey placements (front/back/sleeve) for non-title sponsors are not documented: women's teams publish partner lists but not jersey maps, so only title sponsors are placed 'front' and others 'partner'; sponsorsComplete is false for every kit.",
+    "L'IMAD's chairman: Cyclingnews (2026-07-27) says Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan; The Inner Ring (2026-08-05) says the fund is chaired by Sheikh Tahnoon bin Zayed. Both opened; the accounts were not reconciled.",
+    "NMDC Group's ownership (ADQ/L'IMAD stake) could not be verified: nmdcgroup.com did not resolve and adq.ae portfolio page could not be fetched; the team sponsor page describes the business only.",
+    "Analog's ownership: The Inner Ring (2026-08-05) says Analog is an IT company owned by G42; no primary corporate filing opened, so ownerId left null (G42 exists as a normalized sponsor id).",
+    "MyWhoosh ownership not found; the team page describes the product only.",
+    "Zondacrypto conflict: the UCI 2026 licence list (opened) still registers the team as Canyon//SRAM ZONDACRYPTO, but Cyclist (2026-07-14) and The Inner Ring (2026-08-05) both report zondacrypto was dropped in 2026 after the Polish exchange 'vanished taking some people's savings'; zondacrypto.com did not load (HTTP 522). Recorded as a change rather than a sponsor.",
+    "AG Insurance-Soudal's team website (aginsurancesoudalteam.be) did not load; AG Insurance/Soudal placements rest on the Cyclist 2026-07-14 explainer and the UCI registration name.",
+    "Human Powered Health: The Inner Ring describes it as a subsidiary of Optum (UnitedHealth Group); no primary corporate filing opened for the Optum parent link, owner entry marked accordingly.",
+    "Specialized, and SD Worx-Protime's premium partners (Dolmans Landscaping Group, Finvision, BMW Le Couter), are listed on the team partners page but only Specialized was given a placement; the others are not yet sponsors in the data.",
+    "The UCI press release page shows no publication date (footer copyright 2026 only).",
+    "Kit 'change' badges: the UAE Team ADQ -> L'IMAD rename (1 Aug 2026) and Canyon//SRAM dropping zondacrypto mid-2026 are recorded in kit summaries and here rather than as change badges, because 'worse/better' kinds do not fit a neutral rename/sponsor exit."
+  ]
+}

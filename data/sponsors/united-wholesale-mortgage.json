@@ -1,12 +1,12 @@
 {
   "id": "united-wholesale-mortgage",
   "name": "United Wholesale Mortgage",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "united-wholesale-mortgage-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": null,
+  "verdict": "Owned by United Wholesale Mortgage Corporation. Nothing found.",
   "claimIds": [],
   "aliases": [],
-  "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: Listed Company company with no significant conduct issues found"
 }

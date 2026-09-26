@@ -1,0 +1,1288 @@
+{
+ "target": "russian-premier-league",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/273",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "russian-premier-league",
+   "aliases": [
+    "rpl",
+    "russian premier liga",
+    "alfa-bank russian premier league",
+    "alfa-bank russian premier liga"
+   ],
+   "sportId": "soccer",
+   "name": "Alfa-Bank Russian Premier League",
+   "country": "Russia",
+   "clubCount": 16,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "2026-27 season ran from 24 July 2026 to 29 May 2027, with a winter break after 7 December 2026 until 26 February 2027.",
+    "Named 'Alfa-Bank Russian Premier League' for sponsorship reasons since July 2026 (title sponsor Alfa-Bank).",
+    "Russian clubs have been suspended from FIFA and UEFA competitions since February 2022 following the invasion of Ukraine.",
+    "The official premierliga.ru site is behind a Yandex anti-bot CAPTCHA, so club and sponsor facts rely on club announcements and press coverage."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "akhmat-grozny",
+   "name": "FC Akhmat Grozny",
+   "shortName": "Akhmat",
+   "code": "AKH",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "akhmat",
+    "akhmat grozny"
+   ]
+  },
+  {
+   "id": "akron-tolyatti",
+   "name": "FC Akron Tolyatti",
+   "shortName": "Akron",
+   "code": "AKR",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "akron",
+    "akron tolyatti"
+   ]
+  },
+  {
+   "id": "baltika-kaliningrad",
+   "name": "FC Baltika Kaliningrad",
+   "shortName": "Baltika",
+   "code": "BAL",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "baltika",
+    "baltika kaliningrad"
+   ]
+  },
+  {
+   "id": "cska-moscow",
+   "name": "PFC CSKA Moscow",
+   "shortName": "CSKA",
+   "code": "CSK",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "cska",
+    "cska moscow",
+    "tska"
+   ]
+  },
+  {
+   "id": "dynamo-makhachkala",
+   "name": "FC Dynamo Makhachkala",
+   "shortName": "Dynamo Makhachkala",
+   "code": "DKM",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "dinamo makhachkala",
+    "dynamo makhachkala"
+   ]
+  },
+  {
+   "id": "dynamo-moscow",
+   "name": "FC Dynamo Moscow",
+   "shortName": "Dynamo Moscow",
+   "code": "DYN",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "dinamo moscow",
+    "dinamo moskva",
+    "dynamo moscow"
+   ]
+  },
+  {
+   "id": "fakel-voronezh",
+   "name": "FC Fakel Voronezh",
+   "shortName": "Fakel",
+   "code": "FAK",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "fakel",
+    "fakel voronezh"
+   ]
+  },
+  {
+   "id": "krasnodar",
+   "name": "FC Krasnodar",
+   "shortName": "Krasnodar",
+   "code": "KRA",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "fk krasnodar"
+   ]
+  },
+  {
+   "id": "krylia-sovetov",
+   "name": "PFC Krylia Sovetov Samara",
+   "shortName": "Krylia Sovetov",
+   "code": "KRY",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "krylya sovetov",
+    "krylia sovetov samara",
+    "wings of the soviets"
+   ]
+  },
+  {
+   "id": "lokomotiv-moscow",
+   "name": "FC Lokomotiv Moscow",
+   "shortName": "Lokomotiv",
+   "code": "LOK",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "loko",
+    "lokomotiv moscow"
+   ]
+  },
+  {
+   "id": "orenburg",
+   "name": "FC Orenburg",
+   "shortName": "Orenburg",
+   "code": "ORE",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "orenburg"
+   ]
+  },
+  {
+   "id": "rodina-moscow",
+   "name": "FC Rodina Moscow",
+   "shortName": "Rodina",
+   "code": "ROD",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "rodina",
+    "rodina moscow"
+   ]
+  },
+  {
+   "id": "rostov",
+   "name": "FC Rostov",
+   "shortName": "Rostov",
+   "code": "ROS",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "rostov",
+    "fc rostov"
+   ]
+  },
+  {
+   "id": "rubin-kazan",
+   "name": "FC Rubin Kazan",
+   "shortName": "Rubin",
+   "code": "RUB",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "rubin",
+    "rubin kazan"
+   ]
+  },
+  {
+   "id": "spartak-moscow",
+   "name": "FC Spartak Moscow",
+   "shortName": "Spartak",
+   "code": "SPA",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "spartak",
+    "spartak moscow"
+   ]
+  },
+  {
+   "id": "zenit-st-petersburg",
+   "name": "FC Zenit Saint Petersburg",
+   "shortName": "Zenit",
+   "code": "ZEN",
+   "sportId": "soccer",
+   "leagueId": "russian-premier-league",
+   "country": "Russia",
+   "crest": null,
+   "aliases": [
+    "zenit",
+    "zenit st petersburg",
+    "zenit saint petersburg"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "russian-federation",
+   "name": "Russian Federation (Federal Agency for State Property Management)",
+   "type": "state",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Reused from normalized/owners.json."
+  },
+  {
+   "id": "rzd",
+   "name": "Russian Railways (OAO RZD)",
+   "type": "state",
+   "country": "Russia",
+   "parentId": "russian-federation",
+   "via": "100% of shares held by the Russian Federation",
+   "note": "RZD charter: all shares of the company are owned by the Russian Federation."
+  },
+  {
+   "id": "vtb",
+   "name": "Bank VTB (PJSC)",
+   "type": "listed-company",
+   "country": "Russia",
+   "parentId": "russian-federation",
+   "via": "Rosimushchestvo holds 60.93% of ordinary shares; Minfin holds 32.88% of preference shares",
+   "note": "Majority state-controlled per VTB's own IR shareholder-structure page."
+  },
+  {
+   "id": "rostec",
+   "name": "Rostec State Corporation",
+   "type": "state",
+   "country": "Russia",
+   "parentId": "russian-federation",
+   "note": "Russian state corporation; general sponsor of FC Baltika."
+  },
+  {
+   "id": "gazprom",
+   "name": "Gazprom (PJSC)",
+   "type": "listed-company",
+   "country": "Russia",
+   "parentId": "russian-federation",
+   "note": "Reused id; Russian state controls a majority stake via Rosimushchestvo."
+  },
+  {
+   "id": "lukoil",
+   "name": "LUKOIL (PJSC)",
+   "type": "listed-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Private: the Russian Federation's stake was reduced to 0% by September 2004 (Lukoil share-capital history)."
+  },
+  {
+   "id": "kazanorgsintez",
+   "name": "Kazanorgsintez (PAO)",
+   "type": "listed-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Petrochemical producer, part of SIBUR group; general sponsor of FC Rubin."
+  },
+  {
+   "id": "magnit",
+   "name": "Magnit (PJSC)",
+   "type": "listed-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Russian retail chain."
+  },
+  {
+   "id": "fonbet",
+   "name": "Fonbet",
+   "type": "private-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Russian bookmaker."
+  },
+  {
+   "id": "betcity",
+   "name": "Betcity",
+   "type": "private-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Russian bookmaker (operated by Fortuna)."
+  },
+  {
+   "id": "winline",
+   "name": "Winline",
+   "type": "private-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Russian bookmaker."
+  },
+  {
+   "id": "ekoniva",
+   "name": "Ekoniva",
+   "type": "private-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Ekaterinburg-based dairy holding (EkonivaMoloko)."
+  },
+  {
+   "id": "atlantis-pak",
+   "name": "Atlantis-Pak",
+   "type": "private-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Rostov-based food-packaging producer, part of Agrokom holding; title sponsor of FC Rostov."
+  },
+  {
+   "id": "akhmat-foundation",
+   "name": "Akhmat Foundation (Regional Public Fund named after Akhmat Kadyrov)",
+   "type": "state-fund",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Charitable foundation named after the first Chechen president; listed as a partner of RFK Akhmat."
+  },
+  {
+   "id": "alfa-bank",
+   "name": "Alfa-Bank (AO ALFA-BANK)",
+   "type": "private-company",
+   "country": "Russia",
+   "parentId": null,
+   "note": "Largest private Russian bank; title sponsor of the Russian Premier League."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "gazprom",
+   "name": "Gazprom",
+   "ownerId": "gazprom",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "gazprom"
+   ],
+   "note": "Zenit general sponsor and controlling owner (reused from normalized/, tier severe rated there)."
+  },
+  {
+   "id": "rzd",
+   "name": "Russian Railways (RZD)",
+   "ownerId": "rzd",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Lokomotiv Moscow general sponsor (reused from normalized/)."
+  },
+  {
+   "id": "vtb",
+   "name": "VTB",
+   "ownerId": "vtb",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Dynamo Moscow shirt sponsor (reused from normalized/)."
+  },
+  {
+   "id": "betcity",
+   "name": "Betcity",
+   "ownerId": "betcity",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Back-of-shirt sponsor at Dynamo Moscow and Dynamo Makhachkala partner."
+  },
+  {
+   "id": "winline",
+   "name": "Winline",
+   "ownerId": "winline",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Krasnodar shirt sponsor per its partner page; also a Zenit partner."
+  },
+  {
+   "id": "lukoil",
+   "name": "LUKOIL",
+   "ownerId": "lukoil",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Spartak Moscow: title sponsor for 20+ years and owner of 100% of the club since 2022."
+  },
+  {
+   "id": "kazanorgsintez",
+   "name": "Kazanorgsintez",
+   "ownerId": "kazanorgsintez",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Rubin Kazan general sponsor."
+  },
+  {
+   "id": "fonbet",
+   "name": "Fonbet",
+   "ownerId": "fonbet",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Krylia Sovetov lead sponsor; also official partner at CSKA and Rostov (reused from normalized/)."
+  },
+  {
+   "id": "ekoniva",
+   "name": "Ekoniva",
+   "ownerId": "ekoniva",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Fakel Voronezh partner."
+  },
+  {
+   "id": "atlantis-pak",
+   "name": "Atlantis-Pak",
+   "ownerId": "atlantis-pak",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "FC Rostov title sponsor."
+  },
+  {
+   "id": "akhmat-foundation",
+   "name": "Akhmat Foundation",
+   "ownerId": "akhmat-foundation",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Regional Public Fund named after Akhmat Kadyrov; listed partner of RFK Akhmat."
+  },
+  {
+   "id": "magnit",
+   "name": "Magnit",
+   "ownerId": "magnit",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Dynamo Makhachkala partner."
+  },
+  {
+   "id": "alfa-bank",
+   "name": "Alfa-Bank",
+   "ownerId": "alfa-bank",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor: league is named Alfa-Bank Russian Premier League."
+  },
+  {
+   "id": "rostelecom",
+   "name": "Rostelecom",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "rostelecom"
+   ],
+   "note": "Reused from normalized/."
+  },
+  {
+   "id": "chestny-znak",
+   "name": "Chestny Znak",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "CSKA strategic partner; state digital-marketing system."
+  },
+  {
+   "id": "veb-rf",
+   "name": "VEB.RF",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "CSKA title partner; Russian state development corporation."
+  },
+  {
+   "id": "constell-group",
+   "name": "Constell Group",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "FC Krasnodar general partner (confectionery production group)."
+  },
+  {
+   "id": "sogaz",
+   "name": "SOGAZ",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "sogaz"
+   ],
+   "note": "Baltika sponsor (reused from normalized/)."
+  },
+  {
+   "id": "ak-bars-bank",
+   "name": "Ak Bars Bank",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official bank of FC Rubin."
+  },
+  {
+   "id": "sovcombank",
+   "name": "Sovcombank",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "sovcombank"
+   ],
+   "note": "Lokomotiv official partner (reused from normalized/)."
+  },
+  {
+   "id": "ozon",
+   "name": "Ozon",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Krasnodar partner."
+  },
+  {
+   "id": "megafon",
+   "name": "MegaFon",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "megafon"
+   ],
+   "note": "Zenit and Krylia Sovetov partner."
+  },
+  {
+   "id": "rostec",
+   "name": "Rostec",
+   "ownerId": "rostec",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": "State corporation (Rostec) behind Baltika Kaliningrad's front-of-shirt sponsorship; not yet rated.",
+   "claimIds": [],
+   "aliases": [
+    "Ростех",
+    "Rostec State Corporation"
+   ]
+  }
+ ],
+ "kits": [
+  {
+   "id": "zenit-st-petersburg-2026-27-home",
+   "clubId": "zenit-st-petersburg",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "gazprom",
+     "placement": "front",
+     "source": {
+      "name": "FC Zenit – Club (about)",
+      "date": "2026-09-25",
+      "url": "https://www.fc-zenit.ru/club/about/",
+      "note": "\"Генеральный спонсор клуба — публичное акционерное общество «Газпром»\"."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Gazprom general sponsor on the front of the Zenit shirt; other partners (Winline, Aeroflot, MegaFon) per the club partners page but shirt placement not confirmed.",
+   "change": null
+  },
+  {
+   "id": "lokomotiv-moscow-2026-27-home",
+   "clubId": "lokomotiv-moscow",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "rzd",
+     "placement": "front",
+     "source": {
+      "name": "FC Lokomotiv – Partners",
+      "date": "2026-09-25",
+      "url": "https://www.fclm.ru/club/partners/",
+      "note": "\"ОАО «РЖД» Генеральный спонсор ФК «Локомотив»\"."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "RZD general sponsor of Lokomotiv; front-shirt placement follows the club's partner listing, not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "dynamo-moscow-2026-27-home",
+   "clubId": "dynamo-moscow",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "vtb",
+     "placement": "front",
+     "source": {
+      "name": "FC Dynamo Moscow – site footer partners",
+      "date": "2026-09-25",
+      "url": "https://fcdynamo.ru/",
+      "note": "VTB listed first among club partners."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "VTB shirt sponsor per the club site footer; exact placement not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "spartak-moscow-2026-27-home",
+   "clubId": "spartak-moscow",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "lukoil",
+     "placement": "front",
+     "source": {
+      "name": "Spartak.com (archived homepage partner data)",
+      "date": "2024-01-04",
+      "url": "https://web.archive.org/web/20240104102625/https://spartak.com/",
+      "note": "\"Более 20 лет «ЛУКОЙЛ» оказывал неоценимую поддержку «Спартаку» как титульный спонсор, а летом 2022 года Компания объявила о приобретении 100% акций клуба\"."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "LUKOIL title sponsor and 100% owner of the club since summer 2022; current-season shirt placement not re-confirmed against a 2026-27 kit launch.",
+   "change": null
+  },
+  {
+   "id": "cska-moscow-2026-27-home",
+   "clubId": "cska-moscow",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "veb-rf",
+     "placement": "front",
+     "source": {
+      "name": "PFC CSKA – Partners",
+      "date": "2026-09-25",
+      "url": "https://pfc-cska.com/ru/club/partneryi/",
+      "note": "Титульный партнер ВЭБ.РФ."
+     }
+    },
+    {
+     "sponsorId": "fonbet",
+     "placement": "back",
+     "source": {
+      "name": "PFC CSKA – Partners",
+      "date": "2026-09-25",
+      "url": "https://pfc-cska.com/ru/club/partneryi/",
+      "note": "Официальный партнер FONBET; FONBET BAR lounge on the arena named in its description."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "VEB.RF title partner and Fonbet official partner per the club partners page; shirt placements not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "krasnodar-2026-27-home",
+   "clubId": "krasnodar",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "winline",
+     "placement": "front",
+     "source": {
+      "name": "FC Krasnodar – Sponsors and partners",
+      "date": "2026-09-25",
+      "url": "https://fckrasnodar.ru/club/partners",
+      "note": "БК Winline listed among club partners with a dedicated description."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Winline is a named club partner; front-shirt placement not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "rubin-kazan-2026-27-home",
+   "clubId": "rubin-kazan",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "kazanorgsintez",
+     "placement": "front",
+     "source": {
+      "name": "FC Rubin – Partners",
+      "date": "2026-09-25",
+      "url": "https://www.rubin-kazan.ru/club/partners/",
+      "note": "Казаньоргсинтез — Генеральный спонсор."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Kazanorgsintez general sponsor; shirt placement not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "krylia-sovetov-2026-27-home",
+   "clubId": "krylia-sovetov",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "fonbet",
+     "placement": "front",
+     "source": {
+      "name": "PFC Krylia Sovetov – Sponsors and partners",
+      "date": "2026-09-25",
+      "url": "https://pfcks.ru/stranitsa-sponsorov/",
+      "note": "Fonbet is the first (large-tier) sponsor on the club's sponsors page."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Fonbet leads the club sponsors page; front-shirt placement not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "rostov-2026-27-home",
+   "clubId": "rostov",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "atlantis-pak",
+     "placement": "front",
+     "source": {
+      "name": "FC Rostov – Sponsors and partners",
+      "date": "2026-09-25",
+      "url": "https://fc-rostov.ru/club/sponsors",
+      "note": "Титульный спонсор Атлантис-Пак."
+     }
+    },
+    {
+     "sponsorId": "fonbet",
+     "placement": "back",
+     "source": {
+      "name": "FC Rostov – Sponsors and partners",
+      "date": "2026-09-25",
+      "url": "https://fc-rostov.ru/club/sponsors",
+      "note": "Официальный букмекер ФК \"Ростов\"."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Atlantis-Pak title sponsor and Fonbet official bookmaker per the club sponsors page; shirt placements not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "baltika-kaliningrad-2026-27-home",
+   "clubId": "baltika-kaliningrad",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "rostec",
+     "placement": "front",
+     "source": {
+      "name": "FC Baltika – official site",
+      "date": "2026-09-25",
+      "url": "https://www.fc-baltika.ru/",
+      "note": "Ростех logo linked under Генеральный спонсор ФК Балтика."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Rostec general sponsor per the club site; shirt placement not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "akhmat-grozny-2026-27-home",
+   "clubId": "akhmat-grozny",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "akhmat-foundation",
+     "placement": "front",
+     "source": {
+      "name": "RFK Akhmat – Partners",
+      "date": "2026-09-25",
+      "url": "https://www.fc-akhmat.ru/club/partners/",
+      "note": "Фонд Ахмат (fondkadyrova.net) listed among club partners."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Akhmat Foundation listed as a club partner; front-shirt placement not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "dynamo-makhachkala-2026-27-home",
+   "clubId": "dynamo-makhachkala",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "magnit",
+     "placement": "front",
+     "source": {
+      "name": "FC Dynamo Makhachkala – Club partners",
+      "date": "2026-09-25",
+      "url": "https://dinamo-mx.ru/",
+      "note": "Магнит (Основа) in the club partners carousel."
+     }
+    },
+    {
+     "sponsorId": "betcity",
+     "placement": "back",
+     "source": {
+      "name": "FC Dynamo Makhachkala – Club partners",
+      "date": "2026-09-25",
+      "url": "https://dinamo-mx.ru/",
+      "note": "Бетсити first in the club partners carousel."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Magnit and Betcity in the club partners carousel; shirt placements not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "fakel-voronezh-2026-27-home",
+   "clubId": "fakel-voronezh",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "ekoniva",
+     "placement": "front",
+     "source": {
+      "name": "FC Fakel – Partners",
+      "date": "2026-09-25",
+      "url": "https://fakelfc.ru/partners",
+      "note": "Эконива (ekoniva-moloko.com) listed among club partners."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Ekoniva listed among club partners; shirt placement not confirmed against a kit launch.",
+   "change": null
+  },
+  {
+   "id": "akron-tolyatti-2026-27-home",
+   "clubId": "akron-tolyatti",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": "No front-of-shirt sponsor found on the club sponsors page (fcakron.ru/sponsors lists only partners).",
+   "change": null
+  },
+  {
+   "id": "orenburg-2026-27-home",
+   "clubId": "orenburg",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": "No front-of-shirt sponsor confirmed on the club site; the Gazprom dobycha Orenburg 'general sponsor' block is commented out in the page markup.",
+   "change": null
+  },
+  {
+   "id": "rodina-moscow-2026-27-home",
+   "clubId": "rodina-moscow",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": "No sponsor page on the club site (rodina.moscow); no front-of-shirt sponsor confirmed.",
+   "change": null
+  }
+ ],
+ "deals": [
+  {
+   "id": "russian-premier-league-alfa-bank",
+   "clubId": null,
+   "orgName": "Alfa-Bank Russian Premier League",
+   "sponsorId": "alfa-bank",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Telegram @premierliga (official RPL channel)",
+    "date": "2026-09-25",
+    "url": "https://t.me/s/premierliga",
+    "note": "Channel title and self-description: \"Официальный телеграм-канал Альфа-Банк Российской Премьер-Лиги (Альфа-Банк РПЛ)\"."
+   },
+   "leagueId": "russian-premier-league",
+   "note": "The league is named Alfa-Bank Russian Premier League for sponsorship; contract term not published."
+  },
+  {
+   "id": "ak-bars-bank-rubin-kazan",
+   "clubId": "rubin-kazan",
+   "orgName": null,
+   "sponsorId": "ak-bars-bank",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Club partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+    "note": "Official bank of FC Rubin."
+   }
+  },
+  {
+   "id": "chestny-znak-cska-moscow",
+   "clubId": "cska-moscow",
+   "orgName": null,
+   "sponsorId": "chestny-znak",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Club partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+    "note": "CSKA strategic partner; state digital-marketing system."
+   }
+  },
+  {
+   "id": "constell-group-krasnodar",
+   "clubId": "krasnodar",
+   "orgName": null,
+   "sponsorId": "constell-group",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Club partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+    "note": "FC Krasnodar general partner (confectionery production group)."
+   }
+  },
+  {
+   "id": "megafon-zenit-st-petersburg",
+   "clubId": "zenit-st-petersburg",
+   "orgName": null,
+   "sponsorId": "megafon",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Club partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+    "note": "Zenit and Krylia Sovetov partner."
+   }
+  },
+  {
+   "id": "ozon-krasnodar",
+   "clubId": "krasnodar",
+   "orgName": null,
+   "sponsorId": "ozon",
+   "placement": "partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Club partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+    "note": "Krasnodar partner."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "rzd-state-owned",
+   "ownerIds": [
+    "rzd",
+    "russian-federation"
+   ],
+   "text": "All shares of OAO Russian Railways are owned by the Russian Federation (RZD charter, clause 32).",
+   "source": {
+    "name": "RZD Charter (via Wayback Machine, company.rzd.ru)",
+    "date": "2022-02-19",
+    "url": "https://web.archive.org/web/20220219191724/https://company.rzd.ru/ru/9353/page/105104?id=1792",
+    "note": "\"Все акции общества находятся в собственности Российской Федерации\"; charter approved by Government Directive No. 1838 of 27.10.2021."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "vtb-state-control",
+   "ownerIds": [
+    "vtb",
+    "russian-federation"
+   ],
+   "text": "The Russian Federation holds a controlling position in Bank VTB: Rosimushchestvo held 60.93% of ordinary shares (12.13% of charter capital) and Minfin 100% of first-type preference shares (32.88% of charter capital).",
+   "source": {
+    "name": "VTB – Shareholder structure (IR governance, archived)",
+    "date": "2017-09-14",
+    "url": "https://web.archive.org/web/20170914171539/http://www.vtb.ru/ir/governance/structure/",
+    "note": "Shareholders with >5% as of 1 Sep 2017; the current vtb.ru site is unreachable from the research machine."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "lukoil-owns-spartak",
+   "ownerIds": [
+    "lukoil"
+   ],
+   "text": "LUKOIL supported Spartak Moscow as title sponsor for more than 20 years and in summer 2022 acquired 100% of the club and the Otkritie Bank Arena stadium.",
+   "source": {
+    "name": "Spartak.com partner data (archived)",
+    "date": "2024-01-04",
+    "url": "https://web.archive.org/web/20240104102625/https://spartak.com/",
+    "note": "Club's own partner description."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "lukoil-private-ownership",
+   "ownerIds": [
+    "lukoil"
+   ],
+   "text": "The Russian Federation's stake in LUKOIL was reduced to 0% following the September 2004 auction of the remaining 7.6% state-held shares to ConocoPhillips affiliate Springtime Holdings.",
+   "source": {
+    "name": "LUKOIL – Share capital history",
+    "date": "2026-09-25",
+    "url": "https://lukoil.ru/InvestorAndShareholderCenter/Securities/sharecapital",
+    "note": "\"Доля государства сократилась до 0%\" (2004)."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "zenit-gazprom-owner",
+   "ownerIds": [
+    "gazprom",
+    "russian-federation"
+   ],
+   "text": "In winter 2005/06 Gazprom bought the controlling stake in FC Zenit, and Gazprom remains the club's general sponsor.",
+   "source": {
+    "name": "FC Zenit – club history",
+    "date": "2026-09-25",
+    "url": "https://www.fc-zenit.ru/club/zenit_history/history_1920/",
+    "note": "\"Зимой-2005/06 у клуба снова сменился владелец: контрольный пакет акций «Зенита» выкупил... ОАО «Газпром»\"; general-sponsor line confirmed on fc-zenit.ru/club/about/."
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "rzd",
+   "tier": "severe",
+   "ownerId": "rzd",
+   "claimIds": [
+    "rzd-state-owned"
+   ],
+   "reasoning": "RZD is 100% owned by the Russian Federation, the same ownership chain that puts Gazprom and Aeroflot at severe; propose the same tier pending a human review of rzd against russian-federation-record."
+  },
+  {
+   "sponsorId": "vtb",
+   "tier": "severe",
+   "ownerId": "vtb",
+   "claimIds": [
+    "vtb-state-control"
+   ],
+   "reasoning": "Majority state-controlled bank (Rosimushchestvo + Minfin >93% of voting structure per its own IR page); propose severe pending human review."
+  },
+  {
+   "sponsorId": "gazprom",
+   "tier": "severe",
+   "ownerId": "gazprom",
+   "claimIds": [
+    "zenit-gazprom-owner"
+   ],
+   "reasoning": "Already rated severe in normalized/ with russian-federation-record; no change proposed, listed only to attach the Zenit ownership claim."
+  }
+ ],
+ "unsourced": [
+  "Front-of-shirt placements for most clubs follow each club's own sponsors/partners page (general sponsor or first-listed partner), not a 2026-27 kit launch or match photo; treat placements as provisional.",
+  "Zenit sleeve/back partners (Winline, Aeroflot, MegaFon, Gazprom Neft, Gazprombank, SOGAZ) from fc-zenit.ru/biz/partners/ — shirt placements not confirmed.",
+  "CSKA sleeve/back sponsors per Wikipedia's 2026-27 kit table include Chestny Znak; Chestny Znak is confirmed as a CSKA 'strategic partner' on pfc-cska.com but its shirt placement is not confirmed.",
+  "Akhmat Grozny: Wikipedia's kit table lists 'Akhmat Foundation' as shirt sponsor; the club partners page lists Фонд Ахмат (fondkadyrova.net) as a partner but does not state shirt placement.",
+  "Fakel Voronezh: Wikipedia's kit table lists Ekoniva as shirt sponsor; Ekoniva is confirmed as a club partner on fakelfc.ru/partners but without a stated tier or shirt placement.",
+  "Orenburg: Wikipedia's kit table lists EcoGas as shirt sponsor; EcoGas could not be confirmed anywhere on fcorenburg.ru (the Gazprom dobycha Orenburg general-sponsor block is commented out in the page markup).",
+  "Krasnodar: Constell Group is the club's 'general partner' per fckrasnodar.ru, but Wikipedia's kit table says the shirt sponsor is Winline and the kit maker is self-branded; the relationship between the two is not documented.",
+  "Dynamo Moscow sleeve/back sponsor Betcity is confirmed in the fcdynamo.ru footer but its shirt placement is not confirmed.",
+  "Kit makers per Wikipedia's 2026-27 table (Jogel: Akhmat, Rostov, Spartak, Zenit; Italsport: Akron, Lokomotiv; Jako: Baltika; PRIMERA: CSKA, Orenburg; Bosco: Dynamo Moscow; Kelme: Fakel, Krylia Sovetov) could not be verified against club pages and are not recorded as kit sponsors.",
+  "Alfa-Bank title-sponsor deal value and contract term not published in any source found (premierliga.ru is behind a Yandex CAPTCHA).",
+  "Owners for VEB.RF, Chestny Znak, Constell Group, Ak Bars Bank, Ozon, MegaFon and SOGAZ were not researched; ownerId is null.",
+  "krylia-sovetov.ru domain has expired (parked page); the club's live site is pfcks.ru.",
+  "VTB shareholder-structure source is a 2017 archived page (vtb.ru unreachable); current holdings may differ."
+ ]
+}

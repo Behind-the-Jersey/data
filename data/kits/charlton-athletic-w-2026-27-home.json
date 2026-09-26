@@ -1,0 +1,38 @@
+{
+  "id": "charlton-athletic-w-2026-27-home",
+  "clubId": "charlton-athletic-w",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "rsk-group",
+      "placement": "front",
+      "source": {
+        "name": "Charlton Athletic FC, official announcement",
+        "date": "2025-05-22",
+        "url": "https://www.cafc.co.uk/news/charlton-announce-new-partnership-rsk"
+      }
+    },
+    {
+      "sponsorId": "todaytix",
+      "placement": "back",
+      "source": {
+        "name": "Charlton Athletic FC, TodayTix announcement",
+        "date": "2026-06-30",
+        "url": "https://www.cafc.co.uk/news/todaytix-announced-official-experience-partner",
+        "note": "Two-year deal from June 2026 puts the TodayTix logo on the back of the men's and women's first-team shirts; confirmed on the 2026/27 Reebok home kit (2 Jul 2026) and away kit (19 Aug 2026), which women's first-teamers modelled."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "RSK Group, a UK engineering and environmental services group, fronts the Charlton Women shirt, with TodayTix on the back.",
+  "change": {
+    "kind": "better",
+    "text": "New to the WSL: promoted from WSL2 as play-off winners",
+    "badge": "Promoted"
+  }
+}

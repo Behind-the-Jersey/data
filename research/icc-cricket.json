@@ -1,0 +1,526 @@
+{
+  "target": "icc-cricket",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/252",
+  "sports": [
+    {
+      "id": "cricket",
+      "label": "Cricket",
+      "status": "not-mapped",
+      "aliases": ["T20", "ODI", "Test cricket"]
+    }
+  ],
+  "leagues": [
+    {
+      "id": "icc-cricket",
+      "aliases": ["ICC", "International Cricket Council", "ICC events"],
+      "sportId": "cricket",
+      "name": "ICC events",
+      "country": "Global",
+      "clubCount": 4,
+      "season": "2026-27",
+      "status": "partial",
+      "notes": [
+        "The ICC is a governing body, not a league; its commercial partners cover its major events rather than team shirts. Modelled like FIFA: one partner list covering the four senior events in the 2026-27 window.",
+        "Premier Partners (top tier): Emirates, Aramco, DP World, Hyundai. Global Partners: Coca-Cola, Budweiser (AB InBev), Google, Sobha Realty, Rexona (Unilever), Marriott Bonvoy. Official supporter: Royal Stag (per https://www.icc-cricket.com/about/partners, fetched 2026-09-25).",
+        "Rosters differ slightly per event: the Women's T20 World Cup 2026 footer showed Rexona but not Sobha Realty; the men's-event footers show Sobha Realty. Rexona rides the Unilever women's-cricket deal (women's events only), Sobha Realty is a men's-events-only Global Partner.",
+        "ICC's Cricket 4 Good sits in the 'official supporters' footer block but is the ICC's own social-responsibility programme, not a sponsor.",
+        "Side note, not researched as a target: the UAE's ILT20 (Emirates Cricket Board) has DP World as title sponsor; franchise owners per Wikipedia (lead only): Reliance, Adani, GMR, Knight Riders, Lancer Capital, Capri Global."
+      ]
+    }
+  ],
+  "clubs": [
+    {
+      "id": "mens-t20-world-cup-2026",
+      "name": "ICC Men's T20 World Cup 2026",
+      "shortName": "Men's T20WC 2026",
+      "code": "MT20WC26",
+      "sportId": "cricket",
+      "leagueId": "icc-cricket",
+      "country": "India, Sri Lanka",
+      "crest": null,
+      "aliases": ["T20 World Cup 2026", "ICC Men's T20 World Cup 2026"]
+    },
+    {
+      "id": "womens-t20-world-cup-2026",
+      "name": "ICC Women's T20 World Cup 2026",
+      "shortName": "Women's T20WC 2026",
+      "code": "WT20WC26",
+      "sportId": "cricket",
+      "leagueId": "icc-cricket",
+      "country": "England, Wales",
+      "crest": null,
+      "aliases": ["T20 World Cup 2026", "ICC Women's T20 World Cup 2026"]
+    },
+    {
+      "id": "cricket-world-cup-2027",
+      "name": "ICC Men's Cricket World Cup 2027",
+      "shortName": "CWC 2027",
+      "code": "CWC27",
+      "sportId": "cricket",
+      "leagueId": "icc-cricket",
+      "country": "South Africa, Zimbabwe, Namibia",
+      "crest": null,
+      "aliases": ["Cricket World Cup 2027", "ICC Cricket World Cup 2027"]
+    },
+    {
+      "id": "world-test-championship",
+      "name": "ICC World Test Championship 2025-27",
+      "shortName": "WTC",
+      "code": "WTC",
+      "sportId": "cricket",
+      "leagueId": "icc-cricket",
+      "country": "Global",
+      "crest": null,
+      "aliases": ["World Test Championship", "ICC World Test Championship 2025-27"]
+    }
+  ],
+  "owners": [
+    {
+      "id": "dp-world-limited",
+      "name": "DP World Limited",
+      "type": "private-company",
+      "country": "UAE",
+      "note": "The listed trading group for DP World operations; its FY2025 Annual Report names Port & Free Zone World FZE as parent.",
+      "parentId": "port-free-zone-world"
+    },
+    {
+      "id": "port-free-zone-world",
+      "name": "Port & Free Zone World FZE",
+      "type": "private-company",
+      "country": "UAE",
+      "via": "wholly owned subsidiary of Dubai World Corporation",
+      "parentId": "dubai-world-corporation"
+    },
+    {
+      "id": "dubai-world-corporation",
+      "name": "Dubai World Corporation",
+      "type": "state",
+      "country": "UAE",
+      "via": "state-owned Dubai holding group",
+      "note": "DP World Limited's FY2025 Annual Report states 'The Government of Dubai is the Ultimate owner of the Group.'",
+      "parentId": "government-of-dubai"
+    },
+    {
+      "id": "unilever-plc",
+      "name": "Unilever PLC",
+      "type": "listed-company",
+      "country": "United Kingdom",
+      "parentId": null
+    },
+    {
+      "id": "marriott-international",
+      "name": "Marriott International, Inc.",
+      "type": "listed-company",
+      "country": "United States",
+      "parentId": null
+    },
+    {
+      "id": "sobha-realty",
+      "name": "Sobha Realty",
+      "type": "private-company",
+      "country": "UAE",
+      "via": "founded and chaired by PNC Menon",
+      "note": "Part of the Sobha Group founded by PNC Menon (sobharealty.com/about-us). Not state-linked.",
+      "parentId": null
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "aramco",
+      "name": "Aramco",
+      "ownerId": "government-of-saudi-arabia",
+      "ownership": "owned",
+      "tier": "serious",
+      "status": "rated",
+      "verdict": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%.",
+      "claimIds": ["gov-saudi-arabia-record"],
+      "aliases": [],
+      "note": "ICC Premier Partner until the end of 2027 across all men's and women's senior and U19 events; Aramco Player of the Tournament and Aramco Power Rating branding."
+    },
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "ownerId": "government-of-dubai",
+      "ownership": "owned",
+      "tier": "serious",
+      "status": "rated",
+      "verdict": "The airline is owned by the Dubai government's investment arm.",
+      "claimIds": ["uae-mass-trial-2024"],
+      "aliases": ["dubai"],
+      "ownerVerb": "owned by",
+      "why": {
+        "text": "Dubai is part of the United Arab Emirates, where criticising the government can land you in prison. In 2024, 43 activists got life sentences in a single mass trial. Putting Emirates on a famous shirt makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+        "claimIds": ["uae-mass-trial-2024"],
+        "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+        "status": "draft"
+      },
+      "note": "ICC Premier Partner; eight-year extension to 2031 announced 2024; naming rights to the Emirates ICC Elite Panel of Umpires and Match Referees with Fly Better branding on officials' apparel."
+    },
+    {
+      "id": "dp-world",
+      "name": "DP World",
+      "ownerId": "dp-world-limited",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": ["DP World Logistics"],
+      "note": "ICC Premier Partner (top tier) since May 2024, original partnership June 2023; also runs the Beyond Boundaries grassroots programme. Ultimate owner is the Government of Dubai per DP World's FY2025 Annual Report."
+    },
+    {
+      "id": "hyundai",
+      "name": "Hyundai (Hyundai Motor America)",
+      "ownerId": "hyundai-motor-group",
+      "ownership": "owned",
+      "tier": "concern",
+      "status": "rated",
+      "verdict": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
+      "claimIds": ["hyundai-owner-record"],
+      "aliases": [],
+      "note": "ICC Premier Partner from December 2025 (multi-year); coin-toss association and venue activations."
+    },
+    {
+      "id": "coca-cola",
+      "name": "Coca-Cola",
+      "ownerId": "coca-cola-company",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "ICC Global Partner 2019-2031 (eight-year extension announced December 2023); exclusive non-alcoholic beverage partner across all three formats."
+    },
+    {
+      "id": "ab-inbev",
+      "name": "AB InBev",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": ["Budweiser"],
+      "note": "ICC Official Beer Partner through 2027 (announced December 2025), led by Budweiser 0.0; covers all major ICC men's and women's events through 2027."
+    },
+    {
+      "id": "unilever",
+      "name": "Unilever",
+      "ownerId": "unilever-plc",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": ["Rexona", "Dove"],
+      "note": "ICC's first dedicated partner for women's cricket: two-year deal to end of 2027 via Unilever personal-care brands Rexona and Dove (announced IWD, 8 March 2025). Rexona appears as a Global Partner on women's-event footers."
+    },
+    {
+      "id": "marriott-bonvoy",
+      "name": "Marriott Bonvoy",
+      "ownerId": "marriott-international",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "ICC Official Accommodation Partner through 2029 (announced 9 January 2026); official travel packages via ICC Travel and Tours."
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "ownerId": "alphabet-inc",
+      "ownership": "owned",
+      "tier": "none",
+      "status": "rated",
+      "verdict": "Owned by Alphabet Inc.. Nothing found.",
+      "claimIds": ["alphabet-inc-record"],
+      "aliases": [],
+      "note": "ICC women's-only global partnership (announced 29 August 2025); the Men's T20 World Cup 2026 was billed as the first AI-powered T20 World Cup, fuelled by Gemini and Pixel."
+    },
+    {
+      "id": "sobha-realty",
+      "name": "Sobha Realty",
+      "ownerId": "sobha-realty",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": ["Sobha"],
+      "note": "ICC Global Partner for ICC Men's events from February 2025 (started with the Men's Champions Trophy 2025); privately held by the Sobha Group of founder-chairman PNC Menon, not state-linked."
+    },
+    {
+      "id": "royal-stag",
+      "name": "Royal Stag",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": ["Seagram's Royal Stag"],
+      "note": "ICC Official Supporter until end of 2027 (announced 5 June 2024), extending a 2018-2023 partnership. Quoted ICC announcement was made by Pernod Ricard India's CMO; the owner link to Pernod Ricard is noted but not filed as a claim."
+    }
+  ],
+  "kits": [],
+  "deals": [
+    {
+      "id": "icc-aramco",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "aramco",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": "2027",
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Four-year extension (after an initial 18-month term) as Premier Partner across all men's and women's senior and U19 events until the end of 2027; includes Aramco Player of the Tournament and Power Performances assets.",
+      "source": {
+        "name": "ICC media release: ICC announces extension to global partnership with Aramco",
+        "date": "2024-05-09",
+        "url": "https://www.icc-cricket.com/news/icc-announces-extension-to-global-partnership-with-aramco"
+      }
+    },
+    {
+      "id": "icc-emirates",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "emirates",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": "2031",
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Eight-year extension to 2031 covering 28 ICC men's and women's events; Emirates holds naming rights to the Emirates ICC Elite Panel of Umpires and Match Referees, with Fly Better branding on officials' apparel.",
+      "source": {
+        "name": "ICC media release: Emirates and ICC extend long-standing global partnership for a further eight years",
+        "date": "2024-05-30",
+        "url": "https://www.icc-cricket.com/news/emirates-and-international-cricket-council-extend-long-standing-global-partnership-for-a-further-eight-years"
+      }
+    },
+    {
+      "id": "icc-dp-world",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "dp-world",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": null,
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Elevated from Global Partner (partnership begun June 2023) to Premier Partner on 29 May 2024; no end date stated in either announcement.",
+      "source": {
+        "name": "ICC media release: DP World becomes ICC Top Tier Partner to deliver cricket at every level",
+        "date": "2024-05-29",
+        "url": "https://www.icc-cricket.com/news/dp-world-becomes-icc-top-tier-partner-to-deliver-cricket-at-every-level"
+      }
+    },
+    {
+      "id": "icc-hyundai",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "hyundai",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Multi-year global partnership announced 23 December 2025; Hyundai becomes a Premier Partner with coin-toss association and venue activations. End date not stated.",
+      "source": {
+        "name": "ICC media release: ICC announces multi-year global partnership with Hyundai",
+        "date": "2025-12-23",
+        "url": "https://www.icc-cricket.com/news/icc-announces-multi-year-global-partnership-with-hyundai"
+      }
+    },
+    {
+      "id": "icc-ab-inbev",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "ab-inbev",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": "2027",
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Landmark global partnership as Official Beer Partner led by Budweiser 0.0, covering all major ICC men's and women's events through 2027, including both T20 World Cups 2026 and the Women's Champions Trophy.",
+      "source": {
+        "name": "ICC media release: AB InBev and ICC announce landmark global partnership",
+        "date": "2025-12-11",
+        "url": "https://www.icc-cricket.com/news/ab-inbev-and-international-cricket-council-announce-landmark-global-partnership"
+      }
+    },
+    {
+      "id": "icc-coca-cola",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "coca-cola",
+      "placement": "league-partner",
+      "from": "2019",
+      "to": "2031",
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Eight-year extension announced December 2023, taking the total association to 13 years (2019-2031) as Global Partner with exclusive non-alcoholic beverage rights across World events in all three formats.",
+      "source": {
+        "name": "ICC media release: Coca-Cola extends partnership with the ICC for eight years",
+        "date": "2023-12-26",
+        "url": "https://www.icc-cricket.com/news/coca-cola-extends-partnership-with-the-international-cricket-council-icc-for-eight-years"
+      }
+    },
+    {
+      "id": "icc-marriott-bonvoy",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "marriott-bonvoy",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": "2029",
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Global multi-year partnership as Official Accommodation Partner through to 2029, announced in Mumbai; expanded to the Women's T20 World Cup 2026 in May 2026.",
+      "source": {
+        "name": "ICC media release: ICC announces global partnership with Marriott Bonvoy",
+        "date": "2026-01-09",
+        "url": "https://www.icc-cricket.com/news/icc-announces-global-partnership-with-marriott-bonvoy-to-elevate-the-experience-for-travelling-cricket-fans"
+      }
+    },
+    {
+      "id": "icc-unilever",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "unilever",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": "2027",
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "ICC's first dedicated partner for women's cricket: two-year partnership until the end of 2027 via Unilever personal-care brands including Rexona and Dove; covers Women's T20 World Cups, U19 Women's T20 World Cups and the Women's Champions Trophy.",
+      "source": {
+        "name": "ICC media release: ICC and Unilever announce groundbreaking partnership on International Women's Day",
+        "date": "2025-03-08",
+        "url": "https://www.icc-cricket.com/news/icc-and-unilever-announce-groundbreaking-partnership-on-international-women-s-day-to-strengthen-the-future-of-women-s-cricket"
+      }
+    },
+    {
+      "id": "icc-sobha-realty",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "sobha-realty",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Global Partner for ICC Men's events from February 2025, starting with the ICC Men's Champions Trophy 2025; spans in-stadia, broadcast and digital rights. End date not stated.",
+      "source": {
+        "name": "ICC media release: ICC and Sobha Realty announce major global partnership",
+        "date": "2025-02-17",
+        "url": "https://www.icc-cricket.com/news/icc-and-sobha-realty-announce-major-global-partnership"
+      }
+    },
+    {
+      "id": "icc-royal-stag",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "royal-stag",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": "2027",
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Renewed as Official Supporter for four more years, running until the end of 2027, after a five-year 2018-2023 partnership; announcement made by Pernod Ricard India's CMO.",
+      "source": {
+        "name": "ICC media release: Seagram's Royal Stag renews partnership with ICC as Official Supporter for four years",
+        "date": "2024-06-05",
+        "url": "https://www.icc-cricket.com/news/seagram-s-royal-stag-renews-partnership-with-icc-as-official-supporter-for-four-years"
+      }
+    },
+    {
+      "id": "icc-google",
+      "clubId": null,
+      "orgName": "ICC",
+      "sponsorId": "google",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "leagueId": "icc-cricket",
+      "note": "Landmark women's-only global partnership announced 29 August 2025 (no term stated); on 5 February 2026 the ICC and Google announced the first AI-powered ICC Men's T20 World Cup 2026 fuelled by Gemini and Pixel.",
+      "source": {
+        "name": "ICC story: ICC, Google announce partnership to elevate women's cricket",
+        "date": "2025-08-29",
+        "url": "https://www.icc-cricket.com/news/icc-google-announce-partnership-to-elevate-women-s-cricket"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "dp-world-ownership",
+      "ownerIds": ["dp-world-limited", "port-free-zone-world", "dubai-world-corporation", "government-of-dubai"],
+      "text": "DP World Limited's audited FY2025 financial statements state that Port & Free Zone World FZE ('PFZW'), a wholly owned subsidiary of Dubai World Corporation, holds 100% of the company's issued and outstanding share capital, and that the Government of Dubai is the ultimate owner of the group.",
+      "source": {
+        "name": "DP World Annual Report 2025 (consolidated financial statements), DP World Limited, DIFC, year ended 31 December 2025",
+        "date": "2026",
+        "url": "https://dpw-p-001.sitecorecontenthub.cloud/api/public/content/58b211cb1aad4263be87f0d33fd0993f?v=b2febf77"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "uae-repression-context-icc",
+      "ownerIds": ["uae", "government-of-dubai", "dubai-world-corporation"],
+      "text": "Two ICC Premier Partners sit at the top of chains that end with the Government of Dubai (Emirates, via the Dubai government's investment arm; DP World, whose ultimate owner the company states is the Government of Dubai). Human Rights Watch documented that in 2024 a UAE court sentenced 43 Emirati activists and dissidents to life imprisonment after a mass trial, and that the Federal Supreme Court upheld the convictions in March 2025.",
+      "source": {
+        "name": "Human Rights Watch: UAE: 43 Life Sentences in 'Flagrant Injustice' (mass trial) and follow-up on upheld convictions",
+        "date": "2025-03-04",
+        "url": "https://www.hrw.org/news/2024/07/23/uae-43-life-sentences-flagrant-injustice"
+      },
+      "reviewed": false
+    }
+  ],
+  "proposedRatings": [
+    {
+      "sponsorId": "aramco",
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "claimIds": ["gov-saudi-arabia-record"],
+      "reasoning": "Already rated serious in the corpus and the rating carries over unchanged: Aramco is majority-owned (81.48%) by the Government of Saudi Arabia with a further 16% held by the state's PIF, and it is the Saudi state's economic engine. It is a Premier Partner of every ICC event in the window through the end of 2027, with its brand on Player of the Tournament and Power Rating assets, so the same state link applies across all four target events."
+    },
+    {
+      "sponsorId": "emirates",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "claimIds": ["uae-mass-trial-2024", "uae-mass-trial-upheld-2025"],
+      "reasoning": "Already rated serious: Emirates is owned by the Government of Dubai through Investment Corporation of Dubai, and the UAE mass-trial claims (43 life sentences in 2024, upheld in 2025) attach to that owner chain. As an ICC Premier Partner to 2031 with naming rights over the match officials, the sportswashing logic is the same as on a club shirt."
+    },
+    {
+      "sponsorId": "dp-world",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "claimIds": ["uae-mass-trial-2024", "uae-mass-trial-upheld-2025", "dp-world-ownership"],
+      "reasoning": "New sponsor, but the ownership chain is fully documented to the top: DP World Limited's FY2025 audited statements name Port & Free Zone World FZE (100% shareholder) under Dubai World Corporation, and state that the Government of Dubai is the ultimate owner. That makes DP World the third Gulf state-owned company in the ICC's top tier, exactly the pattern the target flags. Proposing the same serious tier as Emirates, resting on the same UAE mass-trial claims plus the ownership claim."
+    },
+    {
+      "sponsorId": "hyundai",
+      "tier": "concern",
+      "ownerId": "hyundai-motor-group",
+      "claimIds": ["hyundai-owner-record"],
+      "reasoning": "Already rated concern: the parent's register carries genuine but minority state money (Korean National Pension Service 7.76%, GIC 3.55%) while control sits with the Chung family via a circular chaebol ring - the rubric's partial state stake, not state control. Hyundai became an ICC Premier Partner in December 2025, so the existing rating now applies to a fourth sport."
+    }
+  ],
+  "unsourced": [
+    "No contract values for any ICC partnership are public in ICC's own releases; trade-press figures (SportBusiness, SportsPro, ESPNcricinfo) were not verifiable this pass because those publishers block fetching - all deals are filed with value: null.",
+    "DP World deal end date: neither the June 2023 announcement nor the May 2024 elevation to Premier Partner states a term ('long-term' only).",
+    "Hyundai deal end date: the December 2025 announcement says 'multi-year' only.",
+    "Sobha Realty deal end date: the February 2025 announcement states no term.",
+    "Google deal end date: the August 2025 women's-cricket partnership announcement states no term; the February 2026 Gemini/Pixel Men's T20 World Cup activation is also undated in duration.",
+    "Aramco original partnership start: the May 2024 extension references a successful 'initial 18-month term', implying a late-2022 start, but the original announcement was not located this pass.",
+    "Women's T20 World Cup 2026 footer shows Rexona (Unilever) among Global Partners but not Sobha Realty; men's-event footers show Sobha Realty. The /about/partners page (fetched 2026-09-25) lists both. Whether this is a per-event rights split (women's vs men's events) or a page-staleness issue is unresolved - the underlying Unilever deal is women's-cricket-only and Sobha Realty is men's-events-only, which is consistent with both observations.",
+    "Emirates' earlier ICC contract terms (the deal in force before the 2024 extension) are not stated; the May 2024 release says only that the partnership is 'already in its third decade'.",
+    "AB InBev deal value and whether the partnership ends exactly at end-2027 or extends beyond: the December 2025 announcement covers events 'through 2027' only.",
+    "ILT20 (side note, out of scope): DP World title sponsorship and franchise ownership (Reliance, Adani, GMR, Knight Riders, Lancer Capital, Capri Global) are known only from Wikipedia, used as a lead, never cited as a source.",
+    "Broadcast partners (Star Sports, Disney+ Hotstar, Sky Sports, SuperSport, Willow, Prime Video, CricLife, Myco, PTV Sports, ESPN, Sky NZ, TSM, Dialog, ICC TV) appear in the partners-page footer above the labelled tiers; their deal terms and whether they count as sponsors for this project are unresolved. Shapes event-host / org-partner facts (award naming, umpire-kit branding, perimeter/broadcast branding, per-event host entities) do not fit the kits/deals schema and are recorded here rather than forced in.",
+    "Royal Stag's owner: the ICC release quotes Pernod Ricard India's CMO, strongly indicating the brand belongs to Pernod Ricard, but a primary document confirming the ownership chain (Seagram's Royal Stag under Pernod Ricard India) was not opened this pass, so ownerId is left null."
+  ]
+}

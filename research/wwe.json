@@ -1,0 +1,128 @@
+{
+  "target": "wwe",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/258",
+  "sports": [
+    {
+      "id": "pro-wrestling",
+      "label": "Pro wrestling",
+      "status": "not-mapped",
+      "aliases": [
+        "professional wrestling",
+        "wrestling",
+        "wwe"
+      ]
+    }
+  ],
+  "leagues": [
+    {
+      "id": "wwe",
+      "aliases": [
+        "world wrestling entertainment",
+        "wwe"
+      ],
+      "sportId": "pro-wrestling",
+      "name": "WWE (TKO Group Holdings)",
+      "country": "United States",
+      "season": "2026",
+      "status": "partial",
+      "notes": [
+        "Event-host shape: WWE stages premium live events plus weekly Raw/SmackDown TV; the 2026 Saudi calendar is three events (Royal Rumble 31 Jan, Night of Champions 27 Jun, Crown Jewel 7 Nov) plus WrestleMania 43 in Riyadh in 2027. No event entity exists in the schema yet, so events are recorded in unsourced, not as clubs.",
+        "Saudi partnership origin: announced 1 Mar 2018 as a 10-year strategic multiplatform partnership with the Saudi General Sports Authority in support of Vision 2030, beginning with the Greatest Royal Rumble (27 Apr 2018, King Abdullah Sports City, Jeddah).",
+        "GEA expansion: on 4 Nov 2019 WWE and the Saudi General Entertainment Authority expanded their live event partnership through 2027 to include a second annual large-scale event; Riyadh Season (the GEA's annual festival, launched Oct 2019) hosts the annual Crown Jewel event.",
+        "2026 events are GEA/Riyadh Season productions: the Crown Jewel 2026 announcement (1 Sep 2026) comes 'from the General Entertainment Authority, on behalf of HE Turki Alalshikh, in partnership with WWE', and the Royal Rumble 2026 announcement (9 Dec 2025) is under the leadership of HE Turki Alalshikh with GEA and Riyadh Season.",
+        "WWE is part of TKO Group Holdings (NYSE: TKO), a controlled company: its FY2024 10-K states Endeavor subsidiaries held about 53.9% of voting interests, and after Silver Lake's take-private of Endeavor (completed 24 Mar 2025) Endeavor retains its controlling stake in TKO.",
+        "Crown Jewel 2026 is at 'Riyadh Season Stadium at KAFD' - the venue name itself carries the host's brand."
+      ]
+    }
+  ],
+  "clubs": [],
+  "owners": [],
+  "sponsors": [],
+  "kits": [],
+  "deals": [
+    {
+      "id": "wwe-riyadh-season",
+      "clubId": null,
+      "orgName": "WWE (TKO Group Holdings)",
+      "sponsorId": "riyadh-season",
+      "placement": "league-partner",
+      "from": "2019",
+      "to": "2027",
+      "value": null,
+      "source": {
+        "name": "WWE.com - Tickets for Royal Rumble 2026 in Riyadh on sale now",
+        "date": "2025-12-09",
+        "url": "https://www.wwe.com/article/tickets-for-royal-rumble-2026-in-riyadh-on-sale-now",
+        "note": "Royal Rumble 2026 (31 Jan 2026, KAFD, Riyadh - first Royal Rumble outside North America) presented by the General Entertainment Authority and Riyadh Season in cooperation with WWE, under the leadership of HE Turki Alalshikh; also confirms WrestleMania 43 for Riyadh in 2027."
+      },
+      "leagueId": "wwe",
+      "note": "GEA/Riyadh Season is WWE's Saudi event host under the partnership expanded 4 Nov 2019 through 2027 (F4W Online, 2019-11-04, https://www.f4wonline.com/wwe-news/wwe-announces-expanded-partnership-saudi-arabia-296556, opened via web.archive.org). Host fee not published. Record kept at organisation level because the event-host shape has no schema yet."
+    },
+    {
+      "id": "wwe-crown-jewel-2026-riyadh-season",
+      "clubId": null,
+      "orgName": "WWE (TKO Group Holdings)",
+      "sponsorId": "riyadh-season",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "WWE corporate press release - Riyadh to host WWE Crown Jewel on Saturday, November 7",
+        "date": "2026-09-01",
+        "url": "https://corporate.wwe.com/about/news/2026/09-01-2026",
+        "note": "Announcement 'from the General Entertainment Authority, on behalf of HE Turki Alalshikh, in partnership with WWE'; Crown Jewel on 7 Nov 2026 at Riyadh Season Stadium at KAFD, part of Riyadh Season's sports and entertainment calendar; notes Riyadh Season will host WrestleMania 43 in 2027."
+      },
+      "leagueId": "wwe",
+      "note": "2026 season host-fee/branding deal for Crown Jewel: Riyadh; the event's venue is named Riyadh Season Stadium at KAFD (WWE event page https://www.wwe.com/event/crown-jewel-0, opened). Value not published."
+    }
+  ],
+  "claims": [
+    {
+      "id": "wwe-crown-jewel-2018-khashoggi",
+      "ownerIds": [
+        "government-of-saudi-arabia"
+      ],
+      "text": "Weeks after the killing of journalist Jamal Khashoggi at the Saudi consulate in Istanbul, WWE decided to uphold its contractual obligations to the Saudi General Sports Authority and stage its November 2018 Riyadh event (Crown Jewel).",
+      "short": "WWE staged Crown Jewel 2018 in Riyadh weeks after the Khashoggi killing",
+      "source": {
+        "name": "WWE Q3 2018 earnings release",
+        "date": "2018-10-25",
+        "url": "https://corporate.wwe.com/about/news/2018/10-25-2018",
+        "note": "'Considering the heinous crime committed at the Saudi consulate in Istanbul the Company faced a very difficult decision... the Company has decided to uphold its contractual obligations to the General Sports Authority and stage the event.' Full-year 2018 guidance was predicated on staging the Riyadh event."
+      },
+      "reviewed": false
+    }
+  ],
+  "proposedRatings": [
+    {
+      "sponsorId": "riyadh-season",
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "claimIds": [
+        "riyadh-season-gea-record",
+        "saudi-executions-2024",
+        "khashoggi-assessment",
+        "wwe-crown-jewel-2018-khashoggi"
+      ],
+      "reasoning": "Riyadh Season is the flagship events season of Saudi Arabia's General Entertainment Authority, a government body chaired by Turki Alalshikh, and it hosts WWE's Saudi premium live events (Royal Rumble 31 Jan 2026, Night of Champions 27 Jun 2026, Crown Jewel 7 Nov 2026) under the GEA partnership that runs through 2027 - even the venue is named Riyadh Season Stadium. It is direct Saudi state money buying into the wrestling card, so it carries the same serious rating as the other Saudi state entertainment sponsors (record 345 executions in 2024; Khashoggi assessment; WWE itself staged Crown Jewel 2018 weeks after the killing, citing contractual obligations). Serious, not severe: no live armed conflict link."
+    }
+  ],
+  "unsourced": [
+    "EVENT-HOST SHAPE - events are recorded here because the schema has no event entity yet. WWE's 2026 Saudi calendar, all GEA/Riyadh Season productions: (1) Royal Rumble, Sat 31 Jan 2026, KAFD, Riyadh - first Royal Rumble outside North America, with SmackDown at KAFD on Fri 30 Jan 2026; announcement and ticketing: WWE.com, 2025-12-09, https://www.wwe.com/article/tickets-for-royal-rumble-2026-in-riyadh-on-sale-now (opened; GEA and Riyadh Season in cooperation with WWE, under the leadership of HE Turki Alalshikh; tickets via WeBook.com). (2) Night of Champions, Sat 27 Jun 2026, Kingdom Arena, Riyadh - announced by WWE MENA on X, 2026-04-23, reported by Fightful, https://www.fightful.com/wrestling/wwe-night-of-champions-returning-to-saudi-arabia-in-june/ (opened); WWE's own event page https://www.wwe.com/shows/nightofchampions/2026 (opened) gives the date but no venue. (3) Crown Jewel, Sat 7 Nov 2026, Riyadh Season Stadium at KAFD, Riyadh - WWE corporate release, 2026-09-01, https://corporate.wwe.com/about/news/2026/09-01-2026 (opened) and WWE event page https://www.wwe.com/event/crown-jewel-0 (opened; tickets via webook.com)."
+    ,
+    "EVENT-HOST SHAPE - WrestleMania 43: WWE and the General Entertainment Authority jointly announced at a 12 Sep 2025 press conference (WWE CCO Paul 'Triple H' Levesque and GEA chairman Turki Alalshikh) that Riyadh will host WrestleMania 43 in April 2027, the first WrestleMania outside North America; exact dates and venue are still TBA. Primary video: WWE on YouTube, 'FULL ANNOUNCEMENT: WrestleMania 43 is heading to Saudi Arabia in 2027', 2025-09-12, https://www.youtube.com/watch?v=SPInrw5DKs4 (referenced; not opened - YouTube). Also confirmed in the WWE.com Royal Rumble ticket article (2025-12-09, opened) and the WWE corporate Crown Jewel release (2026-09-01, opened: 'in 2027, Riyadh Season will host WrestleMania 43'). Coverage noted fan criticism over Saudi Arabia's human-rights record (sportswashing) and over passing on London."
+    ,
+    "Partnership history: WWE's Saudi partnership was announced 1 Mar 2018 as a 10-year strategic multiplatform partnership with the Saudi General Sports Authority in support of Vision 2030, beginning with the Greatest Royal Rumble, 27 Apr 2018, King Abdullah Sports City, Jeddah - WWE.com, 2018-03-01, https://www.wwe.com/worldwide/article/saudi-arabia-to-host-greatest-royal-rumble-april-2018 (opened). The General Sports Authority was later renamed the Ministry of Sport (per WWE-in-Saudi-Arabia background; not verified against a Saudi government source). Expansion: 'WWE (NYSE: WWE) and the Saudi General Entertainment Authority (GEA) have expanded their live event partnership through 2027 to include a second annual large-scale event', announced 4 Nov 2019 - F4WOnline (Joseph Currier), https://www.f4wonline.com/wwe-news/wwe-announces-expanded-partnership-saudi-arabia-296556 (opened via https://web.archive.org/web/20191105230432/...; quotes the WWE press release, including 'supports Saudi Arabia's Vision 2030')."
+    ,
+    "TKO ownership chain (context for WWE's parent): TKO Group Holdings (NYSE: TKO) is a 'controlled company'; its FY2024 Form 10-K states subsidiaries of Endeavor collectively held approximately 53.9% of TKO's outstanding common stock and about 51% of voting interests, and that the planned Endeavor Asset Acquisition would deepen Endeavor's position (SEC, https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm, fetched). Silver Lake's take-private of Endeavor completed 24 Mar 2025, after which privately held Endeavor 'retains its controlling ownership stake in TKO Group Holdings' - Silver Lake press release, 2025-03-24, https://www.silverlake.com/endeavor-announces-completion-of-acquisition-by-silver-lake/ (opened). TKO/Endeavor/Silver Lake are not state-linked, so no ownership claims are recorded for them."
+    ,
+    "Sela as WWE 'event delivery partner' (per the target brief): NO primary WWE or Sela source was found for Sela working on WWE events. TKO's 5 Mar 2025 release with Sela covers only the new boxing promotion (later Zuffa Boxing) - https://tkogrp.com/news/he-turki-alalshikh-and-tko-announce-launch-of-new-boxing-promotion-in-partnership-with-sela/ (opened; Sela described as a Public Investment Fund company and Newcastle United's lead sponsor; no WWE or Riyadh Season mention). The existing 'sela' sponsor entry (rated serious, PIF-owned) already covers the company; a WWE-specific Sela deal needs a primary source before any deal entry is created."
+    ,
+    "Host fees are not itemised anywhere found: TKO's FY2024 10-K describes 2024 live events including 'two events produced through our partnership with the General Entertainment Authority of the Kingdom of Saudi Arabia' (SEC 10-K, fetched) but publishes no fee. A March 2020 lawsuit reportedly alleged the Saudi side failed to pay WWE millions owed under the deal (Wikipedia summary of Forbes reporting; primary filing not fetched). WWE's Q3 2018 release (https://corporate.wwe.com/about/news/2018/10-25-2018, opened) confirms the Riyadh event was financially material: 'Full year 2018 guidance is predicated on the staging of the Riyadh event as scheduled'."
+    ,
+    "Criticism context around the partnership (for the human who reviews the rating): the 2018 Crown Jewel went ahead about a month after the Khashoggi killing - WWE's own Q3 2018 release (opened) is recorded as the claim wwe-crown-jewel-2018-khashoggi. Wikipedia's WWE-in-Saudi-Arabia article adds (leads only, not cited as sources): female wrestlers were barred from 2014-2019 with the first women's match at Crown Jewel 2019; several wrestlers reportedly declined to appear at Crown Jewel 2018; the Wrestling Observer Newsletter gave the partnership its 'Most Disgusting Promotional Tactic' award in 2018, 2019 and 2024. Current Saudi-record claims already in the corpus: saudi-executions-2024 (Amnesty), saudi-executions-2026-record (HRW World Report 2026: at least 322 executions as of early Dec 2025, journalist Turki al-Jasser executed June 2025), khashoggi-assessment (ODNI)."
+    ,
+    "Watch item: WrestleMania 43 could move. POST Wrestling (17 Mar 2026, https://www.postwrestling.com/2026/03/17/night-of-champions-has-been-on-wwes-internal-schedule-for-saudi-arabia-for-early-this-summer-war-in-the-region-raises-questions/ - referenced from Wikipedia, not opened) reported the regional war raised questions about WWE's 2026 Saudi schedule, and Fightful (23 Apr 2026, opened) noted a prior report had called Night of Champions 'doubtful at best' before it was confirmed. Nashville's tourism body confirmed in Apr 2026 the 2027 WrestleMania date 'did not work out' there (Fox17 WZTV, https://fox17.com/news/local/wrestlemania-heading-to-middle-east-in-2027-after-nashville-date-doesnt-work-out-wwe - referenced, not opened). The three 2026 events all took place / are listed as scheduled on WWE.com as of 25 Sep 2026."
+  ]
+}

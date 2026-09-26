@@ -1,0 +1,226 @@
+{
+  "target": "premier-padel",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/261",
+  "sports": [
+    {
+      "id": "padel",
+      "label": "Padel",
+      "status": "not-mapped",
+      "aliases": ["padel tennis", "paddle tennis", "premier padel"]
+    }
+  ],
+  "leagues": [
+    {
+      "id": "premier-padel",
+      "aliases": [
+        "Qatar Airways Premier Padel Tour",
+        "Premier Padel",
+        "Qatar Airways Premier Padel Finals",
+        "Premier Padel Tour"
+      ],
+      "sportId": "padel",
+      "name": "Qatar Airways Premier Padel Tour",
+      "country": "Global",
+      "season": "2026",
+      "status": "partial",
+      "notes": [
+        "Event-host shape: the entities are the tournaments on the FIP 2026 calendar, not clubs, so no clubs or kits are recorded; the event-level facts (names, cities, dates, statuses) live in unsourced. The official 2026 calendar release announced 26 tournaments in 18 countries; the FIP calendar lists 25 (Qatar Major marked POSTPONED).",
+        "Ownership: Premier Padel was founded by Qatar Sports Investments (QSI) together with the International Padel Federation (FIP) and the Professional Padel Association, launched in 2022; QSI acquired World Padel Tour in August 2023 to create one global tour (Premier Padel release, 13 Jun 2024, fetched). QSI is wholly owned by the Qatar Investment Authority; the exact stake in Premier Padel is not published.",
+        "Title sponsor: Qatar Airways, multi-year since 13 Jun 2024 - the tour was renamed the 'Qatar Airways Premier Padel Tour' and Qatar Airways is also Official Airline Partner; the Barcelona Finals are the 'Qatar Airways Premier Padel Finals'. Owner (QSI) and title sponsor are both Qatari state entities.",
+        "The 2026 calendar was disrupted by the Iran war: the Qatar Major (Doha) is POSTPONED with no new date on the FIP calendar; per the issue's research notes Kuwait was upgraded to a Major (26-31 Oct) and Pretoria to a P1. Gulf stops: Riyadh Season P1 (7-14 Feb, tour opener), Kuwait Major, Emaar Dubai P1 (8-15 Nov); NewGiza P2 in Egypt.",
+        "FIP official sponsors (padelfip.com homepage footer, fetched 2026-09-25): CUPRA (Official Automotive Partner), Bullpadel (Official Apparel, Racket and Ball), Mondo (Official Turf), MejorSet (Official Court), Crionet (Official Technology Supplier), LedProjects (Official Lighting Supplier). These are FIP-level partners, not tour deals.",
+        "Linked team circuit: the Hexagon World Series, created in December 2025 with the agency 54 (PIF-owned) as investor and Premier Padel as 'shareholder and major strategic partner' (FIP release, 17 Dec 2025, fetched). The 2026 Europe P2 week (14-20 Sep) was converted into a Hexagon World Series event (FIP release, 4 Feb 2026, fetched); the series launch then moved to the GENERALI Hexagon Cup Madrid, 21-24 Jan 2027 (FIP release, 12 Aug 2026, fetched).",
+        "Attendance: more than 600,000 spectators attended the 23 tournaments of 2025; the Paris Major 2026 drew a record 81,000 (+26.5%) (FIP, 14 Sep 2026, fetched)."
+      ]
+    }
+  ],
+  "clubs": [],
+  "owners": [],
+  "sponsors": [
+    {
+      "id": "54",
+      "name": "54 (sport and entertainment agency)",
+      "ownerId": "saudi-pif",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": ["hexagon-54-lead-investor"],
+      "aliases": [],
+      "note": "The sport and entertainment agency owned by Saudi Arabia's Public Investment Fund (SportBusiness, 17 Dec 2025); named lead investor in the Hexagon World Series, a separate FIP-governed team circuit - not a sponsor of the Premier Padel tour itself. Also credited as the agency behind the creation of LIV Golf."
+    },
+    {
+      "id": "emaar",
+      "name": "Emaar",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": ["Emaar Properties"],
+      "note": "Title sponsor in the event name 'Emaar Dubai Premier Padel P1' (FIP 2026 calendar, fetched 2026-09-25). Ownership not yet researched."
+    },
+    {
+      "id": "cupra",
+      "name": "CUPRA",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Title sponsor of the CUPRA Rotterdam Premier Padel P2 (FIP 2026 calendar) and of the Cupra FIP Tour; Official Automotive Partner of FIP (padelfip.com sponsor page, dated 23 Aug 2024). Ownership not yet researched."
+    }
+  ],
+  "kits": [],
+  "deals": [
+    {
+      "id": "premier-padel-qatar-airways",
+      "clubId": null,
+      "orgName": "Premier Padel (Qatar Airways Premier Padel Tour)",
+      "sponsorId": "qatar-airways",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Premier Padel - Premier Padel announces multi-year partnership with Qatar Airways",
+        "date": "2024-06-13",
+        "url": "https://premierpadel.com/en/news/premier-padel-announces-multi-year-partnership-with-qatar-airways-2",
+        "note": "The tour is renamed the 'Qatar Airways Premier Padel Tour', Qatar Airways becomes 'Official Airline Partner', and the Barcelona finals become the 'Qatar Airways Premier Padel Finals'."
+      },
+      "leagueId": "premier-padel",
+      "note": "Multi-year tour title sponsor and airline partner since 2024. Owner (QSI) and title sponsor are both Qatari state entities."
+    },
+    {
+      "id": "premier-padel-riyadh-season",
+      "clubId": null,
+      "orgName": "Riyadh Season P1 (2026 tour opener)",
+      "sponsorId": "riyadh-season",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "International Padel Federation - Qatar Airways Premier Padel Tour 2026 calendar",
+        "date": "2026-09-25",
+        "url": "https://www.padelfip.com/calendar-premier-padel/?events-year=2026",
+        "note": "date is the date the calendar page was checked"
+      },
+      "leagueId": "premier-padel",
+      "note": "Riyadh Season (General Entertainment Authority, chaired by Turki Alalshikh) titles and hosts the 2026 tour opener in Riyadh, 7-14 Feb 2026. Event host/title - recorded as an org deal because event-host placements have no schema yet."
+    },
+    {
+      "id": "premier-padel-emaar-dubai",
+      "clubId": null,
+      "orgName": "Emaar Dubai Premier Padel P1",
+      "sponsorId": "emaar",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "International Padel Federation - Qatar Airways Premier Padel Tour 2026 calendar",
+        "date": "2026-09-25",
+        "url": "https://www.padelfip.com/calendar-premier-padel/?events-year=2026",
+        "note": "date is the date the calendar page was checked"
+      },
+      "leagueId": "premier-padel",
+      "note": "Emaar titles the Dubai P1 (8-15 Nov 2026). Event title in the official calendar name; no terms published."
+    },
+    {
+      "id": "premier-padel-cupra-rotterdam",
+      "clubId": null,
+      "orgName": "CUPRA Rotterdam Premier Padel P2",
+      "sponsorId": "cupra",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "International Padel Federation - Qatar Airways Premier Padel Tour 2026 calendar",
+        "date": "2026-09-25",
+        "url": "https://www.padelfip.com/calendar-premier-padel/?events-year=2026",
+        "note": "date is the date the calendar page was checked"
+      },
+      "leagueId": "premier-padel",
+      "note": "CUPRA titles the Rotterdam P2 (28 Sep - 4 Oct 2026) and is also FIP's Official Automotive Partner and title sponsor of the Cupra FIP Tour."
+    },
+    {
+      "id": "premier-padel-hexagon-54",
+      "clubId": null,
+      "orgName": "Hexagon World Series (linked FIP team circuit)",
+      "sponsorId": "54",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "FIP - 54 and International Padel Federation unite to create the Hexagon World Series",
+        "date": "2025-12-17",
+        "url": "https://www.padelfip.com/2025/12/54-and-international-padel-federation-unite-to-create-the-hexagon-world-series-the-sports-first-official-team-circuit-unifying-the-padel-calendar-alongside-cupra-fip-tour-and-premier-padel/",
+        "note": "54 invests in Hexagon Cup as it becomes the Hexagon World Series; 'Premier Padel is also a shareholder and major strategic partner in the new series'."
+      },
+      "leagueId": "premier-padel",
+      "note": "Indirect link to the tour: 54 (PIF-owned) invests in and commercialises the Hexagon World Series, a separate team competition on the FIP calendar, not a Premier Padel tour sponsor. SportBusiness (17 Dec 2025, via Wayback) named 54 'lead investor'; FIP's own release describes the investment without that phrase."
+    }
+  ],
+  "claims": [
+    {
+      "id": "qsi-premier-padel-founder",
+      "ownerIds": ["qatar-sports-investments"],
+      "text": "Premier Padel was founded by Qatar Sports Investments (QSI) together with the International Padel Federation (FIP) and the Professional Padel Association, and launched in 2022; in August 2023 QSI acquired World Padel Tour to create a single global tour governed by FIP. QSI is wholly owned by the Qatar Investment Authority.",
+      "short": "QSI founded and owns Premier Padel",
+      "source": {
+        "name": "Premier Padel - Premier Padel announces multi-year partnership with Qatar Airways",
+        "date": "2024-06-13",
+        "url": "https://premierpadel.com/en/news/premier-padel-announces-multi-year-partnership-with-qatar-airways-2"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "hexagon-54-lead-investor",
+      "ownerIds": ["saudi-pif", "government-of-saudi-arabia"],
+      "text": "54, the sports and entertainment agency owned by Saudi Arabia's Public Investment Fund (PIF), was named lead investor in the Hexagon World Series, a new FIP-governed team padel circuit; SportBusiness called it Saudi Arabia's first major investment move into padel. FIP's own release describes 54's investment without using the phrase 'lead investor' and does not mention PIF.",
+      "short": "54, owned by Saudi PIF, is lead investor in the Hexagon World Series",
+      "source": {
+        "name": "SportBusiness (via Wayback Machine) - PIF enters padel as 54 gets new Hexagon event remit",
+        "date": "2025-12-17",
+        "url": "http://web.archive.org/web/20251220180832/https://www.sportbusiness.com/news/pif-enters-padel-as-54-gets-new-hexagon-event-remit/"
+      },
+      "reviewed": false
+    }
+  ],
+  "proposedRatings": [
+    {
+      "sponsorId": "riyadh-season",
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "claimIds": ["riyadh-season-gea-record", "saudi-executions-2024"],
+      "reasoning": "Riyadh Season is the events brand of Saudi Arabia's General Entertainment Authority, a government body, and titles and hosts the 2026 tour opener in Riyadh. A state-owned entity over the Saudi state's documented record (record 345 executions in 2024) places it at serious; severe is reserved for live armed conflict."
+    },
+    {
+      "sponsorId": "54",
+      "tier": "serious",
+      "ownerId": "saudi-pif",
+      "claimIds": ["saudi-executions-2024", "khashoggi-assessment"],
+      "reasoning": "54 is owned by Saudi Arabia's Public Investment Fund and is the lead investor in the Hexagon World Series, so it carries the Saudi state money already documented (record executions, Khashoggi assessment). Note the exposure is to the linked team circuit, not the Premier Padel tour itself - a person may weigh that."
+    }
+  ],
+  "unsourced": [
+    "2026 event list (event-host shape, no schema home): 25 events on the FIP calendar (fetched 2026-09-25, https://www.padelfip.com/calendar-premier-padel/?events-year=2026) - Riyadh Season P1 (Riyadh, 7-14 Feb), Gijon P2 (1-8 Mar), Cancun P2 (15-22 Mar), Miami P1 (22-29 Mar), Qatar Major (Doha, POSTPONED), NewGiza P2 (11-18 Apr), Brussels P2 (19-26 Apr), Asuncion P2 (3-10 May), Buenos Aires P1 (10-17 May), Italy Major (Rome, 31 May-7 Jun), Valencia P1 (6-14 Jun), Valladolid P2 (21-28 Jun), Bordeaux P2 (28 Jun-5 Jul), Malaga P1 (11-19 Jul), Pretoria P1 (26 Jul-2 Aug), London P1 (2-9 Aug), Comunidad de Madrid P1 (29 Aug-6 Sep), Paris Major (6-13 Sep), CUPRA Rotterdam P2 (28 Sep-4 Oct), Germany P2 (Dusseldorf, 5-11 Oct), Milano P1 (12-18 Oct), Kuwait Major (26-31 Oct), Emaar Dubai P1 (8-15 Nov), Mexico Major (Acapulco, 23-29 Nov), Premier Padel Finals (Barcelona, 10-13 Dec).",
+    "Discrepancy: the official 2026 calendar release announced '26 tournaments across 18 countries' (premierpadel.com 2026 calendar release, https://premierpadel.com/en/news/premier-padel-and-international-padel-federation-unveil-2026-qatar-airways-premier-padel-tour-calendar-and-innovative-new-star-point-system-launched, fetched 2026-09-25) while the FIP calendar lists 25, with the Qatar Major POSTPONED and no dates.",
+    "Per the issue's research notes, the Qatar Major was listed as cancelled on Wikipedia because of the Iran war, and Kuwait was upgraded from P1 to Major and Pretoria from P1's predecessor status; these upgrade details were not independently sourced in this pass (the FIP calendar itself shows only Kuwait Major 26-31 Oct and Pretoria P1 26 Jul-2 Aug).",
+    "The Qatar Major was formerly titled 'Ooredoo Qatar Major' (issue dataNotes); not verified this pass.",
+    "beIN Sports as Premier Padel broadcaster: no primary source found (beinsports.com returned HTTP 500; FIP site search returned nothing). Broadcaster also Al-Khelaifi-chaired per the issue notes - unverified.",
+    "Premier Padel's launch partners named in the 13 Jun 2024 Qatar Airways release - Red Bull, Wilson, MejorSet, Mondo, Bullpadel, Playtomic - current 2026 partner status unverified (premierpadel.com loads its partners page via JavaScript and showed no names).",
+    "FIP official sponsors and roles (padelfip.com homepage footer, fetched 2026-09-25): CUPRA Official Automotive Partner; Bullpadel Official Apparel, Racket and Ball; Mondo Official Turf; MejorSet Official Court; Crionet Official Technology Supplier; LedProjects Official Lighting Supplier. These sit at FIP level, not tour level, and no deal terms are published.",
+    "Exact QSI ownership stake in Premier Padel is not published; sources describe it variously as 'founded by QSI' (Premier Padel release), 'the Qatari government-backed investment fund' (SportBusiness, 17 Dec 2025), or 'majority-owned by QSI' (issue lead notes).",
+    "Emaar's ownership (Emaar Properties, Dubai listed developer) not researched; no owner chain recorded for the Emaar Dubai P1 title sponsor.",
+    "CUPRA's ownership (SEAT S.A. / Volkswagen Group) not researched; no owner chain recorded.",
+    "Hexagon World Series facts (linked circuit, event-host shape): GENERALI is title sponsor of the GENERALI Hexagon Cup Madrid, the series' inaugural event, 21-24 Jan 2027 at the Caja Magica (FIP release, 12 Aug 2026, https://www.padelfip.com/2026/08/hexagon-world-series-and-international-padel-federation-announce-generali-hexagon-cup-madrid-as-its-inaugural-event-and-2027-season-opener/). The 2026 series was to run Sep 14-20, Oct 22-25 and Dec 17-20, with the Europe P2 week converted into a Hexagon World Series event (FIP release, 4 Feb 2026, https://www.padelfip.com/2026/02/international-padel-federation-fip-premier-padel-and-hexagon-confirm-2026-calendar-updates/). 54 also invests alongside PadelPark India, Padel Hub, Epic Padel, Players Fund and LinkinFirm in a financing round (FIP, 17 Dec 2025).",
+    "Attendance: more than 600,000 spectators across the 23 tournaments of 2025; Paris Major 2026 record 81,000 (+26.5%); Buenos Aires P1 16,920 in a day (FIP, 14 Sep 2026, https://www.padelfip.com/2026/09/from-paris-81000-265-to-buenos-aires-record-from-the-boom-in-rome-and-milan-to-madrid-padels-show-is-smashing-attendance-records/). The issue's note of record attendance in Riyadh (May 2026 calendar update) was not independently confirmed; the attendance story fetched does not mention Riyadh."
+  ]
+}

@@ -1,0 +1,1097 @@
+{
+ "target": "cycling-stage-races",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/268",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "cycling-stage-races",
+   "aliases": [
+    "uae tour",
+    "uae tour women",
+    "alula tour",
+    "saudi tour",
+    "tour of oman",
+    "muscat classic",
+    "tour of guangxi",
+    "gree-tour of guangxi",
+    "tour du rwanda",
+    "state-hosted uci road races"
+   ],
+   "sportId": "cycling",
+   "name": "State-hosted UCI road races (UAE, Saudi Arabia, Oman, China, Rwanda)",
+   "country": "UAE / Saudi Arabia / Oman / China / Rwanda",
+   "clubCount": 7,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "Event-host shape: these 7 races do not fit the schema yet (no event entity, no host/title-sponsor placement), so the races are recorded here as the entity list and every commercial fact is recorded in unsourced and as org deals, following the UFC, Esports World Cup and horse-racing precedents. clubs and kits arrays are empty.",
+    "The 7 races (2026): UAE Tour (UCI WorldTour, 16-22 Feb, won by Isaac del Toro), UAE Tour Women (Women's WorldTour, 5-8 Feb, won by Elisa Longo Borghini), AlUla Tour (UCI ProSeries 2.Pro, 27-31 Jan, won by Jan Christen), Tour of Oman (ProSeries, 7-11 Feb, won by Christian Scaroni), Muscat Classic (ProSeries one-day race, 6 Feb, won by Mauro Schmid), Tour of Guangxi (WorldTour season finale, 13-18 Oct), Tour du Rwanda (UCI Africa Tour 2.1, 22 Feb-1 Mar, won by Moritz Kretschy).",
+    "Separate the race owner/host (the state body) from the commercial operator: Abu Dhabi Sports Council owns the UAE Tour races with RCS Sport as organiser; the AlUla Tour site is run by ASO (c) with the Saudi Ministry of Sport and Royal Commission for AlUla as institutional partners; the Tour of Oman site is run by ASO (c) with the Omani Ministry of Culture, Sports and Youth organising; the Tour of Guangxi is organised by the People's Government of Guangxi and Wanda Group; the Tour du Rwanda is organised by the Rwanda Cycling Federation.",
+    "Muscat Classic and Tour of Oman overlap in 2026 reporting: Muscat Daily describes the 6 Feb Muscat Classic as opening the Tour of Oman programme, while Wikipedia lists it as a separate one-day race on the ProSeries calendar; the race's own site says it runs 'ahead of the Tour of Oman (7-11 February 2026)'. Both are counted here; the exact governance split is unresolved.",
+    "Not counted: the 2025 UCI Road World Championships in Kigali (21-28 Sept 2025, one-off host event, covered in claims and unsourced) and a possible 2026 Tour of Guangxi women's race, which was not verified.",
+    "Sponsorship is on race titles, presenting partnerships and leader's-jersey/stage sponsorship, not shirts; the UAE Tour's own sponsors page lists Presenting Sponsor (AD Ports Group), Jersey Sponsors, Stage Sponsors and stage partners. Host fees are not disclosed."
+   ]
+  }
+ ],
+ "clubs": [],
+ "owners": [
+  {
+   "id": "ad-ports-group",
+   "name": "AD Ports Group (Abu Dhabi Ports PJSC)",
+   "type": "listed-company",
+   "country": "United Arab Emirates",
+   "via": "owned by ADQ per AD Ports Group's own about-us page",
+   "note": "'Established by Emiri Decree and owned by ADQ, one of the region's largest holding companies' (adportsgroup.com/en/about-us, opened). ADQ is a wholly Government-of-Abu-Dhabi state fund (existing owners.json entry). Presenting Sponsor of the UAE Tour and UAE Tour Women.",
+   "parentId": "adq"
+  },
+  {
+   "id": "burjeel-holdings",
+   "name": "Burjeel Holdings",
+   "type": "private-company",
+   "country": "United Arab Emirates",
+   "via": "founded by Dr Shamsheer Vayalil in Abu Dhabi in 2007",
+   "note": "'Founded by Dr. Shamsheer Vayalil in Abu Dhabi in 2007' (burjeelholdings.com, opened). Jersey sponsor of the UAE Tour and UAE Tour Women. ADX listing / ADQ stake not verified to a primary document this pass.",
+   "parentId": null
+  },
+  {
+   "id": "rcs-sport",
+   "name": "RCS Sport (RCS MediaGroup)",
+   "type": "private-company",
+   "country": "Italy",
+   "via": "RCS MediaGroup, controlled by Urbano Cairo via Cairo Communication (59.693%)",
+   "note": "Cairo Communication holds 59.693% of RCS MediaGroup and Urbano Cairo is chairman and CEO (RCS MediaGroup corporate structure). Organiser of the UAE Tour and UAE Tour Women on behalf of the Abu Dhabi Sports Council.",
+   "parentId": null
+  },
+  {
+   "id": "government-of-oman",
+   "name": "Government of the Sultanate of Oman",
+   "type": "state",
+   "country": "Oman",
+   "note": "Created for this target; Oman is not on the project's core state list - its rights record should be rated separately.",
+   "parentId": null
+  },
+  {
+   "id": "oman-ministry-culture-sports-youth",
+   "name": "Oman Ministry of Culture, Sports and Youth",
+   "type": "state",
+   "country": "Oman",
+   "via": "government ministry of the Sultanate of Oman (mcsy.gov.om, opened)",
+   "note": "Organiser of the Tour of Oman and Muscat Classic, in cooperation with the Oman Cycling Association.",
+   "parentId": "government-of-oman"
+  },
+  {
+   "id": "people-s-government-of-guangxi",
+   "name": "People's Government of the Guangxi Zhuang Autonomous Region",
+   "type": "state",
+   "country": "China",
+   "via": "provincial-level government of the Guangxi Zhuang Autonomous Region, China",
+   "note": "Co-organiser (with Wanda Group) and owner of the Tour of Guangxi, a UCI WorldTour race created by a 1 December 2016 agreement between the UCI, Wanda Sports and the regional government.",
+   "parentId": null
+  },
+  {
+   "id": "rwanda-ministry-of-sports",
+   "name": "Rwanda Ministry of Sports (Minisports)",
+   "type": "state",
+   "country": "Rwanda",
+   "via": "minisports.gov.rw, listed as an institution partner of the Tour du Rwanda",
+   "note": "Institution partner of the Tour du Rwanda alongside the European Commission Global Gateway and Rwanda National Police (tourdurwanda.rw, opened).",
+   "parentId": "government-of-rwanda"
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "ad-ports-group",
+   "name": "AD Ports Group",
+   "ownerId": "ad-ports-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "abu dhabi ports"
+   ],
+   "note": "Abu Dhabi ports-and-logistics group owned by ADQ; Presenting Sponsor of the UAE Tour and UAE Tour Women (theuaetour.com/sponsors and theuaetourwomen.com/sponsors, both opened), a partnership the Abu Dhabi Sports Council says was 'established in 2026' and continues in 2027."
+  },
+  {
+   "id": "burjeel-holdings",
+   "name": "Burjeel Holdings",
+   "ownerId": "burjeel-holdings",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "aliases": [
+    "burjeel"
+   ],
+   "claimIds": [],
+   "note": "UAE private healthcare group founded by Dr Shamsheer Vayalil in Abu Dhabi in 2007 (burjeelholdings.com); Jersey Sponsor of the UAE Tour and UAE Tour Women and Medical Sponsor (Burjeel Medical City) of the men's race."
+  },
+  {
+   "id": "amstel",
+   "name": "Amstel",
+   "ownerId": "heineken-nv",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "amstel beer"
+   ],
+   "note": "Dutch beer brand taken over by Heineken N.V. in 1968; Golden partner and classification-jersey sponsor of the Tour du Rwanda (tourdurwanda.rw, opened)."
+  },
+  {
+   "id": "mtn-momo",
+   "name": "MTN MoMo (Mobile Money)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "mtn mobile money",
+    "momo"
+   ],
+   "note": "Mobile-money platform of MTN Group (JSE-listed); Silver partner and classification-jersey sponsor of the Tour du Rwanda. MTN Group's current shareholding was not traced to a primary document this pass."
+  },
+  {
+   "id": "bpr-bank",
+   "name": "BPR Bank Rwanda",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "banque populaire du rwanda"
+   ],
+   "note": "Rwandan bank, subsidiary of Kenya's KCB Group (87.5% after the 2021/2022 acquisition and amalgamation); Silver partner and classification-jersey sponsor of the Tour du Rwanda. KCB stake left null pending a primary source."
+  },
+  {
+   "id": "brd-rwanda",
+   "name": "Development Bank of Rwanda (BRD)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "brd"
+   ],
+   "note": "Rwandan development bank, a public company limited by shares with the Government of Rwanda ranked as its top shareholder; Silver partner and points-classification jersey sponsor of the Tour du Rwanda. Exact government stake not published on the pages checked, so ownerId left null."
+  },
+  {
+   "id": "prime-rwanda",
+   "name": "Prime (prime.rw)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Silver partner of the Tour du Rwanda (tourdurwanda.rw, opened); the company's legal identity and ownership were not verified - prime.rw did not resolve to readable content this pass."
+  },
+  {
+   "id": "rwandair",
+   "name": "RwandAir",
+   "ownerId": "rwandair",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing entry (BAL Official Airline). This target adds: Bronze partner and classification-jersey sponsor of the Tour du Rwanda (tourdurwanda.rw, opened). State ownership still needs a primary source."
+  },
+  {
+   "id": "ingufu-gin",
+   "name": "Ingufu Gin",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Rwandan gin brand (ingufugin.com); Bronze partner and classification-jersey sponsor of the Tour du Rwanda. Ownership not traced."
+  },
+  {
+   "id": "inyange",
+   "name": "Inyange Industries",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "inyange industries"
+   ],
+   "note": "Rwandan food and beverage company (inyangeindustries.com); supplier-tier partner and classification-jersey sponsor of the Tour du Rwanda. Ownership not traced this pass."
+  },
+  {
+   "id": "sensitive-group",
+   "name": "Sensitive Group",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Rwandan company (sensitive.co.rw); supplier-tier partner and classification-jersey sponsor of the Tour du Rwanda. Ownership not traced."
+  },
+  {
+   "id": "manahil-nissan",
+   "name": "Manahil Nissan",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "manahil"
+   ],
+   "note": "Saudi Nissan dealer (en.nissan-manahil.com); Main partner of the AlUla Tour (thealulatour.com/en/partners, opened). Ownership not traced."
+  },
+  {
+   "id": "nova-water",
+   "name": "Nova (Nova Water)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "novawater"
+   ],
+   "note": "Bottled-water brand (novawater.com); Official partner of the AlUla Tour. Ownership and country of incorporation not verified."
+  },
+  {
+   "id": "budget-saudi-arabia",
+   "name": "Budget Saudi Arabia",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "budget rent a car saudi arabia"
+   ],
+   "note": "Car-rental company (budgetsaudi.com); Official partner of the AlUla Tour. Ownership not verified this pass."
+  },
+  {
+   "id": "ale-cycling",
+   "name": "Alé Cycling",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ale",
+    "ale cycling apparel"
+   ],
+   "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
+  },
+  {
+   "id": "abu-dhabi-sports-council",
+   "name": "Abu Dhabi Sports Council",
+   "ownerId": "government-of-abu-dhabi",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "adsc"
+   ],
+   "note": "Existing entry. This target adds: owner and organiser of the UAE Tour and UAE Tour Women; 'Established in 2006 by His Highness Sheikh Mohamed bin Zayed Al Nahyan' and 'aligned to the emirate's leadership vision' (adsc.gov.ae/about-us, opened)."
+  },
+  {
+   "id": "mubadala",
+   "name": "Mubadala Investment Company",
+   "ownerId": "mubadala",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing entry (Abu Dhabi sovereign fund). This target adds: classification-jersey sponsor of the UAE Tour and UAE Tour Women (theuaetour.com/sponsors, opened)."
+  },
+  {
+   "id": "aldar-properties",
+   "name": "Aldar Properties",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "aldar"
+   ],
+   "note": "Existing entry. This target adds: classification-jersey sponsor of the UAE Tour and UAE Tour Women (theuaetour.com/sponsors, opened). Ownership unchanged (left null)."
+  },
+  {
+   "id": "alula",
+   "name": "AlUla",
+   "ownerId": "royal-commission-for-alula",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "experience alula"
+   ],
+   "note": "Existing entry. This target adds: the destination brand is the name of the AlUla Tour (formerly Saudi Tour) and the Royal Commission for AlUla (rcu.gov.sa) is listed as an institutional partner of the race (thealulatour.com/en/partners, opened)."
+  },
+  {
+   "id": "gree",
+   "name": "Gree",
+   "ownerId": "gree-group-zhuhai-sasac",
+   "ownership": "owned",
+   "tier": "concern",
+   "status": "rated",
+   "verdict": "Gree Electric Appliances Inc.",
+   "claimIds": [
+    "gree-group-zhuhai-sasac-record"
+   ],
+   "aliases": [],
+   "note": "Existing entry. This target adds: title sponsor of the Tour of Guangxi, which is 'officially known as the GREE-Tour of Guangxi for sponsorship purposes' (race name used by Cyclingnews for the 2026 edition)."
+  },
+  {
+   "id": "visit-rwanda",
+   "name": "Visit Rwanda",
+   "ownerId": "government-of-rwanda",
+   "ownership": "owned",
+   "tier": "severe",
+   "status": "rated",
+   "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+   "claimIds": [
+    "rwanda-troops-m23",
+    "m23-coltan-levies",
+    "rubaya-smuggling",
+    "rubaya-tantalum-share",
+    "coltan-supply-chain"
+   ],
+   "aliases": [
+    "rwanda"
+   ],
+   "ownerVerb": "paid for by",
+   "note": "Existing entry. This target adds: Platinum partner of the Tour du Rwanda (tourdurwanda.rw, opened) and host-brand of the 2025 UCI Road World Championships in Kigali."
+  },
+  {
+   "id": "colnago",
+   "name": "Colnago",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing entry. This target adds: Bike Partner of the UAE Tour and UAE Tour Women (theuaetour.com/sponsors and theuaetourwomen.com/sponsors, opened)."
+  },
+  {
+   "id": "breitling",
+   "name": "Breitling",
+   "ownerId": "cvc-capital-partners",
+   "ownership": "owned",
+   "tier": "none",
+   "status": "rated",
+   "verdict": "Owned by CVC Capital Partners. Nothing found.",
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing entry. This target adds: Official Timekeeper and stage sponsor of the UAE Tour (theuaetour.com/sponsors, opened)."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "uaetour-ad-ports-group",
+   "clubId": null,
+   "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "ad-ports-group",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour - Sponsors page (Presenting Sponsor)",
+    "date": "2026-09-25",
+    "url": "https://www.theuaetour.com/sponsors/",
+    "note": "The sponsors page lists 'Presenting Sponsor' with the AD Ports Group logo (Logo-ADPG-2026.webp, link to adportsgroup.com); ADSC's 10 Sep 2026 release confirms the partnership was 'established in 2026' and continues in 2027."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Presenting Sponsor of the men's UAE Tour; also a classification-jersey sponsor and a stage sponsor (AD Ports Group Stage, stage 7). Fee not published."
+  },
+  {
+   "id": "uaetour-mubadala",
+   "clubId": null,
+   "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "mubadala",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour - Sponsors page (Jersey Sponsors)",
+    "date": "2026-09-25",
+    "url": "https://www.theuaetour.com/sponsors/",
+    "note": "Mubadala logo (Top-Sponsor-MUBADALA.png, link to mubadala.com) listed under 'Jersey Sponsors'."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Classification-jersey sponsor of the men's UAE Tour. Fee not published. Mubadala is the Abu Dhabi sovereign wealth fund."
+  },
+  {
+   "id": "uaetour-burjeel-holdings",
+   "clubId": null,
+   "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "burjeel-holdings",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour - Sponsors page (Jersey Sponsors)",
+    "date": "2026-09-25",
+    "url": "https://www.theuaetour.com/sponsors/",
+    "note": "Burjeel Holdings logo (Top-Sponsor-Burjeel_Holdings-2025.png, link to burjeelholdings.com) listed under 'Jersey Sponsors'; Burjeel Medical City is also the Medical Sponsor."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Classification-jersey sponsor and Medical Sponsor of the men's UAE Tour. Fee not published."
+  },
+  {
+   "id": "uaetour-aldar",
+   "clubId": null,
+   "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "aldar-properties",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour - Sponsors page (Jersey Sponsors)",
+    "date": "2026-09-25",
+    "url": "https://www.theuaetour.com/sponsors/",
+    "note": "Aldar logo (logo-aldar.png, link to aldar.com) listed under 'Jersey Sponsors'."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Classification-jersey sponsor of the men's UAE Tour. Fee not published."
+  },
+  {
+   "id": "uaetourw-ad-ports-group",
+   "clubId": null,
+   "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "ad-ports-group",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour Women - Sponsors page (Presenting Sponsor)",
+    "date": "2026-09-25",
+    "url": "https://theuaetourwomen.com/sponsors/",
+    "note": "The 'Presenting Sponsor' section links to adportsgroup.com; the Abu Dhabi Sports Council press release of 10 Sep 2026 confirms AD Ports Group as Presenting Partner of both races with the partnership 'established in 2026'."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Presenting Sponsor of the women's race; also a classification-jersey sponsor."
+  },
+  {
+   "id": "uaetourw-mubadala",
+   "clubId": null,
+   "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "mubadala",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour Women - Sponsors page (Jersey Sponsors)",
+    "date": "2026-09-25",
+    "url": "https://theuaetourwomen.com/sponsors/",
+    "note": "Mubadala listed under 'Jersey Sponsors' alongside AD Ports Group, Burjeel Holdings and Aldar."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Classification-jersey sponsor of the women's race."
+  },
+  {
+   "id": "uaetourw-burjeel-holdings",
+   "clubId": null,
+   "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "burjeel-holdings",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour Women - Sponsors page (Jersey Sponsors)",
+    "date": "2026-09-25",
+    "url": "https://theuaetourwomen.com/sponsors/",
+    "note": "Burjeel Holdings listed under 'Jersey Sponsors'."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Classification-jersey sponsor of the women's race."
+  },
+  {
+   "id": "uaetourw-aldar",
+   "clubId": null,
+   "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "aldar-properties",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UAE Tour Women - Sponsors page (Jersey Sponsors)",
+    "date": "2026-09-25",
+    "url": "https://theuaetourwomen.com/sponsors/",
+    "note": "Aldar listed under 'Jersey Sponsors'."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Classification-jersey sponsor of the women's race."
+  },
+  {
+   "id": "alulatour-manahil-nissan",
+   "clubId": null,
+   "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+   "sponsorId": "manahil-nissan",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The AlUla Tour - Partners page (Main partner)",
+    "date": "2026-09-25",
+    "url": "https://www.thealulatour.com/en/partners",
+    "note": "'Main partner' tier lists Manahil l Nissan (en.nissan-manahil.com); institutional partners are the Saudi Ministry of Sport (mos.gov.sa), the Saudi Cycling Federation (sacf.sa), AlUla (rcu.gov.sa) and Saudi Palmier Olympique (olympic.sa)."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Main (commercial) partner of the 2026 AlUla Tour. Fee not published. ASO (Amaury Sport Organisation) runs the race site (c ASO)."
+  },
+  {
+   "id": "guangxi-gree-title",
+   "clubId": null,
+   "orgName": "Tour of Guangxi (People's Government of Guangxi / Wanda Group)",
+   "sponsorId": "gree",
+   "placement": "league-partner",
+   "from": "2022",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Cyclingnews - Gree-Tour of Guangxi stages (race name in title-sponsor form)",
+    "date": "2026-09-25",
+    "url": "https://www.cyclingnews.com/gree-tour-of-guangxi/stages/",
+    "note": "Cyclingnews uses the hyphenated title 'Gree-Tour of Guangxi 2026' for the WorldTour finale; the race is 'officially known as the GREE-Tour of Guangxi for sponsorship purposes' (Tour of Guangxi race record). A 2022 WorldTour calendar on Cycling Weekly already lists 'Gree-Tour of Guangxi'."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Title sponsor - GREE's name is in the official race name. Fee not published. GREE is owned by Gree Group (Zhuhai Municipal Government / Zhuhai SASAC) and already rated concern."
+  },
+  {
+   "id": "tdr-visit-rwanda",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "visit-rwanda",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Platinum)",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "The partners block on the race's own site lists Visit Rwanda (visitrwanda.com) as the sole Platinum partner, with a dedicated 'Visit Rwanda - Discover the Land of a Thousand Hills' section."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Top-tier (Platinum) partner of the 2026 Tour du Rwanda; Visit Rwanda is the Rwanda Development Board's official tourism brand (government money). Fee not published."
+  },
+  {
+   "id": "tdr-amstel",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "amstel",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Golden) and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "Amstel (amstel.com) is the Golden partner; the final-results block names an 'Amstel Beer Jersey' (general classification) among the race's classification jerseys."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Golden partner and classification-jersey sponsor. Amstel is a Heineken N.V. brand."
+  },
+  {
+   "id": "tdr-mtn-momo",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "mtn-momo",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Silver) and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "MTN MoMo (momo.mtn.com) is a Silver partner; the site lists an 'MTN MoMo Jersey' for the Young African classification."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Silver partner and classification-jersey sponsor."
+  },
+  {
+   "id": "tdr-brd-rwanda",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "brd-rwanda",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Silver) and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "BRD (brd.rw) is a Silver partner; the site lists a 'Green Jersey \"BRD\"' for the points classification."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Silver partner and points-classification jersey sponsor. Government of Rwanda is BRD's top shareholder."
+  },
+  {
+   "id": "tdr-bpr-bank",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "bpr-bank",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Silver) and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "BPR Bank (bpr.rw) is a Silver partner; the site lists a 'BPR BANK Jersey' for the Best Rwandan Riders classification."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Silver partner and classification-jersey sponsor. Subsidiary of Kenya's KCB Group (87.5%)."
+  },
+  {
+   "id": "tdr-prime",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "prime-rwanda",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Silver)",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "The Silver tier lists BPR (bpr.rw), MTN MoMo (momo.mtn.com), BRD (brd.rw) and Prime (prime.rw)."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Silver partner. Identity/ownership unresolved."
+  },
+  {
+   "id": "tdr-rwandair",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "rwandair",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Bronze) and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "RwandAir (rwandair.com) is a Bronze partner; the site lists a 'RwandAir Jersey' for the Best African Riders classification."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Bronze partner and classification-jersey sponsor."
+  },
+  {
+   "id": "tdr-ingufu-gin",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "ingufu-gin",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Partners (Bronze) and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "Ingufu Gin (ingufugin.com) is a Bronze partner; the site lists an 'Ingufu Gin Jersey' for the Longest Breakaway classification."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Bronze partner and classification-jersey sponsor."
+  },
+  {
+   "id": "tdr-inyange",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "inyange",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Suppliers and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "Inyange Industries (inyangeindustries.com) appears in the Supplier tier; the site lists an 'Inyange Jersey' for the Team Classification."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Supplier-tier partner and classification-jersey sponsor."
+  },
+  {
+   "id": "tdr-sensitive-group",
+   "clubId": null,
+   "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+   "sponsorId": "sensitive-group",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tour du Rwanda - Suppliers and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/",
+    "note": "Sensitive Group (sensitive.co.rw) appears in the Supplier tier; the site lists a 'Sensitive Group Jersey' for the Best Climber classification."
+   },
+   "leagueId": "cycling-stage-races",
+   "note": "Supplier-tier partner and classification-jersey sponsor."
+  },
+  {
+   "id": "uaetour-ale-cycling",
+   "clubId": null,
+   "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+   "sponsorId": "ale-cycling",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Race partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://www.alecycling.com/",
+    "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
+   }
+  },
+  {
+   "id": "alulatour-ale-cycling",
+   "clubId": null,
+   "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+   "sponsorId": "ale-cycling",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Race partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://www.alecycling.com/",
+    "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
+   }
+  },
+  {
+   "id": "alulatour-nova-water",
+   "clubId": null,
+   "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+   "sponsorId": "nova-water",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Race partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://novawater.com/",
+    "note": "Bottled-water brand (novawater.com); Official partner of the AlUla Tour. Ownership and country of incorporation not verified."
+   }
+  },
+  {
+   "id": "alulatour-budget-saudi-arabia",
+   "clubId": null,
+   "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+   "sponsorId": "budget-saudi-arabia",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Race partner page (see sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://budgetsaudi.com/",
+    "note": "Car-rental company (budgetsaudi.com); Official partner of the AlUla Tour. Ownership not verified this pass."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "uaetour-adsc-organiser-2026",
+   "ownerIds": [
+    "uae",
+    "government-of-abu-dhabi"
+   ],
+   "text": "The Abu Dhabi Sports Council describes itself as the organiser of the UAE Tour and the UAE Tour Women: 'Abu Dhabi Sports Council, organisers of the UAE Tour and the UAE Tour Women, are pleased to confirm the full list of teams participating in the 2026 edition of both races' - 18 UCI WorldTeams plus 3 UCI ProTeams in the men's race (16-22 February) and 14 Women's WorldTeams, 3 Women's ProTeams and 3 Women's Continental Teams in the women's race (5-8 February).",
+   "short": "ADSC organises the UAE Tour and UAE Tour Women",
+   "source": {
+    "name": "Abu Dhabi Sports Council press release - The teams of the 2026 edition of the UAE Tour and UAE Tour Women are announced",
+    "date": "2026-01-27",
+    "url": "https://adsc.gov.ae/media-center/press-releases/the-teams-of-the-2026-edition-of-the-uae-tour-and-uae-tour-women-are-announced/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "adsc-established-2006",
+   "ownerIds": [
+    "uae",
+    "government-of-abu-dhabi"
+   ],
+   "text": "The Abu Dhabi Sports Council was 'established in 2006 by His Highness Sheikh Mohamed bin Zayed Al Nahyan, The president of United Arab Emirates' and 'is aligned to the emirate's leadership vision to develop sport and youth activities' - it is the Emirate of Abu Dhabi's government sports authority.",
+   "short": "ADSC: established 2006 by Sheikh Mohamed bin Zayed, aligned to the emirate's leadership",
+   "source": {
+    "name": "Abu Dhabi Sports Council - About Us",
+    "date": "2026-09-25",
+    "url": "https://adsc.gov.ae/about-us/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "uaetour-ad-ports-presenting-since-2026",
+   "ownerIds": [
+    "uae",
+    "government-of-abu-dhabi"
+   ],
+   "text": "'AD Ports Group will continue as the Presenting Partner of both the UAE Tour Men and UAE Tour Women in 2027, building on the successful partnership established in 2026'; the race announcement is headlined 'Organised by Abu Dhabi Sports Council and empowered by AD Ports Group'.",
+   "short": "AD Ports Group: UAE Tour Presenting Partner since 2026",
+   "source": {
+    "name": "Abu Dhabi Sports Council - Organised by Abu Dhabi Sports Council and empowered by AD Ports Group, UAE Tour Men and UAE Tour Women 2027 to take place in February",
+    "date": "2026-09-10",
+    "url": "https://adsc.gov.ae/media-center/press-releases/organised-by-abu-dhabi-sports-council-and-empowered-by-ad-ports-group-uae-tour-men-and-uae-tour-women-2027-to-take-place-in-february/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "uaetour-rcs-renewal-2025",
+   "ownerIds": [
+    "uae",
+    "government-of-abu-dhabi"
+   ],
+   "text": "'Abu Dhabi Sports Council and RCS Sports & Events have renewed their partnership' for the organisation of both the UAE Tour and UAE Tour Women; no contract length or dates were disclosed. RCS MediaGroup is controlled by Urbano Cairo via Cairo Communication (59.693%).",
+   "short": "ADSC and RCS Sport renewed the UAE Tour partnership (May 2025)",
+   "source": {
+    "name": "ProCyclingUK - UAE Tour & UAE Tour Women to continue as RCS and Abu Dhabi Sports Council extend partnership",
+    "date": "2025-05-31",
+    "url": "https://procyclinguk.com/uae-tour-uae-tour-women-to-continue-as-rcs-and-abu-dhabi-sports-council-extend-partnership/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "alulatour-organisers-arabnews",
+   "ownerIds": [
+    "government-of-saudi-arabia",
+    "royal-commission-for-alula"
+   ],
+   "text": "Announcing the rebrand of the Saudi Tour as the AlUla Tour, Arab News reported: 'It will be organized by the Ministry of Sport and the Royal Commission for AlUla', staged 'in cooperation with the Saudi Cycling Federation and the International Cycling Union'.",
+   "short": "AlUla Tour organised by Saudi Ministry of Sport and the Royal Commission for AlUla",
+   "source": {
+    "name": "Arab News - Saudi Arabia to host AlUla Tour cycling race (announcement of the 2024 rebrand)",
+    "date": "2023-11-20",
+    "url": "https://www.arabnews.com/node/2412361"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "alulatour-institutional-partners-2026",
+   "ownerIds": [
+    "government-of-saudi-arabia",
+    "royal-commission-for-alula"
+   ],
+   "text": "The AlUla Tour's own partners page lists under 'Institutional Partners' the Ministère des sports (mos.gov.sa), the Saudi Cycling Federation (sacf.sa), AlUla (rcu.gov.sa) and Saudi Palmier Olympique (olympic.sa); the sole 'Main partner' is Manahil Nissan, and the 'Official Partners' are Nova, Alé and Budget Saudi Arabia. No title-sponsor tier exists - AlUla is the event name.",
+   "short": "AlUla Tour partners: Saudi state bodies institutional, Manahil Nissan main",
+   "source": {
+    "name": "The AlUla Tour - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.thealulatour.com/en/partners"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "oman-tour-2026-organisers",
+   "ownerIds": [
+    "government-of-oman",
+    "oman-ministry-culture-sports-youth"
+   ],
+   "text": "'The 15th edition of the Tour of Oman International Cycling Race will begin on February 6, 2026 organised by the Ministry of Culture, Sports and Youth in cooperation with Oman Cycling Association', with a five-stage route 'opening with Muscat Classic' and 18 international teams; the article adds that the race 'supports tourism promotion and economic diversification by drawing international attention to destinations across several governorates'.",
+   "short": "Tour of Oman 2026 organised by Oman's Ministry of Culture, Sports and Youth",
+   "source": {
+    "name": "Muscat Daily - Tour of Oman 2026 to begin on Feb 6",
+    "date": "2025-12-24",
+    "url": "https://www.muscatdaily.com/2025/12/24/tour-of-oman-2026-to-begin-on-feb-6/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "oman-hrw-record-2021",
+   "ownerIds": [
+    "government-of-oman"
+   ],
+   "text": "HRW's World Report 2021 Oman chapter found that 'Under Sultan Haitham bin Tariq, freedom of expression remained squeezed', citing prosecutions over social-media posts, and that Oman 'has done little to protect migrant domestic workers rights', with workers facing 'few avenues for redress' and risking 'imprisonment and deportation for absconding'.",
+   "short": "Oman: squeezed expression and weak migrant-worker protections (HRW)",
+   "source": {
+    "name": "Human Rights Watch - World Report 2021, Oman",
+    "date": "2021-01",
+    "url": "https://www.hrw.org/world-report/2021/country-chapters/oman"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "guangxi-china-hrw-2026",
+   "ownerIds": [
+    "people-s-government-of-guangxi"
+   ],
+   "text": "HRW's World Report 2026 China chapter states that 'The Chinese government has since late 2016 committed a range of crimes against humanity in Xinjiang' and that 'Human rights defenders in China are frequently harassed, tortured, and imprisoned'; the M23 chapter conclusions elsewhere in the report note Rwanda's occupation of parts of eastern Congo. The Tour of Guangxi is owned and organised by the People's Government of the Guangxi Zhuang Autonomous Region, a provincial-level Chinese government body.",
+   "short": "China: crimes against humanity in Xinjiang; defenders harassed, tortured, imprisoned (HRW 2026)",
+   "source": {
+    "name": "Human Rights Watch - World Report 2026, China",
+    "date": "2026-01",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/china"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "guangxi-gree-title-sponsor",
+   "ownerIds": [
+    "people-s-government-of-guangxi",
+    "gree-group-zhuhai-sasac"
+   ],
+   "text": "The Tour of Guangxi is 'officially known as the GREE-Tour of Guangxi for sponsorship purposes', and the race is owned and organised by the People's Government of the Guangxi Zhuang Autonomous Region together with Wanda Group (whose owner is Dalian Hexing Investment Co., the Wang family holding of founder Wang Jianlin); the 2026 edition, 13-18 October, closes the UCI WorldTour.",
+   "short": "GREE titles the state-owned Tour of Guangxi; organisers are the Guangxi government and Wanda",
+   "source": {
+    "name": "Cyclingnews - Gree-Tour of Guangxi 2026 stages (title-sponsor race name), corroborated by the race's own race record",
+    "date": "2026-09-25",
+    "url": "https://www.cyclingnews.com/gree-tour-of-guangxi/stages/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "rwanda-worlds-hrw-2025",
+   "ownerIds": [
+    "government-of-rwanda"
+   ],
+   "text": "On the eve of the 2025 UCI Road World Championships in Kigali (21-28 September 2025), HRW's Minky Worden wrote that the event 'risks being linked to abuses itself': opposition leader Victoire Ingabire was 'arrested in June' 2025 and 'faces serious criminal charges alongside 14 party members' in a 'politically motivated trial'; the Rwanda-backed M23 has committed war crimes including 'summary executions' of over 140 civilians in July 2025; and authorities 'round up and arbitrarily detain sex workers, street children' before high-profile events. The Union 'shouldn't be providing Rwanda such easy cover for its poor human rights record'.",
+   "short": "HRW: the Kigali Worlds risk sportswashing Rwanda's abuses",
+   "source": {
+    "name": "Human Rights Watch (Dispatches, Minky Worden) - Cycling Event Can't Override Rwanda's Abuses",
+    "date": "2025-09-22",
+    "url": "https://www.hrw.org/news/2025/09/22/cycling-event-cant-override-rwandas-abuses"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "rwanda-hrw-record-2026",
+   "ownerIds": [
+    "government-of-rwanda"
+   ],
+   "text": "HRW's World Report 2026 Rwanda chapter: 'Few journalists, civil society activists, or opposition members dare speak out publicly against the government'; Victoire Ingabire was arrested at her Kigali home in June 2025; and 'The M23, at times with the support of Rwandan forces, carried out mass summary executions, arbitrary detention', with Rwanda's control of parts of eastern Congo meeting the standards 'for a belligerent occupation'.",
+   "short": "Rwanda 2026: silenced dissent; M23 executions with Rwandan support (HRW)",
+   "source": {
+    "name": "Human Rights Watch - World Report 2026, Rwanda",
+    "date": "2026-01",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/rwanda"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "tdr-institution-partners-2026",
+   "ownerIds": [
+    "government-of-rwanda",
+    "rwanda-ministry-of-sports"
+   ],
+   "text": "The Tour du Rwanda's own site lists under 'Institution Partners' the European Commission Global Gateway (commission.europa.eu), Rwanda's Ministry of Sports (minisports.gov.rw) and the Rwanda National Police (police.gov.rw); its partner tiers are Platinum Visit Rwanda, Golden Amstel, Silver BPR, MTN MoMo, BRD and Prime, and Bronze RwandAir and Ingufu Gin, with classification jerseys named after Amstel, BPR Bank, BRD, Sensitive Group, RwandAir, Ingufu Gin, MTN MoMo and Inyange.",
+   "short": "Tour du Rwanda institution partners: EU Global Gateway, Ministry of Sports, Police",
+   "source": {
+    "name": "Tour du Rwanda - homepage partners and classification jerseys",
+    "date": "2026-09-25",
+    "url": "https://www.tourdurwanda.rw/"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "ad-ports-group",
+   "tier": "serious",
+   "ownerId": "ad-ports-group",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "AD Ports Group is 'Established by Emiri Decree and owned by ADQ' (its own about-us page), and ADQ sits under the Government of Abu Dhabi in the existing owner chain - so the Presenting Partner of the state-owned UAE Tour is direct Abu Dhabi state money. Same UAE evidentiary base as the rated Etihad/Experience Abu Dhabi chain: the 2024 mass trial (43 life sentences rights groups called grossly unfair) upheld on appeal in March 2025. Serious, matching the existing chain rating; severe is reserved for live armed conflict."
+  },
+  {
+   "sponsorId": "mubadala",
+   "tier": "serious",
+   "ownerId": "mubadala",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Mubadala is the Abu Dhabi sovereign wealth fund and a classification-jersey sponsor of the UAE Tour and UAE Tour Women. Same Abu Dhabi state record as the other rated UAE-chain sponsors (2024 mass trial, upheld 2025) -> serious. Note: the shared owners.json entry for mubadala has parentId null; the chain to the Government of Abu Dhabi should be set when this is merged (flagged in unsourced)."
+  },
+  {
+   "sponsorId": "abu-dhabi-sports-council",
+   "tier": "serious",
+   "ownerId": "government-of-abu-dhabi",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "ADSC is the Emirate of Abu Dhabi's government sports authority (established 2006 by the UAE president, 'aligned to the emirate's leadership vision'), and it owns and organises both UAE Tour races - the state is not just a sponsor but the event's owner. Same UAE record (mass trial 2024, upheld 2025) -> serious, matching the Etihad/Experience Abu Dhabi chain rating."
+  },
+  {
+   "sponsorId": "alula",
+   "tier": "serious",
+   "ownerId": "royal-commission-for-alula",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "AlUla is the destination brand of the Royal Commission for AlUla, a Saudi government agency (parentId government-of-saudi-arabia), and RCU co-organises the AlUla Tour with the Saudi Ministry of Sport - the race name itself is state branding. Same Saudi state record as the other rated Saudi sponsors (record 345 executions in 2024, Khashoggi assessment) -> serious; severe is reserved for armed-conflict-linked sponsors."
+  }
+ ],
+ "unsourced": [
+  "EVENT-HOST SHAPE - the schema has no event entity and no host/title-sponsor placement, so the seven races and their race-by-race sponsorship facts are recorded here, following the UFC, Esports World Cup and horse-racing precedents. 2026 races, dates and winners: UAE Tour (UCI WorldTour, 16-22 February, 7 stages, 978.2 km, won by Isaac del Toro of UAE Team Emirates XRG - Wikipedia 2026 UAE Tour and the UCI's approved 2026 calendar, https://www.uci.org/pressrelease/the-uci-approves-the-2026-calendars-for-the-uci-womens-worldtour-and-uci/4Eom6DCpjNwy5BeppuLXg3, both opened); UAE Tour Women (Women's WorldTour, 5-8 February, 4 stages, won by Elisa Longo Borghini of UAE Team ADQ); AlUla Tour (UCI ProSeries 2.Pro, 27-31 January, 17 teams, won by Jan Christen of UAE Team Emirates XRG); Tour of Oman (UCI ProSeries, 7-11 February, 15th edition, 18 teams, won by Christian Scaroni of XDS Astana Team); Muscat Classic (UCI ProSeries one-day race, 6 February, 4th edition, won by Mauro Schmid of Team Jayco-AlUla, per the race's own page https://www.tour-of-oman.com/en/muscat-classic which states it runs 'ahead of the Tour of Oman (7-11 February 2026)'); Tour of Guangxi (UCI WorldTour season finale, 13-18 October, closing the 36-race 2026 WorldTour per the UCI calendar and Domestique's calendar https://www.domestiquecycling.com/en/2026-uci-worldtour-calendar/); Tour du Rwanda (UCI Africa Tour 2.1, 22 February-1 March, won by Moritz Kretschy of NSN Development Team, per Escape Collective https://escapecollective.com/tour-du-rwanda-2026-everything-you-need-to-know-about-africas-biggest-race/ and the race record).",
+  "UAE TOUR COMMERCIAL PROGRAMME, per the race's own sponsors page (https://www.theuaetour.com/sponsors/, opened): Organised By Abu Dhabi Sports Council; Presenting Sponsor AD Ports Group; Jersey Sponsors AD Ports Group, Mubadala, Burjeel Holdings and Aldar; Stage Sponsors Bin Hamoodah Auto, Breitling, RKTDA (RAKTDA), Palms Sports, Dubai Sports, Burjeel Holdings and AD Ports Group; Stage Partners Modon, HBMSU (Smart Uni), Al Ain Museum, Zayed National Museum and Marina Mall; Official Timekeeper Breitling; Vehicle Sponsor Bin Hamoodah Auto (GMC); Medical Sponsor Burjeel Medical City; Bike Partner Colnago; Environmental Partner Tadweer; Aviation Partner Abu Dhabi Aviation; Jersey Partner Alé; Hydration Partner Al Ain Water; Neutral Race Service Shimano; Infrastructure Partner Al Masaood; Host Broadcasters Abu Dhabi Sports and Dubai Sports; International Media Partners Gazzetta and Marca. The women's page (https://theuaetourwomen.com/sponsors/, opened) shows the same Presenting Sponsor and Jersey Sponsors with a slightly different stage-sponsor list (Al Masaood, Dubai Sports, teamLab Abu Dhabi, Modon). None of these fees are published, and only the four Jersey Sponsors plus the Presenting Sponsor were carried into deals.",
+  "MUSCAT CLASSIC / TOUR OF OMAN OVERLAP (conflict, unresolved): Muscat Daily (24 Dec 2025, opened) describes the 6 February Muscat Classic as the opening race of the Tour of Oman programme ('a five-stage route, opening with Muscat Classic'); Wikipedia treats Muscat Classic as a separate one-day race that 'since 2026 has been on the UCI ProSeries calendar'; the race's own page says the Classic features 'on the ProSeries calendar, ahead of the Tour of Oman (7-11 February 2026)'. Both sites are run by ASO (© ASO). The governance split between the two events is not documented in any fetched source.",
+  "TOUR OF OMAN / ALULA TOUR OPERATOR: the tour-of-oman.com and thealulatour.com sites carry © ASO and ASO privacy links, and Wikipedia's Tour of Oman record says the race 'is organized by the Amaury Sport Organisation' since its first 2010 edition. ASO (existing owner 'aso', wholly owned by the Amaury family group) is therefore the commercial operator for Oman and AlUla, while the state bodies (Oman Ministry of Culture, Sports and Youth; Saudi Ministry of Sport and Royal Commission for AlUla) organise/host. ASO's exact contract terms with those states were not found. ASO's Saudi links have a precedent claim in the data (dakar-sportswashing-hrw-2020).",
+  "TOUR OF GUANGXI CREATION AND OWNERSHIP: Wikipedia's Tour of Guangxi record (lead only, not cited as a source) says that on 1 December 2016 'the UCI, Wanda Sports (part of Wanda Group) and the regional government of Guangxi signed an agreement' creating the race for the 2017 WorldTour, and that the race's organisers are 'People's Government Of The Guangxi Zhuang Autonomous Region' and 'Wanda Group' (race director Olivier Senn). No primary document of the 2016 agreement was found - the Cyclingnews agreement article (http://www.cyclingnews.com/news/tour-of-guangxi-added-to-2017-worldtour-calendar/) returned only its headline to automated fetches. Wanda Group is a private company controlled by Wang Jianlin's family via Dalian Hexing Investment Co. (Wikipedia, lead only). Wanda's current role in the 2026 edition is unclear.",
+  "GREE TITLE DEAL TERMS: the GREE title (officially 'GREE-Tour of Guangxi') is verified from Cyclingnews' 2026 stage pages and the race record, and a 2022 WorldTour calendar listing on Cycling Weekly; the start date, length and value of the GREE deal were not found. GREE (Gree Electric Appliances) is already in the data as 'concern' (owner Gree Group, Zhuhai municipal SASAC).",
+  "2025 UCI ROAD WORLD CHAMPIONSHIPS, KIGALI (one-off, not counted as a 2026 race): the first Worlds in Africa, 21-28 September 2025. HRW's criticism of the event and of Rwanda's record is captured in claim rwanda-worlds-hrw-2025. The host-fee and sponsorship programme of the Kigali Worlds (e.g. Visit Rwanda's role) was not documented from a primary source this pass.",
+  "TOUR DU RWANDA ORGANISER: Wikipedia's race record and article say the race 'is organized by the Rwanda Cycling Federation (FERWACY)' (lead only, not cited as a source); the race's own site (tourdurwanda.rw, opened) confirms partners, jerseys and the 2026 edition (won by Moritz Kretschy, NSN Development Team) but does not name FERWACY in any fetched page. The federation's legal/governance relationship to the government is unresolved.",
+  "TOUR DU RWANDA PARTNER OWNERSHIPS NOT TRACED: BPR Bank Rwanda is a subsidiary of Kenya's KCB Group (87.5% after the 2021 acquisition and 2022 amalgamation, Wikipedia record opened) but the KCB stake needs a primary source; BRD's exact Government-of-Rwanda stake is not published (the bank's own ownership table omits percentages); Prime (prime.rw) did not return content to automated fetches; MTN Group is JSE-listed with no current controlling shareholder named in the record checked; Inyange Industries, Sensitive Group and Ingufu Gin ownerships were not traced. All carried at ownerId null.",
+  "MUBADALA CHAIN GAP: the shared owners.json entry for 'mubadala' has parentId null; its actual ultimate parent is the Government of Abu Dhabi (Mubadala is the emirate's sovereign fund). The proposed serious rating for the UAE Tour jersey role relies on the UAE mass-trial claims, which attach to 'uae' and 'government-of-abu-dhabi'; the mubadala chain should be re-parented before the rating is finalised.",
+  "HOST FEES: no hosting fee or sanction-fee figure for any of the seven races was found in any fetched source. The target notes state host fees are rarely disclosed.",
+  "WOMEN'S RACES BEYOND THE UAE TOUR WOMEN: a possible 2026 Tour of Guangxi women's race was not verified (the women's race was a Women's WorldTour one-day event through 2025; the 2026 Women's WorldTour calendar approved by the UCI does not list Guangxi, so it appears to have dropped off, but no explicit announcement was found). The Tour du Rwanda has no women's edition documented.",
+  "SITE DEAD ENDS: uaetour.com did not resolve (the live domain is theuaetour.com); adsc.gov.ae served pages only after ignoring an SSL certificate error (curl -k, HTTP 200); mos.gov.sa refused connections on every automated attempt (the Saudi Ministry of Sport is corroborated via the AlUla Tour partners page linking mos.gov.sa and via Arab News); uci.org race-pages returned 404s; ProCyclingStats and FirstCycling block automated fetches (Cloudflare/403); bpr.rw and prime.rw returned 403/timeout to curl (both are linked from the Tour du Rwanda partners page, which was fetched successfully)."
+ ]
+}

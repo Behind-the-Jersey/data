@@ -1,0 +1,1562 @@
+{
+ "target": "euroleague",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/253",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "euroleague",
+   "aliases": [
+    "turkish airlines euroleague",
+    "euroleague basketball"
+   ],
+   "sportId": "basketball",
+   "name": "EuroLeague",
+   "clubCount": 20,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "20 teams in 2026-27: 12 licensed clubs plus 8 associated (3-year or 1-year licences). AS Monaco dropped to the EuroCup; Beşiktaş entered as EuroCup runners-up.",
+    "Turkish Airlines' 15-year title sponsorship ended after 2024-25 and was not replaced; EuroLeague says it will prioritise global sponsors instead (SportsPro 2025-07-02).",
+    "DCT Abu Dhabi (via its Experience Abu Dhabi brand) and Etihad Airways are EuroLeague Main Partners and Final Four Presenting Partners from 2025-26, a four-year deal whose logos rotate across all participating teams' jerseys (Abu Dhabi Media Office 2025-09-24).",
+    "Inaugural Euroleague Basketball SuperCup held at Etihad Arena, Yas Island, Abu Dhabi, 18-19 September 2026, as part of the long-term DCT partnership brokered by IMG (Abu Dhabi Media Office 2026-08-24).",
+    "Wikipedia's partners section lists DenizBank and Castrol as league partners; neither appears on the official marketing-partners page (snapshot 7 Feb 2026) - unverified."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "real-madrid-baloncesto",
+   "name": "Real Madrid Baloncesto",
+   "shortName": "Real Madrid",
+   "code": "RMB",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "Real Madrid basketball"
+   ]
+  },
+  {
+   "id": "barcelona-basquet",
+   "name": "FC Barcelona Bàsquet",
+   "shortName": "Barcelona",
+   "code": "BAR",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "FC Barcelona basketball"
+   ]
+  },
+  {
+   "id": "olympiacos",
+   "name": "Olympiacos B.C.",
+   "shortName": "Olympiacos",
+   "code": "OLY",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Greece",
+   "crest": null,
+   "aliases": [
+    "Olympiacos Piraeus",
+    "Olympiacos Superbet"
+   ]
+  },
+  {
+   "id": "panathinaikos",
+   "name": "Panathinaikos B.C.",
+   "shortName": "Panathinaikos",
+   "code": "PAO",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Greece",
+   "crest": null,
+   "aliases": [
+    "Panathinaikos AKTOR Athens"
+   ]
+  },
+  {
+   "id": "maccabi-tel-aviv",
+   "name": "Maccabi Tel Aviv B.C.",
+   "shortName": "Maccabi Tel Aviv",
+   "code": "MTA",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Israel",
+   "crest": null,
+   "aliases": [
+    "Maccabi Rapyd Tel Aviv"
+   ]
+  },
+  {
+   "id": "hapoel-tel-aviv",
+   "name": "Hapoel Tel Aviv B.C.",
+   "shortName": "Hapoel Tel Aviv",
+   "code": "HTA",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Israel",
+   "crest": null,
+   "aliases": [
+    "Hapoel IBI Tel Aviv"
+   ]
+  },
+  {
+   "id": "fenerbahce-basketball",
+   "name": "Fenerbahçe (men's basketball)",
+   "shortName": "Fenerbahçe",
+   "code": "FEN",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Türkiye",
+   "crest": null,
+   "aliases": [
+    "Fenerbahçe Beko İstanbul",
+    "Fenerbahçe Tarfin"
+   ]
+  },
+  {
+   "id": "anadolu-efes",
+   "name": "Anadolu Efes S.K.",
+   "shortName": "Anadolu Efes",
+   "code": "EFS",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Türkiye",
+   "crest": null,
+   "aliases": [
+    "Efes Istanbul"
+   ]
+  },
+  {
+   "id": "besiktas-basketball",
+   "name": "Beşiktaş J.K. (men's basketball)",
+   "shortName": "Beşiktaş",
+   "code": "BJK",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Türkiye",
+   "crest": null,
+   "aliases": [
+    "Beşiktaş Gain"
+   ]
+  },
+  {
+   "id": "bayern-munich-basketball",
+   "name": "FC Bayern Munich Basketball",
+   "shortName": "Bayern Munich",
+   "code": "FCB",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "FC Bayern Basketball"
+   ]
+  },
+  {
+   "id": "olimpia-milano",
+   "name": "Olimpia Milano",
+   "shortName": "Milano",
+   "code": "MIL",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "EA7 Emporio Armani Milano"
+   ]
+  },
+  {
+   "id": "virtus-bologna",
+   "name": "Virtus Pallacanestro Bologna",
+   "shortName": "Virtus Bologna",
+   "code": "VIR",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "Virtus Costa Bologna",
+    "Virtus Segafredo Bologna"
+   ]
+  },
+  {
+   "id": "asvel",
+   "name": "ASVEL Basket",
+   "shortName": "ASVEL",
+   "code": "ASV",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "LDLC ASVEL",
+    "Groupe LDLC ASVEL"
+   ]
+  },
+  {
+   "id": "paris-basketball",
+   "name": "Paris Basketball",
+   "shortName": "Paris",
+   "code": "PAR",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "France",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "zalgiris",
+   "name": "Žalgiris Kaunas",
+   "shortName": "Žalgiris",
+   "code": "ZAL",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Lithuania",
+   "crest": null,
+   "aliases": [
+    "Zalgiris Kaunas"
+   ]
+  },
+  {
+   "id": "baskonia",
+   "name": "Saski Baskonia",
+   "shortName": "Baskonia",
+   "code": "BAS",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "Kosner Baskonia",
+    "Baskonia Vitoria-Gasteiz"
+   ]
+  },
+  {
+   "id": "valencia-basket",
+   "name": "Valencia Basket",
+   "shortName": "Valencia",
+   "code": "VAL",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Spain",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "crvena-zvezda",
+   "name": "KK Crvena zvezda",
+   "shortName": "Crvena zvezda",
+   "code": "CZV",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Serbia",
+   "crest": null,
+   "aliases": [
+    "Crvena zvezda Meridianbet Belgrade",
+    "Red Star Belgrade"
+   ]
+  },
+  {
+   "id": "partizan",
+   "name": "KK Partizan (basketball)",
+   "shortName": "Partizan",
+   "code": "PTZ",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "Serbia",
+   "crest": null,
+   "aliases": [
+    "Partizan Mozzart Bet",
+    "Partizan Belgrade"
+   ]
+  },
+  {
+   "id": "dubai-basketball",
+   "name": "Dubai Basketball",
+   "shortName": "Dubai",
+   "code": "DXB",
+   "sportId": "basketball",
+   "leagueId": "euroleague",
+   "country": "United Arab Emirates",
+   "crest": null,
+   "aliases": []
+  }
+ ],
+ "owners": [
+  {
+   "id": "adq",
+   "name": "ADQ (Abu Dhabi Developmental Holding Company)",
+   "type": "state-fund",
+   "country": "United Arab Emirates",
+   "via": "Owned by the Government of Abu Dhabi; chaired under the Supreme Council for Financial and Economic Affairs",
+   "parentId": "government-of-abu-dhabi",
+   "note": "ADQ press release: 'The Supreme Council for Financial and Economic Affairs has transferred full ownership of Etihad Aviation Group (EAG) to ADQ, an Abu Dhabi-based investment and holding company.'"
+  },
+  {
+   "id": "det-dubai",
+   "name": "Dubai Department of Economy and Tourism (DET)",
+   "type": "state",
+   "country": "United Arab Emirates",
+   "via": "Dubai Government department; Visit Dubai is its destination brand",
+   "parentId": "government-of-dubai",
+   "note": "Release quotes Ahmed Al Khaja, CEO of DFRE, part of DET, tying the deal to the Dubai Economic Agenda D33."
+  },
+  {
+   "id": "opap-group",
+   "name": "OPAP Group",
+   "type": "listed-company",
+   "country": "Greece",
+   "note": "OPAP listed on Athens Stock Exchange; Allwyn Entertainment holds a majority stake.",
+   "parentId": null
+  },
+  {
+   "id": "rapyd",
+   "name": "Rapyd Holdings",
+   "type": "private-company",
+   "country": "Israel",
+   "parentId": null
+  },
+  {
+   "id": "meridianbet-group",
+   "name": "Meridianbet Group",
+   "type": "private-company",
+   "country": "Malta",
+   "via": "Subsidiary of Golden Matrix Group Inc. (NASDAQ: GMGI)",
+   "parentId": "golden-matrix-group",
+   "note": "GlobeNewswire release describes Meridianbet as part of Golden Matrix Group Inc. (NASDAQ: GMGI)."
+  },
+  {
+   "id": "golden-matrix-group",
+   "name": "Golden Matrix Group Inc.",
+   "type": "listed-company",
+   "country": "United States",
+   "parentId": null
+  },
+  {
+   "id": "olybet",
+   "name": "OlyBet (Olympic Entertainment Group)",
+   "type": "private-company",
+   "country": "Estonia",
+   "parentId": null
+  },
+  {
+   "id": "beko-owner",
+   "name": "Arçelik A.S.",
+   "type": "listed-company",
+   "country": "Turkey",
+   "via": "Beko is Arçelik's home-appliance brand",
+   "parentId": null
+  },
+  {
+   "id": "mozzart-bet-owner",
+   "name": "Mozzart Bet",
+   "type": "private-company",
+   "country": "Serbia",
+   "parentId": null
+  },
+  {
+   "id": "superbet-owner",
+   "name": "Superbet Group",
+   "type": "private-company",
+   "country": "Romania",
+   "parentId": null
+  },
+  {
+   "id": "costa-group",
+   "name": "Costa Crociere (Costa Cruises)",
+   "type": "private-company",
+   "country": "Italy",
+   "via": "Carnival Corporation & plc brand",
+   "parentId": null
+  },
+  {
+   "id": "carnival-corporation",
+   "name": "Carnival Corporation & plc",
+   "type": "listed-company",
+   "country": "United States",
+   "parentId": null
+  },
+  {
+   "id": "armani",
+   "name": "Giorgio Armani S.p.A.",
+   "type": "private-company",
+   "country": "Italy",
+   "note": "EA7 is Armani's sportswear line",
+   "parentId": null
+  },
+  {
+   "id": "msc-group-aponte-family",
+   "name": "MSC Group (Aponte family)",
+   "type": "private-company",
+   "country": "Switzerland",
+   "parentId": null
+  },
+  {
+   "id": "tarfin",
+   "name": "Tarfin Tarım Yatırım A.S.",
+   "type": "private-company",
+   "country": "Turkey",
+   "parentId": null
+  },
+  {
+   "id": "ldlc-group",
+   "name": "LDLC Group (Maison du basketball / LDLC ASVEL holding)",
+   "type": "private-company",
+   "country": "France",
+   "parentId": null,
+   "note": "Owner of the LDLC naming; ASVEL's naming sponsor since 2018. Ownership of the LDLC brand itself not verified in this pass."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "etihad-airways",
+   "name": "Etihad Airways",
+   "ownerId": "government-of-abu-dhabi",
+   "ownership": "owned",
+   "tier": "serious",
+   "status": "rated",
+   "verdict": "The airline is owned by the Government of Abu Dhabi.",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "aliases": [
+    "etihad",
+    "abu dhabi"
+   ],
+   "ownerVerb": "owned by"
+  },
+  {
+   "id": "experience-abu-dhabi",
+   "name": "Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi)",
+   "ownerId": "government-of-abu-dhabi",
+   "ownership": "owned",
+   "tier": "serious",
+   "status": "rated",
+   "verdict": "A brand of the Abu Dhabi government's culture and tourism department.",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "aliases": [
+    "dct abu dhabi"
+   ],
+   "ownerVerb": "owned by"
+  },
+  {
+   "id": "dnata",
+   "name": "dnata",
+   "ownerId": "government-of-dubai",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "aliases": []
+  },
+  {
+   "id": "det-dubai",
+   "name": "Dubai Department of Economy and Tourism (Visit Dubai)",
+   "ownerId": "det-dubai",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "aliases": [
+    "visit dubai",
+    "visitdubai.com"
+   ],
+   "ownerVerb": "owned by"
+  },
+  {
+   "id": "bkt",
+   "name": "BKT",
+   "ownerId": "balkrishna-industries",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "bkt tires"
+   ]
+  },
+  {
+   "id": "motorola",
+   "name": "Motorola",
+   "ownerId": "motorola-owner",
+   "ownership": "owned",
+   "tier": "none",
+   "status": "rated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "adidas",
+   "name": "adidas",
+   "ownerId": "adidas-ag",
+   "ownership": "owned",
+   "tier": "concern",
+   "status": "rated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "visa",
+   "name": "Visa",
+   "ownerId": "visa-inc",
+   "ownership": "owned",
+   "tier": "none",
+   "status": "rated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "spalding",
+   "name": "Spalding",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "armani-exchange",
+   "name": "Armani Exchange (EA7)",
+   "ownerId": "armani",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "a|x armani exchange",
+    "ea7"
+   ]
+  },
+  {
+   "id": "enerjisa",
+   "name": "Enerjisa",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "vatanmed",
+   "name": "Vatanmed",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "mcdavid",
+   "name": "McDavid",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "uludag",
+   "name": "Uludağ",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "uludag"
+   ]
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon",
+   "ownerId": "amazon-com-inc",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "panini",
+   "name": "Panini",
+   "ownerId": "panini-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "superbet",
+   "name": "Superbet",
+   "ownerId": "superbet-owner",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": []
+  },
+  {
+   "id": "meridianbet",
+   "name": "Meridianbet",
+   "ownerId": "meridianbet-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "meridian"
+   ]
+  },
+  {
+   "id": "msc-cruises",
+   "name": "MSC Cruises",
+   "ownerId": "msc-group-aponte-family",
+   "ownership": "owned",
+   "tier": "none",
+   "status": "rated",
+   "verdict": null,
+   "claimIds": [
+    "msc-group-aponte-family-record"
+   ],
+   "aliases": []
+  },
+  {
+   "id": "ea7-emporio-armani",
+   "name": "EA7 Emporio Armani",
+   "ownerId": "armani",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ea7"
+   ]
+  },
+  {
+   "id": "costa-cruises",
+   "name": "Costa (Costa Crociere)",
+   "ownerId": "costa-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "costa crociere",
+    "costa"
+   ]
+  }
+ ],
+ "kits": [
+  {
+   "id": "real-madrid-baloncesto-2026-27-home",
+   "clubId": "real-madrid-baloncesto",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "emirates",
+     "placement": "front",
+     "source": {
+      "name": "Dubai Media Office, Emirates tips-off as the Official Main Sponsor of Real Madrid Basketball",
+      "date": "2025-09-15",
+      "url": "https://www.mediaoffice.ae/en/news/2025/september/15-09/emirates-tips-off-as-the-official-main-sponsor-of-real-madrid-basketball",
+      "note": "Emirates 'Fly Better' on player jerseys (Official Main Sponsor, multi-year)"
+     }
+    },
+    {
+     "sponsorId": "emirates",
+     "placement": "training-kit",
+     "source": {
+      "name": "Dubai Media Office, Emirates tips-off as the Official Main Sponsor of Real Madrid Basketball",
+      "date": "2025-09-15",
+      "url": "https://www.mediaoffice.ae/en/news/2025/september/15-09/emirates-tips-off-as-the-official-main-sponsor-of-real-madrid-basketball"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Emirates is the Official Main Sponsor; 'Fly Better' on jerseys and training kits.",
+   "change": null
+  },
+  {
+   "id": "olympiacos-2026-27-home",
+   "clubId": "olympiacos",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "superbet",
+     "placement": "front",
+     "source": {
+      "name": "Sport24, 'Superbet kai Olympiakos mazi mechri to 2032' (Superbet and Olympiacos together until 2032)",
+      "date": "2026-07-03",
+      "url": "https://www.sport24.gr/basket/superbet-kai-olimpiakos-mazi-mexri-to-2032/",
+      "note": "Superbet is the 'Great Sponsor' until 2032; deal reportedly worth EUR 55m including bonuses"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Superbet front-of-shirt from 2026, deal to 2032.",
+   "change": null
+  },
+  {
+   "id": "baskonia-2026-27-home",
+   "clubId": "baskonia",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "kosner",
+     "placement": "front",
+     "source": {
+      "name": "Baskonia, Kosner Baskonia naming announcement",
+      "date": "2025-11-20",
+      "url": "https://www.baskonia.com/kosner-baskonia/",
+      "note": "Kosner naming sponsor since 2025"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Named Kosner Baskonia since 2025.",
+   "change": null
+  },
+  {
+   "id": "crvena-zvezda-2026-27-home",
+   "clubId": "crvena-zvezda",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "meridianbet",
+     "placement": "partner",
+     "source": {
+      "name": "GlobeNewswire, Meridianbet emblem-integration deal with BC Crvena Zvezda (Wayback snapshot 14 Jan 2026)",
+      "date": "2024-11-21",
+      "url": "https://web.archive.org/web/20260114162714/https://www.globenewswire.com/news-release/2024/11/21/2984929/0/en/Meridianbet-Redefines-Sports-Sponsorship-with-Europe-s-First-Emblem-Integration-Deal-with-BC-Crvena-Zvezda.html",
+      "note": "Naming sponsor Crvena zvezda Meridianbet since 2023; logo integrated in club emblem"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "olimpia-milano-2026-27-home",
+   "clubId": "olimpia-milano",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "ea7-emporio-armani",
+     "placement": "front",
+     "source": {
+      "name": "Olimpia Milano, 'L'Olimpia torna EA7' title-sponsor announcement (Wayback snapshot 7 Apr 2023)",
+      "date": "2022-07-07",
+      "url": "https://web.archive.org/web/20230407225620/https://www.olimpiamilano.com/ci-siamo-lolimpia-diventa-ea7-e-domani-scatta-la-campagna-abbonamenti-tutti-insieme/",
+      "note": "EA7 Emporio Armani title sponsor since 2022"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "virtus-bologna-2026-27-home",
+   "clubId": "virtus-bologna",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "costa-cruises",
+     "placement": "front",
+     "source": {
+      "name": "Virtus Bologna, Costa Crociere is the new Title Sponsor LBA and Main Sponsor",
+      "date": "2026-09-13",
+      "url": "https://www.virtus.it/news/costa-crociere-e-il-nuovo-title-sponsor-lba-e-main-sponsor-della-virtus-pallacanestro-bologna/",
+      "note": "Costa Crociere Title and Main Sponsor for 2026/27; kit presented 13 Sep 2026 on Costa Pacifica"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "dubai-basketball-2026-27-home",
+   "clubId": "dubai-basketball",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "det-dubai",
+     "placement": "back",
+     "source": {
+      "name": "Dubai Media Office, Dubai Department of Economy and Tourism partners with Dubai Basketball",
+      "date": "2025-01-31",
+      "url": "https://mediaoffice.ae/en/news/2025/january/31-01/dubai-department-of-economy-and-tourism-partners-with-dubai-basketball",
+      "note": "Dubai logo and visitdubai.com on the back of the shirts"
+     }
+    },
+    {
+     "sponsorId": "dnata",
+     "placement": "front",
+     "source": {
+      "name": "dnata media centre, dnata nets three-year deal with Dubai Basketball as Founding Partner",
+      "date": "2025-09-18",
+      "url": "https://www.dnata.com/media-centre/dnata-nets-three-year-deal-with-dubai-basketball-as-founding-partner/",
+      "note": "dnata branding on official jerseys (3-year Founding Partner)"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "barcelona-basquet-2026-27-home",
+   "clubId": "barcelona-basquet",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "panathinaikos-2026-27-home",
+   "clubId": "panathinaikos",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "maccabi-tel-aviv-2026-27-home",
+   "clubId": "maccabi-tel-aviv",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "hapoel-tel-aviv-2026-27-home",
+   "clubId": "hapoel-tel-aviv",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "fenerbahce-basketball-2026-27-home",
+   "clubId": "fenerbahce-basketball",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "anadolu-efes-2026-27-home",
+   "clubId": "anadolu-efes",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "besiktas-basketball-2026-27-home",
+   "clubId": "besiktas-basketball",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "bayern-munich-basketball-2026-27-home",
+   "clubId": "bayern-munich-basketball",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "asvel-2026-27-home",
+   "clubId": "asvel",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "paris-basketball-2026-27-home",
+   "clubId": "paris-basketball",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "zalgiris-2026-27-home",
+   "clubId": "zalgiris",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "valencia-basket-2026-27-home",
+   "clubId": "valencia-basket",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "partizan-2026-27-home",
+   "clubId": "partizan",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  }
+ ],
+ "deals": [
+  {
+   "id": "euroleague-dct-abu-dhabi",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "experience-abu-dhabi",
+   "placement": "league-partner",
+   "from": "2025-26",
+   "to": "2028-29",
+   "value": null,
+   "source": {
+    "name": "Abu Dhabi Media Office, DCT Abu Dhabi and Etihad Airways become Main Partners of Euroleague Basketball",
+    "date": "2025-09-24",
+    "url": "https://www.mediaoffice.abudhabi/en/sport/department-of-culture-and-tourism-abu-dhabi-and-etihad-airways-become-main-partners-of-euroleague-basketball-marking-a-pivotal-sponsorship-milestone/"
+   },
+   "note": "Four-year deal; Experience Abu Dhabi branding in-arena, on broadcasts and across all EuroLeague team jerseys on a rotation with Etihad."
+  },
+  {
+   "id": "euroleague-etihad",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "etihad-airways",
+   "placement": "league-partner",
+   "from": "2025-26",
+   "to": "2028-29",
+   "value": null,
+   "source": {
+    "name": "Abu Dhabi Media Office, DCT Abu Dhabi and Etihad Airways become Main Partners of Euroleague Basketball",
+    "date": "2025-09-24",
+    "url": "https://www.mediaoffice.abudhabi/en/sport/department-of-culture-and-tourism-abu-dhabi-and-etihad-airways-become-main-partners-of-euroleague-basketball-marking-a-pivotal-sponsorship-milestone/"
+   },
+   "note": "Four-year Main Partner and Final Four Presenting Partner deal; Etihad logo rotates on all EuroLeague team jerseys with Experience Abu Dhabi."
+  },
+  {
+   "id": "euroleague-supercup-dct",
+   "clubId": null,
+   "orgName": "Euroleague Basketball SuperCup",
+   "leagueId": "euroleague",
+   "sponsorId": "experience-abu-dhabi",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Abu Dhabi Media Office, DCT Abu Dhabi and Euroleague Basketball launch inaugural Euroleague Basketball SuperCup",
+    "date": "2026-08-24",
+    "url": "https://www.mediaoffice.abudhabi/en/sport/department-of-culture-and-tourism-abu-dhabi-and-euroleague-basketball-launch-inaugural-euroleague-basketball-supercup/"
+   },
+   "note": "Inaugural SuperCup at Etihad Arena, Yas Island, Abu Dhabi, 18-19 Sep 2026; part of the long-term DCT partnership, brokered by IMG."
+  },
+  {
+   "id": "euroleague-turkish-airlines",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "turkish-airlines",
+   "placement": "league-partner",
+   "from": "2010-11",
+   "to": "2024-25",
+   "value": null,
+   "source": {
+    "name": "SportsPro, EuroLeague refreshes brand and ends Turkish Airlines title sponsorship",
+    "date": "2025-07-02",
+    "url": "https://www.sportspro.com/news/euroleague-basketball-rebrand-logo-identity-turkish-airlines-july-2025/"
+   },
+   "note": "Title sponsor for 15 years; not replaced for 2025-26.",
+   "endedOn": "2025-06"
+  },
+  {
+   "id": "euroleague-bkt",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "bkt",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "BKT is Naming Partner of the BKT EuroCup and Premium Partner of the EuroLeague."
+  },
+  {
+   "id": "euroleague-motorola",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "motorola",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Premium Partner (multi-year deal signed 2024 per SportsPro)."
+  },
+  {
+   "id": "euroleague-adidas",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "adidas",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner."
+  },
+  {
+   "id": "euroleague-visa",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "visa",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner (multi-year deal signed 2024 per SportsPro)."
+  },
+  {
+   "id": "euroleague-spalding",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "spalding",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner."
+  },
+  {
+   "id": "euroleague-armani-exchange",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "armani-exchange",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner."
+  },
+  {
+   "id": "euroleague-enerjisa",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "enerjisa",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner."
+  },
+  {
+   "id": "euroleague-vatanmed",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "vatanmed",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner."
+  },
+  {
+   "id": "euroleague-mcdavid",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "mcdavid",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner."
+  },
+  {
+   "id": "euroleague-uludag",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "uludag",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Partner."
+  },
+  {
+   "id": "euroleague-amazon",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "amazon",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Licensing Partner."
+  },
+  {
+   "id": "euroleague-panini",
+   "clubId": null,
+   "orgName": "Euroleague Basketball",
+   "leagueId": "euroleague",
+   "sponsorId": "panini",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "EuroLeague Basketball, Marketing Partners page (Wayback snapshot 7 Feb 2026)",
+    "date": "2026-02-07",
+    "url": "https://web.archive.org/web/20260207223442/https://www.euroleaguebasketball.net/marketing-partners/"
+   },
+   "note": "Official Licensing Partner."
+  },
+  {
+   "id": "olympiacos-superbet",
+   "clubId": "olympiacos",
+   "orgName": null,
+   "sponsorId": "superbet",
+   "placement": "front",
+   "from": "2026-27",
+   "to": "2031-32",
+   "value": {
+    "amount": 55,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "total",
+    "upTo": true,
+    "usdApprox": 65
+   },
+   "source": {
+    "name": "Sport24, 'Superbet kai Olympiakos mazi mechri to 2032' (Superbet and Olympiacos together until 2032)",
+    "date": "2026-07-03",
+    "url": "https://www.sport24.gr/basket/superbet-kai-olimpiakos-mazi-mexri-to-2032/"
+   },
+   "note": "Deal to 2032; EUR 55m including bonuses (Sport24)."
+  },
+  {
+   "id": "real-madrid-baloncesto-emirates",
+   "clubId": "real-madrid-baloncesto",
+   "orgName": null,
+   "sponsorId": "emirates",
+   "placement": "front",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Dubai Media Office, Emirates tips-off as the Official Main Sponsor of Real Madrid Basketball",
+    "date": "2025-09-15",
+    "url": "https://www.mediaoffice.ae/en/news/2025/september/15-09/emirates-tips-off-as-the-official-main-sponsor-of-real-madrid-basketball"
+   },
+   "note": "Multi-year Official Main Sponsor; 'Fly Better' on all player jerseys and training kits."
+  },
+  {
+   "id": "dubai-basketball-det",
+   "clubId": "dubai-basketball",
+   "orgName": null,
+   "sponsorId": "det-dubai",
+   "placement": "back",
+   "from": "2024-25",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Dubai Media Office, Dubai Department of Economy and Tourism partners with Dubai Basketball",
+    "date": "2025-01-31",
+    "url": "https://mediaoffice.ae/en/news/2025/january/31-01/dubai-department-of-economy-and-tourism-partners-with-dubai-basketball"
+   },
+   "note": "Founding sponsor; Dubai logo and visitdubai.com on the back of the shirts."
+  },
+  {
+   "id": "dubai-basketball-dnata",
+   "clubId": "dubai-basketball",
+   "orgName": null,
+   "sponsorId": "dnata",
+   "placement": "front",
+   "from": "2025-26",
+   "to": "2027-28",
+   "value": null,
+   "source": {
+    "name": "dnata media centre, dnata nets three-year deal with Dubai Basketball as Founding Partner",
+    "date": "2025-09-18",
+    "url": "https://www.dnata.com/media-centre/dnata-nets-three-year-deal-with-dubai-basketball-as-founding-partner/"
+   },
+   "note": "Three-year Founding Partner; dnata branding on official jerseys, court and digital platforms."
+  },
+  {
+   "id": "virtus-bologna-costa",
+   "clubId": "virtus-bologna",
+   "orgName": null,
+   "sponsorId": "costa-cruises",
+   "placement": "front",
+   "from": "2026-27",
+   "to": "2026-27",
+   "value": null,
+   "source": {
+    "name": "Virtus Bologna, Costa Crociere is the new Title Sponsor LBA and Main Sponsor",
+    "date": "2026-09-13",
+    "url": "https://www.virtus.it/news/costa-crociere-e-il-nuovo-title-sponsor-lba-e-main-sponsor-della-virtus-pallacanestro-bologna/"
+   },
+   "note": "Title and Main Sponsor for the 2026/27 season; naming Virtus Costa Bologna."
+  },
+  {
+   "id": "milano-ea7",
+   "clubId": "olimpia-milano",
+   "orgName": null,
+   "sponsorId": "ea7-emporio-armani",
+   "placement": "front",
+   "from": "2022-23",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Olimpia Milano, 'L'Olimpia torna EA7' title-sponsor announcement (Wayback snapshot 7 Apr 2023)",
+    "date": "2022-07-07",
+    "url": "https://web.archive.org/web/20230407225620/https://www.olimpiamilano.com/ci-siamo-lolimpia-diventa-ea7-e-domani-scatta-la-campagna-abbonamenti-tutti-insieme/"
+   },
+   "note": "EA7 Emporio Armani returned as title sponsor in July 2022."
+  },
+  {
+   "id": "baskonia-kosner",
+   "clubId": "baskonia",
+   "orgName": null,
+   "sponsorId": "kosner",
+   "placement": "front",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Baskonia, Kosner Baskonia naming announcement",
+    "date": "2025-11-20",
+    "url": "https://www.baskonia.com/kosner-baskonia/"
+   },
+   "note": "Naming sponsor since November 2025 (Kosner Baskonia)."
+  }
+ ],
+ "claims": [
+  {
+   "id": "uae-mass-trial-2024-euroleague",
+   "ownerIds": [
+    "uae",
+    "government-of-abu-dhabi",
+    "government-of-dubai"
+   ],
+   "text": "In July 2024, 43 UAE activists and human-rights defenders received sentences of up to life imprisonment in a single mass trial that Human Rights Watch called flagrantly unfair; in March 2025 an appeals court upheld the convictions.",
+   "short": "UAE: 43 life sentences in an unfair mass trial (HRW, 2024)",
+   "source": {
+    "name": "Human Rights Watch",
+    "date": "2024-07-10",
+    "url": "https://www.hrw.org/news/2024/07/10/uae-unfair-trial-unjust-sentences"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "etihad-airways",
+   "tier": "serious",
+   "ownerId": "government-of-abu-dhabi",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Already rated serious: owned by the Government of Abu Dhabi via ADQ (Supreme Council transferred full ownership of Etihad Aviation Group to ADQ); now a EuroLeague Main Partner with logos rotating on all 20 teams' jerseys."
+  },
+  {
+   "sponsorId": "experience-abu-dhabi",
+   "tier": "serious",
+   "ownerId": "government-of-abu-dhabi",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "reasoning": "Already rated serious: a brand of DCT Abu Dhabi, a government department; Main Partner with jersey rotation across all EuroLeague teams and SuperCup host brand."
+  },
+  {
+   "sponsorId": "dnata",
+   "tier": "serious",
+   "ownerId": "government-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "reasoning": "Owned by the Dubai government via the Emirates Group/ICD; Founding Partner of Dubai Basketball with jersey branding; Dubai's use of sport to rebrand the state mirrors the existing Emirates rating."
+  },
+  {
+   "sponsorId": "det-dubai",
+   "tier": "serious",
+   "ownerId": "det-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "reasoning": "Dubai government department (Visit Dubai brand) with its logo on the back of Dubai Basketball's shirts; state tourism branding during the UAE mass-trial aftermath."
+  },
+  {
+   "sponsorId": "superbet",
+   "tier": "unrated",
+   "ownerId": "superbet-owner",
+   "claimIds": [],
+   "reasoning": "Betting operator on the front of Olympiacos' shirt until 2032 (EUR 55m); Romanian private group, gambling harms unassessed - left for a person to rate."
+  },
+  {
+   "sponsorId": "meridianbet",
+   "tier": "unrated",
+   "ownerId": "meridianbet-group",
+   "claimIds": [],
+   "reasoning": "Betting brand whose logo is integrated into Crvena zvezda's club emblem; part of Golden Matrix Group (NASDAQ: GMGI) - gambling-sports integration, left unrated."
+  },
+  {
+   "sponsorId": "pame-stoixima",
+   "tier": "unrated",
+   "ownerId": "opap-group",
+   "claimIds": [],
+   "reasoning": "OPAP's betting brand is Panathinaikos' 'Great Shirt Sponsor'; OPAP is listed with Allwyn as majority holder - left unrated."
+  },
+  {
+   "sponsorId": "rapyd",
+   "tier": "unrated",
+   "ownerId": "rapyd",
+   "claimIds": [],
+   "reasoning": "Fintech naming sponsor of Maccabi Rapyd Tel Aviv; private Israeli company, nothing found in this pass."
+  }
+ ],
+ "unsourced": [
+  "FC Barcelona Basquet 2026-27 front-of-shirt sponsor: Wikipedia sponsor field empty and fcbarcelona.com lists only Nike and Assistencia Sanitaria as 'Main Partners'; naming history ends Lassa Tyres 2015-2019. Needs the club's partner page or a Catalan sports outlet.",
+  "Zalgiris Kaunas front-of-shirt sponsor: none found; Wikipedia article has no sponsor field and the kit manufacturer is Puma. Owner Paulius Motiejunas holds 55% (Wikipedia, unverified).",
+  "Valencia Basket 2026-27 naming/shirt sponsor: none found; owner Juan Roig, kit Luanvi, arena Roig Arena (Wikipedia, unverified). Needs valenciabasket.com.",
+  "Anadolu Efes jersey placement: Wikipedia infobox sponsor is the Efes Beverage Group (the club's owner-name), but no current external shirt sponsor found; needs efesbasket club announcement.",
+  "Besiktas men's basketball 2026-27 naming sponsor: Wikipedia naming history ends 'Besiktas Gain: 2025-2026'; 2026-27 naming unknown, kit Umbro (Wikipedia, unverified).",
+  "Hapoel Tel Aviv naming: club site hapoelbc.com brands the team 'Hapoel IBI Tel Aviv' and IBI Investment House appears in its sponsor list, but no explicit statement that IBI appears on the jersey (site returns 403 to automated fetches).",
+  "Fenerbahce 2026-27 front-of-shirt row: Wikipedia kit-sponsor table's 2026-present row is partially blank (Beko missing); naming 'Fenerbahce Tarfin' from Wikipedia. Needs fenerbahce.org (403 to automated fetch).",
+  "Etihad Airways owner chain: settled by ADQ press release (web.archive.org/web/20241212173817/https://www.adq.ae/newsroom/etihad-aviation-group-transferred-to-adqs-portfolio/): 'The Supreme Council for Financial and Economic Affairs has transferred full ownership of Etihad Aviation Group (EAG) to ADQ, an Abu Dhabi-based investment and holding company.' Live adq.ae URL returns 404; etihad.com corporate-profile page confirms 'national airline of the UAE' but not the owner.",
+  "2027 EuroLeague Final Four venue: not announced in the sources checked; the DCT/Etihad deal names Etihad as Final Four Presenting Partner for four years from 2025-26.",
+  "SuperCup event-host shape: the inaugural Euroleague Basketball SuperCup (Etihad Arena, Yas Island, Abu Dhabi, 18-19 Sep 2026; teams Olympiacos, Fenerbahce, Real Madrid, Dubai Basketball; source https://www.mediaoffice.abudhabi/en/sport/department-of-culture-and-tourism-abu-dhabi-and-euroleague-basketball-launch-inaugural-euroleague-basketball-supercup/ ) is an event-host fact and does not fit the kits/deals schema; recorded as an org league-partner deal as the closest fit.",
+  "Partizan Mozzart Bet naming is from Wikipedia (naming + sponsorships tables); no primary source opened for Mozzart Bet or the shirt sponsor rows NIS/mt:s/Addiko Bank.",
+  "Maccabi Tel Aviv shirt sponsor Rapyd is from the Wikipedia infobox ('Maccabi Rapyd Tel Aviv'); maccabi.co.il / maccabibasketball.co.il not fetched; jersey placement unknown.",
+  "Paris Basketball shirt sponsor OlyBet is from the Wikipedia infobox; parisbasketball.com does not name OlyBet in its page text; jersey placement unknown.",
+  "ASVEL naming 'Groupe LDLC ASVEL' since 11 Sep 2018 is from Wikipedia; ldlcasvel.com returns 403 to automated fetch; jersey placement unknown.",
+  "Wikipedia's EuroLeague article partners section lists DenizBank and Castrol as league partners; neither appears on the official marketing-partners page (Wayback 7 Feb 2026). Not recorded as deals - unverified conflict.",
+  "Bayern Munich Basketball official shirt sponsor 'Bernd Siegmund GmbH' is from Wikipedia; existing normalized sponsor 'siegmund' reused without verifying the basketball shirt deal on fcb-basketball.de.",
+  "Olympiacos kit manufacturer Nike and Panathinaikos kit Adidas are from Wikipedia kit tables; not cited as sources in kits.",
+  "EuroLeague 2026-27 shirt placements dropped for missing source URLs (9 across maccabi-tel-aviv, fenerbahce-basketball, panathinaikos, partizan, paris-basketball, asvel): Wikipedia-lead/club-naming inferences only. Re-add with club announcements.",
+  "Shirt-sponsor records dropped with their unsourced placements (beko, msc-cruises etc. on Fenerbahce/Partizan/ASVEL/PAOK kits): naming-sponsorship inferences from Wikipedia leads. Re-add with club sources.",
+  "IBI Investment House (Hapoel Tel Aviv shirt sponsor) dropped: no sourced placement survived the unsourced-kit purge. Re-add both together."
+ ]
+}

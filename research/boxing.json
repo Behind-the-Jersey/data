@@ -1,0 +1,220 @@
+{
+ "target": "boxing",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/247",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "boxing",
+   "aliases": [
+    "riyadh season boxing",
+    "the ring cards",
+    "zuffa boxing",
+    "professional boxing"
+   ],
+   "sportId": "combat-sports",
+   "name": "Saudi-backed professional boxing (Riyadh Season, The Ring, Zuffa Boxing)",
+   "country": "Saudi Arabia / global",
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "Event-host shape: the entities are fight cards, not clubs, so no clubs are recorded; events are listed in unsourced. Saudi money appears in three forms: Riyadh Season (GEA) host/title deals on cards in Riyadh and abroad, Sela's 60% ownership of Zuffa Boxing (TKO holds 40%), and Turki Alalshikh's personal ownership of The Ring magazine and its belt brand.",
+    "Zuffa Boxing is a joint venture announced 5 Mar 2025 by Turki Alalshikh, TKO Group Holdings and Sela ('A Public Investment Fund (PIF) company', per the TKO release), TKO serving as managing partner. Thomas Hauser in The Guardian (28 Jan 2026) reports Sela owns 60% and TKO 40%; the split rests on that single press report and should be checked against TKO filings.",
+    "Paramount+ is the exclusive US/Canada/Latin America home of Zuffa Boxing from January 2026 (announced 29 Sep 2025); The Guardian reports Paramount is 'believed to be paying Zuffa Boxing $100m a year' for 12 cards.",
+    "The Ring magazine (The Ring Magazine FZ-LLC, Dubai) has been owned by Turki Alalshikh since November 2024; he is chairman of the General Entertainment Authority and president of the Saudi Boxing Federation. The Ring site's own partner wall lists PIF as its 'Strategic' partner and Saudi brands (anb, Visit Saudi, Saudia, stc, SRMG, HUMAIN, Sela, AROYA) among its tiered partners.",
+    "Zuffa Boxing and its allies lobbied for the Muhammad Ali American Boxing Revival Act (House-passed 24 Mar 2026, Senate pending), which would let 'Unified Boxing Organizations' combine promotion, rankings and titles - the Guardian (Hauser, 28 Jan 2026; Zidan, 1 Aug 2025) frames this as clearing the path for a Saudi-backed takeover of boxing governance.",
+    "Event lists on Wikipedia (Zuffa Boxing, The Ring, Riyadh Season) are mostly uncited; cards were cross-checked against Ring magazine, UFC.com, ESPN and press where possible. Zuffa events after June 2026 and further Riyadh Season 2026-27 cards were not fully captured."
+   ]
+  }
+ ],
+ "clubs": [],
+ "owners": [
+  {
+   "id": "general-entertainment-authority",
+   "name": "General Entertainment Authority (Saudi Arabia)",
+   "type": "state",
+   "country": "Saudi Arabia",
+   "parentId": "government-of-saudi-arabia",
+   "note": "Saudi government authority that organises Riyadh Season; chaired by Turki Alalshikh (UFC.com release, 11 Jun 2025: 'Chairman of the General Entertainment Authority and President of the Saudi Boxing Federation')."
+  },
+  {
+   "id": "turki-alalshikh",
+   "name": "Turki Alalshikh (private individual)",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "parentId": "government-of-saudi-arabia",
+   "note": "Bought 100% of The Ring Magazine in November 2024 in a personal deal (his own X post, 11 Nov 2024). Treated as state-linked: he is a Saudi government official (GEA chairman, adviser at the royal court), and the Guardian describes The Ring as 'the boxing magazine owned by Al-Sheikh and, by extension, the Saudi government' (Zidan, 1 Aug 2025)."
+  },
+  {
+   "id": "zuffa-boxing-jv",
+   "name": "Zuffa Boxing (TKO-Sela joint venture)",
+   "type": "private-company",
+   "country": "United States",
+   "via": "Sela (PIF) 60% / TKO Group Holdings 40%",
+   "note": "Incorporated as Boxing OpCo, LLC (Sep 2024); announced 5 Mar 2025 as a TKO-Sela partnership with Turki Alalshikh, TKO as managing partner. Sela 60 / TKO 40 split per Thomas Hauser, The Guardian, 28 Jan 2026 ('Sela owns 60% of Zuffa Boxing and TKO owns 40%'); single-source, check TKO filings. Co-founded by Dana White and Turki Alalshikh.",
+   "parentId": null
+  },
+  {
+   "id": "paramount-skydance",
+   "name": "Paramount (Paramount Skydance Corporation)",
+   "type": "listed-company",
+   "country": "United States",
+   "parentId": null,
+   "note": "US media group; its Paramount+ streaming service is the exclusive home of Zuffa Boxing in the US, Canada and Latin America from January 2026."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "paramount",
+   "name": "Paramount (Paramount+)",
+   "ownerId": "paramount-skydance",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "paramount+"
+   ],
+   "note": "US media partner: exclusive home of Zuffa Boxing in the US, Canada and Latin America from January 2026, 12 cards in year one, select simulcasts on CBS."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "boxing-riyadh-season-host",
+   "clubId": null,
+   "orgName": "Riyadh Season boxing cards (General Entertainment Authority)",
+   "sponsorId": "riyadh-season",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "UFC.com (archived) - Canelo Alvarez to face Terence Crawford in blockbuster Riyadh Season showdown",
+    "date": "2025-06-11",
+    "url": "https://web.archive.org/web/20250723125644/https://www.ufc.com/news/canelo-alvarez-face-terence-crawford-blockbuster-riyadh-season-showdown-saturday-september-13",
+    "note": "'HE Turki Alalshik, Chairman of the General Entertainment Authority and President of the Saudi Boxing Federation, today confirmed the blockbuster Riyadh Season showdown' (Canelo-Crawford, Las Vegas, 13 Sep 2025, Netflix), with 'Alalshikh and his Riyadh Season team' collaborating with Dana White and Sela."
+   },
+   "leagueId": "boxing",
+   "note": "Event host/title and funder. Riyadh Season (GEA) cards include Ring IV: Benavidez-Yarde (22 Nov 2025, anb Arena Riyadh), Ring V: Inoue-Picasso (27 Dec 2025, Mohammed Abdo Arena, per Inoue's Wikipedia fight record; a Ring page dates it 27 Nov - conflict noted), and Canelo Alvarez vs. Christian Mbilli (moved to 31 Oct 2026, Riyadh; ESPN, 23 Jul 2026). Host fees not published."
+  },
+  {
+   "id": "boxing-sela-zuffa-copromotion",
+   "clubId": null,
+   "orgName": "Zuffa Boxing (TKO Boxing Promotions)",
+   "sponsorId": "sela",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "TKO Group Holdings - HE Turki Alalshikh and TKO Announce Launch of New Boxing Promotion in Partnership with Sela",
+    "date": "2025-03-05",
+    "url": "https://tkogrp.com/news/he-turki-alalshikh-and-tko-announce-launch-of-new-boxing-promotion-in-partnership-with-sela/",
+    "note": "Multi-year partnership among Turki Alalshikh, TKO and Sela ('A Public Investment Fund (PIF) company, Sela'); TKO serves as managing partner. No equity split in the release. TKO president Mark Shapiro later confirmed on an earnings call that 'TKO's Zuffa Boxing and Saudi Arabia's SELA will be the promoters' of Fury vs. Makhmudov (Boxing Social, 26 Feb 2026)."
+   },
+   "leagueId": "boxing",
+   "note": "Sela's role spans promoter (co-promoter of the 11 Apr 2026 Fury-Makhmudov card at Tottenham Hotspur Stadium) and majority owner (reported 60%) of Zuffa Boxing. Same relationship is recorded as ufc-sela-zuffa-boxing under league 'ufc' because the venture is TKO's; kept here for the boxing target - the orchestrator may want to merge or cross-reference to avoid double counting."
+  },
+  {
+   "id": "boxing-paramount-zuffa-media-rights",
+   "clubId": null,
+   "orgName": "Zuffa Boxing",
+   "sponsorId": "paramount",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": {
+    "amount": 100,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 100
+   },
+   "source": {
+    "name": "UFC.com - Paramount announces landmark media rights deal with Zuffa Boxing",
+    "date": "2025-09-29",
+    "url": "https://www.ufc.com/news/paramount-announces-landmark-media-rights-deal-with-zuffa-boxing",
+    "note": "Long-term agreement making Paramount+ the exclusive home of Zuffa Boxing in the US, Canada and Latin America from January 2026, starting with 12 cards. The $100m-a-year figure is not in the release: The Guardian (Hauser, 28 Jan 2026) writes 'Paramount is believed to be paying Zuffa Boxing $100m a year for these 12 fight cards'."
+   },
+   "leagueId": "boxing",
+   "note": "Media-rights deal with the TKO-Sela joint venture; recorded at organisation level because the event-host shape has no schema yet."
+  }
+ ],
+ "claims": [
+  {
+   "id": "zuffa-boxing-ali-act-lobbying",
+   "ownerIds": [
+    "zuffa-boxing-jv",
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "Zuffa Boxing and its allies lobbied for the Muhammad Ali Boxing Revival Act, which would let a 'Unified Boxing Organization' combine promotion, rankings and titles - removing Ali Act protections that separate promoters from sanctioning bodies. Thomas Hauser reports Zuffa's fighter contracts are less generous than the purses Turki Alalshikh had paid, and the Guardian's Karim Zidan writes the bill 'paves the way for Saudi to bypass established sanctioning bodies, undermine existing promoters, and ultimately, gut professional boxing'.",
+   "short": "Zuffa Boxing backed a US bill that would let it act as promoter, ranking body and title owner at once, weakening Ali Act fighter protections.",
+   "source": {
+    "name": "The Guardian - Thomas Hauser, 'Zuffa Boxing says it will save the sport - but the fine print shows that fighters may pay the price' (28 Jan 2026); Karim Zidan, 'How the Ali Act overhaul is clearing the path for a Saudi-backed takeover of boxing' (1 Aug 2025)",
+    "date": "2026-01-28",
+    "url": "https://www.theguardian.com/sport/2026/jan/28/zuffa-boxing-contract-dana-white-reform",
+    "note": "Second article: https://www.theguardian.com/sport/2025/aug/01/ali-act-saudi-boxing-reform-tko-zuffa-congress. The House passed the bill by voice vote on 24 Mar 2026 (ESPN, Michael Rothstein); Senate pending."
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "riyadh-season",
+   "tier": "serious",
+   "ownerId": "government-of-saudi-arabia",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "Riyadh Season is the entertainment arm of the Saudi state (GEA) and now puts its name on boxing cards in Riyadh, Las Vegas, London and New York. Same state tier as Visit Saudi and Riyadh Air: government-of-saudi-arabia record (record 345 executions in 2024; Khashoggi assessment) makes 'serious' the argued level for a state branding vehicle."
+  },
+  {
+   "sponsorId": "zuffa-boxing",
+   "tier": "serious",
+   "ownerId": "zuffa-boxing-jv",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment",
+    "zuffa-boxing-ali-act-lobbying"
+   ],
+   "reasoning": "Majority-owned (60%) by Sela, a PIF company, with Turki Alalshikh as co-founder - Saudi state money at the core of the sport's newest major promotion. On top of the state record, the promotion is lobbying to weaken the Ali Act protections and tie fighter purses to its own rankings and belts."
+  },
+  {
+   "sponsorId": "the-ring",
+   "tier": "concern",
+   "ownerId": "turki-alalshikh",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "Owned 100% by a serving Saudi government official (GEA chairman, royal-court adviser). The magazine runs the sport's most famous belt and rankings while its owner finances the cards its belts are contested on - the Guardian calls it 'the kingdom's own boxing magazine'. Concern rather than serious because it is a media/sanctioning brand, not a state fund vehicle."
+  },
+  {
+   "sponsorId": "paramount",
+   "tier": "none",
+   "ownerId": "paramount-skydance",
+   "claimIds": [],
+   "reasoning": "US listed media company; no state stake or serious conduct record identified in the sources checked. The deal is notable (it funds the Saudi-majority venture to the reported tune of $100m a year) but the owner chain is clean."
+  }
+ ],
+ "unsourced": [
+  "EVENTS (event-host shape; no schema yet). Zuffa Boxing numbered cards, per the Wikipedia Zuffa Boxing event list (https://en.wikipedia.org/wiki/Zuffa_Boxing, fetched 25 Sep 2026) cross-checked where noted: Zuffa Boxing 01, 23 Jan 2026, Meta Apex, Las Vegas (Walsh vs. Ocampo); ZB 02, 1 Feb 2026, Meta Apex (Valenzuela vs. Torres - Ring magazine, Manouk Akopyan, 22 Jan 2026, https://ringmagazine.com/news/jose-valenzuela-vs-diego-torres-headlines-zuffa-boxing-2-on-feb-1, datePublished 2026-01-22); ZB 03, 15 Feb 2026, Meta Apex (Ajagba vs. Martin); ZB 04, 8 Mar 2026, Meta Apex (Opetaia vs. Glanton, billed first Zuffa title); ZB 05, 5 Apr 2026, Meta Apex (Cortes vs. Garcia); Fury vs. Makhmudov, 11 Apr 2026, Tottenham Hotspur Stadium, London (promoters Zuffa Boxing and Sela per TKO president Mark Shapiro; Netflix broadcast - Boxing Social, Alan Dawson, 26 Feb 2026, https://boxing-social.com/features/tyson-fury-arslanbek-makhmudov-zuffa-boxing-news/); ZB 06, 10 May 2026, Meta Apex (Mosley Jr. vs. Bohachuk - BoxingScene); ZB 07, 6 Jun 2026, Bournemouth International Centre (Billam-Smith vs. Rozicki - UFC.com, 21 May 2026, https://www.ufc.com/news/tickets-sale-now-zuffa-boxing-07-bournemouth-uk, 'Live on Paramount+ and SkySports'); ZB 08, 28 Jun 2026, Cosmopolitan of Las Vegas (De Los Santos vs. Valenzuela); ZB 09, 26 Jul 2026, Infosys Theater at Madison Square Garden (Berlanga vs. Butler); ZB 10, 8 Aug 2026, 3Arena Dublin (McKenna vs. Oliha - thestadiumbusiness.com, 3 Jun 2026); Garcia vs. Benn, 12 Sep 2026, T-Mobile Arena Las Vegas (UFC.com, 15 Jul 2026, https://www.ufc.com/news/dana-white-makes-it-official-ryan-garcia-vs-conor-benn-sept-12); ZB 11, 26 Sep 2026, Copper Box Arena, London (Fisher vs. Pirotton - UFC.com, 13 Jul 2026, https://www.ufc.com/news/zuffa-boxing-coming-london-september-26).",
+  "EVENTS (The Ring cards): Ring IV: Benavidez vs. Yarde 'Night of the Champions', 22 Nov 2025, anb Arena, Riyadh (Benavidez won TKO7; Wikipedia Benavidez article cites BoxingScene and Ring for the 22 Nov anb Arena date; Ring IV co-promoters listed as Queensberry, Top Rank, Sela on Wikipedia, uncited); Ring V: Inoue vs. Picasso 'Night of the Samurai', 27 Dec 2025, Mohammed Abdo Arena, Riyadh (Wikipedia Naoya Inoue article and fight record; a Ring/Wikipedia Ring-brand table dates Ring V 27 Nov 2025 - conflict, unresolved); Ring VI: Lopez vs. Stevenson, 31 Jan 2026, Madison Square Garden, New York, DAZN PPV (Ring magazine, Keith Idec, 8 Dec 2025, https://www.ringmagazine.com/news/madison-square-garden-will-host-teofimo-lopez-vs-shakur-stevenson-2rTUcNwSHnpOqPdmNS5men, datePublished 2025-12-08; Stevenson won UD12).",
+  "EVENTS (upcoming Riyadh Season / Ring): Canelo Alvarez vs. Christian Mbilli, 31 Oct 2026, Riyadh (ESPN, Brett Okamoto, 23 Jul 2026, https://www.espn.co.uk/boxing/story/_/id/49428066/canelo-vs-mbilli-gets-new-official-date-october-riyadh - 'new official date in October in Riyadh'; originally announced for September by The Ring, Mike Coppinger, 30 Apr 2026, https://www.ringmagazine.com/news/canelo-mbilli-agree-to-wbc-168-pound-title-fight-in-september-6pv7VR1WlPNKDsa9T3FiqB, datePublished 2026-04-30, which says only 'in Riyadh, Saudi Arabia'; the anb Arena venue for this card is on Wikipedia's Riyadh Season page uncited). Ring magazine's own featured event: Inoue vs. Nasukawa (Takuma Inoue), 27 Sep 2026, Toyota Arena, Tokyo, 'Live on DAZN' (ringmagazine.com homepage JSON, fetched 25 Sep 2026).",
+  "RING MAGAZINE PARTNERS (event/venue-branding shape): ringmagazine.com's homepage partner wall (fetched 25 Sep 2026) lists PIF as the sole 'Strategic' partner; 'Heavyweight' partners include anb, Core Life, Crypto.com (logo 'crypto'), Dr. Sulaiman Al Habib, DAZN, DZRT, First Data/Fiserv, Jaco, Jeddah (Season), Milaf Cola, NHC, Riyadh 2025, Rotana, Visit Saudi, Saudia, HUMAIN, Shory, SRMG, stc and Visit Qatar; 'Middleweight' partners include Atlantis, Jeddah Economic Company, MDLBEAST, Sela, SMC and The Red Sea; 'Lightweight' includes AROYA, InterContinental, Konoz and the IBF/WBA/WBC/WBO belts; 'Promoters' lists Boxxer, Golden Boy, Matchroom, Queensberry and Top Rank. These are brand relationships recorded as logos only - no contract terms or placements published.",
+  "Zuffa Boxing ownership split: 'Sela owns 60% of Zuffa Boxing and TKO owns 40%' - single source, Thomas Hauser, The Guardian, 28 Jan 2026 (https://www.theguardian.com/sport/2026/jan/28/zuffa-boxing-contract-dana-white-reform, fetched via curl). TKO's own 5 Mar 2025 release discloses no split; TKO's tkogrp.com news pages (fetched) carry no ownership item. Check TKO Group Holdings SEC filings for the definitive split.",
+  "The Ring acquisition: Turki Alalshikh's own X post (11 Nov 2024) says he 'finalized a deal to acquire 100% of The Ring Magazine'; the reported ~$10m price comes from Boxing Social (26 Feb 2026) and HeavyweightBoxing.com (16 Nov 2024, https://www.heavyweightboxing.com/post/turki-alalshikh-acquires-the-ring-magazine-a-new-era-begins, fetched - a low-profile secondary source). Neither confirms Golden Boy/Oscar De La Hoya as the seller of the 2024 deal (Golden Boy had bought The Ring in 2007). The New York Times/Athletic special report by Jacob Whitehead, 28 Apr 2025 ('Turki Al-Sheikh and the two sides of boxing's new king'), is cited by Wikipedia for the acquisition but is paywalled and unfetched.",
+  "Riyadh Season 2026-27 boxing programme: Wikipedia's Riyadh Season page (fetched) lists Canelo-Mbilli (31 Oct 2026) under the 2026-27 season but its fight rows carry [citation needed] tags; the ESPN 23 Jul 2026 article is the sourced date/venue anchor. Earlier Riyadh Season cards (Beterbiev-Bivol 12 Oct 2024, Ramirez-Billam-Smith 16 Nov 2024, Usyk-Fury II 21 Dec 2024, Beterbiev-Bivol II 22 Feb 2025, Canelo-Scull 3 May 2025) are on Wikipedia uncited; the archived UFC.com release (11 Jun 2025) independently confirms Riyadh Season staged Usyk-Fury, Beterbiev-Bivol twice, Canelo-Scull, Crawford-Madrimov (Los Angeles) and Joshua-Dubois (Wembley).",
+  "Sela ownership: sela.sa (fetched) shows a PIF logo in its footer and credits Sela with delivering WWE events in Saudi Arabia, but states ownership nowhere in words; the TKO release (5 Mar 2025) is the primary wording 'A Public Investment Fund (PIF) company, Sela'.",
+  "Night of the Samurai date conflict: 27 Nov 2025 (Wikipedia The Ring page / Ring-brand table) vs 27 Dec 2025 (Wikipedia Riyadh Season and Naoya Inoue pages, Inoue fight record). The Inoue fight record (27 Dec 2025, Mohammed Abdo Arena) is the better-attested date; the Ring-brand table row appears to be the error.",
+  "Frank Warren's reported $1bn legal complaint against Turki Alalshikh, Sela and Zuffa (The Telegraph, per Boxing Social 26 Feb 2026) - Telegraph article not opened; unverified.",
+  "TKO president Mark Shapiro's 6 Aug 2025 announcement (Guardian/Hauser recap) that Zuffa Boxing would run ~12 league cards a year for five years and that league fights and super-fights would be separate businesses - the underlying TKO earnings-call transcript was not opened.",
+  "Ring VI co-promoters (Matchroom Boxing, Top Rank) and Ring IV co-promoters (Queensberry, Top Rank, Sela) are listed on Wikipedia without inline citations; the Ring magazine announcement article (Idec, 8 Dec 2025) does not name promoters.",
+  "Paramount's $100m-a-year rights fee is 'believed to be' (Guardian, 28 Jan 2026) - no figure in Paramount's or UFC's announcement; treat as press estimate only.",
+  "Promotion entities zuffa-boxing (TKO-Sela JV) and the-ring (Ring magazine/cards) were recorded as sponsors but have no schema attachment (promotion brands, not shirt/league sponsors); records dropped here. Their ownership chains are above; Ring's partner wall (PIF sole Strategic partner) is in the events note."
+ ]
+}

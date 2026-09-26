@@ -1,0 +1,23 @@
+{
+  "id": "wec",
+  "aliases": [
+    "fia world endurance championship",
+    "world endurance championship",
+    "fia wec",
+    "wec"
+  ],
+  "sportId": "motorsport",
+  "name": "FIA World Endurance Championship",
+  "clubCount": 20,
+  "season": "2026",
+  "status": "partial",
+  "notes": [
+    "20 teams run the 35 full-season 2026 entries per the official fiawec.com grid page (fetched 2026-09-26): 10 Hypercar teams and 10 LMGT3 teams; the target brief's 35 counts cars (17 Hypercar, 18 LMGT3) from 14 manufacturers.",
+    "Hypercar entries: Alpine Endurance Team (#35/#36), Aston Martin THOR Team (#007/#009), BMW M Team WRT (#15/#20), Cadillac Hertz Team JOTA (#12/#38), Ferrari AF Corse (#50/#51), AF Corse (#83), Genesis Magma Racing (#17/#19), Peugeot TotalEnergies (#93/#94), Toyota Racing (#7/#8) - 17 cars. LMGT3: Heart of Racing (#23/#27), Team WRT (#32/#69), TF Sport (#33), Racing Team Turkey by TF (#34), Vista AF Corse (#21/#54), Proton Competition (#77/#88), Akkodis ASP (#78/#87), Garage 59 (#10/#58), Iron Lynx (#61/#79), Manthey (DK Engineering #91, The Bend #92) - 18 cars.",
+    "2026 calendar (8 rounds): Prologue Imola 14 Apr; Imola 19 Apr; TotalEnergies 6 Hours of Spa-Francorchamps 9 May; 24 Hours of Le Mans 13-14 Jun; Rolex 6 Hours of Sao Paulo 12 Jul; Lone Star Le Mans (COTA) 6 Sep; 6 Hours of Fuji 27 Sep; 6 Hours of Barcelona 18 Oct; 6 Hours of Monza 8 Nov (fiawec.com homepage and entry-list news, fetched 2026-09-25/26).",
+    "Both 2026 Gulf rounds were lost to the Iran war and the Strait of Hormuz shipping risk: the Qatar 1812km was postponed from March (fiawec.com statement 1 Mar and rescheduling 13 Mar 2026) and then cancelled with Bahrain's finale, both replaced by Barcelona and Monza (Motorsport.com, 2026-07-28).",
+    "Both Gulf rounds return in 2027: Prologue Lusail 21-22 Mar, Qatar 1812km 25-27 Mar, and Bapco Energies 8 Hours of Bahrain 4-6 Nov, in a nine-round calendar that also restores Silverstone (fiawec.com 2027-calendar news, fetched 2026-09-26).",
+    "Series partners per the fiawec.com partners page (fetched 2026-09-26): Rolex, TotalEnergies, Michelin, DHL, Goodyear, CrowdStrike, Motul, Bosch; suppliers Pommery, Al Kamel, MRTC, AMP Visual TV. Goodyear is the exclusive LMGT3 tyre supplier to at least 2029 (fiawec.com news, 2026-06-11).",
+    "Car-livery placements do not fit the schema yet; car-level sponsor facts are recorded in unsourced. Team title sponsors carried in team names are entered as kits with a front placement mapped from 'team title/name', mirroring the motogp research."
+  ]
+}

@@ -1,0 +1,661 @@
+{
+ "target": "wec",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/271",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "wec",
+   "aliases": [
+    "fia world endurance championship",
+    "world endurance championship",
+    "fia wec",
+    "wec"
+   ],
+   "sportId": "motorsport",
+   "name": "FIA World Endurance Championship",
+   "clubCount": 20,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "20 teams run the 35 full-season 2026 entries per the official fiawec.com grid page (fetched 2026-09-26): 10 Hypercar teams and 10 LMGT3 teams; the target brief's 35 counts cars (17 Hypercar, 18 LMGT3) from 14 manufacturers.",
+    "Hypercar entries: Alpine Endurance Team (#35/#36), Aston Martin THOR Team (#007/#009), BMW M Team WRT (#15/#20), Cadillac Hertz Team JOTA (#12/#38), Ferrari AF Corse (#50/#51), AF Corse (#83), Genesis Magma Racing (#17/#19), Peugeot TotalEnergies (#93/#94), Toyota Racing (#7/#8) - 17 cars. LMGT3: Heart of Racing (#23/#27), Team WRT (#32/#69), TF Sport (#33), Racing Team Turkey by TF (#34), Vista AF Corse (#21/#54), Proton Competition (#77/#88), Akkodis ASP (#78/#87), Garage 59 (#10/#58), Iron Lynx (#61/#79), Manthey (DK Engineering #91, The Bend #92) - 18 cars.",
+    "2026 calendar (8 rounds): Prologue Imola 14 Apr; Imola 19 Apr; TotalEnergies 6 Hours of Spa-Francorchamps 9 May; 24 Hours of Le Mans 13-14 Jun; Rolex 6 Hours of Sao Paulo 12 Jul; Lone Star Le Mans (COTA) 6 Sep; 6 Hours of Fuji 27 Sep; 6 Hours of Barcelona 18 Oct; 6 Hours of Monza 8 Nov (fiawec.com homepage and entry-list news, fetched 2026-09-25/26).",
+    "Both 2026 Gulf rounds were lost to the Iran war and the Strait of Hormuz shipping risk: the Qatar 1812km was postponed from March (fiawec.com statement 1 Mar and rescheduling 13 Mar 2026) and then cancelled with Bahrain's finale, both replaced by Barcelona and Monza (Motorsport.com, 2026-07-28).",
+    "Both Gulf rounds return in 2027: Prologue Lusail 21-22 Mar, Qatar 1812km 25-27 Mar, and Bapco Energies 8 Hours of Bahrain 4-6 Nov, in a nine-round calendar that also restores Silverstone (fiawec.com 2027-calendar news, fetched 2026-09-26).",
+    "Series partners per the fiawec.com partners page (fetched 2026-09-26): Rolex, TotalEnergies, Michelin, DHL, Goodyear, CrowdStrike, Motul, Bosch; suppliers Pommery, Al Kamel, MRTC, AMP Visual TV. Goodyear is the exclusive LMGT3 tyre supplier to at least 2029 (fiawec.com news, 2026-06-11).",
+    "Car-livery placements do not fit the schema yet; car-level sponsor facts are recorded in unsourced. Team title sponsors carried in team names are entered as kits with a front placement mapped from 'team title/name', mirroring the motogp research."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "alpine-endurance-team",
+   "name": "Alpine Endurance Team",
+   "shortName": "Alpine",
+   "code": "ALE",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "signatech",
+    "alpine a424"
+   ]
+  },
+  {
+   "id": "aston-martin-thor-team",
+   "name": "Aston Martin THOR Team",
+   "shortName": "Aston Martin THOR",
+   "code": "AST",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "aston martin valkyrie",
+    "thor team"
+   ]
+  },
+  {
+   "id": "bmw-m-team-wrt",
+   "name": "BMW M Team WRT",
+   "shortName": "BMW M WRT",
+   "code": "BMW",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Belgium",
+   "crest": null,
+   "aliases": [
+    "team wrt bmw",
+    "wrt"
+   ]
+  },
+  {
+   "id": "team-wrt",
+   "name": "Team WRT",
+   "shortName": "WRT",
+   "code": "WRT",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Belgium",
+   "crest": null,
+   "aliases": [
+    "w racing team"
+   ]
+  },
+  {
+   "id": "cadillac-hertz-team-jota",
+   "name": "Cadillac Hertz Team JOTA",
+   "shortName": "Cadillac JOTA",
+   "code": "CDJ",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "jota sport",
+    "cadillac jota"
+   ]
+  },
+  {
+   "id": "ferrari-af-corse",
+   "name": "Ferrari AF Corse",
+   "shortName": "Ferrari AF Corse",
+   "code": "FER",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "ferrari hypercar",
+    "af corse ferrari"
+   ]
+  },
+  {
+   "id": "af-corse",
+   "name": "AF Corse",
+   "shortName": "AF Corse",
+   "code": "AFC",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Italy",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "genesis-magma-racing",
+   "name": "Genesis Magma Racing",
+   "shortName": "Genesis Magma",
+   "code": "GEN",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "genesis hypercar"
+   ]
+  },
+  {
+   "id": "peugeot-totalenergies",
+   "name": "Peugeot TotalEnergies",
+   "shortName": "Peugeot",
+   "code": "PEU",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "peugeot sport",
+    "peugeot 9x8"
+   ]
+  },
+  {
+   "id": "toyota-racing",
+   "name": "Toyota Racing",
+   "shortName": "Toyota",
+   "code": "TOY",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "toyota gazoo racing",
+    "toyota gr racing"
+   ]
+  },
+  {
+   "id": "heart-of-racing-team",
+   "name": "Heart of Racing Team",
+   "shortName": "Heart of Racing",
+   "code": "HOR",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "heart of racing"
+   ]
+  },
+  {
+   "id": "tf-sport",
+   "name": "TF Sport",
+   "shortName": "TF Sport",
+   "code": "TFS",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "racing-team-turkey-by-tf",
+   "name": "Racing Team Turkey by TF",
+   "shortName": "Racing Team Turkey",
+   "code": "RTT",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Turkey",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "vista-af-corse",
+   "name": "Vista AF Corse",
+   "shortName": "Vista AF Corse",
+   "code": "VAC",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Italy",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "proton-competition",
+   "name": "Proton Competition",
+   "shortName": "Proton",
+   "code": "PRO",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Germany",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "akkodis-asp-team",
+   "name": "Akkodis ASP Team",
+   "shortName": "Akkodis ASP",
+   "code": "AKK",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "akka asp"
+   ]
+  },
+  {
+   "id": "garage-59",
+   "name": "Garage 59",
+   "shortName": "Garage 59",
+   "code": "G59",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "iron-lynx",
+   "name": "Iron Lynx",
+   "shortName": "Iron Lynx",
+   "code": "IRL",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "iron dames"
+   ]
+  },
+  {
+   "id": "manthey-dk-engineering",
+   "name": "Manthey DK Engineering",
+   "shortName": "Manthey DK",
+   "code": "MDK",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "manthey racing"
+   ]
+  },
+  {
+   "id": "the-bend-manthey",
+   "name": "The Bend Manthey",
+   "shortName": "The Bend Manthey",
+   "code": "TBM",
+   "sportId": "motorsport",
+   "leagueId": "wec",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "manthey the bend"
+   ]
+  }
+ ],
+ "owners": [],
+ "sponsors": [
+  {
+   "id": "bapco-energies",
+   "name": "Bapco Energies",
+   "ownerId": "government-of-bahrain",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "bapco"
+   ],
+   "note": "Title sponsor of the Bapco Energies 8 Hours of Bahrain (2027 finale, 4-6 Nov); also titles the Bapco Energies Bahrain Championship (DP World Tour). Bahrain's national oil and gas company; existing normalized sponsor reused."
+  },
+  {
+   "id": "michelin",
+   "name": "Michelin",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Series partner (fiawec.com partners page) and the Hypercar tyre partner shown on official car pages (e.g. Alpine #35 technical sheet). Michelin is listed on Euronext Paris; no state shareholder identified."
+  },
+  {
+   "id": "dhl",
+   "name": "DHL",
+   "ownerId": "deutsche-post-dhl",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Series partner (fiawec.com partners page); existing normalized sponsor reused. DHL Group is Frankfurt-listed with the state-owned KfW among its shareholders."
+  },
+  {
+   "id": "goodyear",
+   "name": "Goodyear",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "aliases": [
+    "goodyear racing"
+   ],
+   "claimIds": [],
+   "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages. Goodyear Tire & Rubber Company is Nasdaq-listed; ownership chain not researched here."
+  },
+  {
+   "id": "crowdstrike",
+   "name": "CrowdStrike",
+   "ownerId": "crowdstrike",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Series partner (fiawec.com partners page); existing normalized sponsor reused."
+  },
+  {
+   "id": "motul",
+   "name": "Motul",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Series partner (fiawec.com partners page, fetched 2026-09-26). Motul is a subsidiary of Integra Eco (French family group); ownership not verified from a primary source here."
+  },
+  {
+   "id": "bosch",
+   "name": "Bosch",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "bosch motorsport"
+   ],
+   "note": "Series partner (fiawec.com partners page, fetched 2026-09-26). Robert Bosch GmbH is majority-held by Robert Bosch Stiftung, a charitable foundation; not verified from a primary source here."
+  },
+  {
+   "id": "totalenergies",
+   "name": "TotalEnergies",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "total"
+   ],
+   "note": "Existing normalized sponsor reused: series partner and title sponsor of the TotalEnergies 6 Hours of Spa-Francorchamps; Peugeot TotalEnergies carries the name as Hypercar team title sponsor. Listed company (Euronext Paris et al.), largest shareholder BlackRock, no state control."
+  },
+  {
+   "id": "rolex",
+   "name": "Rolex",
+   "ownerId": "rolex-sa",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing normalized sponsor reused: series partner and title sponsor of the Rolex 6 Hours of Sao Paulo; also timing partner shown as a clock in the fiawec.com site header. Rolex SA is held by the Hans Wilsdorf Foundation (no state owner)."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "wec-rolex",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "rolex",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Our partners page",
+    "date": "2026-09-26",
+    "url": "https://www.fiawec.com/en/page/partenaires-1",
+    "note": "date the page was checked"
+   },
+   "note": "Series partner on the official partners page; title sponsor of the Rolex 6 Hours of Sao Paulo (2026 race name on the official 2026 calendar).",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-totalenergies",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "totalenergies",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Our partners page; 2026 entry-list news names 'TotalEnergies 6 Heures de Spa-Francorchamps'",
+    "date": "2026-09-26",
+    "url": "https://www.fiawec.com/en/page/partenaires-1",
+    "note": "date the page was checked"
+   },
+   "note": "Series partner; title sponsor of the TotalEnergies 6 Hours of Spa-Francorchamps; also in the Peugeot TotalEnergies Hypercar team name.",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-michelin",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "michelin",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Our partners page; Michelin shown as Hypercar tyre partner on official car pages",
+    "date": "2026-09-26",
+    "url": "https://www.fiawec.com/en/page/partenaires-1",
+    "note": "date the page was checked"
+   },
+   "note": "Series partner and Hypercar tyre partner (car-page technical sheets).",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-dhl",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "dhl",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Our partners page",
+    "date": "2026-09-26",
+    "url": "https://www.fiawec.com/en/page/partenaires-1",
+    "note": "date the page was checked"
+   },
+   "note": "Series partner (logistics); DHL's WEC hub is inmotion.dhl/en/wec.",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-goodyear",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "goodyear",
+   "placement": "league-partner",
+   "from": null,
+   "to": "2029",
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Goodyear extends LMGT3 tyre partnership with long-term commitment",
+    "date": "2026-06-11",
+    "url": "https://www.fiawec.com/en/news/goodyear-extends-lmgt3-tyre-partnership-with-long-term-commitment/13610"
+   },
+   "note": "Exclusive LMGT3 tyre supplier since 2024, extended 'until at least 2029'.",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-crowdstrike",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "crowdstrike",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Our partners page",
+    "date": "2026-09-26",
+    "url": "https://www.fiawec.com/en/page/partenaires-1",
+    "note": "date the page was checked"
+   },
+   "note": "Series partner.",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-motul",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "motul",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Our partners page",
+    "date": "2026-09-26",
+    "url": "https://www.fiawec.com/en/page/partenaires-1",
+    "note": "date the page was checked"
+   },
+   "note": "Series partner.",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-bosch",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "bosch",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Our partners page",
+    "date": "2026-09-26",
+    "url": "https://www.fiawec.com/en/page/partenaires-1",
+    "note": "date the page was checked"
+   },
+   "note": "Series partner.",
+   "leagueId": "wec"
+  },
+  {
+   "id": "wec-qatar-airways",
+   "clubId": null,
+   "orgName": "FIA World Endurance Championship",
+   "sponsorId": "qatar-airways",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIA WEC - Qatar Airways named as Official Sponsor of the Qatar Airways Qatar 1812 Km",
+    "date": "2024-02-15",
+    "url": "https://www.fiawec.com/en/news/qatar-airways-named-as-official-sponsor-of-the-qatar-airways-qatar-1812-km/7879"
+   },
+   "note": "Qatar Airways was Official Title Partner and Airline Partner of the inaugural Qatar Airways Qatar 1812 Km (2024, Lusail). The 2026 edition was postponed then cancelled; the 2027 race name on fiawec.com is plain 'Qatar 1812km' with no title sponsor shown, so renewal is unverified.",
+   "leagueId": "wec"
+  }
+ ],
+ "claims": [
+  {
+   "id": "wec-bapco-bahrain-record",
+   "ownerIds": [
+    "government-of-bahrain"
+   ],
+   "text": "Bapco Energies is Bahrain's national integrated oil and gas company and titles the WEC season finale, while Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that Mohammed Almosawi died in custody with signs of torture after being forcibly disappeared, and that 67 people had their citizenship stripped.",
+   "short": "Bahrain state energy company titles the WEC finale; HRW documents 2026 arrests, a death in custody, citizenship-stripping",
+   "source": {
+    "name": "Human Rights Watch - Bahrain country page",
+    "date": "2026",
+    "url": "https://www.hrw.org/middle-east/north-africa/bahrain"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "wec-qatar-host-record",
+   "ownerIds": [
+    "government-of-qatar"
+   ],
+   "text": "The Qatar 1812km is hosted at the Lusail International Circuit with the Qatar Motor & Motorcycle Federation (QMMF), both state-linked bodies, while Amnesty International reports that Qatar's migrant workers remain exposed to exploitation despite kafala reform and that expression and assembly are tightly restricted.",
+   "short": "Qatar state bodies host the WEC season opener; Amnesty documents migrant-worker exploitation and restricted expression",
+   "source": {
+    "name": "Amnesty International - Human rights in Qatar (country report)",
+    "date": "2026-01-15",
+    "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "wec-pif-aston-martin-ownership",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "Saudi Arabia's Public Investment Fund is the largest shareholder (19.5%) of Aston Martin Lagonda, the manufacturer behind the Aston Martin THOR Team Hypercar programme; Aston Martin denied FT reports (14 Nov 2025) that PIF would raise its stake and take the company private.",
+   "short": "PIF is Aston Martin Lagonda's largest shareholder (19.5%); takeover-denied",
+   "source": {
+    "name": "CarExpert - Aston Martin denies change of ownership plans after massive losses",
+    "date": "2025-11-19",
+    "url": "https://www.carexpert.com.au/car-news/aston-martin-denies-change-of-ownership-plans-after-massive-losses"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "wec-cyvn-mclaren-ownership",
+   "ownerIds": [
+    "cyvn"
+   ],
+   "text": "CYVN Holdings, an Abu Dhabi-based investment vehicle, completed the acquisition of McLaren Automotive and a non-controlling stake in McLaren Racing in April 2025, consolidating its UK investments under McLaren Group Holdings; CYVN's own government ownership is not stated in the announcement.",
+   "short": "Abu Dhabi's CYVN owns McLaren Automotive and holds a non-controlling McLaren Racing stake",
+   "source": {
+    "name": "McLaren Racing - McLaren Racing welcomes CYVN Holdings as non-controlling shareholder",
+    "date": "2025-04-03",
+    "url": "https://www.mclaren.com/racing/latest-news/2025/mclaren-racing-welcomes-cyvn-holdings-as-minority-shareholder/"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "bapco-energies",
+   "tier": "serious",
+   "ownerId": "government-of-bahrain",
+   "claimIds": [
+    "wec-bapco-bahrain-record",
+    "bahrain-hrw-record"
+   ],
+   "reasoning": "Bahrain's national oil company titles the season finale and hosts it at the state-owned Bahrain International Circuit (10-year extension announced 12 Jun 2026). State money: HRW's 2026 Bahrain record (arbitrary arrests, torture-signed death in custody, citizenship-stripping, detained rights defenders) puts a Kingdom's flagship energy brand at serious, matching the DP World Tour treatment of the same company and Bahrain's 'Victorious Bahrain' sportswashing brand."
+  },
+  {
+   "sponsorId": "qatar-airways",
+   "tier": "serious",
+   "ownerId": "government-of-qatar",
+   "claimIds": [
+    "government-of-qatar-record"
+   ],
+   "reasoning": "Already rated serious in the corpus: Qatar Airways Group is wholly owned by the Qatari state. Its 2024 WEC deal made it title partner of the Qatar 1812km and trackside branding at Lusail; the same Gulf-state record (migrant-worker abuse, restricted expression) carries over. Serious rather than severe: Qatar is not party to an armed conflict."
+  }
+ ],
+ "unsourced": [
+  "Car-livery sponsors on the 35 full-season cars: the car-livery shape does not fit the schema yet. Official car pages (fiawec.com/en/car/2026/<num>, fetched 2026-09-26) show manufacturer and tyre partner (Michelin for all 10 Hypercar teams; Goodyear for LMGT3) but no car-level sponsor list; per-car livery sponsors must be collected from team launches.",
+  "Manufacturer ownership links (indirect, not sponsorship): PIF holds 19.5% of Aston Martin Lagonda, whose Valkyrie Hypercars are run by the Aston Martin THOR Team (CarExpert, 2025-11-19); CYVN Holdings (Abu Dhabi) completed the acquisition of McLaren Automotive and a non-controlling McLaren Racing stake in April 2025, and McLaren runs Garage 59's LMGT3 programme (McLaren Racing, 2025-04-03); Bahrain's Mumtalakat remains McLaren Racing's major shareholder (McLaren Racing, 2025-04-03). CYVN's own ownership by the Abu Dhabi government is not stated in the announcement and was not verified.",
+  "2026 race titles with state links: the 2026 edition of the season opener was to be the plain 'Qatar 1812km' at Lusail (postponed 13 Mar 2026 with the Prologue, then cancelled outright with the Bahrain finale on 28 Jul 2026, replaced by Barcelona 18 Oct and Monza 8 Nov - Motorsport.com, Rachit Thukral, 2026-07-28); the finale was to be the Bapco Energies 8 Hours of Bahrain (2026 entry-list news, 2025-12-08). The event-host shape does not fit the schema yet.",
+  "Bahrain host-contract fact: Bahrain International Circuit's agreement with FIA WEC was extended so the circuit hosts the series 'until at least 2036' (fiawec.com news 'Bahrain to host FIA WEC for next ten years', 2026-06-12). BIC is a Bahraini state-linked venue (its chief executive is a member of the ruling family), but the announcement itself does not state BIC's ownership, so no owner link was recorded.",
+  "2027 Gulf returns: Prologue at Lusail 21-22 Mar and Qatar 1812km 25-27 Mar 2027; Bapco Energies 8 Hours of Bahrain 4-6 Nov 2027 (fiawec.com 2027-calendar news, published 2026-06-12, fetched 2026-09-26). No title sponsor is shown for the 2027 Qatar race; the race is hosted at Lusail by the Qatari state-linked circuit and QMMF.",
+  "Qatar Airways' WEC role beyond 2024: Qatar Airways was named Official Title Partner and Airline Partner of the 'Qatar Airways Qatar 1812 Km' with trackside branding (fiawec.com news, 2024-02-15). Whether the deal was renewed after the 2026 cancellation is not known; the 2027 race name carries no title sponsor on the official calendar.",
+  "Peugeot's Hypercar team competes as 'Peugeot TotalEnergies' per the official grid page, so TotalEnergies is the team title sponsor; a primary source naming the deal terms was not collected. Similarly 'Cadillac Hertz Team JOTA' carries Hertz as title sponsor of the JOTA-run Cadillacs (livery unveiled 13 Jan 2025, fiawec.com); Hertz's ownership was not researched. 'BMW M Team WRT', 'Akkodis ASP Team', 'Genesis Magma Racing', 'Aston Martin THOR Team' and 'Vista AF Corse' similarly carry names of sponsors/owners not individually sourced here.",
+  "The 2026 entry-list PDF (https://www.fiawec.com/umbrella_media/wec26-entrylist-a4-6936d72065269710536636.pdf) was not opened (PDF); per-car sponsors and driver/nationality detail come from the fiawec.com grid and car pages instead.",
+  "WEC suppliers (fiawec.com 'Our Suppliers' page, fetched 2026-09-26): Pommery, Al Kamel (timing), MRTC, AMP Visual TV - supplier relationships, not carried into the schema.",
+  "Motul ownership: Motul is part of Integra Eco/Integra Eco Industries group per its own site (not fetched here); Bosch GmbH is majority-held by the Robert Bosch Stiftung charitable foundation per general knowledge - neither chain verified from a primary source during this research."
+ ]
+}

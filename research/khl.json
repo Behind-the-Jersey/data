@@ -1,0 +1,1424 @@
+{
+  "target": "khl",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/272",
+  "sports": [
+    {
+      "id": "ice-hockey",
+      "label": "Ice hockey",
+      "status": "not-mapped",
+      "aliases": [
+        "hockey",
+        "Ice Hockey",
+        "Хоккей"
+      ]
+    }
+  ],
+  "leagues": [
+    {
+      "id": "khl",
+      "aliases": [
+        "Kontinental Hockey League",
+        "FONBET KHL Championship",
+        "КХЛ"
+      ],
+      "sportId": "ice-hockey",
+      "name": "Kontinental Hockey League (KHL)",
+      "country": "Russia",
+      "clubCount": 22,
+      "season": "2026-27",
+      "status": "partial",
+      "notes": [
+        "22 clubs: 19 Russian, plus Dinamo Minsk (Belarus), Barys Astana (Kazakhstan) and Shanghai Dragons (China).",
+        "Title partner FONBET: the league championship is branded 'FONBET KHL Championship'; KHL.ru (2026-05-29) reported the title deal extended to 2027/28.",
+        "Russian clubs remain barred from IIHF competitions in 2026-27; the IIHF Council reaffirmed the ban on 2026-07-30.",
+        "khl.ru and several club sites return HTTP 403 to automated fetches; partner data was taken from club partner pages and a syndicated 2026-27 KHL partner widget on club sites.",
+        "No front-of-shirt (jersey) sponsor placements could be documented from reachable sources; kit entries carry sourced club partners with placement 'partner' and sponsorsComplete false."
+      ]
+    }
+  ],
+  "clubs": [
+    {
+      "id": "ska-spb",
+      "name": "SKA Saint Petersburg",
+      "shortName": "SKA",
+      "code": "SKA",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "СКА",
+        "SKA St Petersburg",
+        "SKA Neva"
+      ]
+    },
+    {
+      "id": "cska-moscow-hockey",
+      "name": "HC CSKA Moscow",
+      "shortName": "CSKA",
+      "code": "CSK",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "ЦСКА",
+        "CSKA Moscow"
+      ]
+    },
+    {
+      "id": "spartak-moscow-hockey",
+      "name": "HC Spartak Moscow",
+      "shortName": "Spartak",
+      "code": "SPA",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "ХК Спартак",
+        "Spartak Moscow hockey"
+      ]
+    },
+    {
+      "id": "dynamo-moscow-hockey",
+      "name": "HC Dynamo Moscow",
+      "shortName": "Dynamo",
+      "code": "DYN",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Динамо Москва",
+        "Dynamo Moscow hockey"
+      ]
+    },
+    {
+      "id": "lokomotiv-yaroslavl",
+      "name": "Lokomotiv Yaroslavl",
+      "shortName": "Lokomotiv",
+      "code": "LOK",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Локомотив Ярославль"
+      ]
+    },
+    {
+      "id": "metallurg-magnitogorsk",
+      "name": "Metallurg Magnitogorsk",
+      "shortName": "Metallurg",
+      "code": "MET",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Металлург Магнитогорск",
+        "Metallurg Mg"
+      ]
+    },
+    {
+      "id": "ak-bars-kazan",
+      "name": "Ak Bars Kazan",
+      "shortName": "Ak Bars",
+      "code": "AKB",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Ак Барс Казань"
+      ]
+    },
+    {
+      "id": "salavat-yulaev",
+      "name": "Salavat Yulaev Ufa",
+      "shortName": "Salavat Yulaev",
+      "code": "SAL",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Салават Юлаев Уфа"
+      ]
+    },
+    {
+      "id": "avangard-omsk",
+      "name": "Avangard Omsk",
+      "shortName": "Avangard",
+      "code": "AVA",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Авангард Омск",
+        "Hawks"
+      ]
+    },
+    {
+      "id": "severstal-cherepovets",
+      "name": "Severstal Cherepovets",
+      "shortName": "Severstal",
+      "code": "SEV",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Северсталь Череповец"
+      ]
+    },
+    {
+      "id": "torpedo-nizhny-novgorod",
+      "name": "Torpedo Nizhny Novgorod",
+      "shortName": "Torpedo",
+      "code": "TOR",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Торпедо Нижний Новгород"
+      ]
+    },
+    {
+      "id": "neftekhimik-nizhnekamsk",
+      "name": "Neftekhimik Nizhnekamsk",
+      "shortName": "Neftekhimik",
+      "code": "NEF",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Нефтехимик Нижнекамск"
+      ]
+    },
+    {
+      "id": "traktor-chelyabinsk",
+      "name": "Traktor Chelyabinsk",
+      "shortName": "Traktor",
+      "code": "TRA",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Трактор Челябинск"
+      ]
+    },
+    {
+      "id": "avtomobilist-yekaterinburg",
+      "name": "Avtomobilist Yekaterinburg",
+      "shortName": "Avtomobilist",
+      "code": "AVT",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Автомобилист Екатеринбург"
+      ]
+    },
+    {
+      "id": "sibir-novosibirsk",
+      "name": "Sibir Novosibirsk",
+      "shortName": "Sibir",
+      "code": "SIB",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Сибирь Новосибирск"
+      ]
+    },
+    {
+      "id": "admiral-vladivostok",
+      "name": "Admiral Vladivostok",
+      "shortName": "Admiral",
+      "code": "ADM",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Адмирал Владивосток"
+      ]
+    },
+    {
+      "id": "amur-khabarovsk",
+      "name": "Amur Khabarovsk",
+      "shortName": "Amur",
+      "code": "AMU",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Амур Хабаровск"
+      ]
+    },
+    {
+      "id": "lada-tolyatti",
+      "name": "Lada Tolyatti",
+      "shortName": "Lada",
+      "code": "LAD",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "Лада Тольятти",
+        "ХК Лада"
+      ]
+    },
+    {
+      "id": "sochi-hc",
+      "name": "HC Sochi",
+      "shortName": "Sochi",
+      "code": "SOC",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Russia",
+      "crest": null,
+      "aliases": [
+        "ХК Сочи",
+        "Sochi Leopards"
+      ]
+    },
+    {
+      "id": "dynamo-minsk",
+      "name": "Dinamo Minsk",
+      "shortName": "Dinamo Minsk",
+      "code": "DIN",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Belarus",
+      "crest": null,
+      "aliases": [
+        "Динамо-Минск",
+        "HC Dinamo Minsk"
+      ]
+    },
+    {
+      "id": "barys-astana",
+      "name": "Barys Astana",
+      "shortName": "Barys",
+      "code": "BAR",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "Kazakhstan",
+      "crest": null,
+      "aliases": [
+        "Барыс Астана",
+        "HC Barys"
+      ]
+    },
+    {
+      "id": "shanghai-dragons",
+      "name": "Shanghai Dragons",
+      "shortName": "Shanghai Dragons",
+      "code": "SHA",
+      "sportId": "ice-hockey",
+      "leagueId": "khl",
+      "country": "China",
+      "crest": null,
+      "aliases": [
+        "Шанхайские драконы",
+        "Kunlun Red Star"
+      ]
+    }
+  ],
+  "owners": [],
+  "sponsors": [
+    {
+      "id": "fonbet",
+      "name": "FONBET",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Фонбет",
+        "Fon.Bet"
+      ],
+      "note": "League title partner; the KHL championship carries the FONBET name. Private betting company; ownership not traced."
+    },
+    {
+      "id": "sogaz",
+      "name": "SOGAZ",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "СОГАЗ"
+      ],
+      "note": "League general partner and official insurer. Lead (unchecked against a primary document): insurance group founded by Gazprom; reported EU/UK (2022) and US (2024) sanctions."
+    },
+    {
+      "id": "t-bank",
+      "name": "T-Bank",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Т-Банк",
+        "Tinkoff",
+        "Тинькофф"
+      ],
+      "note": "League general partner."
+    },
+    {
+      "id": "mir-nspk",
+      "name": "MIR (NSPK payment system)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "МИР",
+        "Mir card",
+        "НСПК"
+      ],
+      "note": "League official partner for 2026-27 (replaced SBP, the 2025/26 official partner, in the syndicated club-site widget)."
+    },
+    {
+      "id": "rostelecom",
+      "name": "Rostelecom",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Ростелеком"
+      ],
+      "note": "League partner. Lead: state-controlled telecoms operator; primary ownership document not yet opened."
+    },
+    {
+      "id": "avtovaz",
+      "name": "AvtoVAZ (LADA)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "АВТОВАЗ",
+        "LADA",
+        "Lada"
+      ],
+      "note": "League partner; lada.ru is the title sponsor of HC Lada."
+    },
+    {
+      "id": "kinopoisk",
+      "name": "Kinopoisk",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Кинопоиск",
+        "hd.kinopoisk.ru"
+      ],
+      "note": "League partner; streaming service. Ownership (Yandex) not traced."
+    },
+    {
+      "id": "gislaved",
+      "name": "Gislaved",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Gislaved Tires"
+      ],
+      "note": "League partner; tyre brand."
+    },
+    {
+      "id": "s7-airlines",
+      "name": "S7 Airlines",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "S7",
+        "С7"
+      ],
+      "note": "League partner; airline."
+    },
+    {
+      "id": "olimpbet",
+      "name": "Olimpbet",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Олимпбет",
+        "olimp.bet"
+      ],
+      "note": "Betting brand; official partner of several KHL clubs (CSKA, Severstal, Spartak, Sochi, Amur) and of SKA per the archived club site."
+    },
+    {
+      "id": "sovcombank",
+      "name": "Sovcombank",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Совкомбанк"
+      ],
+      "note": "Official bank of HC Severstal."
+    },
+    {
+      "id": "severstal",
+      "name": "Severstal",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Северсталь",
+        "severstal.com"
+      ],
+      "note": "General sponsor of HC Severstal. Lead: controlled by Alexei Mordashov; primary document not yet opened."
+    },
+    {
+      "id": "rosneft",
+      "name": "Rosneft",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Роснефть",
+        "rosneft.ru"
+      ],
+      "note": "General sponsor of HC CSKA Moscow. Lead: majority state-owned; primary document not yet opened."
+    },
+    {
+      "id": "gazprom-neft",
+      "name": "Gazprom Neft",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Газпром нефть",
+        "G-Drive",
+        "G-Energy",
+        "gpnbonus"
+      ],
+      "note": "General partner of HC Avangard (G-Drive Arena naming) and club sponsor of SKA. Lead: subsidiary of state-controlled Gazprom; primary document not yet opened."
+    },
+    {
+      "id": "vtb",
+      "name": "VTB",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "ВТБ",
+        "vtb.ru",
+        "Банк ВТБ"
+      ],
+      "note": "General sponsor of HC Dynamo Moscow; VTB Bank (Belarus) partners HC Dinamo Minsk. Lead: state-controlled bank; primary document not yet opened."
+    },
+    {
+      "id": "rzd",
+      "name": "Russian Railways (RZD)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "РЖД",
+        "Российские железные дороги"
+      ],
+      "note": "Partner of HC Sochi. Lead: state-owned railway operator; Lokomotiv Yaroslavl is linked to RZD. Primary document not yet opened."
+    },
+    {
+      "id": "alfa-bank",
+      "name": "Alfa-Bank",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Альфа-банк"
+      ],
+      "note": "Partner of HC Avangard."
+    },
+    {
+      "id": "komus",
+      "name": "Komus",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Комус"
+      ],
+      "note": "Partner of HC Spartak Moscow."
+    },
+    {
+      "id": "gazprom-transgaz-belarus",
+      "name": "Gazprom transgaz Belarus (GTB)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "ОАО «Газпром трансгаз Беларусь»",
+        "gtb.by"
+      ],
+      "note": "General partner of HC Dinamo Minsk."
+    },
+    {
+      "id": "maxline",
+      "name": "Maxline",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Maxline.by"
+      ],
+      "note": "Official partner of HC Dinamo Minsk; betting brand."
+    },
+    {
+      "id": "belavia",
+      "name": "Belavia",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Белавиа"
+      ],
+      "note": "Partner of HC Dinamo Minsk; Belarusian state airline (ownership not traced)."
+    },
+    {
+      "id": "samruk-kazyna",
+      "name": "Samruk-Kazyna",
+      "ownerId": "samruk-kazyna",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "СК",
+        "sk.kz",
+        "«Самұрық-Қазына»"
+      ],
+      "note": "Main partner ('Бас Серіктес') of HC Barys; Kazakhstan's sovereign wealth fund."
+    }
+  ],
+  "kits": [
+    {
+      "id": "ska-spb-2026-27-home",
+      "clubId": "ska-spb",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "gazprom",
+          "placement": "partner",
+          "source": {
+            "name": "SKA official site via Wayback Machine (snapshot 2026-03-24, labelled season 2025/2026)",
+            "date": "2026-03-24",
+            "url": "https://web.archive.org/web/20260324002324id_/https://www.ska.ru/"
+          }
+        },
+        {
+          "sponsorId": "gazprom-neft",
+          "placement": "partner",
+          "source": {
+            "name": "SKA official site via Wayback Machine (snapshot 2026-03-24, labelled season 2025/2026)",
+            "date": "2026-03-24",
+            "url": "https://web.archive.org/web/20260324002324id_/https://www.ska.ru/"
+          }
+        },
+        {
+          "sponsorId": "olimpbet",
+          "placement": "partner",
+          "source": {
+            "name": "SKA official site via Wayback Machine (snapshot 2026-03-24, labelled season 2025/2026)",
+            "date": "2026-03-24",
+            "url": "https://web.archive.org/web/20260324002324id_/https://www.ska.ru/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Club sponsors documented on the archived ska.ru sponsors page (snapshot 2026-03-24, labelled 2025/2026); front-of-shirt sponsor for 2026-27 not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "avangard-omsk-2026-27-home",
+      "clubId": "avangard-omsk",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "gazprom-neft",
+          "placement": "partner",
+          "source": {
+            "name": "HC Avangard official site, partners page",
+            "date": "2026-09-25",
+            "url": "https://hawk.ru/partners/"
+          }
+        },
+        {
+          "sponsorId": "alfa-bank",
+          "placement": "partner",
+          "source": {
+            "name": "HC Avangard official site, partners page",
+            "date": "2026-09-25",
+            "url": "https://hawk.ru/partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Gazprom Neft general partner per the club partners page; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "severstal-cherepovets-2026-27-home",
+      "clubId": "severstal-cherepovets",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "severstal",
+          "placement": "partner",
+          "source": {
+            "name": "HC Severstal official site",
+            "date": "2026-09-25",
+            "url": "https://www.severstalclub.ru/"
+          }
+        },
+        {
+          "sponsorId": "olimpbet",
+          "placement": "partner",
+          "source": {
+            "name": "HC Severstal official site",
+            "date": "2026-09-25",
+            "url": "https://www.severstalclub.ru/"
+          }
+        },
+        {
+          "sponsorId": "sovcombank",
+          "placement": "partner",
+          "source": {
+            "name": "HC Severstal official site",
+            "date": "2026-09-25",
+            "url": "https://www.severstalclub.ru/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Severstal general sponsor, Olimpbet and Sovcombank official partners per the club site; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "cska-moscow-hockey-2026-27-home",
+      "clubId": "cska-moscow-hockey",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "rosneft",
+          "placement": "partner",
+          "source": {
+            "name": "HC CSKA Moscow official site, partners page",
+            "date": "2026-09-25",
+            "url": "https://cska-hockey.ru/club/partners/"
+          }
+        },
+        {
+          "sponsorId": "olimpbet",
+          "placement": "partner",
+          "source": {
+            "name": "HC CSKA Moscow official site, partners page",
+            "date": "2026-09-25",
+            "url": "https://cska-hockey.ru/club/partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Rosneft general sponsor and Olimpbet official partner per the club partners page; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "spartak-moscow-hockey-2026-27-home",
+      "clubId": "spartak-moscow-hockey",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "olimpbet",
+          "placement": "partner",
+          "source": {
+            "name": "Spartak club site, sponsors and partners page",
+            "date": "2026-09-25",
+            "url": "https://spartak.ru/club/sponsory-i-partnery/"
+          }
+        },
+        {
+          "sponsorId": "komus",
+          "placement": "partner",
+          "source": {
+            "name": "Spartak club site, sponsors and partners page",
+            "date": "2026-09-25",
+            "url": "https://spartak.ru/club/sponsory-i-partnery/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Olimpbet official partner and Komus partner per the club site; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "dynamo-moscow-hockey-2026-27-home",
+      "clubId": "dynamo-moscow-hockey",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "vtb",
+          "placement": "partner",
+          "source": {
+            "name": "HC Dynamo Moscow official site",
+            "date": "2026-09-25",
+            "url": "https://dynamo.ru/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. VTB shown as the club's general sponsor on the official site; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "lada-tolyatti-2026-27-home",
+      "clubId": "lada-tolyatti",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "avtovaz",
+          "placement": "partner",
+          "source": {
+            "name": "HC Lada official site, club partners page",
+            "date": "2026-09-25",
+            "url": "https://hclada.ru/club/partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. LADA (AvtoVAZ) title sponsor per the club partners page, which also lists the club's founders; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "sochi-hc-2026-27-home",
+      "clubId": "sochi-hc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "rzd",
+          "placement": "partner",
+          "source": {
+            "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+            "date": "2026-09-25",
+            "url": "https://www.hcsochi.ru/club/partner/"
+          }
+        },
+        {
+          "sponsorId": "olimpbet",
+          "placement": "partner",
+          "source": {
+            "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+            "date": "2026-09-25",
+            "url": "https://www.hcsochi.ru/club/partner/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. RZD and Olimpbet among the club partners listed for 2026/27 on the club site; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "dynamo-minsk-2026-27-home",
+      "clubId": "dynamo-minsk",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "gazprom-transgaz-belarus",
+          "placement": "partner",
+          "source": {
+            "name": "HC Dinamo Minsk official site, partners page",
+            "date": "2026-09-25",
+            "url": "https://hcdinamo.by/club/partners/"
+          }
+        },
+        {
+          "sponsorId": "maxline",
+          "placement": "partner",
+          "source": {
+            "name": "HC Dinamo Minsk official site, partners page",
+            "date": "2026-09-25",
+            "url": "https://hcdinamo.by/club/partners/"
+          }
+        },
+        {
+          "sponsorId": "belavia",
+          "placement": "partner",
+          "source": {
+            "name": "HC Dinamo Minsk official site, partners page",
+            "date": "2026-09-25",
+            "url": "https://hcdinamo.by/club/partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Gazprom transgaz Belarus general partner, Maxline official partner, Belavia partner per the club site; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "amur-khabarovsk-2026-27-home",
+      "clubId": "amur-khabarovsk",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "olimpbet",
+          "placement": "partner",
+          "source": {
+            "name": "HC Amur official site",
+            "date": "2026-09-25",
+            "url": "https://hcamur.ru/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Olimpbet official partner per the club site; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "barys-astana-2026-27-home",
+      "clubId": "barys-astana",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "samruk-kazyna",
+          "placement": "partner",
+          "source": {
+            "name": "HC Barys official site, partnership page",
+            "date": "2026-09-25",
+            "url": "https://hcbarys.kz/club/partnership/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. Samruk-Kazyna (sk.kz) listed as main partner ('Бас Серіктес') on the club partnership page; front-of-shirt sponsor not yet sourced.",
+      "change": null
+    },
+    {
+      "id": "lokomotiv-yaroslavl-2026-27-home",
+      "clubId": "lokomotiv-yaroslavl",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "metallurg-magnitogorsk-2026-27-home",
+      "clubId": "metallurg-magnitogorsk",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "ak-bars-kazan-2026-27-home",
+      "clubId": "ak-bars-kazan",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "salavat-yulaev-2026-27-home",
+      "clubId": "salavat-yulaev",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "torpedo-nizhny-novgorod-2026-27-home",
+      "clubId": "torpedo-nizhny-novgorod",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "neftekhimik-nizhnekamsk-2026-27-home",
+      "clubId": "neftekhimik-nizhnekamsk",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "traktor-chelyabinsk-2026-27-home",
+      "clubId": "traktor-chelyabinsk",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "avtomobilist-yekaterinburg-2026-27-home",
+      "clubId": "avtomobilist-yekaterinburg",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "sibir-novosibirsk-2026-27-home",
+      "clubId": "sibir-novosibirsk",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "admiral-vladivostok-2026-27-home",
+      "clubId": "admiral-vladivostok",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    },
+    {
+      "id": "shanghai-dragons-2026-27-home",
+      "clubId": "shanghai-dragons",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026-27",
+      "periodTo": "2026-27",
+      "photos": {},
+      "sponsors": [],
+      "sponsorsComplete": false,
+      "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+      "change": null
+    }
+  ],
+  "deals": [
+    {
+      "id": "khl-fonbet",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "fonbet",
+      "placement": "league-partner",
+      "from": null,
+      "to": "2027-28",
+      "value": null,
+      "source": {
+        "name": "KHL.ru, league thank-you to 2025/26 partners",
+        "date": "2026-05-29",
+        "url": "https://www.khl.ru/news/2026/05/29/562872.html"
+      },
+      "leagueId": "khl",
+      "note": "Title partner; the league championship is branded 'FONBET KHL Championship'. KHL.ru (2026-05-29) reported the deal extended to 2027/28."
+    },
+    {
+      "id": "khl-sogaz",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "sogaz",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "General partner; KHL.ru (2026-05-29) named SOGAZ a general partner for 2025/26 and the 2026-27 club-site widget carries it forward."
+    },
+    {
+      "id": "khl-t-bank",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "t-bank",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "General partner; KHL.ru (2026-05-29) named T-Bank a general partner and the 2026-27 club-site widget carries it forward."
+    },
+    {
+      "id": "khl-mir-nspk",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "mir-nspk",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "Official partner in the 2026-27 club-site widget; replaces SBP, the 2025/26 official partner named by KHL.ru."
+    },
+    {
+      "id": "khl-rostelecom",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "rostelecom",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+    },
+    {
+      "id": "khl-avtovaz",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "avtovaz",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+    },
+    {
+      "id": "khl-kinopoisk",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "kinopoisk",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+    },
+    {
+      "id": "khl-gislaved",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "gislaved",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+    },
+    {
+      "id": "khl-haier",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "haier",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+    },
+    {
+      "id": "khl-s7",
+      "clubId": null,
+      "orgName": "Kontinental Hockey League (KHL)",
+      "sponsorId": "s7-airlines",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      },
+      "leagueId": "khl",
+      "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+    }
+  ],
+  "claims": [],
+  "proposedRatings": [
+    {
+      "sponsorId": "rosneft",
+      "tier": "serious",
+      "ownerId": "russian-federation",
+      "claimIds": [
+        "russian-federation-record"
+      ],
+      "reasoning": "Rosneft is majority state-owned (Wikipedia lead; primary filing not yet opened) and is the general sponsor of HC CSKA Moscow. The state is a direct party to the war in Ukraine, so the existing russian-federation-record claim carries over once ownership is verified."
+    },
+    {
+      "sponsorId": "gazprom-neft",
+      "tier": "serious",
+      "ownerId": "russian-federation",
+      "claimIds": [
+        "russian-federation-record"
+      ],
+      "reasoning": "Gazprom Neft is a subsidiary of state-controlled Gazprom (lead; primary document not yet opened); general partner of HC Avangard (G-Drive Arena) and club sponsor of SKA. Inherit Gazprom's severe framing via the parent once the subsidiary chain is documented."
+    },
+    {
+      "sponsorId": "rostelecom",
+      "tier": "serious",
+      "ownerId": "russian-federation",
+      "claimIds": [
+        "russian-federation-record"
+      ],
+      "reasoning": "Rostelecom is described as state-controlled (Wikipedia lead; primary ownership document not yet opened) and is a KHL league partner in 2026-27."
+    },
+    {
+      "sponsorId": "rzd",
+      "tier": "serious",
+      "ownerId": "russian-federation",
+      "claimIds": [
+        "russian-federation-record"
+      ],
+      "reasoning": "Russian Railways is state-owned (Wikipedia lead; primary document not yet opened); partner of HC Sochi and linked to Lokomotiv Yaroslavl."
+    },
+    {
+      "sponsorId": "avtovaz",
+      "tier": "concern",
+      "ownerId": "russian-federation",
+      "claimIds": [
+        "russian-federation-record"
+      ],
+      "reasoning": "AvtoVAZ is state-controlled via Rostec (Wikipedia lead; primary document not yet opened); KHL league partner and title sponsor of HC Lada. Indirect control, hence concern rather than serious."
+    },
+    {
+      "sponsorId": "sogaz",
+      "tier": "serious",
+      "ownerId": "russian-federation",
+      "claimIds": [
+        "russian-federation-record"
+      ],
+      "reasoning": "SOGAZ was founded by Gazprom and is reported as sanctioned by the EU/UK (2022) and the US (2024, citing insurance for Russian military personnel) in the coverage targets research; KHL general partner. Needs a primary ownership/sanctions document before rating."
+    }
+  ],
+  "unsourced": [
+    "Front-of-shirt (jersey) sponsors for all 22 KHL clubs in 2026-27: no club announced or documented a shirt-front sponsor on a page we could open. KHL jerseys typically carry only club crests and league branding, and club partner lists do not state jersey placement.",
+    "SKA Saint Petersburg ownership: 'owned by Russian state-controlled energy giant Gazprom' (infobox: Gazprom Export) per Wikipedia (lead only); corroborating primary document not opened. The archived ska.ru sponsors page (2026-03-24) lists Gazprom only as general sponsor.",
+    "KHL board chair Gennady Timchenko, also president/chair of SKA: sanctioned by the US (2014) and UK (2022) per Inside the Games (lead in targets.json; article not opened this pass).",
+    "Club ownership per Wikipedia (leads only, no primary source opened): Metallurg Magnitogorsk - Viktor Rashnikov / MMK; Ak Bars Kazan - Tatneft; HC CSKA Moscow - Rosneft (majority state-owned); HC Spartak Moscow - Investbank; Severstal Cherepovets - Alexei Mordashov; Torpedo Nizhny Novgorod - GAZ Group; Neftekhimik - NKNH (Nizhnekamskneftekhim); Admiral Vladivostok - Vladivostok sea port; Barys Astana - Kazakhstan Temir Zholy; Amur Khabarovsk - Sukhoi; Sibir Novosibirsk - Novosibirsk Oblast administration; Dinamo Minsk - BFSO Dinamo; Lokomotiv Yaroslavl - Russian Railways; HC Dynamo Moscow - VTB (site shows VTB as general sponsor, not owner); Salavat Yulaev, HC Sochi, Avtomobilist, Traktor, Lada - no owner named (Lada's club partners page lists founders samregion.ru and polyplast-un.ru as 'Учредитель').",
+    "Official club sites unreachable from this machine (curl connection failures or SPA with no server-rendered partner data): lokomotiv.ru, metallurg.ru, ak-bars.ru, neftekhimik.ru, salavat-yulaev.ru, avtomobilist.ru, admiral (hcadmiral.ru), sibir (hc-sibir.ru), barys.kz, Kunlun/Shanghai Dragons domains. Sponsor placements for these 11 clubs remain empty.",
+    "ska.ru returned HTTP 403 on live fetch and has no Wayback snapshot after 2026-03-24 with status 200; SKA partner data is from the 2026-03-24 snapshot labelled season 2025/2026.",
+    "League official partner changed between seasons: KHL.ru (2026-05-29) named SBP official partner for 2025/26; the 2026-27 club-site widget names the MIR card instead. No announcement of the switch was found.",
+    "Shanghai Dragons: rebranded from Kunlun Red Star on 2025-08-07; home listed as SKA Arena, St Petersburg; Ilya Kovalchuk president since 2026 (Wikipedia lead only). Whether it relocates to Shanghai for 2026-27 is unconfirmed.",
+    "State-control facts needing primary sources before claims can be written: Rosneft majority state ownership; Rostelecom state control; RZD state ownership; AvtoVAZ control via Rostec; Gazprom Neft as Gazprom subsidiary; SOGAZ-Gazprom founding relationship and sanctions listings; VTB state control.",
+    "FONBET is also described on hawk.ru as 'partner of the hockey clubs Avangard, Metallurg, Salavat Yulaev and Lokomotiv Yaroslavl'; individual club partnerships with Metallurg and Lokomotiv could not be confirmed on club pages.",
+    "Salavat Yulaev's own site (hcsalavat.ru) carries no partners page, only the KHL partner widget and FONBET betting links; no club sponsor documented.",
+    "KHL 2026-27 league partner set per the syndicated club-site widget ('Партнеры Фонбет Чемпионата КХЛ сезона 2026-2027'): FONBET title, SOGAZ and T-Bank general, MIR official, Rostelecom / LADA / Kinopoisk / Gislaved / Haier / S7 partners - corroborated on hawk.ru, severstalclub.ru, hcsochi.ru, hcdinamo.by, cska-hockey.ru, hcsalavat.ru, hcamur.ru."
+  ]
+}

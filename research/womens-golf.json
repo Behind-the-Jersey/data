@@ -1,0 +1,271 @@
+{
+ "target": "womens-golf",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/266",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "womens-golf",
+   "aliases": [
+    "Ladies European Tour",
+    "LET",
+    "LPGA Tour",
+    "Ladies Professional Golf Association",
+    "PIF Global Series",
+    "women's golf tours"
+   ],
+   "sportId": "golf",
+   "name": "Women's golf: Ladies European Tour & LPGA Tour (PIF Global Series)",
+   "country": "Global",
+   "clubCount": 29,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "Combined LET + LPGA entry (not separate ladies-european-tour / lpga leagues) because the state-linked money is the PIF Global Series: all five series events are LET events and the only LPGA link is the co-sanctioned Aramco Championship (LPGA news, 2025-11-05). The full LPGA 2026 event count was not verified (lpga.com/tournaments showed only the 9 remaining events on 24 Sep 2026), so clubCount 29 counts the LET's 29 official events (Wikipedia 2026 Ladies European Tour; ladieseuropeantour.com returned HTTP 403 to automated fetches).",
+    "PIF Global Series 2026 (pifglobalseries.com 2026-schedule announcement, 2025-11-05, fetched 25 Sep 2026): five 72-hole stroke-play events, $15m total prize fund - PIF Saudi Ladies International (Riyadh Golf Club, Feb 11-14, $5m), Aramco Championship (Shadow Creek, Las Vegas, Apr 2-5, $4m, LPGA/LET co-sanctioned), PIF London Championship (Centurion Club, Aug 6-9, $2m), Aramco Korea Championship (New Korea Country Club, Seoul, Oct 8-11, $2m), Aramco China Championship (Mission Hills, Shenzhen, Nov 5-8, $2m, co-sanctioned with the China LPGA Tour). The series was the Aramco Team Series until renamed in 2025 and dropped its team element for 2026.",
+    "PIF Global Series partners (pifglobalseries.com footer, fetched 25 Sep 2026): Series Title Partner PIF; Title Partner Aramco; Host Partner Kolon Group; Organiser Golf Saudi; Official Partners FII Institute and Rolex; Official Suppliers Black Knight Coffee, BMW Korea and Ilhwa; Host Venue New Korea Country Club; Sanctioned By the Ladies European Tour and the Saudi Golf Federation; Strategic Partners Arab Golf Federation, Saudi Ministry of Sport and the Saudi Olympic Committee.",
+    "Event-host shape: tournaments, not clubs, are the entities; the schema has no event entity, so event-level facts are recorded in unsourced. Women's golf has no team shirts to scrape; player apparel placement was not researched this pass."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "pif-global-series-2026",
+   "name": "PIF Global Series 2026",
+   "shortName": "PIF GS 2026",
+   "code": "PIFGS26",
+   "sportId": "golf",
+   "leagueId": "womens-golf",
+   "country": "Saudi Arabia, USA, United Kingdom, South Korea, China",
+   "crest": null,
+   "aliases": [
+    "PIF Global Series",
+    "Aramco Team Series (former name)",
+    "PIF Saudi Ladies International",
+    "Aramco Championship",
+    "PIF London Championship",
+    "Aramco Korea Championship",
+    "Aramco China Championship"
+   ]
+  },
+  {
+   "id": "solheim-cup-2026",
+   "name": "Solheim Cup 2026",
+   "shortName": "Solheim Cup",
+   "code": "SOL26",
+   "sportId": "golf",
+   "leagueId": "womens-golf",
+   "country": "Netherlands",
+   "crest": null,
+   "aliases": [
+    "Solheim Cup"
+   ]
+  }
+ ],
+ "owners": [],
+ "sponsors": [
+  {
+   "id": "golf-saudi",
+   "name": "Golf Saudi",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Organiser of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026); the series is 'Golf Saudi's series of elite events on the Ladies European Tour' (pifglobalseries.com homepage). Golf Saudi describes itself as delivering a national golf development programme under Saudi Vision 2030 (golfsaudi.com/en/this_is_golf_saudi, fetched 25 Sep 2026) but publishes no ownership statement; left unowned rather than guessed."
+  },
+  {
+   "id": "kolon",
+   "name": "Kolon Group",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Kolon"
+   ],
+   "note": "Host Partner of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026, linking kolon.com/en/main, 'KOLON GROUP'); a South Korean conglomerate. Ownership not traced."
+  },
+  {
+   "id": "fii-institute",
+   "name": "FII Institute (Future Investment Initiative Institute)",
+   "ownerId": "saudi-pif",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Future Investment Initiative Institute"
+   ],
+   "note": "Official Partner of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026, linking fii-institute.org, 'FII Institute - Impact on Humanity')."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "womens-golf-pif",
+   "clubId": null,
+   "orgName": "PIF Global Series (Ladies European Tour)",
+   "sponsorId": "pif",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": null,
+   "value": null,
+   "leagueId": "womens-golf",
+   "note": "Series Title Partner of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026). PIF was named title partner of the revamped five-event series (former Aramco Team Series) in May 2025 with a $13m total prize pool (PIF press release, 2025-05-08); the 2026 series carries $15m across five events (pifglobalseries.com, 2025-11-05). ESPN (2025-05-08, Field Level Media) reported the move as a PIF investment in the LET.",
+   "source": {
+    "name": "PIF - PIF continues to transform women's golf as title partner of revamped global series",
+    "date": "2025-05-08",
+    "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/pif-continues-to-transform-womens-golf-as-title-partner-of-revamped-global-series/"
+   }
+  },
+  {
+   "id": "womens-golf-aramco",
+   "clubId": null,
+   "orgName": "Aramco Championship / Aramco Korea Championship / Aramco China Championship (PIF Global Series)",
+   "sponsorId": "aramco",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "leagueId": "womens-golf",
+   "note": "Title Partner of three PIF Global Series events - the Aramco Championship (Shadow Creek, Las Vegas, LPGA/LET co-sanctioned), Aramco Korea Championship (Seoul) and Aramco China Championship (Shenzhen) - per Aramco's own sponsorship site (sponsorships.aramco.com/pif-global-series, fetched 25 Sep 2026); Aramco says its 2026 title events span the US, Korea and China (Aramco Americas news, 2026-04-21). The inaugural Aramco Championship was won by Lauren Coughlin (Aramco Americas, 2026-04-21).",
+   "source": {
+    "name": "Aramco - PIF Global Series Partnership (sponsorships.aramco.com)",
+    "date": "2026-09-25",
+    "url": "https://sponsorships.aramco.com/pif-global-series/"
+   }
+  },
+  {
+   "id": "womens-golf-lpga-aramco-championship",
+   "clubId": null,
+   "orgName": "LPGA Tour (Aramco Championship at Shadow Creek)",
+   "sponsorId": "aramco",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "leagueId": "womens-golf",
+   "note": "The Aramco Championship at Shadow Creek (Apr 2-5, 2026, $4m purse, 120 players) is the first LPGA co-sanctioned event in the PIF Global Series, in partnership with Golf Saudi; LPGA commissioner Craig Kessler tied the deal to 'the LET's longstanding collaboration with Golf Saudi and PIF' (LPGA news, 2025-11-05, fetched 25 Sep 2026). Whether the LPGA deal is multi-year is not stated.",
+   "source": {
+    "name": "LPGA - LPGA and LET Deepen Collaboration through the PIF Global Series, with the Aramco Championship at Shadow Creek Golf Club",
+    "date": "2025-11-05",
+    "url": "https://www.lpga.com/news/2025/lpga-and-let-deepen-collaboration-through-the-pif-global-series-with-the-aramco-championship-at-shadow-creek-golf-club"
+   }
+  },
+  {
+   "id": "womens-golf-golf-saudi",
+   "clubId": null,
+   "orgName": "PIF Global Series (Ladies European Tour)",
+   "sponsorId": "golf-saudi",
+   "placement": "league-partner",
+   "from": "2021",
+   "to": null,
+   "value": null,
+   "leagueId": "womens-golf",
+   "note": "Organiser of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026); the series is 'Golf Saudi's series of elite events on the Ladies European Tour' (pifglobalseries.com, fetched 25 Sep 2026). The LET has 'had a strong relationship with Golf Saudi since 2020' (LET board chair Marta Figueras-Dotti, quoted by the LPGA, 2025-11-05).",
+   "source": {
+    "name": "PIF Global Series - 2026 schedule announcement",
+    "date": "2025-11-05",
+    "url": "https://pifglobalseries.com/en-us/latest-news/2026-schedule/"
+   }
+  },
+  {
+   "id": "womens-golf-kolon",
+   "clubId": null,
+   "orgName": "PIF Global Series (Ladies European Tour)",
+   "sponsorId": "kolon",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "womens-golf",
+   "note": "Host Partner (pifglobalseries.com footer, fetched 25 Sep 2026; logo links kolon.com/en/main, 'KOLON GROUP').",
+   "source": {
+    "name": "PIF Global Series - partners footer",
+    "date": "2026-09-25",
+    "url": "https://pifglobalseries.com/en-us/"
+   }
+  },
+  {
+   "id": "womens-golf-fii-institute",
+   "clubId": null,
+   "orgName": "PIF Global Series (Ladies European Tour)",
+   "sponsorId": "fii-institute",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "womens-golf",
+   "note": "Official Partner (pifglobalseries.com footer, fetched 25 Sep 2026; logo links fii-institute.org).",
+   "source": {
+    "name": "PIF Global Series - partners footer",
+    "date": "2026-09-25",
+    "url": "https://pifglobalseries.com/en-us/"
+   }
+  },
+  {
+   "id": "womens-golf-rolex",
+   "clubId": null,
+   "orgName": "PIF Global Series (Ladies European Tour)",
+   "sponsorId": "rolex",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "womens-golf",
+   "note": "Official Partner (pifglobalseries.com footer, fetched 25 Sep 2026; logo links rolex.com). Rolex also backs the Rolex Women's World Golf Rankings cited in series coverage.",
+   "source": {
+    "name": "PIF Global Series - partners footer",
+    "date": "2026-09-25",
+    "url": "https://pifglobalseries.com/en-us/"
+   }
+  }
+ ],
+ "claims": [],
+ "proposedRatings": [
+  {
+   "sponsorId": "pif",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment",
+    "pif-giga-labour-abuses"
+   ],
+   "reasoning": "PIF is the Saudi state's sovereign wealth fund (chairs itself under Crown Prince Mohammed bin Salman) and is Series Title Partner and the money behind all five PIF Global Series events, plus the reported investment in the LET itself. Same Saudi state money already rated serious for LIV Golf, ATP and WTA: record 345 executions in 2024 (Amnesty), the Khashoggi assessment (ODNI), and HRW's finding that PIF-funded giga-projects run on migrant-worker abuse."
+  },
+  {
+   "sponsorId": "aramco",
+   "tier": "serious",
+   "ownerId": "government-of-saudi-arabia",
+   "claimIds": [
+    "gov-saudi-arabia-record"
+   ],
+   "reasoning": "Aramco is already rated serious in normalized/ (Government holds 81.48% directly, PIF a further 16%); here it is Title Partner of three PIF Global Series tournaments incl. the LPGA co-sanctioned Aramco Championship. No new claim needed - reuse gov-saudi-arabia-record."
+  },
+  {
+   "sponsorId": "golf-saudi",
+   "tier": "serious",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "Golf Saudi is the organiser of the PIF Global Series and the LET's state-side partner since 2020; it operates as the national golf development body under Vision 2030 (its own site frames its programme around Vision 2030). Its formal ownership could not be verified from primary sources this pass, so the rating proposal carries no ownerId and no claimIds until that trace is done."
+  }
+ ],
+ "unsourced": [
+  "EVENT-HOST SHAPE - tournaments are recorded here because the schema has no event entity yet. 2026 PIF Global Series, per pifglobalseries.com/en-us/latest-news/2026-schedule/ (PIF/Golf Saudi announcement, 2025-11-05, fetched 25 Sep 2026): PIF Saudi Ladies International, Riyadh Golf Club, Riyadh, Saudi Arabia, Feb 11-14 2026, $5m; Aramco Championship, Shadow Creek Golf Club, Las Vegas, Nevada, USA, Apr 2-5 2026, $4m (LPGA/LET co-sanctioned; the LPGA release of 2025-11-05 says Mar 30-Apr 5 with a 120-player field); PIF London Championship, Centurion Club, London, UK, Aug 6-9 2026, $2m; Aramco Korea Championship, New Korea Country Club, Seoul, South Korea, Oct 8-11 2026, $2m; Aramco China Championship, Mission Hills China, Shenzhen, China, Nov 5-8 2026, $2m (co-sanctioned with the China LPGA Tour per the LET's other-tours column on Wikipedia's 2026 LET page - the China co-sanction needs a primary-source check).",
+  "PIF Global Series partner tiers read off pifglobalseries.com footer (fetched 25 Sep 2026): Series Title Partner PIF (pif.gov.sa); Title Partner Aramco (aramco.com); Host Partner Kolon Group (kolon.com/en/main); Organiser Golf Saudi (golfsaudi.com); Official Partners FII Institute (fii-institute.org) and Rolex (rolex.com); Official Suppliers Black Knight Coffee (b-k.coffee), BMW Korea (bmw.co.kr) and Ilhwa (ilhwa-eng.uriweb.kr); Host Venue New Korea Country Club (newkoreacc.co.kr); Sanctioned By Ladies European Tour (ladieseuropeantour.com) and Saudi Golf Federation (saudigolffederation.sa/en); Strategic Partners Arab Golf Federation (arabgolffederation.com), Saudi Ministry of Sport (mos.gov.sa) and Saudi Olympic Committee (olympic.sa/team-saudi). Only PIF, Aramco, Golf Saudi, Kolon, FII Institute and Rolex were filed as deals; the suppliers, host venue and sanctioning/strategic bodies need a decision on whether they belong in deals.",
+  "PIF's investment in the LET: ESPN (Field Level Media, 2025-05-08, https://www.espn.com/golf/story/_/id/45056437/pif-makes-13m-investment-ladies-european-tour, fetched 25 Sep 2026) reported PIF 'has made a major investment in the Ladies European Tour to become the title sponsor of five women's golf events' with the collective prize pool across the five 2025 events reaching $13m. The $13m is the series prize pool, not a confirmed equity investment figure; PIF's own press release (2025-05-08) names PIF title partner without stating an investment amount.",
+  "LPGA 2026 season: the full 2026 LPGA event count was not verified - lpga.com/tournaments fetched on 24 Sep 2026 showed only the 9 remaining events (Sept 25 - Dec 13), none Gulf-sponsored (target notes). The LPGA's own corporate-partners page (fetched 25 Sep 2026) lists no PIF/Golf Saudi partner, consistent with the LPGA link being only the co-sanctioned Aramco Championship.",
+  "Golf Saudi ownership: golfsaudi.com (en/this_is_golf_saudi, en/goals, fetched 25 Sep 2026) frames the organisation around Vision 2030 and a national development programme but publishes no legal ownership statement; the Saudi Golf Federation (saudigolffederation.sa) is a separate 'Sanctioned By' body on pifglobalseries.com. No primary source for Golf Saudi's legal form/owner was found this pass; ownerId left null rather than guessed.",
+  "Discrepancy - series prize pool: PIF's 2025 press release and ESPN (2025-05-08) put the 2025 series total at $13m; the 2026 series is $15m ($5m + $4m + 3 x $2m per pifglobalseries.com 2025-11-05). The targets.json lead saying '$15m total, 1 co-sanctioned with the LPGA' matches 2026 only.",
+  "Discrepancy - event naming/venue drift: ESPN's 2025 list has 'PIF Championship' at Centurion and 'Aramco Houston Championship' (Sept 5-7, TBC); by the 2026 schedule it is the PIF London Championship (Aug 6-9) and the US stop moved to Shadow Creek, Las Vegas as the LPGA co-sanctioned Aramco Championship. The Houston event does not appear on the 2026 schedule.",
+  "LET 2026 season context (Wikipedia 2026 Ladies European Tour as lead; ladieseuropeantour.com HTTP 403 to automated fetches): 29 official events, 11 Feb - Nov 2026, total purse surpassed EUR 40m for the first time; Lacoste Ladies Open de France and Jabra Ladies Open merged into the Jabra Ladies Open de France at Evian in April 2026; Tenerife and Sweden events left the schedule, replaced by a returning Ladies Italian Open and a first-time Mauritius event; the Solheim Cup (Sep 13, Netherlands) is the unofficial team event. None of the 29 LET events outside the PIF Global Series were individually researched this pass.",
+  "Player apparel placement ('player apparel' in sponsorPlacements): not researched this pass - no player-level PIF/Golf Saudi apparel deals were sourced. Golf Saudi's ambassador roster (e.g. Charley Hull, quoted in both the PIF and LET releases) is a lead for a future pass.",
+  "Aramco ownership detail: normalized/ sponsors.json already rates aramco serious with the Government of Saudi Arabia holding 81.48% directly and PIF a further 16% (Fitch Ratings, 2025-01-31; Aramco FY2025 annual report), so no new owner chain was traced for this target."
+ ]
+}

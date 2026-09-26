@@ -1,0 +1,255 @@
+{
+  "target": "super-cups-abroad",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/275",
+  "leagues": [
+    {
+      "id": "super-cups-abroad",
+      "aliases": [
+        "domestic super cups staged abroad",
+        "Supercopa de España (host editions)",
+        "Supercoppa Italiana (host editions)",
+        "Trophée des Champions (host editions)",
+        "Saudi Super Cup",
+        "Egyptian Super Cup"
+      ],
+      "sportId": "soccer",
+      "name": "Domestic super cups staged abroad in the Gulf (Supercopa de España, Supercoppa Italiana, Trophée des Champions, Saudi Super Cup, Egyptian Super Cup)",
+      "country": "Spain, Italy, France, Saudi Arabia, Egypt (host states: Saudi Arabia, Kuwait, UAE, Turkey)",
+      "season": "2026-27",
+      "status": "partial",
+      "notes": [
+        "Event-host shape: the entities are super-cup editions, not clubs, so no clubs or kits are recorded; each edition's host facts and sources are in unsourced and the host deals appear here as organisation-level league-partner entries.",
+        "Supercopa de España: the 2027 edition (Barcelona, Real Madrid, Atlético de Madrid, Real Sociedad) moves to Istanbul, 2-6 February 2027, because Saudi Arabia hosts the AFC Asian Cup; Saudi Arabia returns as host at least in 2028 and 2029 (El Español, 17 Sep 2026). Istanbul deal keeps economic terms similar to the Saudi ones, about EUR 40m split among the participants.",
+        "Supercoppa Italiana: Saudi Arabia hosted the last three editions (January 2024 to December 2025 finals in Riyadh; the 38th edition, December 2025, was the sixth time in Saudi Arabia). Lega Serie A did not exercise the contract option for 2026-27; the Inter v Lazio edition's venue and date were still undecided as of August 2026 (Football Italia, 11 May 2026; Goal Italia, 24 Aug 2026 - not fetched this run).",
+        "Trophée des Champions: the 2025 edition (PSG v Marseille) was played at Jaber Al-Ahmad International Stadium, Kuwait City, on 8 January 2026, organised by the LFP with the Kuwait Football Association. The 2026 edition (RC Lens v PSG) was played in Lens, France, on 16 August 2026 - no Gulf host.",
+        "Saudi Super Cup 2026: Kuwait hosts, 19-23 December 2026, Jaber Al-Ahmad International Stadium; teams Al-Nassr, Al-Ahli, Al-Qadsiah, Al-Kholood; organised by the Saudi Arabian Football Federation. Previous edition was in Hong Kong (Al-Ahli beat Al-Nassr 5-3 on penalties).",
+        "Egyptian Super Cup: hosted in Abu Dhabi in 2024 and 2025 per the issue's research notes; no primary source found this run and the 2026 host is unconfirmed - see unsourced.",
+        "Turkish Super Cup: the 2025 edition was played in Turkey in January 2026 per the issue's research notes; after the 2023 Riyadh final was cancelled, no Gulf edition is known for 2026-27 - unsourced this run."
+      ]
+    }
+  ],
+  "owners": [
+    {
+      "id": "government-of-kuwait",
+      "name": "Government of Kuwait",
+      "type": "state",
+      "country": "Kuwait",
+      "parentId": null,
+      "note": "Host state for the Saudi Super Cup 2026 (December 2026) and the Trophée des Champions 2025 edition (8 January 2026); the Kuwait FA president quoted on the hosting is Sheikh Ahmad Al-Yousef Al-Sabah of the ruling Al Sabah family (Goal.com, 14 Sep 2026)."
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "government-of-saudi-arabia",
+      "name": "Saudi Arabia (government host)",
+      "ownerId": "government-of-saudi-arabia",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Saudi Arabia host",
+        "Kingdom of Saudi Arabia (host)"
+      ],
+      "note": "The Saudi state as contracted host of domestic super cups: Supercopa de España (hosted editions through 2026-27 cycle; resumes 2028 and 2029) and Supercoppa Italiana (hosted editions from 2018 to the December 2025 final). Host fees not published."
+    },
+    {
+      "id": "government-of-kuwait",
+      "name": "Kuwait (government host)",
+      "ownerId": "government-of-kuwait",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [
+        "kuwait-exit-permit-2025"
+      ],
+      "aliases": [
+        "State of Kuwait (host)"
+      ],
+      "note": "Host state: Saudi Super Cup 2026 (19-23 December 2026) and Trophée des Champions 2025 edition (8 January 2026), the latter organised with the Kuwait Football Association. Hosting fees not published."
+    },
+    {
+      "id": "turkiye-futbol-federasyonu",
+      "name": "Türkiye Futbol Federasyonu (Turkish Football Federation)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "TFF",
+        "Turkish Football Federation"
+      ],
+      "note": "Host of the Supercopa de España 2027 (Istanbul, 2-6 February 2027); the RFEF president signed the hosting agreement in Istanbul. Ownership not traced; Turkish sports and culture/tourism ministers attended the presentation (El Español, 17 Sep 2026)."
+    }
+  ],
+  "deals": [
+    {
+      "id": "supercopa-saudi-host",
+      "clubId": null,
+      "orgName": "Supercopa de España (RFEF)",
+      "sponsorId": "government-of-saudi-arabia",
+      "placement": "league-partner",
+      "from": null,
+      "to": "2029",
+      "value": null,
+      "source": {
+        "name": "El Español - Estambul toma el relevo de Arabia Saudí y acogerá por primera vez la Supercopa de España",
+        "date": "2026-09-17",
+        "url": "https://www.elespanol.com/deportes/futbol/20260917/estambul-toma-relevo-arabia-saudi-acogera-primera-vez-supercopa-espana-fechas-horarios-sedes/1003744387612_0.html",
+        "note": "The 2027 edition moves to Istanbul because Saudi Arabia hosts the AFC Asian Cup; 'El país volverá a albergar la Supercopa al menos en 2028 y 2029' (Saudi Arabia will host the Supercopa again at least in 2028 and 2029)."
+      },
+      "leagueId": "super-cups-abroad",
+      "note": "Contracted host of recent editions; the article gives no contract start year and no fee. Other Spanish reports of an extra year to 2030 as compensation were not confirmed here - see unsourced."
+    },
+    {
+      "id": "supercopa-istanbul-host",
+      "clubId": null,
+      "orgName": "Supercopa de España 2027 (RFEF)",
+      "sponsorId": "turkiye-futbol-federasyonu",
+      "placement": "league-partner",
+      "from": "2027",
+      "to": "2027",
+      "value": null,
+      "source": {
+        "name": "El Español - Estambul toma el relevo de Arabia Saudí y acogerá por primera vez la Supercopa de España",
+        "date": "2026-09-17",
+        "url": "https://www.elespanol.com/deportes/futbol/20260917/estambul-toma-relevo-arabia-saudi-acogera-primera-vez-supercopa-espana-fechas-horarios-sedes/1003744387612_0.html",
+        "note": "RFEF president Rafael Louzán signed the agreement in Istanbul on 17 September 2026; semifinals 2-3 February 2027 (Fenerbahçe and Beşiktaş stadiums), final 6 February at Galatasaray's Ali Sami Yen."
+      },
+      "leagueId": "super-cups-abroad",
+      "note": "One-off hosting deal. The deal keeps economic terms similar to Saudi Arabia's, with about EUR 40m to be split among the participating clubs (El Español); whether that money comes from the TFF, the Turkish state or elsewhere is not stated - see unsourced."
+    },
+    {
+      "id": "supercoppa-saudi-host",
+      "clubId": null,
+      "orgName": "Supercoppa Italiana (Lega Serie A)",
+      "sponsorId": "government-of-saudi-arabia",
+      "placement": "league-partner",
+      "from": "2018",
+      "to": "2025-26",
+      "value": null,
+      "source": {
+        "name": "Lega Serie A - The EA SPORTS FC Supercup will be held in Saudi Arabia for the sixth time (38th edition announcement)",
+        "date": "2025-09-17",
+        "url": "https://en.legaseriea.it/supercoppa/news/ea-sports-fc-supercup-20252026",
+        "note": "The 38th edition (semifinals 18-19 December 2025, final 22 December 2025) was played in Riyadh, the sixth time the competition was held in Saudi Arabia. First Saudi edition: Jeddah 2018 (Lega Serie A, 'The EA SPORTS FC Supercup is in Saudi Arabia', 2025-01-02)."
+      },
+      "leagueId": "super-cups-abroad",
+      "endedOn": "2025-12",
+      "note": "Hosted editions: Jeddah 2018, Riyadh 2019, Riyadh 2022 (King Fahd International Stadium), Riyadh 2023 and January 2025 and December 2025 finals (Al-Awwal Park / King Saud University Stadium). Lega Serie A did not exercise the contract option for 2026-27 (Football Italia, 11 May 2026); host fees not published."
+    },
+    {
+      "id": "supercoppa-sela-sport",
+      "clubId": null,
+      "orgName": "EA SPORTS FC Supercup 2025/2026 (Lega Serie A)",
+      "sponsorId": "sela",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": "2025",
+      "value": null,
+      "source": {
+        "name": "Lega Serie A - EA SPORTS FC SUPERCUP TICKETING SEMIFINALS",
+        "date": "2025-11-13",
+        "url": "https://en.legaseriea.it/supercoppa/news/ea-sports-fc-supercup-ticketing-semifinals",
+        "note": "'Sela Sport, the event's organising partner, will be working with the Saudi Tourism Authority to sell tickets for all three matches' in Riyadh, 18-19 and 22 December 2025; tickets via webook.com."
+      },
+      "leagueId": "super-cups-abroad",
+      "note": "Sela Sport was the December 2025 edition's organising partner. Sponsor recorded as 'Sela' (PIF-owned, already rated); whether Sela Sport's role continues in 2026-27, when the edition is not in Saudi Arabia, is unknown."
+    },
+    {
+      "id": "saudi-super-cup-kuwait-host",
+      "clubId": null,
+      "orgName": "Saudi Super Cup 2026 (Saudi Arabian Football Federation)",
+      "sponsorId": "government-of-kuwait",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": "2026",
+      "value": null,
+      "source": {
+        "name": "Goal.com - Officially: a Gulf state to host the Saudi Super Cup",
+        "date": "2026-09-14",
+        "url": "https://www.goal.com/en/news/officially-gulf-state-to-host-the-saudi-super-cup/blt845cb914bedf1423",
+        "note": "SAFF announced on 14 September 2026 that the 2026 edition will be held in Kuwait, 19-23 December, at Jaber Al-Ahmad International Stadium; Kuwait is the competition's eighth venue; draw expected 14 October."
+      },
+      "leagueId": "super-cups-abroad",
+      "note": "One-off host for the 2026 edition; the article gives no contract term or fee. The competition is organised by the Saudi Arabian Football Federation; its clubs include PIF-owned (Al-Nassr, Al-Ahli) and Aramco-owned (Al-Qadsiah) teams - see saudi-pro-league."
+    },
+    {
+      "id": "trophee-kuwait-host",
+      "clubId": null,
+      "orgName": "Trophée des Champions (LFP)",
+      "sponsorId": "government-of-kuwait",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": "2026",
+      "value": null,
+      "source": {
+        "name": "LFP (ligue1.com) - Kuwait to host the Trophée des Champions",
+        "date": "2025-09-29",
+        "url": "https://ligue1.com/en/articles/l1_article_3344-kuwait-to-host-the-trophee-des-champions",
+        "note": "The 31st edition, PSG v Marseille, was played at Jaber Al-Ahmad International Stadium, Kuwait City, on 8 January 2026, 'organized in collaboration with the Kuwait Football Association'."
+      },
+      "leagueId": "super-cups-abroad",
+      "endedOn": "2026-01",
+      "note": "One-off host of the 8 January 2026 edition; no financial details published. The 2026 edition (16 August 2026) was played at RC Lens' Stade Bollaert-Delelis in France (LFP, 6 Aug 2026) - no Gulf host."
+    }
+  ],
+  "claims": [
+    {
+      "id": "kuwait-exit-permit-2025",
+      "ownerIds": [
+        "government-of-kuwait"
+      ],
+      "text": "Kuwait announced that from July 2025 migrant workers need their employer's permission to leave the country; HRW called it an alarming step backwards that reinforces the kafala system and lets employers trap workers in abusive situations.",
+      "short": "Kuwait tightened kafala: employer exit permits for migrant workers from July 2025",
+      "source": {
+        "name": "Human Rights Watch - Kuwait's Exit Permit Requirement Puts Migrant Workers at Risk",
+        "date": "2025-06-15",
+        "url": "https://www.hrw.org/news/2025/06/15/kuwaits-exit-permit-requirement-puts-migrant-workers-at-risk"
+      },
+      "reviewed": false
+    }
+  ],
+  "proposedRatings": [
+    {
+      "sponsorId": "government-of-saudi-arabia",
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "claimIds": [
+        "saudi-executions-2024",
+        "khashoggi-assessment",
+        "saudi-executions-2026-record"
+      ],
+      "reasoning": "The sponsor is the Saudi state itself: it pays hosting fees to take its league's super cups abroad (Supercopa through at least 2029; Supercoppa 2018-2025). Same state tier already applied to Visit Saudi, Riyadh Season and Riyadh Air, using the government-of-saudi-arabia record (record 345 executions in 2024; Khashoggi assessment; 2026 execution surge)."
+    },
+    {
+      "sponsorId": "government-of-kuwait",
+      "tier": "serious",
+      "ownerId": "government-of-kuwait",
+      "claimIds": [
+        "kuwait-exit-permit-2025"
+      ],
+      "reasoning": "A state host paying for domestic super cups of other countries (Saudi Super Cup 2026; Trophée des Champions January 2026). Kuwait is a state with a documented kafala/exit-permit record (HRW 2025); if rated, state ownership puts it at serious under the rubric, pending a person's review."
+    }
+  ],
+  "unsourced": [
+    "Supercopa de España 2027 dates and venues: semifinal Barcelona v Atlético de Madrid, 2 February 2027, 20:00, at Fenerbahçe's stadium; semifinal Real Madrid v Real Sociedad, 3 February 2027, 20:00, at Beşiktaş's stadium; final 6 February 2027, 20:00, at Galatasaray's Ali Sami Yen (source: El Español, 2026-09-17, https://www.elespanol.com/deportes/futbol/20260917/estambul-toma-relevo-arabia-saudi-acogera-primera-vez-supercopa-espana-fechas-horarios-sedes/1003744387612_0.html, fetched; Istanbul was chosen from up to seven proposals; Turkish ministers Osman Aşkın Bak (Sports) and Mehmet Nuri Ersoy (Culture and Tourism) attended, with Saudi representatives backing the deal; broadcast reach claimed at ~150 million).",
+    "Supercopa de España: Saudi Arabia resumes hosting 'at least in 2028 and 2029' (El Español, 17 Sep 2026, URL above). The target's research notes say other Spanish reports add a year to 2030 as compensation - not confirmed by the article fetched; host-fee amounts for the Saudi deal not published.",
+    "Supercopa: the Istanbul deal keeps economic terms similar to Saudi Arabia's, with about EUR 40m split among the participating clubs (El Español, 17 Sep 2026) - who ultimately funds the Istanbul fee (TFF, Turkish state, or clubs) is not stated.",
+    "Supercoppa Italiana 2026-27 (Inter v Lazio or Final Four): venue and date still undecided as of August 2026; options floated were the USA, another international venue, or a year in Italy (source: Football Italia, 2026-05-11, https://football-italia.net/supercoppa-italiana-will-not-be-saudi-arabia/, quoting Lega Serie A president Luigi De Siervo on GR Parlamento Radio RAI). A Goal Italia piece of 24 August 2026 reportedly still found the venue undecided - not fetched this run. The bracket also needs an extra team because Inter won both the Scudetto and the Coppa Italia.",
+    "Supercoppa Italiana Saudi history (source: Lega Serie A, en.legaseriea.it): first Saudi edition Jeddah 2018 (Juventus beat Milan 1-0); 2019 final Juventus-Lazio 3-1; 2022 edition at King Fahd International Stadium (Inter beat Milan); a final-four edition won by Inter after beating Lazio and Napoli; the January 2025 edition (semifinals 2-3 January, final 6 January 2025, Inter v Atalanta and Juventus v Milan) and the December 2025 38th edition (semifinals 18-19 December, final 22 December) both at Al-Awwal Park / King Saud University Stadium, Riyadh (https://en.legaseriea.it/supercoppa/news/ea-sports-fc-supercup-20252026, https://en.legaseriea.it/supercoppa/news/the-ea-sports-fc-supercup-is-in-saudi-arabia, https://en.legaseriea.it/supercoppa/news/ea-sports-fc-supercup-ticketing-semifinals). The number of Saudi-hosted editions the RFEF-style contract covers, and the fee, are not published.",
+    "Supercoppa December 2025 final result: Napoli beat Bologna; per Lega Serie A's match article Napoli won the 38th edition (source: https://en.legaseriea.it/supercoppa/news/ea-sports-fc-supercup-napoli-bologna-battle-out, 22 Dec 2025).",
+    "Trophée des Champions 2026: played 16 August 2026, 20:45 CET, at Stade Bollaert-Delelis, Lens; RC Lens designated host after a draw in the presence of both clubs; PSG won a record 14 titles and Lens were appearing for the second time (source: LFP, 2026-08-06, https://ligue1.com/en/articles/l1_article_5270-lens-will-host-psg-in-trophee-des-champions). The result (PSG beat Lens) is from the season record but no match-report URL was opened this run.",
+    "Saudi Super Cup 2026: Kuwait's Jaber Al-Ahmad International Stadium hosts 19-23 December 2026; teams Al-Nassr, Al-Ahli, Al-Qadsiah, Al-Kholood; Kuwait FA president Sheikh Ahmad Al-Yousef Al-Sabah quoted; previous editions in Mecca, Riyadh, Jeddah, Abha, London, Abu Dhabi and Hong Kong; last edition in Hong Kong, Al-Ahli beat Al-Nassr 5-3 on penalties (source: Goal.com, 2026-09-14, https://www.goal.com/en/news/officially-gulf-state-to-host-the-saudi-super-cup/blt845cb914bedf1423). Contract term and hosting fee not published; the article carries an agency-style byline (Xinhua attribution box by Mohamed Mansi) and cites the SAFF website.",
+    "Saudi Super Cup: ownership of participating clubs (PIF: Al-Nassr, Al-Ahli; Aramco: Al-Qadsiah) is recorded under league saudi-pro-league; the Kuwait-hosted edition's commercial deals (title sponsor, stadium sponsor) are not published yet - draw only expected 14 October 2026.",
+    "Egyptian Super Cup: hosted in Abu Dhabi in 2024 and 2025 per the issue's research notes; no primary source found or opened this run; 2026 host unconfirmed.",
+    "Turkish Super Cup: the 2025 edition was reportedly played in Turkey in January 2026; the 2023 edition's Riyadh final (Galatasaray v Fenerbahçe) was reportedly cancelled after fan deaths; no primary source opened this run - needs verification.",
+    "RFEF (rfef.es) returned 403 to automated fetches per the issue's research notes; the El Español article and RFEF's own X post (17 September 2026) were used instead.",
+    "Trophée des Champions Kuwait edition attendance, kick-off time and broadcast figures: not published in the LFP article (published 29 Sep 2025, https://ligue1.com/en/articles/l1_article_3344-kuwait-to-host-the-trophee-des-champions); no Kuwait hosting-fee figure found.",
+    "Trophée des Champions: who pays the Kuwait host fee (LFP, Kuwait FA, or a Kuwaiti state body) is not stated in the LFP announcement."
+  ]
+}

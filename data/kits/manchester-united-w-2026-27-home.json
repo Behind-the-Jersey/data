@@ -1,0 +1,35 @@
+{
+  "id": "manchester-united-w-2026-27-home",
+  "clubId": "manchester-united-w",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "snapdragon",
+      "placement": "front",
+      "source": {
+        "name": "Manchester United, Microsoft Surface announcement",
+        "date": "2026-07-17",
+        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+        "note": "The article is about the Surface back-of-shirt deal; Snapdragon remains the shirt front from the existing club partnership (men's 2026/27 kit in normalized uses the same front). Women's-team-specific confirmation of the front placement not restated."
+      }
+    },
+    {
+      "sponsorId": "microsoft",
+      "placement": "back",
+      "source": {
+        "name": "Manchester United, Microsoft Surface announcement",
+        "date": "2026-07-17",
+        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+        "note": "Surface branding appears on the back of United Women's shirts across the 2026/27 campaign (men's domestic cup shirts and selected Academy kits covered separately)."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Snapdragon fronts the Manchester United Women shirt with Microsoft Surface on the back for 2026/27.",
+  "change": null
+}

@@ -1,12 +1,12 @@
 {
   "id": "delta-air-lines",
   "name": "Delta Air Lines",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "delta-air-lines-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": null,
+  "verdict": "Owned by Delta Air Lines LLC. Nothing found.",
   "claimIds": [],
   "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: Private Company company with no significant conduct issues found"
 }

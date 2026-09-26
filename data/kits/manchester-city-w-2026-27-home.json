@@ -1,0 +1,34 @@
+{
+  "id": "manchester-city-w-2026-27-home",
+  "clubId": "manchester-city-w",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "etihad-airways",
+      "placement": "front",
+      "source": {
+        "name": "City Football Group, Etihad partnership page",
+        "date": "2026-09-25",
+        "url": "https://www.cityfootballgroup.com/partners/etihad-airways/",
+        "note": "CFG page covers the club-wide Etihad partnership since 2009 and does not name the women's team; the Wikipedia table lists Etihad on the women's shirt."
+      }
+    },
+    {
+      "sponsorId": "joie",
+      "placement": "shorts",
+      "source": {
+        "name": "Manchester Evening News (via Wayback Machine)",
+        "date": "2023-09-14",
+        "url": "https://web.archive.org/web/20250724231747/https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-women-sponsors-joie-27709622"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Abu Dhabi's government pays for the front of the Manchester City Women shirt through Etihad.",
+  "change": null
+}

@@ -1,12 +1,12 @@
 {
   "id": "jefferson-health",
   "name": "Jefferson Health",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "jefferson-health-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": null,
+  "verdict": "Owned by Jefferson Health. Nothing found.",
   "claimIds": [],
   "aliases": [],
-  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement. Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
 }

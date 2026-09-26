@@ -1,0 +1,42 @@
+{
+  "id": "benfica-2026-27-home",
+  "clubId": "benfica",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "emirates",
+      "placement": "front",
+      "source": {
+        "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029'",
+        "date": "2024-08-14",
+        "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+      }
+    },
+    {
+      "sponsorId": "betano",
+      "placement": "sleeve",
+      "source": {
+        "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029' (notes Betano sleeve renewal through 2026-27)",
+        "date": "2024-08-14",
+        "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+      }
+    },
+    {
+      "sponsorId": "sagres",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Emirates front; Sagres back)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Front paid for by the Government of Dubai via Emirates.",
+  "change": null
+}

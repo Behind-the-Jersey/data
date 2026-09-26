@@ -1,0 +1,718 @@
+{
+ "target": "motogp",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/263",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "motogp",
+   "aliases": [
+    "moto gp",
+    "motogp world championship",
+    "fim motogp world championship",
+    "premier class"
+   ],
+   "sportId": "motorsport",
+   "name": "FIM MotoGP World Championship",
+   "clubCount": 11,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "11 MotoGP-class teams per the official motogp.com teams page (fetched 2026-09-25); every team name carries its title sponsor.",
+    "The official calendar lists 22 rounds for 2026; race title sponsors are shown on motogp.com/en/sponsors, not on the calendar.",
+    "The Qatar GP (Lusail) was moved from 10-12 Apr to 6-8 Nov 2026 after the Iran conflict; as of 19 Sep 2026 Dorna was still deciding whether it runs (Crash.net). No Kazakhstan round in 2026.",
+    "Sponsor placement here is mapped to the schema's front value from 'team title/name'; bike-livery placements do not fit the schema yet."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "aprilia-racing",
+   "name": "Aprilia Racing",
+   "shortName": "Aprilia Racing",
+   "code": "APR",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "aprilia"
+   ]
+  },
+  {
+   "id": "bk8-gresini-racing-motogp",
+   "name": "BK8 Gresini Racing MotoGP",
+   "shortName": "Gresini",
+   "code": "GRE",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "gresini racing",
+    "gresini motogp"
+   ]
+  },
+  {
+   "id": "ducati-lenovo-team",
+   "name": "Ducati Lenovo Team",
+   "shortName": "Ducati",
+   "code": "DUC",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "ducati corse"
+   ]
+  },
+  {
+   "id": "honda-hrc-castrol",
+   "name": "Honda HRC Castrol",
+   "shortName": "Honda HRC",
+   "code": "HRC",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "honda racing corporation",
+    "hrc"
+   ]
+  },
+  {
+   "id": "honda-lcr",
+   "name": "Honda LCR",
+   "shortName": "LCR",
+   "code": "LCR",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Monaco",
+   "crest": null,
+   "aliases": [
+    "lcr honda",
+    "castrol honda lcr",
+    "lucio cecchinello racing"
+   ]
+  },
+  {
+   "id": "monster-energy-yamaha-motogp",
+   "name": "Monster Energy Yamaha MotoGP",
+   "shortName": "Yamaha",
+   "code": "YAM",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "yamaha factory racing",
+    "monster energy yamaha"
+   ]
+  },
+  {
+   "id": "pertamina-enduro-vr46-racing-team",
+   "name": "Pertamina Enduro VR46 Racing Team",
+   "shortName": "VR46",
+   "code": "VR4",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "vr46 racing team",
+    "pertamina enduro vr46"
+   ]
+  },
+  {
+   "id": "prima-pramac-yamaha-motogp",
+   "name": "Prima Pramac Yamaha MotoGP",
+   "shortName": "Pramac",
+   "code": "PRA",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "pramac racing",
+    "pramac yamaha"
+   ]
+  },
+  {
+   "id": "red-bull-ktm-factory-racing",
+   "name": "Red Bull KTM Factory Racing",
+   "shortName": "KTM Factory",
+   "code": "KTM",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "Austria",
+   "crest": null,
+   "aliases": [
+    "ktm factory racing"
+   ]
+  },
+  {
+   "id": "red-bull-ktm-tech3",
+   "name": "Red Bull KTM Tech3",
+   "shortName": "Tech3",
+   "code": "TEC",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "tech3",
+    "ktm tech3"
+   ]
+  },
+  {
+   "id": "superfile-trackhouse-motogp-team",
+   "name": "SuperFile Trackhouse MotoGP Team",
+   "shortName": "Trackhouse",
+   "code": "TRK",
+   "sportId": "motorsport",
+   "leagueId": "motogp",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "trackhouse racing"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "government-of-indonesia",
+   "name": "Government of the Republic of Indonesia",
+   "type": "state",
+   "parentId": null,
+   "country": "Indonesia"
+  },
+  {
+   "id": "pertamina",
+   "name": "PT Pertamina (Persero)",
+   "type": "private-company",
+   "parentId": "government-of-indonesia",
+   "via": "Wholly state-owned Persero under Law No. 22 of 2001 on Oil and Gas",
+   "country": "Indonesia"
+  },
+  {
+   "id": "monster-beverage-corp",
+   "name": "Monster Beverage Corporation",
+   "type": "listed-company",
+   "parentId": null,
+   "note": "Nasdaq: MNST. The Coca-Cola Company (TCCC) owned approximately 20.9% of the common stock as of 13 Feb 2026 (10-K).",
+   "country": "United States"
+  },
+  {
+   "id": "bmw-ag",
+   "name": "BMW AG",
+   "type": "listed-company",
+   "parentId": null,
+   "country": "Germany"
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "pertamina",
+   "name": "Pertamina / Pertamina Enduro",
+   "ownerId": "pertamina",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "pertamina enduro",
+    "enduro",
+    "pt pertamina lubricants"
+   ],
+   "note": "Title sponsor of Pertamina Enduro VR46 Racing Team (2024-2026 per Crash.net, 2023-10-14) and title sponsor of the Pertamina Grand Prix of Indonesia (motogp.com/en/sponsors). PT Pertamina Lubricants is 99.96% held by PT Pertamina Patra Niaga, part of the Pertamina (Persero) downstream subholding, itself wholly state-owned."
+  },
+  {
+   "id": "bk8",
+   "name": "BK8",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "bk8 news"
+   ],
+   "note": "Title sponsor of Gresini Racing MotoGP for the 2025 and 2026 seasons (Gresini Racing announcement, 2025-02-24). Ownership not found on BK8's own site; not yet researched."
+  },
+  {
+   "id": "superfile",
+   "name": "SuperFile",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "superfile trackhouse"
+   ],
+   "note": "Multi-year title partner of Trackhouse MotoGP from 2026 (SportsMint Media, 2026-06-10); the team competes as SuperFile Trackhouse MotoGP Team. Ownership not yet researched."
+  },
+  {
+   "id": "prima-assicurazioni",
+   "name": "Prima Assicurazioni",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "prima"
+   ],
+   "note": "Title sponsor of Prima Pramac Yamaha MotoGP, confirmed again for the 2026 season (Yamaha Motor race release, 2026-01-14). Ownership not yet researched (prima.it blocks fetching)."
+  },
+  {
+   "id": "monster-energy",
+   "name": "Monster Energy",
+   "ownerId": "monster-beverage-corp",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "monster"
+   ],
+   "note": "Title sponsor of Monster Energy Yamaha MotoGP since 2019; team title sponsor confirmed for 2026 at the Jakarta launch (Yamaha Motor race release, 2026-01-22). Monster Energy is the brand of Monster Beverage Corporation (Nasdaq: MNST); Coca-Cola held about 20.9% as of 13 Feb 2026 per the FY2025 10-K. No state or fund owner."
+  },
+  {
+   "id": "michelin",
+   "name": "Michelin",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Tyre of MotoGP (motogp.com/en/sponsors) and title sponsor of the Grand Prix of France and Aragon. Compagnie Generale des Etablissements Michelin is listed on Euronext Paris; ownership chain not yet researched."
+  },
+  {
+   "id": "bmw-m",
+   "name": "BMW M",
+   "ownerId": "bmw-ag",
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "bmw m gmbh"
+   ],
+   "note": "Official Car of MotoGP (motogp.com/en/sponsors). BMW M is BMW AG's high-performance/motorsport division; BMW AG is a Frankfurt-listed manufacturer with no state shareholder."
+  }
+ ],
+ "kits": [
+  {
+   "id": "aprilia-racing-2026-home",
+   "clubId": "aprilia-racing",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "bk8-gresini-racing-motogp-2026-home",
+   "clubId": "bk8-gresini-racing-motogp",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "bk8",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - 'Pure essence': BK8 Gresini Racing MotoGP unveil 2026 colours",
+      "date": "2026-01-31",
+      "url": "https://www.motogp.com/en/news/2026/01/31/pure-essence-bk8-gresini-racing-motogp-unveil-2026-colours/826840"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "ducati-lenovo-team-2026-home",
+   "clubId": "ducati-lenovo-team",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "lenovo",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - Revealed: Ducati celebrate 100 with stunning new livery",
+      "date": "2026-01-19",
+      "url": "https://www.motogp.com/en/news/2026/01/19/revealed-ducati-celebrate-100-with-stunning-new-livery/825628"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "honda-hrc-castrol-2026-home",
+   "clubId": "honda-hrc-castrol",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "castrol",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - Honda HRC Castrol reveal 2026 colours",
+      "date": "2026-02-02",
+      "url": "https://www.motogp.com/en/news/2026/02/02/honda-hrc-castrol-reveal-2026-colours/827209"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "honda-lcr-2026-home",
+   "clubId": "honda-lcr",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "castrol",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - Zarco's Castrol Honda LCR & Moreira's all-new Pro Honda LCR liveries revealed",
+      "date": "2026-02-01",
+      "url": "https://www.motogp.com/en/news/2026/02/01/zarcos-castrol-honda-lcr-moreiras-all-new-pro-honda-lcr-liveries-revealed/827151"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "monster-energy-yamaha-motogp-2026-home",
+   "clubId": "monster-energy-yamaha-motogp",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "monster-energy",
+     "placement": "front",
+     "source": {
+      "name": "Yamaha Motor - Monster Energy Yamaha MotoGP Enter V4 Era and Unveil 2026 Livery at Indonesia Launch Event",
+      "date": "2026-01-22",
+      "url": "https://global.yamaha-motor.com/race/release/2026/003/"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "pertamina-enduro-vr46-racing-team-2026-home",
+   "clubId": "pertamina-enduro-vr46-racing-team",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "pertamina",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - BLACKANDLIGHT: new year, new colours for Pertamina Enduro VR46",
+      "date": "2026-01-14",
+      "url": "https://www.motogp.com/en/news/2026/01/14/blackandlight-new-year-new-colours-for-pertamina-enduro-vr46/825185"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "prima-pramac-yamaha-motogp-2026-home",
+   "clubId": "prima-pramac-yamaha-motogp",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "prima-assicurazioni",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - Prima Pramac Yamaha take the covers off 2026",
+      "date": "2026-01-13",
+      "url": "https://www.motogp.com/en/news/2026/01/13/prima-pramac-yamaha-take-the-covers-off-2026/825075"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "red-bull-ktm-factory-racing-2026-home",
+   "clubId": "red-bull-ktm-factory-racing",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "red-bull",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - Red Bull KTM Factory Racing and Tech3 unleash 2026 challengers",
+      "date": "2026-01-27",
+      "url": "https://www.motogp.com/en/news/2026/01/27/red-bull-ktm-factory-racing-and-tech3-unleash-2026-challengers/826283"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "red-bull-ktm-tech3-2026-home",
+   "clubId": "red-bull-ktm-tech3",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "red-bull",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - Red Bull KTM Factory Racing and Tech3 unleash 2026 challengers",
+      "date": "2026-01-27",
+      "url": "https://www.motogp.com/en/news/2026/01/27/red-bull-ktm-factory-racing-and-tech3-unleash-2026-challengers/826283"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "superfile-trackhouse-motogp-team-2026-home",
+   "clubId": "superfile-trackhouse-motogp-team",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026 season",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "superfile",
+     "placement": "front",
+     "source": {
+      "name": "MotoGP.com - Trackhouse pulls the covers off 2026 with two stunning liveries",
+      "date": "2026-01-21",
+      "url": "https://www.motogp.com/en/news/2026/01/21/trackhouse-pulls-the-covers-off-2026-with-two-stunning-liveries/825875"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  }
+ ],
+ "deals": [
+  {
+   "id": "motogp-qatar-airways-global",
+   "clubId": null,
+   "orgName": "MotoGP",
+   "sponsorId": "qatar-airways-global",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "MotoGP.com - Qatar Airways becomes Official Airline Partner and Official Cargo Airline Partner of MotoGP (Wayback copy; live page renders via JS)",
+    "date": "2024-05-09",
+    "url": "https://www.motogp.com/en/news/2024/05/09/qatar-airways-becomes-official-airline-partner-and-official-cargo-airline-partner-of-motogp/497485"
+   },
+   "note": "Qatar Airways is Official Airline Partner and Qatar Airways Cargo Official Cargo Airline Partner of MotoGP; the announcement says 'new multi-year partnership' (the target brief's 'three-year' wording was from search results, not the article). League-wide, so attached to no single team.",
+   "leagueId": "motogp"
+  },
+  {
+   "id": "motogp-tissot",
+   "clubId": null,
+   "orgName": "MotoGP",
+   "sponsorId": "tissot",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "MotoGP.com - Sponsors (Official Timekeeper)",
+    "date": "2026-09-25",
+    "url": "https://www.motogp.com/en/sponsors",
+    "note": "date is the date the page was checked; the page shows no deal dates"
+   },
+   "note": "Official Timekeeper of MotoGP; also title sponsor of the Grand Prix of the Netherlands.",
+   "leagueId": "motogp"
+  },
+  {
+   "id": "motogp-michelin",
+   "clubId": null,
+   "orgName": "MotoGP",
+   "sponsorId": "michelin",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "MotoGP.com - Sponsors (Official Tyre)",
+    "date": "2026-09-25",
+    "url": "https://www.motogp.com/en/sponsors",
+    "note": "date is the date the page was checked; the page shows no deal dates"
+   },
+   "note": "Official Tyre of MotoGP; also title sponsor of the Grands Prix of France and Aragon.",
+   "leagueId": "motogp"
+  },
+  {
+   "id": "motogp-bmw-m",
+   "clubId": null,
+   "orgName": "MotoGP",
+   "sponsorId": "bmw-m",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "MotoGP.com - Sponsors (Official Car)",
+    "date": "2026-09-25",
+    "url": "https://www.motogp.com/en/sponsors",
+    "note": "date is the date the page was checked; the page shows no deal dates"
+   },
+   "note": "Official Car of MotoGP.",
+   "leagueId": "motogp"
+  },
+  {
+   "id": "motogp-estrella-galicia",
+   "clubId": null,
+   "orgName": "MotoGP",
+   "sponsorId": "estrella-galicia",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "MotoGP.com - Sponsors (Official Beer)",
+    "date": "2026-09-25",
+    "url": "https://www.motogp.com/en/sponsors",
+    "note": "date is the date the page was checked; the page shows no deal dates"
+   },
+   "note": "Official Beer of MotoGP; also title sponsor of the Grands Prix of Brazil and Spain.",
+   "leagueId": "motogp"
+  },
+  {
+   "id": "motogp-dhl",
+   "clubId": null,
+   "orgName": "MotoGP",
+   "sponsorId": "dhl",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "MotoGP.com - Sponsors (Official Logistics Partner)",
+    "date": "2026-09-25",
+    "url": "https://www.motogp.com/en/sponsors",
+    "note": "date is the date the page was checked; the page shows no deal dates"
+   },
+   "note": "Official Logistics Partner of MotoGP.",
+   "leagueId": "motogp"
+  }
+ ],
+ "claims": [
+  {
+   "id": "indonesia-hrw-record",
+   "ownerIds": [
+    "government-of-indonesia"
+   ],
+   "text": "Human Rights Watch's 2026 world report records that President Prabowo expanded the military and placed active-duty personnel in civilian posts in his first year; in Papua, the Merauke food estate project forcibly displaced Indigenous communities and drove deforestation alongside the deployment of five new battalions; and in August 2025 police used excessive force to disperse protesters across 107 cities.",
+   "short": "Indonesia: military in civilian posts, Papua displacement and deforestation, excessive force against 2025 protesters",
+   "source": {
+    "name": "Human Rights Watch - World Report 2026, Indonesia chapter",
+    "date": "2026-01-15",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/indonesia"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "pertamina",
+   "tier": "concern",
+   "ownerId": "government-of-indonesia",
+   "claimIds": [
+    "indonesia-hrw-record"
+   ],
+   "reasoning": "Pertamina is wholly state-owned (Persero under Law 22/2001; the lubricants unit funding the team is 99.96% Patra Niaga, part of the Persero downstream subholding), so it carries the Indonesian state. Indonesia's documented record (military in civilian posts, Papua displacement, protest crackdowns) is real but milder than the Gulf sportswashing states, so concern rather than serious, matching how the method treated European state lotteries."
+  }
+ ],
+ "unsourced": [
+  "Race title sponsors of the 22 rounds of the 2026 calendar, as shown on motogp.com/en/sponsors (fetched 2026-09-25): PT Grand Prix of Thailand (PTT NGV/PTG Energy); Estrella Galicia 0,0 Grands Prix of Brazil and Spain; Red Bull Grands Prix of the United States and San Marino and the Rimini Riviera; Michelin Grands Prix of France and Aragon; Monster Energy Grands Prix of Catalunya and Czechia; Brembo Grand Prix of Italy; Tissot Grand Prix of the Netherlands; Liqui Moly Grand Prix of Germany; Qatar Airways Grands Prix of Great Britain, Austria and Qatar; Motul Grands Prix of Japan and Valencia; Pertamina Grand Prix of Indonesia; Petronas Grand Prix of Malaysia; Repsol Grand Prix of Portugal; plain Grand Prix of Hungary and Grand Prix of Australia. The event-host shape does not fit the schema yet.",
+  "The 2026 Qatar Airways Grand Prix of Qatar (Lusail) was moved from 10-12 Apr to 6-8 Nov because of the Iran conflict and as of 19 Sep 2026 was still undecided; Dorna CEO Ezpeleta said MotoGP is still 'willing to go' and noted the Austrian GP's Qatar Airways title 'may also be delaying the decision' (Crash.net, Lewis Duncan, 2026-09-19).",
+  "PETRONAS Grand Prix of Malaysia 2026 runs 30 Oct - 1 Nov at Sepang, per the circuit's official event page (sepangcircuit.com/events/petronas-grand-prix-of-malaysia-2026-overview.html); PETRONAS is also Moto2/Moto3 Fuel Partner (motogp.com/en/sponsors).",
+  "BK8's Gresini deal: Gresini's own announcement ('BK8 NEWS will become the Title Sponsor of the Faenza-based team for the 2025 and 2026 seasons', gresiniracing.com, published 2025-02-24). BK8's corporate ownership was not found; its site was not reachable during research.",
+  "SuperFile signed a 'multi-year title partnership' with Trackhouse and the team competes as SuperFile Trackhouse MotoGP Team (SportsMint Media, 2026-06-10); SuperFile's ownership was not found.",
+  "Prima Assicurazioni 'will once again be the title sponsor of Prima Pramac Yamaha MotoGP for the 2026 season' (Yamaha Motor race release, global.yamaha-motor.com/race/release/2026/001/, dated 14 Jan 2026). Prima's shareholder chain could not be checked: prima.it serves a Cloudflare challenge to automated fetching.",
+  "Monster Energy became Yamaha's MotoGP title sponsor in 2019, announced in Jakarta (Yamaha Motor race release, 2026-01-22); Monster Beverage Corporation's FY2025 10-K shows Nasdaq listing (MNST), ~8.1% held by co-founders Sacks/Schlosberg and ~20.9% by The Coca-Cola Company as of 13 Feb 2026 - no state or fund owner.",
+  "Tech3 was acquired by IKON Capital, BOLT Ventures and Main Street Advisors, per motogp.com news 'IKON Capital, BOLT Ventures and Main Street Advisors complete acquisition of MotoGP's Tech3 team' (2026-01-30); the new owners' backgrounds were not researched for this target.",
+  "Aprilia Racing carries no external title sponsor in its 2026 team name; its livery launch is 'Aprilia Racing roar into 2026: new livery revealed in Milan' (motogp.com, 2026-01-14). Sponsor-level detail of its bike livery does not fit the kit schema.",
+  "Pertamina's Indonesian links beyond the team: RRI (rri.co.id) reports Pertamina remains main sponsor of MotoGP Mandalika through 2026, and the circuit is named Pertamina Mandalika International Circuit; neither page was openable during research (search-result leads only).",
+  "The Qatar Airways deal term: the target brief's lead said 'three-year partnership starting 2024', but the MotoGP.com article itself (read via Wayback) says only 'new multi-year partnership'; the three-year reading is a search-result gloss, and renewal after 2026 is unverified.",
+  "MotoGP Supplier/Services relationships not carried into the schema: Oakley (Eyewear), Alpinestars (Exclusive Clothing), Vislink, Marelli, Tata Communications, Prosecco, Quintevents, Leo Thailand (Partner of MotoGP), Quirosalud, Iveco, Brembo (Braking Inspiration Partner), Wurth, Bitget (Regional Partner), Audio-Technica, VMoto, Hertz; Moto2: AMG (Tent), Pirelli (Exclusive Tyre), Petronas (Fuel), STM Italy (Clutch), Marelli, Triumph (Exclusive Engine), Repsol (Exclusive Oil); Moto3: Pirelli, Petronas, Dell'Orto (ECU), Repsol (motogp.com/en/sponsors, fetched 2026-09-25)."
+ ]
+}

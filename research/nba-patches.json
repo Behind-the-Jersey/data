@@ -1,0 +1,121 @@
+{
+  "target": "nba-patches",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/24",
+  "sports": [],
+  "leagues": [
+    {
+      "id": "nba",
+      "aliases": [
+        "basketball"
+      ],
+      "sportId": "basketball",
+      "name": "NBA",
+      "country": "USA and Canada",
+      "clubCount": 30,
+      "season": "2026-27",
+      "status": "partial",
+      "notes": [
+        "All 30 clubs have 2026-27 jersey kits; 29 clubs have a verified patch partner with a source, Portland Trail Blazers has none (Zoomph, updated 2026-08-11, lists 'No Jersey Sponsor').",
+        "Patches are sponsors ON the jersey kit with placement 'patch' (issue #24 modelling).",
+        "Visit Rwanda (Rwanda Development Board) is the Clippers' exclusive jersey patch sponsor from 2025-26 (Clippers release, 29 Sep 2025).",
+        "League-level partners include Google (Official Fan Phone of the NBA, 2021) and Wilson (official game ball, 2021-22) - pr.nba.com releases.",
+        "LA Clippers x Visit Rwanda deal value not disclosed (Clippers release, 29 Sep 2025)."
+      ]
+    }
+  ],
+  "clubs": [],
+  "owners": [
+    {
+      "id": "amer-sports",
+      "name": "Amer Sports, Inc.",
+      "type": "listed-company",
+      "country": "Finland",
+      "note": "Parent of Wilson Sporting Goods; shares listed on the New York Stock Exchange (amersports.com).",
+      "parentId": null
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "wilson",
+      "name": "Wilson Sporting Goods",
+      "ownerId": "amer-sports",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Official game ball of the NBA, WNBA, NBA G League, NBA 2K League and BAL (pr.nba.com, 13 May 2020). An NBA league partner, not a shirt sponsor."
+    }
+  ],
+  "kits": [],
+  "deals": [
+    {
+      "id": "clippers-visit-rwanda",
+      "clubId": "la-clippers",
+      "orgName": null,
+      "sponsorId": "visit-rwanda",
+      "placement": "partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "LA Clippers press release (NBA.com): Visit Rwanda Lands in Los Angeles",
+        "date": "2025-09-29",
+        "url": "https://www.nba.com/clippers/news/visit-rwanda-lands-in-los-angeles",
+        "note": "Visit Rwanda is the exclusive jersey patch sponsor of the Clippers (all game and practice jerseys) and coffee sponsor of Intuit Dome; multi-year; Klutch Sports was the agency. Value not disclosed."
+      },
+      "note": "Value not disclosed. Multi-year; Visit Rwanda is the tourism brand of the Rwanda Development Board."
+    },
+    {
+      "id": "nba-google",
+      "clubId": null,
+      "orgName": "NBA",
+      "sponsorId": "google",
+      "placement": "league-partner",
+      "from": "2021",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "NBA Communications (pr.nba.com): Google and the NBA partnership",
+        "date": "2021-10-18",
+        "url": "https://pr.nba.com/google-nba-partnership/",
+        "note": "Multiyear marketing and technology partnership; Google Pixel the Official Fan Phone of the NBA, G League and 2K League."
+      },
+      "leagueId": "nba",
+      "note": "League-wide partner, attached to no single club."
+    },
+    {
+      "id": "nba-wilson",
+      "clubId": null,
+      "orgName": "NBA",
+      "sponsorId": "wilson",
+      "placement": "league-partner",
+      "from": "2021",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "NBA Communications (pr.nba.com): Wilson to become official game ball of the NBA, WNBA, NBA G League, NBA 2K League and BAL",
+        "date": "2020-05-13",
+        "url": "https://pr.nba.com/wilson-nba-global-partnership/",
+        "note": "Multiyear global partnership; official game ball from the 2021-22 season."
+      },
+      "leagueId": "nba",
+      "note": "League-wide partner, attached to no single club."
+    }
+  ],
+  "claims": [],
+  "proposedRatings": [],
+  "unsourced": [
+    "Portland Trail Blazers 2026-27 patch conflict: the club named Brightside Windows official jersey patch partner on 30 Sep 2024 (nba.com/blazers, opened, https://www.nba.com/blazers/news/portland-trail-blazers-and-brightside-windows-announce-expansive-jersey-patch-partnership), but Zoomph's NBA patch guide (updated 2026-08-11, https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/) lists 'Portland Trail Blazers: No Jersey Sponsor' for 2026/27, and issue #24's closing comment also records the Blazers as without a 2026-27 patch partner. Whether the Brightside deal ended or continues is unconfirmed; no kit sponsor was added.",
+    "Zoomph's guide (updated 2026-08-11) conflicts with club announcements on three clubs: it lists 'Milwaukee Bucks: Motorola' (club announced ULINE on 21 Sep 2026, https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner), 'Utah Jazz: LiveView Technologies (LVT)' (club announced HealthEquity on 17 Jun 2026, https://utahjazz.com/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1) and 'Sacramento kings: Phoong Law' (SBJ reported Sutter Health on 12 May 2026, https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor). Its per-team stats are labelled 2025/26 despite a 2026/27 intro, so the club announcements were taken as correct.",
+    "Phoenix Suns patch partner PayPal: the only season-current listing found is Zoomph's guide (updated 2026-08-11, 'Phoenix Suns: PayPal'); PayPal's own newsroom no longer lists the 2023 extension press release ('through the 2026 NBA season') and the original 2018 announcement URL is dead. A club-side 2026-27 source is still needed.",
+    "Golden State Warriors x IREN value: Sportico reported the sponsorship at about $50m a year per the Bay Area News Group report (https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor, 27 Jun 2026); the club did not disclose terms, so the figure is a press estimate and not recorded in the deal.",
+    "IREN Ltd is described as Australia-based, vertically integrated AI cloud provider (Bay Area News Group, 27 Jun 2026); its NYSE listing and corporate structure were not independently confirmed from a primary filing in this pass.",
+    "Crypto.com's operating chain (Foris DAX Asia, Singapore; Foris DAX MT, Malta; Foris Holdings KY, Cayman Islands) rests on the OCC conditional trust-charter approval already recorded in normalized claims; Crypto.com's own legal/licences pages name no entities in fetchable text, so no fresh primary source was added.",
+    "JPMorganChase patch deal start date: the JPMorganChase newsroom release (8 Jul 2026, https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs) says multi-year but shows no start season in fetchable text; 'from 2026' is inferred from the announcement date.",
+    "NBA league-level partner list for 2026-27: SportsPro's Commercial Guide page (https://www.sportspro.com/commercial-guide/nba/league-wide-partners/sponsors/) renders no sponsor names to fetchable content, and SBJ articles are paywalled; only Google (2021) and Wilson (2020) are recorded from pr.nba.com releases. The NBA had ~48-51 league marketing partners per SBJ (Dec 2021, Nov 2024) - the rest are unlisted here.",
+    "StockX source URL returns 403 to automated fetches (https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership); content confirmed via fetch of the page text: multi-year deal, logo on front left chest from 2024-25 (published 25 Sep 2024).",
+    "Visit Rwanda is also an official tourism sponsor of the LA Rams, SoFi Stadium and Hollywood Park (same 29 Sep 2025 Clippers release); those NFL/sponsorship facts are out of this target's club-shirt scope and unrecorded."
+  ]
+}

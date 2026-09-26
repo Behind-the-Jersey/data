@@ -1,0 +1,20 @@
+{
+  "id": "ufc",
+  "aliases": [
+    "ultimate fighting championship",
+    "ufc"
+  ],
+  "sportId": "combat-sports",
+  "name": "UFC (Ultimate Fighting Championship)",
+  "country": "United States",
+  "season": "2026",
+  "status": "not-started",
+  "notes": [
+    "Event-host shape: UFC stages about 40 events a year (numbered cards, Fight Nights); the 2026 list comes from UFC.com and the '2026 in UFC' schedule. No event entity exists in the schema yet, so events are recorded in unsourced, not as clubs.",
+    "UFC is part of TKO Group Holdings (NYSE: TKO), a controlled company: its FY2024 10-K states Endeavor subsidiaries held about 53.9% of voting interests, and after Silver Lake's take-private of Endeavor (completed 24 Mar 2025) Endeavor retains its controlling stake in TKO.",
+    "Abu Dhabi: UFC and DCT Abu Dhabi (Department of Culture and Tourism - Abu Dhabi) have partnered since 2010 (formal partnership 2019), extended in October 2023 through 2028; 2026 brings UFC Fight Night 282 (25 Jul) and UFC 333 (24 Oct), both at Etihad Arena, plus Abu Dhabi Showdown Week.",
+    "Qatar: Visit Qatar hosted UFC's first Qatar event in Doha in November 2025 and announced the return, UFC Fight Night 294, for 21 Nov 2026.",
+    "Saudi Arabia: Riyadh Season (GEA) hosted UFC Fight Night in Riyadh on 1 Feb 2025; no UFC event in Saudi Arabia appears on the 2026 schedule.",
+    "Parent-company link: TKO's Zuffa Boxing promotion is a joint venture with Sela, a Public Investment Fund company, announced 5 Mar 2025 - a TKO corporate deal, separate from UFC event hosting."
+  ]
+}

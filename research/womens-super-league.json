@@ -1,0 +1,1335 @@
+{
+ "target": "womens-super-league",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/262",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "womens-super-league",
+   "aliases": [
+    "wsl",
+    "barclays women's super league"
+   ],
+   "sportId": "soccer",
+   "name": "Women's Super League",
+   "country": "England",
+   "clubCount": 14,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "2026/27 is the first WSL season with 14 clubs, expanded from 12: Birmingham City (WSL2 champions), Crystal Palace (runners-up) and Charlton Athletic (play-off winners) were promoted; no club was relegated in 2025/26.",
+    "Title-sponsored by Barclays since 2019/20; Sky Sports shows the league from 2025/26 under a five-year UK broadcast deal.",
+    "Run by WSL Football, a company split from the FA."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "arsenal-w",
+   "name": "Arsenal Women",
+   "shortName": "Arsenal W",
+   "code": "ARW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "arsenal women fc"
+   ]
+  },
+  {
+   "id": "aston-villa-w",
+   "name": "Aston Villa Women",
+   "shortName": "Aston Villa W",
+   "code": "AVW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "aston villa women fc"
+   ]
+  },
+  {
+   "id": "birmingham-city-w",
+   "name": "Birmingham City Women",
+   "shortName": "Birmingham City W",
+   "code": "BCW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "birmingham city women fc"
+   ]
+  },
+  {
+   "id": "brighton-and-hove-albion-w",
+   "name": "Brighton & Hove Albion Women",
+   "shortName": "Brighton W",
+   "code": "BHW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "brighton women",
+    "brighton and hove albion women fc"
+   ]
+  },
+  {
+   "id": "charlton-athletic-w",
+   "name": "Charlton Athletic Women",
+   "shortName": "Charlton W",
+   "code": "CAW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "charlton athletic women fc"
+   ]
+  },
+  {
+   "id": "chelsea-w",
+   "name": "Chelsea Women",
+   "shortName": "Chelsea W",
+   "code": "CHW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "chelsea women fc"
+   ]
+  },
+  {
+   "id": "crystal-palace-w",
+   "name": "Crystal Palace Women",
+   "shortName": "Crystal Palace W",
+   "code": "CPW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "crystal palace women fc"
+   ]
+  },
+  {
+   "id": "everton-w",
+   "name": "Everton Women",
+   "shortName": "Everton W",
+   "code": "EVW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "everton women fc"
+   ]
+  },
+  {
+   "id": "liverpool-w",
+   "name": "Liverpool Women",
+   "shortName": "Liverpool W",
+   "code": "LIW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "liverpool women fc"
+   ]
+  },
+  {
+   "id": "london-city-lionesses",
+   "name": "London City Lionesses",
+   "shortName": "London City",
+   "code": "LCL",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "london city lionesses fc"
+   ]
+  },
+  {
+   "id": "manchester-city-w",
+   "name": "Manchester City Women",
+   "shortName": "Man City W",
+   "code": "MCW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "manchester city women fc"
+   ]
+  },
+  {
+   "id": "manchester-united-w",
+   "name": "Manchester United Women",
+   "shortName": "Man Utd W",
+   "code": "MUW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "manchester united women fc"
+   ]
+  },
+  {
+   "id": "tottenham-hotspur-w",
+   "name": "Tottenham Hotspur Women",
+   "shortName": "Tottenham W",
+   "code": "THW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "tottenham women fc",
+    "spurs women"
+   ]
+  },
+  {
+   "id": "west-ham-united-w",
+   "name": "West Ham United Women",
+   "shortName": "West Ham W",
+   "code": "WHW",
+   "sportId": "soccer",
+   "leagueId": "womens-super-league",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "west ham united women fc"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "london-city-lionesses-holding",
+   "name": "Kynisca (Michele Kang)",
+   "type": "private-company",
+   "parentId": null,
+   "country": "USA",
+   "via": "Michele Kang's Kynisca Sports group, which also owns Washington Spirit and OL Lyonnes"
+  },
+  {
+   "id": "michele-kang",
+   "name": "Michele Kang",
+   "type": "private-company",
+   "parentId": null,
+   "country": "USA",
+   "via": "Founder and owner of Kynisca Sports International"
+  },
+  {
+   "id": "entain",
+   "name": "Entain plc",
+   "type": "listed-company",
+   "parentId": null,
+   "country": "United Kingdom",
+   "note": "LSE-listed gambling group; owner of Coral (Ladbrokes Coral)."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "coral",
+   "name": "Coral",
+   "ownerId": "entain-plc",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Entain plc's UK betting brand; first front-of-shirt deal in its history, on Birmingham City men's and women's shirts from 2026/27."
+  },
+  {
+   "id": "rsk-group",
+   "name": "RSK Group",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "rsk"
+   ],
+   "note": "UK environmental, engineering and technical services group; Charlton's sole front-of-shirt sponsor for men's and women's first teams since 2025/26."
+  },
+  {
+   "id": "lilley-plummer-risks",
+   "name": "Lilley Plummer Risks",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Insurance broker owned by Goldman Sachs since 2024; West Ham's official sleeve partner from 2026/27."
+  },
+  {
+   "id": "paul-robinson-solicitors",
+   "name": "Paul Robinson Solicitors",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Essex law firm; West Ham Women's back-of-shirt partner since July 2025."
+  },
+  {
+   "id": "joie",
+   "name": "Joie",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "British baby-gear brand; Manchester City Women's team partner since March 2023, and the women's team's stadium is named the Joie Stadium."
+  },
+  {
+   "id": "sky-sports",
+   "name": "Sky Sports",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "sky"
+   ],
+   "note": "Comcast-owned broadcaster; WSL principal partner and UK broadcaster from 2025/26."
+  },
+  {
+   "id": "british-gas",
+   "name": "British Gas",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "centrica"
+   ],
+   "note": "Energy supplier owned by Centrica; official energy partner of the WSL and WSL2 from 2025/26."
+  },
+  {
+   "id": "tesco",
+   "name": "Tesco",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "UK-listed supermarket; WSL major partner per wslfootball.com."
+  },
+  {
+   "id": "wtw",
+   "name": "WTW",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "willis towers watson"
+   ],
+   "note": "Listed insurance broker; WSL major partner per wslfootball.com (site blocked verification of details)."
+  },
+  {
+   "id": "ea-sports-fc",
+   "name": "EA Sports FC",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ea fc"
+   ],
+   "note": "Electronic Arts football-game brand; WSL major partner per wslfootball.com."
+  },
+  {
+   "id": "subway",
+   "name": "Subway",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "QSR franchise chain; WSL minor partner per wslfootball.com."
+  },
+  {
+   "id": "bbc",
+   "name": "BBC",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "british broadcasting corporation"
+   ],
+   "note": "UK public broadcaster; WSL minor partner and co-broadcaster per wslfootball.com."
+  },
+  {
+   "id": "skoda",
+   "name": "Škoda Auto",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "skoda uk",
+    "skoda auto"
+   ],
+   "note": "Czech car maker (Volkswagen Group); Chelsea Women's first Official Back of Shirt Partner since the May 2025 extension, after becoming the team's Official Car Partner at the start of 2024."
+  },
+  {
+   "id": "here-we-flo",
+   "name": "Here We Flo",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "flo"
+   ],
+   "note": "Female-owned period-care brand; Chelsea FC Women's Official Back of Short partner per chelseafc.com."
+  },
+  {
+   "id": "todaytix",
+   "name": "TodayTix",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "todaytix group"
+   ],
+   "note": "Theatre and live-experience ticketing platform; Charlton Athletic's Official Experience Partner on a two-year deal from June 2026, on the back of the men's and women's first-team shirts."
+  },
+  {
+   "id": "ggm-gastro",
+   "name": "GGM Gastro",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "German commercial catering-equipment supplier; Official Partner of Everton Women from October 2025 with its mark on the back of the shorts."
+  }
+ ],
+ "kits": [
+  {
+   "id": "arsenal-w-2026-27-home",
+   "clubId": "arsenal-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "emirates",
+     "placement": "front",
+     "source": {
+      "name": "Arsenal / Emirates renewal coverage (Sporting Goods Intelligence)",
+      "date": "2026-08-06",
+      "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article",
+      "note": "Renewal to 2033 covers front-of-shirt and training kit; the men's kit entry uses the same source. Women's-team-specific placement not restated in the renewal announcement."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Dubai's government pays for the front of the Arsenal Women shirt through Emirates.",
+   "change": null
+  },
+  {
+   "id": "aston-villa-w-2026-27-home",
+   "clubId": "aston-villa-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "front",
+     "source": {
+      "name": "SportsPro",
+      "date": "2026-07-15",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Rwanda's government takes the front of the Aston Villa Women shirt, worth up to £20m a year across the club.",
+   "change": {
+    "kind": "worse",
+    "text": "Worse than last season: Visit Rwanda took the front",
+    "badge": "+ Visit Rwanda"
+   }
+  },
+  {
+   "id": "birmingham-city-w-2026-27-home",
+   "clubId": "birmingham-city-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "coral",
+     "placement": "front",
+     "source": {
+      "name": "Gambling News",
+      "date": "2026-07-28",
+      "url": "https://www.gamblingnews.com/news/birmingham-city-welcomes-entains-coral-as-front-of-shirt-sponsor-in-2026-27/"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Entain's Coral betting brand sits on the front of the Birmingham City Women shirt, its first front-of-shirt deal.",
+   "change": {
+    "kind": "worse",
+    "text": "Worse than last season: Coral took the front",
+    "badge": "+ Coral"
+   }
+  },
+  {
+   "id": "charlton-athletic-w-2026-27-home",
+   "clubId": "charlton-athletic-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "rsk-group",
+     "placement": "front",
+     "source": {
+      "name": "Charlton Athletic FC, official announcement",
+      "date": "2025-05-22",
+      "url": "https://www.cafc.co.uk/news/charlton-announce-new-partnership-rsk"
+     }
+    },
+    {
+     "sponsorId": "todaytix",
+     "placement": "back",
+     "source": {
+      "name": "Charlton Athletic FC, TodayTix announcement",
+      "date": "2026-06-30",
+      "url": "https://www.cafc.co.uk/news/todaytix-announced-official-experience-partner",
+      "note": "Two-year deal from June 2026 puts the TodayTix logo on the back of the men's and women's first-team shirts; confirmed on the 2026/27 Reebok home kit (2 Jul 2026) and away kit (19 Aug 2026), which women's first-teamers modelled."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "RSK Group, a UK engineering and environmental services group, fronts the Charlton Women shirt, with TodayTix on the back.",
+   "change": {
+    "kind": "better",
+    "text": "New to the WSL: promoted from WSL2 as play-off winners",
+    "badge": "Promoted"
+   }
+  },
+  {
+   "id": "chelsea-w-2026-27-home",
+   "clubId": "chelsea-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "circle-usdc",
+     "placement": "front",
+     "source": {
+      "name": "Chelsea FC, Circle partner page",
+      "date": "2026-09-25",
+      "url": "https://www.chelseafc.com/en/circle",
+      "note": "Circle Internet Group is a Principal Partner and official front-of-shirt partner beginning with the 2026/27 season; in 2026/27 the Circle and USDC brands appear on the front of Chelsea's Men's, Women's and Academy shirts."
+     }
+    },
+    {
+     "sponsorId": "skoda",
+     "placement": "back",
+     "source": {
+      "name": "Chelsea FC, Škoda partner page",
+      "date": "2026-09-25",
+      "url": "https://www.chelseafc.com/en/skoda",
+      "note": "Chelsea FC Women first teamed up with Škoda UK at the start of 2024 as Official Car Partner; the May 2025 extension established Škoda as Chelsea Women's first Official Back of Shirt Partner."
+     }
+    },
+    {
+     "sponsorId": "here-we-flo",
+     "placement": "shorts",
+     "source": {
+      "name": "Chelsea FC, Here We Flo partner page",
+      "date": "2026-09-25",
+      "url": "https://www.chelseafc.com/en/partner-page-flo",
+      "note": "Here We Flo is Chelsea FC Women's Official Back of Short partner."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Circle's USDC stablecoin takes the front of the Chelsea Women shirt, with Škoda on the back and Here We Flo on the shorts.",
+   "change": null
+  },
+  {
+   "id": "everton-w-2026-27-home",
+   "clubId": "everton-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "ggm-gastro",
+     "placement": "shorts",
+     "source": {
+      "name": "Everton FC, official announcement (club news CMS)",
+      "date": "2025-10-10",
+      "url": "https://www.evertonfc.com/news/2025/october/10/everton-women-partner-with-ggm-gastro/",
+      "note": "GGM Gastro became an Official Partner of Everton Women in their first season at Goodison Park, with the brand mark on the back of the shorts worn by Everton Women; article body read via the club's news CMS (article bf9b9b90-a5c2-11f0-a06d-1b26a8313bb6)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "German catering-equipment supplier GGM Gastro pays for the back of the Everton Women shorts.",
+   "change": null
+  },
+  {
+   "id": "manchester-united-w-2026-27-home",
+   "clubId": "manchester-united-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "snapdragon",
+     "placement": "front",
+     "source": {
+      "name": "Manchester United, Microsoft Surface announcement",
+      "date": "2026-07-17",
+      "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+      "note": "The article is about the Surface back-of-shirt deal; Snapdragon remains the shirt front from the existing club partnership (men's 2026/27 kit in normalized uses the same front). Women's-team-specific confirmation of the front placement not restated."
+     }
+    },
+    {
+     "sponsorId": "microsoft",
+     "placement": "back",
+     "source": {
+      "name": "Manchester United, Microsoft Surface announcement",
+      "date": "2026-07-17",
+      "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+      "note": "Surface branding appears on the back of United Women's shirts across the 2026/27 campaign (men's domestic cup shirts and selected Academy kits covered separately)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Snapdragon fronts the Manchester United Women shirt with Microsoft Surface on the back for 2026/27.",
+   "change": null
+  },
+  {
+   "id": "tottenham-hotspur-w-2026-27-home",
+   "clubId": "tottenham-hotspur-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "aia",
+     "placement": "front",
+     "source": {
+      "name": "Tottenham Hotspur, Kraken partnership announcement (AIA front carried over)",
+      "date": "2024-07-16",
+      "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+      "note": "The Kraken article names AIA only implicitly via the existing shirt deal; AIA as front sponsor across the club is carried from the men's 2026/27 kit in normalized. Women's-specific front confirmation not restated."
+     }
+    },
+    {
+     "sponsorId": "kraken",
+     "placement": "sleeve",
+     "source": {
+      "name": "Tottenham Hotspur, official announcement",
+      "date": "2024-07-16",
+      "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+      "note": "Kraken became the club's first Official Crypto and Web3 Partner and the Official Sleeve Partner for the club's Men's and Women's teams from 2024/25."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "AIA fronts the Tottenham Women shirt with crypto platform Kraken on the sleeve.",
+   "change": null
+  },
+  {
+   "id": "london-city-lionesses-2026-27-home",
+   "clubId": "london-city-lionesses",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "nike",
+     "placement": "front",
+     "source": {
+      "name": "London City Lionesses, official announcement",
+      "date": "2026-09-03",
+      "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Nike put its swoosh on the front of the London City Lionesses shirt in what owner Michele Kang calls a record women's shirt deal.",
+   "change": {
+    "kind": "better",
+    "text": "New to the WSL: promoted as WSL2 champions with Nike on the front",
+    "badge": "Promoted"
+   }
+  },
+  {
+   "id": "manchester-city-w-2026-27-home",
+   "clubId": "manchester-city-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "etihad-airways",
+     "placement": "front",
+     "source": {
+      "name": "City Football Group, Etihad partnership page",
+      "date": "2026-09-25",
+      "url": "https://www.cityfootballgroup.com/partners/etihad-airways/",
+      "note": "CFG page covers the club-wide Etihad partnership since 2009 and does not name the women's team; the Wikipedia table lists Etihad on the women's shirt."
+     }
+    },
+    {
+     "sponsorId": "joie",
+     "placement": "shorts",
+     "source": {
+      "name": "Manchester Evening News (via Wayback Machine)",
+      "date": "2023-09-14",
+      "url": "https://web.archive.org/web/20250724231747/https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-women-sponsors-joie-27709622"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Abu Dhabi's government pays for the front of the Manchester City Women shirt through Etihad.",
+   "change": null
+  },
+  {
+   "id": "west-ham-united-w-2026-27-home",
+   "clubId": "west-ham-united-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "boylesports",
+     "placement": "front",
+     "source": {
+      "name": "SportsMint Media (quoting West Ham announcement)",
+      "date": "2026-06-30",
+      "url": "https://sportsmintmedia.com/boyle-sports-takes-centre-stage-on-west-ham-united-shirts-for-2026-27/"
+     }
+    },
+    {
+     "sponsorId": "lilley-plummer-risks",
+     "placement": "sleeve",
+     "source": {
+      "name": "SportsMint Media (quoting West Ham announcement)",
+      "date": "2026-07-03",
+      "url": "https://sportsmintmedia.com/lilley-plummer-risks-upgrades-partnership-to-become-west-ham-uniteds-sleeve-sponsor/",
+      "note": "Announced as official sleeve partner for the club's first-team training apparel; women's-shirt sleeve placement not stated explicitly."
+     }
+    },
+    {
+     "sponsorId": "paul-robinson-solicitors",
+     "placement": "back",
+     "source": {
+      "name": "SportsMint Media",
+      "date": "2025-07-15",
+      "url": "https://sportsmintmedia.com/paul-robinson-solicitors-joins-west-ham-united-women-as-back-of-shirt-partner/"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "BoyleSports betting sits on the front of the West Ham Women shirt.",
+   "change": null
+  },
+  {
+   "id": "brighton-and-hove-albion-w-2026-27-home",
+   "clubId": "brighton-and-hove-albion-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "crystal-palace-w-2026-27-home",
+   "clubId": "crystal-palace-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  },
+  {
+   "id": "liverpool-w-2026-27-home",
+   "clubId": "liverpool-w",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [],
+   "sponsorsComplete": false,
+   "summary": null,
+   "change": null
+  }
+ ],
+ "deals": [
+  {
+   "id": "villa-w-visit-rwanda",
+   "clubId": "aston-villa-w",
+   "orgName": null,
+   "sponsorId": "visit-rwanda",
+   "placement": "front",
+   "from": "2026-27",
+   "to": null,
+   "value": {
+    "amount": 20,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 26.7
+   },
+   "source": {
+    "name": "SportsPro (citing The Athletic)",
+    "date": "2026-07-15",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
+    "note": "Club-wide figure: up to £20m a year if bonuses are met, across men's, women's and academy shirts; the women's share is not stated."
+   },
+   "note": "Replaces Betano as the club's principal partner. Amnesty International warned the deal is sportswashing."
+  },
+  {
+   "id": "wsl-barclays",
+   "clubId": null,
+   "orgName": "Barclays",
+   "sponsorId": "barclays",
+   "placement": "league-partner",
+   "from": "2019-20",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Barclays, official WSL sponsorship page",
+    "date": "2026-09-25",
+    "url": "https://home.barclays/who-we-are/sponsorship/womens-super-league/",
+    "note": "Title sponsor of the WSL since the 2019/20 season; current renewal length not published."
+   },
+   "note": "Title sponsor of the Barclays Women's Super League since 2019/20."
+  },
+  {
+   "id": "wsl-sky-sports",
+   "clubId": null,
+   "orgName": "Sky Sports",
+   "sponsorId": "sky-sports",
+   "placement": "league-partner",
+   "from": "2025-26",
+   "to": "2029-30",
+   "value": {
+    "amount": 65,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "5 years",
+    "upTo": true,
+    "usdApprox": 87
+   },
+   "source": {
+    "name": "SportsPro",
+    "date": "2026-09-25",
+    "url": "https://www.sportspro.com/news/sky-sports-bbc-womens-super-league-tv-deal/",
+    "note": "Five-year UK rights deal with Sky Sports and the BBC, worth about £65m. Broadcast rights, not a shirt partnership; recorded here as a league partner because Sky is also a WSL principal partner."
+   },
+   "note": "Broadcast rights, not sponsorship — the site should show it as a league partner."
+  },
+  {
+   "id": "wsl-british-gas",
+   "clubId": null,
+   "orgName": "British Gas",
+   "sponsorId": "british-gas",
+   "placement": "league-partner",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "British Gas, official WSL partnership page",
+    "date": "2025-09-04",
+    "url": "https://www.britishgas.co.uk/about-british-gas/media-centre/british-gas-womens-super-league.html",
+    "note": "Multi-year official energy partner of the Barclays WSL and WSL2, announced 4 September 2025."
+   },
+   "note": "Official energy partner of the WSL and WSL2 from 2025/26."
+  },
+  {
+   "id": "lcl-nike-front",
+   "clubId": "london-city-lionesses",
+   "orgName": null,
+   "sponsorId": "nike",
+   "placement": "front",
+   "from": "2026-27",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "London City Lionesses, official announcement",
+    "date": "2026-09-03",
+    "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
+    "note": "Multi-year front-of-shirt partnership; no value disclosed. Owner Michele Kang separately called it worth more than some Premier League shirt deals."
+   },
+   "note": "Nike's first front-of-shirt sponsorship of a women's team in the UK per coverage."
+  },
+  {
+   "id": "whu-w-boylesports",
+   "clubId": "west-ham-united-w",
+   "orgName": null,
+   "sponsorId": "boylesports",
+   "placement": "front",
+   "from": "2026-27",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "SportsMint Media (quoting West Ham announcement)",
+    "date": "2026-06-30",
+    "url": "https://sportsmintmedia.com/boyle-sports-takes-centre-stage-on-west-ham-united-shirts-for-2026-27/",
+    "note": "Multi-year principal partnership; logo on men's and women's home, away, third and training shirts."
+   },
+   "note": "BoyleSports continues as front-of-shirt sponsor for 2026/27, on the women's shirts as well as the men's."
+  },
+  {
+   "id": "bcfc-w-coral",
+   "clubId": "birmingham-city-w",
+   "orgName": null,
+   "sponsorId": "coral",
+   "placement": "front",
+   "from": "2026-27",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Gambling News",
+    "date": "2026-07-28",
+    "url": "https://www.gamblingnews.com/news/birmingham-city-welcomes-entains-coral-as-front-of-shirt-sponsor-in-2026-27/",
+    "note": "Coral's first front-of-shirt deal in its history; logo on men's and women's shirts from 2026/27."
+   },
+   "note": "Entain's Coral brand, first-ever shirt sponsorship, covers the newly promoted WSL club."
+  },
+  {
+   "id": "cafc-w-rsk",
+   "clubId": "charlton-athletic-w",
+   "orgName": null,
+   "sponsorId": "rsk-group",
+   "placement": "front",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Charlton Athletic FC, official announcement",
+    "date": "2025-05-22",
+    "url": "https://www.cafc.co.uk/news/charlton-announce-new-partnership-rsk",
+    "note": "RSK became the club's sole front-of-shirt sponsor for men's and women's first teams from 2025/26."
+   },
+   "note": "RSK Group extended from sustainability partner to sole front-of-shirt sponsor."
+  },
+  {
+   "id": "cafc-w-todaytix",
+   "clubId": "charlton-athletic-w",
+   "orgName": null,
+   "sponsorId": "todaytix",
+   "placement": "back",
+   "from": "2026-27",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Charlton Athletic FC, TodayTix announcement",
+    "date": "2026-06-30",
+    "url": "https://www.cafc.co.uk/news/todaytix-announced-official-experience-partner",
+    "note": "Two-year agreement; TodayTix logo on the back of the men's and women's first-team shirts. Confirmed on the 2026/27 home (2 Jul 2026) and away (19 Aug 2026) kit reveals."
+   },
+   "note": "TodayTix back-of-shirt deal runs from 2026/27, its first on a football shirt."
+  },
+  {
+   "id": "cfc-w-skoda",
+   "clubId": "chelsea-w",
+   "orgName": null,
+   "sponsorId": "skoda",
+   "placement": "back",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Chelsea FC, Škoda partner page",
+    "date": "2026-09-25",
+    "url": "https://www.chelseafc.com/en/skoda",
+    "note": "Škoda UK partnered with Chelsea FC Women from the start of 2024 as Official Car Partner; the May 2025 extension made it Chelsea Women's first Official Back of Shirt Partner."
+   },
+   "note": "Škoda's back-of-shirt deal with Chelsea Women began with the May 2025 extension."
+  },
+  {
+   "id": "cfc-w-here-we-flo",
+   "clubId": "chelsea-w",
+   "orgName": null,
+   "sponsorId": "here-we-flo",
+   "placement": "shorts",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Chelsea FC, Here We Flo partner page",
+    "date": "2026-09-25",
+    "url": "https://www.chelseafc.com/en/partner-page-flo",
+    "note": "Here We Flo is Chelsea FC Women's Official Back of Short partner; start date not stated on the page."
+   },
+   "note": "Back-of-shorts partner of Chelsea Women; deal start date unknown."
+  },
+  {
+   "id": "efc-w-ggm-gastro",
+   "clubId": "everton-w",
+   "orgName": null,
+   "sponsorId": "ggm-gastro",
+   "placement": "shorts",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Everton FC, official announcement (club news CMS)",
+    "date": "2025-10-10",
+    "url": "https://www.evertonfc.com/news/2025/october/10/everton-women-partner-with-ggm-gastro/",
+    "note": "Official Partner of Everton Women from October 2025; brand mark on the back of the shorts worn by Everton Women."
+   },
+   "note": "GGM Gastro's first UK sport deal; also sponsors FC Twente, Borussia Dortmund and Schalke 04 per the announcement."
+  },
+  {
+   "id": "spurs-w-kraken",
+   "clubId": "tottenham-hotspur-w",
+   "orgName": null,
+   "sponsorId": "kraken",
+   "placement": "sleeve",
+   "from": "2024-25",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tottenham Hotspur, official announcement",
+    "date": "2024-07-16",
+    "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+    "note": "Kraken is the club's Official Sleeve Partner for the Men's and Women's teams from 2024/25."
+   },
+   "note": "Club-wide sleeve deal covering the women's team since 2024/25."
+  },
+  {
+   "id": "mufc-w-microsoft",
+   "clubId": "manchester-united-w",
+   "orgName": null,
+   "sponsorId": "microsoft",
+   "placement": "back",
+   "from": "2026-27",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Manchester United, Microsoft Surface announcement",
+    "date": "2026-07-17",
+    "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+    "note": "Surface branding on the back of United Women's shirts across 2026/27; men's coverage is domestic cup competitions only."
+   },
+   "note": "Back-of-shirt deal with Microsoft Surface covering the women's league campaign from 2026/27."
+  },
+  {
+   "id": "whu-w-paul-robinson",
+   "clubId": "west-ham-united-w",
+   "orgName": null,
+   "sponsorId": "paul-robinson-solicitors",
+   "placement": "back",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "SportsMint Media",
+    "date": "2025-07-15",
+    "url": "https://sportsmintmedia.com/paul-robinson-solicitors-joins-west-ham-united-women-as-back-of-shirt-partner/"
+   },
+   "note": "Back-of-shirt partner of West Ham United Women since July 2025."
+  },
+  {
+   "id": "whu-w-lilley-plummer",
+   "clubId": "west-ham-united-w",
+   "orgName": null,
+   "sponsorId": "lilley-plummer-risks",
+   "placement": "sleeve",
+   "from": "2026-27",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "SportsMint Media (quoting West Ham announcement)",
+    "date": "2026-07-03",
+    "url": "https://sportsmintmedia.com/lilley-plummer-risks-upgrades-partnership-to-become-west-ham-uniteds-sleeve-sponsor/"
+   },
+   "note": "Official sleeve partner from 2026/27; club coverage says first-team training apparel, women's shirt sleeve placement not explicit."
+  },
+  {
+   "id": "city-w-joie",
+   "clubId": "manchester-city-w",
+   "orgName": null,
+   "sponsorId": "joie",
+   "placement": "partner",
+   "from": "2023-24",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Manchester Evening News (via Wayback Machine)",
+    "date": "2023-09-14",
+    "url": "https://web.archive.org/web/20250724231747/https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-women-sponsors-joie-27709622",
+    "note": "Women's team partner since March 2023; the Academy Stadium was renamed the Joie Stadium."
+   },
+   "note": "Recorded as a team partner; the exact shirt placement (shorts) is from the Wikipedia table."
+  },
+  {
+   "id": "wsl-tesco",
+   "clubId": null,
+   "orgName": "WSL",
+   "sponsorId": "tesco",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wslfootball.com partners page",
+    "date": "2026-09-25",
+    "url": "https://www.wslfootball.com/clubs-and-partners/",
+    "note": "UK-listed supermarket; WSL major partner per wslfootball.com."
+   }
+  },
+  {
+   "id": "wsl-wtw",
+   "clubId": null,
+   "orgName": "WSL",
+   "sponsorId": "wtw",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wslfootball.com partners page",
+    "date": "2026-09-25",
+    "url": "https://www.wslfootball.com/clubs-and-partners/",
+    "note": "Listed insurance broker; WSL major partner per wslfootball.com (site blocked verification of details)."
+   }
+  },
+  {
+   "id": "wsl-ea-sports-fc",
+   "clubId": null,
+   "orgName": "WSL",
+   "sponsorId": "ea-sports-fc",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wslfootball.com partners page",
+    "date": "2026-09-25",
+    "url": "https://www.wslfootball.com/clubs-and-partners/",
+    "note": "Electronic Arts football-game brand; WSL major partner per wslfootball.com."
+   }
+  },
+  {
+   "id": "wsl-subway",
+   "clubId": null,
+   "orgName": "WSL",
+   "sponsorId": "subway",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wslfootball.com partners page",
+    "date": "2026-09-25",
+    "url": "https://www.wslfootball.com/clubs-and-partners/",
+    "note": "QSR franchise chain; WSL minor partner per wslfootball.com."
+   }
+  },
+  {
+   "id": "wsl-bbc",
+   "clubId": null,
+   "orgName": "WSL",
+   "sponsorId": "bbc",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wslfootball.com partners page",
+    "date": "2026-09-25",
+    "url": "https://www.wslfootball.com/clubs-and-partners/",
+    "note": "UK public broadcaster; WSL minor partner and co-broadcaster per wslfootball.com."
+   }
+  },
+  {
+   "id": "wsl-airbnb",
+   "clubId": null,
+   "orgName": "WSL",
+   "sponsorId": "airbnb",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wslfootball.com partners page",
+    "date": "2026-09-25",
+    "url": "https://www.wslfootball.com/clubs-and-partners/",
+    "note": "WSL major partner per wslfootball.com. Sponsor id airbnb already exists in normalized/ for other sports; this entry records the WSL partnership, builder keeps the first id."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "amnesty-rwanda-sportswashing-2026",
+   "ownerIds": [
+    "government-of-rwanda"
+   ],
+   "text": "Amnesty International's British head of campaigns, Felix Jakens, warned that Rwanda is using its Aston Villa sponsorship to sportswash a record of arbitrary detention, torture and repression of free speech, and is fuelling conflict in eastern Congo through its support for M23 rebels and its military's actions there.",
+   "short": "Amnesty: Villa's Visit Rwanda deal is sportswashing",
+   "source": {
+    "name": "Morning Star (PA quotes, Amnesty International)",
+    "date": "2026-07-15",
+    "url": "https://morningstaronline.co.uk/article/amnesty-international-warns-rwanda-sportswashing-villa-sponsorship"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "visit-rwanda",
+   "tier": "severe",
+   "ownerId": "government-of-rwanda",
+   "claimIds": [
+    "rwanda-troops-m23",
+    "m23-coltan-levies",
+    "rubaya-smuggling",
+    "rubaya-tantalum-share",
+    "coltan-supply-chain",
+    "amnesty-rwanda-sportswashing-2026"
+   ],
+   "reasoning": "Visit Rwanda moves to the FRONT of the Aston Villa Women shirt in 2026/27 (SportsPro, 15 Jul 2026), replacing Betano. The Rwandan government, its owner, is already rated severe on the existing claims (UN experts: 3,000-4,000 Rwandan troops fighting alongside M23; conflict-mineral levies). Amnesty International publicly called this specific deal sportswashing (Morning Star/PA, 15 Jul 2026). Existing severe tier carries over; the new Amnesty claim strengthens it. Existing sponsor, no re-rating needed - proposal only confirms the tier."
+  },
+  {
+   "sponsorId": "etihad-airways",
+   "tier": "serious",
+   "ownerId": "government-of-abu-dhabi",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Etihad stays on the front of the Manchester City Women shirt (CFG partnership page; the women's team plays at the Etihad Campus). Owner is Abu Dhabi's government, which sits behind the UAE mass trial claims. Existing serious tier carries over."
+  },
+  {
+   "sponsorId": "emirates",
+   "tier": "serious",
+   "ownerId": "government-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "reasoning": "Emirates renewed to 2033 and stays on the front of the Arsenal Women shirt per the men's renewal coverage; owner is Dubai's government via Investment Corporation of Dubai, with the 2024 UAE mass-trial claim. Existing serious tier carries over. Women's-team-specific confirmation of the front placement is still open."
+  },
+  {
+   "sponsorId": "barclays",
+   "tier": "concern",
+   "ownerId": "barclays",
+   "claimIds": [
+    "barclays-record"
+   ],
+   "reasoning": "Barclays is the WSL title sponsor (home.barclays), so it is a league partner for all 14 clubs. Its existing concern tier (banking conduct record) carries over to the WSL context."
+  }
+ ],
+ "unsourced": [
+  "CONFLICT - Christopher Ward sleeve placement at Charlton: the Wikipedia 2026-27 WSL table lists Christopher Ward on the Charlton Women sleeve, but the club's own announcements say Christopher Ward appears on the left sleeve of the MEN'S first-team shirts only (2026/27 Reebok home kit reveal, 2 Jul 2026, https://www.cafc.co.uk/news/202627-reebok-home-kit-revealed; away kit reveal, 19 Aug 2026, https://www.cafc.co.uk/news/202627-reebok-away-kit-revealed). No Christopher Ward entry was added for the women's team.",
+  "CONFLICT - GGM Gastro placement wording: the Wikipedia table lists 'shorts'; the club announcement (10 Oct 2025) says the brand mark features 'on the back of the shorts worn by Everton Women', so it was recorded as placement 'shorts' per the primary source.",
+  "Brighton Women: Pinterest back-of-shirt placement from the Wikipedia table; American Express front and Experience Kissimmee sleeve match the men's 2026-27 kit but the women's-specific announcement was not located.",
+  "Crystal Palace Women: Temporal front and Tsakos Energy Navigation sleeve from the Wikipedia table; no primary announcement located.",
+  "Liverpool Women: Standard Chartered front, Expedia sleeve and LFC Foundation back from the Wikipedia table; no women's-specific announcement located. The LFC Foundation back-of-shirt article found via sitemap is the 2023-24 men's European-games deal, not a women's placement.",
+  "Tottenham Women: e.l.f. back-of-shirt placement from the Wikipedia table, unverified; AIA front carried from the men's kit (the Kraken announcement does not restate AIA).",
+  "Manchester City Women: Etihad front is confirmed at club/CFG level but the CFG page does not name the women's team; Revolut back and Joie shorts placements from the Wikipedia table. Joie women's-team partnership since March 2023 is sourced (MEN via Wayback), but the shorts placement specifically is not.",
+  "Chelsea Women: the Circle front, Škoda back and Here We Flo back-of-shorts placements are now verified on chelseafc.com partner pages; the exact start date of the Here We Flo deal is not stated.",
+  "WTW as a WSL major partner: wslfootball.com footer lists it, but wtwco.com's WSL page could not be fetched (403/429) to confirm the partnership scope.",
+  "Nike as WSL league-wide kit supplier, plus minor league partners Football Manager and Panini, and major partners Airbnb, Mercedes-Benz: visible in the wslfootball.com homepage footer tiers but individual partnership pages were not all fetched.",
+  "Arsenal Women: Emirates front and Deel sleeve are taken from the men's-team deal reporting and the Wikipedia table; no Arsenal Women-specific kit announcement located.",
+  "Kit manufacturer for most WSL women's teams (Adidas/Nike/Puma/Macron/Castore/New Balance/Reebok per the Wikipedia table) - manufacturers are not yet represented in the kit data; recorded here as text. The Charlton 2026/27 kits are Reebok (club reveal, men's-focused but women's first-teamers modelled the away shirt).",
+  "London City Lionesses owner Michele Kang's Kynisca structure: the club announcement quotes Kang but the corporate chain (Kynisca Sports International LLC, USA) is from press coverage of her multi-club group, not from a filing.",
+  "Lilley Plummer Risks ownership: SportsMint reports it was acquired by Goldman Sachs in 2024; no filing checked, so no ownerId was set.",
+  "WSL 2026-27 shirt placements for brighton-and-hove-albion-w, crystal-palace-w and liverpool-w: only empty kit shells (no sponsors listed) because the placements were found only as Wikipedia table leads with no primary source openable. Kits can be filled when club announcements are cited.",
+  "Kit makers new-balance (West Ham W) and reebok (Charlton W from 2026/27) were researched but the women's shirts are unverified as to manufacturer (Versus/club reveals cover the men's kits); no sponsor entries created."
+ ]
+}

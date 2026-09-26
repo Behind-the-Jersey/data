@@ -1,0 +1,155 @@
+{
+  "target": "nfl-partners",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/25",
+  "sports": [],
+  "leagues": [],
+  "clubs": [],
+  "owners": [
+    {
+      "id": "pepsico-inc",
+      "name": "PepsiCo, Inc.",
+      "type": "listed-company",
+      "country": "USA",
+      "parentId": null,
+      "note": "US-listed snacks and beverages company (NASDAQ: PEP); owner of the Pepsi brand. No state stake. Owner record added to back the Pepsi league-partner deal; tier left for a rater."
+    },
+    {
+      "id": "fedex-corporation",
+      "name": "FedEx Corporation",
+      "type": "listed-company",
+      "country": "USA",
+      "parentId": null,
+      "note": "US-listed logistics company (NYSE: FDX). The corpus already has fedex-owner (FedEx LLC, listed-company); this parent-chain entry records the listed parent for the same chain. No state stake."
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "pepsi",
+      "name": "PepsiCo",
+      "ownerId": "pepsico-inc",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "fedex",
+      "name": "FedEx",
+      "ownerId": "fedex-owner",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "invisalign",
+      "name": "Invisalign",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Brand of Align Technology, Inc. (US-listed, NASDAQ: ALGN); owner entry not yet created."
+    },
+    {
+      "id": "apple-music",
+      "name": "Apple Music",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Brand of Apple Inc. (US-listed, NASDAQ: AAPL); owner entry not yet created."
+    }
+  ],
+  "kits": [],
+  "deals": [
+    {
+      "id": "nfl-invisalign-honors",
+      "clubId": null,
+      "orgName": "NFL",
+      "sponsorId": "invisalign",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "NFL Communications (archived) - 10th Annual NFL Honors Presented by Invisalign to Be Broadcast on CBS on Super Bowl LV Eve",
+        "date": "2021-02-02",
+        "url": "https://web.archive.org/web/20210202172840/https://nflcommunications.com/Pages/10th-Annual-NFL-Honors-Presented-by-Invisalign-to-Be-Broadcast-on-CBS-on-Super-Bowl-LV-Eve.aspx",
+        "note": "Invisalign (an Align Technology brand) presenting sponsor of the 10th annual NFL Honors, recognizing the 2020 season."
+      },
+      "leagueId": "nfl",
+      "note": "Presenting sponsor of NFL Honors at its 10th edition (aired Feb 2021). Start year of the sponsorship not confirmed; renewal status for 2026-27 not confirmed."
+    },
+    {
+      "id": "nfl-apple-music-halftime",
+      "clubId": null,
+      "orgName": "NFL",
+      "sponsorId": "apple-music",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Theatrefullstop - Bad Bunny brings global unity and Latin pride to the Apple Music Super Bowl LX Halftime Stage",
+        "date": "2026-02-09",
+        "url": "https://www.theatrefullstop.com/2026/02/09/bad-bunny-brings-global-unity-and-latin-pride-to-the-apple-music-super-bowl-lx-halftime-stage-in-a-celebration-of-community-and-culture/"
+      },
+      "leagueId": "nfl",
+      "note": "Apple Music is the title sponsor of the Super Bowl halftime show; Super Bowl LX (Feb 2026) ran as the Apple Music Super Bowl LX Halftime Show."
+    },
+    {
+      "id": "nfl-fedex-air-ground",
+      "clubId": null,
+      "orgName": "NFL",
+      "sponsorId": "fedex",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Wikipedia (lead only) - National Football League, Player and coach awards",
+        "date": "2026-09-25",
+        "url": "https://en.wikipedia.org/wiki/National_Football_League"
+      },
+      "note": "FedEx Air & Ground NFL Players of the Week/Year awards are FedEx-sponsored league awards; nfl.com/voting/players-air-and-ground/ live (HTTP 200, 2026-09-25). Lead only - a named press release or NFL page naming FedEx as partner still needed."
+    },
+    {
+      "id": "nfl-pepsi-rookie",
+      "clubId": null,
+      "orgName": "NFL",
+      "sponsorId": "pepsi",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Wikipedia (lead only) - National Football League, Player and coach awards",
+        "date": "2026-09-25",
+        "url": "https://en.wikipedia.org/wiki/National_Football_League"
+      },
+      "note": "Pepsi Zero Sugar NFL Rookie of the Week / Pepsi Rookie of the Year are Pepsi-sponsored league awards. Lead only - a named press source still needed."
+    }
+  ],
+  "claims": [],
+  "proposedRatings": [],
+  "unsourced": [
+    "The NFL's own partners directory: nfl.com/business/league-partners/, nfl.com/business/nfl-partners/ and nfl.com/partners/ all returned 404 on 2026-09-25; operations.nfl.com/gameday/nfl-partners/ also 404. The league does not publish a single crawlable partners list at these URLs - the official roster needs a different route (press releases, NFL OnePass/partner announcements).",
+    "Known NFL league-level partners reported in trade press but not opened/sourced this run: Verizon (wireless), Microsoft (Surface/technology), Nike (onside apparel/official outfitting), Gatorade (sports drink), Caesars Entertainment (casino partner), FanDuel (sportsbook), Visa, Intuit/TurboTax, Amazon Web Services (cloud; aws already in corpus), Bose, Pizza Hut, Candy (Ministry of Supply?), Tile Shop, Next Gen Stats partner Zebra Technologies, and Bud Light/Michelob Ultra (Anheuser-Busch, anheuser-busch-owner already in corpus). None of these has a source URL opened and verified this run - each needs its own announcement before a deal row is written.",
+    "Broadcast partners are media-rights deals, not sponsorships in the corpus's sense: CBS, Fox, NBC, ESPN/ABC, Amazon Prime Video, Netflix, YouTube TV (from the NFL's current seven-media-partner package). No deals rows written for them; flag for modelling whether 'league-partner' should include media partners.",
+    "Super Bowl halftime-show title sponsorship history: Pepsi held the halftime sponsorship before Apple Music (Pepsi Super Bowl Halftime Show era); start year of the Apple Music deal not confirmed this run - only that Super Bowl LX (2026-02-08) ran as the Apple Music Super Bowl LX Halftime Show.",
+    "Invisalign NFL Honors deal: only the 10th annual (2020 season, aired Feb 2021) presentation confirmed via the archived NFL Communications release; whether Invisalign still presents NFL Honors in the 2026-27 season was not verified.",
+    "LA Rams x Visit Rwanda stadium partnership (rams-visit-rwanda) and all 32 club stadium/practice-patch deals already exist in normalized/deals.json from the US ingest pass; this file deliberately adds no club-level rows.",
+    "NFL's UK/international commercial partners (NFL London games sponsors) not researched - out of scope for this run; candidates for a follow-up pass.",
+    "FedEx and Pepsi league-award deals need named primary sources (NFL press release or award-page announcement) before they can carry reviewed ratings; currently Wikipedia-derived leads with the live nfl.com voting page as corroboration."
+  ]
+}

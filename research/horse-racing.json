@@ -1,0 +1,837 @@
+{
+ "target": "horse-racing",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/254",
+ "sports": [
+  {
+   "id": "horse-racing",
+   "label": "Horse racing",
+   "status": "not-mapped",
+   "aliases": [
+    "flat racing",
+    "thoroughbred racing",
+    "racing"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "horse-racing",
+   "aliases": [
+    "major international flat-racing meetings",
+    "Saudi Cup",
+    "Dubai World Cup",
+    "Qatar Prix de l'Arc de Triomphe",
+    "British Champions Day",
+    "Qatar Goodwood Festival",
+    "Glorious Goodwood",
+    "Emirates Poules d'Essai"
+   ],
+   "sportId": "horse-racing",
+   "name": "Major international flat-racing meetings with Gulf state-linked sponsors",
+   "country": "Global (Saudi Arabia, UAE, France, United Kingdom)",
+   "clubCount": 6,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "Event-host shape: these 6 meetings do not fit the schema yet (no event entity, no host/title-sponsor placement), so the meetings are recorded here as the entity list and every commercial fact is recorded in unsourced and as org deals, following the UFC and Esports World Cup precedent. clubs and kits arrays are empty.",
+    "The 6 meetings: Saudi Cup meeting (13-14 Feb 2026, King Abdulaziz Racecourse, Riyadh), Dubai World Cup meeting (28 Mar 2026, Meydan Racecourse), Qatar Prix de l'Arc de Triomphe weekend (3-4 Oct 2026, ParisLongchamp), Qatar Goodwood Festival (28 Jul - 1 Aug 2026, Goodwood), Qatar Racing British Champions Day (17 Oct 2026, Ascot), Emirates Poules d'Essai French Guineas day (10 May 2026, ParisLongchamp).",
+    "Sponsorship is on race titles and meeting titles, not shirts: each race card carries its own presenting partners, which change yearly. Race names embed sponsors (Qatar Prix de l'Arc de Triomphe, Neom Turf Cup, 1351 Turf Sprint, Visit Qatar Sussex Stakes).",
+    "Distinguish state bodies from private royal-family vehicles: Jockey Club of Saudi Arabia, QREC, Abu Dhabi Sports Council, Visit Qatar, Emirates and the PIF projects (Qiddiya, NEOM) are state or state-fund money; QIPCO and Qatar Racing are private companies of members of Qatar's ruling family; Godolphin is the Dubai ruler's own racing operation.",
+    "Title switches matter: QIPCO extended British Champions Day to 2028 on 22 Jun 2026, then on 4 Aug 2026 the headline sponsorship moved to its subsidiary Qatar Racing for three years."
+   ]
+  }
+ ],
+ "clubs": [],
+ "owners": [
+  {
+   "id": "saudi-national-bank",
+   "name": "Saudi National Bank (SNB)",
+   "type": "listed-company",
+   "country": "Saudi Arabia",
+   "via": "PIF 37.2% (largest shareholder)",
+   "note": "SNB's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government' and lists PIF's stake at 37.2% (2,234,257,917 shares) at 31 Dec 2025; GOSI is the other major shareholder.",
+   "parentId": "saudi-pif"
+  },
+  {
+   "id": "longines",
+   "name": "Longines",
+   "type": "private-company",
+   "country": "Switzerland",
+   "via": "Swatch Group Ltd",
+   "note": "Longines describes itself as 'a member of Swatch Group Ltd., the world's leading watch manufacturer' (Dubai Racing Club partners page); Swatch Group is listed on SIX.",
+   "parentId": null
+  },
+  {
+   "id": "zood-realty",
+   "name": "ZOOD Realty",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "note": "Race presenter of the Saudi Derby; own site (zoodrealty.com, 'The Block | by ZOOD') carries no company description and no ownership information - unresolved.",
+   "parentId": null
+  },
+  {
+   "id": "qipco",
+   "name": "QIPCO (Qatar Holdings and Investment Company)",
+   "type": "private-company",
+   "country": "Qatar",
+   "via": "Al Thani ruling family of Qatar",
+   "note": "Named 'Qatar Holdings and Investment Company (QIPCO)' in the British Champions Day announcement (22 Jun 2026); chaired by HH Sheikh Hamad Al Thani, brother of Sheikh Fahad - members of Qatar's ruling family, but a private family company, not a state entity.",
+   "parentId": null
+  },
+  {
+   "id": "qrec",
+   "name": "Qatar Racing and Equestrian Club (QREC)",
+   "type": "state",
+   "country": "Qatar",
+   "via": "state domain qrec.gov.qa",
+   "note": "Operates on the Qatari state domain qrec.gov.qa (trainers.qrec.gov.qa, land.qrec.gov.qa); chairman Hamad bin Abdulrahman Al-Attiyah credits 'the generous support of our wise leadership'. Never explicitly self-described as a government body on the pages checked.",
+   "parentId": "government-of-qatar"
+  },
+  {
+   "id": "jockey-club-of-saudi-arabia",
+   "name": "Saudi Jockey Club (JCSA)",
+   "type": "state",
+   "country": "Saudi Arabia",
+   "via": "established 1965; presidency entrusted by a Royal Decree of King Faisal Official name: Jockey Club of Saudi Arabia.",
+   "note": "JCSA footer: 'established in 1965 and is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level'; its history page says a Royal Decree from King Faisal Bin Abdulaziz entrusted the presidency to Prince Abdullah Bin Abdulaziz.",
+   "parentId": "government-of-saudi-arabia"
+  },
+  {
+   "id": "dubai-racing-club",
+   "name": "Dubai Racing Club (DRC)",
+   "type": "state",
+   "country": "UAE",
+   "via": "Meydan; Dubai ruling family",
+   "note": "'Formed in 1992, Dubai Racing Club serves to organise and host horseracing at Meydan Racecourse'; the first 1981 Dubai meeting was 'organised by the office of His Highness Sheikh Mohammed bin Rashid Al Maktoum, ... Ruler of Dubai', and DRC's chairman is Sheikh Rashed bin Dalmook bin Juma Al Maktoum. Parenting to government-of-dubai is by the ruler's office link, not a filing.",
+   "parentId": "government-of-dubai"
+  },
+  {
+   "id": "godolphin",
+   "name": "Godolphin",
+   "type": "private-company",
+   "country": "UAE",
+   "via": "the racing operation of Sheikh Mohammed bin Rashid Al Maktoum, Ruler of Dubai",
+   "note": "Named in the target leads as the Dubai ruler's racing operation; not re-verified to a primary document this pass.",
+   "parentId": null
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "qiddiya",
+   "name": "Qiddiya City (Qiddiya Investment Company)",
+   "ownerId": "qiddiya",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "PIF giga-project; presenter of the 1351 Turf Sprint (USD $2m) at the 2026 Saudi Cup meeting. Entry exists (EWC Nexus Partner); this target adds the Saudi Cup presenting role to its note."
+  },
+  {
+   "id": "saudi-national-bank",
+   "name": "Saudi National Bank (SNB)",
+   "ownerId": "saudi-national-bank",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "snb"
+   ],
+   "note": "Saudi Arabia's largest bank; ultimate controlling party PIF (37.2% at 31 Dec 2025 per SNB's 2025 annual report), ultimately owned by the Saudi government. Presenter of the Riyadh Dirt Sprint (USD $2m) at the 2026 Saudi Cup meeting."
+  },
+  {
+   "id": "neom",
+   "name": "NEOM",
+   "ownerId": "neom",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "PIF giga-project; the Neom Turf Cup (USD $3m, Group 1) at the 2026 Saudi Cup meeting is presented by Howden, but NEOM's name is in the race title itself. Existing entry (owner of NEOM SC)."
+  },
+  {
+   "id": "howden",
+   "name": "Howden",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "UK insurance broker, employee-owned ('our business is grounded in employee ownership', howdengroup.com); presenter of the Neom Turf Cup and the Red Sea Turf Handicap presenter is Longines. Entry exists (SailGP); this adds the Saudi Cup presenter role."
+  },
+  {
+   "id": "longines",
+   "name": "Longines",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Swiss watchmaker, 'a member of Swatch Group Ltd.'; presents the Red Sea Turf Handicap (USD $2.5m) at the Saudi Cup meeting, is official timekeeper at Chantilly/Deauville/Longchamp and sponsors the Prix de Diane Longines and Prix de l'Opera (France Galop partners page), and is a Dubai Racing Club partner."
+  },
+  {
+   "id": "zood-realty",
+   "name": "ZOOD Realty",
+   "ownerId": "zood-realty",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "zood"
+   ],
+   "note": "Presenter of the Saudi Derby (USD $1.5m) at the 2026 Saudi Cup meeting; ownership unresolved - zoodrealty.com carries no company information."
+  },
+  {
+   "id": "emirates",
+   "name": "Emirates",
+   "ownerId": "government-of-dubai",
+   "ownership": "owned",
+   "tier": "serious",
+   "status": "rated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing rated entry. This target adds: the $12m Dubai World Cup purse is 'sponsored by Emirates' (Emirates 24|7, 29 Mar 2026), and Emirates is official airline of the Dubai Racing Carnival (DRC sponsors page)."
+  },
+  {
+   "id": "qatar-racing",
+   "name": "Qatar Racing",
+   "ownerId": "qipco",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of British Champions Day from Aug 2026 for three years, including individual sponsorship of all seven races; the global racing and breeding operation of the QIPCO group, led by HH Sheikh Fahad Al Thani. Owner: QIPCO's Qatar Racing vehicle."
+  },
+  {
+   "id": "qipco",
+   "name": "QIPCO (Qatar Holdings and Investment Company)",
+   "ownerId": "qipco",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "qatar holdings and investment company"
+   ],
+   "note": "Private investment company of the Al Thani ruling family; sponsored British Champions Day since its 2011 inaugural running and extended to 2028 on 22 Jun 2026, then handed the title to subsidiary Qatar Racing."
+  },
+  {
+   "id": "visit-qatar",
+   "name": "Visit Qatar",
+   "ownerId": "government-of-qatar",
+   "ownership": "owned",
+   "tier": "serious",
+   "status": "rated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing rated entry. This target adds: presenting partner of the Qatar Goodwood Festival and title sponsor of individual races there (Visit Qatar Sussex Stakes, Qatar Nassau Stakes, King George Qatar Stakes) per goodwood.com."
+  },
+  {
+   "id": "qrec",
+   "name": "Qatar Racing and Equestrian Club (QREC)",
+   "ownerId": "qrec",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "qatar racing and equestrian club"
+   ],
+   "note": "Title sponsor of the Qatar Prix de l'Arc de Triomphe (EUR 5m) since 2008, plus 14 other French Group races and the Qatar Arabian World Cup (EUR 1m) - all per France Galop's partners page."
+  },
+  {
+   "id": "abu-dhabi-sports-council",
+   "name": "Abu Dhabi Sports Council",
+   "ownerId": "government-of-abu-dhabi",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing entry. This target adds: naming sponsor of the Emirates Poules d'Essai (French Guineas day, 10 May 2026) via the UAE President Cup series, per France Galop's partners page and the France Galop ticketing page."
+  },
+  {
+   "id": "cygames",
+   "name": "Cygames",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Japanese games company (founded May 2011); Premium Partner of the Qatar Prix de l'Arc de Triomphe and title sponsor of the Grand Prix de Paris since 2025 (France Galop partners page and France Galop ticketing page). Non-state; not prioritised for rating."
+  },
+  {
+   "id": "shg",
+   "name": "SHG",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Existing entry (exact legal name unconfirmed). Presenter of the Tuwaiq Cup (USD $1m, Listed) at the 2026 Saudi Cup meeting, per Thoroughbred Daily News race entries."
+  },
+  {
+   "id": "al-shaqab",
+   "name": "Al Shaqab (Qatar Foundation)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "The Al Shaqab Goodwood Cup (Group 1) opens the Qatar Goodwood Festival (goodwood.com day-by-day guide); Al Shaqab is Qatar Foundation's equestrian arm - ownership chain to Qatar Foundation not verified to a primary document this pass."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "saudicup-qiddiya",
+   "clubId": null,
+   "orgName": "Saudi Cup meeting (Jockey Club of Saudi Arabia)",
+   "sponsorId": "qiddiya",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Thoroughbred Daily News - Saudi Cup meeting black-type entries",
+    "date": "2026-02",
+    "url": "https://www.thoroughbreddailynews.com/black-type-analysis-can-shin-emperor-double-up-in-neom-turf-cup-2/",
+    "note": "'1351 TURF SPRINT (Presented By Qiddiya City)-G2, $2,000,000'; confirmed on JCSA's own race report: 'Reef Runner (USA) hits the line first in the Group 2 USD$2m Turf Sprint Presented by Qiddiya City' (jcsa.sa/en/news/20260214_turfsprint/, 14 Feb 2026)."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race presenting partner, 2026 meeting. Fee not published. Qiddiya is wholly owned by PIF."
+  },
+  {
+   "id": "saudicup-saudi-national-bank",
+   "clubId": null,
+   "orgName": "Saudi Cup meeting (Jockey Club of Saudi Arabia)",
+   "sponsorId": "saudi-national-bank",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Jockey Club of Saudi Arabia - Imagination Leads Home US Pair In Riyadh Dirt Sprint",
+    "date": "2026-02-14",
+    "url": "https://www.jcsa.sa/en/news/20260214_dirtsprint/",
+    "note": "'The Group 2 USD$2m Riyadh Dirt Sprint Presented by Saudi National Bank' (race report by JCSA). Also in TDN entries: 'RIYADH DIRT SPRINT (Presented By Saudi National Bank)-G2, $2,000,000'."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race presenting partner, 2026 meeting. Fee not published. SNB is controlled by PIF (37.2%, 2025 annual report)."
+  },
+  {
+   "id": "saudicup-neom",
+   "clubId": null,
+   "orgName": "Saudi Cup meeting (Jockey Club of Saudi Arabia)",
+   "sponsorId": "neom",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Jockey Club of Saudi Arabia - Royal Champion Proves His Class In Neom Turf Cup",
+    "date": "2026-02-14",
+    "url": "https://www.jcsa.sa/en/news/20260214_neom/",
+    "note": "'the Group 1 USD$3m Neom Turf Cup Presented by Howden'. NEOM's name is the race title; Howden is the presenting partner (separate entry)."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race naming (NEOM in the race title), 2026 meeting. NEOM is a PIF giga-project. The race has run under the Neom name since 2022 per JCSA's Story So Far page."
+  },
+  {
+   "id": "saudicup-howden",
+   "clubId": null,
+   "orgName": "Saudi Cup meeting (Jockey Club of Saudi Arabia)",
+   "sponsorId": "howden",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Jockey Club of Saudi Arabia - Royal Champion Proves His Class In Neom Turf Cup",
+    "date": "2026-02-14",
+    "url": "https://www.jcsa.sa/en/news/20260214_neom/",
+    "note": "'the Group 1 USD$3m Neom Turf Cup Presented by Howden'. Also in TDN entries: 'NEOM TURF CUP (Presented By HOWDEN)-G1, $3,000,000'."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race presenting partner, 2026 meeting. Fee not published."
+  },
+  {
+   "id": "saudicup-longines",
+   "clubId": null,
+   "orgName": "Saudi Cup meeting (Jockey Club of Saudi Arabia)",
+   "sponsorId": "longines",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Thoroughbred Daily News - Saudi Cup meeting black-type entries",
+    "date": "2026-02",
+    "url": "https://www.thoroughbreddailynews.com/black-type-analysis-can-shin-emperor-double-up-in-neom-turf-cup-2/",
+    "note": "'RED SEA TURF HANDICAP (Presented by Longines)-G2, $2,500,000'."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race presenting partner, 2026 meeting. Fee not published. Longines (Swatch Group) also times and sponsors French races via France Galop."
+  },
+  {
+   "id": "saudicup-zood-realty",
+   "clubId": null,
+   "orgName": "Saudi Cup meeting (Jockey Club of Saudi Arabia)",
+   "sponsorId": "zood-realty",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Thoroughbred Daily News - Saudi Cup meeting black-type entries",
+    "date": "2026-02",
+    "url": "https://www.thoroughbreddailynews.com/black-type-analysis-can-shin-emperor-double-up-in-neom-turf-cup-2/",
+    "note": "'SAUDI DERBY (Presented By ZOOD Realty)-G3, $1,500,000'."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race presenting partner, 2026 meeting. Fee not published. Ownership unresolved."
+  },
+  {
+   "id": "saudicup-shg",
+   "clubId": null,
+   "orgName": "Saudi Cup meeting (Jockey Club of Saudi Arabia)",
+   "sponsorId": "shg",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Thoroughbred Daily News - Saudi Cup meeting black-type entries",
+    "date": "2026-02",
+    "url": "https://www.thoroughbreddailynews.com/black-type-analysis-can-shin-emperor-double-up-in-neom-turf-cup-2/",
+    "note": "'TUWAIQ CUP (Presented By SHG)-Listed, $1,000,000'."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race presenting partner, 2026 meeting. Fee not published. Exact legal name unconfirmed (existing sponsor note)."
+  },
+  {
+   "id": "dwc-emirates",
+   "clubId": null,
+   "orgName": "Dubai World Cup meeting (Dubai Racing Club)",
+   "sponsorId": "emirates",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Emirates 24|7 - Magnitude Wins Dubai World Cup 2026 at Meydan Racecourse",
+    "date": "2026-03-29",
+    "url": "https://www.emirates247.com/sports/magnitude-wins-dubai-world-cup-2026-at-meydan-racecourse/553",
+    "note": "'Magnitude secured the $6.96 million winner's prize from the total $12 million purse sponsored by Emirates.' Meeting total purse US$30.5m across nine races (dubairacingclub.com)."
+   },
+   "leagueId": "horse-racing",
+   "note": "Race title sponsor of the $12m Dubai World Cup, 2026; Emirates is also official airline of the Dubai Racing Carnival (dubairacingclub.com/sponsors-partners). Fee not published."
+  },
+  {
+   "id": "drc-emirates-carnival",
+   "clubId": null,
+   "orgName": "Dubai Racing Club (Dubai Racing Carnival)",
+   "sponsorId": "emirates",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Dubai Racing Club - Sponsors & Partners (Emirates page)",
+    "date": "2026-09-25",
+    "url": "https://www.dubairacingclub.com/sponsors-partners/",
+    "note": "'As the official airline of the Dubai Racing Carnival, the sport of kings gets our full support, strengthening our partnerships with governing bodies, stables and marquee races in the region.'"
+   },
+   "leagueId": "horse-racing",
+   "note": "Carnival-wide official-airline partnership; start term not published. Recorded separately from the World Cup race purse sponsorship."
+  },
+  {
+   "id": "arc-qrec",
+   "clubId": null,
+   "orgName": "Qatar Prix de l'Arc de Triomphe (France Galop)",
+   "sponsorId": "qrec",
+   "placement": "league-partner",
+   "from": "2008",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "France Galop - Our Partners (QREC)",
+    "date": "2026-09-25",
+    "url": "https://www.france-galop.com/en/ours-partners",
+    "note": "'Since 2008, the Qatar Prix de l'Arc de Triomphe and 14 other Group races in France have been under its banner'; the Arc is 'the world's richest turf race, worth EUR 5 million'. QREC also sponsors the Qatar Arabian World Cup 'since 2014', now EUR 1m."
+   },
+   "leagueId": "horse-racing",
+   "note": "2026 edition confirmed as 'Qatar Prix de l'Arc de Triomphe', 3-4 Oct 2026, with 'QREC official partner' on France Galop's ticketing page (billetterie.france-galop.com). Reported 2023-2027 extension is a search-result claim, not verified in a fetched source. Fee not published."
+  },
+  {
+   "id": "bcd-qatar-racing",
+   "clubId": null,
+   "orgName": "British Champions Day (British Champions Series Ltd)",
+   "sponsorId": "qatar-racing",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": "2028-29",
+   "value": null,
+   "source": {
+    "name": "British Champions Day - QATAR RACING TO BECOME TITLE SPONSOR OF BRITISH CHAMPIONS DAY",
+    "date": "2026-08-04",
+    "url": "https://britishchampionsday.com/2026/08/04/qatar-racing-to-become-title-sponsor-of-british-champions-day/",
+    "note": "'QATAR RACING will succeed its parent company, QIPCO, as title sponsor of British Champions Day... the headline sponsorship switch to become Qatar Racing British Champions Day including individual sponsorship of all seven races'; Sheikh Fahad: 'the title sponsorship will transfer to Qatar Racing for the next three years'. Day worth GBP 4.35m."
+   },
+   "leagueId": "horse-racing",
+   "note": "Three-year deal (2026-2028) covering the meeting and all seven races: Qatar Racing Champion Stakes, Queen Elizabeth II Stakes (Sponsored by Qatar Racing), British Champions Fillies & Mares Stakes, Long Distance Cup, Sprint Stakes, 2YO Conditions Stakes and Balmoral Handicap (Sponsored by Qatar Racing). Fee not published."
+  },
+  {
+   "id": "bcd-qipco",
+   "clubId": null,
+   "orgName": "British Champions Day (British Champions Series Ltd)",
+   "sponsorId": "qipco",
+   "placement": "league-partner",
+   "from": "2011",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "British Champions Day - QIPCO extends British Champions Day sponsorship to 2028",
+    "date": "2026-06-22",
+    "url": "https://britishchampionsday.com/2026/06/22/qipco-extends-british-champions-day-sponsorship-to-2028/",
+    "note": "'Qatar Holdings and Investment Company (QIPCO) has extended its sponsorship of Britain's richest raceday... until 2028. QIPCO has sponsored the race meeting since its inaugural running in 2011.'"
+   },
+   "leagueId": "horse-racing",
+   "note": "Title sponsor 2011 to Jul 2026, still contracted to 2028; headline role passed to subsidiary Qatar Racing on 4 Aug 2026. Fee not published. Private royal-family company, not a state entity."
+  },
+  {
+   "id": "goodwood-visit-qatar",
+   "clubId": null,
+   "orgName": "Qatar Goodwood Festival (Goodwood)",
+   "sponsorId": "visit-qatar",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Goodwood - Qatar Goodwood Festival (official page)",
+    "date": "2026",
+    "url": "https://www.goodwood.com/horseracing/",
+    "note": "'The 2026 Qatar Goodwood Festival presented by Visit Qatar provided five days of world-class racing.' Visit Qatar is also the Presenting Partner on the festival's Partners page (goodwood.com/horseracing/qatar-goodwood-festival/partners/) with logo link to visitqatar.com."
+   },
+   "leagueId": "horse-racing",
+   "note": "2026 festival ran 28 Jul - 1 Aug (day-by-day guide dates Tuesday 28 July to Saturday 1 August). Individual race titles carry Qatar/Visit Qatar branding: Visit Qatar Sussex Stakes, Qatar Nassau Stakes, King George Qatar Stakes; the Al Shaqab Goodwood Cup is sponsored by Al Shaqab (Qatar Foundation). Original deal term not found. Fee not published."
+  },
+  {
+   "id": "poules-abu-dhabi-sports-council",
+   "clubId": null,
+   "orgName": "Emirates Poules d'Essai (France Galop)",
+   "sponsorId": "abu-dhabi-sports-council",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "France Galop ticketing - Emirates Poules d'Essai",
+    "date": "2026-09-25",
+    "url": "https://billetterie.france-galop.com/en/event/emirates-poules-dessai/",
+    "note": "'The Abu Dhabi Sports Council is the naming sponsor of the Emirates Poules d'Essai, a day on which two key races in the racing calendar are run: the Emirates Poule d'Essai des Poulains and the Emirates Poule d'Essai des Pouliches.' 2026 edition ran Sunday 10 May 2026 at ParisLongchamp. Also on france-galop.com/en/ours-partners (UAE President Cup Series)."
+   },
+   "leagueId": "horse-racing",
+   "note": "Deal term not given on either France Galop page. The 'Emirates' in the race name is the Abu Dhabi Sports Council's UAE President Cup series branding, not the Dubai airline. Fee not published."
+  },
+  {
+   "id": "hr-al-shaqab",
+   "clubId": null,
+   "orgName": "Horse racing events",
+   "sponsorId": "al-shaqab",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.goodwood.com/",
+    "note": "The Al Shaqab Goodwood Cup (Group 1) opens the Qatar Goodwood Festival (goodwood.com day-by-day guide); Al Shaqab is Qatar Foundation's equestrian arm - ownership chain to Qatar Foundation not verified to a primary document this pass."
+   }
+  },
+  {
+   "id": "hr-cygames",
+   "clubId": null,
+   "orgName": "Horse racing events",
+   "sponsorId": "cygames",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.prixarcartriomphe.com/",
+    "note": "Japanese games company (founded May 2011); Premium Partner of the Qatar Prix de l'Arc de Triomphe and title sponsor of the Grand Prix de Paris since 2025 (France Galop partners page and France Galop ticketing page). Non-state; not prioritised for rating."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "saudicup-2026-presenter-names",
+   "ownerIds": [
+    "jockey-club-of-saudi-arabia"
+   ],
+   "text": "The Jockey Club of Saudi Arabia organises the Saudi Cup meeting at King Abdulaziz Racecourse, Riyadh; the 2026 card carried presenting partners Qiddiya City (1351 Turf Sprint, $2m), Saudi National Bank (Riyadh Dirt Sprint, $2m), Howden (Neom Turf Cup, $3m), Longines (Red Sea Turf Handicap, $2.5m), ZOOD Realty (Saudi Derby, $1.5m) and SHG (Tuwaiq Cup, $1m), with the $20m Saudi Cup itself unsponsored.",
+   "short": "Saudi Cup 2026 race presenters: Qiddiya City, SNB, Howden, Longines, ZOOD Realty, SHG",
+   "source": {
+    "name": "Thoroughbred Daily News race entries; JCSA race reports of 14 Feb 2026",
+    "date": "2026-02",
+    "url": "https://www.thoroughbreddailynews.com/black-type-analysis-can-shin-emperor-double-up-in-neom-turf-cup-2/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "jcsa-1965-royal-decree",
+   "ownerIds": [
+    "jockey-club-of-saudi-arabia",
+    "government-of-saudi-arabia"
+   ],
+   "text": "The Jockey Club of Saudi Arabia was established in 1965 and 'is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level'; its history page records that a Royal Decree from King Faisal Bin Abdulaziz entrusted the presidency to Prince Abdullah Bin Abdulaziz.",
+   "short": "JCSA established 1965 under a royal decree",
+   "source": {
+    "name": "Jockey Club of Saudi Arabia website (footer) and JCSA history page",
+    "date": "2026-09-25",
+    "url": "https://www.jcsa.sa/en/aboutjcsa/history2/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "dwc2026-emirates-purse",
+   "ownerIds": [
+    "government-of-dubai"
+   ],
+   "text": "The 2026 Dubai World Cup (30th running, 28 March 2026, Meydan) carried a $12 million purse 'sponsored by Emirates'; the meeting's total purse is US$30.5 million across nine races, organised by Dubai Racing Club.",
+   "short": "2026 Dubai World Cup $12m purse sponsored by Emirates",
+   "source": {
+    "name": "Emirates 24|7 (race report); Dubai Racing Club (meeting purse and organiser)",
+    "date": "2026-03-29",
+    "url": "https://www.emirates247.com/sports/magnitude-wins-dubai-world-cup-2026-at-meydan-racecourse/553"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "arc-qrec-partner",
+   "ownerIds": [
+    "qrec",
+    "government-of-qatar"
+   ],
+   "text": "QREC has been the title sponsor of the Qatar Prix de l'Arc de Triomphe since 2008, alongside 14 other French Group races and the Qatar Arabian World Cup (since 2014); the 2026 Arc (3-4 October 2026, ParisLongchamp) carries a EUR 5 million purse, and QREC operates on the Qatari state domain qrec.gov.qa.",
+   "short": "QREC title sponsor of the Arc since 2008 (EUR 5m race)",
+   "source": {
+    "name": "France Galop - Our Partners; France Galop ticketing (QREC official partner)",
+    "date": "2026-09-25",
+    "url": "https://www.france-galop.com/en/ours-partners"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "bcd-qatar-racing-2026",
+   "ownerIds": [
+    "qipco"
+   ],
+   "text": "Qatar Racing, 'the global horse racing and breeding operation of the QIPCO group' led by HH Sheikh Fahad Al Thani, became title sponsor of British Champions Day on 4 August 2026 for three years, with individual sponsorship of all seven races, succeeding its parent company QIPCO, chaired by his brother HH Sheikh Hamad Al Thani.",
+   "short": "Qatar Racing replaces parent QIPCO as British Champions Day title sponsor (3 years)",
+   "source": {
+    "name": "British Champions Day (official announcement)",
+    "date": "2026-08-04",
+    "url": "https://britishchampionsday.com/2026/08/04/qatar-racing-to-become-title-sponsor-of-british-champions-day/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "bcd-qipco-2011-2028",
+   "ownerIds": [
+    "qipco"
+   ],
+   "text": "Qatar Holdings and Investment Company (QIPCO) has sponsored British Champions Day since its inaugural running in 2011 and on 22 June 2026 extended its sponsorship until 2028.",
+   "short": "QIPCO sponsored British Champions Day since 2011, extended to 2028",
+   "source": {
+    "name": "British Champions Day (official announcement)",
+    "date": "2026-06-22",
+    "url": "https://britishchampionsday.com/2026/06/22/qipco-extends-british-champions-day-sponsorship-to-2028/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "goodwood-visit-qatar-2026",
+   "ownerIds": [
+    "government-of-qatar"
+   ],
+   "text": "The 2026 Qatar Goodwood Festival was 'presented by Visit Qatar' (the consumer brand of Qatar Tourism), running five days from 28 July to 1 August 2026, with Visit Qatar and Qatar branding on individual races (Visit Qatar Sussex Stakes, Qatar Nassau Stakes, King George Qatar Stakes).",
+   "short": "Visit Qatar presenting partner of the 2026 Qatar Goodwood Festival",
+   "source": {
+    "name": "Goodwood Racecourse (official horseracing pages)",
+    "date": "2026",
+    "url": "https://www.goodwood.com/horseracing/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "poules-adsc-2026",
+   "ownerIds": [
+    "government-of-abu-dhabi"
+   ],
+   "text": "The Abu Dhabi Sports Council, 'founded in 2006 by the crown prince of Abu Dhabi, Sheikh Mohamed bin Zayed Al Nahyan', is the naming sponsor of the Emirates Poules d'Essai (Emirates Poule d'Essai des Poulains and des Pouliches, 10 May 2026, ParisLongchamp) through the UAE President Cup series.",
+   "short": "Abu Dhabi Sports Council names the Emirates Poules d'Essai (French Guineas)",
+   "source": {
+    "name": "France Galop ticketing - Emirates Poules d'Essai; France Galop - Our Partners",
+    "date": "2026-09-25",
+    "url": "https://billetterie.france-galop.com/en/event/emirates-poules-dessai/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "snb-pif-controlling-party",
+   "ownerIds": [
+    "saudi-national-bank",
+    "saudi-pif"
+   ],
+   "text": "Saudi National Bank's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government', with PIF holding 37.2% (2,234,257,917 shares) at 31 December 2025.",
+   "short": "PIF is SNB's ultimate controlling party with 37.2%",
+   "source": {
+    "name": "Saudi National Bank Annual Report 2025 (corporate governance and financial statements)",
+    "date": "2026",
+    "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-9-previous-annual-reports/annual-reports-pdfs-en/snb-annual-report-2025-en.pdf?view=1"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "qiddiya",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment",
+    "saudi-executions-2026-record"
+   ],
+   "reasoning": "Qiddiya City is wholly owned by PIF, the Saudi sovereign wealth fund chaired by Crown Prince Mohammed bin Salman, and its race-presenter role at the state-organised Saudi Cup is direct Saudi state money in a flagship international event; same evidentiary base as the other rated PIF sponsors (record 345 executions in 2024, Khashoggi assessment). Serious, not severe: no armed-conflict link."
+  },
+  {
+   "sponsorId": "saudi-national-bank",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "snb-pif-controlling-party",
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "SNB's own annual report names PIF as the ultimate controlling party (37.2%), so the bank presents a race at the state-run Saudi Cup as an arm of the Saudi state; serious, matching the PIF chain rating."
+  },
+  {
+   "sponsorId": "qatar-racing",
+   "tier": "serious",
+   "ownerId": "qipco",
+   "claimIds": [
+    "bcd-qatar-racing-2026",
+    "gov-qatar-record"
+   ],
+   "reasoning": "Qatar Racing is the racing arm of QIPCO, a private investment company of Qatar's ruling Al Thani family (Sheikh Fahad and Sheikh Hamad Al Thani), now buying the title of Britain's richest raceday and all seven races; ruling-family money buys national prestige, so it rates serious, not severe - it is a private family company, not a Qatar state body."
+  },
+  {
+   "sponsorId": "qipco",
+   "tier": "serious",
+   "ownerId": "qipco",
+   "claimIds": [
+    "bcd-qipco-2011-2028",
+    "gov-qatar-record"
+   ],
+   "reasoning": "Same chain as Qatar Racing: a private Qatari royal-family investment company that has funded British Champions Day since 2011 and to 2028; the rating follows the family link rather than state control."
+  },
+  {
+   "sponsorId": "qrec",
+   "tier": "serious",
+   "ownerId": "government-of-qatar",
+   "claimIds": [
+    "arc-qrec-partner",
+    "gov-qatar-record"
+   ],
+   "reasoning": "QREC is a Qatari state body (state domain qrec.gov.qa, chairman credits the leadership) that has put Qatar's name on the Arc and 14 other French Group races since 2008 - direct state sponsorship of Europe's richest turf race; serious under the Qatar government chain."
+  },
+  {
+   "sponsorId": "abu-dhabi-sports-council",
+   "tier": "serious",
+   "ownerId": "government-of-abu-dhabi",
+   "claimIds": [
+    "poules-adsc-2026",
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Abu Dhabi Sports Council is an Abu Dhabi government body established by Sheikh Mohamed bin Zayed and buys the naming rights to the French Guineas; same UAE government chain as the rated serious Etihad and Experience Abu Dhabi (2024 mass-trial life sentences, upheld 2025)."
+  },
+  {
+   "sponsorId": "visit-qatar",
+   "tier": "serious",
+   "ownerId": "government-of-qatar",
+   "claimIds": [
+    "gov-qatar-record"
+   ],
+   "reasoning": "Already rated serious; the Goodwood presenting deal extends the same Qatari state tourism money from F1 to one of Britain's biggest race meetings, so the existing tier carries over."
+  },
+  {
+   "sponsorId": "emirates",
+   "tier": "serious",
+   "ownerId": "government-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024"
+   ],
+   "reasoning": "Already rated serious; the $12m Dubai World Cup purse sponsorship on top of the official-airline role is more of the same Dubai-government sportswashing spend, no change."
+  },
+  {
+   "sponsorId": "longines",
+   "tier": "none",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "A Swiss watchmaker in the Swatch Group (listed company, no state owner found on the pages checked); it presents races at the Saudi Cup meeting and in France, but nothing state-linked was found, so 'none' pending a deeper look at Swatch Group shareholders."
+  },
+  {
+   "sponsorId": "howden",
+   "tier": "none",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "UK insurance broker that describes its business as grounded in employee ownership - no state owner; presenting partner of the Neom Turf Cup but the company itself is not state-linked."
+  }
+ ],
+ "unsourced": [
+  "EVENT-HOST SHAPE - the schema has no event entity and no host/title-sponsor placement, so the six meetings and their race-by-race sponsorship facts are recorded here, following the UFC precedent. Meeting dates and purses: Saudi Cup meeting 13-14 Feb 2026, King Abdulaziz Racecourse, Riyadh - meeting purse $35.35m, $20m Saudi Cup (world's richest race), won by Forever Young (JCSA, 'Story So Far of The Saudi Cup', https://www.jcsa.sa/en/saudi-cup/saudi-cup-story-so-far/, and JCSA race report https://www.jcsa.sa/en/news/20260214_saudicup/, both opened). 2027 edition: 5-6 Feb 2027 at King Abdulaziz Racecourse (jcsa.sa/en/saudi-cup/, opened). Dubai World Cup meeting: Saturday 28 March 2026, Meydan, US$30.5m across nine races, $12m feature won by Magnitude (https://www.dubairacingclub.com/ and https://www.dubairacingclub.com/about-us/, opened). Qatar Prix de l'Arc de Triomphe weekend: 3-4 Oct 2026, ParisLongchamp, EUR 5m purse (https://billetterie.france-galop.com/en/event/qatar-prix-de-larc-de-triomphe/, opened). Qatar Goodwood Festival: 28 Jul - 1 Aug 2026, five days (day-by-day guide https://www.goodwood.com/horseracing/qatar-goodwood-festival/day-by-day-guide/ and the 2027 tickets page naming 'Qatar Goodwood Festival presented by Visit Qatar', https://www.goodwood.com/horseracing/qatar-goodwood-festival/tickets-and-packages/, both opened). Qatar Racing British Champions Day: Saturday 17 Oct 2026, Ascot, GBP 4.35m, seven races all individually sponsored by Qatar Racing (https://britishchampionsday.com/race-information/ and the 4 Aug 2026 announcement, both opened). Emirates Poules d'Essai: Sunday 10 May 2026, ParisLongchamp (https://billetterie.france-galop.com/en/event/emirates-poules-dessai/, opened).",
+  "RACE TITLES THAT EMBED SPONSORS, per organiser pages opened: Saudi Cup card (TDN entries, https://www.thoroughbreddailynews.com/black-type-analysis-can-shin-emperor-double-up-in-neom-turf-cup-2/, opened; corroborated by JCSA race reports of 14 Feb 2026): 1351 Turf Sprint presented by Qiddiya City; Riyadh Dirt Sprint presented by Saudi National Bank; Neom Turf Cup presented by Howden; Red Sea Turf Handicap presented by Longines; Saudi Derby presented by ZOOD Realty; Tuwaiq Cup presented by SHG; the $20m Saudi Cup itself carries no presenting sponsor. Longines also presented the H.H. The Amir Trophy ($2.5m) in Doha the same weekend. Dubai World Cup meeting: the UAE Derby is 'Sponsored By Atlantis The Royal Dubai' per dubairacingclub.com's DWC news page (https://www.dubairacingclub.com/dubai-world-cup/, opened); other 2026 race-by-race presenters not confirmed. Goodwood 2026 race titles (day-by-day guide, opened): Visit Qatar Sussex Stakes (29 Jul), Qatar Nassau Stakes (30 Jul), King George Qatar Stakes (31 Jul), Al Shaqab Goodwood Cup (28 Jul), Coral Golden Mile and Coral Stewards' Cup; the 2026 Markel Magnolia Cup charity race was on Thursday 30 July with Education Above All as beneficiary (https://www.goodwood.com/horseracing/qatar-goodwood-festival/magnolia-cup/, opened). Arc weekend supporting races carry Qatar titles (Qatar Prix du Cadran, Qatar Arabian Trophy, Qatar Prix de Jean-Luc Lagardere) and Cygames is a 'partner of the Qatar Prix de l'Arc a Triomphe' plus title sponsor of the Grand Prix de Paris since 2025 (France Galop ticketing and partners pages, opened).",
+  "MEETING ORGANISERS AND STATE LINKS: JCSA organises the Saudi Cup meeting (jcsa.sa footer: 'established in 1965... tasked with the organisation, development and promotion of Saudi Arabian horseracing'; history page records the King Faisal royal decree); no page found stating current royal patronage of the meeting in so many words - the 'under the patronage of King Salman' line in the target leads was not confirmed to a fetched source. Dubai Racing Club 'serves to organise and host horseracing at Meydan Racecourse', formed 1992; the first 1981 Dubai meeting was 'organised by the office of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai' (https://www.dubairacingclub.com/about-us/, opened); the page does not state Sheikh Mohammed owns or commissioned Meydan, so that claim stays unverified. The Saudi Cup and Dubai World Cup are state-organised meetings rather than conventionally sponsored events; the race purses are the sponsorable asset.",
+  "QREC GOVERNMENT STATUS: QREC operates on the Qatari state domain qrec.gov.qa (including trainers.qrec.gov.qa and land.qrec.gov.qa) and its chairman credits 'the generous support of our wise leadership', but no fetched page states outright that QREC is a government body (https://qrec.gov.qa/ and https://qrec.gov.qa/en/about-us, both opened). The reported 2023-2027 extension of the Arc sponsorship is a search-result claim only, not verified in a fetched source. France Galop's partners page (opened) is the primary source for 'since 2008... 14 other Group races' and the Qatar Arabian World Cup since 2014 (EUR 1m).",
+  "QIPCO / QATAR RACING CORPORATE DETAIL: the primary sources (both britishchampionsday.com announcements, opened) name 'Qatar Holdings and Investment Company (QIPCO)' and describe Qatar Racing as 'the global horse racing and breeding operation of the QIPCO group' chaired in practice by HH Sheikh Fahad Al Thani with QIPCO chaired by HH Sheikh Hamad Al Thani; QIPCO's own website (qipcoholding.com) did not resolve from this session (DNS failure), so no filing-level verification of QIPCO's corporate structure or shareholding was possible. QIPCO is a private royal-family company - not a Qatari state entity - and any rating text must say so.",
+  "GODOOLPHIN / SHADWELL SILKS: the target notes that jockey silks carry owners' colours (Godolphin, Qatar Racing, Shadwell) rather than sponsor branding; Godolphin is described in the leads as the Dubai ruler's racing operation, but no primary document was fetched this pass, and silks are out of scope for the kit schema. Left unverified.",
+  "AL SHAQAB GOODWOOD CUP: the Group 1 Al Shaqab Goodwood Cup opens the 2026 Qatar Goodwood Festival (goodwood.com day-by-day guide, opened). Al Shaqab is understood to be Qatar Foundation's equestrian arm, but no primary document confirming the ownership chain (Al Shaqab -> Qatar Foundation -> Qatari state) was fetched this pass, so no sponsor entry beyond a note was created.",
+  "ZOOD REALTY: presenter of the Saudi Derby at the 2026 Saudi Cup meeting (TDN, opened). zoodrealty.com resolves only to a bare 'The Block | by ZOOD' page with no company description, and zoodholding.com did not resolve; ownership, country of incorporation and any state links are unresolved.",
+  "SHG: presenter of the Tuwaiq Cup (TDN, opened). The existing sponsor note already flags that SHG's exact legal name is unconfirmed; no new evidence found this pass. The target leads noted the 1351 Turf Sprint was reportedly previously sponsored by stc - not verified to a fetched source.",
+  "EMIRATES' OWN SPONSORSHIP PAGES: emirates.com's sports-sponsorship pages returned 404/timeout on every automated attempt (multiple UA and paths tried), so the 'sponsored by Emirates' line for the $12m purse rests on Emirates 24|7's race report (https://www.emirates247.com/sports/magnitude-wins-dubai-world-cup-2026-at-meydan-racecourse/553, opened) plus the DRC sponsors page ('official airline of the Dubai Racing Carnival', https://www.dubairacingclub.com/sponsors-partners/, opened). A direct Emirates press source naming the Emirates Dubai World Cup would strengthen the deal entry.",
+  "FRANCE GALOP PARTNERS BEYOND THE TARGET (context, all from https://www.france-galop.com/en/ours-partners, opened): Longines is official timekeeper at Chantilly/Deauville/Longchamp and sponsors the Prix de Diane Longines and Prix de l'Opera; Cygames is a Premium Partner of the 2026 Arc; the Barriere Group sponsored the Arc 1999-2007; Hong Kong Jockey Club and TJK (Turkey) sponsor individual French races; Sumbe sponsors the Prix Morny. Recorded here so later waves do not rediscover them.",
+  "MEETING-SITE DEAD ENDS: thesaudicup.com and jcsa.com.sa did not resolve; the Jockey Club of Saudi Arabia's live domain is jcsa.sa (https://www.jcsa.sa/en/saudi-cup/ and news pages, all opened). Arabian Business, Gulf Business and Saudi Gazette blocked automated fetches (noted in the target), so the meeting-level purse figures rely on organiser pages instead."
+ ]
+}

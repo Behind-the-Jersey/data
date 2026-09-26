@@ -1,0 +1,22 @@
+{
+  "id": "dp-world-tour",
+  "aliases": [
+    "dp world tour",
+    "race to dubai",
+    "european tour"
+  ],
+  "sportId": "golf",
+  "name": "DP World Tour (Race to Dubai)",
+  "clubCount": 42,
+  "season": "2026-27",
+  "status": "partial",
+  "notes": [
+    "The 2026 Race to Dubai season runs 27 November 2025 (BMW Australian PGA Championship) to 15 November 2026 (DP World Tour Championship, Dubai); the official schedule page lists 42 tournaments plus a U.S. Open Final Qualifying row, which is not counted (europeantour.com/dpworld-tour/schedule, fetched 25 Sep 2026).",
+    "Season-labelled '2026-27' here because the season crosses calendar years (Nov 2025 - Nov 2026), matching the site's other cross-year competitions; the tour's own pages brand the season '2026 Race to Dubai'.",
+    "The tour is named for its Title Partner DP World, whose extension to 2035 is 'the largest in the Tour's history'; DP World also titles the season-ending DP World Tour Championship and is Official Partner to a further 15 tournaments a season (tour press release, 11 Nov 2025).",
+    "The five Rolex Series events in 2026 are the Hero Dubai Desert Classic, Genesis Scottish Open, BMW PGA Championship, Abu Dhabi Championship and DP World Tour Championship (rolex/2026 page, '5 unmissable events').",
+    "Gulf events: Dubai Invitational, Hero Dubai Desert Classic, Bapco Energies Bahrain Championship, Qatar Masters, Abu Dhabi Championship and DP World Tour Championship (all UAE except Bahrain and Qatar). No Saudi events in 2026; Ras Al Khaimah is not on the schedule.",
+    "Event titles change with sponsors (Abu Dhabi HSBC Championship is now the Abu Dhabi Championship; Commercial Bank Qatar Masters is now plain Qatar Masters); two events are 'presented by' sponsors (Magical Kenya Open presented by absa; Open de Espana presented by Madrid).",
+    "Shape note: tournaments are recorded as clubs (sportId golf, leagueId dp-world-tour). There are no shirt kits for tournaments; kits array is empty. Tournament title sponsors of events other than the four with their own deal rows are recorded in unsourced (event-host shape)."
+  ]
+}

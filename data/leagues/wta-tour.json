@@ -1,0 +1,21 @@
+{
+  "id": "wta-tour",
+  "aliases": [
+    "wta",
+    "women's tennis association tour",
+    "wta tour driven by mercedes-benz"
+  ],
+  "sportId": "tennis",
+  "name": "WTA Tour",
+  "clubCount": 57,
+  "season": "2026",
+  "status": "partial",
+  "notes": [
+    "2026 season runs 2 January to 22 November 2026; 57 tournaments per the Wikipedia 2026 WTA Tour summary (4 Grand Slams, WTA Finals, 10 WTA 1000, 17 WTA 500, 22 WTA 250, United Cup, Billie Jean King Cup qualifying round and finals). The official calendar (wtatennis.com/tournaments and api.wtatennis.com) returned HTTP 429 on every automated attempt.",
+    "The tour is branded 'WTA Tour Driven by Mercedes-Benz' from 1 January 2026 (Tennis.com, 11 Dec 2025): Mercedes-Benz is Exclusive Automobile Partner and Premier Partner, replacing Hologic as title sponsor.",
+    "PIF is a Global Partner of the WTA Tour and first-ever naming partner of the 'PIF WTA Rankings' (Tennis.com, 20 May 2024); wtatennis.com/rankings still shows 'PIF WTA Rankings' as of 25 Sep 2026, and the wtatennis.com footer lists PIF among Global Partners.",
+    "The WTA Finals left Riyadh a year early: held in Riyadh 2024 and 2025 under a three-year Saudi Tennis Federation deal; the 2026 edition is at Indian Wells (8-15 Nov 2026 per The National; the Wikipedia calendar row says the week of 9 Nov) and Charlotte, North Carolina hosts from 2027 for at least three years.",
+    "Grand Slams are run by the national federations, not the WTA; United Cup is a combined ATP/WTA event; the Billie Jean King Cup is organised by the ITF.",
+    "Shape note: tournaments are recorded as clubs (sportId tennis, leagueId wta-tour). There are no shirt kits for tournaments; kits array is empty. Tournament title sponsors and hosts are recorded in unsourced (event-host shape)."
+  ]
+}

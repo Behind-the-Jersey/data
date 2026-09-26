@@ -1,0 +1,46 @@
+{
+  "id": "porto-2026-27-home",
+  "clubId": "porto",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "back": "assets/shirts/porto/2026-27-home-back.jpg",
+    "front": "assets/shirts/porto/2026-27-home-front.jpg",
+    "square": "assets/shirts/grid/porto-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "betano",
+      "placement": "front",
+      "source": {
+        "name": "Kaizen Gaming, 'Betano and FC Porto renew partnership until 2029' (Main Sponsor, logo on the front of the official match shirts)",
+        "date": "2026-07-30",
+        "url": "https://kaizengaming.com/news/betano-and-fc-porto-renew-partnership-until-2029-2/"
+      }
+    },
+    {
+      "sponsorId": "super-bock",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Betano front slot; Super Bock back)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    },
+    {
+      "sponsorId": "xtb",
+      "placement": "sleeve",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (XTB sleeve, UEFA matches)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
+  "change": null
+}

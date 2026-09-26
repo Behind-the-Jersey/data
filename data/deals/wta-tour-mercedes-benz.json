@@ -1,0 +1,25 @@
+{
+  "id": "wta-tour-mercedes-benz",
+  "clubId": null,
+  "orgName": "WTA Tour",
+  "sponsorId": "mercedes-benz",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": {
+    "amount": 50,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 50
+  },
+  "source": {
+    "name": "Tennis.com - Billie Jean King applauds historic WTA, Mercedes-Benz partnership",
+    "date": "2025-12-11",
+    "url": "https://www.tennis.com/news/articles/wta-partnership-deal-mercedes-benz-most-signigifanct-billie-jean-king",
+    "note": "Mercedes-Benz becomes Exclusive Automobile Partner and Premier Partner; tour renamed 'WTA Tour Driven by Mercedes-Benz' from 1 Jan 2026, replacing Hologic as title sponsor. Reported figures of $50m per year for up to 10 years are press estimates; official terms not disclosed."
+  },
+  "leagueId": "wta-tour",
+  "note": "Tour-wide naming: 'WTA Tour Driven by Mercedes-Benz'; presence at roughly 30 events in 2026."
+}

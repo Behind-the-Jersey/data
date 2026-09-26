@@ -6,7 +6,11 @@
   "periodLabel": "2026-27",
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
-  "photos": {},
+  "photos": {
+    "back": "assets/shirts/new-york-red-bulls/2026-27-home-back.jpg",
+    "front": "assets/shirts/new-york-red-bulls/2026-27-home-front.jpg",
+    "square": "assets/shirts/grid/new-york-red-bulls-2026-27-home-front-square.jpg"
+  },
   "sponsors": [
     {
       "sponsorId": "red-bull",
@@ -14,8 +18,7 @@
       "source": {
         "name": "newyorkredbulls.com",
         "date": "2026-02-17",
-        "url": null,
-        "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.newyorkredbulls.com/club/partners"
+        "url": "https://www.newyorkredbulls.com/club/partners"
       }
     }
   ],

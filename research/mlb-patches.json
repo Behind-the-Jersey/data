@@ -1,0 +1,1108 @@
+{
+  "target": "mlb-patches",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/22",
+  "sports": [],
+  "leagues": [
+    {
+      "id": "mlb",
+      "aliases": [
+        "major league baseball",
+        "usa"
+      ],
+      "sportId": "baseball",
+      "name": "MLB",
+      "country": "USA and Canada",
+      "clubCount": 30,
+      "season": "2026",
+      "status": "partial",
+      "notes": [
+        "All 30 clubs have 2026-27 jersey kits with a verified patch sponsor and source (ingested from the US-leagues wave, commit 'Ingest the US leagues'); kit season label 2026-27 kept for consistency with the rest of the data.",
+        "Jersey patches are sponsors ON the jersey kit with placement 'patch'.",
+        "League-level partners: 40 Official Sponsors listed on MLB.com's Official Sponsors page (opened 2026-09-25); recorded as league-partner deals.",
+        "Baseball sport code already existed in normalized/sports.json with status not-mapped; unchanged here."
+      ]
+    }
+  ],
+  "clubs": [],
+  "owners": [],
+  "sponsors": [
+    {
+      "id": "abbvie",
+      "name": "AbbVie",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "ace-hardware",
+      "name": "Ace Hardware",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "astroturf",
+      "name": "ASTRO Turf",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "banana-boat",
+      "name": "Banana Boat",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "betmgm",
+      "name": "BetMGM",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "booking-com",
+      "name": "Booking.com",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "church-and-dwight",
+      "name": "Church & Dwight",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "corona",
+      "name": "Corona",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "fanduel",
+      "name": "FanDuel",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "firehouse-subs",
+      "name": "Firehouse Subs",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "gatorade",
+      "name": "Gatorade",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "geico",
+      "name": "GEICO",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "google-cloud",
+      "name": "Google Cloud",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "ito-en",
+      "name": "Ito En",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "japan-airlines",
+      "name": "Japan Airlines (JAL)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "john-deere",
+      "name": "John Deere",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "konami",
+      "name": "Konami",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "mark-west-wines",
+      "name": "Mark West Wines",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "mgm-resorts",
+      "name": "MGM Resorts",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "new-balance",
+      "name": "New Balance",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "new-york-life",
+      "name": "New York Life",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "nfp",
+      "name": "NFP",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "nutrafol",
+      "name": "Nutrafol",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "primo-brands",
+      "name": "Primo Brands",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "seatgeek",
+      "name": "SeatGeek",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "siriusxm",
+      "name": "SiriusXM",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "strauss-america",
+      "name": "STRAUSS (Strauss America)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "US performance-workwear brand (us.strauss.com, STRAUSS/Strauss America), official sponsor per MLB.com. Distinct from the existing 'strauss' sponsor (Strauss GmbH, Germany) already in the data; not the same company."
+    },
+    {
+      "id": "traveller-whiskey",
+      "name": "Traveller Whiskey",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "wm",
+      "name": "WM (Waste Management)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    },
+    {
+      "id": "zoom",
+      "name": "Zoom",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": []
+    }
+  ],
+  "kits": [],
+  "deals": [
+    {
+      "id": "mlb-abbvie",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "abbvie",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-ace-hardware",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "ace-hardware",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-astroturf",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "astroturf",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-banana-boat",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "banana-boat",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-betmgm",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "betmgm",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-booking-com",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "booking-com",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-church-and-dwight",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "church-and-dwight",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-corona",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "corona",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-fanduel",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "fanduel",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-firehouse-subs",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "firehouse-subs",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-gatorade",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "gatorade",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-geico",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "geico",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-google-cloud",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "google-cloud",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-ito-en",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "ito-en",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-japan-airlines",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "japan-airlines",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-john-deere",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "john-deere",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-konami",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "konami",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-mark-west-wines",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "mark-west-wines",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-mgm-resorts",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "mgm-resorts",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-new-balance",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "new-balance",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-new-york-life",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "new-york-life",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-nfp",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "nfp",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-nutrafol",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "nutrafol",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-primo-brands",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "primo-brands",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-sage",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "sage",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-seatgeek",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "seatgeek",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-siriusxm",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "siriusxm",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-strauss-america",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "strauss-america",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-traveller-whiskey",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "traveller-whiskey",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-wm",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "wm",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-zoom",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "zoom",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-adobe",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "adobe",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-ford",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "ford",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-mastercard",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "mastercard",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-capital-one",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "capital-one",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-t-mobile",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "t-mobile",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-extreme-networks",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "extreme-networks",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-nike",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "nike",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-anheuser-busch",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "anheuser-busch",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    },
+    {
+      "id": "mlb-polymarket",
+      "clubId": null,
+      "orgName": "Major League Baseball",
+      "sponsorId": "polymarket",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "MLB.com: Official Sponsors of Major League Baseball (page opened 2026-09-25)",
+        "date": "2026-09-25",
+        "url": "https://www.mlb.com/sponsorship/official-sponsors",
+        "note": "Official Sponsors of Major League Baseball page listing current league sponsors; opened 2026-09-25."
+      },
+      "leagueId": "mlb",
+      "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
+    }
+  ],
+  "claims": [],
+  "proposedRatings": [],
+  "unsourced": [
+    "The 30 club kits, patch sponsors, owners and ratings for this target already exist in normalized/ (added by the earlier US-leagues wave, commits 1903575/4c01b74); all 30 kit sponsor source URLs were re-opened and resolved (200) on 2026-09-25, except two that block bots: NJ.com (Yankees x Starr Insurance) and Crain's Cleveland (Guardians x Marathon extension), both confirmed via reader-proxy fetches of the full article text.",
+    "Yankees x Starr Insurance: the NJ.com article (opened via reader proxy, published 2026-04-22) confirms the Starr Insurance patch on the left sleeve since 21 July 2023 and reports a reported $25m through the 2031 season; the $25m figure is a press report, not a club disclosure, and is not recorded as a deal value.",
+    "Guardians x Marathon: Crain's Cleveland Business (opened via reader proxy, published 2026-09-16) reports the jersey-patch partnership extended beyond the 2026 season; the deal record's open-ended 'to' stays null.",
+    "The league entry in normalized/leagues.json already exists with clubCount 30 and season 2026; this file proposes status 'partial' plus notes. The 2026-27 season label on the 30 existing MLB kits differs from the calendar-year 2026 league season - left as-is to avoid touching shared files.",
+    "MLB's Official International Sponsors page (https://www.mlb.com/international/partners, opened 2026-09-25) lists many regional partners (Japan, Asia-Pacific, Canada, Europe, Latin America); those were not recorded as deals - out of scope for a first pass and each needs its own source check.",
+    "Deal start years for the 40 official sponsors are not stated on the official-sponsors page and were left null; the sponsor logos link to partner sites, not announcement releases.",
+    "STRAUSS (us.strauss.com, Strauss America workwear) is a different company from the existing 'strauss' sponsor (Strauss GmbH, Germany); a new id 'strauss-america' was created to avoid merging them.",
+    "Budweiser is listed as an official sponsor via the Anheuser-Busch module; recorded under the existing sponsorId 'anheuser-busch' with the brand named in the note.",
+    "No claims or proposed ratings were added: none of the 40 league-level official sponsors is state-owned or state-linked on the face of the ownership data already in the repo, and the existing patch-sponsor ratings (lvcva serious, kroger concern, rest none) were set in the earlier wave."
+  ]
+}

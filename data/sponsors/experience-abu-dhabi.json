@@ -7,9 +7,12 @@
   "status": "rated",
   "verdict": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
   "claimIds": [
-    "government-of-abu-dhabi-record"
+    "government-of-abu-dhabi-record",
+    "uae-mass-trial-2024"
   ],
-  "aliases": [],
+  "aliases": [
+    "dct abu dhabi"
+  ],
   "note": "Rating note: Ultimate owner is the Government of Abu Dhabi, a state entity, which places it in the serious tier per rubric (state owner).",
   "why": {
     "text": "Experience Abu Dhabi is a tourism brand of the Abu Dhabi government, part of the United Arab Emirates. In 2024, a UAE court gave 43 people, including human rights defenders, life sentences after a single mass trial that human rights monitors called unfair, and in March 2025 the UAE’s Federal Supreme Court upheld the convictions. A tourism brand on a famous jersey makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
@@ -21,5 +24,5 @@
     "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial, and the convictions were upheld in 2025.",
     "status": "draft"
   },
-  "ownerVerb": "paid for by"
+  "ownerVerb": "owned by"
 }

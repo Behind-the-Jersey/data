@@ -1,0 +1,1788 @@
+{
+ "target": "dp-world-tour",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/249",
+ "sports": [
+  {
+   "id": "golf",
+   "label": "Golf",
+   "status": "not-mapped",
+   "aliases": [
+    "dp world tour",
+    "european tour",
+    "race to dubai"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "dp-world-tour",
+   "aliases": [
+    "dp world tour",
+    "race to dubai",
+    "european tour"
+   ],
+   "sportId": "golf",
+   "name": "DP World Tour (Race to Dubai)",
+   "clubCount": 42,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "The 2026 Race to Dubai season runs 27 November 2025 (BMW Australian PGA Championship) to 15 November 2026 (DP World Tour Championship, Dubai); the official schedule page lists 42 tournaments plus a U.S. Open Final Qualifying row, which is not counted (europeantour.com/dpworld-tour/schedule, fetched 25 Sep 2026).",
+    "Season-labelled '2026-27' here because the season crosses calendar years (Nov 2025 - Nov 2026), matching the site's other cross-year competitions; the tour's own pages brand the season '2026 Race to Dubai'.",
+    "The tour is named for its Title Partner DP World, whose extension to 2035 is 'the largest in the Tour's history'; DP World also titles the season-ending DP World Tour Championship and is Official Partner to a further 15 tournaments a season (tour press release, 11 Nov 2025).",
+    "The five Rolex Series events in 2026 are the Hero Dubai Desert Classic, Genesis Scottish Open, BMW PGA Championship, Abu Dhabi Championship and DP World Tour Championship (rolex/2026 page, '5 unmissable events').",
+    "Gulf events: Dubai Invitational, Hero Dubai Desert Classic, Bapco Energies Bahrain Championship, Qatar Masters, Abu Dhabi Championship and DP World Tour Championship (all UAE except Bahrain and Qatar). No Saudi events in 2026; Ras Al Khaimah is not on the schedule.",
+    "Event titles change with sponsors (Abu Dhabi HSBC Championship is now the Abu Dhabi Championship; Commercial Bank Qatar Masters is now plain Qatar Masters); two events are 'presented by' sponsors (Magical Kenya Open presented by absa; Open de Espana presented by Madrid).",
+    "Shape note: tournaments are recorded as clubs (sportId golf, leagueId dp-world-tour). There are no shirt kits for tournaments; kits array is empty. Tournament title sponsors of events other than the four with their own deal rows are recorded in unsourced (event-host shape)."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "bmw-australian-pga-championship",
+   "name": "BMW Australian PGA Championship",
+   "shortName": "Australian PGA",
+   "code": "APG",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "australian pga"
+   ]
+  },
+  {
+   "id": "crown-australian-open",
+   "name": "Crown Australian Open",
+   "shortName": "Crown Australian Open",
+   "code": "CAO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "australian open golf"
+   ]
+  },
+  {
+   "id": "nedbank-golf-challenge",
+   "name": "Nedbank Golf Challenge in honour of Gary Player",
+   "shortName": "Nedbank Challenge",
+   "code": "NGC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "South Africa",
+   "crest": null,
+   "aliases": [
+    "nedbank"
+   ]
+  },
+  {
+   "id": "alfred-dunhill-championship",
+   "name": "Alfred Dunhill Championship",
+   "shortName": "Dunhill Championship",
+   "code": "ADC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "South Africa",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "afrasia-bank-mauritius-open",
+   "name": "AfrAsia Bank Mauritius Open",
+   "shortName": "Mauritius Open",
+   "code": "AMO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Mauritius",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "dubai-invitational",
+   "name": "Dubai Invitational",
+   "shortName": "Dubai Invitational",
+   "code": "DUI",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "UAE",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "hero-dubai-desert-classic",
+   "name": "Hero Dubai Desert Classic",
+   "shortName": "Dubai Desert Classic",
+   "code": "DDC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "UAE",
+   "crest": null,
+   "aliases": [
+    "dubai desert classic"
+   ]
+  },
+  {
+   "id": "bapco-energies-bahrain-championship",
+   "name": "Bapco Energies Bahrain Championship",
+   "shortName": "Bahrain Championship",
+   "code": "BEC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Bahrain",
+   "crest": null,
+   "aliases": [
+    "bahrain championship"
+   ]
+  },
+  {
+   "id": "qatar-masters",
+   "name": "Qatar Masters",
+   "shortName": "Qatar Masters",
+   "code": "QMA",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Qatar",
+   "crest": null,
+   "aliases": [
+    "commercial bank qatar masters"
+   ]
+  },
+  {
+   "id": "magical-kenya-open",
+   "name": "Magical Kenya Open presented by absa",
+   "shortName": "Kenya Open",
+   "code": "MKO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Kenya",
+   "crest": null,
+   "aliases": [
+    "kenya open"
+   ]
+  },
+  {
+   "id": "investec-south-african-open",
+   "name": "Investec South African Open Championship",
+   "shortName": "South African Open",
+   "code": "SAO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "South Africa",
+   "crest": null,
+   "aliases": [
+    "south african open"
+   ]
+  },
+  {
+   "id": "joburg-open",
+   "name": "Joburg Open",
+   "shortName": "Joburg Open",
+   "code": "JOB",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "South Africa",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "hainan-classic",
+   "name": "Hainan Classic presented by MAEXTRO",
+   "shortName": "Hainan Classic",
+   "code": "HAI",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "hero-indian-open",
+   "name": "Hero Indian Open",
+   "shortName": "Indian Open",
+   "code": "HIO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "India",
+   "crest": null,
+   "aliases": [
+    "indian open"
+   ]
+  },
+  {
+   "id": "masters",
+   "name": "THE MASTERS",
+   "shortName": "Masters",
+   "code": "MAS",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "the masters",
+    "masters tournament"
+   ]
+  },
+  {
+   "id": "volvo-china-open",
+   "name": "Volvo China Open",
+   "shortName": "China Open",
+   "code": "VCO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "china open golf"
+   ]
+  },
+  {
+   "id": "turkish-airlines-open",
+   "name": "Turkish Airlines Open",
+   "shortName": "Turkish Airlines Open",
+   "code": "TAO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Turkiye",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "estrella-damm-catalunya-championship",
+   "name": "Estrella Damm Catalunya Championship",
+   "shortName": "Catalunya Championship",
+   "code": "EDC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Spain",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "us-pga-championship",
+   "name": "U.S. PGA Championship",
+   "shortName": "US PGA",
+   "code": "PGA",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "pga championship",
+    "us pga"
+   ]
+  },
+  {
+   "id": "soudal-open",
+   "name": "Soudal Open",
+   "shortName": "Soudal Open",
+   "code": "SOP",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Belgium",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "austrian-alpine-open",
+   "name": "Austrian Alpine Open presented by Kitzbühel Tirol",
+   "shortName": "Austrian Alpine Open",
+   "code": "AAO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Austria",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "klm-open",
+   "name": "KLM Open",
+   "shortName": "KLM Open",
+   "code": "KLM",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Netherlands",
+   "crest": null,
+   "aliases": [
+    "dutch open"
+   ]
+  },
+  {
+   "id": "us-open-golf",
+   "name": "U.S. Open",
+   "shortName": "US Open (golf)",
+   "code": "USG",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "us open golf"
+   ]
+  },
+  {
+   "id": "ds-automobiles-open-ditalia",
+   "name": "DS Automobiles 83° Open d'Italia",
+   "shortName": "Italian Open",
+   "code": "DSI",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "italian open golf",
+    "open ditalia"
+   ]
+  },
+  {
+   "id": "bmw-international-open",
+   "name": "BMW International Open",
+   "shortName": "BMW International Open",
+   "code": "BIO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "genesis-scottish-open",
+   "name": "Genesis Scottish Open",
+   "shortName": "Scottish Open",
+   "code": "GSO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Scotland",
+   "crest": null,
+   "aliases": [
+    "scottish open"
+   ]
+  },
+  {
+   "id": "isco-championship",
+   "name": "ISCO Championship",
+   "shortName": "ISCO Championship",
+   "code": "ISC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "the-open-championship",
+   "name": "THE 154TH OPEN",
+   "shortName": "The Open",
+   "code": "TOD",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "the open championship",
+    "british open"
+   ]
+  },
+  {
+   "id": "corales-puntacana-championship",
+   "name": "Corales Puntacana Championship",
+   "shortName": "Puntacana Championship",
+   "code": "CPC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Dominican Republic",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "danish-golf-championship",
+   "name": "Danish Golf Championship",
+   "shortName": "Danish Championship",
+   "code": "DGC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Denmark",
+   "crest": null,
+   "aliases": [
+    "made in himmerland"
+   ]
+  },
+  {
+   "id": "nexo-championship",
+   "name": "Nexo Championship",
+   "shortName": "Nexo Championship",
+   "code": "NEX",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Scotland",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "husqvarna-british-masters",
+   "name": "Husqvarna British Masters hosted by Sir Nick Faldo",
+   "shortName": "British Masters",
+   "code": "HBM",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "british masters"
+   ]
+  },
+  {
+   "id": "omega-european-masters",
+   "name": "Omega European Masters",
+   "shortName": "European Masters",
+   "code": "OEM",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Switzerland",
+   "crest": null,
+   "aliases": [
+    "swiss open"
+   ]
+  },
+  {
+   "id": "amgen-irish-open",
+   "name": "Amgen Irish Open",
+   "shortName": "Irish Open",
+   "code": "AIO",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Ireland",
+   "crest": null,
+   "aliases": [
+    "irish open"
+   ]
+  },
+  {
+   "id": "bmw-pga-championship",
+   "name": "BMW PGA Championship",
+   "shortName": "BMW PGA",
+   "code": "BPG",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "wentworth"
+   ]
+  },
+  {
+   "id": "fedex-open-de-france",
+   "name": "FedEx Open de France",
+   "shortName": "Open de France",
+   "code": "FOD",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "french open golf",
+    "open de france"
+   ]
+  },
+  {
+   "id": "alfred-dunhill-links-championship",
+   "name": "Alfred Dunhill Links Championship",
+   "shortName": "Dunhill Links",
+   "code": "ADL",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Scotland",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "open-de-espana",
+   "name": "Open de España presented by Madrid",
+   "shortName": "Spanish Open",
+   "code": "ODE",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "spanish open"
+   ]
+  },
+  {
+   "id": "dp-world-india-championship",
+   "name": "DP World India Championship",
+   "shortName": "India Championship",
+   "code": "DWI",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "India",
+   "crest": null,
+   "aliases": [
+    "india championship"
+   ]
+  },
+  {
+   "id": "genesis-championship",
+   "name": "Genesis Championship",
+   "shortName": "Genesis Championship",
+   "code": "GNC",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "abu-dhabi-championship",
+   "name": "Abu Dhabi Championship",
+   "shortName": "Abu Dhabi Championship",
+   "code": "ADH",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "UAE",
+   "crest": null,
+   "aliases": [
+    "abu dhabi hsbc championship"
+   ]
+  },
+  {
+   "id": "dp-world-tour-championship",
+   "name": "DP World Tour Championship, Dubai",
+   "shortName": "Tour Championship",
+   "code": "DWT",
+   "sportId": "golf",
+   "leagueId": "dp-world-tour",
+   "country": "UAE",
+   "crest": null,
+   "aliases": [
+    "dp world tour championship dubai"
+   ]
+  }
+ ],
+ "owners": [],
+ "sponsors": [
+  {
+   "id": "hero-motocorp",
+   "name": "Hero MotoCorp",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "hero motocorp ltd",
+    "hero"
+   ],
+   "note": "India's largest two-wheeler manufacturer by its own site tagline ('India's Leading Two-Wheeler Manufacturer'); title sponsor of the Hero Dubai Desert Classic and Hero Indian Open (event names on the 2026 schedule). Ownership not traced to a primary document in this pass."
+  },
+  {
+   "id": "qatar-golf-association",
+   "name": "Qatar Golf Association",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "qga"
+   ],
+   "note": "Organiser/promoter of the Qatar Masters; its 2026 announcement credits the Qatar Olympic Committee's support (DP World Tour news article). No primary ownership statement found; left unowned rather than guessed."
+  },
+  {
+   "id": "bmw",
+   "name": "BMW",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "bmw group"
+   ],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026); title sponsor of the BMW Australian PGA Championship, BMW International Open and BMW PGA Championship. BMW AG is a Frankfurt-listed manufacturer (existing owner entry bmw-ag); not linked here because the tour page does not say which BMW entity is the partner."
+  },
+  {
+   "id": "nexo",
+   "name": "Nexo",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "nexo.com"
+   ],
+   "note": "DP World Tour partner; describes itself as 'the premier wealth platform for digital assets' (nexo.com/about); a 2025 milestone on its own site notes a 'Three-year partnership with the DP World Tour as its Official Digital Asset Partner'. Title sponsor of the Nexo Championship (event name, 2026). Private crypto lender; ownership not disclosed on its about page."
+  },
+  {
+   "id": "amgen",
+   "name": "Amgen",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the Amgen Irish Open (event name, 2026 Race to Dubai schedule). US biotech; ownership not traced here."
+  },
+  {
+   "id": "genesis",
+   "name": "Genesis",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "genesis worldwide"
+   ],
+   "note": "Title sponsor of the Genesis Scottish Open and Genesis Championship (event names, 2026). Genesis is Hyundai Motor Group's luxury car brand; the event pages name no sponsor details, so no owner linked here pending a primary source."
+  },
+  {
+   "id": "volvo-cars",
+   "name": "Volvo Cars",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "volvo"
+   ],
+   "note": "Title sponsor of the Volvo China Open (event name, 2026 Race to Dubai schedule). Ownership not traced to a primary document in this pass."
+  },
+  {
+   "id": "klm",
+   "name": "KLM",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "royal dutch airlines"
+   ],
+   "note": "Title sponsor of the KLM Open (event name, 2026 Race to Dubai schedule). Air France-KLM group airline; ownership not traced here."
+  },
+  {
+   "id": "estrella-damm",
+   "name": "Estrella Damm",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the Estrella Damm Catalunya Championship (event name, 2026 Race to Dubai schedule). Damm group beer brand; ownership not traced here."
+  },
+  {
+   "id": "investec",
+   "name": "Investec",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the Investec South African Open Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+   "id": "nedbank",
+   "name": "Nedbank",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the Nedbank Golf Challenge (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+   "id": "afrasia-bank",
+   "name": "AfrAsia Bank",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the AfrAsia Bank Mauritius Open (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+   "id": "absa-group",
+   "name": "Absa",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "absa"
+   ],
+   "note": "Presenting sponsor of the Magical Kenya Open presented by absa (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+   "id": "alfred-dunhill",
+   "name": "Alfred Dunhill",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "dunhill"
+   ],
+   "note": "Title sponsor of the Alfred Dunhill Championship and Alfred Dunhill Links Championship (event names, 2026 Race to Dubai schedule). Richemont-owned brand; not traced to a primary document here."
+  },
+  {
+   "id": "crown-resorts",
+   "name": "Crown",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "crown"
+   ],
+   "note": "Title sponsor of the Crown Australian Open (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+   "id": "isco",
+   "name": "ISCO",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the ISCO Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+   "id": "corales-puntacana",
+   "name": "Corales Puntacana",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "puntacana resort and club"
+   ],
+   "note": "Title sponsor of the Corales Puntacana Championship (event name, 2026 Race to Dubai schedule). Puntacana Resort & Club; ownership not traced here."
+  },
+  {
+   "id": "husqvarna",
+   "name": "Husqvarna",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026) and title sponsor of the Husqvarna British Masters (event name). Husqvarna Group is a Stockholm-listed manufacturer; ownership not traced here."
+  },
+  {
+   "id": "omega",
+   "name": "Omega",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the Omega European Masters (event name, 2026 Race to Dubai schedule). Swatch Group brand; ownership not traced here."
+  },
+  {
+   "id": "michelob-ultra",
+   "name": "Michelob Ultra",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). AB InBev brand (existing sponsor entry ab-inbev); not linked here because the tour page names only the brand."
+  },
+  {
+   "id": "buffalo-trace-distillery",
+   "name": "Buffalo Trace Distillery",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "buffalo trace"
+   ],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Sazerac-owned distillery per general knowledge; not traced to a primary document here, so no owner linked."
+  },
+  {
+   "id": "fortinet",
+   "name": "Fortinet",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). NASDAQ-listed cybersecurity company; ownership not traced here."
+  },
+  {
+   "id": "hcltech",
+   "name": "HCLTech",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "hcl technologies"
+   ],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). NSE/BSE-listed IT services company; ownership not traced here."
+  },
+  {
+   "id": "aldar-properties",
+   "name": "Aldar Properties",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "aldar"
+   ],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Abu Dhabi-listed developer; aldar.com is JS-gated and no primary ownership statement was retrieved, so no owner linked."
+  },
+  {
+   "id": "axi",
+   "name": "AXI",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "axi.com"
+   ],
+   "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Online trading brand; ownership not traced here."
+  },
+  {
+   "id": "ega",
+   "name": "Emirates Golf Association",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ega",
+    "emirates golf federation"
+   ],
+   "note": "Founding Partner of the Hero Dubai Desert Classic per the event's own sponsors page (europeantour.com/dpworld-tour/hero-dubai-desert-classic-2026/sponsors, fetched 25 Sep 2026); egfgolf.com. UAE golf governing body; ownership not stated on the event page."
+  },
+  {
+   "id": "emirates-nbd",
+   "name": "Emirates NBD",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Partner of the Hero Dubai Desert Classic (event sponsors page, fetched 25 Sep 2026). Dubai bank, part-owned by Investment Corporation of Dubai per general knowledge; not traced to a primary document here."
+  },
+  {
+   "id": "network-international",
+   "name": "Network International",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Partner of the Hero Dubai Desert Classic (event sponsors page, fetched 25 Sep 2026). Ownership not traced here."
+  },
+  {
+   "id": "wasl-properties",
+   "name": "wasl",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "wasl asset management group",
+    "dubai real estate corporation"
+   ],
+   "note": "Official Partner of the Dubai Invitational and the Hero Dubai Desert Classic (event sponsors pages, fetched 25 Sep 2026). wasl.ae about-us: founded 25 May 2008 'from the union of the Dubai Development Board and Real Estate Department' and manages 'assets entrusted to us by DREC'; Dubai state lineage is the company's own history page, but an explicit 'Government of Dubai owner' statement was not found, so no owner linked."
+  },
+  {
+   "id": "tamkeen",
+   "name": "Tamkeen (Bahrain Labour Fund)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "labour fund tamkeen"
+   ],
+   "note": "Official Partner of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). tamkeen.bh: 'the only official domain of the Labour Fund Tamkeen' operating since 2006; no explicit government-ownership statement on the site."
+  },
+  {
+   "id": "gulf-air",
+   "name": "Gulf Air",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Official Sponsor of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Bahrain's national carrier per general knowledge; not traced to a primary document here."
+  },
+  {
+   "id": "bahrain-gsa",
+   "name": "General Sports Authority (Bahrain)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "gsa bahrain"
+   ],
+   "note": "Official Supporter of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Bahrain state sports authority; not traced to a primary document here."
+  },
+  {
+   "id": "boc",
+   "name": "Bank of Bahrain and Kuwait (BOK/B.O.C)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "boc bahrain"
+   ],
+   "note": "Official Supporter of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Ownership not traced here."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "dp-world-tour-dp-world",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "dp-world",
+   "placement": "league-partner",
+   "from": "2022",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour news: DP World signs long-term title partner extension with the DP World Tour",
+    "date": "2025-11-11",
+    "url": "https://www.europeantour.com/dpworld-tour/news/articles/detail/dp-world-signs-long-term-title-partner-extension-with-the-dp-world-tour/"
+   },
+   "note": "Title Partner and Official Logistics Partner of the DP World Tour until 2035; deal described as 'the largest in the Tour's history'; extends a title partnership begun in 2022 when the European Tour was renamed the DP World Tour. DP World also stays Title Partner of the season-ending DP World Tour Championship in Dubai until 2035 and becomes an Official Partner to a further 15 tournaments each season.",
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-championship-dp-world",
+   "clubId": null,
+   "orgName": "DP World Tour Championship, Dubai",
+   "sponsorId": "dp-world",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour news: DP World signs long-term title partner extension",
+    "date": "2025-11-11",
+    "url": "https://www.europeantour.com/dpworld-tour/news/articles/detail/dp-world-signs-long-term-title-partner-extension-with-the-dp-world-tour/"
+   },
+   "note": "DP World continues as Title Partner of the DP World Tour Championship in Dubai until 2035 - 'the season-ending Rolex Series event where the Race to Dubai Champion is crowned' (same press release as the tour deal).",
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "bapco-energies-bahrain-championship-bapco",
+   "clubId": null,
+   "orgName": "Bapco Energies Bahrain Championship",
+   "sponsorId": "bapco-energies",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour - Bapco Energies Bahrain Championship 2026 event sponsors page (Title Partner)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/bapco-energies-bahrain-championship-2026/sponsors"
+   },
+   "note": "Bapco Energies is the title partner - the event carries its name; the event's own sponsors page lists it under 'Title Partner' (bapcoenergies.com).",
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "hero-dubai-desert-classic-hero",
+   "clubId": null,
+   "orgName": "Hero Dubai Desert Classic",
+   "sponsorId": "hero-motocorp",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour - Hero Dubai Desert Classic 2026 event sponsors page (Title Partner)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/hero-dubai-desert-classic-2026/sponsors"
+   },
+   "note": "Hero is the title partner - the event carries its name; the event's own sponsors page lists heromotocorp.com under 'Title Partner'.",
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-india-championship-dp-world",
+   "clubId": null,
+   "orgName": "DP World India Championship",
+   "sponsorId": "dp-world",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour news: DP World signs long-term title partner extension",
+    "date": "2025-11-11",
+    "url": "https://www.europeantour.com/dpworld-tour/news/articles/detail/dp-world-signs-long-term-title-partner-extension-with-the-dp-world-tour/"
+   },
+   "note": "The DP World India Championship carries DP World's name and 'will return in 2026, with the ambition to become a regular fixture on the Tour calendar' (title-partner extension release, 11 Nov 2025).",
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "nexo-championship-nexo",
+   "clubId": null,
+   "orgName": "Nexo Championship",
+   "sponsorId": "nexo",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour - Nexo Championship 2026 event page",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/nexo-championship-2026/"
+   },
+   "note": "The Nexo Championship carries Nexo's name (event page logo 'Nexo Championship_POS_RGB'; Nexo also describes a three-year DP World Tour Official Digital Asset Partner partnership on its own about page).",
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-aldar-properties",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "aldar-properties",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-aws",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "aws",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-axi",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "axi",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-bmw",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "bmw",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-buffalo-trace-distillery",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "buffalo-trace-distillery",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-emirates",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "emirates",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-fortinet",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "fortinet",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-hcltech",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "hcltech",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-husqvarna",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "husqvarna",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-michelob-ultra",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "michelob-ultra",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-nexo",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "nexo",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-tour-rolex",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "rolex",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour site footer - 'DP World Tour Partners' (logo link)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Logo link in the tour's partner bar; the page shows no tier labels or deal dates."
+   },
+   "leagueId": "dp-world-tour"
+  },
+  {
+   "id": "dp-world-qatar-golf-association",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "qatar-golf-association",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Organiser/promoter of the Qatar Masters; its 2026 announcement credits the Qatar Olympic Committee's support (DP World Tour news article). No primary ownership statement found; left unowned rather than guessed."
+   }
+  },
+  {
+   "id": "dp-world-amgen",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "amgen",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Amgen Irish Open (event name, 2026 Race to Dubai schedule). US biotech; ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-genesis",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "genesis",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Genesis Scottish Open and Genesis Championship (event names, 2026). Genesis is Hyundai Motor Group's luxury car brand; the event pages name no sponsor details, so no owner linked here pending a primary source."
+   }
+  },
+  {
+   "id": "dp-world-volvo-cars",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "volvo-cars",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Volvo China Open (event name, 2026 Race to Dubai schedule). Ownership not traced to a primary document in this pass."
+   }
+  },
+  {
+   "id": "dp-world-klm",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "klm",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the KLM Open (event name, 2026 Race to Dubai schedule). Air France-KLM group airline; ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-estrella-damm",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "estrella-damm",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Estrella Damm Catalunya Championship (event name, 2026 Race to Dubai schedule). Damm group beer brand; ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-investec",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "investec",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Investec South African Open Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-nedbank",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "nedbank",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Nedbank Golf Challenge (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-afrasia-bank",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "afrasia-bank",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the AfrAsia Bank Mauritius Open (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-absa-group",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "absa-group",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Presenting sponsor of the Magical Kenya Open presented by absa (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-alfred-dunhill",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "alfred-dunhill",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Alfred Dunhill Championship and Alfred Dunhill Links Championship (event names, 2026 Race to Dubai schedule). Richemont-owned brand; not traced to a primary document here."
+   }
+  },
+  {
+   "id": "dp-world-crown-resorts",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "crown-resorts",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Crown Australian Open (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-isco",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "isco",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the ISCO Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-corales-puntacana",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "corales-puntacana",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Corales Puntacana Championship (event name, 2026 Race to Dubai schedule). Puntacana Resort & Club; ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-omega",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "omega",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Title sponsor of the Omega European Masters (event name, 2026 Race to Dubai schedule). Swatch Group brand; ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-ega",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "ega",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Founding Partner of the Hero Dubai Desert Classic per the event's own sponsors page (europeantour.com/dpworld-tour/hero-dubai-desert-classic-2026/sponsors, fetched 25 Sep 2026); egfgolf.com. UAE golf governing body; ownership not stated on the event page."
+   }
+  },
+  {
+   "id": "dp-world-emirates-nbd",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "emirates-nbd",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Official Partner of the Hero Dubai Desert Classic (event sponsors page, fetched 25 Sep 2026). Dubai bank, part-owned by Investment Corporation of Dubai per general knowledge; not traced to a primary document here."
+   }
+  },
+  {
+   "id": "dp-world-network-international",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "network-international",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Official Partner of the Hero Dubai Desert Classic (event sponsors page, fetched 25 Sep 2026). Ownership not traced here."
+   }
+  },
+  {
+   "id": "dp-world-wasl-properties",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "wasl-properties",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Official Partner of the Dubai Invitational and the Hero Dubai Desert Classic (event sponsors pages, fetched 25 Sep 2026). wasl.ae about-us: founded 25 May 2008 'from the union of the Dubai Development Board and Real Estate Department' and manages 'assets entrusted to us by DREC'; Dubai state lineage is the company's own history page, but an explicit 'Government of Dubai owner' statement was not found, so no owner linked."
+   }
+  },
+  {
+   "id": "dp-world-tamkeen",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "tamkeen",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Official Partner of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). tamkeen.bh: 'the only official domain of the Labour Fund Tamkeen' operating since 2006; no explicit government-ownership statement on the site."
+   }
+  },
+  {
+   "id": "dp-world-gulf-air",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "gulf-air",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Official Sponsor of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Bahrain's national carrier per general knowledge; not traced to a primary document here."
+   }
+  },
+  {
+   "id": "dp-world-bahrain-gsa",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "bahrain-gsa",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Official Supporter of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Bahrain state sports authority; not traced to a primary document here."
+   }
+  },
+  {
+   "id": "dp-world-boc",
+   "clubId": null,
+   "orgName": "DP World Tour",
+   "sponsorId": "boc",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "DP World Tour / event partner pages (see note)",
+    "date": "2026-09-25",
+    "url": "https://www.europeantour.com/dpworld-tour/",
+    "note": "Official Supporter of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Ownership not traced here."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "dp-world-tour-uae-record",
+   "ownerIds": [
+    "uae",
+    "government-of-dubai",
+    "dubai-world-corporation"
+   ],
+   "text": "DP World's ultimate owner is the Government of Dubai, whose federation, the UAE, sentenced 43 activists and dissidents to life imprisonment in a 2024 mass trial that rights groups called grossly unfair; the Federal Supreme Court upheld the convictions in March 2025.",
+   "short": "Government of Dubai owns DP World; UAE mass-trial life sentences upheld in 2025",
+   "source": {
+    "name": "DP World Annual Report 2025 (ownership) + Human Rights Watch (mass trial and upheld convictions)",
+    "date": "2026 / 2025-03-04",
+    "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld",
+    "note": "Ownership from DP World Limited's FY2025 annual report (dp-world-ownership claim in normalized/claims.json); mass-trial facts from HRW."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "dp-world-tour-bahrain-record",
+   "ownerIds": [
+    "government-of-bahrain"
+   ],
+   "text": "Bapco Energies is Bahrain's national integrated energy company, fronting the Kingdom's name on a DP World Tour event, while Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that Mohammed Almosawi died in custody with signs of torture after being forcibly disappeared, and that 67 people had their citizenship stripped.",
+   "short": "Bahrain state energy company titles a tour event; HRW documents 2026 arrests, a death in custody, citizenship-stripping",
+   "source": {
+    "name": "Human Rights Watch - Bahrain country page",
+    "date": "2026",
+    "url": "https://www.hrw.org/middle-east/north-africa/bahrain"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "dp-world-tour-qatar-record",
+   "ownerIds": [
+    "government-of-qatar"
+   ],
+   "text": "The Qatar Masters is organised by the Qatar Golf Association, whose president credited the Qatar Olympic Committee's support; Amnesty International reports that Qatar's migrant workers remain exposed to exploitation despite kafala reform and that expression and assembly are tightly restricted.",
+   "short": "Qatar Masters run by the state golf federation; Amnesty documents migrant-worker exploitation and restricted expression",
+   "source": {
+    "name": "DP World Tour news (QGA launch announcement) + Amnesty International - Human rights in Qatar",
+    "date": "2026-01-15",
+    "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "dp-world",
+   "tier": "serious",
+   "ownerId": "government-of-dubai",
+   "claimIds": [
+    "dp-world-tour-uae-record"
+   ],
+   "reasoning": "The tour's title partner to 2035 and title partner of the season finale, ultimately owned by the Government of Dubai (per DP World's own FY2025 annual report). Dubai/UK state money on the tour's name: the UAE's 2024 mass-trial life sentences, upheld in 2025, put Dubai state branding at serious; severe is reserved for live armed conflict."
+  },
+  {
+   "sponsorId": "emirates",
+   "tier": "serious",
+   "ownerId": "government-of-dubai",
+   "claimIds": [
+    "dp-world-tour-uae-record"
+   ],
+   "reasoning": "Already rated serious in the corpus (owned by Dubai's government via ICD); it is also in the DP World Tour partner bar, so the existing rating carries over to this target. Same UAE record: 43 life sentences in the 2024 mass trial, upheld in 2025."
+  },
+  {
+   "sponsorId": "bapco-energies",
+   "tier": "serious",
+   "ownerId": "government-of-bahrain",
+   "claimIds": [
+    "dp-world-tour-bahrain-record",
+    "bahrain-hrw-record"
+   ],
+   "reasoning": "Bahrain's national energy company titles the Bahrain Championship. State money: HRW's 2026 Bahrain reporting (arbitrary arrests, a torture-signed death in custody, citizenship-stripping, jailed rights defenders) puts a Kingdom's national company at serious under the rubric."
+  },
+  {
+   "sponsorId": "qatar-golf-association",
+   "tier": "serious",
+   "ownerId": null,
+   "claimIds": [
+    "dp-world-tour-qatar-record"
+   ],
+   "reasoning": "The organiser of the Qatar Masters sits inside Qatar's state sports system (its president thanks the Qatar Olympic Committee). If it is confirmed as a state body, Qatar's documented record (migrant-worker exploitation, restricted expression) rates serious; flagged for a human to confirm the ownership link first."
+  }
+ ],
+ "unsourced": [
+  "Event-host facts for the remaining 2026 Race to Dubai title sponsors (schema has no event entity yet), each with source and venue from the official 2026 schedule page (europeantour.com/dpworld-tour/schedule/, fetched 25 Sep 2026): BMW Australian PGA Championship (Royal Queensland GC, 27-30 Nov 2025); Crown Australian Open (Royal Melbourne GC, 4-7 Dec 2025); Nedbank Golf Challenge in honour of Gary Player (Gary Player CC, Sun City, 4-7 Dec 2025); Alfred Dunhill Championship (Royal Johannesburg Club, 11-14 Dec 2025); AfrAsia Bank Mauritius Open (Heritage La Reserve Golf Links, 18-21 Dec 2025); Magical Kenya Open presented by absa (Karen CC, 19-22 Feb 2026); Investec South African Open Championship (Stellenbosch GC, 26 Feb-1 Mar 2026); Joburg Open (Houghton GC, 5-8 Mar 2026); Hero Indian Open (DLF G&CC, 26-29 Mar 2026); Volvo China Open (Enhance Anting GC, Shanghai, 23-26 Apr 2026).",
+  "More 2026 event-host facts (same schedule page source): Turkish Airlines Open (National GC, Belek, 30 Apr-3 May); Estrella Damm Catalunya Championship (Real Club de Golf El Prat, 7-10 May); Soudal Open (Rinkven International GC, Antwerp, 21-24 May); Austrian Alpine Open presented by Kitzbuhel Tirol (Golfclub Kitzbuhel-Schwarzsee-Reith, 28-31 May); KLM Open (The International, Amsterdam, 4-7 Jun); DS Automobiles 83 Open d'Italia (Circolo Golf Torino, 25-28 Jun); BMW International Open (Golfclub Munchen Eichenried, 2-5 Jul); Genesis Scottish Open (The Renaissance Club, 9-12 Jul); ISCO Championship (Hurstbourne CC, Louisville, 9-12 Jul); THE 154TH OPEN (Royal Birkdale, 16-19 Jul); Corales Puntacana Championship (Puntacana Resort & Club, 16-19 Jul); Danish Golf Championship (Great Northern, Kerteminde, 13-16 Aug); Husqvarna British Masters hosted by Sir Nick Faldo (The Belfry, 27-30 Aug).",
+  "More 2026 event-host facts (same schedule page source): Omega European Masters (Crans-sur-Sierre GC, 3-6 Sep); Amgen Irish Open (Trump International Golf Links & Hotel, Doonbeg, 10-13 Sep); BMW PGA Championship (Wentworth Club, 17-20 Sep); FedEx Open de France (Le Golf National, 24-27 Sep); Alfred Dunhill Links Championship (St Andrews, Carnoustie and Kingsbarns, 1-4 Oct); Open de Espana presented by Madrid (Club de Campo Villa de Madrid, 8-11 Oct); DP World India Championship (Delhi GC, New Delhi, 15-18 Oct); Genesis Championship (Woo Jeong Hills CC, Cheonan, 22-25 Oct); Abu Dhabi Championship (Yas Links, 5-8 Nov); DP World Tour Championship, Dubai (Jumeirah Golf Estates, 12-15 Nov, USD 10m prize fund and 12,000 Race to Dubai points per the schedule page).",
+  "Rolex Series: the 2026 Rolex Series comprises 5 events - Hero Dubai Desert Classic, Genesis Scottish Open, BMW PGA Championship, Abu Dhabi Championship and DP World Tour Championship, Dubai (rolex/2026 page links exactly those five under 'The Tournaments', tag line '5 unmissable events', fetched 25 Sep 2026). Rolex is a DP World Tour partner in the footer bar and the series carries the Rolex name; the tour pages do not state Rolex's partnership tier or term.",
+  "The four men's major championships sit on the 2026 Race to Dubai schedule but are run by other bodies: THE MASTERS (Augusta National, 9-12 Apr 2026), U.S. PGA Championship (Aronimink GC, 14-17 May 2026), U.S. Open (Shinnecock Hills, 18-21 Jun 2026) and THE 154TH OPEN (Royal Birkdale, 16-19 Jul 2026). Recorded as event clubs; no title sponsors (the majors do not carry sponsor names).",
+  "The U.S. Open Final Qualifying row (Walton Heath GC, Surrey, 18 May 2026) on the official schedule is not counted as one of the 42 tournaments.",
+  "DP World Tour partner bar partner list as shown on europeantour.com/dpworld-tour/ (fetched 25 Sep 2026), no tier labels shown: Aldar Properties, AWS, Axi, BMW, Buffalo Trace Distillery, DP World, Emirates, Fortinet, HCLTech, Husqvarna, Michelob Ultra, Nexo, Rolex.",
+  "Dubai Invitational event sponsors (europeantour.com/dpworld-tour/dubai-invitational-2026/sponsors, fetched 25 Sep 2026): Host Venue Dubai Creek Resort (logo only, no link); Official Partners DP World, Discovery Dunes (discoverydunes.com), Gulfstream (gulfstream.com), Al Naboodah (alnaboodah.com), Silverlake (silverlake.com) and wasl (wasl.ae); Official Suppliers & Supporters BMW Dubai, Allaith, EGF (egfgolf.com), Mediclinic and Hyatt. The page shows no title partner.",
+  "Hero Dubai Desert Classic event sponsors (event sponsors page, fetched 25 Sep 2026): Title Partner Hero (heromotocorp.com); Founding Partner EGA (ega.ae); Official Partners Rolex, CNN, DP World, Emirates, Emirates NBD, Network International (network.ae), Marriott (The Westin Dubai Mina Seyahi) and wasl; Official Patrons Arena Group, BMW, Dubai Duty Free, Flambard Williams and Motivate; Local Governing Partners EGF (egfgolf.com), Dubai Sports Council (dubaisc.ae) and DCD (dcd.gov.ae); Official Supporters 3DB, Dubai Eye 103.8, Aggreko, Allaith, Bliss Flowers, Callaway, FootJoy, Mediclinic, Reflo and The Entertainer.",
+  "Bapco Energies Bahrain Championship event sponsors (event sponsors page, fetched 25 Sep 2026): Title Partner Bapco Energies; Premium Partner bahrain.com; Official Partners DP World and Tamkeen (tamkeen.bh); Official Sponsors Beyon (beyon.com), Gulf Air and NBB (nbbonline.com); Official Suppliers Allaith, Platinum List, Royal Bahrain Hospital and Wicked; Host Venue The Royal Golf Club; Official Supporters GSA (gsa.gov.bh), B.O.C (boc.bh) and Mumtalakat (mumtalakat.bh).",
+  "Qatar Masters 2026 (5-8 Feb, Doha GC) is run by the Qatar Golf Association, which announced the 29th edition with a USD 2.75m prize fund and whose president Hamad Abdullah Al Mana credited the Qatar Olympic Committee (chaired by Sheikh Joaan bin Hamad Al Thani) and the DP World Tour's 'strategic partnership and continuous support' (DP World Tour news article, europeantour.com/dpworld-tour/news/articles/detail/qatar-golf-association-announces-launch-of-the-29th-edition-of-qatar-masters/). The 2026 edition carries no title sponsor in its name; earlier 'Commercial Bank Qatar Masters' branding does not appear on the 2026 schedule or event pages.",
+  "Abu Dhabi Championship 2026 (5-8 Nov, Yas Links): the event page names no title sponsor or presenting partner and no Abu Dhabi state body; the tour's partner bar is the only sponsor presence (europeantour.com/dpworld-tour/abu-dhabi-championship-2026/, fetched 25 Sep 2026). Abu Dhabi HSBC Championship branding does not appear in 2026.",
+  "DP World India Championship 2026 (15-18 Oct, Delhi GC): the event carries DP World's name; the title-partner extension release of 11 Nov 2025 says it 'will return in 2026, with the ambition to become a regular fixture on the Tour calendar' (event page fetched 25 Sep 2026).",
+  "Ownership gaps left unfilled rather than guessed: aldar.com is JS-gated and no primary ownership statement was retrieved (an Aldar-ADQ 'consortium' press item concerns SODIC, not Aldar's own register); Nexo's about page discloses no ownership; Hero MotoCorp, Genesis, Volvo Cars, KLM, Estrella Damm, Investec, Nedbank, AfrAsia Bank, Absa, Alfred Dunhill, Crown, ISCO, Corales Puntacana, Omega, Husqvarna, Fortinet, HCLTech, AXI, Buffalo Trace, Michelob Ultra, Emirates NBD, Network International, Gulf Air and B.O.C were not traced to primary ownership documents in this pass.",
+  "Bapco Energies' state ownership is carried over from the existing normalized entry (ownerId government-of-bahrain, 'Bahrain national oil and gas company'); bapcoenergies.com was bot-gated (Radware) on 25 Sep 2026 so the ownership was not re-verified to a primary source in this pass.",
+  "wasl (Dubai Invitational and Desert Classic partner): wasl.ae/en/about-us says wasl was founded 25 May 2008 'from the union of the Dubai Development Board and Real Estate Department' and manages assets 'entrusted to us by DREC'; the page does not state the Government of Dubai as owner, so the sponsor is recorded without an owner link.",
+  "Player apparel/cap sponsors (the target's fifth sponsor placement) were not researched: no official tour or event page visited lists player clothing/cap deals, and no per-player source was opened.",
+  "The DP World Tour's Race to Dubai rankings carry no Rolex branding on the rankings page visited (europeantour.com/dpworld-tour/rankings/overview/all-you-need-to-know/, fetched 25 Sep 2026); the Rolex tie sits in the Rolex Series events and the partner bar."
+ ]
+}

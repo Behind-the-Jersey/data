@@ -6,7 +6,11 @@
   "periodLabel": "2026/27",
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
-  "photos": {},
+  "photos": {
+    "back": "assets/shirts/aj-auxerre/2026-27-home-back.jpg",
+    "front": "assets/shirts/aj-auxerre/2026-27-home-front.jpg",
+    "square": "assets/shirts/grid/aj-auxerre-2026-27-home-front-square.jpg"
+  },
   "sponsors": [
     {
       "sponsorId": "x1-xi-wang",

@@ -1,0 +1,1321 @@
+{
+ "target": "wta-tour",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/250",
+ "sports": [
+  {
+   "id": "tennis",
+   "label": "Tennis",
+   "status": "not-mapped",
+   "aliases": [
+    "wta",
+    "women's tennis",
+    "ladies tennis"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "wta-tour",
+   "aliases": [
+    "wta",
+    "women's tennis association tour",
+    "wta tour driven by mercedes-benz"
+   ],
+   "sportId": "tennis",
+   "name": "WTA Tour",
+   "clubCount": 57,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "2026 season runs 2 January to 22 November 2026; 57 tournaments per the Wikipedia 2026 WTA Tour summary (4 Grand Slams, WTA Finals, 10 WTA 1000, 17 WTA 500, 22 WTA 250, United Cup, Billie Jean King Cup qualifying round and finals). The official calendar (wtatennis.com/tournaments and api.wtatennis.com) returned HTTP 429 on every automated attempt.",
+    "The tour is branded 'WTA Tour Driven by Mercedes-Benz' from 1 January 2026 (Tennis.com, 11 Dec 2025): Mercedes-Benz is Exclusive Automobile Partner and Premier Partner, replacing Hologic as title sponsor.",
+    "PIF is a Global Partner of the WTA Tour and first-ever naming partner of the 'PIF WTA Rankings' (Tennis.com, 20 May 2024); wtatennis.com/rankings still shows 'PIF WTA Rankings' as of 25 Sep 2026, and the wtatennis.com footer lists PIF among Global Partners.",
+    "The WTA Finals left Riyadh a year early: held in Riyadh 2024 and 2025 under a three-year Saudi Tennis Federation deal; the 2026 edition is at Indian Wells (8-15 Nov 2026 per The National; the Wikipedia calendar row says the week of 9 Nov) and Charlotte, North Carolina hosts from 2027 for at least three years.",
+    "Grand Slams are run by the national federations, not the WTA; United Cup is a combined ATP/WTA event; the Billie Jean King Cup is organised by the ITF.",
+    "Shape note: tournaments are recorded as clubs (sportId tennis, leagueId wta-tour). There are no shirt kits for tournaments; kits array is empty. Tournament title sponsors and hosts are recorded in unsourced (event-host shape)."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "australian-open",
+   "name": "Australian Open",
+   "shortName": "Australian Open",
+   "code": "AUS",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "melbourne grand slam",
+    "australian open women's singles"
+   ]
+  },
+  {
+   "id": "french-open",
+   "name": "French Open",
+   "shortName": "Roland Garros",
+   "code": "FRE",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "roland garros",
+    "open gdf suez",
+    "internationaux de france"
+   ]
+  },
+  {
+   "id": "wimbledon",
+   "name": "Wimbledon",
+   "shortName": "Wimbledon",
+   "code": "WIM",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "the championships wimbledon",
+    "wimbledon championships"
+   ]
+  },
+  {
+   "id": "us-open",
+   "name": "US Open",
+   "shortName": "US Open",
+   "code": "USO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "us open tennis",
+    "us open new york"
+   ]
+  },
+  {
+   "id": "wta-finals",
+   "name": "WTA Finals",
+   "shortName": "WTA Finals",
+   "code": "WTF",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "wta finals riyadh",
+    "wta finals indian wells",
+    "year-end championships"
+   ]
+  },
+  {
+   "id": "united-cup",
+   "name": "United Cup",
+   "shortName": "United Cup",
+   "code": "UNC",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "atp wta united cup",
+    "united cup perth sydney"
+   ]
+  },
+  {
+   "id": "bjk-cup-qualifying",
+   "name": "Billie Jean King Cup qualifying round",
+   "shortName": "BJK Cup qualifying",
+   "code": "BJQ",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "billie jean king cup qualifying round",
+    "fed cup qualifying",
+    "event entity: qualifying round, not a team",
+    "event entity: qualifying round, not a team",
+    "event entity, not a national team"
+   ]
+  },
+  {
+   "id": "bjk-cup-finals",
+   "name": "Billie Jean King Cup Finals",
+   "shortName": "BJK Cup Finals",
+   "code": "BJF",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "billie jean king cup finals",
+    "fed cup finals",
+    "bjk cup shenzhen"
+   ]
+  },
+  {
+   "id": "qatar-open",
+   "name": "Qatar TotalEnergies Open",
+   "shortName": "Qatar Open",
+   "code": "QTO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Qatar",
+   "crest": null,
+   "aliases": [
+    "qatar total open",
+    "qatar open doha",
+    "wta qatar open"
+   ]
+  },
+  {
+   "id": "dubai-tennis-championships",
+   "name": "Dubai Duty Free Tennis Championships",
+   "shortName": "Dubai Open",
+   "code": "DDT",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United Arab Emirates",
+   "crest": null,
+   "aliases": [
+    "dubai tennis championships",
+    "dubai duty free women's championships",
+    "ddftc"
+   ]
+  },
+  {
+   "id": "indian-wells-open",
+   "name": "BNP Paribas Open (Indian Wells)",
+   "shortName": "Indian Wells",
+   "code": "IWO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "bnp paribas open",
+    "indian wells masters",
+    "indian wells"
+   ]
+  },
+  {
+   "id": "miami-open",
+   "name": "Miami Open",
+   "shortName": "Miami",
+   "code": "MIA",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "miami open miami gardens",
+    "miami masters"
+   ]
+  },
+  {
+   "id": "madrid-open",
+   "name": "Madrid Open",
+   "shortName": "Madrid",
+   "code": "MAD",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "mutua madrid open",
+    "open de espana"
+   ]
+  },
+  {
+   "id": "italian-open",
+   "name": "Italian Open",
+   "shortName": "Rome",
+   "code": "ITA",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "internazionali bnl d'italia",
+    "rome open",
+    "roma"
+   ]
+  },
+  {
+   "id": "canadian-open",
+   "name": "Canadian Open",
+   "shortName": "Canada",
+   "code": "CAN",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Canada",
+   "crest": null,
+   "aliases": [
+    "national bank open",
+    "canada open toronto",
+    "rogers cup"
+   ]
+  },
+  {
+   "id": "cincinnati-open",
+   "name": "Cincinnati Open",
+   "shortName": "Cincinnati",
+   "code": "CIN",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "cincinnati masters",
+    "western and southern open",
+    "cincinnati mason ohio"
+   ]
+  },
+  {
+   "id": "china-open",
+   "name": "China Open",
+   "shortName": "Beijing",
+   "code": "CHO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "china open beijing",
+    "beijing open"
+   ]
+  },
+  {
+   "id": "wuhan-open",
+   "name": "Wuhan Open",
+   "shortName": "Wuhan",
+   "code": "WUH",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "wuhan open china",
+    "dongfeng wuhan open"
+   ]
+  },
+  {
+   "id": "brisbane-international",
+   "name": "Brisbane International",
+   "shortName": "Brisbane",
+   "code": "BRI",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "brisbane international tennis"
+   ]
+  },
+  {
+   "id": "adelaide-international",
+   "name": "Adelaide International",
+   "shortName": "Adelaide",
+   "code": "ADE",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "adelaide international tennis"
+   ]
+  },
+  {
+   "id": "abu-dhabi-open",
+   "name": "Mubadala Abu Dhabi Open",
+   "shortName": "Abu Dhabi",
+   "code": "ADO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United Arab Emirates",
+   "crest": null,
+   "aliases": [
+    "abu dhabi open",
+    "mubadala abu dhabi open presented by abu dhabi sports council"
+   ]
+  },
+  {
+   "id": "merida-open",
+   "name": "Mérida Open",
+   "shortName": "Mérida",
+   "code": "MER",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Mexico",
+   "crest": null,
+   "aliases": [
+    "merida open mexico",
+    "merida open akron"
+   ]
+  },
+  {
+   "id": "charleston-open",
+   "name": "Charleston Open",
+   "shortName": "Charleston",
+   "code": "CHA",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "charleston open south carolina",
+    "credit one charleston open",
+    "family circle cup"
+   ]
+  },
+  {
+   "id": "linz-open",
+   "name": "Linz Open",
+   "shortName": "Linz",
+   "code": "LIN",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Austria",
+   "crest": null,
+   "aliases": [
+    "upper austria ladies linz"
+   ]
+  },
+  {
+   "id": "stuttgart-open",
+   "name": "Stuttgart Open",
+   "shortName": "Stuttgart",
+   "code": "STU",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "porsche grand prix stuttgart",
+    "stuttgart tennis grand prix"
+   ]
+  },
+  {
+   "id": "strasbourg-open",
+   "name": "Internationaux de Strasbourg",
+   "shortName": "Strasbourg",
+   "code": "STR",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "strasbourg open",
+    "internationaux de strasbourg tennis"
+   ]
+  },
+  {
+   "id": "queens-club-championships",
+   "name": "Queen's Club Championships",
+   "shortName": "Queen's",
+   "code": "QCC",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "queens club london",
+    "hsbc championships",
+    "queen's club london"
+   ]
+  },
+  {
+   "id": "berlin-open",
+   "name": "German Open",
+   "shortName": "Berlin",
+   "code": "BER",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "berlin open",
+    "ecotrans german open",
+    "bett1open"
+   ]
+  },
+  {
+   "id": "bad-homburg-open",
+   "name": "Bad Homburg Open",
+   "shortName": "Bad Homburg",
+   "code": "BHO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "bad homburg open germany"
+   ]
+  },
+  {
+   "id": "dc-open",
+   "name": "Mubadala DC Open",
+   "shortName": "Washington DC",
+   "code": "DCO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "washington open",
+    "mubadala citi dc open",
+    "citi open",
+    "dc open washington"
+   ]
+  },
+  {
+   "id": "monterrey-open",
+   "name": "Monterrey Open",
+   "shortName": "Monterrey",
+   "code": "MON",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Mexico",
+   "crest": null,
+   "aliases": [
+    "monterrey open mexico",
+    "abierto gnp seguros"
+   ]
+  },
+  {
+   "id": "guadalajara-open",
+   "name": "Guadalajara Open",
+   "shortName": "Guadalajara",
+   "code": "GUA",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Mexico",
+   "crest": null,
+   "aliases": [
+    "guadalajara open mexico",
+    "guadalajara open akron",
+    "zapopan open"
+   ]
+  },
+  {
+   "id": "singapore-open",
+   "name": "Singapore Open",
+   "shortName": "Singapore",
+   "code": "SIN",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Singapore",
+   "crest": null,
+   "aliases": [
+    "singapore tennis open"
+   ]
+  },
+  {
+   "id": "ningbo-open",
+   "name": "Ningbo Open",
+   "shortName": "Ningbo",
+   "code": "NIN",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "ningbo open china"
+   ]
+  },
+  {
+   "id": "pan-pacific-open",
+   "name": "Pan Pacific Open",
+   "shortName": "Tokyo",
+   "code": "PPO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "toray pan pacific open",
+    "tokyo pan pacific",
+    "japan open tokyo"
+   ]
+  },
+  {
+   "id": "auckland-open",
+   "name": "Auckland Open",
+   "shortName": "Auckland",
+   "code": "AKL",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "New Zealand",
+   "crest": null,
+   "aliases": [
+    "asb classic",
+    "auckland open new zealand"
+   ]
+  },
+  {
+   "id": "hobart-international",
+   "name": "Hobart International",
+   "shortName": "Hobart",
+   "code": "HOB",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "hobart international tennis"
+   ]
+  },
+  {
+   "id": "ostrava-open",
+   "name": "Ostrava Open",
+   "shortName": "Ostrava",
+   "code": "OST",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Czech Republic",
+   "crest": null,
+   "aliases": [
+    "ostrava open czech republic",
+    "agel open"
+   ]
+  },
+  {
+   "id": "transylvania-open",
+   "name": "Transylvania Open",
+   "shortName": "Cluj-Napoca",
+   "code": "TRA",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Romania",
+   "crest": null,
+   "aliases": [
+    "transylvania open cluj"
+   ]
+  },
+  {
+   "id": "atx-open",
+   "name": "ATX Open",
+   "shortName": "Austin",
+   "code": "ATX",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "atx open austin texas"
+   ]
+  },
+  {
+   "id": "copa-colsanitas",
+   "name": "Copa Colsanitas",
+   "shortName": "Bogotá",
+   "code": "COL",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Colombia",
+   "crest": null,
+   "aliases": [
+    "colsanitas cup bogota",
+    "open colombia"
+   ]
+  },
+  {
+   "id": "rouen-open",
+   "name": "Open de Rouen",
+   "shortName": "Rouen",
+   "code": "ROU",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "rouen open france",
+    "open capfinances rouen"
+   ]
+  },
+  {
+   "id": "morocco-open",
+   "name": "Morocco Open",
+   "shortName": "Rabat",
+   "code": "MOR",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Morocco",
+   "crest": null,
+   "aliases": [
+    "rabat open",
+    "grand prix sona maroc"
+   ]
+  },
+  {
+   "id": "rosmalen-championships",
+   "name": "Rosmalen Championships",
+   "shortName": "Rosmalen",
+   "code": "ROS",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Netherlands",
+   "crest": null,
+   "aliases": [
+    "libema open",
+    "dutch open grass",
+    "rosmalen grass court"
+   ]
+  },
+  {
+   "id": "nottingham-open",
+   "name": "Nottingham Open",
+   "shortName": "Nottingham",
+   "code": "NOT",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "nottingham open grass",
+    "rothesay open nottingham"
+   ]
+  },
+  {
+   "id": "eastbourne-open",
+   "name": "Eastbourne Open",
+   "shortName": "Eastbourne",
+   "code": "EAS",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "eastbourne international",
+    "rothesay international eastbourne"
+   ]
+  },
+  {
+   "id": "iasi-open",
+   "name": "Iași Open",
+   "shortName": "Iași",
+   "code": "IAS",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Romania",
+   "crest": null,
+   "aliases": [
+    "iasi open romania"
+   ]
+  },
+  {
+   "id": "athens-open",
+   "name": "Athens Open",
+   "shortName": "Athens",
+   "code": "ATH",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Greece",
+   "crest": null,
+   "aliases": [
+    "athens open greece",
+    "athens open wta"
+   ]
+  },
+  {
+   "id": "hamburg-open",
+   "name": "Hamburg Open",
+   "shortName": "Hamburg",
+   "code": "HAM",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "hamburg open germany",
+    "hamburg ladies open"
+   ]
+  },
+  {
+   "id": "prague-open",
+   "name": "Prague Open",
+   "shortName": "Prague",
+   "code": "PRA",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Czech Republic",
+   "crest": null,
+   "aliases": [
+    "prague open czech",
+    "metro open prague"
+   ]
+  },
+  {
+   "id": "memphis-classic",
+   "name": "Memphis Classic",
+   "shortName": "Memphis",
+   "code": "MEM",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "memphis open tennessee"
+   ]
+  },
+  {
+   "id": "sp-open",
+   "name": "SP Open",
+   "shortName": "São Paulo",
+   "code": "SPO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Brazil",
+   "crest": null,
+   "aliases": [
+    "sao paulo open",
+    "sp open brazil"
+   ]
+  },
+  {
+   "id": "korea-open",
+   "name": "Korea Open",
+   "shortName": "Seoul",
+   "code": "KOR",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "korea open seoul",
+    "hana bank korea open"
+   ]
+  },
+  {
+   "id": "japan-open",
+   "name": "Japan Women's Open",
+   "shortName": "Osaka",
+   "code": "JWO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "japan open osaka",
+    "japan women's open tennis"
+   ]
+  },
+  {
+   "id": "guangzhou-open",
+   "name": "Guangzhou Open",
+   "shortName": "Guangzhou",
+   "code": "GZU",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "guangzhou international women's open"
+   ]
+  },
+  {
+   "id": "hong-kong-open",
+   "name": "Hong Kong Open",
+   "shortName": "Hong Kong",
+   "code": "HKO",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "Hong Kong",
+   "crest": null,
+   "aliases": [
+    "prudential hong kong tennis open",
+    "hong kong tennis open"
+   ]
+  },
+  {
+   "id": "chennai-open",
+   "name": "Chennai Open",
+   "shortName": "Chennai",
+   "code": "CHE",
+   "sportId": "tennis",
+   "leagueId": "wta-tour",
+   "country": "India",
+   "crest": null,
+   "aliases": [
+    "chennai open india",
+    "chennai open wta"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "investment-corporation-of-dubai",
+   "name": "Investment Corporation of Dubai",
+   "type": "state-fund",
+   "country": "United Arab Emirates",
+   "via": "Government of Dubai",
+   "note": "ICD is 'the principal investment arm of the Government of Dubai', established in 2006; Dubai Duty Free is a holding in ICD's Retail & Others portfolio.",
+   "parentId": "government-of-dubai"
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "accenture",
+   "name": "Accenture",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "WTA Tour Global Partner (wtatennis.com footer)."
+  },
+  {
+   "id": "corpay",
+   "name": "Corpay",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "WTA Tour Global Partner (wtatennis.com footer)."
+  },
+  {
+   "id": "morgan-stanley",
+   "name": "Morgan Stanley",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "WTA Tour Global Partner (wtatennis.com footer)."
+  },
+  {
+   "id": "usana",
+   "name": "USANA",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "WTA Official Supplier (wtatennis.com footer)."
+  },
+  {
+   "id": "wilson",
+   "name": "Wilson",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "WTA Official Supplier (wtatennis.com footer). Wilson Sporting Goods sits in the Amer Sports brand portfolio (amersports.com/brands/wilson/), but the ownership chain has not been traced to a filing here; ownerId left null."
+  },
+  {
+   "id": "totalenergies",
+   "name": "TotalEnergies",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "total"
+   ],
+   "note": "Title sponsor of the Qatar TotalEnergies Open (WTA 1000, Doha). Listed company: shares listed on Euronext Paris, Euronext Brussels, the LSE and since 8 Dec 2025 the NYSE; largest single shareholder is BlackRock with 6.5% of capital as of 31 Dec 2025 - no state control."
+  },
+  {
+   "id": "mubadala",
+   "name": "Mubadala Investment Company",
+   "ownerId": "mubadala",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Abu Dhabi sovereign fund; title partner of the Mubadala Abu Dhabi Open (WTA 500) and sole title sponsor of the Mubadala DC Open (2026-2030)."
+  },
+  {
+   "id": "dubai-duty-free",
+   "name": "Dubai Duty Free",
+   "ownerId": "investment-corporation-of-dubai",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ddf"
+   ],
+   "note": "Owner, organiser and title sponsor of the Dubai Duty Free Tennis Championships (WTA 1000, Dubai); a holding in the Investment Corporation of Dubai's Retail & Others portfolio."
+  },
+  {
+   "id": "abu-dhabi-sports-council",
+   "name": "Abu Dhabi Sports Council",
+   "ownerId": "government-of-abu-dhabi",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "adsc"
+   ],
+   "note": "Abu Dhabi government sports body (established 2006 by Sheikh Mohamed bin Zayed Al Nahyan); Presenting Partner of the Mubadala Abu Dhabi Open."
+  },
+  {
+   "id": "hologic",
+   "name": "Hologic",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Former WTA Tour title sponsor; replaced by Mercedes-Benz from 1 January 2026."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "wta-tour-mercedes-benz",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "mercedes-benz",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": {
+    "amount": 50,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 50
+   },
+   "source": {
+    "name": "Tennis.com - Billie Jean King applauds historic WTA, Mercedes-Benz partnership",
+    "date": "2025-12-11",
+    "url": "https://www.tennis.com/news/articles/wta-partnership-deal-mercedes-benz-most-signigifanct-billie-jean-king",
+    "note": "Mercedes-Benz becomes Exclusive Automobile Partner and Premier Partner; tour renamed 'WTA Tour Driven by Mercedes-Benz' from 1 Jan 2026, replacing Hologic as title sponsor. Reported figures of $50m per year for up to 10 years are press estimates; official terms not disclosed."
+   },
+   "leagueId": "wta-tour",
+   "note": "Tour-wide naming: 'WTA Tour Driven by Mercedes-Benz'; presence at roughly 30 events in 2026."
+  },
+  {
+   "id": "wta-tour-pif",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "pif",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tennis.com - PIF becomes first naming-rights partner of WTA rankings",
+    "date": "2024-05-20",
+    "url": "https://www.tennis.com/news/articles/saudi-arabia-pif-becomes-first-naming-rights-partner-wta-rankings-multiyear-deal",
+    "note": "Multiyear partnership announced 20 May 2024: PIF is the first naming-rights partner of the WTA rankings. PIF's own page at bnpparibasopen.com/partners/pif describes it as 'Global Partner of the WTA Tour' and 'exclusive naming partner of both the ATP and WTA Rankings'; wtatennis.com/rankings still brands the list 'PIF WTA Rankings' as of 25 Sep 2026."
+   },
+   "leagueId": "wta-tour",
+   "note": "Rankings naming partner (PIF WTA Rankings) and tour Global Partner."
+  },
+  {
+   "id": "wta-tour-accenture",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "accenture",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wtatennis.com footer partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.wtatennis.com/",
+    "note": "Listed as 'Accenture - Global Partner'."
+   },
+   "leagueId": "wta-tour",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "wta-tour-corpay",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "corpay",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wtatennis.com footer partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.wtatennis.com/",
+    "note": "Listed as 'Corpay - Global Partner'."
+   },
+   "leagueId": "wta-tour",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "wta-tour-morgan-stanley",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "morgan-stanley",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wtatennis.com footer partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.wtatennis.com/",
+    "note": "Listed as 'Morgan Stanley - Global Partner'."
+   },
+   "leagueId": "wta-tour",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "wta-tour-verizon",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "verizon",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wtatennis.com footer partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.wtatennis.com/",
+    "note": "Listed as 'Verizon - Regional Partner'."
+   },
+   "leagueId": "wta-tour",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "wta-tour-usana",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "usana",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wtatennis.com footer partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.wtatennis.com/",
+    "note": "Listed as 'Usana - Official Supplier'."
+   },
+   "leagueId": "wta-tour",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "wta-tour-wilson",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "wilson",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "wtatennis.com footer partner strip",
+    "date": "2026-09-25",
+    "url": "https://www.wtatennis.com/",
+    "note": "Listed as 'Wilson - Official Supplier'."
+   },
+   "leagueId": "wta-tour",
+   "note": "League-wide partner (ball supplier), attached to no single club."
+  },
+  {
+   "id": "wta-tour-hologic",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "hologic",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tennis.com - Billie Jean King applauds historic WTA, Mercedes-Benz partnership",
+    "date": "2025-12-11",
+    "url": "https://www.tennis.com/news/articles/wta-partnership-deal-mercedes-benz-most-signigifanct-billie-jean-king",
+    "note": "Mercedes-Benz 'replaces medical device firm Hologic as the Tour's title sponsor', effective 1 Jan 2026."
+   },
+   "leagueId": "wta-tour",
+   "endedOn": "2025-12",
+   "note": "Ended title sponsorship; start date not sourced here."
+  },
+  {
+   "id": "wta-finals-pif-riyadh",
+   "clubId": null,
+   "orgName": "WTA Finals (Riyadh)",
+   "sponsorId": "pif",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": "2026",
+   "value": null,
+   "source": {
+    "name": "The National - WTA Finals relocated from Riyadh to Indian Wells after two years in Saudi Arabia",
+    "date": "2026-07-01",
+    "url": "https://www.thenationalnews.com/sport/tennis/2026/07/01/wta-finals-relocated-from-riyadh-to-indian-wells-after-two-years-in-saudi-arabia/",
+    "note": "Three-year hosting deal with the Saudi Tennis Federation (PIF-backed); Riyadh hosted the 2024 and 2025 Finals; the WTA requested the 2026 edition move and the STF accepted, ending the deal a year early. The 2024 Finals were the first professional women's tennis event in Saudi Arabia ($15.25m prize money)."
+   },
+   "leagueId": "wta-tour",
+   "endedOn": "2025-11",
+   "note": "Season-finale host/backer; ended after the November 2025 Finals. The 2026 Finals are at Indian Wells and Charlotte hosts from 2027 (The National, 17 Sep 2026), with the WTA working to fill the 'substantial financial gap' left by PIF."
+  },
+  {
+   "id": "wta-dubai-duty-free",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "dubai-duty-free",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "WTA tournament title sponsorship (see note)",
+    "date": "2026-09-25",
+    "url": "https://icd.gov.ae/portfolio/dubai-duty-free/",
+    "note": "Owner, organiser and title sponsor of the Dubai Duty Free Tennis Championships (WTA 1000, Dubai); a holding in the Investment Corporation of Dubai's Retail & Others portfolio."
+   }
+  },
+  {
+   "id": "wta-mubadala-abu-dhabi-open",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "mubadala",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tournament title/presenting sponsorship",
+    "date": "2026-09-25",
+    "url": "https://www.mubadaladcopen.com",
+    "note": "Mubadala: title sponsor of the Mubadala Abu Dhabi Open (WTA 500); sole title of the Mubadala DC Open 2026-2030 (mubadala.com/en/tennis; mubadaladcopen.com)"
+   }
+  },
+  {
+   "id": "wta-abu-dhabi-sports-council",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "abu-dhabi-sports-council",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tournament title/presenting sponsorship",
+    "date": "2026-09-25",
+    "url": "https://www.mubadalaabudhabiopen.com",
+    "note": "Abu Dhabi Sports Council: Presenting Partner of the Mubadala Abu Dhabi Open (mubadalaabudhabiopen.com, fetched 25 Sep 2026)"
+   }
+  },
+  {
+   "id": "wta-totalenergies-qatar-open",
+   "clubId": null,
+   "orgName": "WTA Tour",
+   "sponsorId": "totalenergies",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Tournament title/presenting sponsorship",
+    "date": "2026-09-25",
+    "url": "https://www.wtaqataropen.com",
+    "note": "TotalEnergies: title sponsor of the Qatar TotalEnergies Open (WTA 1000, Doha; wtaqataropen.com lists 'Total Energies' under Title sponsor)"
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "wta-pif-saudi-criticism-2024",
+   "ownerIds": [
+    "government-of-saudi-arabia",
+    "saudi-pif"
+   ],
+   "text": "Chris Evert and Martina Navratilova urged the WTA to stay out of Saudi Arabia, citing rights groups' claims about the treatment of women and taboos around homosexuality, as the PIF partnership was announced.",
+   "short": "Evert and Navratilova urged the WTA to stay out of Saudi Arabia",
+   "source": {
+    "name": "Tennis.com",
+    "date": "2024-05-20",
+    "url": "https://www.tennis.com/news/articles/saudi-arabia-pif-becomes-first-naming-rights-partner-wta-rankings-multiyear-deal",
+    "note": "Announcement coverage of the PIF WTA rankings naming deal; also notes Billie Jean King advocated engagement."
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "pif",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment",
+    "wta-pif-saudi-criticism-2024"
+   ],
+   "reasoning": "Saudi state sovereign wealth fund chaired by the crown prince; names the PIF WTA Rankings and is a WTA Tour Global Partner. State money via the Public Investment Fund: record 345 executions in 2024 and the Khashoggi assessment, plus the Evert/Navratilova criticism of the WTA's Saudi deal -> serious, with severe reserved for live armed conflict."
+  },
+  {
+   "sponsorId": "mubadala",
+   "tier": "serious",
+   "ownerId": "mubadala",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Abu Dhabi government sovereign wealth fund, title sponsor of two WTA 500 events (Abu Dhabi Open; DC Open 2026-2030). UAE state money: 43 activists got life sentences in the 2024 mass trial and the convictions were upheld in 2025 -> serious."
+  },
+  {
+   "sponsorId": "dubai-duty-free",
+   "tier": "serious",
+   "ownerId": "investment-corporation-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Owned by the Investment Corporation of Dubai, the Dubai government's investment arm, and owns/organises/titles the Dubai WTA 1000. Dubai state money in the UAE mass-trial context -> serious."
+  },
+  {
+   "sponsorId": "abu-dhabi-sports-council",
+   "tier": "serious",
+   "ownerId": "government-of-abu-dhabi",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Abu Dhabi government body (est. 2006 under Sheikh Mohamed bin Zayed) and Presenting Partner of the Mubadala Abu Dhabi Open. Direct UAE state branding on a tour event while the mass-trial convictions stand -> serious."
+  }
+ ],
+ "unsourced": [
+  "Event-host facts (schema does not fit them yet), each with source: Mubadala Abu Dhabi Open (WTA 500, International Tennis Centre Zayed Sports City) is titled by Mubadala and 'presented by Abu Dhabi Sports Council', which is listed as Presenting Partner (mubadalaabudhabiopen.com, fetched 25 Sep 2026).",
+  "Event-host fact: Mubadala is sole title sponsor of the Mubadala DC Open (combined ATP/WTA 500, Washington DC, 24 Jul-2 Aug 2026) under a five-year agreement 2026-2030, after co-titling with Citi 2023-2025 (mubadala.com/en/tennis; mubadaladcopen.com).",
+  "Event-host fact: the Dubai Duty Free Tennis Championships (WTA 1000 women's event, 26th edition in 2026, plus ATP 500) is 'owned and organised by Dubai Duty Free and held under the patronage of HH Sheikh Mohammed Bin Rashid Al Maktoum', Ruler of Dubai (dubaidutyfreetennischampionships.com/tournament/about-the-tournament/); DDF is a holding in the Investment Corporation of Dubai's Retail & Others portfolio (web.archive.org/web/20240417164105/https://icd.gov.ae/portfolio/dubai-duty-free/), and ICD is 'the principal investment arm of the Government of Dubai' (web.archive.org/web/20240125034029/https://icd.gov.ae/about-icd/).",
+  "Event-host fact: TotalEnergies is title sponsor of the Qatar TotalEnergies Open (WTA 1000, Doha), organised by the Qatar Tennis Federation (qatartennis.org and wtaqataropen.com, which lists 'Total Energies' under 'Title sponsor'; fetched 25 Sep 2026). The rename from Qatar Total Open was not re-verified against a TotalEnergies primary source.",
+  "Event-host fact: PIF is a Premier Sponsor of the BNP Paribas Open at Indian Wells (WTA 1000 and 2026 WTA Finals venue, 8-15 Nov 2026) and describes itself as Platinum Partner of the ATP Tour, Global Partner of the WTA Tour, exclusive naming partner of the ATP and WTA Rankings, and Presenting Partner of the WTA Finals (bnpparibasopen.com/partners/pif, fetched 25 Sep 2026). The 'Presenting Partner of the WTA Finals' line likely predates the move from Riyadh and needs a date check.",
+  "Event-host fact (ended): the WTA Finals were hosted in Riyadh in 2024 and 2025 under a three-year Saudi Tennis Federation deal; the 2024 edition was the first professional women's tennis event in Saudi Arabia with a record $15.25m prize pool; the WTA requested the 2026 move and the STF accepted (The National, 1 Jul 2026). Charlotte, North Carolina hosts from 2027 for at least three years at the Spectrum Center, with the WTA investing 'alongside our partners' to fill the gap left by PIF (The National, 17 Sep 2026); SportsPro (2 Apr 2026) reported the WTA was 'set to leave Riyadh after this year', cited 'ongoing conflict in the Middle East' as adding uncertainty, and reported Saudi Arabia and PIF were 'reassessing aspects of their sports investment strategy', having already used an opt-out to end the Next Gen ATP Finals deal early (sportspro.com/news/major-events/wta-finals-saudi-arabia-riyadh-charlotte-host-april-2026/).",
+  "Player personal sponsor (does not fit club/tour records): Emirates signed Aryna Sabalenka as its first individual tennis ambassador, announced 20 Jan 2026 with an Emirates A380 tennis livery; the airline already sponsors all four Grand Slams (SportsPro, 20 Jan 2026). Emirates (rated serious in normalized/, owned by the Government of Dubai via ICD) is not a WTA Tour partner. SportsPro does not use the phrase 'official airline' for the Grand Slam deals.",
+  "Tour naming value: the $50m/year for up to 10 years Mercedes-Benz investment is a press figure reported by Tennis.com (11 Dec 2025); official terms were not disclosed. Recorded in the deal value as upTo with source.",
+  "Hologic's title sponsorship start year (2022) was not verified against a primary source; only the end (replaced by Mercedes-Benz from 1 Jan 2026) is sourced (Tennis.com, 11 Dec 2025).",
+  "PIF's tennis footprint beyond the rankings deal: PIF's tennis partnerships span events in Indian Wells, Miami, Madrid and Beijing plus the ATP Finals in Turin and the Next Gen ATP Finals (bnpparibasopen.com/partners/pif); each of those tournament-level deals needs its own verification.",
+  "Chinese events state-links: the China Open (Beijing), Wuhan Open, Ningbo Open, Guangzhou Open and Hong Kong Open are likely organised by municipal sports bodies or state-linked operators, but tournament-by-tournament ownership research was not completed in this pass (tournament sites for Wuhan and the China Open were unreachable or empty). The Billie Jean King Cup Finals are in Shenzhen, China (Sep 2026).",
+  "Chennai Open (WTA 250): its date 'isn't confirmed yet' per the Wikipedia calendar footnote (cite note 'TBC'); treat the calendar slot as provisional.",
+  "Tournament count arithmetic: Wikipedia's summary says 57 tournaments (4 GS + WTA Finals + 10 WTA 1000 + 17 WTA 500 + 22 WTA 250 = 54, plus United Cup, BJK Cup qualifying round and BJK Cup Finals = 57). The Wikipedia 2026 WTA Tour page is used as the calendar source because wtatennis.com/tournaments rate-limits automated access (HTTP 429); every one of the 57 rows was read off that page's calendar tables on 25 Sep 2026.",
+  "normalized owners.json has 'mubadala' with parentId null; its ultimate parent is the Government of Abu Dhabi (Abu Dhabi sovereign fund). Needs an update in normalized rather than the research file.",
+  "Wilson's parent (an Amer Sports brand since 1989 per amersports.com/brands/wilson/) was not traced to a controlling owner; ownerId left null.",
+  "Accenture, Corpay, Morgan Stanley, Usana and Verizon appear only in the wtatennis.com footer partner strip; deal start dates and terms are not published there."
+ ]
+}

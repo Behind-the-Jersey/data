@@ -1,0 +1,1855 @@
+{
+  "target": "uci-worldtour-men",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/244",
+  "sports": [
+    {
+      "id": "cycling",
+      "label": "Cycling",
+      "status": "not-mapped",
+      "aliases": [
+        "road cycling",
+        "pro cycling",
+        "uci",
+        "worldtour"
+      ]
+    }
+  ],
+  "leagues": [
+    {
+      "id": "uci-worldtour",
+      "aliases": [
+        "worldtour",
+        "uci world tour",
+        "men's worldtour",
+        "world team"
+      ],
+      "sportId": "cycling",
+      "name": "UCI WorldTour (men's road cycling)",
+      "clubCount": 18,
+      "season": "2026",
+      "status": "partial",
+      "notes": [
+        "18 UCI WorldTeams granted 2026-2028 licences by the UCI Licence Commission (UCI press release, 2026-2028 cycle).",
+        "Every team is named after a sponsor; names change with sponsors.",
+        "Sponsor placement here is mapped to the schema's front/back/sleeve/shorts/partner values from 'team title/name' and 'jersey'."
+      ]
+    }
+  ],
+  "clubs": [
+    {
+      "id": "alpecin-premier-tech",
+      "name": "Alpecin-Premier Tech",
+      "shortName": "Alpecin",
+      "code": "APC",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Belgium",
+      "crest": null,
+      "aliases": [
+        "alpecin-deceuninck",
+        "alpecin"
+      ]
+    },
+    {
+      "id": "bahrain-victorious",
+      "name": "Bahrain Victorious",
+      "shortName": "Bahrain Victorious",
+      "code": "TBV",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Bahrain",
+      "crest": null,
+      "aliases": [
+        "bahrain-mclaren",
+        "bahrain-merida",
+        "team-bahrain-victorious"
+      ]
+    },
+    {
+      "id": "decathlon-cma-cgm",
+      "name": "Decathlon CMA CGM Team",
+      "shortName": "Decathlon CMA CGM",
+      "code": "DCT",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "France",
+      "crest": null,
+      "aliases": [
+        "ag2r-citroen",
+        "decathlon-ag2r"
+      ]
+    },
+    {
+      "id": "ef-education-easypost",
+      "name": "EF Education-EasyPost",
+      "shortName": "EF Education",
+      "code": "EFE",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "United States",
+      "crest": null,
+      "aliases": [
+        "ef-education-first",
+        "ef-education"
+      ]
+    },
+    {
+      "id": "groupama-fdj-united",
+      "name": "Groupama-FDJ United",
+      "shortName": "Groupama-FDJ",
+      "code": "GFC",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "France",
+      "crest": null,
+      "aliases": [
+        "groupama-fdj",
+        "fdj"
+      ]
+    },
+    {
+      "id": "ineos-grenadiers",
+      "name": "INEOS Grenadiers",
+      "shortName": "INEOS Grenadiers",
+      "code": "IGD",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Great Britain",
+      "crest": null,
+      "aliases": [
+        "team-ineos",
+        "netcompany-ineos"
+      ]
+    },
+    {
+      "id": "lidl-trek",
+      "name": "Lidl-Trek",
+      "shortName": "Lidl-Trek",
+      "code": "LTK",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Germany",
+      "crest": null,
+      "aliases": [
+        "trek-segafredo"
+      ]
+    },
+    {
+      "id": "lotto-intermarche",
+      "name": "Lotto Intermarché",
+      "shortName": "Lotto",
+      "code": "LOI",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Belgium",
+      "crest": null,
+      "aliases": [
+        "lotto-soudal",
+        "intermarche-wanty"
+      ]
+    },
+    {
+      "id": "movistar",
+      "name": "Movistar Team",
+      "shortName": "Movistar",
+      "code": "MOV",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Spain",
+      "crest": null,
+      "aliases": [
+        "movistar-team"
+      ]
+    },
+    {
+      "id": "nsn-cycling-team",
+      "name": "NSN Cycling Team",
+      "shortName": "NSN",
+      "code": "NSN",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Switzerland",
+      "crest": null,
+      "aliases": [
+        "israel-premier-tech",
+        "israel-start-up-nation"
+      ]
+    },
+    {
+      "id": "red-bull-bora-hansgrohe",
+      "name": "Red Bull-Bora-Hansgrohe",
+      "shortName": "Red Bull-Bora",
+      "code": "RBH",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Germany",
+      "crest": null,
+      "aliases": [
+        "bora-hansgrohe"
+      ]
+    },
+    {
+      "id": "soudal-quick-step",
+      "name": "Soudal Quick-Step",
+      "shortName": "Soudal Quick-Step",
+      "code": "SOQ",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Belgium",
+      "crest": null,
+      "aliases": [
+        "quick-step",
+        "soudal-quickstep"
+      ]
+    },
+    {
+      "id": "team-jayco-alula",
+      "name": "Team Jayco AlUla",
+      "shortName": "Jayco AlUla",
+      "code": "JAY",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Australia",
+      "crest": null,
+      "aliases": [
+        "greenedge",
+        "orica",
+        "mitchelton-scott"
+      ]
+    },
+    {
+      "id": "team-picnic-postnl",
+      "name": "Team Picnic PostNL",
+      "shortName": "Picnic PostNL",
+      "code": "TPP",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Netherlands",
+      "crest": null,
+      "aliases": [
+        "team-dsm",
+        "dsm-firmenich"
+      ]
+    },
+    {
+      "id": "team-visma-lease-a-bike",
+      "name": "Team Visma | Lease a Bike",
+      "shortName": "Visma-Lease a Bike",
+      "code": "TVL",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Netherlands",
+      "crest": null,
+      "aliases": [
+        "jumbo-visma"
+      ]
+    },
+    {
+      "id": "uae-team-emirates-xrg",
+      "name": "UAE Team Emirates XRG",
+      "shortName": "UAE Team Emirates",
+      "code": "UAD",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "United Arab Emirates",
+      "crest": null,
+      "aliases": [
+        "uae-team-emirates",
+        "uae-team-adq"
+      ]
+    },
+    {
+      "id": "uno-x-mobility",
+      "name": "Uno-X Mobility",
+      "shortName": "Uno-X",
+      "code": "UXM",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Norway",
+      "crest": null,
+      "aliases": [
+        "uno-x"
+      ]
+    },
+    {
+      "id": "xds-astana-team",
+      "name": "XDS Astana Team",
+      "shortName": "XDS Astana",
+      "code": "XAT",
+      "sportId": "cycling",
+      "leagueId": "uci-worldtour",
+      "country": "Kazakhstan",
+      "crest": null,
+      "aliases": [
+        "astana-qazaqstan",
+        "astana"
+      ]
+    }
+  ],
+  "owners": [
+    {
+      "id": "government-of-bahrain",
+      "name": "Government of Bahrain",
+      "type": "state",
+      "country": "Bahrain",
+      "parentId": null
+    },
+    {
+      "id": "government-of-kazakhstan",
+      "name": "Government of Kazakhstan",
+      "type": "state",
+      "country": "Kazakhstan",
+      "parentId": null
+    },
+    {
+      "id": "government-of-belgium",
+      "name": "Belgian Federal State (Lotto is the state National Lottery)",
+      "type": "state",
+      "country": "Belgium",
+      "parentId": null
+    },
+    {
+      "id": "samruk-kazyna",
+      "name": "Samruk-Kazyna (Kazakhstan sovereign wealth fund)",
+      "type": "state-fund",
+      "country": "Kazakhstan",
+      "parentId": "government-of-kazakhstan"
+    },
+    {
+      "id": "adnoc",
+      "name": "Abu Dhabi National Oil Company (ADNOC)",
+      "type": "private-company",
+      "country": "United Arab Emirates",
+      "note": "Wholly owned by the Government of Abu Dhabi; parent of XRG.",
+      "parentId": "government-of-abu-dhabi"
+    },
+    {
+      "id": "xrg",
+      "name": "XRG (international energy and chemicals investment company)",
+      "type": "private-company",
+      "country": "United Arab Emirates",
+      "note": "Wholly owned by ADNOC; headquartered in Abu Dhabi.",
+      "parentId": "adnoc"
+    },
+    {
+      "id": "royal-commission-for-alula",
+      "name": "Royal Commission for AlUla (RCU)",
+      "type": "state",
+      "country": "Saudi Arabia",
+      "note": "Saudi government agency running the Experience AlUla tourist board.",
+      "parentId": "government-of-saudi-arabia"
+    },
+    {
+      "id": "shaikh-nasser-bin-hamad-al-khalifa",
+      "name": "Shaikh Nasser bin Hamad Al Khalifa",
+      "type": "private-company",
+      "country": "Bahrain",
+      "note": "Son of the King of Bahrain; founder of Team Bahrain Victorious (owner, not a sponsor on the jersey).",
+      "parentId": "government-of-bahrain"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "xrg",
+      "name": "XRG",
+      "ownerId": "adnoc",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "xrg energy"
+      ],
+      "note": "Wholly owned by ADNOC (Abu Dhabi state oil company); co-title and official energy partner of UAE Team Emirates XRG from 2025 on a six-year deal."
+    },
+    {
+      "id": "samruk-kazyna",
+      "name": "Samruk-Kazyna",
+      "ownerId": "samruk-kazyna",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "samruk kazyna"
+      ],
+      "note": "Kazakhstan's sovereign wealth fund; main partner of XDS Astana Team."
+    },
+    {
+      "id": "sportqory",
+      "name": "SportQory Sports Support Fund",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Kazakh sports support fund credited as a main partner by XDS Astana GM; ownership/structure not found."
+    },
+    {
+      "id": "xds",
+      "name": "XDS",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "xidesheng"
+      ],
+      "note": "Chinese bicycle manufacturer based in Shenzhen; private."
+    },
+    {
+      "id": "bahrain-economic-development-board",
+      "name": "Bahrain Economic Development Board",
+      "ownerId": "government-of-bahrain",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "bahrain edb"
+      ],
+      "note": "Bahraini state investment promotion agency; long-running backer of the team."
+    },
+    {
+      "id": "bapco-energies",
+      "name": "Bapco Energies",
+      "ownerId": "government-of-bahrain",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "bapco"
+      ],
+      "note": "Bahrain national oil and gas company."
+    },
+    {
+      "id": "beyon",
+      "name": "Beyon",
+      "ownerId": "government-of-bahrain",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "batelco"
+      ],
+      "note": "Bahraini telecoms group (formerly Batelco); majority state-linked."
+    },
+    {
+      "id": "national-bank-of-bahrain",
+      "name": "National Bank of Bahrain",
+      "ownerId": "government-of-bahrain",
+      "ownership": "part-owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "nbb"
+      ],
+      "note": "Bahraini bank with significant state/Mumtalakat ownership."
+    },
+    {
+      "id": "al-salam-bank",
+      "name": "Al Salam Bank",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Bahraini bank."
+    },
+    {
+      "id": "alba",
+      "name": "Alba (Aluminium Bahrain)",
+      "ownerId": "mumtalakat",
+      "ownership": "part-owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "aluminium bahrain"
+      ],
+      "note": "Aluminium producer; Bahraini state funds hold a stake."
+    },
+    {
+      "id": "omniyat",
+      "name": "OMNIYAT",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Dubai ultra-luxury real-estate developer; added as a Bahrain Victorious partner for 2026 (announced Nov 2025)."
+    },
+    {
+      "id": "alula",
+      "name": "AlUla",
+      "ownerId": "royal-commission-for-alula",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "experience alula"
+      ],
+      "note": "Saudi destination brand run by the Royal Commission for AlUla; co-title sponsor of Team Jayco AlUla."
+    },
+    {
+      "id": "lotto",
+      "name": "Lotto",
+      "ownerId": "government-of-belgium",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "belgian national lottery"
+      ],
+      "note": "Belgium's state National Lottery; title sponsor."
+    },
+    {
+      "id": "fdj",
+      "name": "FDJ United",
+      "ownerId": "french-state",
+      "ownership": "part-owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "francaise des jeux"
+      ],
+      "note": "French national lottery, privatised in 2019 but the French state remains the largest shareholder."
+    },
+    {
+      "id": "alpecin",
+      "name": "Alpecin",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "German caffeine shampoo brand (Dr. Wolff Group)."
+    },
+    {
+      "id": "premier-tech",
+      "name": "Premier Tech",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Canadian horticulture/packaging company."
+    },
+    {
+      "id": "decathlon",
+      "name": "Decathlon",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "van rysel"
+      ],
+      "note": "French sports retailer, family-owned (Leclercq/Mulliez families and employees)."
+    },
+    {
+      "id": "cma-cgm",
+      "name": "CMA CGM",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "French shipping and logistics group controlled by the Saadé family; private."
+    },
+    {
+      "id": "ef-education-first",
+      "name": "EF Education First",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "ef education"
+      ],
+      "note": "Swiss-based, Swedish-founded education company (Hult family)."
+    },
+    {
+      "id": "easypost",
+      "name": "EasyPost",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "US e-commerce shipping software company."
+    },
+    {
+      "id": "groupama",
+      "name": "Groupama",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "French mutual insurance group."
+    },
+    {
+      "id": "ineos",
+      "name": "INEOS",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "UK petrochemicals group owned by Jim Ratcliffe."
+    },
+    {
+      "id": "netcompany",
+      "name": "Netcompany",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Danish listed IT company; joined as co-title sponsor May 2026."
+    },
+    {
+      "id": "lidl",
+      "name": "Lidl",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "schwarz group"
+      ],
+      "note": "German discount supermarket chain (Schwarz Group); majority owner of the team."
+    },
+    {
+      "id": "trek",
+      "name": "Trek",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "US bicycle manufacturer."
+    },
+    {
+      "id": "intermarche",
+      "name": "Intermarché",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "les mousquetaires"
+      ],
+      "note": "French supermarket chain."
+    },
+    {
+      "id": "movistar",
+      "name": "Movistar",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "telefonica"
+      ],
+      "note": "Spanish telecoms brand of Telefónica (listed)."
+    },
+    {
+      "id": "nsn",
+      "name": "NSN (Never Say Never)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Catalan sports and entertainment agency co-founded by Andrés Iniesta; team title. Not state-linked."
+    },
+    {
+      "id": "stoneweg",
+      "name": "Stoneweg",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Geneva-headquartered alternative investment group backing the NSN team."
+    },
+    {
+      "id": "scott",
+      "name": "Scott",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "scott sports"
+      ],
+      "note": "Bicycle manufacturer; NSN bike supplier from 2026."
+    },
+    {
+      "id": "bora",
+      "name": "Bora",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "German cooker-extractor manufacturer."
+    },
+    {
+      "id": "hansgrohe",
+      "name": "Hansgrohe",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "German sanitary fittings manufacturer."
+    },
+    {
+      "id": "soudal",
+      "name": "Soudal",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Belgian adhesives/sealants company owned by founder Vic Swerts."
+    },
+    {
+      "id": "quick-step",
+      "name": "Quick-Step",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "unilin"
+      ],
+      "note": "Flooring brand; part of the Unilin Group."
+    },
+    {
+      "id": "jayco",
+      "name": "Jayco",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Australian caravan/RV maker; team backer Gerry Ryan (private, not state-linked)."
+    },
+    {
+      "id": "giant",
+      "name": "Giant",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Taiwanese bicycle manufacturer; bike supplier."
+    },
+    {
+      "id": "picnic",
+      "name": "Picnic",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Dutch online supermarket."
+    },
+    {
+      "id": "postnl",
+      "name": "PostNL",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Dutch listed postal/parcel company."
+    },
+    {
+      "id": "visma",
+      "name": "Visma",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Norwegian accounting/payroll software company (formerly Visma)."
+    },
+    {
+      "id": "lease-a-bike",
+      "name": "Lease a Bike",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Dutch bike-leasing venture owned by the Pon conglomerate."
+    },
+    {
+      "id": "colnago",
+      "name": "Colnago",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Italian bicycle manufacturer; UAE Team Emirates bike sponsor (Inner Ring links it to Sheikh Tahnoun)."
+    },
+    {
+      "id": "uno-x",
+      "name": "Uno-X",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "reitan"
+      ],
+      "note": "Norwegian fuel/charging station chain owned by the Reitan group; private."
+    },
+    {
+      "id": "shimano",
+      "name": "Shimano",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "UCI World Cycling Partner."
+    },
+    {
+      "id": "tissot",
+      "name": "Tissot",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "UCI World Cycling Partner."
+    },
+    {
+      "id": "santini",
+      "name": "Santini",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "UCI Official Partner (UCI kit supplier)."
+    },
+    {
+      "id": "mumtalakat",
+      "name": "Mumtalakat",
+      "ownerId": "mumtalakat",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "bahrain mumtalakat holding company"
+      ],
+      "note": "Bahrain's sovereign wealth fund; long-running team partner."
+    },
+    {
+      "id": "bianchi",
+      "name": "Bianchi",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Italian bicycle manufacturer; Bahrain Victorious bike supplier from 2026."
+    }
+  ],
+  "kits": [
+    {
+      "id": "alpecin-premier-tech-2026-home",
+      "clubId": "alpecin-premier-tech",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "alpecin",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "premier-tech",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Alpecin-Premier Tech's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "bahrain-victorious-2026-home",
+      "clubId": "bahrain-victorious",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bahrain-economic-development-board",
+          "placement": "front",
+          "source": {
+            "name": "Team Bahrain Victorious — About Us",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/about/"
+          }
+        },
+        {
+          "sponsorId": "mumtalakat",
+          "placement": "front",
+          "source": {
+            "name": "Team Bahrain Victorious — About Us",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/about/"
+          }
+        },
+        {
+          "sponsorId": "bapco-energies",
+          "placement": "front",
+          "source": {
+            "name": "Team Bahrain Victorious — About Us",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/about/"
+          }
+        },
+        {
+          "sponsorId": "beyon",
+          "placement": "back",
+          "source": {
+            "name": "Team Bahrain Victorious — Partners",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/partners/"
+          }
+        },
+        {
+          "sponsorId": "national-bank-of-bahrain",
+          "placement": "back",
+          "source": {
+            "name": "Team Bahrain Victorious — Partners",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/partners/"
+          }
+        },
+        {
+          "sponsorId": "al-salam-bank",
+          "placement": "back",
+          "source": {
+            "name": "Team Bahrain Victorious — Partners",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/partners/"
+          }
+        },
+        {
+          "sponsorId": "alba",
+          "placement": "back",
+          "source": {
+            "name": "Team Bahrain Victorious — Partners",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/partners/"
+          }
+        },
+        {
+          "sponsorId": "omniyat",
+          "placement": "partner",
+          "source": {
+            "name": "Team Bahrain Victorious — OMNIYAT supports Team Bahrain Victorious in 2026 WorldTour Cycling season",
+            "date": "2025-11-24",
+            "url": "https://bahraincyclingteam.com/omniyat-supports-team-bahrain-victorious-in-2026-worldtour-cycling-season/"
+          }
+        },
+        {
+          "sponsorId": "bianchi",
+          "placement": "partner",
+          "source": {
+            "name": "Team Bahrain Victorious — Partners",
+            "date": "unknown",
+            "url": "https://bahraincyclingteam.com/partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Bahrain Victorious's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "decathlon-cma-cgm-2026-home",
+      "clubId": "decathlon-cma-cgm",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "decathlon",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "cma-cgm",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Decathlon CMA CGM Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "ef-education-easypost-2026-home",
+      "clubId": "ef-education-easypost",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "ef-education-first",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "easypost",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. EF Education-EasyPost's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "groupama-fdj-united-2026-home",
+      "clubId": "groupama-fdj-united",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "groupama",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        },
+        {
+          "sponsorId": "fdj",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Groupama-FDJ United's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "ineos-grenadiers-2026-home",
+      "clubId": "ineos-grenadiers",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "ineos",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "netcompany",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. INEOS Grenadiers's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "lidl-trek-2026-home",
+      "clubId": "lidl-trek",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "lidl",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "trek",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Lidl-Trek's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "lotto-intermarche-2026-home",
+      "clubId": "lotto-intermarche",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "lotto",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "intermarche",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Lotto Intermarché's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "movistar-2026-home",
+      "clubId": "movistar",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "movistar",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Movistar Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "nsn-cycling-team-2026-home",
+      "clubId": "nsn-cycling-team",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "nsn",
+          "placement": "front",
+          "source": {
+            "name": "NSN Cycling Team — homepage / partner logos",
+            "date": "unknown",
+            "url": "https://nsncyclingteam.com/"
+          }
+        },
+        {
+          "sponsorId": "stoneweg",
+          "placement": "front",
+          "source": {
+            "name": "NSN Cycling Team — homepage / partner logos",
+            "date": "unknown",
+            "url": "https://nsncyclingteam.com/"
+          }
+        },
+        {
+          "sponsorId": "scott",
+          "placement": "partner",
+          "source": {
+            "name": "NSN Cycling Team — homepage / partner logos",
+            "date": "unknown",
+            "url": "https://nsncyclingteam.com/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. NSN Cycling Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "red-bull-bora-hansgrohe-2026-home",
+      "clubId": "red-bull-bora-hansgrohe",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "red-bull",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "bora",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        },
+        {
+          "sponsorId": "hansgrohe",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Red Bull-Bora-Hansgrohe's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "soudal-quick-step-2026-home",
+      "clubId": "soudal-quick-step",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "soudal",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "quick-step",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Soudal Quick-Step's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "team-jayco-alula-2026-home",
+      "clubId": "team-jayco-alula",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "jayco",
+          "placement": "front",
+          "source": {
+            "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+            "date": "unknown",
+            "url": "https://greenedgecycling.com/2026/2025partners/"
+          }
+        },
+        {
+          "sponsorId": "alula",
+          "placement": "front",
+          "source": {
+            "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+            "date": "unknown",
+            "url": "https://greenedgecycling.com/2026/2025partners/"
+          }
+        },
+        {
+          "sponsorId": "giant",
+          "placement": "partner",
+          "source": {
+            "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+            "date": "unknown",
+            "url": "https://greenedgecycling.com/2026/2025partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Team Jayco AlUla's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "team-picnic-postnl-2026-home",
+      "clubId": "team-picnic-postnl",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "picnic",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "postnl",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Team Picnic PostNL's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "team-visma-lease-a-bike-2026-home",
+      "clubId": "team-visma-lease-a-bike",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "visma",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "lease-a-bike",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Team Visma | Lease a Bike's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "uae-team-emirates-xrg-2026-home",
+      "clubId": "uae-team-emirates-xrg",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "emirates",
+          "placement": "front",
+          "source": {
+            "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+            "date": "2026-07-14",
+            "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          }
+        },
+        {
+          "sponsorId": "xrg",
+          "placement": "front",
+          "source": {
+            "name": "UAE Team Emirates — XRG Named as Co-title Partner and Official Energy Partner",
+            "date": "2024-12-17",
+            "url": "https://www.uaeteamemirates.com/xrg-named-co-title-partner-official-energy-partner-uae-team-emirates/"
+          }
+        },
+        {
+          "sponsorId": "g42",
+          "placement": "partner",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        },
+        {
+          "sponsorId": "colnago",
+          "placement": "partner",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. UAE Team Emirates XRG's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "uno-x-mobility-2026-home",
+      "clubId": "uno-x-mobility",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "uno-x",
+          "placement": "front",
+          "source": {
+            "name": "The Inner Ring — Pro Team Sponsors Explained",
+            "date": "2026-07-10",
+            "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. Uno-X Mobility's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    },
+    {
+      "id": "xds-astana-team-2026-home",
+      "clubId": "xds-astana-team",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "xds",
+          "placement": "front",
+          "source": {
+            "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+            "date": "2025-12-28",
+            "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+          }
+        },
+        {
+          "sponsorId": "samruk-kazyna",
+          "placement": "front",
+          "source": {
+            "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+            "date": "2025-12-28",
+            "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+          }
+        },
+        {
+          "sponsorId": "sportqory",
+          "placement": "front",
+          "source": {
+            "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+            "date": "2025-12-28",
+            "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "2026 UCI WorldTeam. XDS Astana Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+      "change": null
+    }
+  ],
+  "deals": [
+    {
+      "id": "uci-worldtour-shimano",
+      "clubId": null,
+      "orgName": "UCI WorldTour",
+      "sponsorId": "shimano",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "UCI — Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period",
+        "date": "unknown",
+        "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+      },
+      "leagueId": "uci-worldtour"
+    },
+    {
+      "id": "uci-worldtour-tissot",
+      "clubId": null,
+      "orgName": "UCI WorldTour",
+      "sponsorId": "tissot",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "UCI — Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period",
+        "date": "unknown",
+        "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+      },
+      "leagueId": "uci-worldtour"
+    },
+    {
+      "id": "uci-worldtour-santini",
+      "clubId": null,
+      "orgName": "UCI WorldTour",
+      "sponsorId": "santini",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "UCI — Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period",
+        "date": "unknown",
+        "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+      },
+      "leagueId": "uci-worldtour"
+    }
+  ],
+  "claims": [
+    {
+      "id": "bahrain-hrw-record",
+      "ownerIds": [
+        "government-of-bahrain"
+      ],
+      "text": "Human Rights Watch's 2026 world report records that Bahrain's authorities continued jailing opposition leaders and human-rights defenders, used torture and denial of medical care in detention, kept twelve death-row inmates at imminent risk of execution, and ran a kafala system that ties migrant workers to employers and excludes domestic workers from core labour protections.",
+      "short": "Bahrain: imprisoned opposition, torture in detention, kafala for migrant workers",
+      "source": {
+        "name": "Human Rights Watch — World Report 2026, Bahrain chapter",
+        "date": "2026-01-15",
+        "url": "https://www.hrw.org/world-report/2026/country-chapters/bahrain"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "kazakhstan-hrw-record",
+      "ownerIds": [
+        "government-of-kazakhstan",
+        "samruk-kazyna"
+      ],
+      "text": "Human Rights Watch reports that Kazakhstan continues to restrict freedoms of expression, association and assembly, prosecutes critics on overbroad 'extremism' charges, and has failed to fully investigate the January 2022 protests that left 238 dead and where detainees were tortured; the UN Human Rights Committee raised serious concerns about torture and use of force against civil society.",
+      "short": "Kazakhstan: restricted freedoms, torture, unpunished January 2022 deaths",
+      "source": {
+        "name": "Human Rights Watch — World Report 2026, Kazakhstan chapter",
+        "date": "2026-01-15",
+        "url": "https://www.hrw.org/world-report/2026/country-chapters/kazakhstan"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "france-hrw-record",
+      "ownerIds": [
+        "french-state"
+      ],
+      "text": "Human Rights Watch's 2026 world report records that France's civic space was downgraded to 'obstructed', police repression of protests restricted expression and assembly, the UN Committee Against Torture flagged excessive force against people of African and Arab descent and non-nationals, and the ECtHR condemned France for racial profiling by police.",
+      "short": "France: restricted civic space, police violence and racial profiling",
+      "source": {
+        "name": "Human Rights Watch — World Report 2026, France chapter",
+        "date": "2026-01-15",
+        "url": "https://www.hrw.org/world-report/2026/country-chapters/france"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "belgium-hrw-record",
+      "ownerIds": [
+        "government-of-belgium"
+      ],
+      "text": "Human Rights Watch's 'Grounds for Concern' report found that Belgium's counterterrorism response after the Paris and Brussels attacks led to police abuse and discrimination disproportionately targeting Muslims and people of North African or Turkish heritage.",
+      "short": "Belgium: counterterrorism policing and discrimination concerns",
+      "source": {
+        "name": "Human Rights Watch — Grounds for Concern: Belgium's Counterterror Responses to the Paris and Brussels Attacks",
+        "date": "2016-11-03",
+        "url": "https://www.hrw.org/report/2016/11/03/grounds-concern/belgiums-counterterror-responses-paris-and-brussels-attacks"
+      },
+      "reviewed": false
+    }
+  ],
+  "proposedRatings": [
+    {
+      "sponsorId": "xrg",
+      "tier": "serious",
+      "ownerId": "adnoc",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "uae-mass-trial-upheld-2025"
+      ],
+      "reasoning": "XRG is wholly owned by ADNOC, in turn wholly owned by the Government of Abu Dhabi. Same Abu Dhabi state money as Etihad: a 2024 mass trial of 43 activists with life sentences, upheld by the Federal Supreme Court in March 2025. serious."
+    },
+    {
+      "sponsorId": "samruk-kazyna",
+      "tier": "serious",
+      "ownerId": "samruk-kazyna",
+      "claimIds": [
+        "kazakhstan-hrw-record"
+      ],
+      "reasoning": "Samruk-Kazyna is Kazakhstan's sovereign wealth fund and the state is a major sponsor via it. Kazakhstan's record (restricted freedoms, torture, 238 dead in January 2022 and incomplete justice) fits serious."
+    },
+    {
+      "sponsorId": "alula",
+      "tier": "serious",
+      "ownerId": "royal-commission-for-alula",
+      "claimIds": [
+        "saudi-executions-2024"
+      ],
+      "reasoning": "AlUla is the Saudi Royal Commission for AlUla, a government agency. Carries the Saudi state's record (a record 345 executions in 2024); serious, matching Riyadh Air / Sela."
+    },
+    {
+      "sponsorId": "bahrain-economic-development-board",
+      "tier": "serious",
+      "ownerId": "government-of-bahrain",
+      "claimIds": [
+        "bahrain-hrw-record"
+      ],
+      "reasoning": "A Bahraini state agency; the Bahraini state's documented record (imprisoned opposition, torture, kafala) is serious."
+    },
+    {
+      "sponsorId": "mumtalakat",
+      "tier": "serious",
+      "ownerId": "mumtalakat",
+      "claimIds": [
+        "bahrain-hrw-record"
+      ],
+      "reasoning": "Mumtalakat is Bahrain's sovereign wealth fund; same Bahraini state money. serious."
+    },
+    {
+      "sponsorId": "bapco-energies",
+      "tier": "serious",
+      "ownerId": "government-of-bahrain",
+      "claimIds": [
+        "bahrain-hrw-record"
+      ],
+      "reasoning": "Bahrain national oil company, state-owned. serious by owner."
+    },
+    {
+      "sponsorId": "beyon",
+      "tier": "serious",
+      "ownerId": "government-of-bahrain",
+      "claimIds": [
+        "bahrain-hrw-record"
+      ],
+      "reasoning": "Bahraini telecoms group with majority state-linked ownership. serious by owner."
+    },
+    {
+      "sponsorId": "lotto",
+      "tier": "concern",
+      "ownerId": "government-of-belgium",
+      "claimIds": [
+        "belgium-hrw-record"
+      ],
+      "reasoning": "Lotto is Belgium's state National Lottery, so it carries the Belgian state. Belgium's documented issues (counterterrorism policing, discrimination) are milder than the Gulf states, so concern rather than serious."
+    },
+    {
+      "sponsorId": "fdj",
+      "tier": "concern",
+      "ownerId": "french-state",
+      "claimIds": [
+        "france-hrw-record"
+      ],
+      "reasoning": "FDJ is the French national lottery; the French state remains its largest shareholder after the 2019 privatisation. France's civic-space/policing record fits concern. (Merged with Groupama in the team name, so the state link is one step removed.)"
+    }
+  ],
+  "unsourced": [
+    "SportQory Sports Support Fund is credited as a main partner by XDS Astana GM Alexandr Vinokurov (Kazinform, 2025-12-28), but its legal ownership and structure were not found.",
+    "The 2026 renewal terms of AlUla's sponsorship of Team Jayco AlUla were not found; the original 2023-2025 deal and the 2026 partner page (greenedgecycling.com/2026/2025partners) document the brand on the team but not value or end date.",
+    "No publication date shown on the UCI licence-allocation press release; the URL/name say '2026-2028 period'. The UCI spells one team 'TEAM PICNINC POSTNL' (typo for Team Picnic PostNL).",
+    "The normalized owners.json entry for 'mumtalakat' has parentId 'mclaren-group'; its actual ultimate parent is the Government of Bahrain, but the shared id was reused as-is here.",
+    "NSN Cycling Team is Swiss-registered and Barcelona-based via NSN and Stoneweg; not state-linked. Israel-Premier Tech rebranded to NSN for 2026 after protests over Gaza (Cyclist 2026-07-14 and The Inner Ring 2026-07-10 both note this).",
+    "UAE Team Emirates' private management/owner structure",
+    "XDS is a private Shenzhen bike maker; its exact ownership was not found beyond press description (The Inner Ring, 2026-07-10).",
+    "Bapco Energies/Beyon/National Bank of Bahrain/Al Salam Bank/Alba ownership percentages were not individually verified; grouped under Bahraini state-linked ownership."
+  ]
+}

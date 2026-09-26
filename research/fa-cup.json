@@ -1,0 +1,310 @@
+{
+  "target": "fa-cup",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/257",
+  "sports": [],
+  "leagues": [
+    {
+      "id": "fa-cup",
+      "aliases": [
+        "emirates fa cup",
+        "fa cup",
+        "the fa cup",
+        "english fa cup"
+      ],
+      "sportId": "soccer",
+      "name": "The Emirates FA Cup",
+      "country": "England",
+      "clubCount": 124,
+      "season": "2026-27",
+      "status": "partial",
+      "notes": [
+        "Organisation target: sponsors of the FA Cup are recorded as deals with clubId null, orgName and leagueId fa-cup.",
+        "clubCount 124 is the competition proper (32 First Round qualifiers plus the 92 Premier League and EFL clubs who enter in the Third Round); 743 clubs in total were accepted for 2026-27 per the FA's official list (thefa.com news, 26 Jun 2026). The 124 figure is derived, not published by the FA.",
+        "Key dates for 2026-27 (thefa.com/competitions/thefacup/round-dates, fetched): First Round Proper 7 Nov 2026, Third Round (PL and Championship enter) 9 Jan 2027, Final 22 May 2027. The competition-proper club list is not final until those rounds are drawn, so per-club kits are deferred.",
+        "Title sponsor Emirates runs to 2027-28; the FA's official page footer (thefa.com/competitions/thefacup, fetched 25 Sep 2026) shows Emirates as primary sponsor with Carling, Cognizant, Mitre and ClearScore as secondary sponsors."
+      ]
+    }
+  ],
+  "clubs": [],
+  "owners": [
+    {
+      "id": "molson-coors",
+      "name": "Molson Coors Beverage Company",
+      "type": "listed-company",
+      "country": "United States",
+      "via": "NYSE: TAP",
+      "note": "Carling is one of Molson Coors' core power brands, listed alongside Coors Light, Miller Lite and Coors Banquet on the company's About page. Molson Coors is listed on the NYSE.",
+      "parentId": null
+    },
+    {
+      "id": "pentland-group",
+      "name": "Pentland Group plc",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "via": "Pentland Brands",
+      "note": "Pentland Group describes itself on its About Us page as 'a family business building and delivering positive brands in sports, outdoor and fashion'; Pentland Brands 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'. Pentland also holds 51.89% of JD Sports Fashion plc.",
+      "parentId": null
+    },
+    {
+      "id": "clearscore-group",
+      "name": "The ClearScore Group",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "note": "ClearScore's About Us page states 'Part of The ClearScore Group, ClearScore was founded in the UK in 2015'; the group is privately held (PE-backed), with no state owner identified in its own materials.",
+      "parentId": null
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "carling",
+      "name": "Carling",
+      "ownerId": "molson-coors",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "carling lager"
+      ],
+      "note": "Official beer partner of the Emirates FA Cup and Adobe Women's FA Cup until 2027 (FA Cup page footer and Sportcal). Carling is a Molson Coors core power brand per molsoncoors.com/about."
+    },
+    {
+      "id": "mitre",
+      "name": "Mitre",
+      "ownerId": "pentland-group",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Official ball supplier of the Emirates FA Cup and Adobe Women's FA Cup (goal.com, Jan 2025); 'Official Ball Partner of The FA' (Yahoo/FA, Aug 2026). Mitre is owned by Pentland Brands per pentlandgroup.com/about-us."
+    },
+    {
+      "id": "clearscore",
+      "name": "ClearScore",
+      "ownerId": "clearscore-group",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Official partner of the Emirates FA Cup and Adobe Women's FA Cup on a multi-year deal announced 22 Oct 2025 (thefa.com)."
+    }
+  ],
+  "kits": [],
+  "deals": [
+    {
+      "id": "fa-cup-emirates-title",
+      "clubId": null,
+      "orgName": "The Emirates FA Cup",
+      "sponsorId": "emirates",
+      "placement": "league-partner",
+      "from": "2015",
+      "to": "2027-28",
+      "value": {
+        "amount": 10,
+        "currency": "GBP",
+        "unit": "m",
+        "per": "year",
+        "upTo": true,
+        "usdApprox": 13
+      },
+      "source": {
+        "name": "Emirates Media Centre, 'Emirates FA Cup Title Partnership Extended Until 2028'",
+        "date": "2024-08-01",
+        "url": "https://www.emirates.com/media-centre/emirates-fa-cup-title-partnership-extended-until-2028/",
+        "note": "Sponsor's own press release (fetched 25 Sep 2026): four-year extension from the start of 2024/25, competition 'will continue to be called the Emirates FA Cup until 2028'; partnership first began in 2015. Value not stated in the release."
+      },
+      "leagueId": "fa-cup",
+      "note": "Title sponsor since 2015, renewed 2018 and 2021, extended 1 Aug 2024 for four years through 2027-28. Sportcal (1 Aug 2024, fetched) reported the renewal at about GBP 10m a season, down from about $18.5m under the 2021 deal - press estimate, so upTo true."
+    },
+    {
+      "id": "fa-cup-carling-beer",
+      "clubId": null,
+      "orgName": "The Emirates FA Cup and Adobe Women's FA Cup",
+      "sponsorId": "carling",
+      "placement": "league-partner",
+      "from": "2023",
+      "to": "2027",
+      "value": null,
+      "source": {
+        "name": "Sportcal, 'Carling extends FA Cup sponsorship to 2027'",
+        "date": "2025-10-29",
+        "url": "https://www.sportcal.com/sponsorship/carling-extends-fa-cup-sponsorship-to-2027/"
+      },
+      "leagueId": "fa-cup",
+      "note": "Official beer partner of the men's and women's FA Cups until 2027. Sportcal (fetched): Carling initially struck a three-year deal with the FA in 2023, replacing Budweiser; the October 2025 renewal adds two seasons. The FA's official FA Cup page footer lists Carling among the competition's sponsors (thefa.com/competitions/thefacup, fetched)."
+    },
+    {
+      "id": "fa-cup-clearscore-partner",
+      "clubId": null,
+      "orgName": "The Emirates FA Cup and Adobe Women's FA Cup",
+      "sponsorId": "clearscore",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "The FA, 'ClearScore sign as official partner of the Emirates FA Cup and Adobe Women's FA Cup'",
+        "date": "2025-10-22",
+        "url": "https://www.thefa.com/news/2025/oct/22/clearscore-partnership"
+      },
+      "leagueId": "fa-cup",
+      "note": "Multi-year deal announced 22 Oct 2025 (fetched); no end year stated, so to is null. Activation runs 'from the first rounds to the finals'. ClearScore also appears in the FA Cup page footer."
+    },
+    {
+      "id": "fa-cup-mitre-ball",
+      "clubId": null,
+      "orgName": "The Emirates FA Cup and Adobe Women's FA Cup",
+      "sponsorId": "mitre",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Goal.com, Mitre Winners' Ball for the FA Cup",
+        "date": "2025-01-09",
+        "url": "https://www.goal.com/en-in/news/manchester-united-men-women-use-new-limited-edition-mitre-winners-ball-fa-cup/blt81784093db3fbf3b"
+      },
+      "leagueId": "fa-cup",
+      "note": "Goal.com (fetched) calls Mitre 'the official ball supplier of the Emirates FA Cup and Adobe Women's FA Cup'. Yahoo Sport (11 Aug 2026, fetched) describes Mitre as 'the Official Ball Partner of The FA' ahead of the 2026 Community Shield. Start year and duration not stated in either - recorded as null."
+    },
+    {
+      "id": "fa-cup-cognizant-partner",
+      "clubId": null,
+      "orgName": "The Emirates FA Cup",
+      "sponsorId": "cognizant",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "The FA - Emirates FA Cup competition page footer sponsors",
+        "date": "2026-09-25",
+        "url": "https://www.thefa.com/competitions/thefacup"
+      },
+      "leagueId": "fa-cup",
+      "note": "Cognizant appears in the FA Cup page's secondary-sponsor footer alongside Carling, Emirates, Mitre and ClearScore (fetched 25 Sep 2026). Its exact FA Cup role is not stated on the page; Cognizant is a long-standing FA digital transformation partner per a 13 Sep 2023 TheFA.com announcement ('The FA and Cognizant expand Digital Transformation Partnership', seen only via Google News - headline source not openable, see unsourced). Cognizant already exists in normalized as a rated sponsor (concern)."
+    }
+  ],
+  "claims": [
+    {
+      "id": "fa-cup-emirates-ownership",
+      "ownerIds": [
+        "government-of-dubai",
+        "uae"
+      ],
+      "text": "The Emirates Group, Emirates airline's parent, is owned by the Investment Corporation of Dubai, 'Dubai's sovereign wealth fund'; Dubai gave Emirates about $4 billion in bailout funds during the pandemic, of which $3.6 billion has been repaid.",
+      "short": "Emirates' parent is owned by Dubai's sovereign wealth fund.",
+      "source": {
+        "name": "Associated Press (via NY1), 'Long-haul carrier Emirates reports record annual profit of $5.2 billion'",
+        "date": "2025-05-08",
+        "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2025/05/08/long-haul-carrier-emirates-reports-record-annual-profit-of-52-billion"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "fa-cup-carling-ownership",
+      "ownerIds": [
+        "molson-coors"
+      ],
+      "text": "Carling is one of Molson Coors' core power brands, named alongside Coors Light, Miller Lite, Coors Banquet, Molson Canadian and Ozujsko on the company's own About page.",
+      "short": "Carling is a Molson Coors core power brand.",
+      "source": {
+        "name": "Molson Coors Beverage Company - About",
+        "date": "2026",
+        "url": "https://www.molsoncoors.com/about"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "fa-cup-mitre-ownership",
+      "ownerIds": [
+        "pentland-group"
+      ],
+      "text": "Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion' with annual sales of $8 billion; its Pentland Brands arm 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'.",
+      "short": "Mitre is owned by Pentland Brands, part of family-owned Pentland Group.",
+      "source": {
+        "name": "Pentland Group - About Us",
+        "date": "2026",
+        "url": "https://pentlandgroup.com/about-us/"
+      },
+      "reviewed": false
+    },
+    {
+      "id": "fa-cup-clearscore-ownership",
+      "ownerIds": [
+        "clearscore-group"
+      ],
+      "text": "ClearScore states it is 'Part of The ClearScore Group' and that it 'was founded in the UK in 2015'; the group is privately held with no disclosed state or state-fund owner.",
+      "short": "ClearScore is part of the privately held ClearScore Group.",
+      "source": {
+        "name": "ClearScore - About Us",
+        "date": "2026",
+        "url": "https://www.clearscore.com/about-us"
+      },
+      "reviewed": false
+    }
+  ],
+  "proposedRatings": [
+    {
+      "sponsorId": "carling",
+      "tier": "none",
+      "ownerId": "molson-coors",
+      "claimIds": [
+        "fa-cup-carling-ownership"
+      ],
+      "reasoning": "Carling belongs to Molson Coors Beverage Company, a US-listed brewer with no state or state-fund owner; nothing state-linked sits behind the FA Cup beer partnership, so none."
+    },
+    {
+      "sponsorId": "mitre",
+      "tier": "none",
+      "ownerId": "pentland-group",
+      "claimIds": [
+        "fa-cup-mitre-ownership"
+      ],
+      "reasoning": "Mitre is owned by Pentland Brands within family-owned Pentland Group (which also holds 51.89% of JD Sports Fashion); a UK family business, no state or state-fund owner found, so none."
+    },
+    {
+      "sponsorId": "clearscore",
+      "tier": "none",
+      "ownerId": "clearscore-group",
+      "claimIds": [
+        "fa-cup-clearscore-ownership"
+      ],
+      "reasoning": "ClearScore is a UK-founded private fintech group; its own materials disclose no state or state-fund shareholder, so none on the evidence found."
+    },
+    {
+      "sponsorId": "emirates",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "uae-mass-trial-upheld-2025",
+        "fa-cup-emirates-ownership"
+      ],
+      "reasoning": "Title sponsor of the FA Cup until 2027-28 on a deal worth a reported GBP 10m a season; wholly owned via the Emirates Group by the Dubai government's investment arm, and the UAE's 2024 mass-trial life sentences (upheld on appeal) support the existing serious rating - re-proposed so the FA Cup org deal inherits it."
+    },
+    {
+      "sponsorId": "cognizant",
+      "tier": "concern",
+      "ownerId": "cognizant",
+      "claimIds": [
+        "cognizant-record"
+      ],
+      "reasoning": "FA Cup partner per the competition page footer; already rated concern in normalized on its conduct record (FCPA settlement) with no state owner - re-proposed unchanged for the FA Cup org deal."
+    }
+  ],
+  "unsourced": [
+    "The claimed '124 clubs in the competition proper (32 qualifiers plus 92 Premier League and EFL clubs)' is derived, not published by the FA: the FA's official 2026-27 list (thefa.com news 26 Jun 2026, fetched, with clubs-accepted PDF) confirms 743 accepted clubs but does not state a competition-proper count. The First and Second Round draw results and the Third Round entry list (PL and Championship clubs, 9 Jan 2027) are needed before per-club work; First Round Proper is 7 Nov 2026.",
+    "Cognizant's specific FA Cup role: the 13 Sep 2023 TheFA.com announcement 'The FA and Cognizant expand Digital Transformation Partnership' and the matching Cognizant newsroom item were confirmed only through Google News headlines (news.google.com RSS, TheFA.com and Cognizant Technology Solutions sources); the TheFA.com article URL and the Cognizant newsroom item both 404 when opened (25 Sep 2026), so the partnership's scope and dates beyond 'FA Group partner' could not be verified from a primary page. Cognizant does appear in the FA Cup page footer and the FA 'Our partners' page (both fetched).",
+    "Carling's exact renewal length: the Bing News RSS description of the 29 Oct 2025 Sportcal article says 'another two seasons', which matches 'until 2027'; the original deal's length ('initially struck a three-year deal ... in 2023') comes from the fetched Sportcal article.",
+    "The FA 'Our partners' page (thefa.com/about-football-association/our-partners, fetched) lists 22 FA Group partners (Nike, EE, Barclays, Budweiser, Carling, Chase, ClearScore, Cognizant, Disney, EA Sports, E.ON, Emirates, Fanatics, Hilton, Howdens, InPost, Lucozade, M&S Food, Mitre, National Express, Pepsi MAX, Walkers) without competition or category labels; only Emirates, Carling, Cognizant, Mitre and ClearScore appear in the FA Cup competition page footer, so FA-wide partners such as EE (England) and Barclays (WSL) were not recorded as FA Cup deals.",
+    "Mitre's FA Cup ball-supply start year and contract length are not stated in either fetched source (Goal.com Jan 2025 calls Mitre the official ball supplier of both cups; Yahoo Aug 2026 calls it the Official Ball Partner of The FA); from/to left null.",
+    "Per-club shirt and stadium sponsors of the 124 competition-proper clubs: deferred until the competition-proper club list is final (Third Round draw, Jan 2027). The Premier League clubs' 2026-27 kits already exist in the data via the premier-league target; Championship, League One and League Two clubs' kits are not yet covered anywhere.",
+    "Adobe is the title sponsor of the Adobe Women's FA Cup (three-year deal from 2023 per the fetched Sportcal Carling article), which appears in deal orgNames but is out of scope for the fa-cup men's target."
+  ]
+}

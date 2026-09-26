@@ -1,0 +1,132 @@
+{
+  "target": "ufc",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/256",
+  "sports": [
+    {
+      "id": "combat-sports",
+      "label": "Combat sports",
+      "status": "not-mapped",
+      "aliases": ["mma", "mixed martial arts", "boxing", "ufc"]
+    }
+  ],
+  "leagues": [
+    {
+      "id": "ufc",
+      "aliases": ["ultimate fighting championship", "ufc"],
+      "sportId": "combat-sports",
+      "name": "UFC (Ultimate Fighting Championship)",
+      "country": "United States",
+      "season": "2026",
+      "status": "partial",
+      "notes": [
+        "Event-host shape: UFC stages about 40 events a year (numbered cards, Fight Nights); the 2026 list comes from UFC.com and the '2026 in UFC' schedule. No event entity exists in the schema yet, so events are recorded in unsourced, not as clubs.",
+        "UFC is part of TKO Group Holdings (NYSE: TKO), a controlled company: its FY2024 10-K states Endeavor subsidiaries held about 53.9% of voting interests, and after Silver Lake's take-private of Endeavor (completed 24 Mar 2025) Endeavor retains its controlling stake in TKO.",
+        "Abu Dhabi: UFC and DCT Abu Dhabi (Department of Culture and Tourism - Abu Dhabi) have partnered since 2010 (formal partnership 2019), extended in October 2023 through 2028; 2026 brings UFC Fight Night 282 (25 Jul) and UFC 333 (24 Oct), both at Etihad Arena, plus Abu Dhabi Showdown Week.",
+        "Qatar: Visit Qatar hosted UFC's first Qatar event in Doha in November 2025 and announced the return, UFC Fight Night 294, for 21 Nov 2026.",
+        "Saudi Arabia: Riyadh Season (GEA) hosted UFC Fight Night in Riyadh on 1 Feb 2025; no UFC event in Saudi Arabia appears on the 2026 schedule.",
+        "Parent-company link: TKO's Zuffa Boxing promotion is a joint venture with Sela, a Public Investment Fund company, announced 5 Mar 2025 - a TKO corporate deal, separate from UFC event hosting."
+      ]
+    }
+  ],
+  "clubs": [],
+  "owners": [],
+  "sponsors": [],
+  "kits": [],
+  "deals": [
+    {
+      "id": "ufc-experience-abu-dhabi",
+      "clubId": null,
+      "orgName": "UFC (Ultimate Fighting Championship)",
+      "sponsorId": "experience-abu-dhabi",
+      "placement": "league-partner",
+      "from": "2019",
+      "to": "2028",
+      "value": null,
+      "source": {
+        "name": "TKO Group Holdings - UFC and the Department of Culture and Tourism - Abu Dhabi Extend Partnership to 2028",
+        "date": "2023-10-19",
+        "url": "https://tkogrp.com/news/ufc-and-the-department-of-culture-and-tourism-abu-dhabi-extend-partnership-to-2028/",
+        "note": "Partnership brings one numbered event with a championship bout to Abu Dhabi every year, extended with additional Fight Nights across MENA; 'the two sides entered a formal partnership in 2019' and 18 events had been held in the region since 2010. Confirmed still running: The National, 2026-07-25 ('a contract through 2028')."
+      },
+      "leagueId": "ufc",
+      "note": "Event-host/destination-partner deal with DCT Abu Dhabi (Experience Abu Dhabi is its tourism brand); host fee not published. Record kept at organisation level because the event-host shape has no schema yet."
+    },
+    {
+      "id": "ufc-visit-qatar",
+      "clubId": null,
+      "orgName": "UFC (Ultimate Fighting Championship)",
+      "sponsorId": "visit-qatar",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Qatar Tribune - Visit Qatar announces return of UFC Fight Night to Doha",
+        "date": "2026-09-18",
+        "url": "https://www.qatar-tribune.com/article/254555/sports/visit-qatar-announces-return-of-ufc-fight-night-to-doha",
+        "note": "Visit Qatar announced UFC Fight Night 294 for Ali Bin Hamad Al Attiyah Arena on 21 Nov 2026, 'following the success of the inaugural event in Qatar last year' (Tsarukyan vs. Hooker, Doha, Nov 2025)."
+      },
+      "leagueId": "ufc",
+      "note": "Visit Qatar (Qatar Tourism) is the event host/destination partner for UFC's Qatar events; host fee not published."
+    },
+    {
+      "id": "ufc-riyadh-season",
+      "clubId": null,
+      "orgName": "UFC (Ultimate Fighting Championship)",
+      "sponsorId": "riyadh-season",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Saudi Press Agency - GEA Board of Directors Chairman Announces UFC Fight Night in Riyadh",
+        "date": "2025-01-03",
+        "url": "https://www.spa.gov.sa/en/N2237200",
+        "note": "GEA chairman Turki Alalshikh announced the UFC Fight Night event for 1 Feb 2025 at anb Arena, Riyadh, 'as part of the Riyadh Season festivities'."
+      },
+      "leagueId": "ufc",
+      "note": "Riyadh Season event host; UFC's second Saudi show after Kingdom Arena, Riyadh, 22 Jun 2024. No 2026 Riyadh event on the schedule; deal status beyond Feb 2025 unknown."
+    },
+    {
+      "id": "ufc-sela-zuffa-boxing",
+      "clubId": null,
+      "orgName": "TKO Group Holdings (Zuffa Boxing)",
+      "sponsorId": "sela",
+      "placement": "league-partner",
+      "from": "2025",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "TKO Group Holdings - HE Turki Alalshikh and TKO Announce Launch of New Boxing Promotion in Partnership with Sela",
+        "date": "2025-03-05",
+        "url": "https://tkogrp.com/news/he-turki-alalshikh-and-tko-announce-launch-of-new-boxing-promotion-in-partnership-with-sela/",
+        "note": "Multi-year partnership among Turki Alalshikh, TKO and Sela ('A Public Investment Fund (PIF) company') for a new boxing promotion; TKO serves as managing partner."
+      },
+      "leagueId": "ufc",
+      "note": "TKO corporate deal (Zuffa Boxing, launched Jan 2026), not a UFC event deal; recorded here because the venture is TKO's, and TKO is UFC's parent. No equity split in the release."
+    }
+  ],
+  "claims": [],
+  "proposedRatings": [
+    {
+      "sponsorId": "riyadh-season",
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "claimIds": [
+        "riyadh-season-gea-record",
+        "saudi-executions-2024",
+        "khashoggi-assessment"
+      ],
+      "reasoning": "Riyadh Season is the flagship events season of Saudi Arabia's General Entertainment Authority, a government body chaired by Turki Alalshikh, and hosted UFC's Riyadh event (1 Feb 2025) as a Riyadh Season production. It is direct Saudi state money buying into the fight card, so it carries the same serious rating as the other Saudi state entertainment sponsors (record 345 executions in 2024; Khashoggi assessment). Serious, not severe: no live armed conflict link."
+    }
+  ],
+  "unsourced": [
+    "EVENT-HOST SHAPE - events are recorded here because the schema has no event entity yet. 2026 Abu Dhabi events: UFC Fight Night 282 (Ankalaev vs. Guskov, 25 Jul 2026, Etihad Arena, Yas Island) - reported by The National as the 23rd UFC show in Abu Dhabi - and UFC 333 (Volkanovski vs. Evloev, 24 Oct 2026, Etihad Arena), preceded by Abu Dhabi Showdown Week with tickets and hotel packages via VisitAbuDhabi.ae. Sources: The National, 2026-07-25, https://www.thenationalnews.com/sport/combat-sports/2026/07/25/ufc-333-heading-to-abu-dhabi-as-mma-giants-confirm-october-return-to-etihad-arena/ (opened); Abu Dhabi Media Office, 2026-05-18, https://www.mediaoffice.abudhabi/en/sport/organised-by-department-of-culture-and-tourism-abu-dhabi-ufc-fight-night-to-take-place-in-the-emirate-july-2026/ (opened); Trade Arabia, 2026-07-27, https://tradearabia.com/News/465612/UFC-333-to-headline-Abu-Dhabi-Showdown-Week-in-October (opened); UFC.com event page https://www.ufc.com/event/ufc-333 (opened; venue 'Etihad Arena, Yas Island' confirmed, no partner named).",
+    "DCT Abu Dhabi relationship history: TKO press release, 19 Oct 2023, says the two sides 'entered a formal partnership in 2019' with 18 events in the region since 2010, one numbered event with a championship bout per year, extension to 2028 adding Fight Nights across MENA, and Abu Dhabi Showdown Week as part of the event week - https://tkogrp.com/news/ufc-and-the-department-of-culture-and-tourism-abu-dhabi-extend-partnership-to-2028/ (opened). The host fee and the reported Octagon/canvas 'Visit Abu Dhabi' branding are not in any fetched source; UFC.com event pages show only empty 'Sponsored By' placeholders.",
+    "EVENT-HOST SHAPE - Qatar: Visit Qatar announced the return of UFC Fight Night to Doha on 21 Nov 2026, its second UFC event after the inaugural UFC Fight Night: Tsarukyan vs. Hooker on 22 Nov 2025 at ABHA Arena. Source: Qatar Tribune, 2026-09-18, https://www.qatar-tribune.com/article/254555/sports/visit-qatar-announces-return-of-ufc-fight-night-to-doha (opened); Qatar Tourism press release, 2025-10-01, https://www.qatartourism.com/en/news-and-media/press-releases/ufc-fight-night-in-doha-to-feature--arman-tsarukyan-taking-on-da (opened: UFC 'in partnership with Visit Qatar' makes 'its highly anticipated debut in Doha'). CONFLICT on the 2026 venue: MMA Junkie (17 Sep 2026, https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/17/ufc-fight-night-qatar-november/91806430007/, opened) says UFC Fight Night 294 will be 'from ABHA Arena in Doha', while Qatar Tribune and Wikipedia's 2026 in UFC list give Ali Bin Hamad al-Attiyah Arena, Al Rayyan for the same date. Unresolved.",
+    "EVENT-HOST SHAPE - Saudi Arabia: UFC Fight Night: Adesanya vs. Imavov took place 1 Feb 2025 at anb Arena, Riyadh, announced by GEA chairman Turki Alalshikh 'as part of the Riyadh Season festivities' - Saudi Press Agency, 2025-01-03, https://www.spa.gov.sa/en/N2237200 (opened); Arab News, 2025-01-03, https://www.arabnews.com/node/2585159/sport (opened: 'the global event organized as part of Riyadh Season in collaboration with UFC'). UFC's first Saudi event was UFC Fight Night: Whittaker vs. Aliskerov, 22 Jun 2024, Kingdom Arena, Riyadh - UFC.com event page https://www.ufc.com/event/ufc-fight-night-june-22-2024 (opened; venue confirmed, no Riyadh Season or GEA named on the page). No UFC event in Saudi Arabia appears on the 2026 schedule ('2026 in UFC', fetched).",
+    "TKO/Sela: the reported 60% Sela / 40% TKO ownership split of Zuffa Boxing is NOT in any primary source fetched. TKO's 5 Mar 2025 release announces the partnership without equity terms; TKO's 29 Sep 2025 Paramount release calls Zuffa Boxing 'a joint venture between TKO Group Holdings, Inc. (NYSE: TKO) and Sela' with 'TKO... as managing partner' (https://investor.tkogrp.com/news/news-details/2025/Paramount-Announces-Landmark-Media-Rights-Agreement-With-Zuffa-Boxing/default.aspx, opened). The 60/40 figure appears in secondary write-ups attributing it to a Turki Alalshikh social-media statement in June 2026 (https://whoistheownerof.com/who-owns-zuffa-boxing-ownership-2026/, opened - weak source). Needs a TKO filing or a direct Alalshikh statement before use. Sela is a PIF company per TKO's own release; PIF's portfolio page for Sela (https://www.pif.gov.sa/en/our-investments/our-portfolio/sela-sport-company/) was Cloudflare-blocked to direct fetches and served only cookie text via proxy, so PIF ownership rests on TKO's release wording.",
+    "TKO ownership chain (context for UFC's parent): TKO Group Holdings (NYSE: TKO) is a 'controlled company' under NYSE rules; its FY2024 Form 10-K states subsidiaries of Endeavor collectively owned approximately 53.9% of TKO's voting interests and that after the Endeavor Asset Acquisition Endeavor was expected to own approximately 61% (SEC, https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm, fetched). Silver Lake's take-private of Endeavor completed 24 Mar 2025, after which privately held Endeavor 'retains its controlling ownership stake in TKO Group Holdings' - Silver Lake press release, 2025-03-24, https://www.silverlake.com/endeavor-announces-completion-of-acquisition-by-silver-lake/ (opened). No claim recorded: TKO/Endeavor/Silver Lake are not state-linked and UFC itself is not a sponsor in this dataset.",
+    "The exact total of UFC events in 2026 (about 40: UFC 324-335, Fight Nights 266-294, UFC Freedom 250) could not be reliably counted from the '2026 in UFC' tables (https://en.wikipedia.org/wiki/2026_in_UFC, fetched, used as a lead only); the target keeps count null. Other 2026 state-adjacent hosts without shown state funding: Baku, Azerbaijan (27 Jun, Baku Crystal Hall), Macau (30 May, Galaxy Arena), Shanghai (29 Aug, Shanghai Oriental Sports Center) and UFC Freedom 250 at the White House (14 Jun 2026) - out of scope unless state funding is documented."
+  ]
+}

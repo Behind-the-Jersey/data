@@ -1,0 +1,1278 @@
+{
+ "target": "basketball-africa-league",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/16",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "basketball-africa-league",
+   "aliases": [
+    "bal"
+   ],
+   "sportId": "basketball",
+   "name": "Basketball Africa League",
+   "country": "Africa",
+   "clubCount": 12,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "Calendar-year season (2026, March-May). Sixth season: Kalahari Conference at SunBet Arena, Pretoria, 27 Mar-5 Apr 2026; Sahara Conference at Prince Moulay Abdellah Sports Complex, Rabat, 24 Apr-3 May; Playoffs and Finals at BK Arena, Kigali, 22-31 May (pr.nba.com, 30 Jan and 26 Feb 2026).",
+    "The BAL is a partnership between FIBA and NBA Africa; NBA Africa owns and operates the league; headquartered in Dakar, Senegal; first game played 16 May 2021 in Kigali (pr.nba.com BAL inaugural season, 29 Mar 2021).",
+    "RSSB Tigers (Rwanda) beat Petro de Luanda 90-88 in the 31 May 2026 final at BK Arena - first Rwandan champion (pr.nba.com 2026-bal-champions).",
+    "APR (Rwanda), owned by Rwanda's Ministry of Defence, withdrew on 12 March 2026 after OFAC designated the Rwanda Defence Force on 2 March 2026; NBA Africa is a US entity. FERWABA named RSSB Tigers as replacement on 20 March 2026 (Wikipedia 2026 BAL season - lead, needs a primary source).",
+    "'A record 22 marketing, merchandising and institutional partners have supported the BAL this season' (pr.nba.com, 25 May 2026). Visit Rwanda is a Foundational and Host Partner whose branding is 'showcased on BAL team uniforms' - jersey branding is league-controlled, so per-team shirt sponsors are largely invisible.",
+    "Visit Rwanda is a league partner, reportedly $6-7m a year (existing normalized note; value not confirmed against a primary source)."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "asc-ville-de-dakar",
+   "name": "ASC Ville de Dakar",
+   "shortName": "Ville de Dakar",
+   "code": "AVD",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Senegal",
+   "crest": null,
+   "aliases": [
+    "ascvd",
+    "asc ville de dakar senegal"
+   ]
+  },
+  {
+   "id": "al-ahly",
+   "name": "Al Ahly",
+   "shortName": "Al Ahly",
+   "code": "AHL",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Egypt",
+   "crest": null,
+   "aliases": [
+    "al ahly sc",
+    "al ahly cairo",
+    "al ahly sporting club"
+   ]
+  },
+  {
+   "id": "al-ahly-ly",
+   "name": "Al Ahly Ly",
+   "shortName": "Al Ahly Ly",
+   "code": "ALL",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Libya",
+   "crest": null,
+   "aliases": [
+    "al ahly benghazi",
+    "alahli tripoli"
+   ]
+  },
+  {
+   "id": "club-africain",
+   "name": "Club Africain",
+   "shortName": "Club Africain",
+   "code": "CAF",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Tunisia",
+   "crest": null,
+   "aliases": [
+    "club africain tunisia",
+    "club africain basketball"
+   ]
+  },
+  {
+   "id": "dar-city",
+   "name": "Dar City Basketball Club",
+   "shortName": "Dar City",
+   "code": "DAR",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Tanzania",
+   "crest": null,
+   "aliases": [
+    "dar city tanzania"
+   ]
+  },
+  {
+   "id": "fus-de-rabat",
+   "name": "FUS de Rabat",
+   "shortName": "FUS Rabat",
+   "code": "FUS",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Morocco",
+   "crest": null,
+   "aliases": [
+    "fath union sport rabat",
+    "fus rabat basketball"
+   ]
+  },
+  {
+   "id": "jca-kings",
+   "name": "JCA Kings",
+   "shortName": "JCA Kings",
+   "code": "JCA",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Cote d'Ivoire",
+   "crest": null,
+   "aliases": [
+    "jeunesse club d'abidjan",
+    "jca abidjan"
+   ]
+  },
+  {
+   "id": "johannesburg-giants",
+   "name": "Johannesburg Giants",
+   "shortName": "Giants",
+   "code": "JGB",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "South Africa",
+   "crest": null,
+   "aliases": [
+    "johannesburg giants basketball club"
+   ]
+  },
+  {
+   "id": "maktown-flyers",
+   "name": "Maktown Flyers",
+   "shortName": "Maktown",
+   "code": "MKF",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Nigeria",
+   "crest": null,
+   "aliases": [
+    "lagos legends",
+    "maktown flyers nigeria"
+   ]
+  },
+  {
+   "id": "nairobi-city-thunder",
+   "name": "Nairobi City Thunder",
+   "shortName": "NCT",
+   "code": "NCT",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Kenya",
+   "crest": null,
+   "aliases": [
+    "nairobi city thunder kenya"
+   ]
+  },
+  {
+   "id": "petro-de-luanda",
+   "name": "Petro de Luanda",
+   "shortName": "Petro",
+   "code": "PET",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Angola",
+   "crest": null,
+   "aliases": [
+    "atletico petroleos de luanda",
+    "petro de luanda basketball"
+   ]
+  },
+  {
+   "id": "rssb-tigers",
+   "name": "RSSB Tigers",
+   "shortName": "Tigers",
+   "code": "RSS",
+   "sportId": "basketball",
+   "leagueId": "basketball-africa-league",
+   "country": "Rwanda",
+   "crest": null,
+   "aliases": [
+    "tigers bbc",
+    "rssb tigers rwanda"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "rssb",
+   "name": "Rwanda Social Security Board (RSSB)",
+   "type": "state-fund",
+   "country": "Rwanda",
+   "note": "National social-security institution, established 2010 by merging the Social Security Fund of Rwanda and RAMA; describes itself as 'Rwanda's largest institutional investor' with RWF 3.9 trillion under management. Took full ownership of Tigers BBC in 2025 and renamed it RSSB Tigers (The New Times, 2026).",
+   "parentId": null
+  },
+  {
+   "id": "rwandair",
+   "name": "RwandAir",
+   "type": "unknown",
+   "country": "Rwanda",
+   "note": "Rwanda's national carrier (operations began 1 Dec 2002 as 'the new national carrier', rwandair.com). The airline's own pages do not state its shareholding; state ownership needs a primary source.",
+   "parentId": null
+  },
+  {
+   "id": "afreximbank",
+   "name": "African Export-Import Bank (Afreximbank)",
+   "type": "unknown",
+   "country": "Egypt",
+   "note": "Pan-African multilateral trade-finance bank created in 1993 under the auspices of the African Development Bank; 164 shareholders in four classes, Class A being African governments and continental institutions. Recorded as 'unknown' because no single controlling owner exists.",
+   "parentId": null
+  },
+  {
+   "id": "rwanda-defence-force",
+   "type": "state",
+   "name": "Rwanda Defence Force (RDF)",
+   "country": "Rwanda",
+   "via": "Ministry of Defence",
+   "note": "Designated by OFAC on 2 March 2026 (SDN entry: 'RWANDA DEFENCE FORCE (a.k.a. RDF), Ministry of Defence, KG 1 Roundabout, Kigali', tagged DRCONGO). Owner of APR BBC, the 2026 Rwandan champion that withdrew from the 2026 BAL.",
+   "parentId": "government-of-rwanda"
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "rwandair",
+   "name": "RwandAir",
+   "ownerId": "rwandair",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "rwandair express"
+   ],
+   "note": "Official Airline of the BAL; part of the Rwanda Development Board package (pr.nba.com, 19 Jun 2023)."
+  },
+  {
+   "id": "rssb",
+   "name": "Rwanda Social Security Board (RSSB)",
+   "ownerId": "rssb",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "rssb rwanda"
+   ],
+   "note": "Owner and name sponsor of RSSB Tigers, the 2026 BAL champions; took over Tigers BBC in 2025 (The New Times; Ecofin Agency)."
+  },
+  {
+   "id": "afreximbank",
+   "name": "Afreximbank (African Export-Import Bank)",
+   "ownerId": "afreximbank",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "african export-import bank"
+   ],
+   "note": "BAL partner (bal.nba.com/partners; pr.nba.com 30 Jan 2026)."
+  },
+  {
+   "id": "air-senegal",
+   "name": "Air Senegal",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "air senegal sa"
+   ],
+   "note": "BAL partner (bal.nba.com/partners). Ownership (State of Senegal via CDC Seneegal) not verified against a primary source."
+  },
+  {
+   "id": "bank-of-kigali",
+   "name": "Bank of Kigali",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "BAL partner; 'Rwanda's largest commercial bank' (bal.nba.com/partners). Owner left null pending a primary source on its shareholder register."
+  },
+  {
+   "id": "budweiser",
+   "name": "Budweiser",
+   "ownerId": "anheuser-busch-owner",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "BAL partner (bal.nba.com/partners); AB InBev brand."
+  },
+  {
+   "id": "castle-lite",
+   "name": "Castle Lite",
+   "ownerId": "anheuser-busch-owner",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "BAL partner (bal.nba.com/partners); AB InBev brand brewed under South African Breweries."
+  },
+  {
+   "id": "greenride-africa",
+   "name": "Greenride Africa",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "BAL partner; Rwanda-based electric mobility / ride-hailing company (bal.nba.com/partners). Ownership not traced."
+  },
+  {
+   "id": "qatar-foundation",
+   "name": "Qatar Foundation",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "qf"
+   ],
+   "note": "BAL partner (bal.nba.com/partners). Not-for-profit founded by the late Father Amir Sheikh Hamad Bin Khalifa Al Thani and Sheikha Moza bint Nasser (qf.org.qa/about); state-royal link recorded as a note, no ownerId assigned."
+  },
+  {
+   "id": "servicenow",
+   "name": "ServiceNow",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "BAL partner (bal.nba.com/partners)."
+  },
+  {
+   "id": "wave",
+   "name": "Wave",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "wave mobile money"
+   ],
+   "note": "BAL partner (bal.nba.com/partners); African mobile-money company, co-founder and CEO Drew Durbin (wave.com/en/about)."
+  },
+  {
+   "id": "south-african-tourism",
+   "name": "South African Tourism",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "sa tourism"
+   ],
+   "note": "BAL partner with in-arena visibility for the South Africa Conference (bal.nba.com/partners). Links to the national Department of Tourism (tourism.gov.za) from its site; formal status not verified."
+  },
+  {
+   "id": "rwanda-events",
+   "name": "Rwanda Events",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Named among the BAL's record 22 partners for 2026 (pr.nba.com, 25 May 2026); identity/ownership not confirmed."
+  },
+  {
+   "id": "flexx",
+   "name": "FLEXX",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Named among the BAL's record 22 partners for 2026 (pr.nba.com, 25 May 2026); not on the bal.nba.com partners page; identity not confirmed."
+  },
+  {
+   "id": "qavs",
+   "name": "QAVS",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Named among the BAL's record 22 partners for 2026 (pr.nba.com, 25 May 2026); not on the bal.nba.com partners page; identity not confirmed."
+  },
+  {
+   "id": "federation-royale-marocaine-de-basketball",
+   "name": "Federation Royale Marocaine de BasketBall",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "frmbb"
+   ],
+   "note": "Institutional partner named in the BAL's 22-partner list for 2026 (pr.nba.com, 25 May 2026)."
+  },
+  {
+   "id": "moroccan-ministry-of-national-education",
+   "name": "Moroccan Ministry of National Education, Preschool and Sport",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Institutional partner named in the BAL's 22-partner list for 2026 (pr.nba.com, 25 May 2026)."
+  },
+  {
+   "id": "office-national-marocain-du-tourisme",
+   "name": "Office National Marocain du Tourisme (ONMT)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "onmt"
+   ],
+   "note": "Moroccan national tourism office, partner named in the BAL's 22-partner list for 2026 (pr.nba.com, 25 May 2026)."
+  },
+  {
+   "id": "french-embassy-of-senegal",
+   "name": "French Embassy of Senegal",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Institutional partner named in the BAL's season announcement (pr.nba.com, 30 Jan 2026) and 22-partner list (25 May 2026)."
+  }
+ ],
+ "kits": [
+  {
+   "id": "asc-ville-de-dakar-2026-home",
+   "clubId": "asc-ville-de-dakar",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "'Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine' - league-wide branding on all 12 teams' uniforms, not a club-level shirt deal."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only: Visit Rwanda is carried on BAL team uniforms league-wide. No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "al-ahly-2026-home",
+   "clubId": "al-ahly",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "al-ahly-ly-2026-home",
+   "clubId": "al-ahly-ly",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "club-africain-2026-home",
+   "clubId": "club-africain",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "dar-city-2026-home",
+   "clubId": "dar-city",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "fus-de-rabat-2026-home",
+   "clubId": "fus-de-rabat",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "jca-kings-2026-home",
+   "clubId": "jca-kings",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "johannesburg-giants-2026-home",
+   "clubId": "johannesburg-giants",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "maktown-flyers-2026-home",
+   "clubId": "maktown-flyers",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "nairobi-city-thunder-2026-home",
+   "clubId": "nairobi-city-thunder",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "petro-de-luanda-2026-home",
+   "clubId": "petro-de-luanda",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+   "change": null
+  },
+  {
+   "id": "rssb-tigers-2026-home",
+   "clubId": "rssb-tigers",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "visit-rwanda",
+     "placement": "league-partner",
+     "source": {
+      "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+      "date": "2023-06-19",
+      "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+      "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+     }
+    },
+    {
+     "sponsorId": "rssb",
+     "placement": "partner",
+     "source": {
+      "name": "The New Times (Rwanda) - APR vs Tigers, a new rivalry taking over Rwandan basketball",
+      "date": "2026",
+      "url": "https://www.newtimes.co.rw/article/37747/sports/basketball/apr-vs-tigers-a-new-rivalry-taking-over-rwandan-basketball/amp",
+      "note": "In 2025 'the Rwanda Social Security Board (RSSB) took full ownership of the club', which 'was subsequently renamed RSSB Tigers' - name-sponsor/owner relationship, not a bought shirt slot."
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "League Visit Rwanda branding plus the state owner's name in the club name itself (RSSB took full ownership in 2025). No separate shirt sponsor found.",
+   "change": null
+  }
+ ],
+ "deals": [
+  {
+   "id": "bal-rwandair",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "rwandair",
+   "placement": "league-partner",
+   "from": "2021",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+    "date": "2023-06-19",
+    "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+    "note": "RwandAir continues as the 'Official Airline of the BAL', transporting select teams and staff to and from Kigali."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club; part of the Rwanda Development Board package alongside Visit Rwanda."
+  },
+  {
+   "id": "bal-afreximbank",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "afreximbank",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners",
+    "note": "Pan-African trade finance institution; also named in the 30 Jan 2026 season announcement."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-air-senegal",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "air-senegal",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners",
+    "note": "Senegal's national flag carrier (founded 2016 per the BAL partner blurb)."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-aws",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "aws",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-bank-of-kigali",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "bank-of-kigali",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-budweiser",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "budweiser",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-castle-lite",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "castle-lite",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-greenride-africa",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "greenride-africa",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-hyundai",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "hyundai",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners",
+    "note": "Hyundai (South Africa) is 'the Official Vehicle Partner of the Kalahari Conference'."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "Conference-scoped league partner, attached to no single club."
+  },
+  {
+   "id": "bal-puma",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "puma",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-qatar-foundation",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "qatar-foundation",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-sa-tourism",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "south-african-tourism",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners",
+    "note": "In-arena visibility during the South Africa Conference (Kalahari)."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "Conference-scoped league partner, attached to no single club."
+  },
+  {
+   "id": "bal-servicenow",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "servicenow",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-wave",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "wave",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The BAL - Partners (official site)",
+    "date": "2026-09-25",
+    "url": "https://bal.nba.com/partners"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-wilson",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "wilson",
+   "placement": "league-partner",
+   "from": "2021",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): Wilson to become official game ball of the NBA, WNBA, NBA G League, NBA 2K League and BAL",
+    "date": "2020-05-13",
+    "url": "https://pr.nba.com/wilson-nba-global-partnership/",
+    "note": "Multiyear global partnership covering the BAL."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-french-embassy-senegal",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "french-embassy-of-senegal",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): BAL to tip off sixth season on March 27 in South Africa",
+    "date": "2026-01-30",
+    "url": "https://pr.nba.com/basketball-africa-league-sixth-season/",
+    "note": "Named among the partners in the season announcement."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide institutional partner, attached to no single club."
+  },
+  {
+   "id": "bal-rwanda-events",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "rwanda-events",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): 2026 BAL season - By the Numbers",
+    "date": "2026-05-25",
+    "url": "https://pr.nba.com/2026-basketball-africa-league-season-numbers/",
+    "note": "Named among the 'record 22 marketing, merchandising and institutional partners'."
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "League-wide partner, attached to no single club."
+  },
+  {
+   "id": "bal-flexx",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "flexx",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): 2026 BAL season - By the Numbers",
+    "date": "2026-05-25",
+    "url": "https://pr.nba.com/2026-basketball-africa-league-season-numbers/"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "Named among the 22 partners; identity not confirmed."
+  },
+  {
+   "id": "bal-qavs",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "qavs",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): 2026 BAL season - By the Numbers",
+    "date": "2026-05-25",
+    "url": "https://pr.nba.com/2026-basketball-africa-league-season-numbers/"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "Named among the 22 partners; identity not confirmed."
+  },
+  {
+   "id": "bal-frmbb",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "federation-royale-marocaine-de-basketball",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): 2026 BAL season - By the Numbers",
+    "date": "2026-05-25",
+    "url": "https://pr.nba.com/2026-basketball-africa-league-season-numbers/"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "Institutional partner (Moroccan federation); attached to no single club."
+  },
+  {
+   "id": "bal-moroccan-ministry-education",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "moroccan-ministry-of-national-education",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): 2026 BAL season - By the Numbers",
+    "date": "2026-05-25",
+    "url": "https://pr.nba.com/2026-basketball-africa-league-season-numbers/"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "Institutional partner (Moroccan Ministry of National Education, Preschool and Sport); attached to no single club."
+  },
+  {
+   "id": "bal-onmt",
+   "clubId": null,
+   "orgName": "Basketball Africa League",
+   "sponsorId": "office-national-marocain-du-tourisme",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "NBA Communications (pr.nba.com): 2026 BAL season - By the Numbers",
+    "date": "2026-05-25",
+    "url": "https://pr.nba.com/2026-basketball-africa-league-season-numbers/"
+   },
+   "leagueId": "basketball-africa-league",
+   "note": "Institutional partner (Morocco's national tourism office); attached to no single club."
+  }
+ ],
+ "claims": [
+  {
+   "id": "rdf-ofac-designation-2026",
+   "ownerIds": [
+    "government-of-rwanda",
+    "rwanda-defence-force"
+   ],
+   "text": "On 2 March 2026 OFAC designated the Rwanda Defence Force (Ministry of Defence, Kigali) and four senior officials because 'The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23)', a US- and UN-sanctioned armed group in the DRC; the action followed M23's capture of Uvira days after the Washington Accords were signed.",
+   "short": "OFAC designated the Rwanda Defence Force over M23 support (2 Mar 2026)",
+   "source": {
+    "name": "US Treasury press release: Treasury Sanctions Rwanda Officials, Condemns Blatant Violations of Washington Peace Accords",
+    "date": "2026-03-02",
+    "url": "https://home.treasury.gov/news/press-releases/sb0411",
+    "note": "OFAC recent action of 2 Mar 2026 also lists the RDF SDN entry and DRC-related General License 1 (wind-down)."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "rdf-hrw-occupation",
+   "ownerIds": [
+    "government-of-rwanda",
+    "rwanda-defence-force"
+   ],
+   "text": "Human Rights Watch documents a campaign of mass forced recruitment, arbitrary detention, torture and summary executions by M23 and Rwandan military forces in eastern DRC (mid-2024 through 2025), and concludes Rwanda 'exercises effective control over the area, meeting the legal threshold for belligerent occupation'; hundreds, perhaps more, died in the camps.",
+   "short": "HRW: mass detention, killings, forced recruitment by M23 and Rwandan forces",
+   "source": {
+    "name": "Human Rights Watch - 'Death Was Everywhere': Arbitrary Detention, Killings, and Forced Recruitment by the M23 and the Rwanda Defence Force",
+    "date": "2026-06-10",
+    "url": "https://www.hrw.org/report/2026/06/10/death-was-everywhere/arbitrary-detention-killings-and-forced-recruitment-by-the"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "apr-withdrawal-sanctions",
+   "ownerIds": [
+    "rwanda-defence-force",
+    "government-of-rwanda"
+   ],
+   "text": "APR - the Rwandan champions, owned and funded by Rwanda's Ministry of Defence (Wikipedia APR BBC; OFAC lists the RDF under the Ministry of Defence) - withdrew from the 2026 BAL on 12 March 2026 because the US had sanctioned the Rwandan military and NBA Africa is an American entity; FERWABA named RSSB Tigers as the replacement on 20 March 2026.",
+   "short": "APR withdrew from BAL 2026 after US sanctions on the RDF",
+   "source": {
+    "name": "Wikipedia - 2026 BAL season (withdrawal and replacement dates; lead only, needs a primary source)",
+    "date": "2026-09-25",
+    "url": "https://en.wikipedia.org/wiki/2026_BAL_season"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "visit-rwanda",
+   "tier": "severe",
+   "ownerId": "government-of-rwanda",
+   "claimIds": [
+    "rwanda-troops-m23",
+    "m23-coltan-levies",
+    "rdf-ofac-designation-2026",
+    "rdf-hrw-occupation"
+   ],
+   "reasoning": "Foundational and Host Partner of the BAL with branding on all team uniforms and the Kigali finals (pr.nba.com 19 Jun 2023); already rated severe as a Government of Rwanda brand. The 2026 context strengthens the case: OFAC designated the RDF over M23 support on 2 Mar 2026 and HRW documents RDF-run detention camps - and the league's US-sanction relationship forced the RDF-owned APR out of the season."
+  },
+  {
+   "sponsorId": "rssb",
+   "tier": "serious",
+   "ownerId": "rssb",
+   "claimIds": [
+    "rwanda-troops-m23",
+    "rdf-ofac-designation-2026",
+    "rdf-hrw-occupation"
+   ],
+   "reasoning": "State social-security fund (RWF 3.9tn under management) that owns and lends its name to the 2026 BAL champions. Money ultimately sits with the Government of Rwanda, whose RDF is OFAC-designated over M23 and documented by HRW in eastern DRC - serious; severe was reserved in the existing data for the directly state-branded Visit Rwanda, so a person should decide whether a pension fund earns severe too."
+  },
+  {
+   "sponsorId": "rwandair",
+   "tier": "serious",
+   "ownerId": "rwandair",
+   "claimIds": [
+    "rwanda-troops-m23",
+    "rdf-ofac-designation-2026"
+   ],
+   "reasoning": "The national flag carrier and Official Airline of the BAL, part of the same Rwanda Development Board sponsorship package as Visit Rwanda. State-linked via the Government of Rwanda; formal shareholding not yet confirmed from a primary source, so the rating rides on the state record rather than a confirmed ownership chain."
+  }
+ ],
+ "unsourced": [
+  "Per-club shirt sponsors for the 2026 BAL season: no club-level jersey sponsor found for any of the 12 teams. BAL team pages (bal.nba.com/teams/...) list no sponsors; jersey branding is league-controlled (Visit Rwanda 'showcased on BAL team uniforms', pr.nba.com 19 Jun 2023). sponsorsComplete is false for all kits.",
+  "APR withdrawal date conflict: the target brief and Wikipedia's 2026 BAL season article say APR withdrew on 12 March 2026 and FERWABA named RSSB Tigers on 20 March 2026; the RSSB Tigers Wikipedia article says the Tigers' participation was 'confirmed' on 23 March 2026. The EastAfrican article cited in the target (403 to fetch) reportedly dates the withdrawal to the OFAC action of 2 March 2026 - needs a primary source.",
+  "RSSB ownership of the Tigers: The New Times (article 37747, 2026) says 'the Rwanda Social Security Board (RSSB) took full ownership of the club' in 2025 and the club 'was subsequently renamed RSSB Tigers'; Ecofin Agency (1 Jun 2026) says RSSB acquired the club in 2025. The RSSB Tigers Wikipedia infobox still lists founder Francis Shyaka as owner/chairman - a conflict to resolve with RSSB or FERWABA.",
+  "RSSB's formal state status: rssb.rw/about-rssb says it was established in 2010 by merging SSFR and RAMA and calls it 'Rwanda's largest institutional investor', but does not state the supervising ministry or creating law. parentId left null pending the establishing law / Ministry of Finance confirmation.",
+  "RwandAir ownership: rwandair.com ('Who we are') calls it 'the new national carrier' but never names an owner or shareholder; state ownership needs a government or audited source.",
+  "Air Senegal ownership: Wikipedia says state-owned via the Caisse des Depots et Consignation du Senegal with a EUR 68m state bailout in 2020 - Wikipedia only; the airline's own pages state no ownership.",
+  "South African Tourism's formal status (statutory body under the Department of Tourism) could not be confirmed: southafrica.net about pages return 404; the site footer links to the Department of Tourism (tourism.gov.za).",
+  "Bank of Kigali's ownership (listed on the Rwanda Stock Exchange; RSSB is reported to be a major shareholder) not verified against a primary source; ownerId left null.",
+  "Greenride Africa (BAL partner, 'Rwanda-based electric mobility company' per bal.nba.com/partners): no founder/owner found; greenrideafrica.com gives no ownership information; ownerId null.",
+  "Qatar Foundation state linkage: qf.org.qa/about credits its creation to the late Father Amir Sheikh Hamad Bin Khalifa Al Thani and Sheikha Moza bint Nasser but gives no founding year; no ownerId assigned.",
+  "QAVS, FLEXX and Rwanda Events are named among the BAL's 'record 22 partners' (pr.nba.com, 25 May 2026) but do not appear on the bal.nba.com partners page; what they are could not be established.",
+  "The reported $6-7m a year value of the Visit Rwanda BAL deal (existing normalized note) has not been verified against a primary source; visitrwanda.com gives no value.",
+  "Maktown Flyers ownership: a cited Facebook post title says 'Maktown Sports, Owners of Maktown Flyers Basketball Club Has Fully Taken Over Ownership Of Lagos Legends Basketball Club' (Aug 2025, via Wikipedia); no corporate source for Maktown Sports.",
+  "Team ownership for the remaining clubs is unrecorded: Dar City (no ownership found), Johannesburg Giants (founded 2025, leadership listed but no owner), Club Africain and Al Ahly Ly (no ownership statements), ASC Ville de Dakar (no ownership language), Petro de Luanda (founding tied to Angola's oil company Sonangol in 1980 but no current ownership statement), FUS de Rabat (president Said El Yamani; late Prince Moulay Abdallah was honorary president and financially supported the club historically).",
+  "Nairobi City Thunder is owned by Twende Sports Limited (acquired 2023, founded by Colin Rasmussen, Sandra Kimokoti, Kush Diriye and Stephen Domingo) per Wikipedia - not added as an owner/sponsor here because no state link and no BAL placement.",
+  "JCA Kings was 'later acquired by Ismael Adam Cisse' (Wikipedia) - private individual, no BAL placement; not added as an owner.",
+  "Club codes (AVD, AHL, ALL, ...) are conventional three-letter abbreviations chosen for this file, not from an official list.",
+  "'BAL is owned and operated by NBA Africa' comes from the Wikipedia Basketball Africa League article (lead); bal.nba.com/about describes it as a partnership between FIBA and NBA Africa. A corporate source for the ownership split is needed.",
+  "The BAL 'By the Numbers' release (25 May 2026) says 'nearly 75,000 fans attended' the group phases and games reach '214 countries and territories' - recorded here as context only, not attached to any schema entry."
+ ]
+}

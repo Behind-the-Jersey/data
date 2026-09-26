@@ -1,0 +1,1925 @@
+{
+ "target": "liv-golf",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/248",
+ "sports": [
+  {
+   "id": "golf",
+   "label": "Golf",
+   "status": "not-mapped",
+   "aliases": [
+    "LIV Golf",
+    "professional golf"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "liv-golf",
+   "aliases": [
+    "LIV Golf League",
+    "LIV Golf",
+    "LIV"
+   ],
+   "sportId": "golf",
+   "name": "LIV Golf League",
+   "country": "Global",
+   "clubCount": 13,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "Owned and funded by Saudi Arabia's Public Investment Fund since the 2022 launch. On 2026-04-30 PIF said the 'substantial investment required is no longer consistent' with its strategy and that it will stop funding the league at the end of the 2026 season; reported spend c. $5bn to date, c. $6bn by year-end; PIF governor and LIV chairman Yasir Al-Rumayyan expected to step down (Sky Sports, 2026-04-30, https://www.skysports.com/golf/news/12176/13538273/). In August 2026 LIV announced an unnamed lead investor has signed for 2027, with players set to become majority equity holders ('LIV Golf 2.0', seasons through 2030 affirmed) (livgolf.com news, fetched 2026-09-25). Show 2026 as PIF-owned and flag the change.",
+    "13 four-player teams plus wild cards (57 players); 2026 was the first 72-hole no-cut season. 12 events played Feb-Aug 2026 (livgolf.com/schedule, fetched 2026-09-25). LIV Golf Louisiana (June 25-28) was postponed and does not appear on the finished schedule (Sky Sports 2026-04-30). The season-ending Aramco LIV Golf Michigan Team Championship (Aug 27-30, The Cardinal at Saint John's Resort) was cancelled on 2026-08-17; Indianapolis became the finale (Sky Sports, https://www.skysports.com/golf/news/12176/13574162/...). LIV says 2027 will be a 10-event schedule.",
+    "League partners (livgolf.com/partners, fetched 2026-09-25): Global Partners Aramco, HSBC ('Global Pillar Partner'), Maaden, Riyadh Air, Roshn Group, Salesforce; Premium Partner Bahri; Presenting Partner JCB; Official Suppliers Arena, Corpay, DAOU, Fever, New Era, Panini, Select Event Group, Trackman; Destination Partners Government of South Australia, Hong Kong Tourism Board, Louisiana Economic Development, Andalucia Tourism. Event names carry the sponsor: ROSHN Group LIV Golf Riyadh (Feb 4-7), MAADEN LIV Golf Virginia (May 7-10).",
+    "Team partner lists come from each team's page on livgolf.com (all fetched 2026-09-25); shirt-level placement on team apparel is not documented there, so kits carry placement 'partner' and sponsorsComplete false."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "4aces-gc",
+   "name": "4Aces GC",
+   "shortName": "4Aces",
+   "code": "4AC",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "4 Aces",
+    "franchise team, no single country"
+   ]
+  },
+  {
+   "id": "cleeks-gc",
+   "name": "Cleeks Golf Club",
+   "shortName": "Cleeks",
+   "code": "CLK",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "Cleeks GC",
+    "franchise team, no single country"
+   ]
+  },
+  {
+   "id": "crushers-gc",
+   "name": "Crushers GC",
+   "shortName": "Crushers",
+   "code": "CRU",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "franchise team, no single country"
+   ]
+  },
+  {
+   "id": "fireballs-gc",
+   "name": "Fireballs GC",
+   "shortName": "Fireballs",
+   "code": "FIR",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "Fireballs"
+   ]
+  },
+  {
+   "id": "hyflyers-gc",
+   "name": "HyFlyers GC",
+   "shortName": "HyFlyers",
+   "code": "HYF",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "Hy Flyers",
+    "franchise team, no single country"
+   ]
+  },
+  {
+   "id": "korean-golf-club",
+   "name": "Korean Golf Club",
+   "shortName": "Korean GC",
+   "code": "KGC",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "Iron Heads GC"
+   ]
+  },
+  {
+   "id": "legion-xiii",
+   "name": "Legion XIII",
+   "shortName": "Legion XIII",
+   "code": "L13",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "Legion 13",
+    "franchise team, no single country"
+   ]
+  },
+  {
+   "id": "majesticks-gc",
+   "name": "Majesticks Golf Club",
+   "shortName": "Majesticks",
+   "code": "MAJ",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "England",
+   "crest": null,
+   "aliases": [
+    "Majesticks GC"
+   ]
+  },
+  {
+   "id": "okgc",
+   "name": "OKGC",
+   "shortName": "OKGC",
+   "code": "OKG",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "Smash GC",
+    "Oklahoma Golf Club"
+   ]
+  },
+  {
+   "id": "rangegoats-gc",
+   "name": "RangeGoats Golf Club",
+   "shortName": "RangeGoats",
+   "code": "RGO",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "RangeGoats GC",
+    "Range Goats",
+    "franchise team, no single country"
+   ]
+  },
+  {
+   "id": "ripper-gc",
+   "name": "Ripper GC",
+   "shortName": "Ripper",
+   "code": "RIP",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "Ripper Golf Club"
+   ]
+  },
+  {
+   "id": "southern-guards-gc",
+   "name": "Southern Guards GC",
+   "shortName": "Southern Guards",
+   "code": "SGC",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "South Africa",
+   "crest": null,
+   "aliases": [
+    "Stinger GC"
+   ]
+  },
+  {
+   "id": "torque-gc",
+   "name": "Torque GC",
+   "shortName": "Torque",
+   "code": "TOR",
+   "sportId": "golf",
+   "leagueId": "liv-golf",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "Torque Golf Club",
+    "franchise team, no single country"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "hsbc-holdings",
+   "name": "HSBC Holdings plc",
+   "type": "listed-company",
+   "country": "United Kingdom",
+   "note": "Publicly listed in London (HSBA), Hong Kong (0005) and New York (HSBC ADRs); no state shareholder disclosed on hsbc.com/investors.",
+   "parentId": null
+  },
+  {
+   "id": "authentic-brands-group",
+   "name": "Authentic Brands Group",
+   "type": "private-company",
+   "country": "United States",
+   "note": "Reebok is listed first in Authentic's brand portfolio (corporate.authentic.com/brand-portfolio, fetched 2026-09-25).",
+   "parentId": null
+  },
+  {
+   "id": "standard-bank-group",
+   "name": "Standard Bank Group",
+   "type": "listed-company",
+   "country": "South Africa",
+   "note": "JSE-listed; largest shareholder is Industrial and Commercial Bank of China (ICBC) at 19.7% (1H26, as at 30 June 2026) - a minority stake, no controlling shareholder (standardbank.com shareholder information, fetched 2026-09-25).",
+   "parentId": null
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "hsbc",
+   "name": "HSBC",
+   "ownerId": "hsbc-holdings",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
+  },
+  {
+   "id": "bahri",
+   "name": "Bahri (National Shipping Company of Saudi Arabia)",
+   "ownerId": "saudi-pif",
+   "ownership": "part-owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "LIV Golf Premium Partner (livgolf.com/partners). AGBI company profile: PIF holds 22.55%, Saudi Aramco Development Company 20%, remainder public (https://www.agbi.com/companies/bahri-company/, fetched 2026-09-25)."
+  },
+  {
+   "id": "jcb",
+   "name": "JCB",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "aliases": [
+    "JC Bamford Excavators"
+   ],
+   "claimIds": [],
+   "note": "LIV Golf Presenting Partner (livgolf.com/partners); JCB Golf & Country Club hosts LIV Golf UK. Ownership not confirmed on jcb.com this pass."
+  },
+  {
+   "id": "google-cloud",
+   "name": "Google Cloud",
+   "ownerId": "alphabet-inc",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "new-era",
+   "name": "New Era",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "New Era Cap"
+   ],
+   "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  },
+  {
+   "id": "reebok",
+   "name": "Reebok",
+   "ownerId": "authentic-brands-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25); Reebok listed in Authentic Brands Group's brand portfolio."
+  },
+  {
+   "id": "under-armour",
+   "name": "Under Armour",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "celsius",
+   "name": "CELSIUS",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "swag-golf",
+   "name": "SWAG Golf",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "flyhouse",
+   "name": "FlyHouse",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "daou",
+   "name": "DAOU Vineyards",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "DAOU"
+   ],
+   "note": "4Aces GC partner and LIV Golf Official Supplier (livgolf.com/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "icelandic-glacial",
+   "name": "Icelandic Glacial",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Cleeks GC partner (livgolf.com/cleeks-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "kalshi",
+   "name": "Kalshi",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "underdog",
+   "name": "Underdog",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Underdog Fantasy"
+   ],
+   "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "fever",
+   "name": "Fever",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "FeverUp"
+   ],
+   "note": "Fireballs GC partner and LIV Golf Official Supplier - Marketing & Technology Partner for ticketing (livgolf.com/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "mip",
+   "name": "MIP (Mexico Infrastructure Partners)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "mexicoinfra"
+   ],
+   "note": "Fireballs GC partner, logo links to mexicoinfra.com (livgolf.com/fireballs-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "primo-golf-apparel",
+   "name": "Primo Golf Apparel",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Primo"
+   ],
+   "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "rolex",
+   "name": "Rolex",
+   "ownerId": "rolex-sa",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Partner of Legion XIII and HyFlyers GC (team pages, fetched 2026-09-25); Rolex SA held by the Hans Wilsdorf Foundation."
+  },
+  {
+   "id": "vistajet",
+   "name": "VistaJet",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "amazing-cre",
+   "name": "Amazing CRE",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Korean Golf Club partner; logo links to a collection on sokimnewyork.com (livgolf.com/korean-golf-club, fetched 2026-09-25)."
+  },
+  {
+   "id": "plus",
+   "name": "PLUS",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Korean Golf Club partner; logo has no hyperlink and the brand behind it is unconfirmed (livgolf.com/korean-golf-club, fetched 2026-09-25)."
+  },
+  {
+   "id": "callaway",
+   "name": "Callaway",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
+  },
+  {
+   "id": "greyson",
+   "name": "Greyson Clothiers",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Greyson"
+   ],
+   "note": "Legion XIII and Ripper GC partner (team pages, fetched 2026-09-25)."
+  },
+  {
+   "id": "openbank",
+   "name": "Openbank",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
+  },
+  {
+   "id": "sowayoga",
+   "name": "SowaYoga",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
+  },
+  {
+   "id": "genesys",
+   "name": "Genesys",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "destina",
+   "name": "Destina (Destination Sport)",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Destination Sport"
+   ],
+   "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "open-sky-group",
+   "name": "Open Sky Group",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "seamless-digital",
+   "name": "Seamless Digital",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "edgeconnex",
+   "name": "EdgeConneX",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "OKGC partner (livgolf.com/okgc, fetched 2026-09-25)."
+  },
+  {
+   "id": "no-bull",
+   "name": "No Bull",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "No Bull Project"
+   ],
+   "note": "OKGC partner (livgolf.com/okgc, fetched 2026-09-25)."
+  },
+  {
+   "id": "swannies",
+   "name": "Swannies",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "convoy-of-hope",
+   "name": "Convoy of Hope",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "freddys",
+   "name": "Freddy's",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Freddys Frozen Custard"
+   ],
+   "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "airasia",
+   "name": "AirAsia",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Air Asia"
+   ],
+   "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "hahn",
+   "name": "Hahn",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "kwv",
+   "name": "KWV",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "KWV Brandy"
+   ],
+   "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "oscar-jacobson",
+   "name": "Oscar Jacobson",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "standard-bank",
+   "name": "Standard Bank",
+   "ownerId": "standard-bank-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25); largest shareholder ICBC 19.7% (1H26) per standardbank.com shareholder information."
+  },
+  {
+   "id": "we-buy-cars",
+   "name": "WeBuyCars",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "We Buy Cars"
+   ],
+   "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "rhino-whiskey",
+   "name": "Rhino Whiskey",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "ping",
+   "name": "PING",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Torque GC partner (livgolf.com/torque-gc, fetched 2026-09-25)."
+  },
+  {
+   "id": "akron",
+   "name": "Akron",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "akron.com.mx"
+   ],
+   "note": "Torque GC partner; logo links to akron.com.mx (fetched 2026-09-25)."
+  },
+  {
+   "id": "night-dragon",
+   "name": "Night Dragon",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Torque GC partner; logo links to nightdragon.com (fetched 2026-09-25)."
+  },
+  {
+   "id": "trackman",
+   "name": "Trackman",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "LIV Golf Official Supplier - radar-based performance data technology (livgolf.com/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "arena",
+   "name": "Arena",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "LIV Golf Official Supplier - temporary infrastructure and event solutions (livgolf.com/partners, fetched 2026-09-25)."
+  },
+  {
+   "id": "select-event-group",
+   "name": "Select Event Group",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "LIV Golf Official Supplier - structures and hospitality infrastructure at US tournaments (livgolf.com/partners, fetched 2026-09-25)."
+  }
+ ],
+ "kits": [
+  {
+   "id": "4aces-gc-2026-home",
+   "clubId": "4aces-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "under-armour",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - 4Aces GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/4aces-gc"
+     }
+    },
+    {
+     "sponsorId": "celsius",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - 4Aces GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/4aces-gc"
+     }
+    },
+    {
+     "sponsorId": "swag-golf",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - 4Aces GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/4aces-gc"
+     }
+    },
+    {
+     "sponsorId": "flyhouse",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - 4Aces GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/4aces-gc"
+     }
+    },
+    {
+     "sponsorId": "daou",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - 4Aces GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/4aces-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - 4Aces GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/4aces-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Under Armour, CELSIUS, SWAG Golf, FlyHouse, DAOU, New Era. Captain: Dustin Johnson.",
+   "change": null
+  },
+  {
+   "id": "cleeks-gc-2026-home",
+   "clubId": "cleeks-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "icelandic-glacial",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Cleeks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/cleeks-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Cleeks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/cleeks-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Icelandic Glacial, New Era. Captain: Martin Kaymer.",
+   "change": null
+  },
+  {
+   "id": "crushers-gc-2026-home",
+   "clubId": "crushers-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "periodLabel": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "reebok",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    },
+    {
+     "sponsorId": "qualcomm",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    },
+    {
+     "sponsorId": "salesforce",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    },
+    {
+     "sponsorId": "google-cloud",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    },
+    {
+     "sponsorId": "kalshi",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    },
+    {
+     "sponsorId": "hsbc",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    },
+    {
+     "sponsorId": "underdog",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Crushers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/crushers-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Reebok, Qualcomm, Salesforce, Google Cloud, Kalshi, HSBC, New Era, Underdog. Captain: Bryson DeChambeau.",
+   "change": null
+  },
+  {
+   "id": "fireballs-gc-2026-home",
+   "clubId": "fireballs-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "mip",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Fireballs GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/fireballs-gc"
+     }
+    },
+    {
+     "sponsorId": "fever",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Fireballs GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/fireballs-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Fireballs GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/fireballs-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: MIP (Mexico Infrastructure Partners), Fever, New Era. Captain: Sergio Garcia.",
+   "change": null
+  },
+  {
+   "id": "hyflyers-gc-2026-home",
+   "clubId": "hyflyers-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "primo-golf-apparel",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - HyFlyers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/hyflyers-gc"
+     }
+    },
+    {
+     "sponsorId": "rolex",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - HyFlyers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/hyflyers-gc"
+     }
+    },
+    {
+     "sponsorId": "vistajet",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - HyFlyers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/hyflyers-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - HyFlyers GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/hyflyers-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Primo Golf Apparel, Rolex, VistaJet, New Era. Captain: Phil Mickelson.",
+   "change": null
+  },
+  {
+   "id": "korean-golf-club-2026-home",
+   "clubId": "korean-golf-club",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "amazing-cre",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Korean Golf Club team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/korean-golf-club"
+     }
+    },
+    {
+     "sponsorId": "plus",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Korean Golf Club team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/korean-golf-club"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Korean Golf Club team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/korean-golf-club"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Amazing CRE, PLUS, New Era. Captain: Byeong Hun An. Renamed from Iron Heads GC for 2026.",
+   "change": null
+  },
+  {
+   "id": "legion-xiii-2026-home",
+   "clubId": "legion-xiii",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "callaway",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Legion XIII team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/legion-xiii"
+     }
+    },
+    {
+     "sponsorId": "greyson",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Legion XIII team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/legion-xiii"
+     }
+    },
+    {
+     "sponsorId": "openbank",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Legion XIII team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/legion-xiii"
+     }
+    },
+    {
+     "sponsorId": "rolex",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Legion XIII team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/legion-xiii"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Legion XIII team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/legion-xiii"
+     }
+    },
+    {
+     "sponsorId": "sowayoga",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Legion XIII team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/legion-xiii"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Callaway, Greyson, Openbank, Rolex, New Era, SowaYoga. Captain: Jon Rahm.",
+   "change": null
+  },
+  {
+   "id": "majesticks-gc-2026-home",
+   "clubId": "majesticks-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "genesys",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Majesticks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/majesticks-gc"
+     }
+    },
+    {
+     "sponsorId": "hsbc",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Majesticks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/majesticks-gc"
+     }
+    },
+    {
+     "sponsorId": "castore",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Majesticks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/majesticks-gc"
+     }
+    },
+    {
+     "sponsorId": "destina",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Majesticks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/majesticks-gc"
+     }
+    },
+    {
+     "sponsorId": "open-sky-group",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Majesticks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/majesticks-gc"
+     }
+    },
+    {
+     "sponsorId": "seamless-digital",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Majesticks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/majesticks-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Majesticks GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/majesticks-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Genesys, HSBC, Castore, Destina, Open Sky Group, Seamless Digital, New Era. Led by Ian Poulter.",
+   "change": null
+  },
+  {
+   "id": "okgc-2026-home",
+   "clubId": "okgc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "edgeconnex",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - OKGC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/okgc"
+     }
+    },
+    {
+     "sponsorId": "no-bull",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - OKGC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/okgc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - OKGC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/okgc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: EdgeConneX, No Bull, New Era. Led by Talor Gooch. Renamed from Smash GC for 2026.",
+   "change": null
+  },
+  {
+   "id": "rangegoats-gc-2026-home",
+   "clubId": "rangegoats-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "swannies",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - RangeGoats GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/rangegoats-gc"
+     }
+    },
+    {
+     "sponsorId": "convoy-of-hope",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - RangeGoats GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/rangegoats-gc"
+     }
+    },
+    {
+     "sponsorId": "freddys",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - RangeGoats GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/rangegoats-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - RangeGoats GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/rangegoats-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Swannies, Convoy of Hope, Freddy's, New Era. Captain: Bubba Watson.",
+   "change": null
+  },
+  {
+   "id": "ripper-gc-2026-home",
+   "clubId": "ripper-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "greyson",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Ripper GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/ripper-gc"
+     }
+    },
+    {
+     "sponsorId": "airasia",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Ripper GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/ripper-gc"
+     }
+    },
+    {
+     "sponsorId": "hahn",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Ripper GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/ripper-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Ripper GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/ripper-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: Greyson Clothiers, AirAsia, Hahn, New Era. Led by Cameron Smith.",
+   "change": null
+  },
+  {
+   "id": "southern-guards-gc-2026-home",
+   "clubId": "southern-guards-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "kwv",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Southern Guards GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/southern-guards-gc"
+     }
+    },
+    {
+     "sponsorId": "oscar-jacobson",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Southern Guards GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/southern-guards-gc"
+     }
+    },
+    {
+     "sponsorId": "standard-bank",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Southern Guards GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/southern-guards-gc"
+     }
+    },
+    {
+     "sponsorId": "we-buy-cars",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Southern Guards GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/southern-guards-gc"
+     }
+    },
+    {
+     "sponsorId": "rhino-whiskey",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Southern Guards GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/southern-guards-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Southern Guards GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/southern-guards-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: KWV, Oscar Jacobson, Standard Bank, WeBuyCars, Rhino Whiskey, New Era. Led by Louis Oosthuizen. Renamed from Stinger GC for 2026.",
+   "change": null
+  },
+  {
+   "id": "torque-gc-2026-home",
+   "clubId": "torque-gc",
+   "season": "2026",
+   "kitType": "home",
+   "periodLabel": "2026",
+   "periodFrom": "2026",
+   "periodTo": "2026",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "ping",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Torque GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/torque-gc"
+     }
+    },
+    {
+     "sponsorId": "akron",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Torque GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/torque-gc"
+     }
+    },
+    {
+     "sponsorId": "night-dragon",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Torque GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/torque-gc"
+     }
+    },
+    {
+     "sponsorId": "new-era",
+     "placement": "partner",
+     "source": {
+      "name": "LIV Golf - Torque GC team page",
+      "date": "2026-09-25",
+      "url": "https://www.livgolf.com/torque-gc"
+     }
+    }
+   ],
+   "sponsorsComplete": false,
+   "summary": "Team partners 2026: PING, Akron, Night Dragon, New Era. Captain: Joaquin Niemann.",
+   "change": null
+  }
+ ],
+ "deals": [
+  {
+   "id": "liv-aramco",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "aramco",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Global Partner (livgolf.com/partners, fetched 2026-09-25). Title partner of the season-ending Aramco LIV Golf Michigan Team Championship (Aug 27-30, The Cardinal at Saint John's Resort), which LIV cancelled on 2026-08-17 (Sky Sports).",
+   "source": {
+    "name": "LIV Golf - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners"
+   }
+  },
+  {
+   "id": "liv-hsbc",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "hsbc",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Global Partner; described by LIV as a 'Global Pillar Partner of LIV Golf' backing youth golf access and financial literacy (livgolf.com/partners, fetched 2026-09-25). Also a partner of Crushers GC and Majesticks GC.",
+   "source": {
+    "name": "LIV Golf - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners"
+   }
+  },
+  {
+   "id": "liv-maaden",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "maaden",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Global partner across all LIV events since 2025; elevated to Title Partner of MAADEN LIV Golf Virginia 2026 (May 7-10, Trump National Golf Club Washington D.C.) (livgolf.com news, fetched 2026-09-25).",
+   "source": {
+    "name": "LIV Golf - Maaden named Title Partner for LIV Golf Virginia 2026",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/news/maaden-named-title-partner-for-liv-golf-virginia-2026"
+   }
+  },
+  {
+   "id": "liv-roshn",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "roshn",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Global partnership across all LIV Golf events; first-ever Title Partner of the season-opening ROSHN Group LIV Golf Riyadh 2026 (Feb 4-7, Riyadh Golf Club), plus the ROSHN Rising Stars youth programme (ROSHN release 2026-01-05; livgolf.com news, both fetched 2026-09-25).",
+   "source": {
+    "name": "ROSHN Group - ROSHN Group Named Title Partner of LIV Golf Riyadh 2026, Expands Rising Stars Program",
+    "date": "2026-01-05",
+    "url": "https://www.roshn.sa/news-and-events/press-releases/article-96"
+   }
+  },
+  {
+   "id": "liv-riyadh-air",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "riyadh-air",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Global Partner (livgolf.com/partners, fetched 2026-09-25); also named in LIV's August 2026 partner list. Deal scope/tier beyond the partner listing not stated.",
+   "source": {
+    "name": "LIV Golf - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners"
+   }
+  },
+  {
+   "id": "liv-salesforce",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "salesforce",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Global Partner; powers the Fan Caddie and Agent Caddie fan experiences (livgolf.com/partners, fetched 2026-09-25). Also a Crushers GC partner.",
+   "source": {
+    "name": "LIV Golf - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners"
+   }
+  },
+  {
+   "id": "liv-bahri",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "bahri",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Premium Partner - Saudi-based global transportation and logistics company, operating since 1978 (livgolf.com/partners, fetched 2026-09-25).",
+   "source": {
+    "name": "LIV Golf - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners"
+   }
+  },
+  {
+   "id": "liv-jcb",
+   "clubId": null,
+   "orgName": "LIV Golf League",
+   "sponsorId": "jcb",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "leagueId": "liv-golf",
+   "note": "Presenting Partner; JCB Golf & Country Club (Staffordshire) hosted LIV Golf UK 2026 (Jul 23-26) per livgolf.com/schedule (fetched 2026-09-25).",
+   "source": {
+    "name": "LIV Golf - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners"
+   }
+  },
+  {
+   "id": "liv-trackman",
+   "clubId": null,
+   "orgName": "LIV Golf",
+   "sponsorId": "trackman",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "livgolf.co.uk partners page (per sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners",
+    "note": "LIV Golf Official Supplier - radar-based performance data technology (livgolf.com/partners, fetched 2026-09-25)."
+   }
+  },
+  {
+   "id": "liv-arena",
+   "clubId": null,
+   "orgName": "LIV Golf",
+   "sponsorId": "arena",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "livgolf.co.uk partners page (per sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners",
+    "note": "LIV Golf Official Supplier - temporary infrastructure and event solutions (livgolf.com/partners, fetched 2026-09-25)."
+   }
+  },
+  {
+   "id": "liv-select-event-group",
+   "clubId": null,
+   "orgName": "LIV Golf",
+   "sponsorId": "select-event-group",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "livgolf.co.uk partners page (per sponsor note)",
+    "date": "2026-09-25",
+    "url": "https://www.livgolf.com/partners",
+    "note": "LIV Golf Official Supplier - structures and hospitality infrastructure at US tournaments (livgolf.com/partners, fetched 2026-09-25)."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "liv-pif-funding",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "Saudi Arabia's Public Investment Fund has bankrolled LIV Golf since its 2022 launch and said on 30 April 2026 that the 'substantial investment required is no longer consistent' with its strategy and that it will stop funding the league at the end of the 2026 season; reported spend is c. $5bn to date, rising to c. $6bn by the end of 2026, and PIF governor and LIV chairman Yasir Al-Rumayyan is expected to step down.",
+   "short": "PIF has funded LIV Golf since 2022 and is ending its funding after the 2026 season (c. $5-6bn reported spend).",
+   "source": {
+    "name": "Sky Sports",
+    "date": "2026-04-30",
+    "url": "https://www.skysports.com/golf/news/12176/13538273/liv-golf-major-changes-with-saudi-arabia-set-to-end-funding-of-league-starring-bryson-dechambeau-and-jon-rahm"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "liv-lead-investor-2027",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "In August 2026 LIV Golf announced an agreement with an unnamed lead investor that will 'carry and fund' the league from 2027, with players set to become majority equity holders ('LIV Golf 2.0') and seasons through 2030 affirmed; the investor's identity and terms were not disclosed.",
+   "short": "LIV Golf's unnamed 2027 lead investor and planned player majority ownership (announced August 2026).",
+   "source": {
+    "name": "LIV Golf - LIV Golf reaches agreement with lead investor for its next era",
+    "date": "2026-08",
+    "url": "https://www.livgolf.com/news/liv-golf-reaches-agreement-with-lead-investor-for-its-next-era"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "roshn-ownership",
+   "ownerIds": [
+    "roshn",
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "ROSHN Group describes itself as 'Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF company)' in its own press release naming it Title Partner of LIV Golf Riyadh 2026.",
+   "short": "ROSHN is a PIF company (its own press release).",
+   "source": {
+    "name": "ROSHN Group press release",
+    "date": "2026-01-05",
+    "url": "https://www.roshn.sa/news-and-events/press-releases/article-96"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "bahri-ownership",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "The Public Investment Fund holds a 22.55 percent stake in Bahri (National Shipping Company of Saudi Arabia) and 20 percent is held by Saudi Aramco Development Company, with the remainder in public shares.",
+   "short": "PIF holds 22.55% of Bahri; Saudi Aramco Development Company holds 20%.",
+   "source": {
+    "name": "AGBI (Arab Gulf Business Insight) company profile",
+    "date": "2025-05-08",
+    "url": "https://www.agbi.com/companies/bahri-company/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "liv-michigan-cancelled",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "LIV Golf confirmed on 17 August 2026 that the Aramco LIV Golf Michigan Team Championship (Aug 27-30, The Cardinal at Saint John's Resort) 'will not take place', making Indianapolis the 2026 season finale - weeks after PIF said it would stop funding the league at season's end.",
+   "short": "LIV cancelled the Aramco Team Championship in Michigan in August 2026.",
+   "source": {
+    "name": "Sky Sports",
+    "date": "2026-08-17",
+    "url": "https://www.skysports.com/golf/news/12176/13574162/liv-golf-confirms-season-ending-team-championship-event-in-michigan-cancelled-with-2026-winner-to-be-crowned-a-week-earlier"
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "pif",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "liv-pif-funding",
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "PIF is LIV Golf's owner and sole major funder since 2022 (c. $5-6bn reported spend), so the league itself is Saudi state money. PIF is chaired by Crown Prince Mohammed bin Salman; the state's record (345 executions in 2024, Khashoggi assessment) and the league's explicit sportswashing role make this serious, with the Sky Sports exit claim flagging that funding ends after 2026."
+  },
+  {
+   "sponsorId": "roshn",
+   "tier": "serious",
+   "ownerId": "roshn",
+   "claimIds": [
+    "roshn-ownership",
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "ROSHN describes itself as 'a PIF company', so it is the same Saudi state money as Riyadh Air (already serious in the corpus), amplified here as title partner of the season-opening Riyadh event and a global partner running the ROSHN Rising Stars programme."
+  },
+  {
+   "sponsorId": "bahri",
+   "tier": "concern",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "bahri-ownership",
+    "saudi-executions-2024"
+   ],
+   "reasoning": "Saudi state-linked (PIF 22.55%, Saudi Aramco Development Company 20% per AGBI) but minority holdings without control, so a step below the state-owned sponsors; as a Premium Partner of LIV it still carries Vision 2030 state branding."
+  },
+  {
+   "sponsorId": "aramco",
+   "tier": "serious",
+   "ownerId": "government-of-saudi-arabia",
+   "claimIds": [
+    "gov-saudi-arabia-record"
+   ],
+   "reasoning": "Already rated serious in the corpus and the rating carries over: the Saudi state owns 81.48% of Aramco directly plus 16% via PIF, and Aramco is a LIV Golf Global Partner and was title partner of the (cancelled) Team Championship."
+  },
+  {
+   "sponsorId": "maaden",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "pif-record"
+   ],
+   "reasoning": "Already rated serious in the corpus: Ma'aden is ~67% PIF-owned, and at LIV it is a global partner and title partner of MAADEN LIV Golf Virginia, so the same state link applies."
+  },
+  {
+   "sponsorId": "riyadh-air",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+   ],
+   "reasoning": "Already rated serious in the corpus (PIF-owned national carrier with drafted why-text); at LIV it is a Global Partner, so the existing rating carries over unchanged."
+  },
+  {
+   "sponsorId": "hsbc",
+   "tier": "none",
+   "ownerId": "hsbc-holdings",
+   "claimIds": [],
+   "reasoning": "HSBC Holdings plc is listed in London, Hong Kong and New York with no state shareholder disclosed on its investor site; a 'none' tier matches the corpus treatment of other non-state-listed sponsors, though a person decides."
+  }
+ ],
+ "unsourced": [
+  "Team apparel placement: the 13 team pages (livgolf.com/<team>, all fetched 2026-09-25) list partner logos but do not document where each brand appears on team apparel, so kit sponsors are filed as placement 'partner' with sponsorsComplete false; a shirt-level pass is still needed.",
+  "LIV Golf 2027 lead investor: unnamed in LIV's August 2026 announcement; identity, terms and finalisation date not disclosed (https://www.livgolf.com/news/liv-golf-reaches-agreement-with-lead-investor-for-its-next-era, fetched 2026-09-25).",
+  "PIF spend figures (c. $5bn to date, c. $6bn by end-2026) are attributed by Sky Sports (2026-04-30) to Money in Sport; no primary filing located.",
+  "League deal values: no contract values for any LIV partnership are published on livgolf.com; all deals filed with value null.",
+  "Partner deal start dates: livgolf.com/partners gives no term dates for Aramco, HSBC, Riyadh Air, Salesforce, Bahri or JCB; only Ma'aden (global partner since 2025) and ROSHN (2025 involvement, title partner from 2026-01-05 release) have dates.",
+  "PLUS (Korean Golf Club partner): logo image has no hyperlink and the brand behind it is unconfirmed (livgolf.com/korean-golf-club, fetched 2026-09-25).",
+  "Amazing CRE: linked to a sokimnewyork.com collection page; the corporate identity behind the brand was not verified.",
+  "New Era current ownership: neweracap.com history page describes four generations of the Koch family but does not state the present ownership structure.",
+  "JCB ownership: jcb.com does not state whether JC Bamford Excavators Ltd is family-owned; the Bamford family connection is unconfirmed this pass.",
+  "Bahri ownership percentages (PIF 22.55%, Aramco Development Company 20%) come from the AGBI company profile; Bahri's own investor-relations pages (bahri.sa, investors.bahri.sa) do not publish a shareholder breakdown, so a primary filing (Tadawul/annual report) should confirm.",
+  "LIV Golf Louisiana (June 25-28, 2026) was postponed per Sky Sports (2026-04-30) and does not appear on the finished livgolf.com/schedule; the cancellation/postponement outcome was not separately confirmed.",
+  "Wild-card players (Scott Vincent, Richard T. Lee, Yosuke Asaji, Bjorn Hellgren, Danny Lee, Miguel Tabuena per livgolf.com/teams) have no team and no kit entry; player-level personal sponsors were out of scope this pass.",
+  "Destination Partners on livgolf.com/partners (Government of South Australia, Hong Kong Tourism Board, Louisiana Economic Development, Andalucia Tourism) were noted in league notes but not filed as sponsors/deals this pass.",
+  "Official Suppliers on livgolf.com/partners beyond those already in the corpus (Arena, Trackman, Select Event Group filed; Corpay, Panini, DAOU, Fever, New Era reused) - Arena/Trackman/Select Event Group owner chains not researched.",
+  "HSBC 'Global Pillar Partner' designation appears only on livgolf.com/partners; no HSBC-side press release located to confirm the tier."
+ ]
+}

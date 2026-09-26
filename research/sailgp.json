@@ -1,0 +1,1243 @@
+{
+  "target": "sailgp",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/264",
+  "sports": [
+    {
+      "id": "sailing",
+      "label": "Sailing",
+      "status": "not-mapped",
+      "aliases": [
+        "sail racing",
+        "sailgp",
+        "foiling"
+      ]
+    }
+  ],
+  "leagues": [
+    {
+      "id": "sailgp",
+      "aliases": [
+        "Rolex SailGP Championship",
+        "SailGP Championship",
+        "F50 League"
+      ],
+      "sportId": "sailing",
+      "name": "SailGP (Rolex SailGP Championship)",
+      "clubCount": 13,
+      "season": "2026",
+      "status": "partial",
+      "notes": [
+        "13 national teams in the 2026 season; official team names carry title/naming partners (sailgp.com team pages, fetched 2026-09-25): BONDS Flying Roos (AUS), Mubadala Brazil (BRA), NorthStar (CAN), ROCKWOOL Racing (DEN), DS Automobiles SailGP Team France (FRA), Emirates Great Britain (GBR), Germany SailGP Team presented by Deutsche Bank (GER), Red Bull Italy (ITA), Black Foils (NZL), Los Gallos (ESP), Artemis (SWE), Explora Journeys Swiss SailGP Team (SUI), United States (USA).",
+        "Calendar-year competition (Jan-Nov 2026), so season is bare 2026. 13 Sail Grands Prix from Oracle Perth (17-18 Jan 2026) to the Mubadala Abu Dhabi Grand Final (28-29 Nov 2026); the two closing rounds are in the UAE (sailgp.com/races/ calendar, fetched 2026-09-25).",
+        "League partner tiers per sailgp.com/about/partners/overview/ (fetched 2026-09-25): Presenting Partner Rolex; Global Partners DP World, Emirates, Mubadala, Oracle; Official Partners Accor, Apex, KPMG. Red Bull was announced as a new global partner in January 2026 (sailgp.com press release, publishDate 2026-01-15) but does not yet appear on the partners overview page.",
+        "Boat livery/event-host shape: SailGP has no shirts in the schema sense - team naming partners brand the F50 boats and team identity. Mapped team title/naming partners to placement 'front' and team partners to 'partner'; the event-host shape (13 events with title/presenting partners) is recorded in unsourced because no event entity exists yet.",
+        "League founded 2018 by Larry Ellison and Russell Coutts, operated by F50 League LLC (Wikipedia lead, not cited)."
+      ]
+    }
+  ],
+  "clubs": [
+    {
+      "id": "bonds-flying-roos",
+      "name": "BONDS Flying Roos SailGP Team",
+      "shortName": "Flying Roos",
+      "code": "AUS",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Australia",
+      "crest": null,
+      "aliases": [
+        "Australia SailGP Team",
+        "Bonds Flying Roos",
+        "Flying Roos"
+      ]
+    },
+    {
+      "id": "mubadala-brazil",
+      "name": "Mubadala Brazil SailGP Team",
+      "shortName": "Mubadala Brazil",
+      "code": "BRA",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Brazil",
+      "crest": null,
+      "aliases": [
+        "Brazil SailGP Team",
+        "Mubadala Brazil"
+      ]
+    },
+    {
+      "id": "northstar-canada",
+      "name": "NorthStar SailGP Team",
+      "shortName": "NorthStar",
+      "code": "CAN",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Canada",
+      "crest": null,
+      "aliases": [
+        "Canada SailGP Team",
+        "NorthStar",
+        "Canada SailGP Team | NorthStar"
+      ]
+    },
+    {
+      "id": "rockwool-denmark",
+      "name": "ROCKWOOL Racing SailGP Team",
+      "shortName": "ROCKWOOL Racing",
+      "code": "DEN",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Denmark",
+      "crest": null,
+      "aliases": [
+        "Denmark SailGP Team",
+        "ROCKWOOL Denmark SailGP Team",
+        "ROCKWOOL Racing"
+      ]
+    },
+    {
+      "id": "ds-automobiles-france",
+      "name": "DS Automobiles SailGP Team France",
+      "shortName": "DS Automobiles France",
+      "code": "FRA",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "France",
+      "crest": null,
+      "aliases": [
+        "France SailGP Team",
+        "DS Automobiles SailGP Team"
+      ]
+    },
+    {
+      "id": "emirates-great-britain",
+      "name": "Emirates Great Britain SailGP Team",
+      "shortName": "Emirates GBR",
+      "code": "GBR",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Great Britain",
+      "crest": null,
+      "aliases": [
+        "Great Britain SailGP Team",
+        "Emirates GBR",
+        "GBR SailGP Team"
+      ]
+    },
+    {
+      "id": "germany-sailgp",
+      "name": "Germany SailGP Team presented by Deutsche Bank",
+      "shortName": "Germany SailGP",
+      "code": "GER",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Germany",
+      "crest": null,
+      "aliases": [
+        "Germany SailGP Team",
+        "Deutsche Bank Germany SailGP Team"
+      ]
+    },
+    {
+      "id": "red-bull-italy",
+      "name": "Red Bull Italy SailGP Team",
+      "shortName": "Red Bull Italy",
+      "code": "ITA",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Italy",
+      "crest": null,
+      "aliases": [
+        "Italy SailGP Team",
+        "Red Bull Italy"
+      ]
+    },
+    {
+      "id": "black-foils-nz",
+      "name": "Black Foils SailGP Team",
+      "shortName": "Black Foils",
+      "code": "NZL",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "New Zealand",
+      "crest": null,
+      "aliases": [
+        "New Zealand SailGP Team",
+        "Black Foils",
+        "NZ SailGP Team"
+      ]
+    },
+    {
+      "id": "los-gallos",
+      "name": "Los Gallos SailGP Team",
+      "shortName": "Los Gallos",
+      "code": "ESP",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Spain",
+      "crest": null,
+      "aliases": [
+        "Spain SailGP Team",
+        "Los Gallos"
+      ]
+    },
+    {
+      "id": "artemis-sweden",
+      "name": "Artemis SailGP Team",
+      "shortName": "Artemis",
+      "code": "SWE",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Sweden",
+      "crest": null,
+      "aliases": [
+        "Artemis SailGP",
+        "Sweden SailGP Team",
+        "Artemis Racing"
+      ]
+    },
+    {
+      "id": "swiss-sailgp",
+      "name": "Explora Journeys Swiss SailGP Team",
+      "shortName": "Swiss SailGP",
+      "code": "SUI",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "Switzerland",
+      "crest": null,
+      "aliases": [
+        "Switzerland SailGP Team",
+        "Swiss SailGP Team",
+        "Explora Journeys Swiss SailGP Team"
+      ]
+    },
+    {
+      "id": "us-sailgp",
+      "name": "United States SailGP Team",
+      "shortName": "US SailGP",
+      "code": "USA",
+      "sportId": "sailing",
+      "leagueId": "sailgp",
+      "country": "United States",
+      "crest": null,
+      "aliases": [
+        "United States SailGP Team",
+        "US SailGP Team",
+        "America's SailGP Team"
+      ]
+    }
+  ],
+  "owners": [
+    {
+      "id": "mubadala-capital",
+      "name": "Mubadala Capital",
+      "type": "state-fund",
+      "country": "United Arab Emirates",
+      "via": "wholly-owned asset management subsidiary of Mubadala Investment Company (per Mubadala Capital/SailGP press release, 21 Jun 2024)",
+      "note": "Led the 2024 acquisition of the Brazil SailGP Team with Brazilian sports and entertainment firm IMM (team operator, founded by Alan Adler); team races as Mubadala Brazil.",
+      "parentId": "mubadala"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "mubadala",
+      "name": "Mubadala",
+      "ownerId": "mubadala",
+      "ownership": "owned",
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Mubadala Investment Company"
+      ],
+      "note": "Sponsor entity is Mubadala Investment Company, the Abu Dhabi sovereign fund. Three-year SailGP global partnership announced 2023 (mubadala.com/en/sailgp); title sponsor of the New York and Abu Dhabi Sail Grand Prix, SailGP Inspire title partner, and title partner of the Mubadala Brazil team; Mubadala-owned Strata Manufacturing (Al Ain) makes F50 hydrofoils and rudders."
+    },
+    {
+      "id": "bonds",
+      "name": "Bonds",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "BONDS"
+      ],
+      "note": "Australian clothing brand; title sponsor of the rebranded BONDS Flying Roos since June 2025 (SailGP press release, 5 Jun 2025). Ownership chain (Hanesbrands, then Gildan, per Wikipedia lead) not verified to a primary source; ownerId left null."
+    },
+    {
+      "id": "monday-com",
+      "name": "Monday.com",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "monday.com"
+      ],
+      "note": "Global Partner of the BONDS Flying Roos (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "blueberry",
+      "name": "Blueberry",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Team Partner of the BONDS Flying Roos (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "enel",
+      "name": "Enel",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "ENEL"
+      ],
+      "note": "Official partner of Mubadala Brazil and title partner of the Enel Rio Sail Grand Prix (sailgp.com team page and 2026 calendar, fetched 2026-09-25)."
+    },
+    {
+      "id": "butterfield",
+      "name": "Butterfield",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Butterfield Bank"
+      ],
+      "note": "Official financial services partner of NorthStar Canada (SailGP press release, 18 Jul 2025)."
+    },
+    {
+      "id": "flyhouse",
+      "name": "FlyHouse",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Race partner of NorthStar Canada (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "juvenescence",
+      "name": "Juvenescence",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Partner of NorthStar Canada (SailGP press release, 2024)."
+    },
+    {
+      "id": "rockwool",
+      "name": "ROCKWOOL",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Rockwool",
+        "ROCKWOOL Racing"
+      ],
+      "note": "Danish insulation multinational (Hedehusene); Title Partner of the Denmark team, which races as ROCKWOOL Racing (sailgp.com team page, fetched 2026-09-25). Ownership stake in the team not published."
+    },
+    {
+      "id": "deutsche-bank",
+      "name": "Deutsche Bank",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Presents the Germany SailGP Team ('presented by Deutsche Bank') and is its Title Partner (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "riedel",
+      "name": "Riedel",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Riedel Communications"
+      ],
+      "note": "Official partner of the Germany team; founder Thomas Riedel is the German team's principal owner (sailgp.com team page and press release 10 Feb 2026)."
+    },
+    {
+      "id": "viessmann",
+      "name": "Viessmann",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Official partner of the Germany SailGP Team (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "ds-automobiles",
+      "name": "DS Automobiles",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "DS"
+      ],
+      "note": "French Stellantis marque; Title Partner of the France team (sailgp.com team page, fetched 2026-09-25). Stellantis ownership per Wikipedia lead, not verified to a primary source."
+    },
+    {
+      "id": "accor",
+      "name": "Accor (ALL - Accor Live Limitless)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "ALL - Accor Live Limitless",
+        "Accor Live Limitless"
+      ],
+      "note": "Official Partner of the SailGP league; France team Global Partner as ALL - Accor Live Limitless (sailgp.com partners overview and France team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "howden",
+      "name": "Howden",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "jp-morgan",
+      "name": "JP Morgan",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "J.P. Morgan",
+        "JPMorgan"
+      ],
+      "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "jumeirah",
+      "name": "Jumeirah",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25). Dubai state link: Jumeirah has been part of Dubai Holding (owned by Sheikh Mohammed bin Rashid Al Maktoum) since 2004, per Wikipedia lead only; ownerId left null pending a primary source."
+    },
+    {
+      "id": "eqt",
+      "name": "EQT",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "itm",
+      "name": "ITM",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "New Zealand building-supplies co-operative; Official Partner of the Black Foils and title partner of the ITM New Zealand Sail Grand Prix since 2022 (SailGP press release, 7 Dec 2022; team page fetched 2026-09-25)."
+    },
+    {
+      "id": "santander",
+      "name": "Santander",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Banco Santander"
+      ],
+      "note": "Official Partner of Los Gallos (Spain) (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "denza",
+      "name": "DENZA",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Denza"
+      ],
+      "note": "Premium electric vehicle brand, official sponsor and electrified mobility partner of Los Gallos for the 2026 and 2027 seasons; originally formed 2010 as a joint venture with Mercedes-Benz (SailGP press release, 9 Feb 2026). BYD ownership chain not verified."
+    },
+    {
+      "id": "sandmark",
+      "name": "Sandmark",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Official Partner of Artemis SailGP Team (Sweden) (sailgp.com team page, fetched 2026-09-25)."
+    },
+    {
+      "id": "explora-journeys",
+      "name": "Explora Journeys",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Explora"
+      ],
+      "note": "Luxury ocean travel brand of MSC (Aponte-Diamant family, per Wikipedia lead); Title Partner of the Switzerland team since April 2026 - team races as Explora Journeys Swiss SailGP Team (SailGP press release, 15 Apr 2026)."
+    },
+    {
+      "id": "rolex",
+      "name": "Rolex",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Presenting Partner of SailGP; the championship carries the Rolex name (sailgp.com/about/partners/overview/, fetched 2026-09-25). Privately held; ownership chain not published."
+    },
+    {
+      "id": "apex-group",
+      "name": "Apex Group",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Apex"
+      ],
+      "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team (sailgp.com partners overview, US team page and 2026 calendar, fetched 2026-09-25)."
+    },
+    {
+      "id": "kpmg",
+      "name": "KPMG",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "note": "Official Partner of SailGP; presenting partner of the Oracle Perth Sail Grand Prix and title partner of the KPMG Sydney Sail Grand Prix (sailgp.com partners overview and 2026 calendar, fetched 2026-09-25)."
+    },
+    {
+      "id": "azimut",
+      "name": "Azimut",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [
+        "Azimut Yachts"
+      ],
+      "note": "Italian luxury yacht builder; Global Partner of Red Bull Italy (sailgp.com team page, fetched 2026-09-25)."
+    }
+  ],
+  "kits": [
+    {
+      "id": "bonds-flying-roos-2026-home",
+      "clubId": "bonds-flying-roos",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bonds",
+          "placement": "front",
+          "source": {
+            "name": "SailGP - Hugh Jackman and Ryan Reynolds announced as co-owners of BONDS Flying Roos Australia SailGP Team",
+            "date": "2025-06-05",
+            "url": "https://www.sailgp.com/news/25/hugh-jackman-ryan-reynolds-announced-co-owners-bonds-flying-roos-australia-sailgp-team/",
+            "note": "Team rebranded BONDS Flying Roos with BONDS as title sponsor; carries the name on the F50 and team identity."
+          }
+        },
+        {
+          "sponsorId": "monday-com",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - BONDS Flying Roos (Global Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/australia/"
+          }
+        },
+        {
+          "sponsorId": "blueberry",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - BONDS Flying Roos (Team Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/australia/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Sailing, not shirts: the team's naming partner Bonds carries the boat livery and identity; mapped to 'front'. Monday.com (Global Partner) and Blueberry (Team Partner) ride the partner block.",
+      "change": null
+    },
+    {
+      "id": "mubadala-brazil-2026-home",
+      "clubId": "mubadala-brazil",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "mubadala",
+          "placement": "front",
+          "source": {
+            "name": "SailGP team page - Mubadala Brazil (Title Partner)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+          }
+        },
+        {
+          "sponsorId": "enel",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Mubadala Brazil (Official Partner)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Abu Dhabi's sovereign fund pays for the name on Brazil's F50: Mubadala Capital owns the team and Mubadala is its Title Partner.",
+      "change": null
+    },
+    {
+      "id": "northstar-canada-2026-home",
+      "clubId": "northstar-canada",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "butterfield",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - NorthStar Canada (Official Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/canada/"
+          }
+        },
+        {
+          "sponsorId": "flyhouse",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - NorthStar Canada (Team Suppliers)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/canada/"
+          }
+        },
+        {
+          "sponsorId": "juvenescence",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - NorthStar Canada (Official Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/canada/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Canada's team has no title sponsor; NorthStar is the team's own brand, with Butterfield, FlyHouse and Juvenescence as partners.",
+      "change": null
+    },
+    {
+      "id": "rockwool-denmark-2026-home",
+      "clubId": "rockwool-denmark",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "rockwool",
+          "placement": "front",
+          "source": {
+            "name": "SailGP team page - ROCKWOOL Denmark (Title Partner)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/rockwool-denmark/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Denmark's F50 races under Danish insulation maker ROCKWOOL's name: the team's Title Partner.",
+      "change": null
+    },
+    {
+      "id": "ds-automobiles-france-2026-home",
+      "clubId": "ds-automobiles-france",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "ds-automobiles",
+          "placement": "front",
+          "source": {
+            "name": "SailGP team page - DS Automobiles France (Title Partner)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/france/"
+          }
+        },
+        {
+          "sponsorId": "accor",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - France (Global Partners: ALL - Accor Live Limitless)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/france/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Stellantis marque DS Automobiles is France's Title Partner; ALL - Accor Live Limitless leads the global-partner block.",
+      "change": null
+    },
+    {
+      "id": "emirates-great-britain-2026-home",
+      "clubId": "emirates-great-britain",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "emirates",
+          "placement": "front",
+          "source": {
+            "name": "Emirates media centre - Emirates signs on as global partner and exclusive airline partner of SailGP",
+            "date": "2024-11-14",
+            "url": "https://www.emirates.com/media-centre/emirates-signs-on-as-global-partner-and-exclusive-airline-partner-of-sailgp/",
+            "note": "Five-season global sponsorship from Nov 2024; Emirates is Title Partner of the Emirates Great Britain SailGP Team and its Portsmouth home event."
+          }
+        },
+        {
+          "sponsorId": "howden",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          }
+        },
+        {
+          "sponsorId": "jp-morgan",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          }
+        },
+        {
+          "sponsorId": "jumeirah",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          }
+        },
+        {
+          "sponsorId": "eqt",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Dubai's state airline owns the name on Britain's boat: Emirates is Title Partner of the defending champions.",
+      "change": null
+    },
+    {
+      "id": "germany-sailgp-2026-home",
+      "clubId": "germany-sailgp",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "deutsche-bank",
+          "placement": "front",
+          "source": {
+            "name": "SailGP team page - Germany presented by Deutsche Bank (Title Partner)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/germany/"
+          }
+        },
+        {
+          "sponsorId": "riedel",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Germany (Official Partner)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/germany/"
+          }
+        },
+        {
+          "sponsorId": "viessmann",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Germany (Official Partner)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/germany/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Deutsche Bank presents Germany's team; Riedel - whose founder owns the team - and Viessmann are official partners.",
+      "change": null
+    },
+    {
+      "id": "red-bull-italy-2026-home",
+      "clubId": "red-bull-italy",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "red-bull",
+          "placement": "front",
+          "source": {
+            "name": "SailGP team page - Red Bull Italy (team name/identity)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/red-bull-italy/"
+          }
+        },
+        {
+          "sponsorId": "azimut",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Red Bull Italy (Global Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/red-bull-italy/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Red Bull is in the team's name itself rather than a bought placement; Azimut is the team's Global Partner. Red Bull also became a SailGP league global partner in January 2026. Azimut has no sponsor entry yet.",
+      "change": null
+    },
+    {
+      "id": "black-foils-nz-2026-home",
+      "clubId": "black-foils-nz",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "itm",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - New Zealand Black Foils (Official Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/new-zealand/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "New Zealand's Black Foils carry no title sponsor; ITM and AGP are official partners and Sky City and Zhik suppliers.",
+      "change": null
+    },
+    {
+      "id": "los-gallos-2026-home",
+      "clubId": "los-gallos",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "santander",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Los Gallos Spain (Official Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/spain/"
+          }
+        },
+        {
+          "sponsorId": "denza",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP - Los Gallos partner with DENZA for 2026 and 2027 SailGP Seasons",
+            "date": "2026-02-09",
+            "url": "https://www.sailgp.com/news/26/los-gallos-partner-denza-2026-2027-sailgp-seasons/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "Spain's Los Gallos have no title partner; Santander and DENZA (2026-2027) are the official partners.",
+      "change": null
+    },
+    {
+      "id": "artemis-sweden-2026-home",
+      "clubId": "artemis-sweden",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "sandmark",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP team page - Artemis (Official Partners)",
+            "date": "2026-09-25",
+            "url": "https://www.sailgp.com/teams/artemis/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "New Swedish team Artemis has no title partner; Sandmark and Artemis Technologies are Official Partners, Pelle P supplies.",
+      "change": null
+    },
+    {
+      "id": "swiss-sailgp-2026-home",
+      "clubId": "swiss-sailgp",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "explora-journeys",
+          "placement": "front",
+          "source": {
+            "name": "SailGP - Switzerland SailGP Team announce Explora Journeys as Title Partner",
+            "date": "2026-04-15",
+            "url": "https://www.sailgp.com/news/26/switzerland-sailgp-team-announce-explora-journeys-title-partner/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "MSC's cruise brand Explora Journeys took the Swiss title partnership in April 2026; the team now races under its name.",
+      "change": null
+    },
+    {
+      "id": "us-sailgp-2026-home",
+      "clubId": "us-sailgp",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026 season",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "tommy-hilfiger",
+          "placement": "partner",
+          "source": {
+            "name": "SailGP - Tommy Hilfiger and United States SailGP Team milestone partnership",
+            "date": "2024-06-21",
+            "url": "https://www.sailgp.com/news/24/tommy-hilfiger-united-states-sailgp-team-mileston-partnership/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "summary": "The US team has no title partner; Tommy Hilfiger (PVH) leads the global-partner block with Marriott Luxury Group and Crypto/OG.",
+      "change": null
+    }
+  ],
+  "deals": [
+    {
+      "id": "sailgp-rolex",
+      "clubId": null,
+      "orgName": "SailGP (Rolex SailGP Championship)",
+      "sponsorId": "rolex",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "SailGP - Partners overview (Presenting Partner: Rolex)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/about/partners/overview/"
+      },
+      "leagueId": "sailgp",
+      "note": "Presenting Partner; the championship is branded the Rolex SailGP Championship. Start year not published on the partners page."
+    },
+    {
+      "id": "sailgp-dp-world",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "dp-world",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": "2027",
+      "value": null,
+      "source": {
+        "name": "SailGP - DP World and SailGP announce global smart logistics partnership",
+        "date": "2024-11-19",
+        "url": "https://www.sailgp.com/news/24/dp-world-sailgp-announce-global-smart-logistics-partnership/"
+      },
+      "leagueId": "sailgp",
+      "note": "Global partner on a three-season partnership from Nov 2024; also presenting partner of the Emirates Dubai Sail Grand Prix. DP World's ultimate owner is the Government of Dubai (per its FY2025 annual report, already recorded in normalized/)."
+    },
+    {
+      "id": "sailgp-emirates",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "emirates",
+      "placement": "league-partner",
+      "from": "2024",
+      "to": "2029",
+      "value": null,
+      "source": {
+        "name": "Emirates media centre - Emirates signs on as global partner and exclusive airline partner of SailGP",
+        "date": "2024-11-14",
+        "url": "https://www.emirates.com/media-centre/emirates-signs-on-as-global-partner-and-exclusive-airline-partner-of-sailgp/"
+      },
+      "leagueId": "sailgp",
+      "note": "Five-season global sponsorship from Nov 2024; exclusive Global Airline Partner, plus Title Partner of the Dubai event and the Emirates GBR team."
+    },
+    {
+      "id": "sailgp-mubadala",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "mubadala",
+      "placement": "league-partner",
+      "from": "2023",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "Mubadala - Mubadala x SailGP (three-year global partnership announced 2023)",
+        "date": "2026-09-25",
+        "url": "https://www.mubadala.com/en/sailgp"
+      },
+      "leagueId": "sailgp",
+      "note": "Global partner since 2023; title sponsor of the New York and Abu Dhabi Sail Grand Prix and SailGP Inspire; Mubadala-owned Strata Manufacturing (Al Ain) makes F50 hydrofoils and rudders. Renewal status beyond the original three years not published."
+    },
+    {
+      "id": "sailgp-oracle",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "oracle",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "SailGP - Partners overview (Global Partners: Oracle)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/about/partners/overview/"
+      },
+      "leagueId": "sailgp",
+      "note": "Global partner; title partner of the Oracle Perth Sail Grand Prix. League founder Larry Ellison is Oracle's largest individual shareholder (lead only)."
+    },
+    {
+      "id": "sailgp-red-bull",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "red-bull",
+      "placement": "league-partner",
+      "from": "2026",
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "SailGP - Red Bull gives SailGP wings for 2026",
+        "date": "2026-01-15",
+        "url": "https://www.sailgp.com/news/26/red-bull-gives-sailgp-wings-for-2026/"
+      },
+      "leagueId": "sailgp",
+      "note": "New global partnership for the 2026 season, announced 15-16 Jan 2026 ahead of Perth, building on Red Bull's ownership/name link to the Italian team. Not yet listed on the partners overview page."
+    },
+    {
+      "id": "sailgp-accor",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "accor",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "SailGP - Partners overview (Official Partners: Accor)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/about/partners/overview/"
+      },
+      "leagueId": "sailgp"
+    },
+    {
+      "id": "sailgp-apex-group",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "apex-group",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "SailGP - Partners overview (Official Partners: Apex)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/about/partners/overview/"
+      },
+      "leagueId": "sailgp",
+      "note": "Also title partner of the Apex Group Bermuda Sail Grand Prix (9-10 May 2026)."
+    },
+    {
+      "id": "sailgp-kpmg",
+      "clubId": null,
+      "orgName": "SailGP",
+      "sponsorId": "kpmg",
+      "placement": "league-partner",
+      "from": null,
+      "to": null,
+      "value": null,
+      "source": {
+        "name": "SailGP - Partners overview (Official Partners: KPMG)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/about/partners/overview/"
+      },
+      "leagueId": "sailgp",
+      "note": "Also presenting partner of the Oracle Perth Sail Grand Prix and title partner of the KPMG Sydney Sail Grand Prix (28 Feb - 1 Mar 2026)."
+    }
+  ],
+  "claims": [],
+  "proposedRatings": [
+    {
+      "sponsorId": "mubadala",
+      "tier": "serious",
+      "ownerId": "mubadala",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "uae-mass-trial-upheld-2025"
+      ],
+      "reasoning": "Mubadala is Abu Dhabi's sovereign wealth fund, sitting under the Government of Abu Dhabi in the UAE. It is simultaneously a SailGP league global partner, owner of the Brazil team (via Mubadala Capital) and title sponsor of two 2026 events, including the season Grand Final in Abu Dhabi. Same UAE state money as Emirates: 43 activists sentenced to life in a 2024 mass trial, upheld by the Federal Supreme Court in March 2025. serious."
+    },
+    {
+      "sponsorId": "dp-world",
+      "tier": "serious",
+      "ownerId": "dp-world-limited",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "uae-repression-context-icc"
+      ],
+      "reasoning": "DP World's chain ends with the Government of Dubai (ultimate owner per the company's FY2025 annual report, already recorded in normalized/). At SailGP it is a global partner and presenting partner of the Dubai event - the same Dubai-government sportswashing pattern as Emirates, which is already rated serious with the UAE mass-trial claim. serious."
+    },
+    {
+      "sponsorId": "rolex",
+      "tier": "none",
+      "ownerId": null,
+      "claimIds": [],
+      "reasoning": "Rolex is a privately held Swiss family foundation (Hans Wilsdorf Foundation); no state in the ownership chain and no published SailGP deal value. none - but ownerId and ownership are null because the foundation chain was not verified to a primary source, so this proposal should only be applied once that is confirmed."
+    }
+  ],
+  "unsourced": [
+    "EVENT-HOST SHAPE - the 2026 SailGP calendar (13 rounds), from the calendar block on https://www.sailgp.com/races/ (fetched 2026-09-25, credited 'ROLEX SAILGP CHAMPIONSHIP - 2026 SEASON CALENDAR'): January 17-18 Oracle Perth Sail Grand Prix presented by KPMG; February 14-15 ITM New Zealand Sail Grand Prix | Auckland; February 28 - March 1 KPMG Sydney Sail Grand Prix; April 11-12 Enel Rio Sail Grand Prix; May 9-10 Apex Group Bermuda Sail Grand Prix; May 30-31 Mubadala New York Sail Grand Prix; June 20-21 Canada Sail Grand Prix | Halifax; July 25-26 Emirates Great Britain Sail Grand Prix | Portsmouth; August 22-23 Germany Sail Grand Prix | Sassnitz; Sep/Oct Spain Sail Grand Prix; September 12-13 ROCKWOOL France Sail Grand Prix | Saint-Tropez; November 21-22 Emirates Dubai Sail Grand Prix, presented by DP World; November 28-29 Mubadala Abu Dhabi Sail Grand Prix 2026 Season Grand Final, presented by Abu Dhabi Sports Council. Cross-checked against https://en.wikipedia.org/wiki/2026_SailGP_championship (opened 2026-09-25).",
+    "EVENT-HOST SHAPE - UAE state presence in the 2026 calendar: Mubadala (Abu Dhabi sovereign fund) titles both the New York round (May 30-31) and the Abu Dhabi Season Grand Final (Nov 28-29, presented by Abu Dhabi Sports Council, a government body); Emirates (Dubai government) titles the Dubai event presented by DP World (Nov 21-22); per https://www.sailgp.com/races/ (fetched 2026-09-25) and https://www.mubadala.com/en/sailgp (opened: title sponsor of both the New York and the Abu Dhabi Sail Grand Prix). No event entity or host/title/presenting placements exist in the schema yet.",
+    "CALENDAR CONFLICT: SailGP's own calendar text lists a 13th European round 'September 12-13 - ROCKWOOL France Sail Grand Prix | Saint-Tropez' and leaves Spain as 'Sep / Oct' (https://www.sailgp.com/races/, fetched 2026-09-25), while Wikipedia's round table (https://en.wikipedia.org/wiki/2026_SailGP_championship, fetched 2026-09-25) has no Saint-Tropez round and dates Spain at Valencia 5-6 September 2026 (won by US SailGP Team, so it appears to have been raced); Wikipedia also dates Bermuda 10-11 May, Portsmouth 26-27 July, Sassnitz 23-24 August and Geneva 19-20 September, one day later than SailGP's own May 9-10 / July 25-26 / August 22-23 listings. Also note SailGP's calendar omits the Geneva round entirely and a 'ROCKWOOL France' title implies a France-round title sponsor not otherwise documented. Needs resolving against sailgp.com/general/2026/calendar before publication.",
+    "TEAM OWNERSHIP (Wikipedia leads, none cited): AUS - Hugh Jackman and Ryan Reynolds joined Tom Slingsby as co-owners in June 2025 (en.wikipedia.org/wiki/Australia_SailGP_Team, opened); CAN - acquired Sep 2024 by Canadian biotech entrepreneur Dr Greg Bailey (en.wikipedia.org/wiki/Canada_SailGP_Team, opened); ITA - consortium board director Assia Grazioli-Venier (Muse Capital), CEO Jimmy Spithill (en.wikipedia.org/wiki/Red_Bull_Italy_SailGP_Team, opened); ESP - sold to Quantum Pacific Group in April 2026 (en.wikipedia.org/wiki/Spain_SailGP_Team, opened; referenced to Boating New Zealand, 10 Apr 2026); SWE - Torbjorn Tornqvist, Gunvor co-founder (en.wikipedia.org/wiki/Artemis_Racing + SailGP article table, opened); SUI - Team Tilt / Firmenich family (SailGP article table, opened); US - Ryan McKillen listed as owner, Mike Buckley CEO (SailGP article table + en.wikipedia.org/wiki/United_States_SailGP_Team, opened); NZ - MSP Sports Capital listed as owner in the SailGP article table (en.wikipedia.org/wiki/SailGP, opened); DEN - 'Doug DeVos / American Magic' listed as owner in the SailGP article table, but the team page (https://www.sailgp.com/teams/rockwool-denmark/, fetched 2026-09-25) shows American Magic only as an Official Partner and ROCKWOOL as Title Partner - the ownership-vs-partnership distinction is unresolved.",
+    "GERMANY OWNERSHIP (sourced, recorded here because owners are kept minimal): the Germany SailGP Team's latest funding round added David Blitzer's family office Bolt and Blue Pool Capital as minority owners, joining team owner Thomas Riedel (founder, Riedel Communications), Sebastian Vettel, Holger Hubner (Wacken Open Air co-founder) and Ralf Reichert (ESL co-founder) - SailGP press release, 10 Feb 2026, https://www.sailgp.com/news/26/global-sports-heavyweights-join-germany-sailgp-team-ownership/ (opened, publishDate 2026-02-10).",
+    "BRAZIL OWNERSHIP (sourced): Mubadala Capital, 'the wholly-owned asset management subsidiary of Mubadala Investment Company', and SailGP announced on 21 Jun 2024 a strategic investment to acquire a newly-formed team representing Brazil; the team partners with Brazilian sports and entertainment firm IMM to operate it, founded by ex-Brazilian Olympic sailor Alan Adler (CEO) - https://www.sailgp.com/news/24/mubadala-capital-and-sailgp-announce-first-ever-south-american-sailgp-team/ (opened, publishDate 2024-06-21); Gulf News, 21 Jun 2024, https://gulfnews.com/business/markets/abu-dhabis-mubadala-capital-sailgp-acquires-sailgp-team-in-brazil-1.1718983842589 (opened: 'Mubadala Capital, a subsidiary of Mubadala Investment Company'). IMM's operating role and Alan Adler's ownership stake are not separately sourced.",
+    "LEAGUE OWNERSHIP (lead only, not cited): SailGP is owned by F50 League LLC, founded in 2018 by Larry Ellison (Oracle co-founder) and Russell Coutts, with initial funding from Ellison; since June 2026, following SailGP's sale of the Black Foils (New Zealand team), all 13 teams have been privately owned - en.wikipedia.org/wiki/SailGP (fetched 2026-09-25). No primary filing opened.",
+    "SUPPLY CHAIN - Mubadala-owned Strata Manufacturing, based in Al Ain, Abu Dhabi, manufactures new hydrofoils and rudders for the F50 fleet, per https://www.mubadala.com/en/sailgp (opened). A supply-chain state link, not a shirt sponsor.",
+    "UNLISTED TEAM PARTNERS not given sponsor entries (smaller or B2B, all from sailgp.com team pages fetched 2026-09-25): Blueberry is entered; not entered - Australia suppliers Sail Racing; Brazil Oakberry, Ballena, Atvos, Mattos Filho, Nas Mares (purpose); Canada Quicksilver, Qinetix, Sports Illustrated, Waterspeed, WeCANFoil (purpose); Denmark American Magic (Official Partner), Sail Racing, 100% (suppliers), One Ocean Foundation (purpose); France Leyton, L'Oreal Groupe, K-Way, Inspired by KM (purpose); GBR Jumeirah and EQT are entered, plus suppliers Ainslie + Ainslie, Champagne Telmont, Musto, SunGod, Spinlock, Suzuki and 1851 Trust (purpose), and 'Proudly Part Of: Athena Sports Group'; Germany Helly Hansen, Flaxta, Wera, AVEA (suppliers), Wir sind Wir (purpose); Italy Azimut (Global Partner) and H-Farm (purpose); NZ Rodd & Gunn, AGP, Sky City, Zhik, Live Ocean (purpose); Spain North Sails, Forward WIP (suppliers), Sailors for the Sea and Instituto Cervantes (purpose); Switzerland Oakley, Slam, POC, Whoop, Velamont (suppliers), Societe Nautique de Geneve and Team Tilt ('representing partners'); US Marriott Luxury Group, Crypto/OG (global), AG1, Amazon, Apex Group, Beatbot, Bermuda Tourism Authority, Ciroc, Leyton (official), Barton & Gray (supplier), Protect Where We Play and Hudson River Community Sailing (purpose); Sweden/Artemis Artemis Technologies, Pelle P, Andrew Simpson Foundation.",
+    "DENZA OWNERSHIP: the SailGP press release (9 Feb 2026) says DENZA was 'originally formed in 2010 as a joint venture with Mercedes-Benz'; the current BYD ownership chain was not verified to a primary source.",
+    "JUMEIRAH: Global Partner of Emirates GBR; part of Dubai Holding, owned by Sheikh Mohammed bin Rashid Al Maktoum, per en.wikipedia.org/wiki/Jumeirah_(hotel_chain) (fetched 2026-09-25) - lead only, needs Dubai Holding primary source before an owner chain is written.",
+    "BONDS OWNERSHIP: Bonds has been a Gildan Activewear brand since the 2021 Hanesbrands divestment per en.wikipedia.org/wiki/Bonds_(clothing) (fetched 2026-09-25) - lead only; verify against Gildan corporate filings before rating.",
+    "ROLEX CHAIN: Rolex SA is held by the Hans Wilsdorf Foundation (private foundation, no state link) - widely reported but not verified to a primary source here; left ownerId null.",
+    "2027 SEASON (provisional): SailGP's confirmed 2027 venues list on https://www.sailgp.com/races/ (fetched 2026-09-25): Perth, Bermuda (May 8-9), New York (June 5-6), Great Britain (July 24-25), Germany (August 21-22), Rio, Dubai. The targets.json note about a Hong Kong season opener did not appear on the fetched page; not recorded as fact.",
+    "BOAT LIVERY DETAIL: exact on-boat logo positions (hull, wing, rudder) per team are not documented in any fetched source; only title/naming partners are team-identity level. Individual placements beyond the naming partner are not asserted."
+  ]
+}

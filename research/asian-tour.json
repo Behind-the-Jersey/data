@@ -1,0 +1,701 @@
+{
+ "target": "asian-tour",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/269",
+ "sports": [
+  {
+   "id": "golf",
+   "label": "Golf",
+   "status": "not-mapped",
+   "aliases": [
+    "asian tour",
+    "international series"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "asian-tour",
+   "aliases": [
+    "asian tour",
+    "the asian tour",
+    "asian pga tour",
+    "international series"
+   ],
+   "sportId": "golf",
+   "name": "Asian Tour",
+   "country": "Asia",
+   "clubCount": 17,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "The 2026 season is the 31st of the modern Asian Tour; the Wikipedia 2026 schedule table (fetched 25 Sep 2026) lists 17 official events including 2 cancelled International Series events (International Series India, International Series China); asiantour.com schedule pages are JavaScript-rendered and returned no table text.",
+    "On 21 July 2026 the Asian Tour left its LIV Golf partnership and joined the PGA Tour / DP World Tour strategic alliance with immediate effect; the DP World Tour returns to co-sanctioning Asian Tour events from 2027 (CBS Sports, 2026-07-21). AFP (via Philstar, 2026-07-22) reports the partnership runs until at least 2029 and that LIV Golf had bankrolled the International Series to the tune of $300m.",
+    "After the split, remaining events lost International Series event status (Wikipedia notes 'Tournament had International Series event status removed following the restructuring of LIV Golf after the Public Investment Fund's announcement of withdrawal of funding', citing Flushing It, 2026-08-15); the three late-season events (Link Hong Kong Open, BingoPlus Philippine Open, PIF Saudi International) carry an 'International Series [status removed]' footnote.",
+    "The International Series pages on internationalseries.com still describe the 2026 season as co-sanctioned by LIV Golf and the Asian Tour with a pathway to LIV Golf (fetched 25 Sep 2026); they may predate the July 2026 split - flagged in unsourced.",
+    "Event-host shape: tournaments are recorded as clubs (sportId golf, leagueId asian-tour) following the dp-world-tour pattern; kits array is empty; tournament sponsors are recorded as clubId-null league-partner deals (org-partner shape)."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "philippine-golf-championship",
+   "name": "Philippine Golf Championship",
+   "shortName": "Philippine Golf",
+   "code": "PGC",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Philippines",
+   "crest": null,
+   "aliases": [
+    "new 2026 tournament"
+   ]
+  },
+  {
+   "id": "new-zealand-open",
+   "name": "New Zealand Open",
+   "shortName": "NZ Open",
+   "code": "NZO",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "New Zealand",
+   "crest": null,
+   "aliases": [
+    "co-sanctioned with the PGA Tour of Australasia"
+   ]
+  },
+  {
+   "id": "international-series-japan",
+   "name": "International Series Japan",
+   "shortName": "IS Japan",
+   "code": "ISJ",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "International Series event"
+   ]
+  },
+  {
+   "id": "singapore-open-golf",
+   "name": "Singapore Open",
+   "shortName": "Singapore Open",
+   "code": "SGO",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Singapore",
+   "crest": null,
+   "aliases": [
+    "International Series event; presented by The Business Times",
+    "historically co-sanctioned with the Japan Golf Tour era events; administered from Sentosa",
+    "singapore golf open"
+   ]
+  },
+  {
+   "id": "gs-caltex-maekyung-open",
+   "name": "GS Caltex Maekyung Open",
+   "shortName": "Maekyung Open",
+   "code": "GCM",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "co-sanctioned with the Korean Tour"
+   ]
+  },
+  {
+   "id": "taiwan-glass-taifong-open",
+   "name": "Taiwan Glass Taifong Open",
+   "shortName": "Taifong Open",
+   "code": "TTO",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Taiwan",
+   "crest": null,
+   "aliases": [
+    "co-sanctioned with the Taiwan PGA Tour"
+   ]
+  },
+  {
+   "id": "kolon-korea-open",
+   "name": "Kolon Korea Open",
+   "shortName": "Korea Open",
+   "code": "KKO",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "co-sanctioned with the Korean Tour"
+   ]
+  },
+  {
+   "id": "am-green-igpl-bharath-classic-morocco",
+   "name": "Am Green IGPL Bharath Classic Morocco",
+   "shortName": "IGPL Morocco",
+   "code": "IGM",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Morocco",
+   "crest": null,
+   "aliases": [
+    "co-sanctioned with the Indian Golf Premier League",
+    "new tournament"
+   ]
+  },
+  {
+   "id": "international-series-morocco",
+   "name": "International Series Morocco",
+   "shortName": "IS Morocco",
+   "code": "ISM",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Morocco",
+   "crest": null,
+   "aliases": [
+    "International Series event"
+   ]
+  },
+  {
+   "id": "yeangder-tournament-players-championship",
+   "name": "Yeangder Tournament Players Championship",
+   "shortName": "Yeangder TPC",
+   "code": "YTP",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Taiwan",
+   "crest": null,
+   "aliases": [
+    "co-sanctioned with the Taiwan PGA Tour"
+   ]
+  },
+  {
+   "id": "mercuries-taiwan-masters",
+   "name": "Mercuries Taiwan Masters",
+   "shortName": "Taiwan Masters",
+   "code": "MTM",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Taiwan",
+   "crest": null,
+   "aliases": [
+    "co-sanctioned with the Taiwan PGA Tour"
+   ]
+  },
+  {
+   "id": "international-series-india",
+   "name": "International Series India",
+   "shortName": "IS India",
+   "code": "ISI",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "India",
+   "crest": null,
+   "aliases": [
+    "CANCELLED (Wikipedia 2026 schedule); was an International Series event"
+   ]
+  },
+  {
+   "id": "sjm-macao-open",
+   "name": "SJM Macao Open",
+   "shortName": "Macao Open",
+   "code": "SMO",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Macau",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "link-hong-kong-open",
+   "name": "Link Hong Kong Open",
+   "shortName": "HK Open",
+   "code": "LHO",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Hong Kong",
+   "crest": null,
+   "aliases": [
+    "International Series status removed after the LIV split (Wikipedia note); IS partners page lists LINK as title sponsor"
+   ]
+  },
+  {
+   "id": "international-series-china",
+   "name": "International Series China",
+   "shortName": "IS China",
+   "code": "ISCN",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "CANCELLED (Wikipedia 2026 schedule); was an International Series event"
+   ]
+  },
+  {
+   "id": "philippine-open",
+   "name": "BingoPlus Philippine Open",
+   "shortName": "Philippine Open",
+   "code": "BPO",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Philippines",
+   "crest": null,
+   "aliases": [
+    "International Series status removed after the LIV split (Wikipedia note); presented by BingoPlus (IS partners page)"
+   ]
+  },
+  {
+   "id": "pif-saudi-international",
+   "name": "PIF Saudi International",
+   "shortName": "Saudi International",
+   "code": "PSI",
+   "sportId": "golf",
+   "leagueId": "asian-tour",
+   "country": "Saudi Arabia",
+   "crest": null,
+   "aliases": [
+    "International Series status removed after the LIV split (Wikipedia note); title sponsor PIF, presented by SoftBank Investment Advisers (IS partners page)",
+    "Nov 18-21, 2026, Riyadh Golf Club, USD 5m purse (internationalseries.com event page)"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "softbank-group",
+   "name": "SoftBank Group Corp.",
+   "type": "listed-company",
+   "country": "Japan",
+   "note": "Tokyo-listed (TSE: 9984). Sole person with significant control over SB Investment Advisers (UK) Limited per the UK Companies House PSC register: 'Ownership of shares - 75% or more; Ownership of voting rights - 75% or more' (Companies House PSC register, company 10498335, fetched 2026-09-25).",
+   "parentId": null
+  },
+  {
+   "id": "sb-investment-advisers-uk",
+   "name": "SB Investment Advisers (UK) Limited",
+   "type": "private-company",
+   "country": "United Kingdom",
+   "note": "Companies House 10498335; incorporated 25 November 2016, formerly SoftBank Vision Advisers Limited; nature of business SIC 66300 fund management activities; registered office 69 Grosvenor Street, London W1K 3JP. PSC: SoftBank Group Corp (Japan), 75%+ shares and voting rights (fetched 2026-09-25).",
+   "parentId": "softbank-group"
+  },
+  {
+   "id": "fila-holdings",
+   "name": "Fila Holdings Corp (Misto Holdings Corp)",
+   "type": "listed-company",
+   "country": "South Korea",
+   "note": "Korea Exchange-listed sport and leisure apparel company, formerly Fila Korea and Fila Holdings, now Misto Holdings (Acushnet FY2025 Form 10-K). Parent of Magnus Holdings Co., Ltd.",
+   "parentId": null
+  },
+  {
+   "id": "magnus-holdings",
+   "name": "Magnus Holdings Co., Ltd.",
+   "type": "listed-company",
+   "country": "South Korea",
+   "note": "Wholly-owned subsidiary of Misto (Fila Holdings). Beneficially owned approximately 50.6% of Acushnet Holdings Corp. common stock as of 31 December 2025, making Acushnet a NYSE 'controlled company' (Acushnet FY2025 Form 10-K).",
+   "parentId": "fila-holdings"
+  },
+  {
+   "id": "acushnet-holdings",
+   "name": "Acushnet Holdings Corp.",
+   "type": "listed-company",
+   "country": "United States",
+   "note": "NYSE-listed (GOLF) maker of Titleist and FootJoy; controlled company per NYSE rules (Acushnet FY2025 Form 10-K, filed 2026-02-27).",
+   "parentId": "magnus-holdings"
+  },
+  {
+   "id": "digiplus-interactive",
+   "name": "DigiPlus Interactive Corporation",
+   "type": "listed-company",
+   "country": "Philippines",
+   "note": "Philippine Stock Exchange-listed (Exchange where listed: Philippine Stock Exchange, digiplus.com.ph investor page, fetched 2026-09-25); operates BingoPlus, ArenaPlus and GameZone.",
+   "parentId": null
+  },
+  {
+   "id": "sph-media",
+   "name": "SPH Media Limited",
+   "type": "private-company",
+   "country": "Singapore",
+   "note": "Publisher of The Business Times (businesstimes.com.sg footer: 'Published by SPH Media Limited, Co. Regn. No. 202120748H', fetched 2026-09-25). Upstream governance (SPH Media Trust, company limited by guarantee) not traced to a primary document in this pass.",
+   "parentId": null
+  },
+  {
+   "id": "link-asset-management",
+   "name": "Link Asset Management Limited",
+   "type": "private-company",
+   "country": "Hong Kong",
+   "note": "Manager of Link Real Estate Investment Trust (linkreit.com about page: 'Link REIT ... Managed by Link Asset Management Limited (Link)', fetched 2026-09-25).",
+   "parentId": null
+  },
+  {
+   "id": "link-reit",
+   "name": "Link Real Estate Investment Trust (Link REIT)",
+   "type": "listed-company",
+   "country": "Hong Kong",
+   "note": "HKEX-listed; 'entirely owned by independent investors since its listing in November 2005 as the first REIT in Hong Kong' (linkreit.com, fetched 2026-09-25). Manager: Link Asset Management Limited; the LINK brand title-sponsors the Link Hong Kong Open.",
+   "parentId": null
+  },
+  {
+   "id": "am-green",
+   "name": "AM Green",
+   "type": "private-company",
+   "country": "India",
+   "note": "Green energy group (amgreen.com, fetched 2026-09-25); name sponsor of the Am Green IGPL Bharath Classic Morocco on the 2026 Asian Tour schedule. Ownership not traced to a primary document in this pass.",
+   "parentId": null
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "softbank-investment-advisers",
+   "name": "SoftBank Investment Advisers",
+   "ownerId": "sb-investment-advisers-uk",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "SoftBank Investment Advisers (UK) Ltd",
+    "SB Investment Advisers",
+    "SoftBank"
+   ],
+   "note": "Presenting partner of the PIF Saudi International powered by SoftBank Investment Advisers (internationalseries.com partners page, fetched 2026-09-25). SB Investment Advisers (UK) Limited is the SoftBank Group entity behind the Vision Fund vehicles; ownership chain: SB Investment Advisers (UK) Ltd -> SoftBank Group Corp (Companies House PSC)."
+  },
+  {
+   "id": "titleist",
+   "name": "Titleist",
+   "ownerId": "acushnet-holdings",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "acushnet",
+    "titleist golf"
+   ],
+   "note": "Official ball and equipment partner of the International Series (internationalseries.com partners page, fetched 2026-09-25). Titleist is Acushnet Holdings' flagship brand (FY2025 Form 10-K); Acushnet is controlled by Magnus Holdings (~50.6%), a wholly-owned subsidiary of Misto Holdings (Fila Holdings, Korea Exchange-listed)."
+  },
+  {
+   "id": "bingoplus",
+   "name": "BingoPlus",
+   "ownerId": "digiplus-interactive",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "bingo plus"
+   ],
+   "note": "Presenting partner of the BingoPlus Philippine Open (Nov 12-15, 2026, Manila Southwoods; internationalseries.com partners and event pages, fetched 2026-09-25). Operated by DigiPlus Interactive Corporation, Philippine Stock Exchange-listed."
+  },
+  {
+   "id": "the-business-times",
+   "name": "The Business Times",
+   "ownerId": "sph-media",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "business times",
+    "bt singapore"
+   ],
+   "note": "Singapore business daily published by SPH Media Limited; presenting partner of the Singapore Open (internationalseries.com partners and event pages, fetched 2026-09-25)."
+  },
+  {
+   "id": "link-reit-brand",
+   "name": "LINK (Link Asset Management / Link REIT)",
+   "ownerId": "link-reit",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "link",
+    "link hong kong open sponsor",
+    "link asset management"
+   ],
+   "note": "Title sponsor of the Link Hong Kong Open (internationalseries.com partners page, fetched 2026-09-25; the page's sponsor block carries the id 'link-reit'). Link Asset Management Limited manages HKEX-listed Link REIT."
+  },
+  {
+   "id": "fenix",
+   "name": "Fenix",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "fenix 2025"
+   ],
+   "note": "Official apparel partner of the International Series, labelled 'Fenix 2025' on the partners page (fetched 2026-09-25). The brand entity behind Fenix and its ownership are unconfirmed - see unsourced."
+  },
+  {
+   "id": "am-green",
+   "name": "AM Green",
+   "ownerId": "am-green",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "amgreen"
+   ],
+   "note": "Name sponsor of the Am Green IGPL Bharath Classic Morocco (7 Jun 2026, Wikipedia 2026 Asian Tour schedule table citing asiantour.com); Indian green-energy group per amgreen.com (fetched 2026-09-25). Ownership not traced to a primary document in this pass."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "asian-tour-liv",
+   "clubId": null,
+   "orgName": "Asian Tour",
+   "sponsorId": "pif",
+   "placement": "league-partner",
+   "from": "2022",
+   "to": "2026",
+   "value": null,
+   "source": {
+    "name": "CBS Sports - Asian Tour joins partnership with PGA Tour, DP World Tour effective immediately",
+    "date": "2026-07-21",
+    "url": "https://www.cbssports.com/golf/news/pga-tour-dp-world-tour-and-asian-tour-partnership-liv-golf/"
+   },
+   "leagueId": "asian-tour",
+   "note": "PIF-funded LIV Golf partnered with the Asian Tour from the league's 2022 launch, creating and funding the International Series; the partnership ended when the Asian Tour joined the PGA Tour / DP World Tour strategic alliance on 21 July 2026 (CBS Sports). AFP via Philstar (2026-07-22) reports LIV had bankrolled the International Series to the tune of $300m, and that PIF announced earlier in 2026 it would stop funding LIV after the 2026 season. Existing claim liv-pif-funding covers the PIF-LIV funding."
+  },
+  {
+   "id": "pif-saudi-international-pif",
+   "clubId": null,
+   "orgName": "PIF Saudi International",
+   "sponsorId": "pif",
+   "placement": "league-partner",
+   "from": "2022",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/partners"
+   },
+   "leagueId": "asian-tour",
+   "note": "PIF is the title sponsor - the event carries its name ('Title sponsor of the PIF Saudi International', internationalseries.com partners page, fetched 2026-09-25). Event: Nov 18-21, 2026, Riyadh Golf Club, USD 5m purse (internationalseries.com event page). Wikipedia's 2026 table notes the event's International Series status was removed after the LIV restructuring. PIF has title-sponsored the event since 2022 per the site's lead (lead only - primary start date not verified)."
+  },
+  {
+   "id": "pif-saudi-international-softbank",
+   "clubId": null,
+   "orgName": "PIF Saudi International powered by SoftBank Investment Advisers",
+   "sponsorId": "softbank-investment-advisers",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - PIF Saudi International 2026 event page",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/schedule/pif-saudi-international-presented-by-softbank-investment-advisers-2026"
+   },
+   "leagueId": "asian-tour",
+   "note": "'Presenting partner of the PIF Saudi International powered by SoftBank Investment Advisers' (internationalseries.com partners page); the event page describes the finale as the 'PIF Saudi International powered by SoftBank Investment Advisers' determining International Series Rankings and LIV Golf spots."
+  },
+  {
+   "id": "international-series-titleist",
+   "clubId": null,
+   "orgName": "The International Series",
+   "sponsorId": "titleist",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/partners"
+   },
+   "leagueId": "asian-tour",
+   "note": "Series Partner: 'Official ball and equipment partner of the International Series' (partners page, fetched 2026-09-25)."
+  },
+  {
+   "id": "international-series-rolex",
+   "clubId": null,
+   "orgName": "The International Series",
+   "sponsorId": "rolex",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/partners"
+   },
+   "leagueId": "asian-tour",
+   "note": "Series Partner: 'Official timekeeper of the International Series' (partners page, fetched 2026-09-25). Rolex SA is held by the Hans Wilsdorf Foundation (existing sponsors.json note)."
+  },
+  {
+   "id": "international-series-fenix",
+   "clubId": null,
+   "orgName": "The International Series",
+   "sponsorId": "fenix",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/partners"
+   },
+   "leagueId": "asian-tour",
+   "note": "Series Partner: 'Official apparel partner of the International Series', displayed as 'Fenix 2025' (partners page, fetched 2026-09-25)."
+  },
+  {
+   "id": "philippine-open-bingoplus",
+   "clubId": null,
+   "orgName": "BingoPlus Philippine Open",
+   "sponsorId": "bingoplus",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/partners"
+   },
+   "leagueId": "asian-tour",
+   "note": "'BingoPlus is the presenting partner of the Philippine Open' (partners page); the Nov 12-15, 2026 event at Manila Southwoods carries the BingoPlus name (internationalseries.com event page, fetched 2026-09-25). NGAP (National Golf Association of the Philippines) is also listed as a partner of the event."
+  },
+  {
+   "id": "singapore-open-business-times",
+   "clubId": null,
+   "orgName": "Singapore Open presented by The Business Times",
+   "sponsorId": "the-business-times",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/partners"
+   },
+   "leagueId": "asian-tour",
+   "note": "'The Business Times - Presenting partner of the Singapore Open' (partners page); the event page (Apr 23-26, 2026, Sentosa Golf Club) brands it 'The Singapore Open presented by The Business Times'."
+  },
+  {
+   "id": "link-hong-kong-open-link",
+   "clubId": null,
+   "orgName": "Link Hong Kong Open",
+   "sponsorId": "link-reit-brand",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "The International Series - Partners",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/partners"
+   },
+   "leagueId": "asian-tour",
+   "note": "'LINK - Title sponsor of the LINK Hong Kong Open' (partners page, sponsor block id 'link-reit'); the event runs Oct 22-25, 2026 at Hong Kong Golf Club (event page)."
+  },
+  {
+   "id": "international-series-igpl",
+   "clubId": null,
+   "orgName": "The International Series",
+   "sponsorId": "am-green",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Wikipedia - 2026 Asian Tour schedule table (citing asiantour.com)",
+    "date": "2026-09-25",
+    "url": "https://en.wikipedia.org/wiki/2026_Asian_Tour"
+   },
+   "leagueId": "asian-tour",
+   "note": "AM Green is the name sponsor of the Am Green IGPL Bharath Classic Morocco (7 Jun 2026) per the 2026 schedule table; event name only - no separate sponsor announcement found. IGPL (Indian Golf Premier League) is the co-sanctioning tour, not a commercial sponsor row."
+  }
+ ],
+ "claims": [
+  {
+   "id": "asian-tour-liv-split-2026",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "The Asian Tour had been in partnership with LIV Golf since the league's 2022 launch, with the PIF-funded International Series as a key part of LIV's promotion and relegation; on 21 July 2026 the PGA Tour and DP World Tour announced the partnership would extend to the Asian Tour with immediate effect, ending the LIV arrangement, with DP World Tour returning to co-sanction Asian Tour events from 2027.",
+   "short": "Asian Tour ended its LIV Golf partnership and joined the PGA/DP World Tour alliance on 21 July 2026.",
+   "source": {
+    "name": "CBS Sports",
+    "date": "2026-07-21",
+    "url": "https://www.cbssports.com/golf/news/pga-tour-dp-world-tour-and-asian-tour-partnership-liv-golf/"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "asian-tour-international-series-300m",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+   ],
+   "text": "LIV Golf has been bankrolling the Asian Tour's International Series to the tune of $300 million, leaving the future of the elevated events - each offering $2 million in prize money and a pathway to LIV - in doubt after the Asian Tour's partnership with the PGA and DP World Tours; the Asian Tour said its priority was to maintain the International Series events planned for later in 2026 'in some form'.",
+   "short": "LIV put about $300m into the International Series; its future was left in doubt by the split.",
+   "source": {
+    "name": "Agence France-Presse via Philstar.com",
+    "date": "2026-07-22",
+    "url": "https://www.philstar.com/sports/2026/07/22/2543884/asian-tour-partners-pga-europe-blow-liv-golf"
+   },
+   "reviewed": false
+  },
+  {
+   "id": "asian-tour-saudi-softbank-event",
+   "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia",
+    "sb-investment-advisers-uk",
+    "softbank-group"
+   ],
+   "text": "The PIF Saudi International (Nov 18-21, 2026, Riyadh Golf Club, USD 5m purse) is title-sponsored by PIF and presented/powered by SoftBank Investment Advisers; the International Series site still describes it as the Series finale whose rankings determine LIV Golf promotion spots, wording that may predate the July 2026 LIV-Asian Tour split.",
+   "short": "PIF titles and SoftBank Investment Advisers presents the Saudi International, the $5m season finale.",
+   "source": {
+    "name": "The International Series - PIF Saudi International event page and Partners page",
+    "date": "2026-09-25",
+    "url": "https://www.internationalseries.com/en/schedule/pif-saudi-international-presented-by-softbank-investment-advisers-2026",
+    "note": "Partners page: https://www.internationalseries.com/en/partners (fetched 2026-09-25)."
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "pif",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2026-record",
+    "asian-tour-liv-split-2026",
+    "asian-tour-international-series-300m"
+   ],
+   "reasoning": "PIF is the Saudi sovereign wealth fund chaired by the Crown Prince; it funded LIV Golf's takeover of the Asian Tour's International Series (about $300m per AFP) and titles the tour's flagship Saudi International. Saudi state money on the tour: the HRW-recorded execution surge (322+ by Dec 2025) supports serious, consistent with the existing serious rating logic for PIF elsewhere on the site; severe is reserved for live armed conflict."
+  }
+ ],
+ "unsourced": [
+  "Event-host facts for the 2026 Asian Tour schedule (shape event-host needs an event entity and host/title-sponsor placements not in the schema). All from the Wikipedia 2026 Asian Tour schedule table (https://en.wikipedia.org/wiki/2026_Asian_Tour, fetched 25 Sep 2026, citing asiantour.com), purses in local currency where shown: Philippine Golf Championship (Philippines, 8 Feb, USD 500,000, new tournament, winner Cho Woo-young); New Zealand Open (New Zealand, 1 Mar, NZD 2m, co-sanctioned ANZ PGA Tour of Australasia, winner Daniel Hillier); International Series Japan (5 Apr, USD 2m, winner Travis Smyth); Singapore Open (26 Apr, USD 2m, winner Ham Jeong-woo); GS Caltex Maekyung Open (South Korea, 3 May, KRW 1.3bn, co-sanctioned Korean Tour, winner Song Min-hyuk); Taiwan Glass Taifong Open (Taiwan, 10 May, winner Ian Snyman); Kolon Korea Open (24 May, KRW 1.4bn, winner Yang Ji-ho); Am Green IGPL Bharath Classic Morocco (7 Jun, USD 500,000, co-sanctioned IGPL, winner Charlie Lindh); International Series Morocco (14 Jun, USD 2m, winner Kho Taichi); Yeangder Tournament Players Championship (Taiwan, 20 Sep, USD 1.2m, winner Pavit Tangkamolprasert); Mercuries Taiwan Masters (27 Sep, USD 1.2m); SJM Macao Open (18 Oct, USD 1m); International Series India (11 Oct) and International Series China (8 Nov) both cancelled; BingoPlus Philippine Open (15 Nov, USD 2m); PIF Saudi International (21 Nov, USD 5m).",
+  "Title sponsors embedded in event names but not separately verified against a sponsor announcement: GS Caltex (Korean refining JV of GS Group and Caltex), Taiwan Glass (Taiwan Glass Industry Corp), Kolon (Kolon Group), Yeangder (Taiwanese property group), Mercuries (Taiwanese Mercuries Group), SJM (Macau gaming operator SJM Resorts/HK-listed SJM Holdings), New Zealand Open co-sanctioning partner ANZ. Each needs a primary source before a sponsor row.",
+  "Titleist is Series Partner 'official ball and equipment partner' and Rolex 'official timekeeper' only per the International Series partners page (fetched 2026-09-25); no term dates or deal values are published there, so deal from/to/value are null.",
+  "Fenix: displayed as 'Fenix 2025' in the International Series partners block; the legal entity behind Fenix and its ownership could not be confirmed (fenix.app was unreachable from this environment) - sponsor filed with ownerId null.",
+  "The Business Times ownership chain beyond SPH Media Limited (Co. Regn. 202120748H, per the businesstimes.com.sg footer): SPH Media Trust governance and shareholders not traced to a primary document (sphmedia.com.sg was unreachable from this environment).",
+  "AM Green (name sponsor of the Am Green IGPL Bharath Classic Morocco): ownership not traced to a primary document in this pass.",
+  "The 2026 event count: the Wikipedia table lists 17 events (15 scheduled + 2 cancelled International Series events); one earlier fetch summary reported 15-16, so the reviewer should re-check against asiantour.com once its schedule renders (asiantour.com is JavaScript-rendered and returned no table text on 25 Sep 2026).",
+  "International Series pages (internationalseries.com, fetched 25 Sep 2026) still describe the 2026 season as 'co-sanctioned by LIV Golf and the Asian Tour' with a LIV pathway and label the PIF Saudi International the Series finale; Wikipedia notes International Series status was removed from remaining events after the PIF/LIV withdrawal, so the site text may predate the July 2026 split - confirm the final sanction of the Nov events.",
+  "The Link Hong Kong Open title-sponsor identity: the International Series partners page lists LINK with sponsor-block id 'link-reit', i.e. Link Asset Management/Link REIT; Link REIT's own site was searched but no press release naming the golf tournament was found on linkreit.com - the title-sponsorship claim rests on the IS partners page.",
+  "Philstar/AFP reports the new PGA/DP World/Asian Tour partnership runs 'until at least 2029'; the CBS article gives no end date; the joint statement itself was not directly accessible from this environment (apnews.com returned 403).",
+  "NGAP (National Golf Association of the Philippines) is listed on the International Series partners page as 'Partner of the BingoPlus Philippine Open'; it is a governing body, not a commercial sponsor, so no sponsor row was created."
+ ]
+}

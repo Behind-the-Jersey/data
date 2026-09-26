@@ -1,0 +1,546 @@
+{
+ "target": "fiba",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/260",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "fiba",
+   "aliases": [
+    "fiba basketball world cup",
+    "basketball world cup",
+    "fiba world cup",
+    "international basketball federation"
+   ],
+   "sportId": "basketball",
+   "name": "FIBA Basketball World Cup 2027 (and other FIBA events)",
+   "country": "Global; 2027 World Cup hosted by Qatar",
+   "clubCount": 32,
+   "season": "2025-27",
+   "status": "not-started",
+   "notes": [
+    "World Cup runs 27 Aug - 12 Sep 2027 in Qatar, the first edition hosted in the Arab world (FIBA event page and FIBA event news, fetched 25 Sep 2026). Qualifiers run Nov 2025 - Mar 2027 across four regions.",
+    "Only two of the 32 World Cup teams are confirmed as of 25 Sep 2026: Qatar (qualified automatically as host) and Tuerkiye (first to qualify, FIBA news 'Turkiye qualify for World Cup', published 2026-08-31). The field is not set until qualifiers end in early 2027; the team list must be extended then.",
+    "Sponsorship story is event-level: national teams do not carry jersey sponsors, so the record is FIBA's own partner roster (10 FIBA Partners, 4 Global Suppliers) as league-partner deals, plus the Qatari state as event host (recorded in unsourced: event-host shape).",
+    "FIBA's partners page and the World Cup 2027 event page list slightly different rosters: Jetour is a Global Supplier on the partners page but appears in the FIBA Partners footer of the event page; the event news calls Jetour FIBA's 'Official Car Supplier'.",
+    "Venues per FIBA event news: Lusail Arena (final), Duhail Arena, Ali Bin Hamad Al Attiyah Arena and Al Janoub Arena (a 2022 FIFA World Cup stadium converted for basketball).",
+    "Host award: FIBA announced Qatar as 2027 host at its Central Board meeting in Metro Manila on 28 Apr 2023, by unanimous vote (Wikipedia lead; FIBA primary release not located)."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "qatar-basketball",
+   "name": "Qatar men's national basketball team",
+   "shortName": "Qatar",
+   "code": "QAT",
+   "sportId": "basketball",
+   "leagueId": "fiba",
+   "country": "Qatar",
+   "crest": null,
+   "aliases": [
+    "qatar national basketball team",
+    "qatar 2027 host team"
+   ]
+  },
+  {
+   "id": "turkiye-basketball",
+   "name": "Turkiye men's national basketball team",
+   "shortName": "Turkiye",
+   "code": "TUR",
+   "sportId": "basketball",
+   "leagueId": "fiba",
+   "country": "Turkiye",
+   "crest": null,
+   "aliases": [
+    "turkey national basketball team",
+    "turkiye national basketball team"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "chery-automobile",
+   "name": "Chery Automobile Co., Ltd.",
+   "type": "listed-company",
+   "country": "China",
+   "parentId": null,
+   "note": "Listed in Hong Kong (SEHK 9973) after its 25 Sep 2025 IPO. Per its HKEX prospectus (dated 17 Sep 2025): Wuhu Investment Holding is the single largest shareholder, 21.17% before the offering and 20.08% at listing; it is owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance. Anhui Credit Guaranty (wholly owned by the People's Government of Anhui Province) holds 9.97% before / 9.46% at listing; Anhui Investment Holding (wholly owned by Anhui SASAC) holds 5.20% before / 4.93% at listing - state entities about 34.7% combined pre-IPO, about 34.5% after the partial over-allotment exercise (5,808,604,533 shares total). The prospectus states the company has 22 shareholders with a dispersed structure and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC state-asset measures. Jetour is one of Chery's marques."
+  },
+  {
+   "id": "yili-group",
+   "name": "Inner Mongolia Yili Industrial Group Co., Ltd.",
+   "type": "listed-company",
+   "country": "China",
+   "parentId": null,
+   "note": "Listed in Shanghai (SSE 600887). Per its 2025 annual report (published 30 Apr 2026): Hohhot Investment Co., Ltd. (呼和浩特投资有限责任公司) is the largest shareholder with 538,535,826 shares, 8.51%, shareholder type 'state legal person' (国有法人); the company states it has no controlling shareholder and no actual controller. A minority municipal stake, a much weaker state link than the Gulf cases."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "1xbet",
+   "name": "1xBet",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "FIBA Partner (about.fiba.basketball/en/partners, fetched 25 Sep 2026). Offshore betting operator; ownership structure not checked in this pass. FIBA's own site geo-restricts the 1xBet logo for some countries."
+  },
+  {
+   "id": "ganten",
+   "name": "Ganten",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Baisuishan"
+   ],
+   "note": "Chinese bottled-water brand (Baisuishan); FIBA Partner. Ownership not checked in this pass."
+  },
+  {
+   "id": "intersport",
+   "name": "Intersport",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "International sporting-goods retail group; FIBA Partner. Ownership not checked in this pass."
+  },
+  {
+   "id": "molten",
+   "name": "Molten",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Molten Corporation"
+   ],
+   "note": "Japanese sports-equipment maker founded 1958 in Hiroshima; supplies the official FIBA game ball, including an exclusive design for the World Cup 2027 qualifiers (Molten press release, 2025-10-09)."
+  },
+  {
+   "id": "smart",
+   "name": "Smart",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Smart Communications"
+   ],
+   "note": "Philippine wireless brand; FIBA Partner and backer of the event's 'Smart Fantasy League'. Wholly owned by PLDT Inc. per Wikipedia (lead only; confirm from a PLDT filing). smart.com.ph/corporate/about-us returned empty content to the fetcher."
+  },
+  {
+   "id": "yili",
+   "name": "Yili",
+   "ownerId": "yili-group",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Yili Group",
+    "Inner Mongolia Yili Industrial Group"
+   ],
+   "note": "Chinese dairy company; FIBA Partner and global partner of the FIBA World Cup since 2023 (Yili's own announcement, 2023-04-26). Weak state link confirmed from the 2025 annual report: largest shareholder Hohhot Investment Co., Ltd. at 8.51% (state legal person); no controlling shareholder, no actual controller."
+  },
+  {
+   "id": "junckers",
+   "name": "Junckers",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Danish wooden-flooring maker; FIBA Global Supplier. Ownership not checked in this pass."
+  },
+  {
+   "id": "kuehne-nagel",
+   "name": "Kuehne + Nagel",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Kuehne+Nagel"
+   ],
+   "note": "Swiss logistics group; FIBA Global Supplier. Ownership not checked in this pass."
+  },
+  {
+   "id": "schelde",
+   "name": "Schelde",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "Schelde Sports"
+   ],
+   "note": "Dutch sports-equipment maker (backstops and courts); FIBA Global Supplier. Ownership not checked in this pass."
+  },
+  {
+   "id": "jetour",
+   "name": "Jetour",
+   "ownerId": "chery-automobile",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [
+    "chery-state-shareholders"
+   ],
+   "aliases": [
+    "JETOUR"
+   ],
+   "note": "FIBA Partner or Global Supplier (the two FIBA pages disagree; see unsourced). Jetour is a brand of Chery Automobile Co., Ltd. (one of its marques per the HKEX prospectus), so it inherits Chery's minority local-government state holdings (about 34.5% combined post-IPO)."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "fiba-1xbet",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "1xbet",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page (1xBet listed as FIBA Partner)",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba",
+   "note": "Listed as a FIBA Partner on the partners page and in the World Cup 2027 event page footer."
+  },
+  {
+   "id": "fiba-ganten",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "ganten",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba"
+  },
+  {
+   "id": "fiba-intersport",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "intersport",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba"
+  },
+  {
+   "id": "fiba-molten",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "molten",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Molten press release - official game ball designed exclusively for the FIBA Basketball World Cup 2027 Qualifiers",
+    "date": "2025-10-09",
+    "url": "https://shop.moltensports.jp/blogs/molten-en/20251009_02"
+   },
+   "leagueId": "fiba",
+   "note": "Molten supplies the official FIBA match ball (BG5000 base) for the World Cup 2027 qualifiers, Nov 2025 - Mar 2027; also a FIBA Partner on the partners page."
+  },
+  {
+   "id": "fiba-nike",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "nike",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba",
+   "note": "FIBA Partner; the FIBA World Ranking for Men is 'presented by Nike' per FIBA's Turkiye qualification article (31 Aug 2026)."
+  },
+  {
+   "id": "fiba-smart",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "smart",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba",
+   "note": "FIBA Partner; the World Cup 2027 event page promotes the 'Smart Fantasy League' game."
+  },
+  {
+   "id": "fiba-tcl",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "tcl",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba",
+   "note": "FIBA Partner. TCL's own newsroom shows no FIBA announcement on the pages fetched; partner start date not found."
+  },
+  {
+   "id": "fiba-tissot",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "tissot",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba",
+   "note": "FIBA Partner; FIBA news name a 'TISSOT MVP' award at the Women's World Cup 2026."
+  },
+  {
+   "id": "fiba-xtb",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "xtb",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba",
+   "note": "FIBA Partner; first FIBA deal recorded for this sponsor (already in sponsors.json from Olympique Lyonnais)."
+  },
+  {
+   "id": "fiba-yili",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "yili",
+   "placement": "league-partner",
+   "from": "2023",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Yili - announcement: global partner of the 2023 FIBA Basketball World Cup (signed 26 Apr 2023)",
+    "date": "2023-04-26",
+    "url": "https://www.yili.com/news/brand/2036"
+   },
+   "leagueId": "fiba",
+   "note": "Yili became a FIBA Basketball World Cup global partner on 26 Apr 2023 (Yili's own site); still listed as a FIBA Partner on 25 Sep 2026 and named on the World Cup 2027 event page."
+  },
+  {
+   "id": "fiba-jetour",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "jetour",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page (Jetour listed as Global Supplier)",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba",
+   "note": "Jetour (Chery marque) is a FIBA Global Supplier; the World Cup 2027 event page news describes Jetour as FIBA's 'Official Car Supplier' while the event page footer lists Jetour among FIBA Partners - tier wording conflicts between FIBA's own pages."
+  },
+  {
+   "id": "fiba-junckers",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "junckers",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page (Global Supplier)",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba"
+  },
+  {
+   "id": "fiba-kuehne-nagel",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "kuehne-nagel",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page (Global Supplier)",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba"
+  },
+  {
+   "id": "fiba-schelde",
+   "clubId": null,
+   "orgName": "FIBA",
+   "sponsorId": "schelde",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "FIBA - official partners page (Global Supplier)",
+    "date": "2026-09-25",
+    "url": "https://about.fiba.basketball/en/partners"
+   },
+   "leagueId": "fiba"
+  }
+ ],
+ "claims": [
+  {
+   "id": "chery-state-shareholders",
+   "ownerIds": [
+    "chery-automobile"
+   ],
+   "text": "Chery Automobile's HKEX prospectus (17 Sep 2025) shows state entities held about 34.7% of the company before its September 2025 IPO and about 34.5% after the partial over-allotment exercise: Wuhu Investment Holding 20.08% at listing (single largest shareholder; itself owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance), Anhui Credit Guaranty 9.46% (wholly owned by the People's Government of Anhui Province) and Anhui Investment Holding 4.93% (wholly owned by Anhui SASAC). The prospectus states the company has 22 shareholders with a dispersed structure and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC state-asset supervision measures.",
+   "source": {
+    "name": "Chery Automobile Co., Ltd. - HKEX Global Offering prospectus",
+    "date": "2025-09-17",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700013.pdf",
+    "note": "History, Development and Corporate Structure section (shareholding tables) and 'Our Single Largest Shareholder'."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "yili-largest-shareholder",
+   "ownerIds": [
+    "yili-group"
+   ],
+   "text": "Yili Industrial Group's 2025 annual report (30 Apr 2026) names Hohhot Investment Co., Ltd. as its largest shareholder with 538,535,826 shares, 8.51%, shareholder type 'state legal person' (国有法人), and states the company has no controlling shareholder and no actual controller.",
+   "source": {
+    "name": "Inner Mongolia Yili Industrial Group - 2025 Annual Report (cninfo)",
+    "date": "2026-04-30",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225259562.PDF",
+    "note": "Section 'Shareholders and actual controller', top-ten shareholders table and no-controlling-shareholder statement."
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "jetour",
+   "tier": "none",
+   "ownerId": "chery-automobile",
+   "claimIds": [
+    "chery-state-shareholders"
+   ],
+   "reasoning": "Jetour is a Chery marque (HKEX prospectus). Confirmed from the prospectus: state entities hold about 34.5% combined post-IPO (Wuhu municipal via Wuhu Investment Holding 20.08%, Anhui provincial via Anhui Credit Guaranty 9.46% and Anhui Investment Holding 4.93%), but the prospectus itself states Chery is not a state-owned, state-controlled or state-actually-controlled enterprise and has 22 dispersed shareholders. A minority local-government stake, far weaker than the Gulf sovereign cases. Propose none."
+  },
+  {
+   "sponsorId": "yili",
+   "tier": "none",
+   "ownerId": "yili-group",
+   "claimIds": [
+    "yili-largest-shareholder"
+   ],
+   "reasoning": "Confirmed from the 2025 annual report: only an 8.51% largest-shareholder stake held by Hohhot Investment Co., Ltd. (state legal person), with no controlling shareholder and no actual controller. Weak state link; propose none."
+  },
+  {
+   "sponsorId": "molten",
+   "tier": "none",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "Private Hiroshima ball manufacturer founded 1958; no state ownership identified. Game-ball supplier, not a state-linked backer."
+  },
+  {
+   "sponsorId": "tissot",
+   "tier": "none",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "Swiss watchmaker in the privately held Swatch Group; no state ownership identified. Same conclusion the UCI pass reached (still unrated there - a person should rate both at once)."
+  },
+  {
+   "sponsorId": "xtb",
+   "tier": "none",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "Polish retail broker; no state ownership identified in this pass (ownership not verified against a filing, hence no owner record)."
+  },
+  {
+   "sponsorId": "smart",
+   "tier": "none",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "Philippine wireless brand wholly owned by PLDT (listed; Wikipedia lead, not confirmed against a PLDT filing). No state link identified."
+  }
+ ],
+ "unsourced": [
+  "EVENT-HOST: Qatar hosts the FIBA Basketball World Cup 2027, 27 Aug - 12 Sep 2027, the first edition hosted in the Arab world. Sources (both fetched 25 Sep 2026): https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027 and https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027/news/built-for-the-grand-stage-qatars-sporting-journey-to-the-fiba-basketball-world-cup-2027. The award date (28 Apr 2023, FIBA Central Board meeting in Metro Manila, unanimous vote) is per Wikipedia (https://en.wikipedia.org/wiki/2027_FIBA_Basketball_World_Cup) - a lead; find the FIBA primary announcement before rating the host relationship.",
+  "EVENT-HOST venues: Lusail Arena (stages the final), Duhail Arena, Ali Bin Hamad Al Attiyah Arena and Al Janoub Arena (originally 2022 FIFA World Cup infrastructure, to be converted into a basketball arena). Source: FIBA event news 'Built for the grand stage: Qatar's sporting journey to the FIBA Basketball World Cup 2027' (fetched 25 Sep 2026, publication date not shown in page or HTML).",
+  "EVENT-HOST money and organisation: no local organising committee is named on any FIBA page checked, and hosting-fee or state-spending details are not public. The FIBA article cites Qatar National Vision 2030 and the Qatar Olympic Committee (83 championships in the QOC 2026 calendar, 39 international) as context for the state's hosting strategy.",
+  "Jetour tier conflict between FIBA's own pages: 'Global Supplier' on https://about.fiba.basketball/en/partners, but listed in the FIBA Partners footer of https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027, whose news also calls Jetour FIBA's 'Official Car Supplier'. Recorded as league-partner pending a Jetour/FIBA press release that settles the tier.",
+  "TCL ownership not researched in this pass (TCL Technology/Huizhou state links unverified); TCL is a FIBA Partner on both FIBA pages and no TCL-FIBA press release was found on tcl.com or fiba.basketball.",
+  "Smart (FIBA Partner) is wholly owned by PLDT Inc. per Wikipedia (https://en.wikipedia.org/wiki/Smart_Communications, lead); confirm from a PLDT annual report. smart.com.ph/corporate/about-us returned an empty page to the fetcher.",
+  "1xBet ownership structure not checked; it is an offshore betting operator and FIBA's own pages geo-restrict its logo for some countries (title attributes 'fiba-restricted-country' in the page HTML).",
+  "Saudi Arabia context (event over, kept for the Gulf-hosting pattern): Saudi Arabia hosted the FIBA Asia Cup 2025 in Jeddah, 5-17 Aug 2025, having been chosen as host on 7 Dec 2023 - per Wikipedia (https://en.wikipedia.org/wiki/2025_FIBA_Asia_Cup, lead); find the FIBA primary release before using.",
+  "Russia and Belarus: neither appears anywhere on the World Cup 2027 European Qualifiers page (no games, standings or statement, checked 25 Sep 2026); FIBA's formal position on their participation was not found.",
+  "FIBA partner contract start and end dates are not published on the partners page; only Yili (signed 26 Apr 2023, per Yili's own announcement) and Molten (official ball for the 2027 qualifiers, press release 9 Oct 2025) have dated primary sources.",
+  "Molten's longer history as FIBA's official game ball supplier (Wikipedia says its basketballs are used in all FIBA worldwide competitions) is a lead only; the dated primary source covers the 2027 qualifiers ball.",
+  "FIBA and NBA Europe are co-developing the planned 2027 NBA Europe league (dataNotes; handled under the EuroLeague entry, not here).",
+  "The remaining 30 World Cup 2027 teams will be known only when qualifiers end in early 2027; the clubs list here (2 teams) must be completed from the official qualifier pages then."
+ ]
+}

@@ -1,0 +1,1133 @@
+{
+ "target": "afc",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/251",
+ "sports": [],
+ "leagues": [
+  {
+   "id": "afc",
+   "aliases": [
+    "afc champions league elite",
+    "acl elite",
+    "afc asian cup",
+    "asian cup 2027",
+    "afc champions league two",
+    "afc women's champions league"
+   ],
+   "sportId": "events",
+   "name": "AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)",
+   "clubCount": 32,
+   "season": "2026-27",
+   "status": "partial",
+   "notes": [
+    "32 clubs in the 2026/27 ACL Elite league stage (16 West, 16 East), the first 32-team edition, from the Wikipedia 2026-27 season article (the-afc.com hubs do not list the field). League stage 14 Sep 2026 to Feb 2027; final on 1 May 2027.",
+    "The centralised finals stage is hosted in Saudi Arabia (Jeddah 2025 and 2026); the 2026 finals used King Abdullah Sports City and Prince Abdullah Al Faisal Sports City (AFC, 2025-12-23). Saudi hosting provisionally runs through 2029 (Wikipedia lead).",
+    "AFC Asian Cup Saudi Arabia 2027 runs 7 Jan to 5 Feb 2027 in eight stadiums across Riyadh, Jeddah and Al Khobar (SAFF, 2025-01-07); the Al Khobar venue is named Aramco Stadium - the AFC's first venue-naming deal (AFC, 2026-05-06).",
+    "Top-tier Official Global Partners of the AFC: Qatar Airways, NEOM, Visit Saudi and Credit Saison. Official Global Supporters include Visa, Aramco, Midea, Kelme, TECNO, Barbican and ALBAIK (AFC announcements; Sportcal tier summary 2026-05-06).",
+    "Five of the 16 West-region clubs are Saudi Pro League sides already covered by the saudi-pro-league target (Al-Ahli, Al-Nassr, Al-Hilal, Al-Qadsiah, Al-Ittihad); Al-Ahli are two-time defending champions."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "al-ain",
+   "name": "Al Ain FC",
+   "shortName": "Al Ain",
+   "code": "AIN",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "United Arab Emirates",
+   "crest": null,
+   "aliases": [
+    "al ain fc"
+   ]
+  },
+  {
+   "id": "shabab-al-ahli",
+   "name": "Shabab Al Ahli Club",
+   "shortName": "Shabab Al Ahli",
+   "code": "SHA",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "United Arab Emirates",
+   "crest": null,
+   "aliases": [
+    "shabab al ahli dubai"
+   ]
+  },
+  {
+   "id": "al-wasl",
+   "name": "Al Wasl FC",
+   "shortName": "Al Wasl",
+   "code": "WAS",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "United Arab Emirates",
+   "crest": null,
+   "aliases": [
+    "al wasl fc"
+   ]
+  },
+  {
+   "id": "al-sadd",
+   "name": "Al Sadd SC",
+   "shortName": "Al Sadd",
+   "code": "SAD",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Qatar",
+   "crest": null,
+   "aliases": [
+    "al sadd sports club",
+    "al sadd doha"
+   ]
+  },
+  {
+   "id": "al-gharafa",
+   "name": "Al-Gharafa SC",
+   "shortName": "Al-Gharafa",
+   "code": "GHA",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Qatar",
+   "crest": null,
+   "aliases": [
+    "al gharafa sports club"
+   ]
+  },
+  {
+   "id": "al-shamal",
+   "name": "Al-Shamal SC",
+   "shortName": "Al-Shamal",
+   "code": "SHM",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Qatar",
+   "crest": null,
+   "aliases": [
+    "al shamal sports club"
+   ]
+  },
+  {
+   "id": "esteghlal",
+   "name": "Esteghlal FC",
+   "shortName": "Esteghlal",
+   "code": "EST",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Iran",
+   "crest": null,
+   "aliases": [
+    "esteghlal tehran",
+    "esteghlal meli"
+   ]
+  },
+  {
+   "id": "tractor",
+   "name": "Tractor SC",
+   "shortName": "Tractor",
+   "code": "TRA",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Iran",
+   "crest": null,
+   "aliases": [
+    "tractor sports club",
+    "tractor sazi tabriz"
+   ]
+  },
+  {
+   "id": "neftchi",
+   "name": "Neftchi Fergana",
+   "shortName": "Neftchi",
+   "code": "NEF",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Uzbekistan",
+   "crest": null,
+   "aliases": [
+    "neftchi farg'ona",
+    "neftchi farkona"
+   ]
+  },
+  {
+   "id": "pakhtakor",
+   "name": "Pakhtakor Tashkent",
+   "shortName": "Pakhtakor",
+   "code": "PAK",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Uzbekistan",
+   "crest": null,
+   "aliases": [
+    "pakhtakor tashkent fk"
+   ]
+  },
+  {
+   "id": "al-quwa-al-jawiya",
+   "name": "Al-Quwa Al-Jawiya",
+   "shortName": "Al-Quwa Al-Jawiya",
+   "code": "QAW",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Iraq",
+   "crest": null,
+   "aliases": [
+    "al quwa al jawiya",
+    "air force club baghdad"
+   ]
+  },
+  {
+   "id": "kashima-antlers",
+   "name": "Kashima Antlers",
+   "shortName": "Kashima",
+   "code": "KAS",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "kashima antlers fc"
+   ]
+  },
+  {
+   "id": "vissel-kobe",
+   "name": "Vissel Kobe",
+   "shortName": "Vissel Kobe",
+   "code": "VIS",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "vissel kobe fc"
+   ]
+  },
+  {
+   "id": "kashiwa-reysol",
+   "name": "Kashiwa Reysol",
+   "shortName": "Kashiwa",
+   "code": "REY",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "kashiwa reysol fc"
+   ]
+  },
+  {
+   "id": "kyoto-sanga",
+   "name": "Kyoto Sanga FC",
+   "shortName": "Kyoto Sanga",
+   "code": "KYT",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "kyoto sanga",
+    "kyoto purple sanga"
+   ]
+  },
+  {
+   "id": "gamba-osaka",
+   "name": "Gamba Osaka",
+   "shortName": "Gamba",
+   "code": "GAM",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "gamba osaka fc"
+   ]
+  },
+  {
+   "id": "jeonbuk-hyundai-motors",
+   "name": "Jeonbuk Hyundai Motors",
+   "shortName": "Jeonbuk",
+   "code": "JEO",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "jeonbuk hyundai motors fc",
+    "jeonbuk fc"
+   ]
+  },
+  {
+   "id": "daejeon-hana-citizen",
+   "name": "Daejeon Hana Citizen",
+   "shortName": "Daejeon Hana",
+   "code": "DAE",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "daejeon hana citizen fc"
+   ]
+  },
+  {
+   "id": "pohang-steelers",
+   "name": "Pohang Steelers",
+   "shortName": "Pohang",
+   "code": "POH",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "South Korea",
+   "crest": null,
+   "aliases": [
+    "pohang steelers fc"
+   ]
+  },
+  {
+   "id": "buriram-united",
+   "name": "Buriram United",
+   "shortName": "Buriram",
+   "code": "BUR",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Thailand",
+   "crest": null,
+   "aliases": [
+    "buriram united fc"
+   ]
+  },
+  {
+   "id": "port-fc",
+   "name": "Port FC",
+   "shortName": "Port",
+   "code": "POR",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Thailand",
+   "crest": null,
+   "aliases": [
+    "port fc bangkok",
+    "port authority thailand"
+   ]
+  },
+  {
+   "id": "ratchaburi",
+   "name": "Ratchaburi FC",
+   "shortName": "Ratchaburi",
+   "code": "RAT",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Thailand",
+   "crest": null,
+   "aliases": [
+    "ratchaburi fc",
+    "ratchaburi mitr phol"
+   ]
+  },
+  {
+   "id": "shanghai-port",
+   "name": "Shanghai Port FC",
+   "shortName": "Shanghai Port",
+   "code": "SHP",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "shanghai haigang",
+    "shanghai port"
+   ]
+  },
+  {
+   "id": "beijing-guoan",
+   "name": "Beijing Guoan FC",
+   "shortName": "Beijing Guoan",
+   "code": "BJG",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "beijing guoan",
+    "beijing fc"
+   ]
+  },
+  {
+   "id": "newcastle-jets",
+   "name": "Newcastle Jets FC",
+   "shortName": "Newcastle Jets",
+   "code": "NJT",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "newcastle jets"
+   ]
+  },
+  {
+   "id": "johor-darul-tazim",
+   "name": "Johor Darul Ta'zim FC",
+   "shortName": "JDT",
+   "code": "JDT",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Malaysia",
+   "crest": null,
+   "aliases": [
+    "johor darul takzim",
+    "jdt fc"
+   ]
+  },
+  {
+   "id": "cong-an-ha-noi",
+   "name": "Cong An Ha Noi FC",
+   "shortName": "Cong An Ha Noi",
+   "code": "CAH",
+   "sportId": "soccer",
+   "leagueId": "afc",
+   "country": "Vietnam",
+   "crest": null,
+   "aliases": [
+    "cong an ha noi",
+    "ha noi police fc",
+    "candid anh ha noi"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "credit-saison",
+   "name": "Credit Saison Co., Ltd.",
+   "type": "listed-company",
+   "country": "Japan",
+   "parentId": null,
+   "note": "Listed on the Tokyo Stock Exchange, securities code 8253. Part of the Saison Group; allied with Mizuho."
+  },
+  {
+   "id": "rani-refreshments",
+   "name": "Rani Refreshments FZCO",
+   "type": "private-company",
+   "country": "United Arab Emirates",
+   "parentId": null,
+   "note": "Trademark holder of the Barbican brand; the 2011 Aujan-Coca-Cola deal created ACCBC and Rani Refreshments under Aujan Group Holding. Equity split of the Aujan/Coca-Cola JV not disclosed by the company."
+  },
+  {
+   "id": "aspetar",
+   "name": "Aspetar Orthopaedic and Sports Medicine Hospital",
+   "type": "private-company",
+   "country": "Qatar",
+   "parentId": "aspire-zone-foundation",
+   "via": "Aspire Zone Foundation",
+   "note": "Member of Aspire Zone Foundation alongside Aspire Academy and Aspire Logistics (footer of aspetar.com)."
+  },
+  {
+   "id": "aspire-zone-foundation",
+   "name": "Aspire Zone Foundation",
+   "type": "state-fund",
+   "country": "Qatar",
+   "parentId": "government-of-qatar",
+   "note": "Qatari sports-city foundation; its member organisations are Aspire Academy, Aspetar and Aspire Logistics. The foundation's own site does not state its establishment instrument, so state ownership is inferred from its public character; needs confirmation."
+  },
+  {
+   "id": "albaik-food-systems",
+   "name": "ALBAIK Food Systems Company",
+   "type": "private-company",
+   "country": "Saudi Arabia",
+   "parentId": null,
+   "note": "Founded 1974 in Jeddah by the late Shakour AbuGhazalah; family-owned Saudi food brand per the company's own site."
+  },
+  {
+   "id": "transsion-holdings",
+   "name": "Transsion Holdings",
+   "type": "listed-company",
+   "country": "China",
+   "parentId": null,
+   "note": "Shenzhen-headquartered; TECNO's parent. Listed on the SSE Star Market in 2019 (transsion.com/en/about)."
+  },
+  {
+   "id": "alrajhi-bank-owner",
+   "name": "Al Rajhi Banking and Investment Corporation",
+   "type": "listed-company",
+   "country": "Saudi Arabia",
+   "parentId": null,
+   "note": "Saudi joint-stock company (capital SAR 60bn), traded on the Saudi Exchange (Tadawul) as ticker 1120; supervised by the Saudi Central Bank. Founded by the Al Rajhi family; largest shareholders are family members (needs primary confirmation)."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "credit-saison",
+   "name": "Credit Saison",
+   "ownerId": "credit-saison",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "cressent",
+    "crescent"
+   ],
+   "note": "Japanese card issuer; a top-tier Official Global Partner of the AFC (per Sportcal, 2026-05-06). The AFC-Credit Saison renewal announcement was not opened this run - the relationship is sourced only via the Sportcal tier listing."
+  },
+  {
+   "id": "barbican",
+   "name": "Barbican",
+   "ownerId": "rani-refreshments",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "barbican malt"
+   ],
+   "note": "Non-alcoholic malt brand. Official Global Supporter of AFC club competitions (ACL Elite, ACL Two, Women's Champions League), renewed 2025-11-21 for the 2025/26 season."
+  },
+  {
+   "id": "tecno",
+   "name": "TECNO",
+   "ownerId": "transsion-holdings",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "tecno mobile",
+    "tecno telecom"
+   ],
+   "note": "TECNO brand of Transsion Holdings. Official Global Supporter of AFC club competitions covering the 2025/26 and 2026/27 seasons (AFC, 2025-09-11)."
+  },
+  {
+   "id": "aspetar",
+   "name": "Aspetar",
+   "ownerId": "aspetar",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Doha sports-medicine hospital; the AFC's Official Medical Partner through June 2029 (AFC, 2026-04-17)."
+  },
+  {
+   "id": "albaik",
+   "name": "ALBAIK",
+   "ownerId": "albaik-food-systems",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Saudi fast-food chain; Official Global Supporter of the AFC Asian Cup Saudi Arabia 2027 (AFC, 2026-06-25)."
+  },
+  {
+   "id": "alrajhi-bank",
+   "name": "Alrajhi Bank",
+   "ownerId": "alrajhi-bank-owner",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "al rajhi bank"
+   ],
+   "note": "Official Regional Partner (Saudi Arabia) of the AFC Asian Cup Saudi Arabia 2027 (AFC, 2026-06-15)."
+  },
+  {
+   "id": "kelme",
+   "name": "Kelme",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "new millennium sports"
+   ],
+   "note": "Spanish sportswear brand; the AFC's Official Technical Sponsor and match-ball supplier, extended to 2029 and covering ACL Elite, Asian Cup 2027 and more (Kelme, 2024-11-18). Owner named in note only - New Millennium Sports S.L. (Wikipedia lead, not independently confirmed)."
+  },
+  {
+   "id": "ea-sports-fc-afc",
+   "name": "EA Sports FC",
+   "ownerId": "electronic-arts",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ea fc"
+   ],
+   "note": "Official Licensed Product of the AFC Asian Cup Saudi Arabia 2027 (AFC, 2026-05-06). Separate sponsor entry because the existing ea-sports id is used for Roshn Saudi League deals."
+  },
+  {
+   "id": "visit-saudi",
+   "name": "Visit Saudi",
+   "ownerId": "government-of-saudi-arabia",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Sponsor entry already exists in normalized (rated). Listed here only as the fourth AFC top-tier Official Global Partner in the Sportcal tier summary; the 2023 Visit Saudi deal ran through Dec 2024 (ASEAN Football, 2023-10-13), so its current AFC status needs rechecking."
+  },
+  {
+   "id": "rakuten-group",
+   "name": "Rakuten Group, Inc.",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
+   "id": "bishop",
+   "name": "Bishop Retail Co.",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
+   "id": "devis",
+   "name": "Devis Co., Ltd., new uniform partner from the 2026/27 season.",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
+   "id": "kawasaki-heavy-industries",
+   "name": "Kawasaki Heavy Industries",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
+   "id": "shuzet-holdings",
+   "name": "Shuzet Holdings",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
+   "id": "noevia",
+   "name": "Noevir",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  }
+ ],
+ "kits": [
+  {
+   "id": "vissel-kobe-2026-27-home",
+   "clubId": "vissel-kobe",
+   "season": "2026-27",
+   "kitType": "home",
+   "periodLabel": "2026/27",
+   "periodFrom": "2026-27",
+   "periodTo": "2026-27",
+   "photos": {},
+   "sponsors": [
+    {
+     "sponsorId": "rakuten-group",
+     "placement": "front",
+     "source": {
+      "name": "Vissel Kobe - uniform partners (2026/27)",
+      "date": "2026-09-25",
+      "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+      "note": "Front (chest): Rakuten Group, Inc."
+     }
+    },
+    {
+     "sponsorId": "bishop",
+     "placement": "front",
+     "side": "front",
+     "source": {
+      "name": "Vissel Kobe - uniform partners (2026/27)",
+      "date": "2026-09-25",
+      "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+      "note": "Front (right collarbone): Bishop Retail Co. (4th season on the shirt)."
+     }
+    },
+    {
+     "sponsorId": "devis",
+     "placement": "front",
+     "source": {
+      "name": "Vissel Kobe - uniform partners (2026/27)",
+      "date": "2026-09-25",
+      "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+      "note": "Front (left collarbone): Devis Co., Ltd., new uniform partner from the 2026/27 season."
+     }
+    },
+    {
+     "sponsorId": "kawasaki-heavy-industries",
+     "placement": "back",
+     "source": {
+      "name": "Vissel Kobe - uniform partners (2026/27)",
+      "date": "2026-09-25",
+      "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+      "note": "Back: Kawasaki Heavy Industries (25th season; back placement since 2025)."
+     }
+    },
+    {
+     "sponsorId": "shuzet-holdings",
+     "placement": "shorts",
+     "source": {
+      "name": "Vissel Kobe - uniform partners (2026/27)",
+      "date": "2026-09-25",
+      "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+      "note": "Below the back number / shorts front: Shuzet Holdings (12th season)."
+     }
+    },
+    {
+     "sponsorId": "noevia",
+     "placement": "sleeve",
+     "source": {
+      "name": "Vissel Kobe - uniform partners (2026/27)",
+      "date": "2026-09-25",
+      "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+      "note": "Left sleeve: Noevir (also names the home stadium)."
+     }
+    }
+   ],
+   "sponsorsComplete": true,
+   "change": null,
+   "summary": "Vissel Kobe 2026/27 home shirt: Rakuten front, Bishop and Devis on the collarbones, Kawasaki Heavy Industries on the back, Shuzet Holdings below the number, Noevir on the left sleeve, Asics Japan as kitmaker. All from the club's own uniform-partners page, which is labelled 2026/27 and shows a 2026/27 kit special site.",
+   "headline": "Rakuten pays for the front of Vissel Kobe's shirt",
+   "shortLine": "Rakuten front, Noevir sleeve, Kawasaki back"
+  }
+ ],
+ "deals": [
+  {
+   "id": "afc-neom",
+   "clubId": null,
+   "orgName": "AFC",
+   "sponsorId": "neom",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": "2029",
+   "value": null,
+   "source": {
+    "name": "AFC - NEOM and AFC announce global multi-year partnership extension",
+    "date": "2024-07-10",
+    "url": "https://www.the-afc.com/en/more/afc_news/news/afc_and_neom_announce_global_multi-year_partnership_extension.html",
+    "note": "Official Global Partner of AFC national-team and club competitions, 2024-2029, after an initial four-year deal."
+   },
+   "leagueId": "afc",
+   "note": "Top-tier AFC global partner. NEOM is a wholly PIF-owned Saudi giga-project; the same release made NEOM Presenting Partner of the ACL Elite Final Stage and the AFC Women's Champions League."
+  },
+  {
+   "id": "afc-neom-final-stage",
+   "clubId": null,
+   "orgName": "AFC Champions League Elite Final Stage",
+   "sponsorId": "neom",
+   "placement": "league-partner",
+   "from": "2024-25",
+   "to": "2029",
+   "value": null,
+   "source": {
+    "name": "AFC - NEOM partnership extension",
+    "date": "2024-07-10",
+    "url": "https://www.the-afc.com/en/more/afc_news/news/afc_and_neom_announce_global_multi-year_partnership_extension.html",
+    "note": "NEOM becomes Presenting Partner of the centralised ACL Elite Final Stage hosted in Saudi Arabia."
+   },
+   "leagueId": "afc",
+   "note": "Presenting partner of the ACL Elite Final Stage from its 2024/25 launch. Whether NEOM still presents the 2026/27 Final Stage was not confirmed separately."
+  },
+  {
+   "id": "afc-qatar-airways",
+   "clubId": null,
+   "orgName": "AFC competitions",
+   "sponsorId": "qatar-airways",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": "2029",
+   "value": null,
+   "source": {
+    "name": "Inside World Football - AFC lands major global sponsorship with Qatar Airways",
+    "date": "2023-12-18",
+    "url": "https://www.insideworldfootball.com/2023/12/18/afc-lands-major-global-sponsorship-qatar-airways-starting-asian-cup-2023/"
+   },
+   "leagueId": "afc",
+   "note": "Six-year global partnership from Jan 2024 (deal announced Dec 2023), covering the Asian Cup 2023 and 2027, ACL Elite, ACL Two, Women's Champions League, futsal and youth events."
+  },
+  {
+   "id": "afc-visit-saudi",
+   "clubId": null,
+   "orgName": "AFC competitions",
+   "sponsorId": "visit-saudi",
+   "placement": "league-partner",
+   "from": "2023",
+   "to": "2024",
+   "value": null,
+   "source": {
+    "name": "ASEAN Football - AFC and Visit Saudi announce global sponsorship rights deal",
+    "date": "2023-10-13",
+    "url": "https://www.aseanfootball.org/v3/afc-and-visit-saudi-announce-global-sponsorship-rights-deal/"
+   },
+   "leagueId": "afc",
+   "note": "Official Global Partner through December 2024, starting with the Asian Cup Qatar 2023. Listed as a current AFC global partner by Sportcal (2026-05-06); renewal after 2024 not confirmed."
+  },
+  {
+   "id": "afc-credit-saison",
+   "clubId": null,
+   "orgName": "AFC competitions",
+   "sponsorId": "credit-saison",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Sportcal - Aramco to retain stadium naming rights through Asian Cup '27",
+    "date": "2026-05-06",
+    "url": "https://www.sportcal.com/sponsorship/aramco-to-retain-stadium-naming-rights-through-asian-cup-27-in-afc-first/",
+    "note": "Names Credit Saison among the top-tier global partner designation alongside Qatar Airways, NEOM and Visit Saudi."
+   },
+   "leagueId": "afc",
+   "note": "Tier via Sportcal's tier summary only; the AFC-Credit Saison renewal announcement was not opened this run."
+  },
+  {
+   "id": "afc-aramco-asian-cup-2027",
+   "clubId": null,
+   "orgName": "AFC Asian Cup Saudi Arabia 2027",
+   "sponsorId": "aramco",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "AFC - Aramco named Official Global Supporter of AFC Asian Cup Saudi Arabia 2027",
+    "date": "2026-05-06",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/aramco-named-official-global-supporter-of-afc-asian-cup-saudi-arabia-2027%E2%84%A2-1",
+    "note": "Official Global Supporter plus naming of the Al Khobar venue as Aramco Stadium - the first venue-naming partnership in AFC history."
+   },
+   "leagueId": "afc",
+   "note": "Second-tier supporter of the tournament; Aramco Stadium is also home of Aramco-owned Al-Qadsiah and operated by Aramco (Sportcal)."
+  },
+  {
+   "id": "afc-visa-asian-cup-2027",
+   "clubId": null,
+   "orgName": "AFC Asian Cup Saudi Arabia 2027",
+   "sponsorId": "visa",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "AFC - Visa named Official Global Supporter of AFC Asian Cup Saudi Arabia 2027 and AFC U23 Asian Cup Saudi Arabia 2026",
+    "date": "2026-01-15",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/visa-named-official-global-supporter-of-afc-asian-cup-saudi-arabia-2027%E2%84%A2-and-afc-u23-asian-cup-saudi-arabia-2026%E2%84%A2"
+   },
+   "leagueId": "afc",
+   "note": "Payments supporter of both 2026/27-cycle Saudi-hosted tournaments. Earlier club-competition Visa deal (Feb 2025) covered 2024/25 and 2025/26 only."
+  },
+  {
+   "id": "afc-midea-club-competitions",
+   "clubId": null,
+   "orgName": "AFC club competitions",
+   "sponsorId": "midea",
+   "placement": "league-partner",
+   "from": "2024-25",
+   "to": "2028-29",
+   "value": null,
+   "source": {
+    "name": "AFC - Midea becomes Global Supporter of the AFC's club competitions",
+    "date": "2025-04-24",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/midea-becomes-global-supporter-of-the-afc%E2%80%99s-club-competitions"
+   },
+   "leagueId": "afc",
+   "note": "Global Supporter of ACL Elite (from the 2024/25 final stages), ACL Two and the Women's Champions League through 2028/29."
+  },
+  {
+   "id": "afc-kelme",
+   "clubId": null,
+   "orgName": "AFC competitions",
+   "sponsorId": "kelme",
+   "placement": "league-partner",
+   "from": "2025",
+   "to": "2029",
+   "value": null,
+   "source": {
+    "name": "Kelme - Kelme and the AFC extend their partnership agreement for four more years",
+    "date": "2024-11-18",
+    "url": "https://kelme.com/en/blogs/kelme/kelme-y-la-asian-football-confederation-extienden-su-acuerdo-de-colaboracion-cuatro-anos-mas",
+    "note": "Official Technical Sponsor of AFC's major club competitions and several national-team competitions to 2029; supplies the official match balls of the Asian Cup 2027 and ACL Elite."
+   },
+   "leagueId": "afc",
+   "note": "Match-ball and technical supplier; Kelme's PARADISE ball debuted for ACL Elite 2025/26 (AFC, 2025-08-14)."
+  },
+  {
+   "id": "afc-tecno-club-competitions",
+   "clubId": null,
+   "orgName": "AFC club competitions",
+   "sponsorId": "tecno",
+   "placement": "league-partner",
+   "from": "2025-26",
+   "to": "2026-27",
+   "value": null,
+   "source": {
+    "name": "AFC - TECNO and AFC renew partnership for upcoming club competition seasons",
+    "date": "2025-09-11",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/tecno-and-afc-renew-partnership-for-upcoming-club-competition-seasons"
+   },
+   "leagueId": "afc",
+   "note": "Official Global Supporter of ACL Elite, ACL Two and the Women's Champions League for 2025/26 and 2026/27 - the only supporter confirmed for our season on its own page."
+  },
+  {
+   "id": "afc-barbican-club-competitions",
+   "clubId": null,
+   "orgName": "AFC club competitions",
+   "sponsorId": "barbican",
+   "placement": "league-partner",
+   "from": "2025-26",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "AFC - Barbican announced as Official Global Supporter of AFC club competitions 2025/26 season",
+    "date": "2025-11-21",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/barbican-announced-as-official-global-supporter-of-afc-club-competitions-202526-season"
+   },
+   "leagueId": "afc",
+   "note": "Renewal for 2025/26 across all three club competitions; whether it extends to 2026/27 was not confirmed."
+  },
+  {
+   "id": "afc-aspetar-medical",
+   "clubId": null,
+   "orgName": "AFC competitions",
+   "sponsorId": "aspetar",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": "2029",
+   "value": null,
+   "source": {
+    "name": "AFC - AFC announces Aspetar as Official Medical Partner",
+    "date": "2026-04-17",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/afc-announces-aspetar-as-official-medical-partner"
+   },
+   "leagueId": "afc",
+   "note": "All major AFC club competitions plus several national-team competitions, through June 2029."
+  },
+  {
+   "id": "afc-albaik-asian-cup-2027",
+   "clubId": null,
+   "orgName": "AFC Asian Cup Saudi Arabia 2027",
+   "sponsorId": "albaik",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "AFC - ALBAIK named Official Global Supporter of AFC Asian Cup Saudi Arabia 2027",
+    "date": "2026-06-25",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/albaik%E2%84%A2%EF%B8%8F-named-official-global-supporter-of-afc-asian-cup-saudi-arabia-2027%E2%84%A2-1"
+   },
+   "leagueId": "afc",
+   "note": "Homegrown Saudi brand in the tournament's global commercial programme."
+  },
+  {
+   "id": "afc-alrajhi-asian-cup-2027",
+   "clubId": null,
+   "orgName": "AFC Asian Cup Saudi Arabia 2027",
+   "sponsorId": "alrajhi-bank",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "AFC - Alrajhi Bank named Official Regional Partner of AFC Asian Cup Saudi Arabia 2027",
+    "date": "2026-06-15",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/alrajhi-bank-named-official-regional-partner-of-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   },
+   "leagueId": "afc",
+   "note": "Regional partner for Saudi Arabia; builds on the AFC U23 Asian Cup Saudi Arabia 2026 partnership. Wikipedia lists the regional partner in conjunction with Visa - the conjunction was not stated in the AFC page text this run."
+  },
+  {
+   "id": "afc-ea-sports-fc-licensed",
+   "clubId": null,
+   "orgName": "AFC Asian Cup Saudi Arabia 2027",
+   "sponsorId": "ea-sports-fc-afc",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "AFC - ALBAIK announcement page (EA Sports FC listed as Official Licensed Product, 6 May 2026)",
+    "date": "2026-06-25",
+    "url": "https://www.the-afc.com/en/more/afc_news.html/news/albaik%E2%84%A2%EF%B8%8F-named-official-global-supporter-of-afc-asian-cup-saudi-arabia-2027%E2%84%A2-1"
+   },
+   "leagueId": "afc",
+   "note": "Official Licensed Product of the 2027 Asian Cup, replacing Konami's eFootball. Primary announcement page not opened this run."
+  },
+  {
+   "id": "afc-saudi-host-finals",
+   "clubId": null,
+   "orgName": "AFC Champions League Elite Finals",
+   "sponsorId": "visit-saudi",
+   "placement": "stadium",
+   "from": "2025",
+   "to": "2029",
+   "value": null,
+   "source": {
+    "name": "AFC - Venues confirmed for ACL Elite Finals Jeddah 2026",
+    "date": "2025-12-23",
+    "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/venues-confirmed-for-afc-champions-league-elite%E2%84%A2-finals-jeddah-2026",
+    "note": "King Abdullah Sports City and Prince Abdullah Al Faisal Sports City, Jeddah, host the finals 16-25 April 2026, as in 2025."
+   },
+   "leagueId": "afc",
+   "note": "The centralised finals are hosted in Saudi Arabia; the 'provisionally through 2029' term comes from the Wikipedia season article and is unconfirmed by an AFC page. Recorded as the Saudi state as host; Visit Saudi is the state's tourism platform."
+  }
+ ],
+ "claims": [],
+ "proposedRatings": [
+  {
+   "sponsorId": "neom",
+   "tier": "serious",
+   "ownerId": "neom",
+   "claimIds": [
+    "government-of-saudi-arabia-record"
+   ],
+   "reasoning": "Top-tier AFC partner and presenter of the ACL Elite Final Stage; NEOM Company is wholly PIF-owned, so this is Saudi state money. Same Saudi state record (record 345 executions in 2024; Khashoggi assessment) as Aramco -> serious, severe reserved for live armed conflict."
+  },
+  {
+   "sponsorId": "aramco",
+   "tier": "serious",
+   "ownerId": "government-of-saudi-arabia",
+   "claimIds": [
+    "gov-saudi-arabia-record"
+   ],
+   "reasoning": "Already rated serious in normalized (81.48% state-owned). Its Asian Cup role adds a stadium named Aramco Stadium in the AFC's first venue-naming deal, deepening state branding of the tournament."
+  },
+  {
+   "sponsorId": "qatar-airways",
+   "tier": "serious",
+   "ownerId": "government-of-qatar",
+   "claimIds": [
+    "government-of-qatar-record",
+    "gov-qatar-record"
+   ],
+   "reasoning": "Already rated serious in normalized: sovereign-state-owned airline; documented migrant-worker abuses despite kafala reform, remedy still outstanding."
+  },
+  {
+   "sponsorId": "visit-saudi",
+   "tier": "serious",
+   "ownerId": "government-of-saudi-arabia",
+   "claimIds": [
+    "government-of-saudi-arabia-record"
+   ],
+   "reasoning": "Already rated serious in normalized (wholly state-funded tourism authority). Listed as a current AFC top-tier partner; its post-2024 AFC status needs rechecking before rating is applied here."
+  },
+  {
+   "sponsorId": "credit-saison",
+   "tier": "unrated",
+   "ownerId": "credit-saison",
+   "claimIds": [],
+   "reasoning": "Listed Japanese bank-card company, no state ownership found; left unrated until the AFC-Credit Saison deal itself is confirmed from a primary source."
+  },
+  {
+   "sponsorId": "tecno",
+   "tier": "unrated",
+   "ownerId": "transsion-holdings",
+   "claimIds": [],
+   "reasoning": "Private Chinese listed company (Transsion, SSE Star Market); no state ownership found in this run - leave unrated."
+  },
+  {
+   "sponsorId": "barbican",
+   "tier": "unrated",
+   "ownerId": "rani-refreshments",
+   "claimIds": [],
+   "reasoning": "Beverage JV involving the Aujan family and The Coca-Cola Company; no state control found. Unrated pending ownership confirmation of Rani Refreshments."
+  },
+  {
+   "sponsorId": "aspetar",
+   "tier": "unrated",
+   "ownerId": "aspetar",
+   "claimIds": [],
+   "reasoning": "Aspire Zone Foundation is a Qatari state-linked foundation, but its establishment instrument and Aspetar's exact ownership were not confirmed on official pages this run; a person should decide."
+  },
+  {
+   "sponsorId": "albaik",
+   "tier": "unrated",
+   "ownerId": "albaik-food-systems",
+   "claimIds": [],
+   "reasoning": "Family-owned Saudi food chain (founded 1974, AbuGhazalah family); private, not state-linked."
+  },
+  {
+   "sponsorId": "alrajhi-bank",
+   "tier": "unrated",
+   "ownerId": "alrajhi-bank-owner",
+   "claimIds": [],
+   "reasoning": "Listed Saudi bank on Tadawul (1120); shareholder base not confirmed from primary filings in this run."
+  },
+  {
+   "sponsorId": "kelme",
+   "tier": "unrated",
+   "ownerId": null,
+   "claimIds": [],
+   "reasoning": "Spanish sportswear supplier; ownership (New Millennium Sports S.L.) rests on Wikipedia as a lead only."
+  },
+  {
+   "sponsorId": "midea",
+   "tier": "unrated",
+   "ownerId": "midea-group",
+   "claimIds": [],
+   "reasoning": "Listed Chinese appliance group (Shenzhen/ideas listed); no state ownership found. AFC Global Supporter of club competitions through 2028/29."
+  },
+  {
+   "sponsorId": "visa",
+   "tier": "unrated",
+   "ownerId": null,
+   "reasoning": "Existing sponsor entry has no ownerId in normalized; US listed payments company, no state ownership. Left for the person to confirm.",
+   "claimIds": []
+  }
+ ],
+ "unsourced": [
+  "The 32-team field of the 2026/27 ACL Elite comes from the Wikipedia season article (the-afc.com hubs did not list the full field); Wikipedia is a lead only - verify each club's entry against AFC match data before publishing.",
+  "Saudi Arabia's provisional hosting of the ACL Elite finals 'through 2029' comes only from the Wikipedia season article; the AFC's Jeddah 2026 venues announcement (2025-12-23) does not state a multi-year hosting term.",
+  "Whether NEOM still presents the ACL Elite 2026/27 Final Stage: the Presenting-Partner role dates from the 2024-07-10 extension and covers the Final Stage generally, but no 2026/27-specific confirmation was found.",
+  "Visit Saudi's current AFC status: the sourced deal ran through December 2024 (ASEAN Football, 2023-10-13); Sportcal (2026-05-06) still lists it among top-tier AFC global partners, so a renewal is likely but was not confirmed.",
+  "Credit Saison as a top-tier AFC Official Global Partner rests on Sportcal's tier summary (2026-05-06); the underlying AFC-Credit Saison announcement was not opened this run.",
+  "EA Sports FC as Official Licensed Product of Asian Cup 2027 is named on the AFC's Albaik announcement page (6 May 2026); the primary announcement page was not opened.",
+  "Kelme's owner: Wikipedia names New Millennium Sports, S.L. (private Spanish company, Elche); a registry or company-site confirmation was not obtained - some reports also describe Chinese investment in Kelme.",
+  "Rani Refreshments FZCO (Barbican trademark holder) ownership: the Aujan Group Holding site confirms the 2011 Coca-Cola deal created ACCBC and Rani Refreshments but discloses no equity split of the JV.",
+  "Aspire Zone Foundation (Aspetar's parent): confirmed as the umbrella of Aspetar, Aspire Academy and Aspire Logistics on aspirezone.qa, but the foundation's establishment instrument (Emiri decree) and its legal status as a state entity were not confirmed on official pages.",
+  "Alrajhi Bank's shareholder base (Al Rajhi family stake) was not confirmed from primary filings; Tadawul listing (1120) is confirmed via TradingView and the bank's own footer confirms Saudi joint-stock status.",
+  "Kit sponsors and placements for 27 of the 32 clubs (all West-region clubs except the five Saudi clubs already covered, and all East-region clubs except Vissel Kobe) were not researched in this run: sources to try are each club's own partner pages (Vissel Kobe's model), J.League/K-League/Thai League/CSL club sites, and Football-Kit-News/Footy Headlines kit launches.",
+  "Gamba Osaka: the club's English partner page (gamba-osaka.net, fetched 2026-09-25) shows Panasonic-group companies among partners, but which Panasonic entity sits on the front of the 2026/27 shirt (historically Panasonic) was not confirmed with a placement.",
+  "Kashima Antlers, Kashiwa Reysol, Kyoto Sanga, Jeonbuk, Daejeon Hana Citizen, Pohang Steelers, Buriram United, Port FC, Ratchaburi, Shanghai Port, Beijing Guoan, Newcastle Jets, Johor Darul Ta'zim (Nike kit-maker per Wikipedia; JDT's official domain was unreachable) and Cong An Ha Noi: no kit sponsor data gathered this run.",
+  "AFC award sponsorships mentioned in the target brief ('Visa Top Goal', 'STA Player of the Match' on AFC.com) were not verified - search engines were rate-limited and the award pages were not found.",
+  "Aramco Stadium (Al Khobar) venue details: capacity ~46-47,000, home of Aramco-owned Al-Qadsiah, Aramco as operator and title partner domestically (Sportcal, 2026-05-06; meetstadium.com); the stadium's own site says it opens in 2026 and it has yet to host a match - the naming extension to the Asian Cup is confirmed by the AFC, but the domestic naming-rights value is not disclosed.",
+  "Saudi Arabia as host is recorded as a stadium-placement deal via Visit Saudi for lack of a better shape; the AFC page does not frame hosting as a commercial sponsorship, so this deal may need to move to an event-host shape."
+ ]
+}

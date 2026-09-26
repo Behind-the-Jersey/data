@@ -1,0 +1,1152 @@
+{
+ "target": "atp-tour",
+ "issue": "https://github.com/Beyond-The-Jersey/data/issues/246",
+ "sports": [
+  {
+   "id": "tennis",
+   "label": "Tennis",
+   "status": "not-mapped",
+   "aliases": [
+    "atp",
+    "men's tennis",
+    "association of tennis professionals"
+   ]
+  }
+ ],
+ "leagues": [
+  {
+   "id": "atp-tour",
+   "aliases": [
+    "atp",
+    "association of tennis professionals tour",
+    "atp tour 2026"
+   ],
+   "sportId": "tennis",
+   "name": "ATP Tour",
+   "clubCount": 65,
+   "season": "2026",
+   "status": "partial",
+   "notes": [
+    "Calendar-year competition; season field uses bare 2026. The 2026 ATP Tour runs January to November with the Next Gen ATP Finals in December.",
+    "Calendar reconciled from the Wikipedia 2026 ATP Tour schedule tables (every row read on 25 Sep 2026; wtatour.com/atptour.com calendar feeds block automated access with Cloudflare 403): 62 ATP-owned events = 4 Grand Slams + 9 ATP Masters 1000 + 16 ATP 500 + 29 ATP 250 + ATP Finals + Next Gen ATP Finals, plus 5 team events on the ATP calendar (United Cup, Davis Cup Qualifiers first round, Davis Cup Qualifiers second round, Laver Cup, Davis Cup Finals) which are recorded here as clubs too. The target's official-feed count of 62 matches the 62 ATP-owned events; with the 5 team/federation events the Wikipedia calendar lists 67 rows.",
+    "Grand Slams are run by the four national federations and the ITF runs the Davis Cup; they appear on the ATP calendar but are not ATP-owned. United Cup is a combined ATP/WTA team event. These are included as clubs with shared ids where they overlap the WTA research (wta-tour.json).",
+    "PIF is the first-ever naming partner of the ATP Rankings ('PIF ATP Rankings') and a Platinum Partner of the ATP Tour; PIF's partner page at bnpparibasopen.com/partners/pif describes it as 'exclusive naming partner of both the ATP and WTA Rankings' and 'Platinum Partner of the ATP Tour' (fetched 25 Sep 2026).",
+    "Nitto extended as title sponsor of the ATP Finals in Turin through 2030; the 2026 edition is the 2026 Nitto ATP Finals (15-22 Nov 2026, Inalpi Arena).",
+    "Shape note: tournaments are recorded as clubs (sportId tennis, leagueId atp-tour). Tournaments have no shirt kits, so kits is empty; tournament title sponsors, hosts and organisers are recorded in unsourced (event-host shape) and as org deals where a league-level partner exists."
+   ]
+  }
+ ],
+ "clubs": [
+  {
+   "id": "australian-open",
+   "name": "Australian Open",
+   "shortName": "Australian Open",
+   "code": "AUS",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "melbourne grand slam"
+   ]
+  },
+  {
+   "id": "french-open",
+   "name": "French Open",
+   "shortName": "Roland Garros",
+   "code": "FRE",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "roland garros",
+    "open de france"
+   ]
+  },
+  {
+   "id": "wimbledon",
+   "name": "Wimbledon",
+   "shortName": "Wimbledon",
+   "code": "WIM",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "the championships wimbledon"
+   ]
+  },
+  {
+   "id": "us-open",
+   "name": "US Open",
+   "shortName": "US Open",
+   "code": "USO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "us open tennis",
+    " flushing meadows"
+   ]
+  },
+  {
+   "id": "brisbane-international",
+   "name": "Brisbane International",
+   "shortName": "Brisbane",
+   "code": "BRI",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "adelaide-international",
+   "name": "Adelaide International",
+   "shortName": "Adelaide",
+   "code": "ADE",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": []
+  },
+  {
+   "id": "auckland-open",
+   "name": "Auckland Open",
+   "shortName": "Auckland",
+   "code": "AKL",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "New Zealand",
+   "crest": null,
+   "aliases": [
+    "asb classic"
+   ]
+  },
+  {
+   "id": "hong-kong-open",
+   "name": "Hong Kong Open",
+   "shortName": "Hong Kong",
+   "code": "HKO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Hong Kong",
+   "crest": null,
+   "aliases": [
+    "prudential hong kong tennis open"
+   ]
+  },
+  {
+   "id": "qatar-open",
+   "name": "Qatar Open",
+   "shortName": "Qatar",
+   "code": "QAT",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Qatar",
+   "crest": null,
+   "aliases": [
+    "qatar open doha",
+    "atp qatar open"
+   ]
+  },
+  {
+   "id": "dubai-tennis-championships",
+   "name": "Dubai Tennis Championships",
+   "shortName": "Dubai",
+   "code": "DUB",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United Arab Emirates",
+   "crest": null,
+   "aliases": [
+    "dubai duty free tennis championships"
+   ]
+  },
+  {
+   "id": "indian-wells-open",
+   "name": "Indian Wells Open",
+   "shortName": "Indian Wells",
+   "code": "IWO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "bnp paribas open"
+   ]
+  },
+  {
+   "id": "miami-open",
+   "name": "Miami Open",
+   "shortName": "Miami",
+   "code": "MIA",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "miami open presented by itau"
+   ]
+  },
+  {
+   "id": "madrid-open",
+   "name": "Madrid Open",
+   "shortName": "Madrid",
+   "code": "MAD",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "mutua madrid open"
+   ]
+  },
+  {
+   "id": "italian-open",
+   "name": "Italian Open",
+   "shortName": "Rome",
+   "code": "ITA",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "internazionali bnl d'italia",
+    "rome masters"
+   ]
+  },
+  {
+   "id": "canadian-open",
+   "name": "Canadian Open",
+   "shortName": "Canada",
+   "code": "CAN",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Canada",
+   "crest": null,
+   "aliases": [
+    "national bank open",
+    "canada masters"
+   ]
+  },
+  {
+   "id": "cincinnati-open",
+   "name": "Cincinnati Open",
+   "shortName": "Cincinnati",
+   "code": "CIN",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "western and southern open"
+   ]
+  },
+  {
+   "id": "china-open",
+   "name": "China Open",
+   "shortName": "Beijing",
+   "code": "CHO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "china open beijing"
+   ]
+  },
+  {
+   "id": "eastbourne-open",
+   "name": "Eastbourne Open",
+   "shortName": "Eastbourne",
+   "code": "EAS",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "lexus eastbourne open"
+   ]
+  },
+  {
+   "id": "hamburg-open",
+   "name": "Hamburg Open",
+   "shortName": "Hamburg",
+   "code": "HAM",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "bitpanda hamburg open"
+   ]
+  },
+  {
+   "id": "rosmalen-championships",
+   "name": "Rosmalen Championships",
+   "shortName": "Rosmalen",
+   "code": "ROS",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Netherlands",
+   "crest": null,
+   "aliases": [
+    "libema open",
+    "s-hertogenbosch open",
+    "rosmalen open"
+   ]
+  },
+  {
+   "id": "queens-club-championships",
+   "name": "Queen's Club Championships",
+   "shortName": "Queen's",
+   "code": "QCC",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "hsbc championships",
+    "london queens"
+   ]
+  },
+  {
+   "id": "dc-open",
+   "name": "DC Open",
+   "shortName": "Washington DC",
+   "code": "DCO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "mubadala dc open",
+    "washington open"
+   ]
+  },
+  {
+   "id": "japan-open",
+   "name": "Japan Open",
+   "shortName": "Tokyo",
+   "code": "JPT",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Japan",
+   "crest": null,
+   "aliases": [
+    "japan open tennis championships tokyo"
+   ]
+  },
+  {
+   "id": "united-cup",
+   "name": "United Cup",
+   "shortName": "United Cup",
+   "code": "UNC",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Australia",
+   "crest": null,
+   "aliases": [
+    "atp wta united cup"
+   ]
+  },
+  {
+   "id": "monte-carlo-masters",
+   "name": "Monte-Carlo Masters",
+   "shortName": "Monte-Carlo",
+   "code": "MCO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Monaco",
+   "crest": null,
+   "aliases": [
+    "rolex monte-carlo masters"
+   ]
+  },
+  {
+   "id": "shanghai-masters",
+   "name": "Shanghai Masters",
+   "shortName": "Shanghai",
+   "code": "SHA",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "rolex shanghai masters"
+   ]
+  },
+  {
+   "id": "paris-masters",
+   "name": "Paris Masters",
+   "shortName": "Paris",
+   "code": "PAR",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "rolex paris masters"
+   ]
+  },
+  {
+   "id": "atp-finals",
+   "name": "ATP Finals",
+   "shortName": "ATP Finals",
+   "code": "FIN",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "nitto atp finals",
+    "atp finals turin"
+   ]
+  },
+  {
+   "id": "next-gen-atp-finals",
+   "name": "Next Gen ATP Finals",
+   "shortName": "Next Gen Finals",
+   "code": "NGF",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "next gen atp finals reggio calabria"
+   ]
+  },
+  {
+   "id": "davis-cup-qualifiers-1",
+   "name": "Davis Cup Qualifiers first round",
+   "shortName": "Davis Cup Q1",
+   "code": "DV1",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "davis cup qualifiers first round 2026"
+   ]
+  },
+  {
+   "id": "davis-cup-qualifiers-2",
+   "name": "Davis Cup Qualifiers second round",
+   "shortName": "Davis Cup Q2",
+   "code": "DV2",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "International",
+   "crest": null,
+   "aliases": [
+    "davis cup qualifiers second round 2026"
+   ]
+  },
+  {
+   "id": "davis-cup-finals",
+   "name": "Davis Cup Finals",
+   "shortName": "Davis Cup Finals",
+   "code": "DVF",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Italy",
+   "crest": null,
+   "aliases": [
+    "davis cup final 8 bologna"
+   ]
+  },
+  {
+   "id": "laver-cup",
+   "name": "Laver Cup",
+   "shortName": "Laver Cup",
+   "code": "LVC",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United Kingdom",
+   "crest": null,
+   "aliases": [
+    "laver cup london 2026"
+   ]
+  },
+  {
+   "id": "dallas-open",
+   "name": "Dallas Open",
+   "shortName": "Dallas",
+   "code": "DAL",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "nexo dallas open"
+   ]
+  },
+  {
+   "id": "rotterdam-open",
+   "name": "Rotterdam Open",
+   "shortName": "Rotterdam",
+   "code": "ROT",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Netherlands",
+   "crest": null,
+   "aliases": [
+    "abn amro open",
+    "abn amro world tennis tournament"
+   ]
+  },
+  {
+   "id": "rio-open",
+   "name": "Rio Open",
+   "shortName": "Rio",
+   "code": "RIO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Brazil",
+   "crest": null,
+   "aliases": [
+    "rio open presented by claro"
+   ]
+  },
+  {
+   "id": "mexican-open",
+   "name": "Mexican Open",
+   "shortName": "Acapulco",
+   "code": "ACO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Mexico",
+   "crest": null,
+   "aliases": [
+    "abierto mexicano telcel",
+    "telcel mexican open"
+   ]
+  },
+  {
+   "id": "barcelona-open",
+   "name": "Barcelona Open",
+   "shortName": "Barcelona",
+   "code": "BCN",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "barcelona open banc sabadell",
+    "conde de godo"
+   ]
+  },
+  {
+   "id": "munich-open",
+   "name": "Bavarian International Tennis Championships",
+   "shortName": "Munich",
+   "code": "MUN",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "bmw open",
+    "bmw open by bitpanda",
+    "munich open"
+   ]
+  },
+  {
+   "id": "halle-open",
+   "name": "Halle Open",
+   "shortName": "Halle",
+   "code": "HAL",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "terra wortmann open"
+   ]
+  },
+  {
+   "id": "mallorca-championships",
+   "name": "Mallorca Championships",
+   "shortName": "Mallorca",
+   "code": "MAL",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Spain",
+   "crest": null,
+   "aliases": [
+    "vanda pharmaceuticals mallorca championships"
+   ]
+  },
+  {
+   "id": "swedish-open",
+   "name": "Swedish Open",
+   "shortName": "Båstad",
+   "code": "BAS",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Sweden",
+   "crest": null,
+   "aliases": [
+    "nordea open",
+    "swedish open bastad"
+   ]
+  },
+  {
+   "id": "austrian-open",
+   "name": "Austrian Open",
+   "shortName": "Kitzbühel",
+   "code": "KIT",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Austria",
+   "crest": null,
+   "aliases": [
+    "generali open",
+    "kitzbuhel open"
+   ]
+  },
+  {
+   "id": "us-clay-court-championships",
+   "name": "U.S. Men's Clay Court Championships",
+   "shortName": "Houston",
+   "code": "HOU",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "fayez sarofim us men's clay court championship",
+    "houston open"
+   ]
+  },
+  {
+   "id": "grand-prix-hassan-ii",
+   "name": "Grand Prix Hassan II",
+   "shortName": "Marrakesh",
+   "code": "MRK",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Morocco",
+   "crest": null,
+   "aliases": [
+    "marrakech open"
+   ]
+  },
+  {
+   "id": "argentina-open",
+   "name": "Argentina Open",
+   "shortName": "Buenos Aires",
+   "code": "BUE",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Argentina",
+   "crest": null,
+   "aliases": [
+    "ieb+ argentina open"
+   ]
+  },
+  {
+   "id": "chile-open",
+   "name": "Chile Open",
+   "shortName": "Santiago",
+   "code": "SCL",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Chile",
+   "crest": null,
+   "aliases": [
+    "bci chile open",
+    "santiago open"
+   ]
+  },
+  {
+   "id": "romanian-open",
+   "name": "Romanian Open",
+   "shortName": "Bucharest",
+   "code": "BUC",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Romania",
+   "crest": null,
+   "aliases": [
+    "tiriac open",
+    "tiriac open presented by unicredit"
+   ]
+  },
+  {
+   "id": "estoril-open",
+   "name": "Estoril Open",
+   "shortName": "Estoril",
+   "code": "EST",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Portugal",
+   "crest": null,
+   "aliases": [
+    "millennium estoril open"
+   ]
+  },
+  {
+   "id": "open-occitanie",
+   "name": "Open Occitanie",
+   "shortName": "Montpellier",
+   "code": "MTP",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "south of france open",
+    "montpellier open"
+   ]
+  },
+  {
+   "id": "stuttgart-open",
+   "name": "Stuttgart Open",
+   "shortName": "Stuttgart",
+   "code": "STU",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Germany",
+   "crest": null,
+   "aliases": [
+    "boss open"
+   ]
+  },
+  {
+   "id": "geneva-open",
+   "name": "Geneva Open",
+   "shortName": "Geneva",
+   "code": "GEN",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Switzerland",
+   "crest": null,
+   "aliases": [
+    "gonet geneva open"
+   ]
+  },
+  {
+   "id": "lyon-open",
+   "name": "Grand Prix Auvergne-Rhône-Alpes",
+   "shortName": "Lyon",
+   "code": "LYO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "France",
+   "crest": null,
+   "aliases": [
+    "open parce",
+    "lyon open 2026"
+   ]
+  },
+  {
+   "id": "swiss-open",
+   "name": "Swiss Open",
+   "shortName": "Gstaad",
+   "code": "GST",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Switzerland",
+   "crest": null,
+   "aliases": [
+    "efg swiss open gstaad"
+   ]
+  },
+  {
+   "id": "croatia-open",
+   "name": "Croatia Open",
+   "shortName": "Umag",
+   "code": "UMA",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Croatia",
+   "crest": null,
+   "aliases": [
+    "plava laguna croatia open umag"
+   ]
+  },
+  {
+   "id": "european-open",
+   "name": "European Open",
+   "shortName": "Brussels",
+   "code": "EUR",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Belgium",
+   "crest": null,
+   "aliases": [
+    "bnp paribas fortis european open"
+   ]
+  },
+  {
+   "id": "almaty-open",
+   "name": "Almaty Open",
+   "shortName": "Almaty",
+   "code": "ALM",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Kazakhstan",
+   "crest": null,
+   "aliases": [
+    "almaty open 2026"
+   ]
+  },
+  {
+   "id": "chengdu-open",
+   "name": "Chengdu Open",
+   "shortName": "Chengdu",
+   "code": "CDU",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "chengdu open 2026"
+   ]
+  },
+  {
+   "id": "hangzhou-open",
+   "name": "Hangzhou Open",
+   "shortName": "Hangzhou",
+   "code": "HZA",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "China",
+   "crest": null,
+   "aliases": [
+    "hangzhou open 2026"
+   ]
+  },
+  {
+   "id": "los-cabos-open",
+   "name": "Los Cabos Open",
+   "shortName": "Los Cabos",
+   "code": "LOS",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Mexico",
+   "crest": null,
+   "aliases": [
+    "mifel los cabos open"
+   ]
+  },
+  {
+   "id": "winston-salem-open",
+   "name": "Winston-Salem Open",
+   "shortName": "Winston-Salem",
+   "code": "WSA",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "winston salem open 2026"
+   ]
+  },
+  {
+   "id": "vienna-open",
+   "name": "Vienna Open",
+   "shortName": "Vienna",
+   "code": "VIE",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Austria",
+   "crest": null,
+   "aliases": [
+    "erste bank open"
+   ]
+  },
+  {
+   "id": "stockholm-open",
+   "name": "Stockholm Open",
+   "shortName": "Stockholm",
+   "code": "STO",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Sweden",
+   "crest": null,
+   "aliases": [
+    "bnp paribas nordic open",
+    "stockholm open 2026"
+   ]
+  },
+  {
+   "id": "delray-beach-open",
+   "name": "Delray Beach Open",
+   "shortName": "Delray Beach",
+   "code": "DLB",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "United States",
+   "crest": null,
+   "aliases": [
+    "delray beach open by vitarich"
+   ]
+  },
+  {
+   "id": "swiss-indoors-basel",
+   "name": "Swiss Indoors",
+   "shortName": "Basel",
+   "code": "BSL",
+   "sportId": "tennis",
+   "leagueId": "atp-tour",
+   "country": "Switzerland",
+   "crest": null,
+   "aliases": [
+    "swiss indoors basel",
+    "basel open"
+   ]
+  }
+ ],
+ "owners": [
+  {
+   "id": "beemok-capital",
+   "name": "Beemok Capital",
+   "type": "private-company",
+   "parentId": null,
+   "country": "United States",
+   "via": "Ben Navarro",
+   "note": "Family investment firm founded by Ben Navarro; owner of the Cincinnati Open (tennis.com/Beemok press)."
+  }
+ ],
+ "sponsors": [
+  {
+   "id": "mubadala",
+   "name": "Mubadala Investment Company",
+   "ownerId": "mubadala",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Abu Dhabi sovereign fund; sole title sponsor of the Mubadala DC Open (ATP/WTA 500, Washington DC, 2026-2030) and host sponsor of the Rio Open (rioopen.com); title sponsor of the Mubadala Abu Dhabi Open (WTA)."
+  },
+  {
+   "id": "dubai-duty-free",
+   "name": "Dubai Duty Free",
+   "ownerId": "investment-corporation-of-dubai",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "ddf"
+   ],
+   "note": "Owner, organiser and title sponsor of the Dubai Duty Free Tennis Championships (ATP 500 + WTA 1000, Dubai); a holding in the Investment Corporation of Dubai's Retail & Others portfolio."
+  },
+  {
+   "id": "infosys",
+   "name": "Infosys",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Listed on the ATP Tour's official partners as 'Infosys - DIGITAL INNOVATION PARTNER' (atptour.com/en/-/partners, fetched 25 Sep 2026). Infosys Ltd is a Mumbai-listed IT services company; no state shareholder claimed and its partnership start year was not verifiable here (infosys.com blocks automated access)."
+  },
+  {
+   "id": "nitto",
+   "name": "Nitto Denko",
+   "ownerId": null,
+   "ownership": null,
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "nitto denko corporation"
+   ],
+   "note": "Title sponsor of the Nitto ATP Finals through 2030. Nitto Denko is a Tokyo-listed Japanese materials company (Wikipedia lead, not cited as source); ownerId left null pending a filing check."
+  },
+  {
+   "id": "rolex",
+   "name": "Rolex",
+   "ownerId": "rolex-sa",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [],
+   "note": "Title sponsor of the Rolex Shanghai Masters, Rolex Paris Masters and Rolex Monte-Carlo Masters; Rolex SA is held by the Hans Wilsdorf Foundation (private foundation, no state owner)."
+  },
+  {
+   "id": "exxonmobil-qatar",
+   "name": "ExxonMobil (Qatar Open presenting sponsor)",
+   "ownerId": "exxon-mobil-corporation",
+   "ownership": "owned",
+   "tier": "unrated",
+   "status": "unrated",
+   "verdict": null,
+   "claimIds": [],
+   "aliases": [
+    "exxon mobil"
+   ],
+   "note": "Presenting/title sponsor of the Qatar Open ATP 500 in Doha (atpqataropen.com sponsors page); ExxonMobil Corporation is a US-listed oil major."
+  }
+ ],
+ "kits": [],
+ "deals": [
+  {
+   "id": "atp-tour-pif",
+   "clubId": null,
+   "orgName": "ATP Tour",
+   "sponsorId": "pif",
+   "placement": "league-partner",
+   "from": "2024",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "ATP Tour - PIF becomes Premier Partner of the ATP and naming partner of the ATP Rankings",
+    "date": "2025-10-23",
+    "url": "https://www.atptour.com/en/news/pif-atp-premier-partner-announcement-2025",
+    "note": "ATP announcement: PIF elevated to Premier Partner and first-ever naming partner of the 'PIF ATP Rankings'. PIF's partner page at bnpparibasopen.com/partners/pif also brands it 'Platinum Partner of the ATP Tour' and 'exclusive naming partner of both the ATP and WTA Rankings' (fetched 25 Sep 2026); the atptour.com rankings page shows 'PIF ATP Rankings'."
+   },
+   "leagueId": "atp-tour",
+   "note": "Rankings naming partner (PIF ATP Rankings) and ATP Premier/Platinum Partner. The initial rankings naming deal was announced in August 2024; the 2025 announcement extended it to Premier Partner."
+  },
+  {
+   "id": "atp-tour-infosys",
+   "clubId": null,
+   "orgName": "ATP Tour",
+   "sponsorId": "infosys",
+   "placement": "league-partner",
+   "from": null,
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "atptour.com official partners page",
+    "date": "2026-09-25",
+    "url": "https://www.atptour.com/en/-/partners",
+    "note": "Listed as 'Infosys - DIGITAL INNOVATION PARTNER'. Start year and terms not published on that page; infosys.com blocks automated access."
+   },
+   "leagueId": "atp-tour",
+   "note": "Tour-wide digital innovation partner."
+  },
+  {
+   "id": "atp-finals-nitto",
+   "clubId": null,
+   "orgName": "ATP Finals (Turin)",
+   "sponsorId": "nitto",
+   "placement": "league-partner",
+   "from": "2017",
+   "to": "2030",
+   "value": null,
+   "source": {
+    "name": "ATP Tour - Nitto extends as title sponsor of the ATP Finals through 2030",
+    "date": "2025-11-13",
+    "url": "https://www.atptour.com/en/news/nitto-atp-finals-title-sponsor-extension-2030",
+    "note": "Nitto Denko extends as title sponsor of the season-finale ATP Finals in Turin through 2030; the 2026 edition runs 15-22 Nov 2026 at the Inalpi Arena."
+   },
+   "leagueId": "atp-tour",
+   "note": "Event title sponsorship recorded as an org deal because the event-host shape does not exist; start year 2017 is the Nitto deal's commonly cited start and was not re-verified against a primary source here."
+  },
+  {
+   "id": "qatar-open-exxonmobil-qatar",
+   "clubId": null,
+   "orgName": "Qatar Open (ATP 500, Doha)",
+   "sponsorId": "exxonmobil-qatar",
+   "placement": "league-partner",
+   "from": "2026",
+   "to": null,
+   "value": null,
+   "source": {
+    "name": "Qatar Open sponsors page",
+    "date": "2026-09-25",
+    "url": "https://www.atpqataropen.com/",
+    "note": "Presenting/title sponsor of the Qatar Open ATP 500 in Doha (atpqataropen.com sponsors page); ExxonMobil Corporation is a US-listed oil major."
+   }
+  }
+ ],
+ "claims": [
+  {
+   "id": "atp-pif-sportswashing-debate-2024",
+   "ownerIds": [
+    "government-of-saudi-arabia",
+    "saudi-pif"
+   ],
+   "text": "Human-rights groups and former players publicly criticised the ATP's Saudi partnerships as sportswashing when PIF became the naming partner of the ATP Rankings in 2024, citing the kingdom's human-rights record.",
+   "short": "ATP's PIF deal called sportswashing",
+   "source": {
+    "name": "The Associated Press (via atptour-adjacent coverage)",
+    "date": "2024-08-15",
+    "url": "https://apnews.com/article/atp-pif-saudi-arabia-tennis-rankings-sponsor",
+    "note": "Coverage of the ATP-PIF rankings naming deal announcement."
+   },
+   "reviewed": false
+  }
+ ],
+ "proposedRatings": [
+  {
+   "sponsorId": "pif",
+   "tier": "serious",
+   "ownerId": "saudi-pif",
+   "claimIds": [
+    "saudi-executions-2024",
+    "khashoggi-assessment",
+    "atp-pif-sportswashing-debate-2024"
+   ],
+   "reasoning": "Saudi state sovereign wealth fund chaired by the crown prince; Premier/Platinum Partner of the ATP Tour and names the PIF ATP Rankings. State money: record 345 executions in 2024 and the Khashoggi assessment -> serious (severe reserved for live armed conflict)."
+  },
+  {
+   "sponsorId": "mubadala",
+   "tier": "serious",
+   "ownerId": "mubadala",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Abu Dhabi government sovereign fund; sole title sponsor of the Mubadala DC Open (ATP/WTA 500, 2026-2030) and host sponsor of the Rio Open. UAE state money while the 2024 mass-trial convictions (43 life sentences, upheld 2025) stand -> serious."
+  },
+  {
+   "sponsorId": "dubai-duty-free",
+   "tier": "serious",
+   "ownerId": "investment-corporation-of-dubai",
+   "claimIds": [
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+   ],
+   "reasoning": "Owned by the Investment Corporation of Dubai (the Dubai government's investment arm) and owns/organises/titles the Dubai ATP 500. Dubai state money in the UAE mass-trial context -> serious."
+  },
+  {
+   "sponsorId": "qatar-tennis-federation",
+   "tier": "serious",
+   "ownerId": "government-of-qatar",
+   "claimIds": [
+    "government-of-qatar-record"
+   ],
+   "reasoning": "Qatari state tennis federation organising the ATP 500 in Doha. State body; migrant-worker abuses documented around the 2022 World Cup with outstanding remedy -> serious."
+  }
+ ],
+ "unsourced": [
+  "Event-host facts (schema does not fit them yet), each with source. Title sponsors verified per event, 2026 season: Nitto ATP Finals (Turin, 15-22 Nov 2026, Inalpi Arena; atptour.com Nitto extension announcement, 2025-11-13), Rolex Shanghai Masters (atptour.com tournament page, fetched 25 Sep 2026), Rolex Paris Masters (atptour.com), Mutua Madrid Open (mutuamadridopen.com), Internazionali BNL d'Italia (italianopen.tennis, title sponsor BNL/BNP Paribas), National Bank Open (nationalbankopen.com, title sponsor National Bank of Canada), Rolex Monte-Carlo Masters (montecarlotennismasters.com).",
+  "Event-host fact: the 2026 Next Gen ATP Finals are in Reggio Calabria, Italy, 9-13 Dec 2026 at the PalaCalafiore, organised by the ATP with the Italian Tennis and Padel Federation (FITP), $2m prize money (atptour.com, 'Reggio Calabria to host 2026 Next Gen ATP Finals').",
+  "Event-host fact: PIF is a Premier Sponsor of the BNP Paribas Open at Indian Wells and describes itself as Platinum Partner of the ATP Tour, Global Partner of the WTA Tour, exclusive naming partner of the ATP and WTA Rankings, and Presenting Partner of the WTA Finals (bnpparibasopen.com/partners/pif, fetched 25 Sep 2026). The WTA Finals line likely predates the Finals' move from Riyadh and needs a date check.",
+  "Event-host fact: Mubadala is sole title sponsor of the Mubadala DC Open (combined ATP/WTA 500, Washington DC, 24 Jul-2 Aug 2026) under a five-year 2026-2030 agreement, after co-titling with Citi 2023-2025 (mubadala.com/en/tennis; mubadaladcopen.com).",
+  "Event-host fact: the Dubai Duty Free Tennis Championships (ATP 500 + WTA 1000, Dubai) is 'owned and organised by Dubai Duty Free and held under the patronage of HH Sheikh Mohammed Bin Rashid Al Maktoum', Ruler of Dubai (dubaidutyfreetennischampionships.com/tournament/about-the-tournament/); DDF is a holding in the Investment Corporation of Dubai's Retail & Others portfolio (web.archive.org ICD capture), and ICD is 'the principal investment arm of the Government of Dubai'.",
+  "Event-host fact: Rio Open presented by Claro (ATP 500, Rio de Janeiro, 16-22 Feb 2026) - presenting sponsor Claro; Mubadala and Emirates listed among host sponsors (rioopen.com sponsors page, fetched 25 Sep 2026).",
+  "Event-host fact: Qatar Open (ATP 500, Doha, 16-21 Feb 2026) is organised by the Qatar Tennis Federation with ExxonMobil as presenting/title sponsor (atpqataropen.com, fetched 25 Sep 2026).",
+  "Event-host facts, Wikipedia-lead level (tournament sites unreachable or not yet opened; titles taken from event branding and need primary-source confirmation before publication): Nexo Dallas Open (ATP 500), ABN AMRO Open Rotterdam (ATP 500), Bitpanda Hamburg Open (ATP 500), BMW Open by Bitpanda Munich (ATP 500), Terra Wortmann Open Halle (ATP 500), Kinoshita Group Japan Open Tokyo (ATP 500), Abierto Mexicano Telcel presented by HSBC (ATP 500), HSBC Championships Queen's (ATP 500), Libema Open Rosmalen (ATP 250), BOSS Open Stuttgart (ATP 250), Gonet Geneva Open (ATP 250), Vanda Pharmaceuticals Mallorca Championships (ATP 250), Lexus Eastbourne Open (ATP 250), Nordea Swedish Open Båstad (ATP 250), EFG Swiss Open Gstaad (ATP 250), Generali Open Kitzbühel (ATP 250), Plava Laguna Croatia Open Umag (ATP 250), Millennium Estoril Open (ATP 250, back on the 2026 calendar), Țiriac Open presented by UniCredit Bucharest (ATP 250), IEB+ Argentina Open Buenos Aires (ATP 250), BCI Chile Open Santiago (ATP 250), Fayez Sarofim U.S. Men's Clay Court Championships Houston (ATP 250), BNP Paribas Fortis European Open Brussels (ATP 250), Mifel Los Cabos Open (ATP 250), Erste Bank Open Vienna (ATP 500), Open Occitanie Montpellier (ATP 250), Grand Prix Hassan II Marrakech (ATP 250), Grand Prix Auvergne-Rhône-Alpes Lyon (ATP 250), Almaty Open (ATP 250), Chengdu Open (ATP 250), Hangzhou Open (ATP 250), Delray Beach Open (ATP 250), Winston-Salem Open (ATP 250), ASB Classic Auckland (ATP 250), Brisbane International (ATP 250), Adelaide International (ATP 250), Hong Kong Open (ATP 250; Bank of China title per event branding).",
+  "Event-host facts, team events on the ATP calendar: United Cup (combined ATP/WTA team event, Perth and Sydney, 18 teams, week of 5 Jan 2026), Davis Cup Qualifiers first round (week of 2 Feb 2026, ties in Düsseldorf, Quito, Plovdiv, Bengaluru, Tatabánya and elsewhere), Davis Cup Qualifiers second round (week of 14 Sep 2026), Laver Cup (London, 25-27 Sep 2026, $1.5m per player prize), Davis Cup Finals (Bologna, SuperTennis Arena, week of 23 Nov 2026) - all from the Wikipedia 2026 ATP Tour schedule tables (every row read 25 Sep 2026); no ATP-run commercial partner for these was verified.",
+  "Tour-level: Infosys' ATP digital-innovation partnership start year was not verifiable (infosys.com returns 403 to automated fetches, including via web.archive.org); only the on-site 'DIGITAL INNOVATION PARTNER' label on atptour.com/en/-/partners (fetched 25 Sep 2026) is confirmed.",
+  "Tour-level: Nitto Denko company facts (Tokyo-listed, Osaka-headquartered materials maker) come from Wikipedia and were used only as a lead; no filing-level ownership check was done, so the nitto sponsor's ownerId stays null.",
+  "Event: the Six Kings Slam (Riyadh, October 2026) is a PIF-backed exhibition, not an ATP Tour event; excluded from the club list.",
+  "Event: the 2026 United Cup features 18 teams; the 2026 Davis Cup Finals in Bologna feature 8 teams (Wikipedia schedule rows read 25 Sep 2026).",
+  "Target note (from targets.json dataNotes): SURJ Sports Investment is linked to a 2028 ATP Masters 1000 at Qiddiya; the deal was not re-verified in this pass and needs a primary source before use. Surj is already in normalized/ (surj-sports-investment, parent saudi-pif).",
+  "DC Open dates: mubadaladcopen.com says the 2026 event runs 24 Jul-2 Aug 2026; the Wikipedia 2026 ATP Tour row lists the week of 27 Jul. The two are compatible (Monday 27 Jul is mid-event) but the exact start date needs one primary source.",
+  "Tournament count arithmetic: the target's official feed says 62 events; the Wikipedia 2026 ATP Tour calendar has 67 rows = 62 ATP-owned events (4 GS + ATP Finals + Next Gen + 9 M1000 + 16 500 + 29 250 = 61... see note below) plus United Cup, Davis Cup Q1/Q2/Finals and Laver Cup. All 67 rows were read off the page on 25 Sep 2026; the discrepancy is recorded rather than resolved because wtatour.com blocks automated access (Cloudflare 403).",
+  "Chinese events state-links: the China Open (Beijing), Chengdu Open, Hangzhou Open and Hong Kong Open are likely organised by municipal sports bodies or state-linked operators, but tournament-by-tournament ownership research was not completed in this pass.",
+  "normalized owners.json has 'mubadala' with parentId null; its ultimate parent is the Government of Abu Dhabi (Abu Dhabi sovereign fund). Needs an update in normalized rather than the research file.",
+  "Deal dates: the ATP-PIF rankings naming deal was first announced in August 2024; the atptour.com Premier Partner elevation announcement (Oct 2025) is the cited source. The 2017 Nitto ATP Finals title-sponsorship start year was not re-verified against a primary source.",
+  "qatar-tennis-federation record dropped: tournament organiser (Qatari government body), not a sponsor."
+ ]
+}

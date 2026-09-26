@@ -1,0 +1,25 @@
+{
+  "id": "fa-cup-emirates-title",
+  "clubId": null,
+  "orgName": "The Emirates FA Cup",
+  "sponsorId": "emirates",
+  "placement": "league-partner",
+  "from": "2015",
+  "to": "2027-28",
+  "value": {
+    "amount": 10,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 13
+  },
+  "source": {
+    "name": "Emirates Media Centre, 'Emirates FA Cup Title Partnership Extended Until 2028'",
+    "date": "2024-08-01",
+    "url": "https://www.emirates.com/media-centre/emirates-fa-cup-title-partnership-extended-until-2028/",
+    "note": "Sponsor's own press release (fetched 25 Sep 2026): four-year extension from the start of 2024/25, competition 'will continue to be called the Emirates FA Cup until 2028'; partnership first began in 2015. Value not stated in the release."
+  },
+  "leagueId": "fa-cup",
+  "note": "Title sponsor since 2015, renewed 2018 and 2021, extended 1 Aug 2024 for four years through 2027-28. Sportcal (1 Aug 2024, fetched) reported the renewal at about GBP 10m a season, down from about $18.5m under the 2021 deal - press estimate, so upTo true."
+}
