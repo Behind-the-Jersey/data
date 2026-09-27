@@ -1,0 +1,31 @@
+{
+  "id": "bp-major-shareholders-2025",
+  "kind": "ownership",
+  "ownerIds": [
+    "bp-plc"
+  ],
+  "text": "BP p.l.c. is a listed company whose largest shareholder is the asset manager BlackRock. Its Annual Report and Form 20-F 2025 lists, as per each holder's most recent notification, BlackRock, Inc. (7.37%), Elliott Investment Management, L.P. (5.00%) and Norges Bank (3.99%) as holding 3% or more of the voting rights in its ordinary shares.",
+  "source": {
+    "name": "bp: Annual Report and Form 20-F 2025, Shareholder information, 'Major shareholders' - 'Substantial shareholders'",
+    "date": "2026-03-06",
+    "url": "https://www.bp.com/api/files/6cqieuqhq4no/master/33M2iHp8A6d07McKzKqLNP/12b5d4eccb4e02093d1ad9efc0d6a746/bp-annual-report-and-form-20f-2025.pdf",
+    "quote": "BlackRock, Inc. 1,504,412,502 7.37 1,504,412,502 7.37 Elliott Investment Management, L.P. 806,743,232 5.00 806,743,232 5.00 Norges Banka 641,036,583 3.99 641,036,583 3.99",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Reuters, via Yahoo Finance UK: Elliott increases BP stake to just over 5%",
+      "date": "2025-04-22",
+      "url": "https://uk.finance.yahoo.com/news/elliott-increases-bp-stake-just-155236058.html",
+      "quote": "This makes Elliott BP's second-biggest shareholder after Blackrock at 9.2% and ahead of Vanguard at 4.95%, according to LSEG data.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

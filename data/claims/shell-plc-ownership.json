@@ -1,0 +1,31 @@
+{
+  "id": "shell-plc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "shell-plc"
+  ],
+  "text": "Shell is the brand of Shell plc, a listed company whose largest shareholder is the asset manager BlackRock. Shell's 2025 annual report on Form 20-F lists BlackRock as the only investor with 5% or more of its ordinary shares (8.1% at 4 March 2026).",
+  "source": {
+    "name": "Shell plc: Annual Report on Form 20-F for the year ended December 31, 2025 (SEC EDGAR)",
+    "date": "2026-03-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/1306965/000162828026017024/shel-20251231.htm",
+    "quote": "Interests of investors with 5% or more of the Company's ordinary shares at March 4, 2026 are provided below. The information provided includes the percentage of issued share capital as at March 4, 2026. Investor Ordinary Shares Number [A] % [B] BlackRock, Inc. 457,454,997 8.1",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Simply Wall St, via Yahoo Finance: Shell plc (LON:SHEL) is largely controlled by institutional shareholders who own 67% of the company",
+      "date": "2025-05-31",
+      "url": "https://finance.yahoo.com/news/shell-plc-lon-shel-largely-090018893.html",
+      "quote": "The company's largest shareholder is BlackRock, Inc., with ownership of 8.2%.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

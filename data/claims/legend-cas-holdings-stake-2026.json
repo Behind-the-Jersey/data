@@ -1,0 +1,32 @@
+{
+  "id": "legend-cas-holdings-stake-2026",
+  "kind": "ownership",
+  "ownerIds": [
+    "legend-holdings",
+    "chinese-academy-of-sciences-holdings"
+  ],
+  "text": "Chinese Academy of Sciences Holdings (CAS Holdings) is Legend Holdings' largest shareholder, with 29.04% of its shares at 30 June 2026.",
+  "source": {
+    "name": "Legend Holdings Corporation, 2026 Interim Report (HKEX filing): interests of the substantial shareholders",
+    "date": "2026-09-22",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0922/2026092200438.pdf",
+    "quote": "CAS Holdings Domestic Shares Beneficial owner 684,376,910 63.11% 29.04%",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "U.S. House Select Committee on the CCP: letter from Chairman Mike Gallagher to Navy Exchange Service Command",
+      "date": "2023-10-04",
+      "url": "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/10.04.2023-letter-to-navy-exchange.pdf",
+      "quote": "the largest shareholder of Lenovo is Legend Holdings, a Chinese entity whose largest shareholder is the Chinese Academy of Sciences.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

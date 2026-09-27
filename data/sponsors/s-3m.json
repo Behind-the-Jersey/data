@@ -3,12 +3,24 @@
   "name": "3M",
   "ownerId": "3m-company",
   "ownership": "owned",
-  "tier": "none",
+  "tier": "concern",
   "status": "rated",
-  "verdict": "Owned by 3M Company. Nothing found.",
+  "verdict": "US juries found for service members whose hearing, they said, 3M's Combat Arms earplugs damaged.",
   "claimIds": [
-    "3m-company-record"
+    "3m-company-ownership",
+    "3m-earplug-jury-verdicts",
+    "3m-combat-arms-earplugs"
   ],
   "aliases": [],
-  "note": "Rating note: Serious conduct record but private owner, so 'none' under the ownership-led method rather than 'concern'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): 3M Company (listed; largest holders Vanguard 8.89%, BlackRock 7.60%, JPMorgan 7.60%, State Street 5.10%) - US federal juries found for service members in 10 of 16 Combat Arms earplug bellwether trials (2021-2022) over hearing damage; no qualifying PFAS finding of harm to people yet.",
+  "why": {
+    "text": "In 2021 and 2022 US juries found for service members in 10 of 16 test trials over 3M's Combat Arms earplugs, which they said damaged their hearing, awarding nearly $300 million. In 2023 3M agreed to pay $6 billion to settle the claims.",
+    "claimIds": [
+      "3m-earplug-jury-verdicts",
+      "3m-combat-arms-earplugs",
+      "3m-company-ownership"
+    ],
+    "messageLine": "US juries found for service members in 10 of 16 test trials who said 3M's Combat Arms earplugs damaged their hearing.",
+    "status": "draft"
+  }
 }

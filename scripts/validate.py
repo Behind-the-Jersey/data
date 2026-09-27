@@ -15,7 +15,7 @@ import sys
 import jsonschema
 
 from common import (DATA, PLACEHOLDER_TEXT, PLACEHOLDER_URL, SCHEMA, SEASON, TYPES, YEAR, claim_sources, current_kits,
-                    kit_level, load, owner_chain, publisher, rating_hold, read_json)
+                    kit_level, load, owner_chain, publisher, rating_hold, rating_owners, read_json, why_problem)
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--strict', action='store_true', help='fail on warnings too')
@@ -114,22 +114,35 @@ for k, s in R['sponsors'].items():
         err(w, f'tier "{s["tier"]}" needs at least one claim (for "none": the sourced ownership record)')
     if s['tier'] != 'unrated' and not s['ownerId']:
         err(w, f'tier "{s["tier"]}" needs an owner')
-    chain = set(owner_chain(owners, s['ownerId']))
+    reach = set(rating_owners(s, owners, claims))
+    kinds = [claims[c].get('kind') for c in s['claimIds'] if c in claims]
+    if s['tier'] != 'unrated' and 'ownership' not in kinds:
+        err(w, f'tier "{s["tier"]}" needs an ownership claim: whose money it is (METHOD.md)')
+    if s['tier'] == 'none' and 'record' in kinds:
+        err(w, 'rated "none" but cites a record claim: a record that passes METHOD.md is a rating, and one that '
+               'doesn\'t isn\'t cited')
+    for c in s['claimIds']:
+        if c in claims and claims[c].get('kind') == 'record' and not reach & set(claims[c]['ownerIds']):
+            err(w, f'cites record claim "{c}", which is about an owner the link doesn\'t reach (not in the owner '
+                   'chain, nor named in its ownership claims)')
     why = s.get('why')
     if why:
         for c in why['claimIds']:
             if c not in claims:
                 err(w, f'why cites unknown claim "{c}"')
-            elif not chain & set(claims[c]['ownerIds']):
+            elif c not in s['claimIds']:
+                err(w, f'why cites claim "{c}", which the sponsor doesn\'t list in claimIds (the page lists its evidence)')
+            elif not reach & set(claims[c]['ownerIds']):
                 err(w, f'why cites claim "{c}", which is about an owner outside this sponsor\'s chain')
         if why['status'] != 'reviewed':
             warn(w, 'why text is a draft (status: draft)')
+    problem = why_problem(s, claims)
+    if problem:
+        err(w, f'rated "{s["tier"]}": {problem}. METHOD.md: every rating above "none" names whose money it is and '
+               'the human-rights record behind it. Fix the evidence or set the tier back.')
     hold = rating_hold(s, claims)
-    if hold:
+    if hold and not problem:
         warn(w, f'rated "{s["tier"]}" but published as not rated yet until the evidence is complete ({hold})')
-    if s['tier'] in ('serious', 'severe') and not why:
-        warn(w, f'rated {s["tier"]} without a why text citing a sourced abuse claim (METHOD.md: state ownership '
-                'alone is not a tier). Fix the evidence or set the sponsor back to unrated.')
 
 # ------------------------------------------------------------------ sources and formats
 DATE = re.compile(r'^\d{4}(-\d{2}(-\d{2})?)?$')

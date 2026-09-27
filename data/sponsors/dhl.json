@@ -3,12 +3,12 @@
   "name": "DHL",
   "ownerId": "deutsche-post-dhl",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "DHL Group (Deutsche Post AG) is a listed German logistics company, but it is not purely private: KfW Bankengruppe, the state-owned German development bank, holds….",
+  "verdict": "KfW, the German state development bank, holds about 17% of DHL Group.",
   "claimIds": [
     "deutsche-post-dhl-record"
   ],
   "aliases": [],
-  "note": "Rating note: Judgement call: 17.7% via KfW is a partial, not controlling, state stake, so 'concern' per the rubric. DHL would argue over 78% is free float and it is not state-controlled - which is why it is not 'serious'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: Germany has no record of serious abuses."
 }

@@ -3,13 +3,13 @@
   "name": "Capital One",
   "ownerId": "capital-one-owner",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Capital One Financial Corp.",
+  "verdict": "A listed company whose largest holders are investment firms.",
   "claimIds": [
-    "capital-one-owner-record",
-    "capital-one-cfpb-add-on-products-2012"
+    "capital-one-major-holders-2026",
+    "capital-one-owner-record"
   ],
   "aliases": [],
-  "note": "Rating note: Capital One has paid significant regulatory settlements including $425 million in 2023 for 360 Savings interest-rate practices and $140 million in 2020 for CFPB credit card marketing practices."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
 }
