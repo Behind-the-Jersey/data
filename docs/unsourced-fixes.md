@@ -13,3 +13,5 @@
 - WSL league-partner deals for airbnb, bbc, sky-sports and wtw removed 2026-09-26: the cited wslfootball.com homepage shows Barclays, EA Sports FC, Subway and a Tesco schools tie-in but not these four partnerships. The wta/dp research recorded them from the same page pre-restructure; re-add when the WSL publishes a partner roster page.
 
 - ak-bars-bank-rubin-kazan deal removed 2026-09-26: cited issue #273, which does not contain the partnership; re-source from the club's partner page.
+
+- wta-finals-pif-riyadh deal removed 2026-09-26: the cited The National article describes a Saudi Tennis Federation hosting deal with PIF as STF's backer, not a WTA Finals PIF sponsorship. Re-add when a primary source names PIF as the sponsor.
