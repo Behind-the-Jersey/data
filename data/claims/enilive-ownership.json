@@ -1,10 +1,11 @@
 {
   "id": "enilive-ownership",
+  "kind": "ownership",
   "ownerIds": [
     "eni"
   ],
-  "text": "Enilive is Eni's company dedicated to mobility products and services; after Eni sold further stakes to KKR, KKR completed the acquisition of a 30% stake of Enilive's share capital in April 2025, leaving Eni with the majority.",
-  "short": "Enilive (Eni majority; KKR 30%)",
+  "text": "Enilive is Eni's company dedicated to mobility products and services; KKR's holding in Enilive reached 30% of the share capital, completed in April 2025.",
+  "short": "Enilive (Eni; KKR 30%)",
   "source": {
     "name": "Eni press release: Eni – KKR completes the acquisition of an additional stake in the share capital of Enilive",
     "date": "2025-04-11",
@@ -16,6 +17,16 @@
     }
   },
   "additionalSources": [
+    {
+      "name": "KKR press release (via EQS News): KKR To Make Further Investment In Enilive",
+      "date": "2025-02-18",
+      "url": "https://www.eqs-news.com/news/category/kkr-to-make-further-investment-in-enilive/f7927197-ae2a-4adc-95aa-fc839527c698_en",
+      "quote": "KKR has signed an agreement to acquire an additional 5% stake in Enilive from Eni for a consideration of €587.5 million, taking its total holding in Enilive to 30%.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
     {
       "name": "Eni press release: Enilive becomes Serie A Title sponsor with sponsorship agreement up until 2027",
       "date": "2024-02-05",
