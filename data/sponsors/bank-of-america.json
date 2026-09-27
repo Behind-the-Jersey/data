@@ -3,13 +3,12 @@
   "name": "Bank of America",
   "ownerId": "bank-of-america",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+  "verdict": "A listed company whose largest holders are investment firms.",
   "claimIds": [
-    "bank-of-america-record",
-    "bank-of-america-mortgage-settlement-2014"
+    "bank-of-america-major-holders-2026"
   ],
   "aliases": [],
-  "note": "Rating note: Fossil-fuel and settlement record is well documented but not 'sustained abuse', so concern not serious."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; the 2016 finding concerns hiring in 1993, more than 20 years ago; fossil finance and mortgage settlements are not human-rights findings."
 }

@@ -5,10 +5,20 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of….",
+  "verdict": "A US jury found that Cognizant intentionally discriminated against employees who were not South Asian or Indian.",
   "claimIds": [
-    "cognizant-record"
+    "cognizant-major-holders-2026",
+    "cognizant-palmer-discrimination-verdict-2024"
   ],
   "aliases": [],
-  "note": "Rating note: Tier call is the softest in the batch - the FCPA case is real but small relative to peer sets. 'none' would be defensible."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Cognizant (listed; 5% holders BlackRock and State Street, no state) - an October 2024 federal jury found a pattern or practice of intentional discrimination against non-South Asian and non-Indian employees; the verdict stands (post-trial motions denied Oct 2025, disparate-impact finding Dec 2025, case in phase two).",
+  "why": {
+    "text": "In October 2024 a unanimous US federal jury found that Cognizant engaged in a pattern or practice of intentional discrimination, on the basis of race and national origin, against employees who were not South Asian or Indian, in terminating staff from its pool of employees not assigned to a project. In December 2025 the court also found that its visa policies had a disparate impact on these employees.",
+    "claimIds": [
+      "cognizant-palmer-discrimination-verdict-2024",
+      "cognizant-major-holders-2026"
+    ],
+    "messageLine": "In 2024 a US federal jury found that Cognizant engaged in a pattern or practice of intentional discrimination against its non-South Asian and non-Indian employees.",
+    "status": "draft"
+  }
 }

@@ -5,18 +5,20 @@
   "ownership": "part-owned",
   "tier": "serious",
   "status": "rated",
-  "verdict": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and….",
+  "verdict": "Controlled by the Turkish state: its wealth fund owns 49.12% and a state golden share steers the board.",
   "claimIds": [
-    "turkiye-wealth-fund-record"
+    "turkish-airlines-state-ownership",
+    "turkey-kavala-detention"
   ],
   "aliases": [],
-  "note": "Rating note: State fund with a documented serious-abuse state record → serious. Arguable alternative is concern, because ownership is only ~49% and the rest is free float; the privileged state share and fund control tip it to serious. Confidence medium for that reason.",
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): the state's wealth fund owns 49.12% and a Treasury golden share carries privileged voting rights over board nominations (control).",
   "why": {
-    "text": "Turkish Airlines’ largest shareholder is the state’s Türkiye Wealth Fund, with 49.12%, and a government share gives the state control. Turkey has a documented record of serious human-rights abuses, including the purges after 2016 and attacks on press freedom. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "Turkey’s sovereign wealth fund owns 49.12% of Turkish Airlines, and a special share held by the state carries privileged voting rights over who is nominated to the board. Turkey has kept civil society leader Osman Kavala in prison since 2017, and in 2026 the European Court of Human Rights ruled that he was convicted to punish and silence him. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
-      "turkiye-wealth-fund-record"
+      "turkey-kavala-detention",
+      "turkish-airlines-state-ownership"
     ],
-    "messageLine": "Turkey has a documented record of serious human-rights abuses, including the purges after 2016 and attacks on press freedom.",
+    "messageLine": "Turkey has kept civil society leader Osman Kavala in prison since 2017, although the European Court of Human Rights ruled that he was convicted to punish and silence him.",
     "status": "draft"
   }
 }

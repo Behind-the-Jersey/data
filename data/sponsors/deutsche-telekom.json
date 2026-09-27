@@ -3,9 +3,9 @@
   "name": "Deutsche Telekom",
   "ownerId": "federal-republic-of-germany",
   "ownership": "part-owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Deutsche Telekom's own shareholder-structure page shows the Federal Republic of Germany as the anchor shareholder via KfW (approx.",
+  "verdict": "The German state holds about 28% of Deutsche Telekom, directly and through KfW.",
   "claimIds": [
     "federal-republic-of-germany-record"
   ],
@@ -13,5 +13,5 @@
     "telekom",
     "t-mobile"
   ],
-  "note": "Rating note: State is the largest single owner block → state link, but Germany's record is not seriously abusive → concern. Alternative reading: none. KfW stake note: https://www.kfw.de/About-KfW/Newsroom/Latest-News/News-Details_134528.html"
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: Germany has no record of serious abuses."
 }
