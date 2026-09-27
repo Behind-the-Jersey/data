@@ -1,12 +1,14 @@
 {
   "id": "celsius",
   "name": "CELSIUS",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "celsius-holdings-inc",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "celsius-holdings-ownership"
+  ],
   "aliases": [],
-  "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  "note": "Rating note for maintainer: CELSIUS is a brand owned by Celsius Holdings, Inc. (per the Aston Martin Aramco partner page); also a 4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25); no state or state-fund owner found in this run."
 }

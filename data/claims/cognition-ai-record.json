@@ -2,8 +2,8 @@
   "ownerIds": [
     "cognition-ai"
   ],
-  "text": "Cognition is an applied AI lab building end-to-end software agents; its headquarters are in San Francisco and it has raised over $400m from Founders Fund, Lux Capital, 8VC, Bain Capital Ventures, and other leading investors.",
-  "short": "Cognition is a San Francisco-based venture-backed AI lab (makers of Devin).",
+  "text": "Cognition operates Devin, the first autonomous software engineer. Cognition helps engineers operate more like architects: strategizing, designing systems, and focusing on problem solving, while agents handle the repetitive engineering work. Its headquarters are in San Francisco and it has raised over $400M from Founders Fund, Lux Capital, 8VC, Bain Capital Ventures, and other leading investors.",
+  "short": "Cognition operates Devin, the first autonomous software engineer; it is San Francisco-based and venture-backed.",
   "source": {
     "name": "Cognition – About",
     "date": "2026-09-27",
@@ -15,5 +15,6 @@
     }
   },
   "reviewed": false,
-  "id": "cognition-ai-record"
+  "id": "cognition-ai-record",
+  "kind": "ownership"
 }
