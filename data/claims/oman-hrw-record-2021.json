@@ -8,7 +8,12 @@
   "source": {
     "name": "Human Rights Watch - World Report 2021, Oman",
     "date": "2021-01",
-    "url": "https://www.hrw.org/world-report/2021/country-chapters/oman"
+    "url": "https://www.hrw.org/world-report/2021/country-chapters/oman",
+    "quote": "Under Sultan Haitham bin Tariq, freedom of expression remained squeezed.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

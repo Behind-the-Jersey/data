@@ -8,7 +8,12 @@
   "source": {
     "name": "Human Rights Watch - World Report 2026, Rwanda",
     "date": "2026-01",
-    "url": "https://www.hrw.org/world-report/2026/country-chapters/rwanda"
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/rwanda",
+    "quote": "The M23, at times with the support of Rwandan forces, carried out mass summary executions, arbitrary detention, torture, forced labor, forced recruitment including child recruitment.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

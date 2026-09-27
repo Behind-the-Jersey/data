@@ -8,7 +8,12 @@
   "source": {
     "name": "Human Rights Watch - Bahrain country page",
     "date": "2026",
-    "url": "https://www.hrw.org/middle-east/north-africa/bahrain"
+    "url": "https://www.hrw.org/middle-east/north-africa/bahrain",
+    "quote": "Twelve death row inmates remain at imminent risk of execution.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

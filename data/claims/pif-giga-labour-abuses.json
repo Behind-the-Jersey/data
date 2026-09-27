@@ -10,7 +10,11 @@
     "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
     "date": "2024-12-04",
     "url": "https://www.hrw.org/report/2024/12/04/die-first-and-ill-pay-you-later/saudi-arabias-giga-projects-built-widespread",
-    "note": "Qiddiya itself is not a case study in the report, but the report's finding covers PIF-funded giga-project construction generally; Qiddiya is a PIF giga-project."
+    "quote": "this report reveals that PIF-funded businesses and projects are among those exploiting and abusing migrant workers, including in NEOM, a PIF-funded giga-project",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

@@ -9,7 +9,11 @@
     "name": "France 24 (AFP) - Dakar Rally set for second Saudi outing despite 'sportswashing' row",
     "date": "2021-01-02",
     "url": "https://www.france24.com/en/live-news/20210102-dakar-rally-set-for-second-saudi-outing-despite-sportswashing-row",
-    "note": "AFP wire. Site returns 403 to some automated fetchers; content confirmed via rendered fetch."
+    "quote": "the second time the world's most gruelling event in motorsport's calendar has been held in the kingdom amid continued accusations of \"sportswashing\"",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

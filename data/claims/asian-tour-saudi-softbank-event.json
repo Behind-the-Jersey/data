@@ -11,8 +11,12 @@
   "source": {
     "name": "The International Series - PIF Saudi International event page and Partners page",
     "date": "2026-09-25",
-    "url": "https://www.internationalseries.com/en/schedule/pif-saudi-international-presented-by-softbank-investment-advisers-2026",
-    "note": "Partners page: https://www.internationalseries.com/en/partners (fetched 2026-09-25)."
+    "url": "https://www.internationalseries.com/en/partners",
+    "quote": "PIF Title sponsor of the PIF Saudi International. Softbank Presenting partner of the PIF Saudi International powered by SoftBank Investment Advisers.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

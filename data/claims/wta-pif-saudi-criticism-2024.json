@@ -10,7 +10,11 @@
     "name": "Tennis.com",
     "date": "2024-05-20",
     "url": "https://www.tennis.com/news/articles/saudi-arabia-pif-becomes-first-naming-rights-partner-wta-rankings-multiyear-deal",
-    "note": "Announcement coverage of the PIF WTA rankings naming deal; also notes Billie Jean King advocated engagement."
+    "quote": "Chris Evert and Martina Navratilova are among those who urged the WTA to stay out of Saudi Arabia",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

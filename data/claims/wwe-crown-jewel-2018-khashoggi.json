@@ -9,7 +9,11 @@
     "name": "WWE Q3 2018 earnings release",
     "date": "2018-10-25",
     "url": "https://corporate.wwe.com/about/news/2018/10-25-2018",
-    "note": "'Considering the heinous crime committed at the Saudi consulate in Istanbul the Company faced a very difficult decision... the Company has decided to uphold its contractual obligations to the General Sports Authority and stage the event.' Full-year 2018 guidance was predicated on staging the Riyadh event."
+    "quote": "Considering the heinous crime committed at the Saudi consulate in Istanbul the Company faced a very difficult decision as it relates to its event scheduled for November 2 in Riyadh.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

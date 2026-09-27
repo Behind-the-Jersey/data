@@ -10,7 +10,11 @@
     "name": "Engadget",
     "date": "2025-05-21",
     "url": "https://www.engadget.com/gaming/geoguessr-community-maps-go-dark-in-protest-of-ewc-ties-to-human-rights-abuses-221037118.html",
-    "note": "GeoGuessr AB later withdrew from EWC 2025; GamesBeat (2026-05-14) carries the same sportswashing framing."
+    "quote": "a sportswashing tool used by the government of Saudi Arabia to distract from and conceal its horrific human rights record",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

@@ -10,7 +10,11 @@
     "name": "US Treasury press release: Treasury Sanctions Rwanda Officials, Condemns Blatant Violations of Washington Peace Accords",
     "date": "2026-03-02",
     "url": "https://home.treasury.gov/news/press-releases/sb0411",
-    "note": "OFAC recent action of 2 Mar 2026 also lists the RDF SDN entry and DRC-related General License 1 (wind-down)."
+    "quote": "The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23), a U.S.- and United Nations (UN)-sanctioned armed group responsible for human rights abuses",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

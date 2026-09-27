@@ -8,7 +8,12 @@
   "source": {
     "name": "Human Rights Watch - World Report 2026, Indonesia chapter",
     "date": "2026-01-15",
-    "url": "https://www.hrw.org/world-report/2026/country-chapters/indonesia"
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/indonesia",
+    "quote": "Nine UN rights experts raised concerns that the food estate project had forcibly displaced Indigenous communities, permitted deforestation, threatened biodiversity, and authorized the deployment of five new battalions.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }

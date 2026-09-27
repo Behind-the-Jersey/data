@@ -5,13 +5,16 @@
     "saudi-pif",
     "government-of-saudi-arabia"
   ],
-  "text": "Zuffa Boxing and its allies lobbied for the Muhammad Ali Boxing Revival Act, which would let a 'Unified Boxing Organization' combine promotion, rankings and titles - removing Ali Act protections that separate promoters from sanctioning bodies. Thomas Hauser reports Zuffa's fighter contracts are less generous than the purses Turki Alalshikh had paid, and the Guardian's Karim Zidan writes the bill 'paves the way for Saudi to bypass established sanctioning bodies, undermine existing promoters, and ultimately, gut professional boxing'.",
-  "short": "Zuffa Boxing backed a US bill that would let it act as promoter, ranking body and title owner at once, weakening Ali Act fighter protections.",
+  "text": "TKO's new Zuffa Boxing venture with Sela, an entertainment subsidiary of Saudi Arabia's Public Investment Fund, and Turki Alalshikh backs the Muhammad Ali American Boxing Revival Act, introduced in Congress in 2025, which would let a 'Unified Boxing Organization' operate as an alternative to boxing's existing sanctioning bodies. The Guardian's Karim Zidan wrote that the bill 'paves the way for Saudi to bypass established sanctioning bodies, undermine existing promoters, and ultimately, gut professional boxing'.",
   "source": {
-    "name": "The Guardian - Thomas Hauser, 'Zuffa Boxing says it will save the sport - but the fine print shows that fighters may pay the price' (28 Jan 2026); Karim Zidan, 'How the Ali Act overhaul is clearing the path for a Saudi-backed takeover of boxing' (1 Aug 2025)",
-    "date": "2026-01-28",
-    "url": "https://www.theguardian.com/sport/2026/jan/28/zuffa-boxing-contract-dana-white-reform",
-    "note": "Second article: https://www.theguardian.com/sport/2025/aug/01/ali-act-saudi-boxing-reform-tko-zuffa-congress. The House passed the bill by voice vote on 24 Mar 2026 (ESPN, Michael Rothstein); Senate pending."
+    "name": "The Guardian - Karim Zidan, 'How the Ali Act overhaul is clearing the path for a Saudi-backed takeover of boxing'",
+    "date": "2025-08-01",
+    "url": "https://www.theguardian.com/sport/2025/aug/01/ali-act-saudi-boxing-reform-tko-zuffa-congress",
+    "quote": "This paves the way for Saudi to bypass established sanctioning bodies, undermine existing promoters, and ultimately, gut professional boxing.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "reviewed": false
 }
