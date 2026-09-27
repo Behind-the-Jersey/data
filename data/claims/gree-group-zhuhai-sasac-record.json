@@ -3,12 +3,28 @@
   "ownerIds": [
     "gree-group-zhuhai-sasac"
   ],
-  "text": "Gree Electric Appliances Inc. of Zhuhai (SZSE: 000651) is described as a majority state-owned enterprise principally by the city of Zhuhai; its historic largest shareholder, state-owned Gree Group, was owned by the Zhuhai Municipal People's Government. In December 2019 Gree Group sold most of its stake to the private equity vehicle Zhuhai Mingjun, leaving partial (not controlling) state ownership.",
-  "short": "Gree Electric Appliances Inc.",
+  "text": "Gree Electric Appliances Inc. of Zhuhai (SZSE: 000651) had Zhuhai Gree Group Co., Ltd. -- a state-owned entity controlled by the Zhuhai Municipal Government/SASAC -- as its largest, controlling shareholder (about 18-19% of shares) until December 2019, when Gree Group sold most of its stake to the private equity vehicle Zhuhai Mingjun, leaving Gree Group with a partial, non-controlling stake (3.44% as of end-2023) and the company with no controlling shareholder at all.",
   "source": {
     "name": "Zhuhai Gree Group company history (state-owned nature change); Shenzhen Stock Exchange filings on the 2019 Gree Group/Zhuhai Mingjun share transfer",
-    "date": "2024-06-08",
-    "url": "http://static.cninfo.com.cn/finalpage/2024-06-08/1220300050.PDF"
+    "date": "2024-04",
+    "url": "http://static.cninfo.com.cn/finalpage/2024-06-08/1220300050.PDF",
+    "quote": "On December 13, 2019, the Zhuhai Municipal People's Government and the State-owned Assets Supervision and Administration Commission of the State Council (SASAC) of Zhuhai City separately approved the share transfer.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Caixin Global, \"Gree's Parent Agrees to Sell 15% Stake to Hillhouse's PE Fund\"",
+      "url": "https://www.caixinglobal.com/2019-10-29/grees-parent-agrees-to-sell-15-stake-to-hillhouses-pe-fund-101476236.html",
+      "date": "2019-10-29",
+      "quote": "Zhuhai Gree Group Co. Ltd., controlled by the Zhuhai government, agreed to sell its 15% stake in the company to Zhuhai Mingjun Investment Partnership",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

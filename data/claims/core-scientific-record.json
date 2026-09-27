@@ -3,12 +3,16 @@
   "ownerIds": [
     "core-scientific"
   ],
-  "text": "Core Scientific is a listed US bitcoin miner and data-centre operator (Nasdaq: CORZ) with no state shareholder; its 2024 Chapter 11 reorganisation was a corporate event, not a rights finding.",
-  "short": "Core Scientific is a listed US bitcoin miner and data-centre operator (Nasdaq: CORZ) with no state shareholder; its 2024 Chapter 11 reorganisation was a corporate….",
+  "text": "Core Scientific, Inc. is a Nasdaq-listed (CORZ) bitcoin miner and data-centre operator. Per its 2026 proxy statement, its 5%+ holders are The Vanguard Group (10.8%), Situational Awareness (9.1%), Pentwater Capital Management (8.3%), BlackRock (7.4%), Two Seas Capital (5.5%), Susquehanna Securities (5.5%) and Citadel Securities (5.4%); no state shareholder is identified. A proposed 2025 all-stock acquisition by CoreWeave was terminated in October 2025 after stockholders voted against it.",
   "source": {
-    "name": "Nasdaq - Core Scientific, Inc. (CORZ) listing",
-    "date": "2026-09-24",
-    "url": "https://www.nasdaq.com/market-activity/stocks/corz"
+    "name": "Core Scientific, Inc. 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+    "date": "2026-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1839341/000119312526134857/d119389ddef14a.htm",
+    "quote": "5% Stockholders The Vanguard Group 33,960,320 10.8 % Situational Awareness 28,756,478 9.1 % Pentwater Capital Management LP 26,050,000 8.3 % BlackRock, Inc. 23,299,564 7.4 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

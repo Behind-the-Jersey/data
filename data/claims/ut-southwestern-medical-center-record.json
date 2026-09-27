@@ -3,12 +3,16 @@
   "ownerIds": [
     "ut-southwestern-medical-center"
   ],
-  "text": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT Southwestern Medical Center (away kit) is a state institution, the public medical school of The University of Texas, established as a UT medical branch in Dallas in 1949 under the UT Board of Regents.",
-  "short": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
+  "text": "UT Southwestern Medical Center originated in 1949 when the University of Texas Board of Regents accepted an offer to establish Southwestern Medical School of The University of Texas in Dallas; it was renamed The University of Texas Southwestern Medical Center in 1987.",
   "source": {
     "name": "UT Southwestern - 'Mission, Values, and History' (About Us)",
     "date": "2026-09-25",
-    "url": "https://utsw.edu/about-us/mission-history"
+    "url": "https://utsw.edu/about-us/mission-history",
+    "quote": "The Board of Regents accepted this offer from the Foundation, and in 1949 the college became Southwestern Medical School of The University of Texas.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

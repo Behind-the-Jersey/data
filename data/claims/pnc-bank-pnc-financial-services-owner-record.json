@@ -3,12 +3,28 @@
   "ownerIds": [
     "pnc-bank-pnc-financial-services-owner"
   ],
-  "text": "PNC Financial Services Group, Inc. is the ultimate owner of PNC Bank (PNC Financial Services).",
-  "short": "PNC Financial Services Group, Inc.",
+  "text": "The PNC Financial Services Group, Inc., a holding company based in Pittsburgh, Pennsylvania, owns the national bank PNC Bank, National Association.",
   "source": {
-    "name": "PNC Financial Services Investor Relations",
-    "date": "2026-09-25",
-    "url": "https://investor.pnc.com"
+    "name": "The PNC Financial Services Group, Inc.: Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-02-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000020/pnc-20251231.htm",
+    "quote": "We primarily conduct our business through our primary domestic bank subsidiary, PNC Bank, a national banking association chartered and located in Wilmington, Delaware.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Federal Reserve Board: Order approving the merger of The PNC Financial Services Group, Inc. with FirstBank Holding Company (FRB Order No. 2025-22)",
+      "date": "2025-12-11",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20251211a1.pdf",
+      "quote": "merge FirstBank with and into PNC’s subsidiary national bank, PNC Bank, National Association (“PNC Bank”), Wilmington, Delaware.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

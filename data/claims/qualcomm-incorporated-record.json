@@ -3,12 +3,16 @@
   "ownerIds": [
     "qualcomm"
   ],
-  "text": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner. The Snapdragon-branded Mercedes sponsorship is private corporate spend. Human-rights exposure would come from chip supply chains, especially China and Taiwan manufacturing.",
-  "short": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner.",
+  "text": "QUALCOMM Incorporated is Nasdaq-listed (QCOM). Per its 2026 proxy statement, its only disclosed 5%+ shareholders are Vanguard Group Inc. (10.53%) and BlackRock, Inc. (8.71%), with no state or sovereign-fund shareholder identified.",
   "source": {
-    "name": "QUALCOMM Incorporated Form 10-K FY2025 (SEC EDGAR)",
-    "date": "2025-11-05",
-    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm"
+    "name": "QUALCOMM Incorporated DEF 14A 2026 Proxy Statement (SEC EDGAR)",
+    "date": "2026-01-22",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm",
+    "quote": "each stockholder known to us to have greater than a 5% ownership interest (based solely on our review of Schedules 13D and 13G filed with the SEC)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

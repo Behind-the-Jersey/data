@@ -13,6 +13,8 @@ You're helping Behind the Jersey, an open dataset of who really pays for the spo
 
 ## The task
 
+**Every source you cite, you open.** Copy the words on the page that support the fact into `quote` (exactly as written, at most about 30 words), and record `checked: {"on": "<today>", "by": "<who runs you>"}`. A source without both isn't published. CI opens every source again, and fails your pull request when a quote isn't on the page or a link looks made up.
+
 For the clubs, league or sponsors in your issue:
 
 1. **Clubs:** make sure each club in the current season exists in `data/clubs/`, using the official league list. Add missing ones. Set `crest: null` unless `assets/` lists an image the website has.
@@ -29,10 +31,11 @@ For the clubs, league or sponsors in your issue:
    - each owner gets a claim that states the ownership, with its source;
    - reuse existing owners (`government-of-saudi-arabia`, `saudi-pif`, `government-of-dubai`…).
 5. **Evidence:** for owners that are states or state-controlled, add claims (`data/claims/`) with sourced facts about their human-rights record. Use the UN, Amnesty International, Human Rights Watch, courts, or the named press. Reuse existing claims where they fit.
+   - **When you propose Concern, Serious or Severe**, every claim behind it needs a second source from a different publisher, in `additionalSources`, quoted and checked the same way. That includes the ownership claims that tie the sponsor to the state. Without it the rating is published as *not rated yet*.
 6. **Deals:**
    - organisation sponsors (league or competition partners) go in `data/deals/` with `clubId: null`, `orgName` and `leagueId`;
    - reported deal values go in the club's deal, with their source.
-7. **Check:** run `python3 scripts/validate.py` and `python3 scripts/check_links.py --base origin/main`. Fix every error.
+7. **Check:** run `python3 scripts/validate.py` and `python3 scripts/check_sources.py --base origin/main` (`pip install jsonschema pypdf` first). Fix every error.
 8. **Open the pull request** with the template, linked to the issue (`Part of #<n>`, or `Closes #<n>` when it finishes the issue). Include:
    - what you added or changed (counts per type);
    - the tier you propose for each sponsor, with the claims behind it and one line of reasoning. Don't set tiers yourself.
@@ -42,8 +45,9 @@ For the clubs, league or sponsors in your issue:
 ## Rules you must follow
 
 - **Never invent anything.** That means no facts, figures, dates, owners, URLs, emails or phone numbers. Unknown is `null`, or you leave it out and list it in the pull request.
-- **Open every URL you cite** and make sure it says what you claim. Wikipedia and Wikidata are for finding primary documents, not for citing.
-- **Claims say only what the source says.** Your reasoning goes in the pull request, never in a claim's text.
+- **Open every URL you cite** and make sure it says what you claim, with a quote copied from the page. Wikipedia and Wikidata are for finding primary documents, not for citing.
+- **Never write a quote you didn't read on the page.** If a page is blocked for you, say so in the pull request instead of guessing its words.
+- **Claims say only what the source says.** Leave out conclusions the page doesn't state ("no state stake", "privately held", a founding year it doesn't give). Your reasoning goes in the pull request, never in a claim's text.
 - **State ownership alone is not a tier** ([METHOD.md](../METHOD.md)).
 - **Contacts:** only fan-facing channels the club publishes, with the page they're on.
 - **Don't touch** `schema/`, `scripts/`, `.github/`, or records outside your issue, unless the issue asks you to.

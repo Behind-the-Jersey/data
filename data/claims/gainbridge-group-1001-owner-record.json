@@ -3,12 +3,16 @@
   "ownerIds": [
     "gainbridge-group-1001-owner"
   ],
-  "text": "Gainbridge is owned by Group 1001 Insurance Holdings, a privately held financial services collective controlled by Mark Walter (TWG Global), with no state ownership.",
-  "short": "Gainbridge is owned by Group 1001 Insurance Holdings, a privately held financial services collective controlled by Mark Walter (TWG Global), with no state ownership.",
+  "text": "Gainbridge is a brand of Group 1001 Insurance Holdings, alongside Delaware Life, Clear Spring Life and Annuity Company, Clear Spring Property and Casualty Group, and the RVI Group.",
   "source": {
     "name": "Group 1001 About Us page",
     "date": "2026-09-24",
-    "url": "https://www.group1001.com/aboutus"
+    "url": "https://www.group1001.com/aboutus",
+    "quote": "It comprises the following brands: Delaware Life, Gainbridge, Clear Spring Life and Annuity Company, Clear Spring Property and Casualty Group, and the RVI Group, among others.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -8,7 +8,24 @@
   "source": {
     "name": "Deutsche Telekom Investor Relations, Shareholder structure; KfW newsroom",
     "date": "2026-06-30",
-    "url": "https://www.telekom.com/en/investor-relations/share/shareholder-structure"
+    "url": "https://www.telekom.com/en/investor-relations/share/shareholder-structure",
+    "quote": "Direct holdings Federal Republic of Germany; for total holdings take reference to voting right announcement (PDF, 185 KB) dated June 05th 2024.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "AK&M, \"German government sells stake in Deutsche Telekom for 2.5 billion euros\"",
+      "url": "https://www.akm.ru/eng/news/german-government-sells-stake-in-deutsche-telekom-for-2-5-billion-euros-/",
+      "date": "2024-06",
+      "quote": "As a result of the placement, the combined stake of KfW and the German Government will be reduced to 27.8%.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

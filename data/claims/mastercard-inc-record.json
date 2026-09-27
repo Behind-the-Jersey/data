@@ -8,8 +8,12 @@
   "source": {
     "name": "Mastercard Incorporated Form 10-K for FY2025 (SEC)",
     "date": "2026-02-11",
-    "url": null,
-    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.pdf"
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm",
+    "quote": "Mastercard Foundation owns shares of our Class A common stock representing greater than 5% of our general voting power.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

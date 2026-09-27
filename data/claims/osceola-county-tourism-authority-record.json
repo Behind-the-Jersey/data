@@ -3,12 +3,16 @@
   "ownerIds": [
     "osceola-county-tourism-authority"
   ],
-  "text": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development Tax and governed under the state Local Option Tourist Development Act.",
-  "short": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development….",
+  "text": "Experience Kissimmee is not a company: it is the official tourism authority for Osceola County, Florida.",
   "source": {
     "name": "Experience Kissimmee - About us (official tourism authority for Osceola County)",
     "date": "2026-09-25",
-    "url": "https://experiencekissimmee.com/about-us"
+    "url": "https://web.archive.org/web/2026/https://experiencekissimmee.com/about-us",
+    "quote": "Experience Kissimmee is the official tourism authority for Osceola County, Florida.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

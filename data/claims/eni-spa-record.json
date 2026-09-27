@@ -3,12 +3,28 @@
   "ownerIds": [
     "eni"
   ],
-  "text": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A. together hold 33.09% of its share capital, i.e. a state link at the owner. Eni is restructuring/deconsolidating Plenitude with Ares (20%) and EIP (10%), leaving Eni around 65%.",
-  "short": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
+  "text": "The Italian state controls Eni: the Ministry of Economy and Finance holds shares directly and through Cassa Depositi e Prestiti (CDP), together more than 30% of Eni's share capital.",
   "source": {
-    "name": "Eni official shareholder-structure page (MEF + CDP = 33.09%); Eni press release on deconsolidation of Plenitude",
-    "date": "2026-03-19",
-    "url": "https://www.eni.com/en-IT/governance/shareholding-structure.html"
+    "name": "Eni S.p.A.: Eni's shareholders (major shareholders updated to 22 June 2026)",
+    "date": "2026-06-22",
+    "url": "https://www.eni.com/en-IT/governance/shareholding-structure.html",
+    "quote": "The Italian Ministry of Economy and Finance has de facto control of Eni SpA by virtue of interests held either directly or via the Cassa Depositi e Prestiti SpA (CDP).",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "U.S. Department of State: 2025 Investment Climate Statement for Italy, Section 7 State-Owned Enterprises",
+      "date": "2025-09",
+      "url": "https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Italy-Investment-Climate-Statement.pdf",
+      "quote": "oil and gas conglomerate Eni (2.0 percent owned by the MEF, 28.5 percent owned by CDP)",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

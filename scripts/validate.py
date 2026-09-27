@@ -14,8 +14,8 @@ import sys
 
 import jsonschema
 
-from common import (DATA, PLACEHOLDER_TEXT, PLACEHOLDER_URL, SCHEMA, SEASON, TYPES, YEAR, current_kits, kit_level,
-                    load, owner_chain, read_json)
+from common import (DATA, PLACEHOLDER_TEXT, PLACEHOLDER_URL, SCHEMA, SEASON, TYPES, YEAR, claim_sources, current_kits,
+                    kit_level, load, owner_chain, publisher, rating_hold, read_json)
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--strict', action='store_true', help='fail on warnings too')
@@ -118,6 +118,9 @@ for k, s in R['sponsors'].items():
                 err(w, f'why cites claim "{c}", which is about an owner outside this sponsor\'s chain')
         if why['status'] != 'reviewed':
             warn(w, 'why text is a draft (status: draft)')
+    hold = rating_hold(s, claims)
+    if hold:
+        warn(w, f'rated "{s["tier"]}" but published as not rated yet until the evidence is complete ({hold})')
     if s['tier'] in ('serious', 'severe') and not why:
         warn(w, f'rated {s["tier"]} without a why text citing a sourced abuse claim (METHOD.md: state ownership '
                 'alone is not a tier). Fix the evidence or set the sponsor back to unrated.')
@@ -141,10 +144,22 @@ def source(where, s, required=False, what='source'):
         warn(where, f'{what} "{name}" has no URL yet')
     if s.get('date') and not DATE.match(s['date']):
         warn(where, f'{what} date "{s["date"]}" should be YYYY, YYYY-MM or YYYY-MM-DD')
+    if s.get('checked') and not (url and s.get('quote')):
+        err(where, f'{what} "{name}" is marked checked but has no {"URL" if not url else "quote"}: '
+                   'checked means someone opened the link and copied the words that support the fact')
+    if s.get('quote') and not s.get('checked'):
+        warn(where, f'{what} "{name}" has a quote but no "checked" (who opened the page, and when)')
 
 
 for k, c in claims.items():
     source(where_of('claims', k), c['source'], required=True)
+    for i, extra in enumerate(c.get('additionalSources') or []):
+        source(where_of('claims', k), extra, required=True, what=f'additional source {i + 1}')
+        if not extra.get('url'):
+            err(where_of('claims', k), f'additional source {i + 1} needs a URL')
+    pubs = [publisher(x.get('url')) for x in claim_sources(c) if x.get('url')]
+    if len(pubs) != len(set(pubs)):
+        warn(where_of('claims', k), 'two of its sources are from the same publisher, so they don\'t count as independent')
     if PLACEHOLDER_TEXT.search(c['text']):
         err(where_of('claims', k), 'claim text contains a placeholder')
 cited = {c for s in R['sponsors'].values() for c in s['claimIds']} | {

@@ -3,12 +3,16 @@
   "ownerIds": [
     "ascension-st-vincent-owner"
   ],
-  "text": "Ascension is a Catholic, nonprofit healthcare system sponsored by religious ministries, with no state ownership or control.",
-  "short": "Ascension is a Catholic, nonprofit healthcare system sponsored by religious ministries, with no state ownership or control.",
+  "text": "Ascension is a Catholic, nonprofit healthcare system: its own site describes it as 'one of the leading non-profit and Catholic health systems in the U.S.,' sponsored since 2011 by a Vatican-approved public juridic person representing the founding religious congregations, not by a state or shareholders.",
   "source": {
-    "name": "Ascension About page",
-    "date": "2026-09-24",
-    "url": "https://www.ascension.org/about"
+    "name": "Ascension: History & Sponsorship",
+    "date": "2026-09",
+    "url": "https://about.ascension.org/about-us/history-sponsorship",
+    "quote": "Ascension, one of the leading non-profit and Catholic health systems in the U.S., operates approximately 2,600 sites of care in 16 states and the District of Columbia.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "cisco"
   ],
-  "text": "Cisco Systems, Inc. (NASDAQ: CSCO) is a US-listed networking and software group with an extremely dispersed register - no shareholder above roughly 5-6% and heavy index-fund representation - and no state stake. Human-rights relevance is ordinary corporate conduct; Cisco's main geopolitical exposure is its China/Huawei position rather than anything in its cap table.",
-  "short": "Cisco Systems, Inc.",
+  "text": "Cisco Systems, Inc. is Nasdaq-listed (CSCO). Per its 2025 proxy statement, its only disclosed 5%+ shareholders are The Vanguard Group (9.7%) and BlackRock, Inc. (8.9%), with no state or sovereign-fund shareholder identified.",
   "source": {
-    "name": "Cisco Systems, Inc. Form 10-K for fiscal 2025 (SEC)",
-    "date": "2025-09-03",
-    "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm"
+    "name": "Cisco Systems, Inc. DEF 14A 2025 Proxy Statement (SEC EDGAR)",
+    "date": "2025-10-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm",
+    "quote": "The Vanguard Group (1) 383,853,104 9.7 % BlackRock, Inc. (2) 351,115,676 8.9 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

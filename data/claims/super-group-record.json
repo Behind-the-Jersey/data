@@ -3,12 +3,16 @@
   "ownerIds": [
     "super-group"
   ],
-  "text": "Betway's parent, Super Group (SGHC) Limited, is a NYSE-listed holding company of gaming brands (Betway, Jackpot City) with no state shareholder.",
-  "short": "Betway's parent, Super Group (SGHC) Limited, is a NYSE-listed holding company of gaming brands (Betway, Jackpot City) with no state shareholder.",
+  "text": "Super Group (SGHC) Limited, Betway's NYSE-listed parent, has two shareholders above 5% per its FY2025 Form 20-F: Knutsson Limited (45%, beneficially owned via a professional trustee for the Alea Trust) and Chivers Limited (19%). No state or sovereign-fund shareholder is disclosed.",
   "source": {
-    "name": "Super Group (SGHC) Limited - investor relations / corporate profile",
-    "date": "2026-09-24",
-    "url": "https://supergroup.com/about/our-strategy/"
+    "name": "Super Group (SGHC) Ltd Form 20-F for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878057/000162828026025609/sghc-20251231.htm",
+    "quote": "Other 5% Shareholders Knutsson Limited 226,855,242 45 % Chivers Limited 97,868,113 19 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

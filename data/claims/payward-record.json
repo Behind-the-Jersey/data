@@ -3,12 +3,16 @@
   "ownerIds": [
     "payward"
   ],
-  "text": "Kraken is a brand of Payward, Inc., a Delaware-incorporated private company (Kraken Securities LLC is a wholly owned subsidiary of Payward, Inc.). The company is privately held with VC backers including Tribe Capital; no state or state-fund owner. Note: OFAC settled with Payward/Kraken for $362,158.70 over apparent violations of the Iranian Transactions and Sanctions Regulations — a conduct issue, not ownership.",
-  "short": "Kraken is a brand of Payward, Inc., a Delaware-incorporated private company (Kraken Securities LLC is a wholly owned subsidiary of Payward, Inc.).",
+  "text": "Payward, Inc. (d/b/a Kraken) is a private, Delaware-incorporated company. Per CoinDesk's reporting on its 2026 funding round toward a $20bn valuation, its investors include Jane Street, DRW Venture Capital, Tribe Capital and Citadel Securities (a separate $200m strategic investment); no state or state-fund investor is named.",
   "source": {
-    "name": "OFAC enforcement release (Nov 28, 2022); Kraken/Payward disclosures",
-    "date": "2022-11-28",
-    "url": "https://ofac.treasury.gov/system/files/126/20221128_kraken.pdf"
+    "name": "CoinDesk: Crypto platform Kraken is raising capital at $20 billion valuation ahead of its planned IPO",
+    "date": "2026-05-08",
+    "url": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo",
+    "quote": "The round included backing from investors such as Jane Street, DRW Venture Capital and Tribe Capital, while Citadel Securities later agreed to a separate $200 million strategic investment",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

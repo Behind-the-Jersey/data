@@ -3,12 +3,16 @@
   "ownerIds": [
     "sap-se"
   ],
-  "text": "SAP SE is a Frankfurt-listed German software company with a free float of about 84% reported by the company itself; the largest identified holders are founder-family vehicles (Hopp family ~5.1%, Portika gGmbH ~3.6%) — private, not state. No state or state-fund owner.",
-  "short": "SAP SE is a Frankfurt-listed German software company with a free float of about 84% reported by the company itself; the largest identified holders are….",
+  "text": "SAP SE's largest identified family shareholder is Dietmar Hopp Stiftung gGmbH, linked to SAP co-founder Dietmar Hopp's family, which held 5.06% of voting rights as of 15 August 2025 per a German WpHG voting-rights disclosure; no state or state-fund owner is identified in that filing.",
   "source": {
-    "name": "SAP Investor Relations, shareholder structure/basic data",
-    "date": "2026",
-    "url": "https://www.sap.com/investors/en/stock/basic-data.html"
+    "name": "SAP SE: Voting Rights Announcement — Daniel Hopp (WpHG Art. 40 notification, EQS News)",
+    "date": "2025-08-15",
+    "url": "https://www.eqs-news.com/news/voting-rights/daniel-hopp/77928d75-607a-43ce-a857-81fb3472e89b_en",
+    "quote": "holding directly 3% or more voting rights, if different from 3. Dietmar Hopp Stiftung gGmbH",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

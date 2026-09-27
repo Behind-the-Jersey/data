@@ -6,8 +6,25 @@
   "text": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund.",
   "source": {
     "name": "AGBI (Arab Gulf Business Insight) company profile",
-    "date": "2026-09-24",
-    "url": "https://www.agbi.com/companies/maaden-company/"
+    "date": "2025-08-08",
+    "url": "https://web.archive.org/web/20250829150002/https://www.agbi.com/companies/maaden-company/",
+    "quote": "Maaden is 67 percent owned by the Public Investment Fund, the kingdom's sovereign wealth fund.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Argaam, \"Maaden, PIF sign JV agreement to invest in international mining assets\"",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1614285",
+      "date": "2023-11-01",
+      "quote": "PIF is a related party as it is the largest shareholder in Maaden (with 67.18% ownership).",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

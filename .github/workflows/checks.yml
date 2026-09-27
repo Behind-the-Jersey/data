@@ -1,5 +1,6 @@
 # Required on every pull request: the records match the schemas, references resolve, the rating
-# rule holds, new links resolve, and the release builds. See CONTRIBUTING.md.
+# rule holds, the sources in changed records are real (the link works, it isn't a made-up address,
+# its quote is on the page), and the release builds. See CONTRIBUTING.md.
 name: checks
 
 on:
@@ -17,11 +18,11 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - run: python3 -m pip install --quiet jsonschema
+      - run: python3 -m pip install --quiet jsonschema pypdf
       - name: Validate records
         run: python3 scripts/validate.py
-      - name: Check links in changed records
+      - name: Check the sources in changed records
         if: github.event_name == 'pull_request'
-        run: python3 scripts/check_links.py --base origin/${{ github.base_ref }}
+        run: python3 scripts/check_sources.py --base origin/${{ github.base_ref }}
       - name: Build the release
         run: python3 scripts/build.py

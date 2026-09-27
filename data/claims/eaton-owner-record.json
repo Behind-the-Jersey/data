@@ -3,12 +3,16 @@
   "ownerIds": [
     "eaton-owner"
   ],
-  "text": "Eaton Corp plc is owned by Eaton Corporation. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "Eaton Corp plc is owned by Eaton Corporation.",
+  "text": "Eaton Corporation plc has no controlling or state shareholder; its largest shareholders are The Vanguard Group (9.43%) and BlackRock (7.04%) -- purely private/institutional capital.",
   "source": {
     "name": "Eaton Corp plc DEF 14A 2026 (SEC)",
     "date": "2026-03-13",
-    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000119312526105117/etn-20260312.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000119312526105117/etn-20260312.htm",
+    "quote": "Set forth below is certain information concerning persons who are known by us to have reported owning beneficially more than 5% of our ordinary shares.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

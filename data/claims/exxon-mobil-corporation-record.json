@@ -3,12 +3,28 @@
   "ownerIds": [
     "exxon-mobil-corporation"
   ],
-  "text": "Mobil 1 (and Esso) is the Oracle Red Bull Racing fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil major with a dispersed public float and no state stake. Rated 'concern' rather than 'none' on conduct: a sustained documented pollution and climate-liability record, from the Exxon Valdez legacy to the US state and municipal climate suits that its own filings discuss under legal proceedings and climate-risk disclosure. Ownership itself is clean private-float.",
-  "short": "Mobil 1 (and Esso) is the Oracle Red Bull Racing fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil….",
+  "text": "Local governments across the United States have sued oil and gas companies, including ExxonMobil, over alleged harms from climate change.",
   "source": {
-    "name": "Exxon Mobil Corporation Form 10-K for FY2025 (SEC)",
+    "name": "Exxon Mobil Corporation: Form 10-K for fiscal year 2025 (SEC EDGAR)",
     "date": "2026-02-18",
-    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+    "quote": "have filed a number of legal proceedings against several oil and gas companies, including ExxonMobil, requesting unprecedented legal and equitable relief for various alleged injuries purportedly connected to climate change",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "NBC News (Lawrence Hurley): Supreme Court takes up oil companies' plea to end climate change lawsuits",
+      "date": "2026-02-23",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-takes-oil-companies-appeal-end-climate-change-lawsuits-rcna252425",
+      "quote": "Exxon Mobil and Suncor Energy are appealing a May 2025 Colorado Supreme Court ruling that said the lawsuit brought by the city of Boulder and Boulder County could move forward",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "ubs-group-ag"
   ],
-  "text": "UBS Group AG is a SIX/NYSE-listed bank with a broad free float and no state shareholder; the Swiss Confederation exited its crisis-era stake long ago. Its 20-F discusses 'significant shareholders' only in the sense of reporting-threshold disclosures by private investors. The Mercedes partnership is private bank money.",
-  "short": "UBS Group AG is a SIX/NYSE-listed bank with a broad free float and no state shareholder; the Swiss Confederation exited its crisis-era stake long ago.",
+  "text": "UBS Group AG is SIX/NYSE-listed with a broad free float; the Swiss Confederation exited its crisis-era stake long ago. As of 31 Dec 2025 its >3% shareholders under FMIA disclosure were BlackRock Inc. (5.01%) and Norges Bank, Norway's central bank (4.90%, since reduced below 3%) -- so one recent significant shareholder was itself a sovereign entity, albeit as a passive financial investor rather than a controlling one.",
   "source": {
     "name": "UBS Group AG Form 20-F FY2025 (SEC EDGAR)",
     "date": "2026-03-09",
-    "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/ubs-20251231.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/ubs-20251231.htm",
+    "quote": "the following entities held more than 3% of the total voting rights of UBS Group AG ... Norges Bank, Oslo 4.90 ... BlackRock Inc., New York 5.01",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

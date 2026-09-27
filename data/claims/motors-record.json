@@ -3,12 +3,16 @@
   "ownerIds": [
     "motors"
   ],
-  "text": "Cazoo is no longer the listed business it once was: the company went into administration in May 2024 and its brand and tech were sold to Motors, the used-car marketplace owned since 2021 by New York private-equity house O3 Industries and Frankfurt-based Novum Capital. Ownership today is therefore private equity with no state stake. Human-rights relevance is evidence-thin - the collapsed company left GBP 259m owed to over 10,000 creditors, but no material rights record.",
-  "short": "Cazoo is no longer the listed business it once was: the company went into administration in May 2024 and its brand and tech were sold to Motors, the used-car….",
+  "text": "Cazoo went into administration and its brand and tech were sold to Motors, the used-car marketplace owned since 2021 by New York private-equity house O3 Industries and Frankfurt-based Novum Capital. Ownership today is therefore private equity, with no state stake.",
   "source": {
     "name": "BusinessCloud - 'Private equity-backed Motors snaps up Cazoo brand'",
     "date": "2024-06-28",
-    "url": "https://businesscloud.co.uk/news/private-equity-backed-motors-snaps-up-cazoo-brand"
+    "url": "https://businesscloud.co.uk/news/private-equity-backed-motors-snaps-up-cazoo-brand",
+    "quote": "Now Motors, owned since 2021 by New York PE house O3 Industries and Novum Capital, based in Frankfurt, has acquired the brand.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

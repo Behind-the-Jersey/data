@@ -3,12 +3,16 @@
   "ownerIds": [
     "monzo-bank-limited"
   ],
-  "text": "Monzo Bank Limited is a UK-incorporated bank (registered in England and Wales, No.09446231) with a full banking licence and dispersed venture-investor ownership; it publishes annual reports. No state or state-fund owner.",
-  "short": "Monzo Bank Limited is a private, VC-backed UK bank.",
+  "text": "Monzo Bank Limited is a UK-incorporated, VC-backed digital bank (company no. 09446231). Per Monzo's own October 2024 statement reported by Bloomberg, its shareholders include Singapore's sovereign wealth fund GIC Pte and StepStone Group, alongside other existing investors.",
   "source": {
-    "name": "Monzo, investor information",
-    "date": "2026",
-    "url": "https://monzo.com/investor-information"
+    "name": "Bloomberg Law: 'Monzo Nabs $5.9 Billion Valuation After Employee Share Sale'",
+    "date": "2024-10-11",
+    "url": "https://news.bloomberglaw.com/capital-markets/monzo-nabs-5-9-billion-valuation-after-employee-share-sale",
+    "quote": "Existing investors including StepStone Group Inc. and Singapore's sovereign wealth fund GIC Pte participated in the round, according to a statement.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

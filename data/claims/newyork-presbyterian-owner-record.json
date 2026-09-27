@@ -3,12 +3,16 @@
   "ownerIds": [
     "newyork-presbyterian-owner"
   ],
-  "text": "NewYork-Presbyterian Hospital is owned by NewYork-Presbyterian. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "NewYork-Presbyterian Hospital is owned by NewYork-Presbyterian.",
+  "text": "NewYork-Presbyterian Hospital is operated by The New York and Presbyterian Hospital, a nonprofit corporation the IRS has designated a 501(c)(3) tax-exempt organization since 1997; as a nonprofit it has no shareholders.",
   "source": {
-    "name": "NewYork-Presbyterian About Us page",
-    "date": "2026-09-24",
-    "url": "https://www.nyp.org/about"
+    "name": "ProPublica Nonprofit Explorer: The New York and Presbyterian Hospital (IRS Form 990 data)",
+    "date": "2026-09",
+    "url": "https://projects.propublica.org/nonprofits/organizations/133957095",
+    "quote": "Designated as a 501(c)(3)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

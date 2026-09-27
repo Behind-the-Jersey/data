@@ -3,12 +3,28 @@
   "ownerIds": [
     "gov-malaysia"
   ],
-  "text": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant workers in forced labour, refugees in indefinite detention, repressive laws used against dissent) is documented.",
-  "short": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant….",
+  "text": "Malaysia uses broad laws restricting free expression against its critics, and refugees and migrants there face indefinite detention.",
   "source": {
-    "name": "Human Rights Watch - World Report, Malaysia chapter",
-    "date": "2026-01-15",
-    "url": "https://hrw.org/world-report/2026/country-chapters/malaysia"
+    "name": "Human Rights Watch: World Report 2026, Malaysia",
+    "date": "2026-01-09",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/malaysia",
+    "quote": "Despite some reforms, Malaysia continues to wield repressive laws to criminalize dissent, censor critical speech, and harass human rights defenders. Refugees and migrants face indefinite detention in overcrowded, unhygienic conditions.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Amnesty International: Malaysia 2025 (Amnesty International Report 2025/26)",
+      "date": "2026",
+      "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/malaysia/report-malaysia/",
+      "quote": "Broad laws limiting freedom of expression continued to be used against critics.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

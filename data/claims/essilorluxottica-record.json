@@ -3,12 +3,16 @@
   "ownerIds": [
     "essilorluxottica"
   ],
-  "text": "Ray-Ban is owned by EssilorLuxottica, listed on Euronext Paris (EL) and a CAC 40 constituent - no state shareholder.",
-  "short": "Ray-Ban is owned by EssilorLuxottica, listed on Euronext Paris (EL) and a CAC 40 constituent - no state shareholder.",
+  "text": "Ray-Ban's ultimate parent, EssilorLuxottica SA, trades on Euronext Paris (ticker EL). Per its 2025 Universal Registration Document, its largest shareholder is Delfin S.à r.l. with 32.42% of share capital (143,588,995 voting rights) as of 31 December 2025; the remainder is in employee schemes and free float, with no state shareholder identified.",
   "source": {
-    "name": "EssilorLuxottica - Euronext Paris listing (ISIN FR0000121667)",
-    "date": "2026-09-24",
-    "url": "https://en.wikipedia.org/wiki/EssilorLuxottica"
+    "name": "EssilorLuxottica 2025 Universal Registration Document, Section 7.2.1 'Change in the Share Capital'",
+    "date": "2026-03-06",
+    "url": "https://www.essilorluxottica.com/api/getCapContent/?download=false&id=284322",
+    "quote": "DELFIN 150,215,793 32.42% 143,588,995",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

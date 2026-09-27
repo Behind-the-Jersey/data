@@ -3,12 +3,16 @@
   "ownerIds": [
     "america-movil"
   ],
-  "text": "Claro is the brand of America Movil's Mexican operator Telcel; America Movil is listed (BMV: AMXB; NYSE: AMX) and controlled by the Slim family. Formerly state-owned Telmex, privatised in 1990 - since then no state shareholding.",
-  "short": "Claro is the brand of America Movil's Mexican operator Telcel; America Movil is listed (BMV: AMXB; NYSE: AMX) and controlled by the Slim family.",
+  "text": "Per its own 2026 Form 20-F, América Móvil's shares trade on the Mexican Stock Exchange and, as ADSs, on the NYSE (symbol AMX); Carlos Slim Helú, 'together with his sons, daughters and grandchildren (together, the \"Slim Family\") may be deemed to control us,' based on SEC beneficial-ownership filings. The same filing confirms América Móvil was formed when Telmex, 'a fixed-line Mexican telecommunications operator privatized in 1990,' spun off its wireless business — and states that Telcel, not Claro, is the Mexican brand name.",
   "source": {
-    "name": "America Movil - investors, annual reports (Form 20-F)",
+    "name": "América Móvil, S.A.B. de C.V., Form 20-F (Annual Report)",
     "date": "2026-04-28",
-    "url": "https://www.americamovil.com/English/investors/reports-and-filings/annual-reports/default.aspx"
+    "url": "https://www.sec.gov/Archives/edgar/data/1129137/000114036126017486/ef20060642_20f.htm",
+    "quote": "Carlos Slim Helú, together with his sons, daughters and grandchildren (together, the \"Slim Family\") may be deemed to control us.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

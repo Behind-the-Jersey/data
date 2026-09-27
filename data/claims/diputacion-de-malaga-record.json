@@ -3,12 +3,38 @@
   "ownerIds": [
     "diputacion-de-malaga"
   ],
-  "text": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the brand is used by the Diputacion to promote the province's agri-food products and licenses its use to producers. The owner is therefore a public body - a lesser/sub-national state link.",
-  "short": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the….",
+  "text": "Sabor a Málaga is a promotional brand of the Diputación Provincial de Málaga (Málaga's provincial council), which uses it to promote the province's farm and food products.",
   "source": {
-    "name": "Sabor a Malaga official site (a brand of the Diputacion de Malaga); Diputacion de Malaga trademark-use resolution",
-    "date": "2026",
-    "url": "https://www.saboramalaga.es/en/news/blog/sabor-a-malaga-proud-official-sponsor-of-malaga-cf-since-2021-p54384"
+    "name": "Sabor a Málaga (brand site of the Diputación de Málaga): Ordenanza del uso de la marca",
+    "date": "2024-02-28",
+    "url": "https://web.archive.org/web/20240228200847/https://www.saboramalaga.es/ordenanza-del-uso-de-la-marca/",
+    "quote": "La Diputación de Málaga posee la titularidad de la marca Sabor a Málaga. Es esta institución quien determina las concesiones de uso",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "101TV Málaga: Ayuntamiento, Diputación y Junta renuevan su apoyo al Málaga CF",
+      "date": "2026-09-09",
+      "url": "https://www.101tv.es/malagacf/ayuntamiento-diputacion-y-junta-renuevan-su-apoyo-al-malaga-cf",
+      "quote": "la marca Sabor a Málaga, con la que la Diputación da a conocer los productos del campo y la industria agroalimentaria de la provincia",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    },
+    {
+      "name": "Málaga CF (official site): The flavour of Málaga",
+      "date": "2021-07-14",
+      "url": "https://www.malagacf.com/en/news/the-flavour-of-malaga",
+      "quote": "The support of the Diputación Provincial has been channelled through the Sabor a Málaga brand, promoting the Málaga agri-food industry",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

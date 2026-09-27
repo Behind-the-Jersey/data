@@ -3,12 +3,16 @@
   "ownerIds": [
     "halo-lifestyle-llc"
   ],
-  "text": "HALO Hydration is the trading brand of HALO Lifestyle LLC, a private US company that is venture-backed with no state or sovereign-fund ownership.",
-  "short": "HALO Hydration is a private, VC-backed US brand.",
+  "text": "HALO Hydration is the trading brand of HALO Lifestyle LLC, a private US company that has raised venture funding from unspecified investors, per Preqin.",
   "source": {
     "name": "Preqin asset profile, Halo Hydration",
     "date": "2025",
-    "url": "https://www.preqin.com/data/profile/asset/halo-hydration/624618"
+    "url": "https://www.preqin.com/data/profile/asset/halo-hydration/624618",
+    "quote": "Halo Lifestyle LLC, doing business as Halo Hydration, operates as a beverage company that produces and supplies hydration-related products",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

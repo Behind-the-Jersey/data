@@ -3,12 +3,28 @@
   "ownerIds": [
     "government-of-abu-dhabi"
   ],
-  "text": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
-  "short": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
+  "text": "Experience Abu Dhabi is a tourism brand of the Department of Culture and Tourism – Abu Dhabi (DCT Abu Dhabi), a government agency of Abu Dhabi.",
   "source": {
-    "name": "Department of Culture and Tourism - Abu Dhabi website",
-    "date": "2026-09-24",
-    "url": "https://dct.gov.ae/en/default.aspx"
+    "name": "Sportico (Eben Novy-Williams): Knicks’ Experience Abu Dhabi Jersey Patch Sticks Out At Uncertain Time",
+    "date": "2026-06-05",
+    "url": "https://www.sportico.com/leagues/basketball/2026/knicks-jersey-patch-experience-abu-dhabi-explained-1234902404/",
+    "quote": "The Knicks and Abu Dhabi’s government have a broad deal that includes much of the MSG empire.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "US Department of Justice, FARA eFile: The Ogilvy Group LLC (reg. 6797), Exhibit A/B for foreign principal Department of Culture and Tourism – Abu Dhabi",
+      "date": "2024-11-13",
+      "url": "https://efile.fara.gov/docs/6797-Exhibit-AB-20241113-9.pdf",
+      "quote": "If the foreign principal is a foreign government, state: a) Branch or agency represented by the registrant Department of culture and Tourism - Abu Dhabi",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

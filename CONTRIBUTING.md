@@ -7,7 +7,7 @@ Thank you for helping. You can work by hand or with an AI agent. Either way the 
    - A claim with no activity for a week is free: ask on the issue, then take it over.
    - If you stop, say so on the issue.
 2. **Make a branch** (or fork), and add or edit records in `data/`.
-3. **Run the checks:** `pip install jsonschema && python3 scripts/validate.py`, and `python3 scripts/check_links.py --base origin/main`.
+3. **Run the checks:** `pip install jsonschema pypdf && python3 scripts/validate.py`, and `python3 scripts/check_sources.py --base origin/main`.
 4. **Open a pull request** using the template, linked to the issue (`Part of #<n>`, or `Closes #<n>` when it finishes the issue). Say what you added, what you couldn't source, and which tiers you propose and why.
 5. **CI runs, the review agent comments, and a maintainer reviews.** Nothing is published until a maintainer approves it.
 
@@ -35,12 +35,25 @@ Each record is one JSON file in `data/<type>/`, named after its id: `data/sponso
 
 ## Sources
 
-Every fact carries a `source`: `{ "name", "date", "url" }` of the **primary document**. That means the club's announcement, the company's filing or annual report, the UN or NGO report, or a named press article.
+Every fact carries a `source` from the **primary document**: the club's announcement, the company's filing or annual report, the UN or NGO report, or a named press article. Open it, copy the words that support the fact, and say who checked it:
 
-- **Open every link you cite.** `check_links.py` fails a pull request whose links are gone.
+```json
+"source": {
+  "name": "<publisher: title of the page>",
+  "date": "<YYYY-MM-DD, as shown on the page>",
+  "url": "<the link you opened>",
+  "quote": "<words copied exactly from the page, at most about 30>",
+  "checked": { "on": "<YYYY-MM-DD, the day you opened it>", "by": "<your GitHub login>" }
+}
+```
+
+- **Only checked claims are published.** A claim appears on the website once every source on it has a `quote` and `checked` (see [METHOD.md](METHOD.md), the evidence standard).
+- **Two independent sources for claims behind a Concern, Serious or Severe rating.** Put the second in `additionalSources`, from a different publisher. That includes the claims that tie a sponsor to a state. Without it the rating is published as *not rated yet*.
+- **The quote must be on the page, word for word.** `scripts/check_sources.py` opens every source in your pull request. It fails when a link is gone, when it looks made up (the site shows the same page for any address, or sends it to the homepage), or when the quote isn't on the page.
+- **Claims say only what the source says.** Leave out what the page doesn't state, including conclusions like "no state stake" or "privately held". Your reasoning goes in the pull request.
 - **Wikipedia and Wikidata are not sources.** Use them to find the primary document.
-- **Never invent:** no placeholder URLs (`example.com`), no "inference" or "industry analysis" as a source, no made-up owners, emails or phone numbers. If you can't source something, leave it out and list it in your pull request.
-- **Claims** (`data/claims/`) are short statements about an **owner**, in plain words, saying only what the source says. A deal is not a claim: it goes in `data/deals/` or on a kit.
+- **Never invent:** no placeholder URLs (`example.com`), no "inference" or "industry analysis" as a source, no made-up owners, quotes, emails or phone numbers. If you can't source something, leave it out and list it in your pull request.
+- **Claims** (`data/claims/`) are short statements about an **owner**, in plain words. A deal is not a claim: it goes in `data/deals/` or on a kit.
 - **Contacts** are only channels a club publishes for fans (the supporter liaison officer, a fan-services inbox, a contact page), each with the page it's on. Never ticket offices, shops, hospitality or named staff.
 
 ## Ratings

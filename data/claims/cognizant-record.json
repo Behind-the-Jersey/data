@@ -3,12 +3,28 @@
   "ownerIds": [
     "cognizant"
   ],
-  "text": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of its share classes. Human-rights relevance is conduct and labour: a very large India-centric delivery workforce plus a 2019 FCPA settlement with the SEC over bribery in India. That is a genuine but lesser documented record, hence concern.",
-  "short": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of….",
+  "text": "In February 2019 Cognizant agreed to pay about $25 million to settle US Securities and Exchange Commission charges that it violated the Foreign Corrupt Practices Act, over a bribe of about $2 million paid to a government official in India in connection with building a Cognizant office campus there.",
   "source": {
-    "name": "Cognizant Technology Solutions Corporation DEF 14A 2026, 'Corporate governance' (SEC)",
-    "date": "2026-04-17",
-    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000130817926000290/ctsh014861-def14a.htm"
+    "name": "US Securities and Exchange Commission: SEC Charges Cognizant and Two Former Executives With FCPA Violations (press release 2019-12)",
+    "date": "2019-02-15",
+    "url": "https://www.sec.gov/newsroom/press-releases/2019-12",
+    "quote": "Cognizant Technology Solutions Corporation has agreed to pay $25 million to settle charges that it violated the Foreign Corrupt Practices Act (FCPA)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "US Department of Justice, Office of Public Affairs: Former President and Former Chief Legal Officer of Publicly Traded Fortune 200 Technology Services Company Indicted in Connection with Alleged Multi-Million Dollar Foreign Bribery Scheme",
+      "date": "2019-02-15",
+      "url": "https://web.archive.org/web/20250201195429/https://www.justice.gov/opa/pr/former-president-and-former-chief-legal-officer-publicly-traded-fortune-200-technology",
+      "quote": "Cognizant entered into a cease and desist order and agreed to pay the SEC a civil penalty, disgorgement and prejudgment interest totaling approximately $25 million.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

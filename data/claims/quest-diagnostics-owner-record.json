@@ -3,12 +3,16 @@
   "ownerIds": [
     "quest-diagnostics-owner"
   ],
-  "text": "Quest Diagnostics is a NYSE-listed diagnostic information company with no state ownership; largest shareholder is BlackRock (~6.91%) and other institutions each under 10%.",
-  "short": "Quest Diagnostics is a NYSE-listed diagnostic information company with no state ownership; largest shareholder is BlackRock (~6.91%) and other institutions each….",
+  "text": "Quest Diagnostics is a NYSE-listed diagnostic information company with no state ownership; its largest disclosed shareholder is BlackRock, Inc. at 8.4% (per the 2026 proxy statement), with T. Rowe Price Associates at 6.5%.",
   "source": {
     "name": "Quest Diagnostics DEF 14A 2026",
     "date": "2026-04-06",
-    "url": "https://www.sec.gov/Archives/edgar/data/1022079/000114036126013356/ny20064122x1_def14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1022079/000114036126013356/ny20064122x1_def14a.htm",
+    "quote": "BlackRock, Inc. (1) 9,308,815 8.4 T. Rowe Price Associates, Inc. (2) 7,209,622 6.5",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

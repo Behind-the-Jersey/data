@@ -3,12 +3,16 @@
   "ownerIds": [
     "circle-internet-group"
   ],
-  "text": "USDC is issued by Circle; its parent, Circle Internet Group, Inc., listed on the NYSE in June 2025 (SEC CIK 1876042) with dispersed public shareholders. No state or state-fund owner.",
-  "short": "Circle Internet Group, Inc. is an NYSE-listed company; USDC is its product.",
+  "text": "USDC is issued by Circle; its parent, Circle Internet Group, Inc., states in its own SEC filing that 'Our Class A common stock is listed on the New York Stock Exchange (the \"NYSE\") under the symbol \"CRCL\".' The same filing shows founders Jeremy Allaire and P. Sean Neville holding Class B stock equal to about 30% of voting power post-offering; no state or state-fund owner is named.",
   "source": {
-    "name": "SEC Form S-1, Circle Internet Group, Inc.",
-    "date": "2025-06",
-    "url": "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm"
+    "name": "Circle Internet Group, Inc., Form S-1 (follow-on prospectus)",
+    "date": "2025-08",
+    "url": "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm",
+    "quote": "Our Class A common stock is listed on the New York Stock Exchange (the “NYSE”) under the symbol “CRCL”.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

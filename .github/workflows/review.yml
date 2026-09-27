@@ -48,14 +48,25 @@ jobs:
             echo "run=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
+          echo "since=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_OUTPUT"
           base=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json baseRefName -q .baseRefName)
           git fetch -q origin "refs/pull/$PR/head:review-pr"
           mkdir -p review
+          echo "$base" > review/base
           git diff --merge-base "origin/$base" review-pr > review/pr.diff
           git diff --name-status --merge-base "origin/$base" review-pr > review/files.txt
           gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json title,body -q '"# " + .title + "\n\n" + .body' > review/pr.md
           echo "$(wc -l < review/files.txt) files, $(wc -c < review/pr.diff) bytes of diff"
           echo "run=true" >> "$GITHUB_OUTPUT"
+      # Every source in the changed records: does the link work, is it a made-up address, is the quote
+      # on the page. main's script runs on the pull request's records (not its code).
+      - name: Check every source
+        if: steps.collect.outputs.run == 'true'
+        run: |
+          python3 -m pip install --quiet pypdf
+          git worktree add -q review/pr review-pr
+          python3 scripts/check_sources.py --root review/pr --base "origin/$(cat review/base)" --report review/sources.md || true
+          git worktree remove --force review/pr
       - if: steps.collect.outputs.run == 'true'
         uses: anomalyco/opencode/github@latest
         env:
@@ -71,6 +82,24 @@ jobs:
           prompt: |
             Read agents/review.md and follow it exactly. The pull request's diff is review/pr.diff,
             its changed files are listed in review/files.txt (A added, M modified, D deleted,
-            R renamed), and its title and description are in review/pr.md. The dataset on main is
-            in data/. Your final message is posted as the pull request comment exactly as you
-            write it: start with "**Review agent:**", with nothing before it.
+            R renamed), its title and description are in review/pr.md, and the script check of every
+            source it cites is review/sources.md. The dataset on main is in data/. Your final
+            message is posted as the pull request comment exactly as you write it: start with
+            "**Review agent:**", with nothing before it.
+      # The review is a comment, and this check turns it into a signal: it fails when the agent found a
+      # source that doesn't hold up (❌ or "Needs changes"), or posted nothing.
+      - name: Fail if the review found problems
+        if: steps.collect.outputs.run == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number || github.event.issue.number }}
+          SINCE: ${{ steps.collect.outputs.since }}
+        run: |
+          body=$(gh api "repos/$GITHUB_REPOSITORY/issues/$PR/comments?since=$SINCE&per_page=100" \
+            --jq '[.[] | select(.body | startswith("**Review agent:**"))] | last | .body // ""')
+          if [ -z "$body" ]; then echo "::error::The review agent didn't post a review."; exit 1; fi
+          printf '%s\n' "$body" | head -1
+          if printf '%s' "$body" | grep -q '❌' || printf '%s' "$body" | head -1 | grep -qi 'needs changes'; then
+            echo "::error::The review agent found sources that don't hold up. See its comment on the pull request."
+            exit 1
+          fi

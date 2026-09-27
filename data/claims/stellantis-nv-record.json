@@ -8,7 +8,24 @@
   "source": {
     "name": "Stellantis N.V. Form 20-F for FY2025, shareholder section (SEC)",
     "date": "2026-02-26",
-    "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000021/stellantis-20251231.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000021/stellantis-20251231.htm",
+    "quote": "Établissements Peugeot Frères (“EPF”) (holding 7.72 percent of the issued common shares) and Bpifrance Participations S.A. (“BPI”) (holding 6.64 percent of the issued common shares).",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Peugeot Invest (formerly FFP), company website asset page for Stellantis",
+      "url": "https://peugeot-invest.com/en/assets/713/stellantis",
+      "date": "2026",
+      "quote": "Stake in Stellantis 7.7 %",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

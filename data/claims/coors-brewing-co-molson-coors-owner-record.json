@@ -3,12 +3,16 @@
   "ownerIds": [
     "coors-brewing-co-molson-coors-owner"
   ],
-  "text": "Molson Coors Beverage Company is a NYSE-listed brewer with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
-  "short": "Molson Coors Beverage Company is a NYSE-listed brewer with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
+  "text": "Molson Coors Beverage Company is a NYSE-listed brewer with no state ownership; voting control rests with the Coors and Molson families via a voting trust (Pentland Securities/Coors Trust, 96.2% of Class A voting stock), while Vanguard (12.0%) and Dodge & Cox (10.2%) are the largest holders of the non-voting Class B float.",
   "source": {
     "name": "Molson Coors DEF 14A 2026",
     "date": "2026-03-25",
-    "url": "https://www.sec.gov/Archives/edgar/data/24545/000110465926034154/tap-20260506xdef14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/24545/000110465926034154/tap-20260506xdef14a.htm",
+    "quote": "The Coors Trust, Pentland and 4280661 Canada Inc. (Pentland's subsidiary) are parties to voting trust arrangements combining their voting power over the Class A common stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

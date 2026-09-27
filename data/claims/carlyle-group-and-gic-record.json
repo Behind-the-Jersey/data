@@ -3,12 +3,28 @@
   "ownerIds": [
     "carlyle-group-and-gic"
   ],
-  "text": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by private-equity firm The Carlyle Group and GIC, Singapore's sovereign wealth fund. The Singapore state fund is therefore a co-controlling shareholder, giving a genuine partial state stake without the sponsor becoming a state entity. Human-rights relevance is indirect: chemical manufacturing exposure, but the ownership chain runs into a sovereign fund.",
-  "short": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
+  "text": "Nouryon, a specialty chemicals company, is jointly owned by the private-equity firm The Carlyle Group and GIC, Singapore's sovereign wealth fund.",
   "source": {
-    "name": "Nouryon, Information for investor relations",
+    "name": "Nouryon: Information for investor relations (undated page, read September 2026)",
     "date": "2026-09",
-    "url": "https://www.nouryon.com/company/investor-relations"
+    "url": "https://www.nouryon.com/company/investor-relations",
+    "quote": "Nouryon is a privately-held, global specialty chemicals company jointly owned by private equity firm The Carlyle Group and Singapore’s sovereign wealth fund, GIC",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "The Chemical Engineer (IChemE, Adam Duckett): AkzoNobel Specialty Chemicals renamed Nouryon",
+      "date": "2018-10-10",
+      "url": "https://www.thechemicalengineer.com/news/akzonobel-specialty-chemicals-renamed-nouryon/",
+      "quote": "AKZONOBEL Specialty Chemicals has been renamed Nouryon following its sale to the Carlyle Croup and Singapore’s sovereign wealth fund (GIC).",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

@@ -1,0 +1,30 @@
+{
+  "id": "aeroflot-state-stake",
+  "ownerIds": [
+    "russian-federation"
+  ],
+  "text": "The Russian state owns 73.77% of Aeroflot.",
+  "source": {
+    "name": "PJSC Aeroflot Investor Relations: Shareholder Capital",
+    "date": "2026-09-26",
+    "url": "https://ir.aeroflot.com/ensecurities/shareholder-capital/",
+    "quote": "The largest stakeholder in PJSC Aeroflot is the Russian Federation, which has a stake of 73.77% in the Company.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "bne IntelliNews: Russia seeks partial privatisation of state carrier Aeroflot",
+      "date": "2026-05-26",
+      "url": "https://www.intellinews.com/russia-seeks-partial-privatisation-of-state-carrier-aeroflot-445079/",
+      "quote": "The state currently owns 73.77% of Aeroflot, while the free float stands at 25.03%.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

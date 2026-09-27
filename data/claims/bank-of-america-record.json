@@ -3,12 +3,28 @@
   "ownerIds": [
     "bank-of-america"
   ],
-  "text": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no state shareholder - the US Treasury's crisis-era TARP stake is long gone. Its human-rights relevance is conduct rather than ownership: BofA is among the largest global financiers of fossil fuels and carried multi-billion-dollar mortgage and securities settlements after 2008. That gives a genuine but lesser documented record, hence concern rather than none.",
-  "short": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+  "text": "The 2026 Banking on Climate Chaos report by Rainforest Action Network and other groups found that Bank of America provided about $47 billion in financing to fossil fuel companies in 2025, the second-largest amount among the world's 65 largest banks.",
   "source": {
-    "name": "Bank of America Corporation DEF 14A 2026 (SEC)",
-    "date": "2026-03-23",
-    "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm"
+    "name": "Rainforest Action Network (with BankTrack, Sierra Club, Reclaim Finance et al.): Banking on Climate Chaos 2026 press release",
+    "date": "2026-06-08",
+    "url": "https://www.ran.org/press-releases/bocc26/",
+    "quote": "providing $58 billion to fossil fuel companies in 2025, up 12.6% from 2024. Bank of America ranks second at $47 billion",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "ESG Dive (Lamar Johnson): Banks' fossil fuel financing increased 8% in 2025: report",
+      "date": "2026-06-09",
+      "url": "https://www.esgdive.com/news/banks-fossil-fuel-financing-increased-8-in-2025-report/822387/",
+      "quote": "Bank of America committed the second-highest financing to fossil fuel companies for the second year in a row, with $47.3 billion in funding tallied for 2025.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

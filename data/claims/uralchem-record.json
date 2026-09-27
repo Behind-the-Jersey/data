@@ -3,12 +3,28 @@
   "ownerIds": [
     "uralchem"
   ],
-  "text": "Uralkali's controlling shareholder is Uralchem PJSC, which holds 81.47% of Uralkali; Uralchem is a private company, with Dmitry Mazepin previously holding 100% and selling a controlling 52% stake in 2022. No direct Russian state or state-fund stake is documented, so the ultimate owner is a private Russian holding.",
-  "short": "Uralkali's controlling shareholder is Uralchem PJSC, which holds 81.47% of Uralkali; Uralchem is a private company, with Dmitry Mazepin previously holding 100% and….",
+  "text": "Uralchem, a Russian fertiliser company, took control of more than 75% of Uralkali in December 2020.",
   "source": {
-    "name": "Fitch Ratings (rating action recording Uralchem's 81.47% stake); Reuters (Mazepin sells controlling stake in Uralchem)",
-    "date": "2021-10-05 / 2022",
-    "url": "https://www.fitchratings.com/research/corporate-finance/fitch-revises-uralkali-outlook-to-negative-affirms-at-bb-05-10-2021"
+    "name": "Uralchem: URALCHEM acquires a controlling stake in Uralkali",
+    "date": "2020-12-02",
+    "url": "https://www.uralchem.com/press/news/item23438/?SECT=corporate_events",
+    "quote": "After the transaction, URALCHEM, JSC obtained the right to control more than 75% of Uralkali’s authorized capital.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Vedomosti: «Уралхим» Дмитрия Мазепина купил «Уралкалий» (Dmitry Mazepin's Uralchem buys Uralkali)",
+      "date": "2020-12-03",
+      "url": "https://www.vedomosti.ru/business/articles/2020/12/02/849285-uralhim-mazepina",
+      "quote": "В результате доля Rinsoco Trading в «Уралкалии» снизилась с 53,62 до 18,53%, а компании Мазепина – выросла с 46,37 до 81,47%.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

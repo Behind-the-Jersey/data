@@ -3,12 +3,16 @@
   "ownerIds": [
     "frost-bank-owner"
   ],
-  "text": "Cullen/Frost Bankers, Inc. is a publicly traded company listed on the NYSE under ticker CFR.",
-  "short": "Cullen/Frost Bankers, Inc.",
+  "text": "Cullen/Frost Bankers, Inc.'s 2026 proxy statement describes its Audit, Compensation and Benefits, and Corporate Governance and Nominating Committee members as independent under New York Stock Exchange rules, consistent with an NYSE listing (ticker CFR, per SEC/NYSE listing records).",
   "source": {
     "name": "SEC DEF 14A for Cullen/Frost Bankers, Inc.",
     "date": "2026-03-20",
-    "url": "https://www.sec.gov/Archives/edgar/data/39263/000003926326000023/cfr-20260320.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/39263/000003926326000023/cfr-20260320.htm",
+    "quote": "is independent within the meaning of the rules of the New York Stock Exchange, Inc. (\"NYSE\").",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

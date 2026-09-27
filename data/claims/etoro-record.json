@@ -3,12 +3,16 @@
   "ownerIds": [
     "etoro"
   ],
-  "text": "eToro Group Ltd. is an Israeli-founded, UK-headquartered trading platform that went public on Nasdaq in May 2025, pricing an upsized IPO of 13.7m Class A shares at $52.00 for gross proceeds of $403m; founders retain control through a dual-class structure. There is no state stake. Human-rights relevance is retail-CFD selling conduct and crypto exposure.",
-  "short": "eToro Group Ltd.",
+  "text": "eToro Group Ltd. is an Israeli-founded, UK-headquartered trading platform that went public on Nasdaq on May 15, 2025, in an upsized IPO of 13,711,470 Class A shares at $52.00 per share, for gross proceeds of $403.0 million.",
   "source": {
     "name": "eToro Group Ltd. Form 6-K (SEC) - IPO consummation",
     "date": "2025-05-15",
-    "url": "https://www.sec.gov/Archives/edgar/data/1493318/000121390025044406/ea0242225-6k_etoro.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1493318/000121390025044406/ea0242225-6k_etoro.htm",
+    "quote": "On May 15, 2025, eToro Group Ltd. (the “Company”) consummated its initial public offering (“IPO”) of 13,711,470 shares of Class A Common Shares, no par value",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

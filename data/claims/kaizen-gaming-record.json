@@ -3,12 +3,16 @@
   "ownerIds": [
     "kaizen-gaming"
   ],
-  "text": "Betano is owned by Kaizen Gaming International Limited, a private Greek-founded GameTech group; its parent has reached decacorn status and Allwyn holds a 36.75% stake. Owners are private investors (Allwyn/KKCG of Czech billionaire Karel Komarek), with no state or state-fund owner.",
-  "short": "Betano is owned by Kaizen Gaming International Limited, a private Greek-founded GameTech group; its parent has reached decacorn status and Allwyn holds a 36.75%….",
+  "text": "Betano's parent, Kaizen Gaming, is privately held. Per Allwyn's own press release, OPAP Investment Limited, 'a wholly owned subsidiary of OPAP S.A.,' transferred its 36.75% minority interest in Kaizen Gaming's Betano business (outside Greece and Cyprus) to Allwyn Investments Cyprus Limited, 'a fully owned indirect subsidiary of Allwyn International a.s.'; no state or state-fund owner is named.",
   "source": {
-    "name": "Kaizen Gaming official; EGR Global (Allwyn 36.75% stake)",
-    "date": "2026",
-    "url": "https://www.egr.global/intel/news/betanos-parent-company-achieves-decacorn-status/"
+    "name": "Allwyn: Transfer of OPAP's minority stake in the Betano Business",
+    "date": "2022-12-26",
+    "url": "https://www.allwyn.com/news/transfer-of-opap-s-minority-stake-in-the-betano-business",
+    "quote": "transferred today its 36.75% minority interest in the business activities of Kaizen Gaming Limited outside Greece and Cyprus (the \"Betano Business\") to Allwyn Investments Cyprus Limited",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

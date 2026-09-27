@@ -7,8 +7,13 @@
   "short": "Fifth Third Bancorp is a publicly traded company listed on the NASDAQ under ticker FITB.",
   "source": {
     "name": "SEC DEF 14A for Fifth Third Bancorp",
-    "date": "2026-03-09",
-    "url": "https://www.sec.gov/Archives/edgar/data/35527/000119312526098679/d47600ddef14a.htm"
+    "date": "2026-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/35527/000119312526098679/d47600ddef14a.htm",
+    "quote": "This Proxy Statement includes information regarding the matters to be acted upon at the 2026 Fifth Third Bancorp Annual Meeting of Shareholders",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

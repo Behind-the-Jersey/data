@@ -3,12 +3,16 @@
   "ownerIds": [
     "uchealth"
   ],
-  "text": "UCHealth is a non-profit health system headquartered in Aurora, Colorado, formed from University of Colorado Hospital and Poudre Valley Health System. It has no shareholders and no direct state owner, although it is academically tied to the University of Colorado. The Colorado Rapids front deal is non-profit health money.",
-  "short": "UCHealth is a non-profit health system headquartered in Aurora, Colorado, formed from University of Colorado Hospital and Poudre Valley Health System.",
+  "text": "UCHealth is a non-profit health system academically tied to the University of Colorado; the hospital and university are legally and financially separate organizations, and the hospital gets no direct state general fund support.",
   "source": {
     "name": "UCHealth newsroom, 'About UCHealth'",
     "date": "2026-09",
-    "url": "https://www.uchealth.org/newsroom/about-uchealth/"
+    "url": "https://www.uchealth.org/newsroom/about-uchealth/",
+    "quote": "Despite the similarity in the names, the hospital and the university are legally and financially separate organizations. The hospital itself gets no direct state general fund support.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

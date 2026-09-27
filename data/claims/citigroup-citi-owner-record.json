@@ -3,12 +3,28 @@
   "ownerIds": [
     "citigroup-citi-owner"
   ],
-  "text": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to Iran/Sudan/Libya/Burma.",
-  "short": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
+  "text": "Citigroup is a NYSE-listed bank with no state ownership (largest holders are institutional investors under 10% each); it paid a $217,841 OFAC settlement in 2014 over Iran-related sanctions violations (not Sudan, Libya, or Burma).",
   "source": {
     "name": "Citigroup DEF 14A 2026",
     "date": "2026-04-02",
-    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm",
+    "quote": "BlackRock and Vanguard each reported that they beneficially owned 5% or more of the outstanding shares of Citi's common stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "U.S. Department of the Treasury, OFAC — 'Citigroup Inc. Settles Potential Civil Liability for Apparent Violations of Multiple Sanctions Programs'",
+      "url": "https://ofac.treasury.gov/media/13556/download",
+      "date": "2014-09-03",
+      "quote": "Citigroup Inc. (Citigroup), New York, New York, has agreed to remit $217,841 to settle potential civil liability for eight apparent violations of the Iranian Transactions and Sanctions Regulations",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

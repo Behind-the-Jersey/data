@@ -3,12 +3,16 @@
   "ownerIds": [
     "recruit-holdings"
   ],
-  "text": "Recruit Holdings Co., Ltd. is a Tokyo-listed global HR-technology group whose group companies include Indeed and Glassdoor. No state or state-fund owner.",
-  "short": "Recruit Holdings is a Tokyo-listed group and the parent of Indeed.",
+  "text": "Recruit Holdings Co., Ltd., whose group companies include Indeed and Glassdoor, is listed on the Tokyo Stock Exchange Prime Section (code 6098). Per its own investor relations disclosure, its main shareholders as of 31 March 2026 are trust-bank nominees The Master Trust Bank of Japan (18.81%) and Custody Bank of Japan (7.17%), and State Street Bank and Trust Company (3.24%); no state or sovereign-fund owner is identified.",
   "source": {
-    "name": "Recruit Holdings, Group Companies",
+    "name": "Recruit Holdings Co., Ltd.: 'Stock Information' (Investor Relations)",
     "date": "2026",
-    "url": "https://recruit-holdings.com/en/about/group"
+    "url": "https://recruit-holdings.com/en/ir/resources/stock-information/",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust account) 271,578 18.81 Custody Bank of Japan, Ltd. (Trust account) 103,648 7.17",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

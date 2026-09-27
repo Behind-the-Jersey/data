@@ -3,13 +3,28 @@
   "ownerIds": [
     "government-of-rwanda"
   ],
-  "text": "M23 rebels take about $800,000 a month in levies on coltan mining.",
-  "short": "$800k a month in coltan levies taken by M23",
+  "text": "UN experts estimated that M23 rebels made $800,000 a month from the coltan trade in Rubaya, in eastern DR Congo.",
   "source": {
-    "name": "UN Group of Experts on the DR Congo, final report",
-    "date": "2024",
-    "url": "https://docs.un.org/en/S/2024/432",
-    "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
+    "name": "UN Security Council, Group of Experts on the DR Congo: Midterm report (S/2024/969)",
+    "date": "2024-12-27",
+    "url": "https://docs.un.org/en/S/2024/969",
+    "quote": "AFC/M23 thus collected at least $800,000 monthly from the taxation of coltan production and trade in Rubaya.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Global Witness: New investigation suggests EU trader Traxys buys conflict minerals from DRC",
+      "date": "2025-04-15",
+      "url": "https://globalwitness.org/en/press-releases/new-investigation-suggests-eu-trader-traxys-buys-conflict-minerals-from-drc/",
+      "quote": "According to UN experts the ore trade has provided M23 a revenue estimated at US$800,000 per month.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "sesame-hr-sl"
   ],
-  "text": "Sesame HR is a Valencia-based HR-software scale-up founded 2015 and held privately/VC-backed: Series A led by PSG Equity, a later EUR 23m round led by GP Bullhound with PSG, and a EUR 50m debt facility from BBVA Spark. No state or sovereign-fund shareholder.",
-  "short": "Sesame HR is a Valencia-based HR-software scale-up founded 2015 and held privately/VC-backed: Series A led by PSG Equity, a later EUR 23m round led by GP Bullhound….",
+  "text": "Sesame HR is a Valencia-based HR-software company backed by PSG Equity (a Series A investor) and, per a May 2024 announcement, a new €23 million round led by GP Bullhound with PSG's participation.",
   "source": {
     "name": "PSG Equity press release on Sesame's EUR 23m round; GP Bullhound Fund VI announcement",
     "date": "2024-05-08",
-    "url": "https://psgequity.com/news/sesame-closes-new-investment-round-of-23m-to-continue-its-investment-in-ai-and-accelerate-international-expansion"
+    "url": "https://psgequity.com/news/sesame-closes-new-investment-round-of-23m-to-continue-its-investment-in-ai-and-accelerate-international-expansion",
+    "quote": "The new round is led by GP Bullhound with participation from Series A investor PSG.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

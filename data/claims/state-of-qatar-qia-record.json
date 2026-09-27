@@ -3,12 +3,28 @@
   "ownerIds": [
     "state-of-qatar-qia"
   ],
-  "text": "Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio alongside QNB and Ooredoo. There are no private shareholders and no listing.",
-  "short": "Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio….",
+  "text": "Qatar Airways is fully owned by the government of Qatar, after Qatar's sovereign wealth fund bought the 50% stake held by a former prime minister and other shareholders.",
   "source": {
-    "name": "Qatar Investment Authority, Portfolio",
-    "date": "2026-09",
-    "url": "https://www.qia.qa/en/Portfolio/Pages/default.aspx"
+    "name": "Reuters, via Arab News: Qatar Airways fully government owned since last July, says CEO",
+    "date": "2014-05-06",
+    "url": "https://www.arabnews.com/business/qatar-airways-fully-government-owned-since-last-july-says-ceo-566361",
+    "quote": "the airline was now fully government owned after the country’s sovereign fund bought a 50-percent stake from Qatar’s former prime minister and other shareholders",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Gulf News: Investors should not hold their breath over Qatar Airways IPO",
+      "date": "2022-05-28",
+      "url": "https://gulfnews.com/business/aviation/investors-should-not-hold-their-breath-over-qatar-airways-ipo-1.88195530",
+      "quote": "The Gulf country’s flag carrier became fully government owned in 2014 after Qatar’s sovereign fund bought a 50 per cent stake from a former prime minister and other shareholders.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

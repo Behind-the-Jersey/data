@@ -3,12 +3,28 @@
   "ownerIds": [
     "saudi-aramco"
   ],
-  "text": "Valvoline Global Operations is the former Valvoline Inc. global products business, bought outright by Saudi Aramco for USD 2.65bn and completed on 2 March 2023; it is now an Aramco subsidiary, with only the US quick-lube business remaining listed as Valvoline Inc. Aramco is majority-owned by the Saudi Arabian Government (around 81.5% direct after the 2024 secondary offering, plus a further block via PIF's Sanabil). The Aston Martin sponsorship is therefore Saudi state money.",
-  "short": "Valvoline Global Operations is the former Valvoline Inc.",
+  "text": "Saudi Aramco completed its USD 2.65 billion purchase of Valvoline Inc.'s global products business, now Valvoline Global Operations, in March 2023.",
   "source": {
-    "name": "Aramco, 'Aramco completes $2.65bn acquisition of Valvoline Inc's global products business'",
+    "name": "Aramco: Aramco completes $2.65bn acquisition of Valvoline Inc’s global products business (‘Valvoline Global Operations’)",
     "date": "2023-03-02",
-    "url": "https://www.aramco.com/en/news-media/news/2023/aramco-completes-acquisition-of-valvoline"
+    "url": "https://www.aramco.com/en/news-media/news/2023/aramco-completes-acquisition-of-valvoline",
+    "quote": "The Saudi Arabian Oil Company (‘Aramco’) has completed the acquisition of the Valvoline Inc. (NYSE: VVV) global products business (‘Valvoline Global Operations’) for $2.65 billion",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "The National (John Benny): Saudi Aramco completes $2.65bn acquisition of Valvoline's products business",
+      "date": "2023-03-02",
+      "url": "https://www.thenationalnews.com/business/energy/2023/03/02/saudi-aramco-completes-265bn-acquisition-of-valvolines-products-business/",
+      "quote": "Saudi Aramco has completed its acquisition of US motor oil and lubricant maker Valvoline's global products business for $2.65 billion.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

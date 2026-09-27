@@ -8,7 +8,24 @@
   "source": {
     "name": "Intuit Inc. DEF 14A (2026 proxy), Security Ownership Table, filed with the SEC",
     "date": "2025-11-26",
-    "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000057/intu-20251126.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000057/intu-20251126.htm",
+    "quote": "5% Stockholders: The Vanguard Group (19) 28,621,457 10.28 % BlackRock, Inc. (20) 23,374,934 8.39 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Federal Trade Commission press release, \"FTC Issues Opinion Finding that TurboTax Maker Intuit Inc. Engaged in Deceptive Practices\"",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-issues-opinion-finding-turbotax-maker-intuit-inc-engaged-deceptive-practices",
+      "date": "2024-01-22",
+      "quote": "engaged in deceptive advertising in violation of the FTC Act and deceived consumers when it ran ads for “free” tax products and services for which many consumers were ineligible.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

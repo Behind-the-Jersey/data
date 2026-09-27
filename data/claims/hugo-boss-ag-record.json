@@ -3,12 +3,16 @@
   "ownerIds": [
     "hugo-boss-ag"
   ],
-  "text": "HUGO BOSS AG is a Frankfurt-listed stock corporation whose shares are predominantly in free float with institutional investors - no state shareholder.",
-  "short": "HUGO BOSS AG is a Frankfurt-listed stock corporation whose shares are predominantly in free float with institutional investors - no state shareholder.",
+  "text": "HUGO BOSS AG is a Frankfurt-listed stock corporation with a concentrated shareholder base: Frasers Group plc holds approximately 48% of voting rights, and Marzotto-family entities (PFC S.p.A./Zignago Holding S.p.A.) hold about 14%, with roughly 38% in free float. No state shareholder.",
   "source": {
-    "name": "HUGO BOSS Group - shareholder structure",
-    "date": "2026-09-24",
-    "url": "https://group.hugoboss.com/en/investors/share/shareholder-structure"
+    "name": "HUGO BOSS Group: Shareholder structure",
+    "date": "2026-08",
+    "url": "https://group.hugoboss.com/en/investors/share/shareholder-structure",
+    "quote": "Frasers Group plc holds approximately 48% of the voting rights, while PFC S.p.A. and Zignago Holding S.p.A., both controlled by the Marzotto family, collectively own around 14%",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "clickhouse-inc"
   ],
-  "text": "ClickHouse, Inc. is a private US analytics company; its later round (led by Dragoneer) and Series C (led by Khosla Ventures) brought in financial investors. Owner is private; only minority sovereign-fund exposure (GIC, Singapore).",
-  "short": "ClickHouse, Inc. is a private, VC-backed US company.",
+  "text": "ClickHouse, Inc.'s $350 million Series C (announced May 2025) was led by Khosla Ventures, with existing investor GIC — Singapore's sovereign wealth fund — among the participants, alongside Index Ventures, Lightspeed, Benchmark, Coatue, FirstMark and Nebius. This source does not mention any separate Dragoneer-led round, which would need its own source to verify.",
   "source": {
-    "name": "ClickHouse, Series C announcement",
-    "date": "2025-05",
-    "url": "https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"
+    "name": "ClickHouse: ClickHouse raises $350 million Series C to power analytics for the AI era",
+    "date": "2025-05-29",
+    "url": "https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era",
+    "quote": "The round was led by Khosla Ventures, with participation from new investors BOND, IVP, Battery Ventures, and Bessemer Venture Partners, as well as existing investors including Index Ventures, Lightspeed, GIC",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

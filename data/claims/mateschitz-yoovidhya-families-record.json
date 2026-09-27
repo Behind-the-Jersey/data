@@ -3,12 +3,16 @@
   "ownerIds": [
     "mateschitz-yoovidhya-families"
   ],
-  "text": "Red Bull GmbH is privately held: the founding Yoovidhya family of Thailand holds 51% and the Mateschitz family holds 49%. Neither owner is a state or state fund (Thailand's state is not in the chain).",
-  "short": "Red Bull GmbH is privately held by two families.",
+  "text": "Red Bull GmbH is privately held: Mark Mateschitz holds a 49% stake in Red Bull inherited from his father, co-founder Dietrich Mateschitz, with the remaining stake held by the Thai Yoovidhya family (co-founded by Chaleo Yoovidhya). Neither owner is a state or state fund.",
   "source": {
     "name": "Reuters, Red Bull leadership after co-founder's death",
     "date": "2022-11-04",
-    "url": "https://www.reuters.com/business/retail-consumer/trio-lead-energy-drinks-giant-red-bull-after-co-founders-death-2022-11-04/"
+    "url": "https://www.reuters.com/business/retail-consumer/trio-lead-energy-drinks-giant-red-bull-after-co-founders-death-2022-11-04/",
+    "quote": "he had stepped down from his job at the company to focus on managing the 49% stake in Red Bull he inherited from his father",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

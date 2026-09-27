@@ -3,12 +3,16 @@
   "ownerIds": [
     "salesforce-inc"
   ],
-  "text": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder.",
-  "short": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder.",
+  "text": "Salesforce, Inc. is listed on the NYSE (CRM); per its 2026 proxy statement, its largest disclosed 'Five Percent Stockholders' are The Vanguard Group (10.2%), BlackRock, Inc. (8.9%) and State Street Corporation (6.0%). No state or sovereign-fund holder is listed among them.",
   "source": {
-    "name": "Salesforce - investor relations / NYSE listing",
-    "date": "2026-09-24",
-    "url": "https://investor.salesforce.com/"
+    "name": "Salesforce, Inc., 2026 Proxy Statement (DEF 14A)",
+    "date": "2026-04-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000085/crm-20260416.htm",
+    "quote": "This table is based on information provided to us or filed with the SEC by our directors and director nominees, executive officers and principal stockholders.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -8,7 +8,24 @@
   "source": {
     "name": "US Federal Trade Commission press release - Herbalife $200m settlement",
     "date": "2016-07-15",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress"
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress",
+    "quote": "Herbalife International of America, Inc., Herbalife International, Inc., and Herbalife, Ltd. have agreed to fully restructure their U.S. business operations and pay $200 million",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Herbalife Ltd. SEC Form 8-K, Exhibit 99.1 (company press release filed with SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001180262/000119312516649046/d222756dex991.htm",
+      "date": "2016-07-15",
+      "quote": "Herbalife also agreed to make a $200 million payment to the FTC as part of the settlement.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

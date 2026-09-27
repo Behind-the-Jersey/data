@@ -1,0 +1,30 @@
+{
+  "id": "pnc-national-city-fair-lending-2013",
+  "ownerIds": [
+    "pnc-bank-pnc-financial-services-owner"
+  ],
+  "text": "In December 2013 PNC agreed to pay $35 million in restitution to settle a joint Consumer Financial Protection Bureau and Justice Department complaint alleging that National City Bank, which PNC acquired in 2008, charged African-American and Hispanic borrowers higher mortgage prices than comparable white borrowers between 2002 and 2008.",
+  "source": {
+    "name": "Consumer Financial Protection Bureau: CFPB and DOJ Take Action Against National City Bank for Discriminatory Mortgage Pricing",
+    "date": "2013-12-23",
+    "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-and-doj-take-action-against-national-city-bank-for-discriminatory-mortgage-pricing/",
+    "quote": "requires National City Bank, through its successor PNC Bank, to pay $35 million in restitution to harmed African-American and Hispanic borrowers.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "American Banker: PNC Agrees to $35M Settlement Over NatCity Loans",
+      "date": "2013-12-23",
+      "url": "https://www.americanbanker.com/news/pnc-agrees-to-35m-settlement-over-natcity-loans",
+      "quote": "Since PNC now owns the once-struggling National City, it has agreed to pay $35 million in restitution to affected minority borrowers.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

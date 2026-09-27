@@ -1,0 +1,30 @@
+{
+  "id": "aeroflot-sanctions-2022",
+  "ownerIds": [
+    "russian-federation"
+  ],
+  "text": "In March 2022, faced with Western sanctions over Russia's invasion of Ukraine, Aeroflot stopped almost all of its international flights.",
+  "source": {
+    "name": "Fortune: Russia’s flag carrier, Aeroflot, is canceling its international flights to stop foreign governments seizing its planes",
+    "date": "2022-03-07",
+    "url": "https://fortune.com/2022/03/07/aeroflot-sanctions-flights-canceled-planes-seized-eu-russia-sanctions-ukraine/",
+    "quote": "Aeroflot, is halting almost all its international flights over fears that its planes will be impounded overseas by countries that have imposed sanctions on Russia’s aviation industry",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Al Jazeera: Aeroflot halting all foreign flights, minus Belarus, from March 8",
+      "date": "2022-03-05",
+      "url": "https://www.aljazeera.com/news/2022/3/5/aeroflot-halting-all-foreign-flights-minus-belarus-from-march-8",
+      "quote": "suspending all international flights – except to neighbouring Belarus – starting on March 8, as Moscow faces a sweeping range of Western sanctions over its invasion of Ukraine.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

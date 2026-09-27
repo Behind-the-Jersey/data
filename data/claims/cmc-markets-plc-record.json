@@ -3,12 +3,16 @@
   "ownerIds": [
     "cmc-markets-plc"
   ],
-  "text": "CMC Markets plc is a London-listed CFD broker founded by Peter Cruddas, Baron Cruddas, whose family is a significant shareholder alongside a free float. No state or state-fund owner.",
-  "short": "CMC Markets plc is a London-listed broker with a founder-family stake.",
+  "text": "CMC Markets plc is listed on the London Stock Exchange Main Market. Per its FY2026 Annual Report's substantial-shareholdings disclosure (as at 31 March 2026), Lord Peter Andrew Cruddas holds 59.03% of voting rights and Mrs Fiona Cruddas 3.21%, with Aberforth Partners LLP (5.27%) and Schroders plc (5.06%) the next-largest holders; no state or state-fund shareholder is listed.",
   "source": {
-    "name": "CMC Markets, press release (Peter Cruddas appointed to the House of Lords)",
-    "date": "2020",
-    "url": "https://www.cmcmarkets.com/group/press-releases/peter-cruddas-appointed-to-the-house-of-lords-as-baron-cruddas-of-shoreditch"
+    "name": "CMC Markets plc, Annual Report and Financial Statements 2026 (p.95, Substantial shareholdings)",
+    "date": "2026-06",
+    "url": "https://downloads.ctfassets.net/qjd94rsxb7ou/5CEECLXneI4XKOeERRNCBb/a2b42e4f39cc3441ee222371df7fe259/cmc_markets_annual_report_fy26.pdf",
+    "quote": "Information provided to the Company by substantial shareholders pursuant to the DTRs is published via a Regulatory Information Service and on the Company's website",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

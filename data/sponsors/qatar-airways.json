@@ -7,15 +7,17 @@
   "status": "rated",
   "verdict": "Qatar Airways Group Q.C.S.C.",
   "claimIds": [
-    "government-of-qatar-record"
+    "government-of-qatar-record",
+    "qatar-world-cup-migrant-abuses"
   ],
   "aliases": [],
   "note": "Rating note: Owner is a sovereign state, not a state fund, and Qatar is not a party to an armed conflict, so serious rather than severe. Migrant-worker deaths and unpaid wages documented by HRW and Amnesty; Qatar reformed kafala in 2020 but remedy/compensation remains outstanding (https://www.hrw.org/news/2022/11/17/fifa/qatar-migrant-workers-call-for-compensation-for-abuses).",
   "why": {
-    "text": "Qatar Airways is wholly owned by the Government of Qatar. Its kafala labour system led to documented serious abuses of migrant workers before the 2022 World Cup, and Amnesty International reports that workers are still exposed to exploitation and that expression and assembly are tightly restricted. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "Qatar Airways is wholly owned by the Government of Qatar. In the years before the 2022 World Cup, migrant workers in Qatar faced widespread abuses, including unpaid wages, recruitment fees and deaths, and Amnesty International reports that workers are still exposed to exploitation and that expression and assembly are tightly restricted. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
       "government-of-qatar-record",
-      "gov-qatar-record"
+      "gov-qatar-record",
+      "qatar-world-cup-migrant-abuses"
     ],
     "messageLine": "Amnesty International reports that migrant workers in Qatar are still exposed to exploitation.",
     "status": "draft"

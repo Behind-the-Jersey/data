@@ -5,6 +5,7 @@ Standard library only, so contributors and agents can run the scripts with a pla
 import json
 import os
 import re
+import urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
@@ -93,6 +94,68 @@ def owner_chain(owners, owner_id):
     while owner_id and owner_id in owners and owner_id not in out:
         out.append(owner_id)
         owner_id = owners[owner_id].get('parentId')
+    return out
+
+
+# ------------------------------------------------------------------ the evidence standard (METHOD.md)
+
+def claim_sources(claim):
+    """A claim's source and its additional sources."""
+    return [x for x in [claim.get('source'), *(claim.get('additionalSources') or [])] if x]
+
+
+def source_checked(src):
+    """Opened and confirmed: it has a link, words copied from the page, and who checked it when."""
+    return bool(src and src.get('url') and src.get('quote') and src.get('checked'))
+
+
+def publisher(url):
+    """The site a link belongs to, to tell independent sources apart: www.hrw.org -> hrw.org."""
+    host = (urllib.parse.urlsplit(url or '').hostname or '').lower()
+    parts = host[4:].split('.') if host.startswith('www.') else host.split('.')
+    two_part_tld = len(parts) >= 3 and len(parts[-1]) == 2 and parts[-2] in {'co', 'com', 'org', 'net', 'gov', 'ac', 'or', 'ne', 'go'}
+    return '.'.join(parts[-3:] if two_part_tld else parts[-2:])
+
+
+def claim_checked(claim):
+    """Every source on the claim is checked. Only checked claims are published."""
+    xs = claim_sources(claim)
+    return bool(xs) and all(source_checked(x) for x in xs)
+
+
+def claim_corroborated(claim):
+    """Checked, with sources from at least two different publishers."""
+    return claim_checked(claim) and len({publisher(x['url']) for x in claim_sources(claim)}) >= 2
+
+
+def rating_hold(sponsor, claims):
+    """Why a sponsor's rating can't be published yet, or None. A held rating is published as not rated yet.
+
+    Every claim a rating rests on must be checked; for Concern, Serious and Severe each of them also
+    needs a second, independent source."""
+    if sponsor['tier'] == 'unrated':
+        return None
+    ids = list(dict.fromkeys(sponsor['claimIds'] + ((sponsor.get('why') or {}).get('claimIds') or [])))
+    unchecked = [i for i in ids if i in claims and not claim_checked(claims[i])]
+    if unchecked:
+        return 'evidence not checked yet: ' + ', '.join(unchecked)
+    if TIER_SCORE[sponsor['tier']]:
+        single = [i for i in ids if i in claims and not claim_corroborated(claims[i])]
+        if single:
+            return 'needs a second, independent source: ' + ', '.join(single)
+    return None
+
+
+def published_sponsor(sponsor, claims):
+    """The sponsor as the release publishes it: only checked claims, and a held rating as not rated yet."""
+    out = dict(sponsor)
+    out['claimIds'] = [i for i in sponsor['claimIds'] if i in claims and claim_checked(claims[i])]
+    hold = rating_hold(sponsor, claims)
+    why = sponsor.get('why')
+    if why and (hold or not all(i in claims and claim_checked(claims[i]) for i in why['claimIds'])):
+        del out['why']
+    if hold:
+        out.update(tier='unrated', status='being-rated', hold=hold, heldTier=sponsor['tier'])
     return out
 
 

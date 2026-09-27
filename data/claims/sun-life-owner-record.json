@@ -3,12 +3,16 @@
   "ownerIds": [
     "sun-life-owner"
   ],
-  "text": "Sun Life Financial Inc. is a TSX- and NYSE-listed financial services company with no state ownership; no single shareholder beneficially owns more than 10% of shares.",
-  "short": "Sun Life Financial Inc.",
+  "text": "Sun Life Financial Inc.'s common shares, per its own 2026 Annual Information Form, 'are listed on the Toronto, New York and Philippines stock exchanges, under the ticker symbol \"SLF\".' The same filing states that information on holders of its securities is instead disclosed in a separate management information circular, which was not available to check.",
   "source": {
-    "name": "Sun Life Financial 40-F 2026",
-    "date": "2026-02-12",
-    "url": "https://www.sec.gov/Archives/edgar/data/1097362/000109736226000010/slf-20251231.htm"
+    "name": "Sun Life Financial Inc., Annual Information Form (Exhibit 99.3 to 2026 Form 40-F)",
+    "date": "2026-02-11",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097362/000109736226000010/annualaifmasterlivemasterq.htm",
+    "quote": "are listed on the Toronto, New York and Philippines stock exchanges, under the ticker symbol \"SLF\"",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

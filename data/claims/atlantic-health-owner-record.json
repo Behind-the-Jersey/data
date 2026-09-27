@@ -3,12 +3,16 @@
   "ownerIds": [
     "atlantic-health-owner"
   ],
-  "text": "Atlantic Health System is the ultimate owner of Atlantic Health.",
-  "short": "Atlantic Health System is the ultimate owner of Atlantic Health.",
+  "text": "Atlantic Health is operated by Atlantic Health System Inc., a Morristown, NJ nonprofit organization (EIN 22-3380375) that the IRS lists as 'Designated as a 501(c)(3)', with its tax-exemption ruling dated September 2006.",
   "source": {
-    "name": "Atlantic Health System About Us",
-    "date": "2026-09-25",
-    "url": "https://www.atlantichealthsystem.org/about-us"
+    "name": "ProPublica Nonprofit Explorer: Atlantic Health System Inc",
+    "date": "2026",
+    "url": "https://projects.propublica.org/nonprofits/organizations/223380375",
+    "quote": "Designated as a 501(c)(3)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

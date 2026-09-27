@@ -3,12 +3,16 @@
   "ownerIds": [
     "starr-insurance-owner"
   ],
-  "text": "Starr Insurance Companies is a privately held international insurance group owned by C.V. Starr & Co. (Cornelius Vander Starr legacy), with no state ownership.",
-  "short": "Starr Insurance Companies is a privately held international insurance group owned by C.V.",
+  "text": "Starr Insurance Companies is a privately held international insurance group whose ultimate parent is Starr International Company, Inc. (SICO), tracing back to Cornelius Vander Starr, with no state ownership.",
   "source": {
     "name": "Legal Clarity Starr Insurance parent company page",
-    "date": "2026-09-24",
-    "url": "https://legalclarity.org/who-owns-starr-insurance-parent-company-and-structure"
+    "date": "2026-06-11",
+    "url": "https://legalclarity.org/who-owns-starr-insurance-parent-company-and-structure",
+    "quote": "The ultimate parent of the insurance operations is Starr International Company, Inc. (commonly called SICO), a private holding company now domiciled in Switzerland",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

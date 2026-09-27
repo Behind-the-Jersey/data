@@ -3,12 +3,28 @@
   "ownerIds": [
     "government-of-qatar"
   ],
-  "text": "Qatar Airways Group Q.C.S.C. is incorporated in Qatar and 'is ultimately wholly owned by the Government of the State of Qatar (the \"Shareholder\")'; the state's kafala/migrant-labour system produced documented serious abuses in the run-up to the 2022 World Cup.",
-  "short": "Qatar Airways Group Q.C.S.C.",
+  "text": "Qatar Airways Group is wholly owned by the Government of the State of Qatar.",
   "source": {
-    "name": "Qatar Airways Group audited consolidated financial statements (note: corporate information); Human Rights Watch",
-    "date": "2022-03 / 2022-11",
-    "url": "https://www.qatarairways.com/content/dam/documents/annual-reports/2022/financial-statement-en.pdf"
+    "name": "Qatar Airways Group Q.C.S.C.: Consolidated financial statements for the year ended 31 March 2026 (note 1, corporate information)",
+    "date": "2026-05",
+    "url": "https://d21buns5ku92am.cloudfront.net/69647/documents/62698-1779203702-Qatar%20Airways%20Group%20Q.C.S.C%20-%20English%20-%20Consolidated%20-%20March%202026-9c5f47.pdf",
+    "quote": "The Company is ultimately wholly owned by the Government of the State of Qatar",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Reuters (Praveen Menon), via Gulf Times: Qatar Airways a fully government-owned entity now",
+      "date": "2014-05-06",
+      "url": "https://www.gulf-times.com/story/391049/qatar-airways-a-fully-government-owned-entity-now",
+      "quote": "Qatar’s sovereign wealth fund has bought the stakes in its national airline owned by private shareholders, making Qatar Airways a fully government-owned entity",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "toyota-motor-corporation"
   ],
-  "text": "Toyota Gazoo Racing is Toyota Motor Corporation's motorsport arm, so the Haas F1 title sponsorship is funded by Toyota itself. Toyota is Tokyo/NYSE-listed with a cross-holding network of Japanese financial and industrial shareholders (Toyota Industries, Nippon Life, Denso and others) and no state owner. The ownership chain is therefore purely private Japanese corporate capital.",
-  "short": "Toyota Gazoo Racing is Toyota Motor Corporation's motorsport arm, so the Haas F1 title sponsorship is funded by Toyota itself.",
+  "text": "Toyota Motor Corporation is Tokyo- and NYSE-listed. Per its FY2026 Form 20-F, Toyota states it 'is not owned or controlled, directly or indirectly, by another corporation, any foreign government or any natural or legal person'; its only disclosed 5%+ holder, Toyota Industries Corporation (9.17% as of 31 March 2026), tendered nearly all of that stake into Toyota's own share buyback, falling to 0.1% by the tender's May 2026 settlement.",
   "source": {
-    "name": "Toyota Motor Corporation Form 20-F FY2026 (SEC EDGAR)",
+    "name": "Toyota Motor Corporation Form 20-F for the fiscal year ended March 31, 2026 (SEC EDGAR)",
     "date": "2026-06-10",
-    "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/d101983d20f.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/d101983d20f.htm",
+    "quote": "To the extent known to Toyota, Toyota is not owned or controlled, directly or indirectly, by another corporation, any foreign government or any natural or legal person",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

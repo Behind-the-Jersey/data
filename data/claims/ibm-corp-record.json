@@ -3,12 +3,16 @@
   "ownerIds": [
     "ibm-corp"
   ],
-  "text": "IBM is an NYSE-listed technology company (IBM) with no state shareholder.",
-  "short": "IBM is an NYSE-listed technology company (IBM) with no state shareholder.",
+  "text": "IBM (NYSE: IBM) discloses its major shareholders in its own proxy statement: as of December 31, 2025 they are The Vanguard Group (10.03%), BlackRock Inc. (8.3%) and State Street Corporation (6.03%); no state or sovereign-fund holder is listed among them.",
   "source": {
-    "name": "IBM - investor relations / NYSE listing",
-    "date": "2026-09-24",
-    "url": "https://www.ibm.com/investor"
+    "name": "IBM, 2026 Notice of Annual Meeting & Proxy Statement (DEF 14A)",
+    "date": "2026-03-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000025/ibm-20260306.htm",
+    "quote": "information as to any person known to IBM to be the beneficial owner of more than five percent of IBM's common stock as of December 31, 2025",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

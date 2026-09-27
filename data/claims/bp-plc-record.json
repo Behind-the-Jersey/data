@@ -8,7 +8,24 @@
   "source": {
     "name": "US Department of Justice - 'U.S. and Five Gulf States Reach Historic Settlement with BP'",
     "date": "2015-10-05",
-    "url": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
+    "url": "https://web.archive.org/web/20260622123709/https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater",
+    "quote": "The federal lawsuit culminated in a three-phase civil trial in which the United States proved, among other things, that the spill was caused by BP’s gross negligence.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "U.S. Environmental Protection Agency, 'Deepwater Horizon – BP Gulf of America Oil Spill' (enforcement case page)",
+      "url": "https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-america-oil-spill",
+      "date": "2026-04-03",
+      "quote": "Phase One Trial: Findings of Fact and Conclusions of Law on Gross Negligence and Willful Misconduct",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }
