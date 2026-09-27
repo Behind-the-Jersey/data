@@ -1,0 +1,31 @@
+{
+  "id": "temasek-singapore-government-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "temasek-holdings"
+  ],
+  "text": "Temasek Holdings is Singapore's state-owned investment company: the Singapore government is its sole equity shareholder.",
+  "source": {
+    "name": "Singapore Ministry of Finance: Who manages the reserves?",
+    "date": "2026-03-04",
+    "url": "https://www.mof.gov.sg/policies/reserves/who-manages-the-reserves/",
+    "quote": "In addition, the Government is the sole equity shareholder of Temasek Holdings (Temasek).",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "CNBC (Ryan Browne): Standard Chartered chief pushes back on report that its biggest shareholder is unhappy",
+      "date": "2019-01-23",
+      "url": "https://www.cnbc.com/2019/01/23/standard-chartered-ceo-bill-winters-temasek-very-supportive.html",
+      "quote": "Singapore's state-owned investment arm Temasek",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

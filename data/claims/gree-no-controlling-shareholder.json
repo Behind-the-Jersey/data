@@ -1,0 +1,42 @@
+{
+  "id": "gree-no-controlling-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "gree-electric",
+    "gree-group-zhuhai-sasac"
+  ],
+  "text": "Gree Electric Appliances has had neither a controlling shareholder nor an actual controller since the state-owned Zhuhai Gree Group's transfer of 15% of its shares to Zhuhai Mingjun was registered in 2020. At the end of 2025, Zhuhai Mingjun held 16.11%, Jinghai Internet 7.83% and Zhuhai Gree Group, a state-owned legal person, 3.46%; Gree Group still held 3.46% at 30 June 2026.",
+  "source": {
+    "name": "Gree Electric Appliances, Inc. of Zhuhai, 2025 Annual Report (English version, CNINFO filing)",
+    "date": "2026-06-17",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-06-17/1225374514.PDF",
+    "quote": "After the completion of the share transfer registration, the Company has neither a controlling shareholder nor an actual controller.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Gree Electric Appliances, Inc. of Zhuhai, 2026 Half-year Report (Chinese, CNINFO filing): top 10 shareholders",
+      "date": "2026-08-27",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-27/1225515004.PDF",
+      "quote": "珠海格力集团有限公司 国有法人 3.46% 193,895,992",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Caixin Global: Gree’s Parent Agrees to Sell 15% Stake to Hillhouse’s PE Fund",
+      "date": "2019-10-29",
+      "url": "https://www.caixinglobal.com/2019-10-29/grees-parent-agrees-to-sell-15-stake-to-hillhouses-pe-fund-101476236.html",
+      "quote": "Zhuhai Gree Group Co. Ltd., controlled by the Zhuhai government, agreed to sell its 15% stake in the company to Zhuhai Mingjun Investment Partnership",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

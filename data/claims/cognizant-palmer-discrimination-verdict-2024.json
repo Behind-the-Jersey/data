@@ -1,0 +1,41 @@
+{
+  "id": "cognizant-palmer-discrimination-verdict-2024",
+  "kind": "record",
+  "ownerIds": [
+    "cognizant"
+  ],
+  "text": "In October 2024 a unanimous federal jury in California (Palmer v. Cognizant) found that Cognizant engaged in a pattern or practice of intentional discrimination, on the basis of race and national origin, against non-South Asian and non-Indian employees who were terminated from 'the bench', its pool of staff not allocated to an active project. In December 2025 the court also found that Cognizant's visa policies had a disparate impact on these employees; the case continues to a second phase on individual claims and damages.",
+  "source": {
+    "name": "US District Court for the Central District of California: Findings of Fact and Conclusions of Law re Plaintiffs' Disparate Impact Claim, Palmer v. Cognizant Technology Solutions Corp., No. 2:17-cv-06848-DMG, Doc. 714 (RECAP archive, CourtListener)",
+    "date": "2025-12-05",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.689138/gov.uscourts.cacd.689138.714.0.pdf",
+    "quote": "the jury returned a unanimous verdict in favor of Plaintiffs, finding that: (1) Cognizant had engaged in a pattern or practice of intentional discrimination against non-South Asian employees (on the basis of race) and non-Indian employees (on the basis of national origin)",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cognizant Technology Solutions Corporation: Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, Commitments and Contingencies (SEC EDGAR)",
+      "date": "2026-07-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000031/ctsh-20260630.htm",
+      "quote": "on October 4, 2024, the jury returned a verdict in favor of plaintiffs. On December 5, 2025, the USDC-CDCA awarded plaintiffs $16 million in interim attorneys’ fees and costs; and separately found in plaintiffs’ favor on their claim that Cognizant policies had a disparate impact",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Tribune News Service, via GovTech Insider: Jury Finds Discrimination in H-1B Visa Tech Worker Case",
+      "date": "2024-10-08",
+      "url": "https://insider.govtech.com/california/news/jury-finds-discrimination-in-h-1b-visa-tech-worker-case",
+      "quote": "A company that supplies thousands of workers for Silicon Valley’s technology industry and other Bay Area employers intentionally discriminated against non-Indian workers, a jury has found.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

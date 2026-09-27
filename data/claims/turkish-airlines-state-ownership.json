@@ -1,0 +1,51 @@
+{
+  "id": "turkish-airlines-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "turkiye-wealth-fund"
+  ],
+  "text": "Türkiye Wealth Fund, Turkey's sovereign wealth fund, owns 49.12% of Turkish Airlines; the other Group A shares are publicly held. The single Group C share, held by the Ministry of Treasury and Finance's Privatization Administration, carries privileged voting rights over nominations to the board of directors.",
+  "source": {
+    "name": "Turkish Airlines Investor Relations: Shareholding Structure (undated page, read September 2026)",
+    "date": "2026-09",
+    "url": "https://investor.turkishairlines.com/en/about-us/shareholding-structure",
+    "quote": "Türkiye Wealth Fund (Group A Registered) Amount of Nominal Shares : 677.884.849 - Ownership (%) : 49,12",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Turkish Airlines: Additional disclosures pursuant to the regulations of the Capital Market Board of Turkey (undated PDF covering 2019)",
+      "date": "2020",
+      "url": "https://investor.turkishairlines.com/documents/general-assembly-additional-disclosures(2).pdf",
+      "quote": "Group A shares traded at the stock market (free float) and Group C shares hold privileged voting rights regarding the nomination of the Board of Directors and Auditor Candidates.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Türkiye Wealth Fund: Our Portfolio, Transportation and Logistics (undated page, read September 2026)",
+      "date": "2026-09",
+      "url": "https://www.tvf.com.tr/en/our-portfolio/transportation-and-logistics",
+      "quote": "Turkish Airlines Fund ownership rate %49,12",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Daily Sabah: Turkish Sovereign Wealth Fund grows with treasury shares of Turkish Airlines, banks, state-owned companies",
+      "date": "2017-02-06",
+      "url": "https://www.dailysabah.com/economy/2017/02/06/turkish-sovereign-wealth-fund-grows-with-treasury-shares-of-turkish-airlines-banks-state-owned-companies",
+      "quote": "Shares of Turkish Airlines (THY) and Halkbank, amounting to 49.12 and 51.11 percent of their respective shares, have been transferred to the Sovereign Wealth Fund (SWF),",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

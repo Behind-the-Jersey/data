@@ -1,0 +1,41 @@
+{
+  "id": "boeing-737-max-court-finding",
+  "kind": "record",
+  "ownerIds": [
+    "boeing"
+  ],
+  "text": "In a January 2021 deferred prosecution agreement with the US Justice Department, Boeing admitted that two of its 737 MAX technical pilots had deceived the Federal Aviation Administration about the plane's MCAS flight-control system. In October 2022 a US federal judge found that, but for Boeing's conspiracy to defraud the FAA, the 346 people killed in the Lion Air and Ethiopian Airlines 737 MAX crashes of 2018 and 2019 would not have lost their lives.",
+  "source": {
+    "name": "U.S. District Court for the Northern District of Texas: United States v. The Boeing Company, No. 4:21-cr-5-O, Second Memorandum Opinion & Order, ECF No. 116 (via CourtListener)",
+    "date": "2022-10-21",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.txnd.342881/gov.uscourts.txnd.342881.116.0.pdf",
+    "quote": "In sum, but for Boeing’s criminal conspiracy to defraud the FAA, 346 people would not have lost their lives in the crashes.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "CNBC: Judge rules relatives of people killed in two Boeing 737 Max plane crashes are crime victims",
+      "date": "2022-10-22",
+      "url": "https://www.cnbc.com/2022/10/22/judge-rules-relatives-of-people-killed-in-two-boeing-737-max-plane-crashes-are-crime-victims.html",
+      "quote": "U.S. District Judge Reed O'Connor in Fort Worth, Texas, said the crashes were a foreseeable consequence of Boeing's conspiracy, making the relatives representatives of crime victims.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "United States v. The Boeing Company, No. 4:21-cr-5-O (N.D. Tex.): Deferred Prosecution Agreement, ECF No. 4 (via CourtListener)",
+      "date": "2021-01-07",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.txnd.342881/gov.uscourts.txnd.342881.4.0_1.pdf",
+      "quote": "two of the Company’s 737 MAX Flight Technical Pilots deceived the FAA AEG about MCAS by way of misleading statements, half-truths, and omissions",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

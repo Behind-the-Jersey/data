@@ -1,0 +1,32 @@
+{
+  "id": "standard-chartered-temasek-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "standard-chartered-plc",
+    "temasek-holdings"
+  ],
+  "text": "Temasek Holdings is the only shareholder with more than 10% of Standard Chartered's voting share capital: the bank's 2025 annual report lists Temasek's notified holding as 17.00% of voting rights at 31 December 2025, and in March 2026 Temasek notified a holding of about 18%, held mostly through its wholly owned subsidiary Dover Investments.",
+  "source": {
+    "name": "Standard Chartered PLC, Annual Report 2025: Major shareholders",
+    "date": "2026-02-24",
+    "url": "https://www.sc.com/en/uploads/sites/66/content/docs/standard-chartered-plc-2025-annual-report.pdf",
+    "quote": "Temasek Holdings (Private) Limited (Temasek) is the only shareholder that has an interest of more than 10 per cent in the Company’s issued ordinary share capital carrying a right to vote at any general meeting.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Standard Chartered PLC: Holding(s) in Company (TR-1 notification from Temasek, RNS via Investegate)",
+      "date": "2026-03",
+      "url": "https://www.investegate.co.uk/announcement/rns/standard-chartered--stan/holding-s-in-company/9458737",
+      "quote": "405,155,789 shares are held by Dover Investments Pte. Ltd. (\"Dover\") as at 2 March 2026. Dover is a wholly owned subsidiary of Fullerton Management Pte Ltd, which is in turn a wholly owned subsidiary of Temasek Holdings (Private) Limited.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}
