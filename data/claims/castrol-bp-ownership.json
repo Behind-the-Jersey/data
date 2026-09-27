@@ -1,0 +1,31 @@
+{
+  "id": "castrol-bp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bp-plc"
+  ],
+  "text": "Castrol belongs to BP p.l.c. In December 2025 bp agreed to sell a 65% shareholding in Castrol to Stonepeak and keep 35%, in a transaction expected to complete by the end of 2026.",
+  "source": {
+    "name": "bp: Annual Report and Form 20-F 2025, note on assets held for sale (customers & products)",
+    "date": "2026-03-06",
+    "url": "https://www.bp.com/api/files/6cqieuqhq4no/master/33M2iHp8A6d07McKzKqLNP/12b5d4eccb4e02093d1ad9efc0d6a746/bp-annual-report-and-form-20f-2025.pdf",
+    "quote": "bp announced an agreement with Stonepeak to divest a 65% shareholding in the Castrol business with bp retaining a 35% interest through a holding in a newly incorporated entity. Cash proceeds are estimated at $6 billion. The transaction is expected to complete by the end of 2026",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Stonepeak: Stonepeak to Acquire Majority Controlling Interest in Castrol from bp",
+      "date": "2025-12-24",
+      "url": "https://stonepeak.com/news/stonepeak-to-acquire-majority-controlling-interest-in-castrol-from-bp",
+      "quote": "today announced an agreement to acquire a majority controlling interest in Castrol (or “the Company”), a global leader in lubricants, from BP p.l.c. (“bp”)",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

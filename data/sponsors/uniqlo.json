@@ -3,12 +3,13 @@
   "name": "UNIQLO",
   "ownerId": "uniqlo-owner",
   "ownership": "owned",
-  "tier": "concern",
-  "status": "rated",
-  "verdict": "Fast Retailing Co., Ltd.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Being rated: a maintainer decides whether a US customs ruling counts as a finding.",
   "claimIds": [
-    "uniqlo-owner-record"
+    "uniqlo-cbp-xpcc-detention-2021",
+    "fast-retailing-ownership"
   ],
   "aliases": [],
-  "note": "Rating note: UNIQLO's parent Fast Retailing is publicly traded with no state ownership; however, its supply chain carries documented forced-labour exposure from Xinjiang cotton (per UFLPA detentions and company disclosures), triggering 'concern' on conduct grounds."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): on hold for a maintainer. In 2021 US customs held Uniqlo shirts under its order against XPCC cotton and ruled Uniqlo had not shown they were made without forced labour; the rulings were later taken off CBP's site. A failure to disprove, not a finding."
 }

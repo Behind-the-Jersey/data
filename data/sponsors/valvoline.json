@@ -5,11 +5,22 @@
   "ownership": "owned",
   "tier": "serious",
   "status": "rated",
-  "verdict": "Valvoline Global Operations is the former Valvoline Inc.",
+  "verdict": "Owned by Saudi Aramco, which the Saudi state controls.",
   "claimIds": [
     "saudi-aramco-record",
-    "aramco-state-ownership"
+    "aramco-state-ownership",
+    "saudi-executions-2024"
   ],
   "aliases": [],
-  "note": "Rating note: Called 'serious' not 'severe' under the Gulf-state rule. Saudi Arabia is a party to the Yemen conflict but large-scale coalition operations have wound down; if the dataset treats Yemen as live, this and Aramco's other sponsorships would move to 'severe'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): why text added.",
+  "why": {
+    "text": "Valvoline’s global products business belongs to Saudi Aramco, and the Saudi state controls Aramco: the government holds about 81.5% directly and its fund PIF a further 16%. Saudi Arabia carried out a record 345 executions in 2024. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2024",
+      "saudi-aramco-record",
+      "aramco-state-ownership"
+    ],
+    "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+    "status": "draft"
+  }
 }

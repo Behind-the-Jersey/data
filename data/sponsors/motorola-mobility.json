@@ -1,15 +1,30 @@
 {
   "id": "motorola-mobility",
   "name": "Motorola Mobility",
-  "ownerId": "motorola-mobility-owner",
+  "ownerId": "lenovo-group-ltd",
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+  "verdict": "Owned by Lenovo, about a tenth of which the Chinese state owns indirectly.",
   "claimIds": [
     "motorola-mobility-owner-record",
-    "lenovo-group-ltd-record"
+    "lenovo-legend-stake-2026",
+    "legend-cas-holdings-stake-2026",
+    "cas-holdings-state-owned",
+    "china-xinjiang-un-assessment"
   ],
   "aliases": [],
-  "note": "Rating note: Although Motorola Mobility is a subsidiary of Lenovo (which has partial state stake via Legend Holdings), the direct owner is Lenovo; Lenovo has concern tier due to partial state stake (Legend Holdings ~31.4%, CAS Holdings ~29.04% leading to indirect state interest ~9%). Therefore, Motorola Mobility inherits concern tier."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): owned by Lenovo; the Chinese state holds about 9.5% of Lenovo through CAS Holdings and Legend.",
+  "why": {
+    "text": "Motorola belongs to Lenovo. Lenovo’s largest shareholder is Legend Holdings, with about a third, and Legend’s largest shareholder, with 29%, is a company wholly owned by the Chinese state. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So part of the money behind Motorola is the Chinese state’s.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "motorola-mobility-owner-record",
+      "lenovo-legend-stake-2026",
+      "legend-cas-holdings-stake-2026",
+      "cas-holdings-state-owned"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  }
 }
