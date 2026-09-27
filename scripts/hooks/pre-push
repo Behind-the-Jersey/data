@@ -1,0 +1,30 @@
+#!/bin/sh
+# Refuse a direct push to main. Every change goes through a pull request.
+#
+# The repo's AGENTS.md is the law: "Never push to main. Never merge, approve or
+# close a pull request." A maintainer reviews and merges.
+#
+# Install once per clone:   git config core.hooksPath scripts/hooks
+# Deliberate one-off bypass: BTJ_ALLOW_MAIN_PUSH=1 git push origin main
+
+[ -n "$BTJ_ALLOW_MAIN_PUSH" ] && exit 0
+[ -n "$(git rev-parse --show-toplevel 2>/dev/null)" ] || exit 0
+
+blocked=0
+while read -r local_ref local_sha remote_ref remote_sha; do
+  # Only guard when the remote ref is main and we are pushing our own main.
+  [ "$remote_ref" = "refs/heads/main" ] || continue
+  [ "$local_ref" = "refs/heads/main" ] || continue
+  blocked=1
+done
+
+[ "$blocked" = "1" ] || exit 0
+
+echo "pre-push: you are pushing 'main' directly — draft a pull request instead."
+echo
+echo "  git fetch origin"
+echo "  git switch -c <kind>/<short-name> origin/main   # e.g. research/ligue-1-257"
+echo "  git push -u origin HEAD && gh pr create --base main --fill"
+echo
+echo "  one-off bypass:  BTJ_ALLOW_MAIN_PUSH=1 git push origin main"
+exit 1
