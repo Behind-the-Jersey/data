@@ -48,6 +48,12 @@ for kind in ['sports', 'leagues']:
         if k not in R[kind]:
             err('data/order.json', f'{kind}: "{k}" has no record in data/{kind}/')
 
+# The old pipeline was replaced by data/ in the 2026-09-25 migration (docs/migration-2026-09-25.md).
+for old in ('build_normalized.py', 'normalized', 'research'):
+    if os.path.exists(os.path.join(os.path.dirname(DATA), old)):
+        err(old, 'the old builder and its output were replaced by one file per record in data/ '
+                 '(docs/migration-2026-09-25.md): edit data/ instead, and put research notes in the pull request')
+
 if errors:  # references assume valid records
     print('\n'.join('error: ' + e for e in errors))
     sys.exit(1)
