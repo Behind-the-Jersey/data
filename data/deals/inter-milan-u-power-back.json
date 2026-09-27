@@ -1,0 +1,28 @@
+{
+  "id": "inter-milan-u-power-back",
+  "clubId": "inter-milan",
+  "orgName": null,
+  "sponsorId": "u-power",
+  "placement": "back",
+  "from": "2023",
+  "to": "2027",
+  "value": {
+    "amount": 5.5,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "AllFootball (citing La Gazzetta dello Sport), 'Gazzetta: Inter sign record sleeve sponsorship deal with BBVA worth €8.5 million annually'",
+    "date": "2026-07-28",
+    "url": "https://www.allfootballapp.com/articles/4911635-gazzetta-inter-sign-record-sleeve-sponsorship",
+    "quote": "The main sponsor on the Nike jersey is Betsson, at €30 million per year, while the back sponsor is U-Power, at €5.5 million per year.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Four-year deal signed 2023 (Inter announcement); value is a press estimate (Gazzetta dello Sport)."
+}
