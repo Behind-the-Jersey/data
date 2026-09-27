@@ -25,6 +25,14 @@ Before you finish, check:
 - `gh pr view` shows your pull request;
 - the issue has a comment linking it.
 
+**Make the hook do the remembering.** `main` is protected with *enforce admins*, so a direct push is rejected even for an admin — but failing in your own terminal beats failing at the remote. Install it once per clone (hooks are not cloned):
+
+```bash
+git config core.hooksPath scripts/hooks
+```
+
+`scripts/hooks/pre-push` refuses a push to `main` and prints the commands to use instead. For a deliberate one-off: `BTJ_ALLOW_MAIN_PUSH=1 git push origin main`.
+
 **If you committed or pushed to `main` by mistake:** stop. Don't try to repair `main`, force-push, or revert on it. Tell the person running you, and comment on the issue, with the commit id. A maintainer fixes `main`.
 
 ## What a pull request may contain
