@@ -1,0 +1,31 @@
+{
+  "id": "g42-mubadala-minority-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "mubadala"
+  ],
+  "text": "Mubadala, a sovereign investor owned by the Government of Abu Dhabi, became a minority shareholder in G42 in 2020. In June 2024, G42's owners were Mubadala, Silver Lake, Microsoft, the Dalio Family Office, a Royal Group company and the Kai Foundation.",
+  "source": {
+    "name": "Mubadala: Mubadala Takes Stake in Group 42",
+    "date": "2020-11-02",
+    "url": "https://www.mubadala.com/en/news/mubadala-takes-stake-group-42",
+    "quote": "As a result of the transaction, Mubadala will become a minority shareholder in G42.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cerebras Systems Inc., Form S-1 registration statement (SEC filing)",
+      "date": "2024-09-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+      "quote": "We have been informed by G42 that as of June 30, 2024, G42 was owned by Mubadala, a sovereign investor owned by the Government of Abu Dhabi",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

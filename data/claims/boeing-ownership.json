@@ -1,0 +1,31 @@
+{
+  "id": "boeing-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "boeing"
+  ],
+  "text": "The Boeing Company is a listed US company whose largest shareholders are investment firms: its 2026 proxy statement lists The Vanguard Group (9.0%), FMR (7.0%) and BlackRock (6.8%) as the holders of more than 5% of its stock.",
+  "source": {
+    "name": "The Boeing Company: 2026 Proxy Statement (DEF 14A), Principal Shareholders (SEC EDGAR)",
+    "date": "2026-03-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm",
+    "quote": "The Vanguard Group 100 Vanguard Boulevard Malvern, Pennsylvania 19355 70,989,325(1) 9.0% FMR LLC 245 Summer Street Boston, Massachusetts 02210 54,979,044(2) 7.0% BlackRock, Inc. 50 Hudson Yards New York, New York 10001 52,979,795(3) 6.8%",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TheStreet (Dominic Diongson), via Yahoo Finance: Boeing stock ownership: Institutional and executive shareholders",
+      "date": "2026-04-30",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-ownership-institutional-executive-143900060.html",
+      "quote": "The company's four largest institutional shareholders owned between 53 million and 71 million shares apiece, and together, they accounted for about 23% of Boeing's ownership.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

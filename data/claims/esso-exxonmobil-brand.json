@@ -1,0 +1,19 @@
+{
+  "id": "esso-exxonmobil-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "exxon-mobil-corporation"
+  ],
+  "text": "Esso is one of the brands under which Exxon Mobil Corporation sells fuel.",
+  "source": {
+    "name": "Exxon Mobil Corporation: Form 10-K for fiscal year 2025, retail fuel sites (SEC EDGAR)",
+    "date": "2026-02-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+    "quote": "retail fuels sites sell products and services throughout the world through our Exxon, Esso, and Mobil brands",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "reviewed": false
+}

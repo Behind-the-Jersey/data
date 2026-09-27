@@ -3,13 +3,13 @@
   "name": "Uralkali",
   "ownerId": "uralchem",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Uralkali's controlling shareholder is Uralchem PJSC, which holds 81.47% of Uralkali; Uralchem is a private company, with Dmitry Mazepin previously holding 100% and….",
+  "verdict": "Controlled by Uralchem, a private Russian fertiliser company.",
   "claimIds": [
     "uralchem-record",
     "mazepin-uralchem-stake-2022"
   ],
   "aliases": [],
-  "note": "Rating note: Honesty flag: the task listed Uralkali under 'state-linked', but the ownership test shows a private owner, so none under the rubric. If the rubric counts the Russian state's war economy (not ownership) as the link, it would be concern. Uralkali itself has largely escaped sanctions (https://statewatch.org.ua/en/publications/rozsliduvannia/sanktsii/...). ADJUSTED: Raised from none: no state stake, but the ultimate owner sits inside a belligerent state and was sanctioned with it."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. No state holds 5% or more, and no human-rights finding against the company."
 }

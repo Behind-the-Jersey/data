@@ -1,0 +1,41 @@
+{
+  "id": "bp-deepwater-horizon-manslaughter-plea-2013",
+  "kind": "record",
+  "ownerIds": [
+    "bp-plc"
+  ],
+  "text": "In January 2013 a US federal court accepted the guilty plea of BP Exploration and Production, Inc., the bp company that was lease operator of the offshore block where the Deepwater Horizon rig exploded in April 2010, to 14 criminal counts, including 11 counts of felony manslaughter. In pleading guilty, BP admitted that its two highest-ranking supervisors on the rig negligently caused the deaths of 11 men.",
+  "source": {
+    "name": "US Department of Justice, Criminal Division: United States v. BP Exploration and Production, Inc. (case page, E.D. La. No. 2:12-cr-00292)",
+    "date": "2023-09-27",
+    "url": "https://www.justice.gov/criminal/criminal-vns/case/united-states-v-bp-exploration-and-production-inc",
+    "quote": "In pleading guilty, BP admitted that, on April 20, 2010, the two highest-ranking BP supervisors onboard the Deepwater Horizon, known as BP’s “Well Site Leaders” or \"company men,\" negligently caused the deaths of 11 men and the resulting oil spill.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "CNN: Judge approves BP plea agreement, record $4 billion fine",
+      "date": "2013-01-29",
+      "url": "https://www.cnn.com/2013/01/29/us/louisiana-bp-deal/index.html",
+      "quote": "which include the oil company pleading guilty to 14 criminal counts – among them, felony manslaughter charges – and the payment of a record $4 billion in criminal penalties over five years",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "bp: Annual Report and Form 20-F 2025, note 33 'Contingent liabilities and legal proceedings'",
+      "date": "2026-03-06",
+      "url": "https://www.bp.com/api/files/6cqieuqhq4no/master/33M2iHp8A6d07McKzKqLNP/12b5d4eccb4e02093d1ad9efc0d6a746/bp-annual-report-and-form-20f-2025.pdf",
+      "quote": "BP Exploration & Production Inc. (BPXP) was lease operator of Mississippi Canyon, Block 252 in the Gulf of America, where the semi-submersible rig Deepwater Horizon was deployed at the time of the 20 April 2010 explosion",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

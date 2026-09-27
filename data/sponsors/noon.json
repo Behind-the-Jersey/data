@@ -5,11 +5,22 @@
   "ownership": "part-owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Part-owned by Saudi Arabia’s Public Investment Fund.",
+  "verdict": "Half owned by Saudi Arabia’s Public Investment Fund.",
   "claimIds": [
+    "noon-pif-stake",
     "saudi-executions-2024"
   ],
   "aliases": [
     "saudi"
-  ]
+  ],
+  "why": {
+    "text": "Saudi Arabia’s state fund, PIF, owns half of noon. Saudi Arabia carried out a record 345 executions in 2024. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2024",
+      "noon-pif-stake"
+    ],
+    "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+    "status": "draft"
+  },
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): PIF owns 50% (a joint venture, not control)."
 }

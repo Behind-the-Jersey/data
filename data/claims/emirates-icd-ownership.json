@@ -1,0 +1,31 @@
+{
+  "id": "emirates-icd-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-dubai"
+  ],
+  "text": "Emirates is wholly owned by the Investment Corporation of Dubai (ICD), an entity of the Government of Dubai.",
+  "source": {
+    "name": "The Emirates Group: Annual Report 2025-26, Emirates consolidated financial statements, note 1 (General information)",
+    "date": "2026-05",
+    "url": "https://c.ekstatic.net/ecl/documents/annual-report/2025-2026.pdf",
+    "quote": "Maktoum on 26 June 1985 and is wholly owned by the Investment Corporation of Dubai",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AGBI (Arabian Gulf Business Insight): The Emirates Group, company profile",
+      "date": "2024-11-22",
+      "url": "https://www.agbi.com/companies/the-emirates-group/",
+      "quote": "Wholly owned by the Dubai government’s Investment Corporation of Dubai (ICD), the Emirates Group is one of the biggest employers in the Middle East.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

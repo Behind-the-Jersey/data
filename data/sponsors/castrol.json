@@ -5,10 +5,22 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the….",
+  "verdict": "BP's lubricants brand; BP pleaded guilty to manslaughter over the 11 Deepwater Horizon deaths.",
   "claimIds": [
-    "bp-plc-record"
+    "castrol-bp-ownership",
+    "bp-major-shareholders-2025",
+    "bp-deepwater-horizon-manslaughter-plea-2013"
   ],
   "aliases": [],
-  "note": "Rating note: Same owner id as bp so the website derives one blood contribution. Castrol is F1's long-running lubricant partner."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Castrol is BP's lubricants brand (BP p.l.c., listed, largest holder BlackRock); same BP record as the bp entry: the 2013 guilty plea to 11 counts of felony manslaughter over the Deepwater Horizon deaths. Pending sale of 65% to Stonepeak not completed yet.",
+  "why": {
+    "text": "Castrol is BP's lubricants brand; bp has agreed to sell 65% of it to Stonepeak. In 2013 a US court accepted the guilty plea of BP Exploration and Production, the bp company that was lease operator of the block where the Deepwater Horizon rig exploded in 2010, to 11 counts of felony manslaughter. BP admitted that its two highest-ranking supervisors on the rig negligently caused the deaths of 11 men.",
+    "claimIds": [
+      "bp-deepwater-horizon-manslaughter-plea-2013",
+      "castrol-bp-ownership",
+      "bp-major-shareholders-2025"
+    ],
+    "messageLine": "In 2013 BP, Castrol's owner, pleaded guilty to 11 counts of felony manslaughter over the 2010 Deepwater Horizon disaster, admitting its supervisors negligently caused the deaths of 11 men.",
+    "status": "draft"
+  }
 }

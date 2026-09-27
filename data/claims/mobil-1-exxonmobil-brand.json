@@ -1,0 +1,31 @@
+{
+  "id": "mobil-1-exxonmobil-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "exxon-mobil-corporation"
+  ],
+  "text": "Mobil 1 is a lubricants brand of Exxon Mobil Corporation.",
+  "source": {
+    "name": "Exxon Mobil Corporation: Form 10-K for fiscal year 2025, Specialty Products (SEC EDGAR)",
+    "date": "2026-02-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+    "quote": "Specialty Products is well-positioned to help meet the demand for premium lubricant products through advantaged projects that leverage ExxonMobil's integration, technology, and world-class brands, such as Mobil 1",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Visa Cash App Racing Bulls: New Partnership With ExxonMobil",
+      "date": "2025-03-12",
+      "url": "https://www.visacashapprb.com/int-en/2025-exxonmobil-partnership",
+      "quote": "Visa Cash App Racing Bulls has today announced its new partnership with ExxonMobil as it becomes the Fuels and Lubricants Partner to VCARB in a new sponsorship with the Mobil, Esso and Mobil 1 brands.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}
