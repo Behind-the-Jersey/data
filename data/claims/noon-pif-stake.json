@@ -1,0 +1,41 @@
+{
+  "id": "noon-pif-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif"
+  ],
+  "text": "Saudi Arabia's Public Investment Fund (PIF) owns 50% of noon, which it accounts for as a joint venture; the other half is held by investors led by founder Mohamed Alabbar.",
+  "source": {
+    "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 12.4 (investment in joint ventures)",
+    "date": "2025-06-29",
+    "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+    "quote": "Noon Investments Company (“Noon”) Consumer Discretionary 50% 50% Kingdom of Saudi Arabia",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The National: Alabbar’s Noon.com launches operations in Saudi Arabia",
+      "date": "2017-12-12",
+      "url": "https://www.thenationalnews.com/business/alabbar-s-noon-com-launches-operations-in-saudi-arabia-1.683903",
+      "quote": "US$1bn e-commerce platform is 50 per cent owned by Saudi Arabia's Public Investment Fund (PIF)",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Bloomberg (Zainab Fattah): Amazon Rival Noon to Draw $2 Billion From PIF, Other Backers (via Yahoo Finance)",
+      "date": "2021-10-04",
+      "url": "https://finance.yahoo.com/news/amazon-rival-noon-raise-2-074827989.html",
+      "quote": "Alabbar, who owns 50% of Noon jointly with other regional private investors, raised $1 billion from backers including the PIF to create the firm in 2016.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

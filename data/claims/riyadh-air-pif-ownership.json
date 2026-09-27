@@ -1,0 +1,31 @@
+{
+  "id": "riyadh-air-pif-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif"
+  ],
+  "text": "Riyadh Air is wholly owned by Saudi Arabia's Public Investment Fund (PIF).",
+  "source": {
+    "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 40 (list of subsidiaries)",
+    "date": "2025-06-29",
+    "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+    "quote": "Aviation Services Company Limited (Riyadh Air) Industrials 100.00% 100.00%",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The National: Saudi Arabia launches PIF-backed carrier Riyadh Air",
+      "date": "2023-03-12",
+      "url": "https://www.thenationalnews.com/business/aviation/2023/03/12/saudi-arabia-launches-pif-backed-carrier-riyadh-air/",
+      "quote": "The new carrier will be wholly owned by Saudi Arabia's Public Investment Fund",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

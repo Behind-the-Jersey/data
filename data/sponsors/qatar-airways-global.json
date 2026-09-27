@@ -1,14 +1,26 @@
 {
   "id": "qatar-airways-global",
   "name": "Qatar Airways",
-  "ownerId": "state-of-qatar-qia",
+  "ownerId": "government-of-qatar",
   "ownership": "owned",
   "tier": "serious",
   "status": "rated",
-  "verdict": "Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio….",
+  "verdict": "Wholly owned by the government of Qatar.",
   "claimIds": [
-    "state-of-qatar-qia-record"
+    "state-of-qatar-qia-record",
+    "qatar-world-cup-migrant-abuses",
+    "qatar-migrant-worker-abuse-2025"
   ],
   "aliases": [],
-  "note": "Rating note: Called 'serious' rather than 'severe': Qatar is not a party to an ongoing armed conflict. Stake is arguably indirect (QIA + Ministry of Finance), but the state owns 100%."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): why text added.",
+  "why": {
+    "text": "Qatar Airways is fully owned by the government of Qatar. In the years before the 2022 World Cup, migrant workers in Qatar faced widespread abuses, including unpaid wages, recruitment fees and deaths, and Amnesty International and Human Rights Watch report that workers still faced exploitation under the kafala system in 2025. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "qatar-world-cup-migrant-abuses",
+      "qatar-migrant-worker-abuse-2025",
+      "state-of-qatar-qia-record"
+    ],
+    "messageLine": "Migrant workers in Qatar still faced labour abuses and exploitation under the kafala system in 2025.",
+    "status": "draft"
+  }
 }
