@@ -95,11 +95,13 @@ jobs:
           PR: ${{ github.event.pull_request.number || github.event.issue.number }}
           SINCE: ${{ steps.collect.outputs.since }}
         run: |
+          # The agent sometimes writes a line before its review, so look for the heading anywhere.
           body=$(gh api "repos/$GITHUB_REPOSITORY/issues/$PR/comments?since=$SINCE&per_page=100" \
-            --jq '[.[] | select(.body | startswith("**Review agent:**"))] | last | .body // ""')
+            --jq '[.[] | select(.body | contains("**Review agent:**"))] | last | .body // ""')
           if [ -z "$body" ]; then echo "::error::The review agent didn't post a review."; exit 1; fi
-          printf '%s\n' "$body" | head -1
-          if printf '%s' "$body" | grep -q '❌' || printf '%s' "$body" | head -1 | grep -qi 'needs changes'; then
+          verdict=$(printf '%s\n' "$body" | grep -m1 -F '**Review agent:**')
+          echo "$verdict"
+          if printf '%s' "$body" | grep -q '❌' || printf '%s' "$verdict" | grep -qi 'needs changes'; then
             echo "::error::The review agent found sources that don't hold up. See its comment on the pull request."
             exit 1
           fi
