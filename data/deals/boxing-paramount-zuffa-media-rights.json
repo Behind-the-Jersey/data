@@ -6,14 +6,7 @@
   "placement": "league-partner",
   "from": "2026",
   "to": null,
-  "value": {
-    "amount": 100,
-    "currency": "USD",
-    "unit": "m",
-    "per": "year",
-    "upTo": false,
-    "usdApprox": 100
-  },
+  "value": null,
   "source": {
     "name": "UFC.com - Paramount announces landmark media rights deal with Zuffa Boxing",
     "date": "2025-09-29",
@@ -21,5 +14,5 @@
     "note": "Long-term agreement making Paramount+ the exclusive home of Zuffa Boxing in the US, Canada and Latin America from January 2026, starting with 12 cards. The $100m-a-year figure is not in the release: The Guardian (Hauser, 28 Jan 2026) writes 'Paramount is believed to be paying Zuffa Boxing $100m a year for these 12 fight cards'."
   },
   "leagueId": "boxing",
-  "note": "Media-rights deal with the TKO-Sela joint venture; recorded at organisation level because the event-host shape has no schema yet."
+  "note": "Media-rights deal with the TKO-Sela joint venture; recorded at organisation level because the event-host shape has no schema yet. No value: the cited announcement states none."
 }
