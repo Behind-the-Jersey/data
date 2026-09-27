@@ -7,17 +7,20 @@
   "status": "rated",
   "verdict": "Visit Saudi is the flagship destination-marketing platform of the Saudi Tourism Authority, a government body established by royal decree in 2020 and a wholly….",
   "claimIds": [
-    "government-of-saudi-arabia-record"
+    "visit-saudi-sta-ownership",
+    "saudi-migrant-worker-abuse-2025",
+    "saudi-executions-2024"
   ],
   "aliases": [],
   "note": "Rating note: State body → state tier above none. Could be argued severe on Yemen-war grounds, but the Saudi-led intervention has largely wound down, so serious is used. Cross-source: HRW Saudi Arabia chapter https://hrw.org/world-report/2026/country-chapters/saudi-arabia.",
   "why": {
-    "text": "Visit Saudi is the brand of the Saudi Tourism Authority, a Saudi government tourism body. Human Rights Watch records migrant workers in Saudi Arabia facing widespread wage theft and avoidable deaths at work, and the country carried out a record 345 executions in 2024. A tourism brand in a famous stadium makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "Visit Saudi is the flagship platform of the Saudi Tourism Authority, a Saudi government body. Human Rights Watch and Amnesty International report widespread labour abuse of migrant workers in Saudi Arabia, including wage theft, and the country carried out a record 345 executions in 2024. A tourism brand in a famous stadium makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
-      "government-of-saudi-arabia-record",
-      "saudi-executions-2024"
+      "saudi-migrant-worker-abuse-2025",
+      "saudi-executions-2024",
+      "visit-saudi-sta-ownership"
     ],
-    "messageLine": "Human Rights Watch records migrant workers in Saudi Arabia facing widespread wage theft and avoidable deaths at work.",
+    "messageLine": "Human Rights Watch reports that migrant workers in Saudi Arabia face widespread labour abuses, including wage theft and dying in avoidable workplace accidents.",
     "status": "draft"
   },
   "ownerVerb": "paid for by"

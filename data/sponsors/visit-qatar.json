@@ -7,16 +7,18 @@
   "status": "rated",
   "verdict": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
   "claimIds": [
-    "gov-qatar-record"
+    "visit-qatar-qatar-tourism",
+    "qatar-migrant-worker-abuse-2025"
   ],
   "aliases": [],
   "note": "Rating note: Partnership: Qatar Tourism press release, 2025-11-29 (https://www.qatartourism.com/en/news-and-media/press-releases/visit-qatar-announces-principal-partnership-with-the-future-audi) and Audi press release of the same date.",
   "why": {
-    "text": "Visit Qatar is the Qatari state’s tourism body. Amnesty International reports that migrant workers in Qatar are still exposed to exploitation despite reforms, and that expression and assembly are tightly restricted. A tourism brand on a famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "Visit Qatar was set up by Qatar Tourism, the Qatari state’s tourism body, to market the country. Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses and exploitation under the kafala sponsorship system, despite reforms. A tourism brand on a famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
-      "gov-qatar-record"
+      "qatar-migrant-worker-abuse-2025",
+      "visit-qatar-qatar-tourism"
     ],
-    "messageLine": "Amnesty International reports that migrant workers in Qatar are still exposed to exploitation.",
+    "messageLine": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses under the kafala sponsorship system.",
     "status": "draft"
   },
   "ownerVerb": "paid for by"

@@ -5,10 +5,20 @@
   "ownership": "owned",
   "tier": "severe",
   "status": "rated",
-  "verdict": "The Russian Government controls over 50% of Gazprom's shares (Russian Federation direct 38.37% plus government-controlled Rosneftegaz 10.97% and Rosgazifikatsiya….",
+  "verdict": "Controlled by the Russian state.",
   "claimIds": [
+    "gazprom-state-control",
     "russian-federation-record"
   ],
   "aliases": [],
-  "note": "Rating note: Severe: state-controlled and the state is the direct party to an ongoing armed conflict. State-control claim corroborated by the company's own investor page; war-funding claim from Yale HRL PDF."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): the Russian state controls Gazprom; Russia is at war with Ukraine.",
+  "why": {
+    "text": "Gazprom is controlled by the Russian state, which holds more than half of its shares, directly and through companies it controls. Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "russian-federation-record",
+      "gazprom-state-control"
+    ],
+    "messageLine": "Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since.",
+    "status": "draft"
+  }
 }

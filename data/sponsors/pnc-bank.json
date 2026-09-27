@@ -3,13 +3,13 @@
   "name": "PNC Bank (PNC Financial Services)",
   "ownerId": "pnc-bank-pnc-financial-services-owner",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "PNC Financial Services Group, Inc.",
+  "verdict": "A listed company whose largest holders are investment firms.",
   "claimIds": [
-    "pnc-bank-pnc-financial-services-owner-record",
-    "pnc-national-city-fair-lending-2013"
+    "pnc-major-holders-2026",
+    "pnc-bank-pnc-financial-services-owner-record"
   ],
   "aliases": [],
-  "note": "Rating note: PNC has paid significant settlements including $6.1 million in 2023 for BBVA 401(k) fees and various mortgage-related settlements."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; the 2013 fair-lending settlement is not a finding (the CFPB says so), and concerns 2002-2008."
 }

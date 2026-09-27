@@ -5,10 +5,20 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index….",
+  "verdict": "A US court found that Boeing's deception of regulators led to the 737 MAX crashes that killed 346 people.",
   "claimIds": [
-    "boeing-record"
+    "boeing-ownership",
+    "boeing-737-max-court-finding"
   ],
   "aliases": [],
-  "note": "Rating note: Read literally, Boeing's weapons sales to conflict parties could argue for severe; kept at concern because the company itself is not a belligerent state entity."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): The Boeing Company (listed; largest holders Vanguard 9.0%, FMR 7.0%, BlackRock 6.8%) - Boeing admitted in 2021 that its pilots deceived the FAA about the 737 MAX, and a US federal judge found in 2022 that without that conspiracy the 346 people killed in two crashes would not have died.",
+  "why": {
+    "text": "In 2021 Boeing admitted that two of its pilots had deceived US regulators about the 737 MAX's MCAS flight-control system. In 2022 a US federal judge found that, but for Boeing's conspiracy to defraud the regulator, the 346 people killed in two 737 MAX crashes would not have lost their lives.",
+    "claimIds": [
+      "boeing-737-max-court-finding",
+      "boeing-ownership"
+    ],
+    "messageLine": "A US federal judge found that, but for Boeing's conspiracy to defraud the FAA, 346 people would not have lost their lives in the two 737 MAX crashes.",
+    "status": "draft"
+  }
 }
