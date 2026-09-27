@@ -12,10 +12,14 @@
       "sponsorId": "gazprom",
       "placement": "front",
       "source": {
-        "name": "FC Zenit – Club (about)",
-        "date": "2026-09-25",
-        "url": "https://www.fc-zenit.ru/club/about/",
-        "note": "\"Генеральный спонсор клуба — публичное акционерное общество «Газпром»\"."
+        "name": "FC Zenit official site: Club kit (history page)",
+        "date": "2026",
+        "url": "https://en.fc-zenit.ru/club/fczenit_kit/",
+        "quote": "in 1997 the team shirts got the Gazprom logo",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "claude-review-282"
+        }
       }
     }
   ],

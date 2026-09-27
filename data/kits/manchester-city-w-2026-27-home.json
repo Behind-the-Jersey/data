@@ -9,26 +9,21 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "etihad-airways",
-      "placement": "front",
-      "source": {
-        "name": "City Football Group, Etihad partnership page",
-        "date": "2026-09-25",
-        "url": "https://www.cityfootballgroup.com/partners/etihad",
-        "note": "CFG page covers the club-wide Etihad partnership since 2009 and does not name the women's team; the Wikipedia table lists Etihad on the women's shirt. URL fixed 2026-09-26: /partners/etihad-airways/ 404s, same page now lives at /partners/etihad."
-      }
-    },
-    {
       "sponsorId": "joie",
       "placement": "shorts",
       "source": {
-        "name": "Manchester Evening News (via Wayback Machine)",
-        "date": "2023-09-14",
-        "url": "https://web.archive.org/web/20250724231747/https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-women-sponsors-joie-27709622"
+        "name": "Nursery Today: Joie announces new partnership with Manchester City Women",
+        "date": "2023-03-29",
+        "url": "https://nurserytoday.co.uk/2023/03/29/joie-announces-new-partnership-with-manchester-city-women/",
+        "quote": "Joie will see its logo on the back of the women's first team playing shorts for all fixtures for the period of the partnership.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "claude-review-282"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Abu Dhabi's government pays for the front of the Manchester City Women shirt through Etihad.",
+  "summary": "Joie on the back of the shorts. The front-of-shirt sponsor isn't sourced yet: the City Football Group page cited for Etihad doesn't mention the women's team.",
   "change": null
 }

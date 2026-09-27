@@ -12,10 +12,14 @@
       "sponsorId": "emirates",
       "placement": "front",
       "source": {
-        "name": "Arsenal / Emirates renewal coverage (Sporting Goods Intelligence)",
+        "name": "SportsPro: Arsenal's 'UK£70m' extension with Emirates continues England's most enduring stadium naming rights partnership",
         "date": "2026-08-06",
-        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article",
-        "note": "Renewal to 2033 covers front-of-shirt and training kit; the men's kit entry uses the same source. Women's-team-specific placement not restated in the renewal announcement."
+        "url": "https://www.sportspro.com/sponsorship-marketing/arsenal-emirates-stadium-renewal-70-million-shirt-august-2026/",
+        "quote": "The airline will remain the Premier League champions' front-of-shirt, training kit and stadium naming rights partner until 2033 in a deal that also covers Arsenal's women's and youth teams.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "claude-review-282"
+        }
       }
     }
   ],
