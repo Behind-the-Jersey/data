@@ -1,0 +1,19 @@
+{
+  "id": "apple-inc-record",
+  "ownerIds": [
+    "apple-inc"
+  ],
+  "text": "Apple Inc.'s common stock is registered under Section 12(b) of the Securities Exchange Act, trading under the symbol AAPL on The Nasdaq Stock Market LLC.",
+  "short": "Apple Inc. is Nasdaq-listed (ticker AAPL).",
+  "source": {
+    "name": "Apple Inc. Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2025-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+    "quote": "Common Stock, $0.00001 par value per share AAPL The Nasdaq Stock Market LLC",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mls-apple-tv",
+  "clubId": null,
+  "orgName": "Apple (Apple TV / MLS Season Pass)",
+  "leagueId": "mls",
+  "sponsorId": "apple-tv",
+  "placement": "league-partner",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "SportsLogos.Net News – 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+    "date": "2026-03-02",
+    "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+    "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "League-wide sleeve patch since 2023; shown as a league deal (clubId null) because Apple pays MLS, not the club."
+}

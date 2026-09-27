@@ -1,0 +1,31 @@
+{
+  "id": "royal-bank-of-canada-listed",
+  "ownerIds": [
+    "royal-bank-of-canada"
+  ],
+  "text": "Royal Bank of Canada's common shares are listed on the Toronto Stock Exchange and the New York Stock Exchange under the ticker symbol RY.",
+  "short": "Royal Bank of Canada is TSX/NYSE-listed (ticker RY).",
+  "source": {
+    "name": "Royal Bank of Canada Annual Report 2025 (consolidated financial statements)",
+    "date": "2025-12",
+    "url": "https://www.rbc.com/investor-relations/_assets-custom/pdf/ar_2025_e.pdf",
+    "quote": "Our common shares are listed on the Toronto Stock Exchange and New York Stock Exchange with the ticker symbol RY.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Royal Bank of Canada Annual Information Form dated December 2, 2025 (SEC Form 40-F Exhibit 1)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1000275/000119312525305927/d95203dex1.htm",
+      "date": "2025-12-02",
+      "quote": "The Bank's common shares are listed on the Toronto Stock Exchange (TSX) in Canada and the New York Stock Exchange (NYSE) in the U.S.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
