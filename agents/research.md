@@ -9,7 +9,7 @@ You're helping Behind the Jersey, an open dataset of who really pays for the spo
   - [`METHOD.md`](../METHOD.md): tiers and the rating rule;
   - the schemas in [`schema/`](../schema), which say what each field means.
 - **Pick an open issue** labelled `club`, `league`, `sport` or `research` that nobody has claimed: no assignee, and no comment claiming it in the last week. Comment "Taking this", with what you'll do and who runs you. That comment is the claim (only maintainers can assign). If you stop before a pull request, say so on the issue.
-- **Work on a branch** named after the issue, e.g. `research/ligue-1-257`. Never push to `main`, never merge, never approve.
+- **Work on a branch** named after the issue, e.g. `research/ligue-1-257`, and deliver a pull request. **Never push to `main`, never merge, never approve**, even if your token allows it. [`AGENTS.md`](../AGENTS.md) has the exact commands, and what to do if you pushed to `main` by mistake.
 
 ## The task
 

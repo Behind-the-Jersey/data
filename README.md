@@ -97,7 +97,7 @@ data/                   the records: one JSON file per record, named by its id
   levels.json  tiers.json  order.json   (the rating scale, and the order sports and leagues appear in)
 schema/                 JSON Schemas, one per record type: the contract with the website and other users
 scripts/                validate.py, check_sources.py, build.py (standard Python; validate needs jsonschema, PDFs need pypdf)
-agents/                 briefs for research agents and the review agent
+agents/                 briefs for research agents and the review agent (AGENTS.md: the rules every agent loads)
 assets/                 candidate image sources with licences (images themselves live with the website)
 docs/                   coverage/ (research leads per target) and the record of past migrations
 ```
