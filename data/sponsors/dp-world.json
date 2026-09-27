@@ -1,18 +1,20 @@
 {
   "id": "dp-world",
   "name": "DP World",
-  "ownerId": "government-of-dubai",
+  "ownerId": "dp-world-limited",
   "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
   "claimIds": [
+    "dp-world-ownership",
     "dp-world-state-ownership",
     "uae-mass-trial-2024",
     "uae-mass-trial-upheld-2025"
   ],
   "aliases": [
-    "DP World"
+    "DP World",
+    "DP World Logistics"
   ],
-  "note": "Dubai state-owned ports group; McLaren partnership began 2023, expanded 2024-02-20."
+  "note": "Dubai state-owned ports group; McLaren partnership began 2023, expanded 2024-02-20. ICC Premier Partner (top tier) since May 2024, original partnership June 2023; also runs the Beyond Boundaries grassroots programme. Ultimate owner is the Government of Dubai per DP World's FY2025 Annual Report."
 }

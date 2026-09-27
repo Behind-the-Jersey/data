@@ -1,0 +1,19 @@
+{
+  "id": "lukoil-private-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lukoil"
+  ],
+  "text": "The Russian Federation's stake in LUKOIL was reduced to 0% following the September 2004 auction of the remaining 7.6% state-held shares to ConocoPhillips affiliate Springtime Holdings.",
+  "source": {
+    "name": "LUKOIL – Share capital history",
+    "date": "2026-09-27",
+    "url": "https://lukoil.ru/InvestorAndShareholderCenter/Securities/sharecapital",
+    "quote": "Состоялся открытый аукцион по продаже 7,6% акций ОАО «ЛУКОЙЛ», находящихся в государственной собственности. Акции были приобретены компанией Springtime Holdings Limited, являющейся аффилированным лицом американской компании ConocoPhillips.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

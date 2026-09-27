@@ -1,0 +1,33 @@
+{
+  "id": "sporting-cp-2026-27-home",
+  "clubId": "sporting-cp",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "betano",
+      "placement": "front",
+      "source": {
+        "name": "Kaizen Gaming, 'Betano and Sporting CP renew partnership until 2029' (Main Sponsor, branding on the front of the official shirts)",
+        "date": "2025-08-08",
+        "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/"
+      }
+    },
+    {
+      "sponsorId": "super-bock",
+      "placement": "back",
+      "source": {
+        "name": "Sporting CP official sponsors page (Super Bock listed as Main Partner) plus Wikipedia 2026-27 Personnel and kits (Super Bock back)",
+        "date": "2026-09",
+        "url": "https://www.sporting.pt/en/sponsors"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
+  "change": null
+}

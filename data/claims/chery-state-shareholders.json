@@ -1,0 +1,19 @@
+{
+  "id": "chery-state-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "chery-automobile"
+  ],
+  "text": "Chery Automobile's HKEX prospectus (17 Sep 2025) shows Wuhu Investment Holding continuing as the company's Single Largest Shareholder with 20.08% of the enlarged share capital upon listing (assuming the over-allotment option is not exercised) - itself owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance - alongside Anhui Credit Guaranty holding 9.46% (wholly owned by the People's Government of Anhui Province) and Anhui Investment Holding holding 4.93% (wholly owned by Anhui SASAC). The prospectus states the company has 22 shareholders with a dispersed shareholding structure including certain state-owned enterprises, and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC's state-asset supervision measures.",
+  "source": {
+    "name": "Chery Automobile Co., Ltd. - HKEX Global Offering prospectus",
+    "date": "2025-09-17",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700013.pdf",
+    "quote": "Wuhu Investment Holding is owned as to 95.59% by Wuhu SASAC and as to 4.41% by Anhui Provincial Department of Finance.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}
