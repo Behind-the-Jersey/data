@@ -1,15 +1,16 @@
 {
   "id": "dongfeng-state-owned-record",
+  "kind": "ownership",
   "ownerIds": [
     "dongfeng-motor-corporation"
   ],
-  "text": "Dongfeng Motor Corporation Ltd. is a Chinese central state-owned automobile manufacturer headquartered in Wuhan, Hubei, controlled and managed by the State-owned Assets Supervision and Administration Commission of the State Council (SASAC).",
+  "text": "Dongfeng Motor Corporation (东风汽车集团有限公司) is a Chinese central state-owned enterprise (央企): it appears as entry 30 in the central-enterprise (央企) directory published by the State-owned Assets Supervision and Administration Commission of the State Council (SASAC), and its own corporate profile describes it as a commercial first-class central SOE (商业一类央企) with its headquarters in Wuhan.",
   "short": "Dongfeng Motor Corporation is a Chinese central state-owned enterprise under SASAC.",
   "source": {
-    "name": "Wikipedia - Dongfeng Motor Corporation (ownership, SASAC)",
-    "date": "2026",
-    "url": "https://en.wikipedia.org/wiki/Dongfeng_Motor_Corporation",
-    "quote": "Dongfeng Motor Corporation Ltd. is a Chinese central state-owned automobile manufacturer",
+    "name": "SASAC (国务院国资委) - 央企名录 (central state-owned enterprises directory)",
+    "date": "2026-07-11",
+    "url": "http://www.sasac.gov.cn/n2588045/n27271785/n27271792/index.html",
+    "quote": "30 东风汽车集团有限公司",
     "checked": {
       "on": "2026-09-27",
       "by": "Schnitzel"
@@ -17,10 +18,10 @@
   },
   "additionalSources": [
     {
-      "name": "Baidu Baike (encyclopedia entry) - Dongfeng Motor Corporation",
+      "name": "Dongfeng Motor Corporation - 企业介绍 (corporate introduction), dfmc.com.cn",
       "date": "2026",
-      "url": "https://baike.baidu.com/en/item/Dongfeng%20Motor%20Corporation/978737",
-      "quote": "a state-owned super-large automobile group directly administered by the central government",
+      "url": "https://www.dfmc.com.cn/zoujindf/qiyegaikuang/qiyejieshao.html",
+      "quote": "东风汽车集团有限公司是以汽车制造、销售、服务和技术研发为主业的商业一类央企",
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"

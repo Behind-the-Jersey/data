@@ -1,9 +1,10 @@
 {
   "id": "dongfeng-xinjiang-labour-transfers",
+  "kind": "record",
   "ownerIds": [
     "dongfeng-motor-corporation"
   ],
-  "text": "The Bureau of Investigative Journalism's investigation found evidence of Xinjiang labour transfers to at least six of Dongfeng's supplier factories in Hubei.",
+  "text": "The Bureau of Investigative Journalism's investigation found evidence of Xinjiang labour transfers to at least six of Dongfeng's supplier factories in Hubei. Sheffield Hallam University and NomoGaia's Driving Force report separately documents Xinjiang migrant-worker transfers at one Dongfeng supplier plant in Hubei province - Joyson Safety Systems (Jingzhou), whose corporate website lists Dongfeng among its customers - identifying it as a plant that could be related to the Uyghur labour transfers.",
   "short": "TBIJ found evidence of Xinjiang labour transfers to at least six Dongfeng supplier factories in Hubei.",
   "source": {
     "name": "The Bureau of Investigative Journalism - Did coerced labour build your car?",
@@ -17,10 +18,11 @@
   },
   "additionalSources": [
     {
-      "name": "Business & Human Rights Resource Centre - More than 30 automobile brands have products with Xinjiang forced labour risks, investigation found",
-      "date": "2025-05-31",
-      "url": "https://www.business-humanrights.org/en/latest-news/china-more-than-30-automobile-brands-have-products-with-xinjiang-forced-labour-risks-investigation-found/",
-      "quote": "TBIJ's investigation found evidence of Xinjiang labour transfers to at least six of Dongfeng's supplier factories in Hubei.",
+      "name": "Sheffield Hallam University & NomoGaia - Driving Force: Automotive Supply Chains and Forced Labor in the Uyghur Region (rev. October 2024)",
+      "date": "2024-10",
+      "url": "https://www.shu.ac.uk/-/media/home/research/helena-kennedy-centre/projects/driving-force/driving-force-auto-supply-chains-and-ufl-oct24.pdf",
+      "quote": "it is Joyson's Jingzhou safety systems plant that could potentially be related to the Uyghur labor transfers",
+      "note": "The same report lists Dongfeng among the automotive customers of Joyson, whose Jingzhou (Hubei) plant it links to Uyghur labour transfers: \"The companies listed as customers on the Joyson corporate website include Aston Martin, Audi, BAIC Motor, Bentley, BMW, CMC, Daihatsu, Daimler, Dongfeng\".",
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"
