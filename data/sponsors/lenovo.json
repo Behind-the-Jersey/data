@@ -5,10 +5,24 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own….",
+  "verdict": "About a tenth indirectly owned by the Chinese state, through Legend Holdings.",
   "claimIds": [
-    "lenovo-group-ltd-record"
+    "lenovo-legend-stake-2026",
+    "legend-cas-holdings-stake-2026",
+    "cas-holdings-state-owned",
+    "china-xinjiang-un-assessment"
   ],
   "aliases": [],
-  "note": "Rating note: Legend Holdings holds 31.41% of Lenovo (also confirmed on Lenovo's own IR shareholding page); CAS Holdings held ~29.04% of Legend. Control runs through a listed holding company, so the state's effective economic interest is under 10% - hence 'concern'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): CAS Holdings (wholly state-owned) holds 29.04% of Legend, which holds 32.95% of Lenovo: about 9.5% through the chain.",
+  "why": {
+    "text": "Lenovo’s largest shareholder is Legend Holdings, with about a third, and Legend’s largest shareholder, with 29%, is a company wholly owned by the Chinese state. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So part of the money behind Lenovo is the Chinese state’s.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "lenovo-legend-stake-2026",
+      "legend-cas-holdings-stake-2026",
+      "cas-holdings-state-owned"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  }
 }

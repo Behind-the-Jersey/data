@@ -3,12 +3,13 @@
   "name": "IFS",
   "ownerId": "ifs-ab",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new….",
+  "verdict": "Controlled by the private-equity firms EQT and Hg.",
   "claimIds": [
-    "ifs-ab-record"
+    "ifs-shareholders-2025",
+    "ifs-board-2026"
   ],
   "aliases": [],
-  "note": "Rating note: EQT itself is a listed Swedish PE firm, so the chain has both listed-PE and private-fund layers; ADIA's entry is minority, hence 'concern'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. ADIA is a minority shareholder of undisclosed size with no board seat; if a stake of 5% or more is published, it becomes concern."
 }
