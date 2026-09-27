@@ -3,17 +3,19 @@
   "ownerIds": [
     "freshworks-inc"
   ],
+  "kind": "ownership",
   "text": "Freshworks was founded in 2010 by former Zoho employees Girish Mathrubootham and Shan Krishnasamy as Freshdesk; it trades on Nasdaq under FRSH.",
   "short": "Freshworks, founded 2010, trades on Nasdaq (FRSH).",
   "source": {
     "name": "Wikipedia – Freshworks",
     "date": "2026-09-27",
     "url": "https://en.wikipedia.org/wiki/Freshworks",
-    "quote": "Freshworks was founded in 2010 by former Zoho employees Girish Mathrubootham and Shan Krishnasamy as Freshdesk.",
+    "quote": "Freshworks was founded in 2010 by former Zoho employees Girish Mathrubootham and Shan Krishnasamy in Chennai, India, as Freshdesk.",
     "checked": {
       "on": "2026-09-27",
       "by": "Schnitzel"
-    }
+    },
+    "note": "Quote is verbatim from the History section; 'in Chennai, India,' appears on the page."
   },
   "reviewed": false
 }

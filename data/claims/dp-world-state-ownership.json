@@ -3,6 +3,7 @@
   "ownerIds": [
     "government-of-dubai"
   ],
+  "kind": "ownership",
   "text": "DP World is listed as a state-owned enterprise; its infobox cites Reuters reporting that the company returned to full Dubai state ownership.",
   "short": "DP World is a Dubai state-owned enterprise.",
   "source": {
@@ -16,5 +17,17 @@
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "DP World – DP World to Delist from Nasdaq Dubai (press release)",
+      "date": "2020-02-17",
+      "url": "https://www.dpworld.com/en/news/dp-world-to-delist-from-nasdaq-dubai",
+      "quote": "DP World will be 100 per cent owned by Port and Free Zone World, which in turn is a wholly-owned subsidiary of Dubai World.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }
