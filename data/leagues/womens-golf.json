@@ -11,13 +11,10 @@
   "sportId": "golf",
   "name": "Women's golf: Ladies European Tour & LPGA Tour (PIF Global Series)",
   "country": "Global",
-  "clubCount": 29,
+  "clubCount": 0,
   "season": "2026",
-  "status": "partial",
+  "status": "not-started",
   "notes": [
-    "Combined LET + LPGA entry (not separate ladies-european-tour / lpga leagues) because the state-linked money is the PIF Global Series: all five series events are LET events and the only LPGA link is the co-sanctioned Aramco Championship (LPGA news, 2025-11-05). The full LPGA 2026 event count was not verified (lpga.com/tournaments showed only the 9 remaining events on 24 Sep 2026), so clubCount 29 counts the LET's 29 official events (Wikipedia 2026 Ladies European Tour; ladieseuropeantour.com returned HTTP 403 to automated fetches).",
-    "PIF Global Series 2026 (pifglobalseries.com 2026-schedule announcement, 2025-11-05, fetched 25 Sep 2026): five 72-hole stroke-play events, $15m total prize fund - PIF Saudi Ladies International (Riyadh Golf Club, Feb 11-14, $5m), Aramco Championship (Shadow Creek, Las Vegas, Apr 2-5, $4m, LPGA/LET co-sanctioned), PIF London Championship (Centurion Club, Aug 6-9, $2m), Aramco Korea Championship (New Korea Country Club, Seoul, Oct 8-11, $2m), Aramco China Championship (Mission Hills, Shenzhen, Nov 5-8, $2m, co-sanctioned with the China LPGA Tour). The series was the Aramco Team Series until renamed in 2025 and dropped its team element for 2026.",
-    "PIF Global Series partners (pifglobalseries.com footer, fetched 25 Sep 2026): Series Title Partner PIF; Title Partner Aramco; Host Partner Kolon Group; Organiser Golf Saudi; Official Partners FII Institute and Rolex; Official Suppliers Black Knight Coffee, BMW Korea and Ilhwa; Host Venue New Korea Country Club; Sanctioned By the Ladies European Tour and the Saudi Golf Federation; Strategic Partners Arab Golf Federation, Saudi Ministry of Sport and the Saudi Olympic Committee.",
-    "Event-host shape: tournaments, not clubs, are the entities; the schema has no event entity, so event-level facts are recorded in unsourced. Women's golf has no team shirts to scrape; player apparel placement was not researched this pass."
+    "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
   ]
 }

@@ -7,15 +7,13 @@
   ],
   "sportId": "tennis",
   "name": "ATP Tour",
-  "clubCount": 65,
+  "clubCount": 0,
   "season": "2026",
-  "status": "partial",
+  "status": "not-started",
   "notes": [
     "Calendar-year competition; season field uses bare 2026. The 2026 ATP Tour runs January to November with the Next Gen ATP Finals in December.",
-    "Calendar reconciled from the Wikipedia 2026 ATP Tour schedule tables (every row read on 25 Sep 2026; wtatour.com/atptour.com calendar feeds block automated access with Cloudflare 403): 62 ATP-owned events = 4 Grand Slams + 9 ATP Masters 1000 + 16 ATP 500 + 29 ATP 250 + ATP Finals + Next Gen ATP Finals, plus 5 team events on the ATP calendar (United Cup, Davis Cup Qualifiers first round, Davis Cup Qualifiers second round, Laver Cup, Davis Cup Finals) which are recorded here as clubs too. The target's official-feed count of 62 matches the 62 ATP-owned events; with the 5 team/federation events the Wikipedia calendar lists 67 rows.",
-    "Grand Slams are run by the four national federations and the ITF runs the Davis Cup; they appear on the ATP calendar but are not ATP-owned. United Cup is a combined ATP/WTA team event. These are included as clubs with shared ids where they overlap the WTA research (wta-tour.json).",
     "PIF is the first-ever naming partner of the ATP Rankings ('PIF ATP Rankings') and a Platinum Partner of the ATP Tour; PIF's partner page at bnpparibasopen.com/partners/pif describes it as 'exclusive naming partner of both the ATP and WTA Rankings' and 'Platinum Partner of the ATP Tour' (fetched 25 Sep 2026).",
     "Nitto extended as title sponsor of the ATP Finals in Turin through 2030; the 2026 edition is the 2026 Nitto ATP Finals (15-22 Nov 2026, Inalpi Arena).",
-    "Shape note: tournaments are recorded as clubs (sportId tennis, leagueId atp-tour). Tournaments have no shirt kits, so kits is empty; tournament title sponsors, hosts and organisers are recorded in unsourced (event-host shape) and as org deals where a league-level partner exists."
+    "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
   ]
 }
