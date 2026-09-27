@@ -1,12 +1,14 @@
 {
   "id": "etihad-airways",
   "name": "Etihad Airways",
-  "ownerId": "government-of-abu-dhabi",
+  "ownerId": "limad",
   "ownership": "owned",
   "tier": "serious",
   "status": "rated",
-  "verdict": "The airline is owned by the Government of Abu Dhabi.",
+  "verdict": "Owned by the Abu Dhabi government through its sovereign fund L'IMAD Holding.",
   "claimIds": [
+    "etihad-adq-ownership-2022",
+    "etihad-limad-2026",
     "uae-mass-trial-2024",
     "uae-mass-trial-upheld-2025"
   ],
@@ -15,12 +17,15 @@
     "abu dhabi"
   ],
   "why": {
-    "text": "Etihad is owned by the Government of Abu Dhabi, part of the United Arab Emirates. In 2024, a UAE court gave 43 people, including human rights defenders, life sentences after a single mass trial that human rights monitors called unfair, and in March 2025 the UAE’s Federal Supreme Court upheld the convictions. Putting Etihad on a famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "Etihad Airways belongs to the Abu Dhabi government through its investment companies: its parent group was transferred in full to ADQ in 2022, and in 2026 ADQ's assets, Etihad included, were consolidated into L'IMAD Holding, one of the Abu Dhabi government's sovereign investment funds. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair, and in March 2025 the UAE’s Federal Supreme Court upheld the convictions. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
       "uae-mass-trial-2024",
-      "uae-mass-trial-upheld-2025"
+      "uae-mass-trial-upheld-2025",
+      "etihad-adq-ownership-2022",
+      "etihad-limad-2026"
     ],
     "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial, and the convictions were upheld in 2025.",
     "status": "draft"
-  }
+  },
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Etihad moved from the Abu Dhabi government to ADQ (2022) and into L'IMAD Holding (2026), both Abu Dhabi state funds."
 }

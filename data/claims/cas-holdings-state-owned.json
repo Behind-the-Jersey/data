@@ -1,0 +1,31 @@
+{
+  "id": "cas-holdings-state-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "chinese-academy-of-sciences-holdings"
+  ],
+  "text": "Chinese Academy of Sciences Holdings is a wholly state-owned company, set up with State Council approval and funded by the Chinese Academy of Sciences on behalf of the People's Republic of China. The Chinese Academy of Sciences is a national institution owned and controlled by the Chinese government.",
+  "source": {
+    "name": "Chinese Academy of Sciences Holdings Co., Ltd.: Company profile (undated page, read September 2026)",
+    "date": "2026-09",
+    "url": "http://english.holdings.cas.cn/cp/",
+    "quote": "As a wholly state-owned company established on April, 12th, 2002, Chinese Academy of Sciences Holdings Co., Ltd.(\"CAS HOLDINGS\" for short), was approved by the State Council and invested by CAS on behalf of the P.R.China",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SEC Schedule 13D, Tuniu Corporation, filed by Hony Capital and Legend Holdings entities (Schedule I)",
+      "date": "2015-05-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/1536505/000110465915038824/a15-12191_1sc13d.htm",
+      "quote": "The principal business of Chinese Academy of Sciences is a national academic and research institution owned and controlled by the PRC government",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

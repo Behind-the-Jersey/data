@@ -3,12 +3,12 @@
   "name": "Herbalife",
   "ownerId": "herbalife-ltd",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
+  "verdict": "A listed company whose largest holders are investment firms.",
   "claimIds": [
-    "herbalife-ltd-record"
+    "herbalife-major-holders-2026"
   ],
   "aliases": [],
-  "note": "Rating note: The 2016 FTC action is dated but is still the defining regulatory finding; Herbalife has had no state or conflict link."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
 }

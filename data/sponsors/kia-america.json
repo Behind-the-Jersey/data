@@ -3,12 +3,12 @@
   "name": "Kia America",
   "ownerId": "kia-america-owner",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%) and no state ownership; Hyundai Motor Company is a privately….",
+  "verdict": "Kia is listed; its largest shareholder is Hyundai Motor Company.",
   "claimIds": [
     "kia-america-owner-record"
   ],
   "aliases": [],
-  "note": "Rating note: Kia's largest shareholder is Hyundai Motor Company (~35.17%), a private conglomerate; no state ownership in Kia or its parent. No documented human-rights concerns in ownership chain identified. ADJUSTED: same chain as hyundai - Hyundai Motor Company holds 35.17% of Kia and the NPS 7.76% stake sits behind it"
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern with no stated reason; no state stake that counts."
 }

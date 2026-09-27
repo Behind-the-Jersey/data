@@ -3,12 +3,13 @@
   "name": "OKX",
   "ownerId": "okx-group",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "No state shareholder found.",
+  "verdict": "Privately owned; its founder, Star Xu, is the ultimate controlling party.",
   "claimIds": [
-    "okx-group-record"
+    "okx-ultimate-controlling-party",
+    "okx-founder-star-xu"
   ],
   "aliases": [],
-  "note": "Rating note: Exchange founded 2013 by Star Xu (OK Group); no sovereign fund on the register. DOJ Information v. 25 Cr. names Aux Cayes FinTech Co. Ltd d/b/a 'OKEx'/'OKX'. Man City sleeve sponsor (existing dataset row)."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its anti-money-laundering guilty plea is not a human-rights finding."
 }
