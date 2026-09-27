@@ -1,0 +1,42 @@
+{
+  "id": "lenovo-legend-stake-2026",
+  "kind": "ownership",
+  "ownerIds": [
+    "lenovo-group-ltd",
+    "legend-holdings"
+  ],
+  "text": "Legend Holdings directly and indirectly held 32.95% of Lenovo at 30 June 2026, and Lenovo's annual report gives Legend's holding as 32.04% at 31 March 2026. Legend reports that it has de facto control over Lenovo, although it holds less than 50% of the votes.",
+  "source": {
+    "name": "Legend Holdings Corporation, 2026 Interim Report (HKEX filing)",
+    "date": "2026-09-22",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0922/2026092200438.pdf",
+    "quote": "As of June 30, 2026, Legend Holdings directly and indirectly held a 32.95% equity interest in Lenovo.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Lenovo Group Limited, 2025/26 Annual Report (hosted by irasia.com, linked from Lenovo's investor site)",
+      "date": "2026-06-26",
+      "url": "https://doc.irasia.com/listco/hk/lenovo/annual/2026/ar2026.pdf",
+      "quote": "As at March 31, 2026, Legend Holdings, together with Right Lane, Kind Jasper, Legion Elite and Honorific Promise, directly or indirectly held 32.04%",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Legend Holdings Corporation, 2025 Annual Report (HKEX filing)",
+      "date": "2026-04-28",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800928.pdf",
+      "quote": "Management consider that the Group has de facto control over Lenovo even though it has less than 50% of the voting rights",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

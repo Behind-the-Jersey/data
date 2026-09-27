@@ -128,17 +128,50 @@ def claim_corroborated(claim):
     return claim_checked(claim) and len({publisher(x['url']) for x in claim_sources(claim)}) >= 2
 
 
+def cited_claims(sponsor):
+    """The ids of every claim a sponsor cites: its claimIds, then its why's."""
+    return list(dict.fromkeys(sponsor['claimIds'] + ((sponsor.get('why') or {}).get('claimIds') or [])))
+
+
+def rating_owners(sponsor, owners, claims):
+    """The owners a rating can rest on: the sponsor's owner chain, plus every owner named in the ownership
+    claims it cites, with their chains. A record claim must be about one of them (METHOD.md: the record
+    must be about someone the link reaches)."""
+    out = owner_chain(owners, sponsor.get('ownerId'))
+    for i in cited_claims(sponsor):
+        if claims.get(i, {}).get('kind') == 'ownership':
+            for o in claims[i]['ownerIds']:
+                out += [x for x in owner_chain(owners, o) if x not in out]
+    return out
+
+
+def why_problem(sponsor, claims):
+    """What a rating above "Nothing found" is missing, or None. Its why must cite the link (an ownership
+    claim) and the record (a record claim) (METHOD.md)."""
+    if not TIER_SCORE[sponsor['tier']]:
+        return None
+    why = sponsor.get('why')
+    if not why:
+        return 'no why text naming the link and the record'
+    kinds = {claims[i].get('kind') for i in why['claimIds'] if i in claims}
+    missing = [k for k in ('ownership', 'record') if k not in kinds]
+    return 'the why cites no ' + ' and no '.join(f'{k} claim' for k in missing) if missing else None
+
+
 def rating_hold(sponsor, claims):
     """Why a sponsor's rating can't be published yet, or None. A held rating is published as not rated yet.
 
-    Every claim a rating rests on must be checked; for Concern, Serious and Severe each of them also
-    needs a second, independent source."""
+    Every claim a rating rests on must be checked. Concern, Serious and Severe also need a why that cites
+    the link and the record, and a second, independent source for each claim."""
     if sponsor['tier'] == 'unrated':
         return None
-    ids = list(dict.fromkeys(sponsor['claimIds'] + ((sponsor.get('why') or {}).get('claimIds') or [])))
+    ids = cited_claims(sponsor)
     unchecked = [i for i in ids if i in claims and not claim_checked(claims[i])]
     if unchecked:
         return 'evidence not checked yet: ' + ', '.join(unchecked)
+    problem = why_problem(sponsor, claims)
+    if problem:
+        return problem
     if TIER_SCORE[sponsor['tier']]:
         single = [i for i in ids if i in claims and not claim_corroborated(claims[i])]
         if single:

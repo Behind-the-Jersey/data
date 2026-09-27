@@ -101,8 +101,8 @@ jobs:
           if [ -z "$body" ]; then echo "::error::The review agent didn't post a review."; exit 1; fi
           verdict=$(printf '%s\n' "$body" | grep -m1 -F '**Review agent:**')
           echo "$verdict"
-          # A ❌ counts only in the table (one row per source), not where the text mentions the symbol.
-          if printf '%s\n' "$body" | grep -E '^[[:space:]]*\|' | grep -q '❌' || printf '%s' "$verdict" | grep -qi 'needs changes'; then
+          # A ❌ counts only as a verdict: a table cell that starts with it, not a row or text that mentions it.
+          if printf '%s\n' "$body" | grep -E '^[[:space:]]*\|' | grep -qE '\|[[:space:]]*❌' || printf '%s' "$verdict" | grep -qi 'needs changes'; then
             echo "::error::The review agent found sources that don't hold up. See its comment on the pull request."
             exit 1
           fi

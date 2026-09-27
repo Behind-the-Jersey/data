@@ -1,0 +1,20 @@
+{
+  "id": "fa-cup-clearscore-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "clearscore-group"
+  ],
+  "text": "ClearScore says it is part of The ClearScore Group and was founded in the UK in 2015.",
+  "short": "ClearScore is part of the privately held ClearScore Group.",
+  "source": {
+    "name": "ClearScore - About Us",
+    "date": "2026-05-19",
+    "url": "https://web.archive.org/web/20260519133059/https://www.clearscore.com/about-us",
+    "quote": "Part of The ClearScore Group, ClearScore was founded in the UK in 2015",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

@@ -3,12 +3,12 @@
   "name": "Kroger",
   "ownerId": "kroger-owner",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
+  "verdict": "A listed company whose largest holders are investment firms.",
   "claimIds": [
-    "kroger-owner-record"
+    "kroger-major-holders-2026"
   ],
   "aliases": [],
-  "note": "Rating note: Conduct record: opioid settlement settlement is a documented conduct record, warranting concern tier (lesser link). No state stake identified."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
 }

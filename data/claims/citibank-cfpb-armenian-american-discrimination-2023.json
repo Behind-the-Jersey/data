@@ -1,0 +1,41 @@
+{
+  "id": "citibank-cfpb-armenian-american-discrimination-2023",
+  "kind": "record",
+  "ownerIds": [
+    "citigroup-citi-owner"
+  ],
+  "text": "In November 2023 the US Consumer Financial Protection Bureau (CFPB) issued a consent order finding that from at least 2015 through 2021 Citibank (Citi) had a pattern or practice of discriminating against credit card applicants based on Armenian national origin, whom its employees identified by last names ending in -ian or -yan. Citibank consented without admitting or denying the findings and was ordered to pay a $24.5 million penalty and $1.4 million in redress. The CFPB ended the order in October 2025, three years early.",
+  "source": {
+    "name": "Consumer Financial Protection Bureau: Consent Order, In the Matter of Citibank, N.A., File No. 2023-CFPB-0013",
+    "date": "2023-11-08",
+    "url": "https://files.consumerfinance.gov/f/documents/cfpb_citibank-na_2023-cfpb-0013_consent-order_2023-11.pdf",
+    "quote": "From at least 2015 through 2021, it was Respondent’s pattern or practice to apply extra scrutiny to, negatively assess, and often deny certain credit card applications based on Armenian national origin.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Banking Dive (Anna Hrushka): Citi fined $25.9M over alleged discrimination",
+      "date": "2023-11-08",
+      "url": "https://www.bankingdive.com/news/citi-fine-25-million-discrimination-armenian-americans-cfpb-credit-card/699163/",
+      "quote": "The Consumer Financial Protection Bureau on Wednesday fined Citi $25.9 million over allegations the bank intentionally discriminated against credit card applicants the bank identified as Armenian-American.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Los Angeles Times (Laurence Darmiento), via Yahoo News: Trump administration terminates Citibank consent order prohibiting Armenian American discrimination",
+      "date": "2025-10-17",
+      "url": "https://www.yahoo.com/news/articles/trump-administration-terminates-citibank-consent-235723279.html",
+      "quote": "The agency, led by President Trump's Office of Management and Budget Director Russ Vought, ended the consent order on Thursday, three years earlier than when it was set to expire.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "roshn-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "roshn",
+    "saudi-pif",
+    "government-of-saudi-arabia"
+  ],
+  "text": "ROSHN Group describes itself as Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF) company, in a press release naming it Title Partner of ROSHN Group LIV Golf Riyadh 2026.",
+  "source": {
+    "name": "ROSHN Group press release",
+    "date": "2026-01-05",
+    "url": "https://www.roshn.sa/news-and-events/press-releases/article-96",
+    "quote": "ROSHN Group, Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF) company, has been announced as Title Partner of ROSHN Group LIV Golf Riyadh 2026",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

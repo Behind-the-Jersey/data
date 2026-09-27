@@ -5,10 +5,20 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill….",
+  "verdict": "BP pleaded guilty to manslaughter over the 11 deaths in the 2010 Deepwater Horizon disaster.",
   "claimIds": [
-    "bp-plc-record"
+    "bp-major-shareholders-2025",
+    "bp-deepwater-horizon-manslaughter-plea-2013"
   ],
   "aliases": [],
-  "note": "Rating note: Rated with shell for consistency. BP also held a 19.75% stake in Russia's state-controlled Rosneft until 2022 - a further Russia-exposure note."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): BP p.l.c. (listed; largest holder BlackRock, no state at 5%+) - in 2013 a US court accepted BP Exploration and Production's guilty plea to 11 counts of felony manslaughter for the 11 men killed on the Deepwater Horizon rig in 2010.",
+  "why": {
+    "text": "In 2013 a US court accepted the guilty plea of BP Exploration and Production, the bp company that was lease operator of the block where the Deepwater Horizon rig exploded in 2010, to 14 criminal counts, including 11 counts of felony manslaughter. BP admitted that its two highest-ranking supervisors on the rig negligently caused the deaths of 11 men.",
+    "claimIds": [
+      "bp-deepwater-horizon-manslaughter-plea-2013",
+      "bp-major-shareholders-2025"
+    ],
+    "messageLine": "In 2013 BP pleaded guilty to 11 counts of felony manslaughter over the 2010 Deepwater Horizon disaster, admitting its supervisors negligently caused the deaths of 11 men.",
+    "status": "draft"
+  }
 }

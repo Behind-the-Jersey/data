@@ -1,0 +1,20 @@
+{
+  "id": "sailgp",
+  "aliases": [
+    "Rolex SailGP Championship",
+    "SailGP Championship",
+    "F50 League"
+  ],
+  "sportId": "sailing",
+  "name": "SailGP (Rolex SailGP Championship)",
+  "clubCount": 13,
+  "season": "2026",
+  "status": "partial",
+  "notes": [
+    "13 national teams in the 2026 season; official team names carry title/naming partners (sailgp.com team pages, fetched 2026-09-25): BONDS Flying Roos (AUS), Mubadala Brazil (BRA), NorthStar (CAN), ROCKWOOL Racing (DEN), DS Automobiles SailGP Team France (FRA), Emirates Great Britain (GBR), Germany SailGP Team presented by Deutsche Bank (GER), Red Bull Italy (ITA), Black Foils (NZL), Los Gallos (ESP), Artemis (SWE), Explora Journeys Swiss SailGP Team (SUI), United States (USA).",
+    "Calendar-year competition (Jan-Nov 2026), so season is bare 2026. 13 Sail Grands Prix from Oracle Perth (17-18 Jan 2026) to the Mubadala Abu Dhabi Grand Final (28-29 Nov 2026); the two closing rounds are in the UAE (sailgp.com/races/ calendar, fetched 2026-09-25).",
+    "League partner tiers per sailgp.com/about/partners/overview/ (fetched 2026-09-25): Presenting Partner Rolex; Global Partners DP World, Emirates, Mubadala, Oracle; Official Partners Accor, Apex, KPMG. Red Bull was announced as a new global partner in January 2026 (sailgp.com press release, publishDate 2026-01-15) but does not yet appear on the partners overview page.",
+    "Boat livery/event-host shape: SailGP has no shirts in the schema sense - team naming partners brand the F50 boats and team identity. Mapped team title/naming partners to placement 'front' and team partners to 'partner'; the event-host shape (13 events with title/presenting partners) is recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts because no event entity exists yet.",
+    "League founded 2018 by Larry Ellison and Russell Coutts, operated by F50 League LLC (Wikipedia lead, not cited)."
+  ]
+}
