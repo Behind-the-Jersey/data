@@ -11,3 +11,5 @@
 - The Newcastle United x Visit Saudi deal was deleted in this branch: visitsaudi.com's sitemap has no Newcastle page, the club's partners page lists no Visit Saudi deal, and no Wayback snapshot exists. Per CONTRIBUTING the unverifiable deal was removed rather than re-sourced.
 
 - WSL league-partner deals for airbnb, bbc, sky-sports and wtw removed 2026-09-26: the cited wslfootball.com homepage shows Barclays, EA Sports FC, Subway and a Tesco schools tie-in but not these four partnerships. The wta/dp research recorded them from the same page pre-restructure; re-add when the WSL publishes a partner roster page.
+
+- ak-bars-bank-rubin-kazan deal removed 2026-09-26: cited issue #273, which does not contain the partnership; re-source from the club's partner page.
