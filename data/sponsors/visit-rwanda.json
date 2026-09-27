@@ -7,6 +7,7 @@
   "status": "rated",
   "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
   "claimIds": [
+    "visit-rwanda-rdb-brand",
     "rwanda-troops-m23",
     "m23-coltan-levies",
     "rubaya-smuggling",
@@ -18,10 +19,11 @@
   ],
   "ownerVerb": "paid for by",
   "why": {
-    "text": "Rwanda’s government pays to put its tourism brand on the shirt. UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo, and estimate that the rebels make about $800,000 a month from the coltan trade there. A famous shirt makes Rwanda look like a holiday destination while that goes on. That’s called sportswashing.",
+    "text": "Visit Rwanda is the tourism brand of the Rwanda Development Board, a Rwandan government institution. UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo, and estimated that the rebels made about $800,000 a month from the coltan trade there. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
       "rwanda-troops-m23",
-      "m23-coltan-levies"
+      "m23-coltan-levies",
+      "visit-rwanda-rdb-brand"
     ],
     "messageLine": "UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
     "status": "draft"

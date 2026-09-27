@@ -1,0 +1,31 @@
+{
+  "id": "gazprom-state-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "russian-federation"
+  ],
+  "text": "The Russian Federation is Gazprom's ultimate controlling party and holds a controlling stake of over 50%, directly and through companies it controls.",
+  "source": {
+    "name": "PJSC Gazprom: IFRS consolidated interim condensed financial information, 31 March 2025 (unaudited), note 1 (archived copy of gazprom.com PDF)",
+    "date": "2025-05",
+    "url": "https://web.archive.org/web/20250603132433id_/https://www.gazprom.com/f/posts/61/763135/gazprom-ifrs-2025-3mnth-en.pdf",
+    "quote": "The Russian Federation is the ultimate controlling party and has a controlling interest (including both direct and indirect ownership) of over 50 % in PJSC Gazprom.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AK&M Information Agency: Gazprom's net profit under IFRS for 2025 increased by 7%",
+      "date": "2026-04-30",
+      "url": "https://www.akm.ru/eng/news/gazprom-s-net-profit-under-ifrs-for-2025-increased-by-7/",
+      "quote": "The Russian Federation, being the party with ultimate control, has a controlling stake (including direct and indirect ownership) of over 50% in Gazprom PJSC.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

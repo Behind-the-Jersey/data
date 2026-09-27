@@ -3,13 +3,13 @@
   "name": "Plenitude",
   "ownerId": "eni",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
+  "verdict": "Controlled by Eni, in which the Italian state holds more than 30%.",
   "claimIds": [
     "eni-spa-record",
     "eni-plenitude-stake"
   ],
   "aliases": [],
-  "note": "Rating note: Flagged for proper look: the Italian state stake in Eni sits below 50% and via a listed parent, so concern rather than serious. Claims of Eni human-rights/environmental harm (Niger Delta, OPL 245) are contested and partly settled, supporting concern not serious."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. Italy has no record of serious abuses."
 }

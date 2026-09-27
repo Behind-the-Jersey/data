@@ -5,10 +5,22 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner.",
+  "verdict": "About 18% owned by Temasek, Singapore’s state investment company.",
   "claimIds": [
-    "standard-chartered-plc-record"
+    "standard-chartered-temasek-stake",
+    "temasek-singapore-government-owned",
+    "singapore-drug-executions-2025"
   ],
   "aliases": [],
-  "note": "Rating note: Listed UK owner, no state link → none. Honesty flag: the task highlighted SC as 'interesting', and its sanctions-violation history is real, but under a state-ownership rubric the honest tier is none. If conduct counted, concern. ADJUSTED: Raised from none: the 2012 and 2019 forfeitures are a sustained structural record, not a one-off fine, which is what tiers.json calls 'a lesser link'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Temasek (wholly owned by the Singapore government) holds 17-18%; Singapore counts as a state with a record (maintainers, September 2026). The sanctions record in the old claim is not a human-rights finding.",
+  "why": {
+    "text": "Singapore’s state investment company Temasek is Standard Chartered’s largest shareholder, with about 18%. Singapore carried out 17 executions in 2025, 15 of them for drug offences, and UN human rights experts have condemned its executions for drug offences as unlawful. So part of the money behind Standard Chartered is the Singapore state’s.",
+    "claimIds": [
+      "singapore-drug-executions-2025",
+      "standard-chartered-temasek-stake",
+      "temasek-singapore-government-owned"
+    ],
+    "messageLine": "Singapore carried out 17 executions in 2025, 15 of them for drug offences.",
+    "status": "draft"
+  }
 }
