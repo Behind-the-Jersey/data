@@ -5,7 +5,7 @@
   "sponsorId": "enilive",
   "placement": "league-partner",
   "from": "2024-25",
-  "to": null,
+  "to": "2026-27",
   "value": {
     "amount": 22,
     "currency": "EUR",
@@ -15,15 +15,16 @@
     "usdApprox": null
   },
   "source": {
-    "name": "Eni press release - Enilive becomes Serie A Title sponsor with sponsorship agreement up until 2027",
-    "date": "2024-02-05",
-    "url": "https://www.eni.com/en-IT/media/press-release/2024/02/enilive-becomes-serie-a-title-sponsor.html",
-    "quote": "Enilive, Eni's company dedicated to mobility products and services, will be the Title sponsor of Serie A starting from the 2024/25 championship and covering three seasons.",
+    "name": "SportsPro - Serie A scores '€22m per year' Enilive title sponsorship",
+    "date": "2024-02-06",
+    "url": "https://www.sportspro.com/news/serie-a-enilive-new-title-sponsorship-tim/",
+    "short": "SportsPro",
+    "quote": "Company will reportedly pay €22 million (US$23.6 million) per year in deal that includes option of a further two seasons beyond 2026/27",
     "checked": {
       "on": "2026-09-27",
       "by": "Schnitzel"
     }
   },
-  "note": "Competition naming-rights deal reported at €22m per year (SportsPro, 2024-02-06); the Eni release states the term, not the value. Runs to the end of 2026-27 per the agreement 'up until 2027'.",
+  "note": "Competition naming-rights deal. Value: SportsPro (2024-02-06) reports €22m per year, reportedly, with an option of two further seasons beyond 2026/27. Term: Eni's own release (2024-02-05, https://www.eni.com/en-IT/media/press-release/2024/02/enilive-becomes-serie-a-title-sponsor.html) titles the agreement 'up until 2027' and says it covers three seasons from 2024/25, so the confirmed term runs to 2026-27; the option years are not part of it.",
   "leagueId": "serie-a"
 }
