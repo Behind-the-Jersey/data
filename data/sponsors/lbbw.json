@@ -3,12 +3,12 @@
   "name": "LBBW",
   "ownerId": "state-of-baden-wuerttemberg",
   "ownership": "part-owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of….",
+  "verdict": "A public bank owned by the State of Baden-Württemberg, the city of Stuttgart and the savings banks.",
   "claimIds": [
     "state-of-baden-wuerttemberg-record"
   ],
   "aliases": [],
-  "note": "Rating note: Owner is the German state/public sector; Germany has no 'documented serious abuses' at state level, so this is treated as a lesser link → concern. An honest alternative reading is none (clean state). Recorded here rather than picked silently."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: a German state has no record of serious abuses."
 }

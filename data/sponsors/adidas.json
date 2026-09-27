@@ -3,12 +3,12 @@
   "name": "adidas",
   "ownerId": "adidas-ag",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+  "verdict": "A listed company with widely held shares.",
   "claimIds": [
-    "adidas-ag-record"
+    "adidas-ag-ownership"
   ],
   "aliases": [],
-  "note": "Rating note: Judgement call: ownership is clean (no state stake) so 'none' was tempting, but the Xinjiang cotton/forced-labour exposure is a named, documented human-rights issue, so 'concern' on record not ownership. Same owner as sponsorId 'adidas-a'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. The Xinjiang cotton tests were journalism, not a finding of forced labour against adidas (METHOD.md)."
 }

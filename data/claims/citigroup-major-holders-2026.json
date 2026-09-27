@@ -1,0 +1,31 @@
+{
+  "id": "citigroup-major-holders-2026",
+  "kind": "ownership",
+  "ownerIds": [
+    "citigroup-citi-owner"
+  ],
+  "text": "Citigroup Inc. is a listed company whose largest shareholders are the asset managers Vanguard and BlackRock. Its 2026 proxy statement lists them as the two owners of more than 5% of its common stock: The Vanguard Group, Inc. (8.7%) and BlackRock, Inc. (6.9%).",
+  "source": {
+    "name": "Citigroup Inc.: 2026 Proxy Statement (Schedule 14A), 'Owners of More than 5% of Citi's Common Stock' (SEC EDGAR)",
+    "date": "2026-04-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm",
+    "quote": "BlackRock, Inc. (a) 50 Hudson Yards, New York, NY 10001 129,265,958 6.9% The Vanguard Group, Inc. (b) 100 Vanguard Blvd., Malvern, PA 19355 166,504,200 8.7%",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Simply Wall St, via Yahoo Finance: Citigroup Inc. (NYSE:C) is largely controlled by institutional shareholders who own 74% of the company",
+      "date": "2025-02-01",
+      "url": "https://finance.yahoo.com/news/citigroup-inc-nyse-c-largely-120025868.html",
+      "quote": "The Vanguard Group, Inc. is currently the company's largest shareholder with 8.9% of shares outstanding. With 8.7% and 4.4% of the shares outstanding respectively, BlackRock, Inc. and State Street Global Advisors, Inc. are the second and third largest shareholders.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}
