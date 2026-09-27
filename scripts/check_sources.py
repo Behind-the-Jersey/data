@@ -99,6 +99,8 @@ def fetch(url):
 
 def page_text(ctype, body):
     """The readable text of a page or PDF, or None if a script can't get it."""
+    if body[:4] == b'PK\x03\x04' or any(t in ctype for t in ('spreadsheet', 'excel', 'msword', 'officedocument', 'zip', 'image/')):
+        return None  # a spreadsheet, document or image: a person checks the quote
     if 'pdf' in ctype or body[:5] == b'%PDF-':
         try:
             from pypdf import PdfReader
