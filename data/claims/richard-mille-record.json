@@ -4,8 +4,8 @@
   "ownerIds": [
     "richard-mille"
   ],
-  "text": "Richard Mille is a privately held Swiss watchmaker founded in 2001; its Ferrari partner page describes it as a pre-eminent player in watchmaking.",
-  "short": "Richard Mille is a privately held Swiss watchmaker founded in 2001.",
+  "text": "Richard Mille is a Swiss luxury watchmaker founded in 2001, based in Les Breuleux, Switzerland; its Ferrari partner page describes it as a pre-eminent player in watchmaking.",
+  "short": "Richard Mille is a Swiss luxury watchmaker founded in 2001.",
   "source": {
     "name": "Ferrari – Richard Mille Team Partner page",
     "date": "2026-09-24",
@@ -16,5 +16,17 @@
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Wikipedia – Richard Mille",
+      "date": "2026-09",
+      "url": "https://en.wikipedia.org/wiki/Richard_Mille",
+      "quote": "Richard Mille is a Swiss luxury watchmaker founded in 2001 [ 1 ] by Dominique Guenat and Richard Mille, based in Les Breuleux , Switzerland.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }

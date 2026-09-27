@@ -4,7 +4,7 @@
   "ownerIds": [
     "pernod-ricard"
   ],
-  "text": "Chivas Regal, the Scotch whisky on the Ferrari partner grid, is produced by Chivas Brothers, a subsidiary of the listed French spirits group Pernod Ricard (Euronext Paris: RI).",
+  "text": "Chivas Regal, the Scotch whisky on the Ferrari partner grid, is produced by Chivas Brothers, a subsidiary of Pernod Ricard, a French spirits company traded on Euronext Paris (RI).",
   "short": "Chivas Regal is produced by Chivas Brothers, a subsidiary of Pernod Ricard.",
   "source": {
     "name": "Wikipedia – Chivas Regal",
@@ -16,5 +16,17 @@
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Wikipedia – Pernod Ricard",
+      "date": "2026-09",
+      "url": "https://en.wikipedia.org/wiki/Pernod_Ricard",
+      "quote": "Traded as Euronext Paris : RI CAC 40 component",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }
