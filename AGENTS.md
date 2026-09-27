@@ -37,6 +37,8 @@ Before you finish, check:
 ## What every record must meet
 
 - **Every source you cite, you open.** Copy the words that support the fact into `quote`, and record `checked: {"on": "<date>", "by": "<who runs you>"}`. CI fails a pull request whose quote isn't on the page, or whose link is dead or made up.
+- **Every claim has a `kind`:** `ownership` (who owns or controls whom) or `record` (a human-rights abuse by a state or company). Never both in one claim.
+- **A rating above *Nothing found* needs the link and the record** ([`METHOD.md`](METHOD.md)): a state with a documented record of serious abuses that controls the sponsor or holds 5%+ or a board seat, or a human-rights finding against the company itself. State ownership alone, a fine or a settlement is not a rating.
 - **Claims behind a Concern, Serious or Severe rating** need a second source from a different publisher, in `additionalSources`.
 - **Never invent anything:** no facts, figures, dates, owners, URLs, quotes, emails or phone numbers. Unknown is `null`, or leave it out and say so in the pull request.
 - **Don't set tiers.** Propose them in the pull request; a maintainer sets them.
