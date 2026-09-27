@@ -1,0 +1,29 @@
+{
+  "id": "zenit-st-petersburg-2026-27-home",
+  "clubId": "zenit-st-petersburg",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "gazprom",
+      "placement": "front",
+      "source": {
+        "name": "FC Zenit official site: Club kit (history page)",
+        "date": "2026",
+        "url": "https://en.fc-zenit.ru/club/fczenit_kit/",
+        "quote": "in 1997 the team shirts got the Gazprom logo",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "claude-review-282"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Gazprom general sponsor on the front of the Zenit shirt; other partners (Winline, Aeroflot, MegaFon) per the club partners page but shirt placement not confirmed.",
+  "change": null
+}

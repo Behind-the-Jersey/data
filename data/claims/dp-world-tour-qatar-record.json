@@ -1,0 +1,20 @@
+{
+  "id": "dp-world-tour-qatar-record",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-qatar"
+  ],
+  "text": "Amnesty International reports labour abuses against migrant workers in Qatar despite recent reforms, including under the kafala system, and deaths of migrant workers that were not effectively investigated.",
+  "short": "Amnesty documents migrant-worker exploitation and restricted expression",
+  "source": {
+    "name": "Amnesty International - Human rights in Qatar (country report)",
+    "date": "2026-01-15",
+    "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar",
+    "quote": "migrant workers continued to face labour abuses, including an exploitative kafala sponsorship system, restrictions on freedom of assembly, inadequate access to justice and remedy",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

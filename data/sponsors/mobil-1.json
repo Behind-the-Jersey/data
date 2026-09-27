@@ -3,13 +3,14 @@
   "name": "Mobil 1 / Esso",
   "ownerId": "exxon-mobil-corporation",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Mobil 1 (and Esso) is the Oracle Red Bull Racing fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil….",
+  "verdict": "A brand of ExxonMobil, a listed company whose largest holders are investment firms.",
   "claimIds": [
-    "exxon-mobil-corporation-record",
-    "exxon-valdez-oil-spill"
+    "mobil-1-exxonmobil-brand",
+    "esso-exxonmobil-brand",
+    "exxon-mobil-major-holders-2026"
   ],
   "aliases": [],
-  "note": "Rating note: Judgement call: the tier reflects corporate conduct (pollution/climate) rather than any state stake; a stricter 'state-only' reading would make it 'none'."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
 }

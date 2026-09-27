@@ -1,0 +1,21 @@
+{
+  "id": "snb-pif-controlling-party",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-national-bank",
+    "saudi-pif"
+  ],
+  "text": "Saudi National Bank's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government', with PIF holding 37.2% (2,234,257,917 shares) at 31 December 2025.",
+  "short": "PIF is SNB's ultimate controlling party with 37.2%",
+  "source": {
+    "name": "Saudi National Bank Annual Report 2025 (corporate governance and financial statements)",
+    "date": "2026",
+    "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-9-previous-annual-reports/annual-reports-pdfs-en/snb-annual-report-2025-en.pdf?view=1",
+    "quote": "The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

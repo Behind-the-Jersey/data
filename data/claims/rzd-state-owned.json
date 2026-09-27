@@ -1,0 +1,20 @@
+{
+  "id": "rzd-state-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "rzd",
+    "russian-federation"
+  ],
+  "text": "All shares of OAO Russian Railways are owned by the Russian Federation (RZD charter, clause 32).",
+  "source": {
+    "name": "RZD Charter (via Wayback Machine, company.rzd.ru)",
+    "date": "2022-02-19",
+    "url": "https://web.archive.org/web/20220219191724/https://company.rzd.ru/ru/9353/page/105104?id=1792",
+    "quote": "Все акции общества находятся в собственности Российской Федерации.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

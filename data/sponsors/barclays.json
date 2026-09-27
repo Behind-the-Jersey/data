@@ -3,11 +3,12 @@
   "name": "Barclays",
   "ownerId": "barclays",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8% in 2024), with no….",
+  "verdict": "A listed bank; BlackRock is the only holder of 3% or more.",
   "claimIds": [
-    "barclays-record"
+    "barclays-major-shareholders-2025"
   ],
-  "aliases": []
+  "aliases": [],
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
 }
