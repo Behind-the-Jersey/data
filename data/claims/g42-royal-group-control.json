@@ -1,0 +1,31 @@
+{
+  "id": "g42-royal-group-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "royal-group"
+  ],
+  "text": "In 2022, Royal Group, whose ultimate beneficial owner is Sheikh Tahnoon bin Zayed Al Nahyan, was the majority shareholder of G42. In 2026, G42 was reported to be controlled by Sheikh Tahnoon, the UAE's national security adviser.",
+  "source": {
+    "name": "SEC Schedule 13D, vTv Therapeutics Inc., filed by G42 Investments AI Holding RSC Ltd and Sheikh Tahnoon Bin Zayed S. Al-Nahyan",
+    "date": "2022-06-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/1641489/000110465922070134/tm2218155d2_sc13d.htm",
+    "quote": "Royal Group is the majority shareholder of Group 42 Holding Ltd",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Enterprise (EnterpriseAM MENA+): Those reports that G42 is going to be mostly US-owned? Take ’em with a kilo of salt.",
+      "date": "2026-07-17",
+      "url": "https://enterpriseam.com/menaplus/2026/07/17/those-reports-that-g42-is-going-to-be-mostly-us-downed-take-em-with-a-kilo-of-salt/",
+      "quote": "G42 is controlled by National Security Adviser Sheikh Tahnoon bin Zayed Al Nahyan",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

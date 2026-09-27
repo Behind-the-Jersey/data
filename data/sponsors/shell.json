@@ -5,10 +5,20 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed….",
+  "verdict": "Shell's Nigerian subsidiary admitted liability for the 2008 Bodo oil spills in the Niger Delta.",
   "claimIds": [
-    "shell-plc-record"
+    "shell-plc-ownership",
+    "shell-spdc-bodo-oil-spills-2008"
   ],
   "aliases": [],
-  "note": "Rating note: Raised to concern on the 'sustained documented adverse record' limb, not on state ownership - so bp and castrol are rated the same way for consistency. Shell is also Ferrari's fuel partner historically."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Shell plc (listed; largest holder BlackRock 8.1%, no state) - Shell's then Nigerian subsidiary SPDC admitted liability in the English High Court for two 2008 oil spills at Bodo in the Niger Delta and paid £55 million in 2015.",
+  "why": {
+    "text": "In 2008 two oil spills from a pipeline run by Shell's Nigerian subsidiary SPDC polluted the Bodo area of the Niger Delta. In 2015 SPDC agreed to pay £55 million to 15,600 people and the Bodo community, having admitted liability for the spills in the English High Court.",
+    "claimIds": [
+      "shell-spdc-bodo-oil-spills-2008",
+      "shell-plc-ownership"
+    ],
+    "messageLine": "Shell's Nigerian subsidiary admitted liability in an English court for two 2008 oil spills at Bodo in the Niger Delta and agreed to pay the community £55 million.",
+    "status": "draft"
+  }
 }

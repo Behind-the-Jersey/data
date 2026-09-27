@@ -1,0 +1,41 @@
+{
+  "id": "sela-pif-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif"
+  ],
+  "text": "Saudi Arabia's Public Investment Fund (PIF) owns 94.35% of Sela Company.",
+  "source": {
+    "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 40 (list of subsidiaries)",
+    "date": "2025-06-29",
+    "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+    "quote": "Sela Company Consumer Discretionary 94.35% 94.35%",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SportsPro: TKO and Saudi Arabia ‘close’ to launching new boxing league",
+      "date": "2025-01-09",
+      "url": "https://www.sportspro.com/news/tko-saudi-arabia-pif-sela-boxing-league-ufc-wwe-endeavor-dana-white-january-2025/",
+      "quote": "The deal would reportedly see Saudi events company Sela, which is owned by the Public Investment Fund (PIF), pump money into a new competition featuring up-and-coming boxers",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "SportBusiness (The Long Game): Making a name: Sela’s expanding vision",
+      "date": "2024-01-11",
+      "url": "https://longgame.sportbusiness.com/making-a-name-selasexpanding-vision/",
+      "quote": "This fund owns Sela which this year became the primary shirt sponsor of England Premier League football team Newcastle United",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}
