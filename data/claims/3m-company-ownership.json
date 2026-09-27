@@ -1,0 +1,31 @@
+{
+  "id": "3m-company-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "3m-company"
+  ],
+  "text": "3M Company is a listed US company whose largest shareholders are investment firms: its 2026 proxy statement lists The Vanguard Group (8.89%), BlackRock (7.60%) and JPMorgan Chase (7.60%) as its largest holders.",
+  "source": {
+    "name": "3M Company: 2026 Proxy Statement (DEF 14A), security ownership of more than 5% beneficial owners (SEC EDGAR)",
+    "date": "2026-03-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000151/mmm-20260324.htm",
+    "quote": "The Vanguard Group(1) 100 Vanguard Blvd. Malvern, PA 19355 49,080,209 8.89 BlackRock, Inc.(2) 50 Hudson Yards New York, NY 10001 41,867,008 7.60 JPMorgan Chase & Co(3) 383 Madison Ave New York, NY 10179 40,578,820 7.60",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Capital.com (Dan Mitchell): 3M shareholders: Who owns the most MMM stock?",
+      "date": "2025-11-18",
+      "url": "https://capital.com/en-int/analysis/3m-shareholder-who-owns-most-mmm-stock",
+      "quote": "As of June 2025, The Vanguard Group held the largest stake, followed by BlackRock and JP Morgan Asset Management.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}

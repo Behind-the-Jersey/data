@@ -1,0 +1,41 @@
+{
+  "id": "visit-saudi-sta-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-saudi-arabia"
+  ],
+  "text": "Visit Saudi is the flagship platform of the Saudi Tourism Authority (STA), a Saudi government entity whose establishment the Saudi Cabinet approved in 2020.",
+  "source": {
+    "name": "Visit Saudi (Saudi Tourism Authority): About VisitSaudi",
+    "date": "2025-06-25",
+    "url": "https://www.visitsaudi.com/en/about-us",
+    "quote": "As the flagship platform of the Saudi Tourism Authority, Visit Saudi offers travelers inspiring content and up-to-date information on destinations, experiences, and events across the country.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "U.S. International Trade Administration: Saudi Arabia Country Commercial Guide, Travel, Tourism, and Entertainment",
+      "date": "2026-05-18",
+      "url": "https://www.trade.gov/country-commercial-guides/saudi-arabia-travel-tourism-and-entertainment",
+      "quote": "Saudi Tourism Authority: The official promoter of Visit Saudi, this government entity was established to support the growth of the travel and tourism sector by serving the needs of tourism companies and other commercial partners.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    {
+      "name": "Asharq Al-Awsat: Saudi Arabia Establishes New Tourism Authority",
+      "date": "2020-03-11",
+      "url": "https://english.aawsat.com/home/article/2174386/saudi-arabia-establishes-new-tourism-authority",
+      "quote": "The Saudi Cabinet had approved the establishment of the Saudi Tourism Authority (STA) based on the recommendation of Council of Economic and Development Affairs.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}
