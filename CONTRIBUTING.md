@@ -53,7 +53,7 @@ Every fact carries a `source` from the **primary document**: the club's announce
 - **Claims say only what the source says.** Leave out what the page doesn't state, including conclusions like "no state stake" or "privately held". Your reasoning goes in the pull request.
 - **Wikipedia and Wikidata are not sources.** Use them to find the primary document.
 - **Never invent:** no placeholder URLs (`example.com`), no "inference" or "industry analysis" as a source, no made-up owners, quotes, emails or phone numbers. If you can't source something, leave it out and list it in your pull request.
-- **Claims** (`data/claims/`) are short statements about an **owner**, in plain words. A deal is not a claim: it goes in `data/deals/` or on a kit.
+- **Claims** (`data/claims/`) are short statements about an **owner**, in plain words, of one `kind`: `ownership` (who owns or controls whom) or `record` (a human-rights abuse by a state or company). A deal is not a claim: it goes in `data/deals/` or on a kit.
 - **Contacts** are only channels a club publishes for fans (the supporter liaison officer, a fan-services inbox, a contact page), each with the page it's on. Never ticket offices, shops, hospitality or named staff.
 
 ## Ratings
@@ -61,8 +61,9 @@ Every fact carries a `source` from the **primary document**: the club's announce
 Read [METHOD.md](METHOD.md). In short:
 
 - New sponsors are `tier: "unrated"`, `status: "unrated"`, and new claims are `reviewed: false`.
-- State ownership alone is not a tier.
-- Propose tiers in your pull request, with the claims that support them. A maintainer sets them.
+- A rating above *Nothing found* needs **the link** (an ownership claim: a state with a record controls the sponsor, or holds 5%+ or a board seat) and **the record** (a record claim: that state's documented serious abuses, or a human-rights finding against the company itself, from the last 20 years), and a `why` that says both.
+- State ownership alone is not a tier, and neither is a fine or a settlement.
+- Propose tiers in your pull request, with the claims that support them and a draft `why`. A maintainer sets them.
 
 ## Licence
 

@@ -3,20 +3,23 @@
   "name": "G42",
   "ownerId": "mubadala",
   "ownership": "part-owned",
-  "tier": "serious",
+  "tier": "concern",
   "status": "rated",
-  "verdict": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious….",
+  "verdict": "Abu Dhabi’s state fund Mubadala is a shareholder with a seat on the board.",
   "claimIds": [
-    "mubadala-record",
+    "g42-mubadala-minority-stake",
+    "g42-board-abu-dhabi-officials",
+    "g42-royal-group-control",
     "mubadala-uae-convictions-upheld"
   ],
   "aliases": [],
-  "note": "Rating note: Ownership: Mubadala portfolio page - G42 'backed by Mubadala, Silver Lake, Microsoft and Dalio Family Office' (https://www.mubadala.com/en/what-we-do/g42). Mubadala is a shareholder, not sole owner, so 'part-owned'. Mercedes F1 sponsor.",
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was serious. Mubadala holds an undisclosed minority stake and its CEO sits on the board (board-seat test); the controlling shareholder on record is Royal Group, Sheikh Tahnoon's private holding, not the state.",
   "why": {
-    "text": "G42 counts Mubadala, Abu Dhabi’s sovereign wealth fund, as an investor, and the company is chaired by a member of Abu Dhabi’s ruling family. In March 2025, the UAE’s Federal Supreme Court upheld the convictions of 53 people from a mass trial that Human Rights Watch called unfair. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "Abu Dhabi’s state fund Mubadala is a shareholder in G42, and Mubadala’s chief executive sits on G42’s board, which is chaired by Abu Dhabi’s deputy ruler. In March 2025, the UAE’s Federal Supreme Court upheld the convictions of 53 people from a mass trial that Human Rights Watch called unfair. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
-      "mubadala-record",
-      "mubadala-uae-convictions-upheld"
+      "mubadala-uae-convictions-upheld",
+      "g42-mubadala-minority-stake",
+      "g42-board-abu-dhabi-officials"
     ],
     "messageLine": "The UAE’s courts upheld the convictions from an unfair mass trial of activists and dissidents.",
     "status": "draft"
