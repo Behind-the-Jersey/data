@@ -1,0 +1,33 @@
+{
+  "id": "red-bull-italy-2026-home",
+  "clubId": "red-bull-italy",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "red-bull",
+      "placement": "front",
+      "source": {
+        "name": "SailGP team page - Red Bull Italy (team name/identity)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/red-bull-italy/"
+      }
+    },
+    {
+      "sponsorId": "azimut",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Red Bull Italy (Global Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/red-bull-italy/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Red Bull is in the team's name itself rather than a bought placement; Azimut is the team's Global Partner. Red Bull also became a SailGP league global partner in January 2026. Azimut has no sponsor entry yet.",
+  "change": null
+}

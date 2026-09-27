@@ -1,0 +1,20 @@
+{
+  "id": "liv-pif-funding",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+  ],
+  "text": "Saudi Arabia's Public Investment Fund has bankrolled LIV Golf since its 2022 launch and confirmed on 30 April 2026 that it will end its funding of the league at the end of the 2026 season, saying the substantial investment required is no longer consistent with its strategy; PIF governor and LIV Golf chairman Yasir Al-Rumayyan is expected to step down.",
+  "source": {
+    "name": "Sky Sports",
+    "date": "2026-04-30",
+    "url": "https://www.skysports.com/golf/news/12176/13538273/liv-golf-major-changes-with-saudi-arabia-set-to-end-funding-of-league-starring-bryson-dechambeau-and-jon-rahm",
+    "quote": "the substantial investment required is no longer consistent with the fund's investment strategy moving forward",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

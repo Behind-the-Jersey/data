@@ -1,0 +1,21 @@
+{
+  "id": "rdf-ofac-designation-2026",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-rwanda",
+    "rwanda-defence-force"
+  ],
+  "text": "On 2 March 2026 OFAC designated the Rwanda Defence Force (Ministry of Defence, Kigali) and four senior officials because 'The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23)', a US- and UN-sanctioned armed group in the DRC; the action followed M23's capture of Uvira days after the Washington Accords were signed.",
+  "short": "OFAC designated the Rwanda Defence Force over M23 support (2 Mar 2026)",
+  "source": {
+    "name": "US Treasury press release: Treasury Sanctions Rwanda Officials, Condemns Blatant Violations of Washington Peace Accords",
+    "date": "2026-03-02",
+    "url": "https://home.treasury.gov/news/press-releases/sb0411",
+    "quote": "The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23), a U.S.- and United Nations (UN)-sanctioned armed group responsible for human rights abuses",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}
