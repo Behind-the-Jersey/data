@@ -66,7 +66,7 @@ Reply with one comment in this shape:
 
 **Rules for your answer:**
 - One row per source, for every source in `review/sources.md`. One row per tier set, changed or proposed (leave the second table out when there are none).
-- Use "Needs changes" and ❌ only for a source that is gone, looks invented, or doesn't support its claim; for a rating claim without a second source; and for a tier that doesn't meet METHOD.md. Use ⚠️ and "Needs a closer human look" when you couldn't open something. A ❌ or "Needs changes" fails the review check.
+- Use "Needs changes" and ❌ only for a source that is gone, looks invented, or doesn't support its claim; for a rating claim without a second source; and for a tier that doesn't meet METHOD.md. Use ⚠️ and "Needs a closer human look" when you couldn't open something. A ❌ or "Needs changes" fails the review check. Put ❌ only at the start of a verdict cell, and don't use the symbol anywhere else.
 - Only report what you checked. Don't restate what CI already reports.
 - Don't approve, request changes, merge or edit: comment only.
 - Be neutral and factual; don't argue about the method.
