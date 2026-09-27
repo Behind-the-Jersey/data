@@ -5,13 +5,18 @@
   "sponsorId": "junckers",
   "placement": "league-partner",
   "from": null,
-  "to": null,
+  "to": "2028",
   "value": null,
   "source": {
-    "name": "FIBA partners page (fiba.net; JS-rendered)",
-    "date": "2026-09-25",
-    "url": "https://fiba.net/partners/",
-    "note": "Previous URL (about.fiba.basketball/en/partners) serves a soft-404; the partners footer on that error page listed these brands (verified by review fetch 2026-09-27)."
+    "name": "About FIBA: \"FIBA extends partnership with Junckers to provide best-in-class hardwood sports flooring until 2028\"",
+    "date": "2024-12-05",
+    "url": "https://about.fiba.basketball/en/news/fiba-extends-partnership-with-junckers-to-provide-best-in-class-hardwood-sports-flooring-until-2028",
+    "quote": "Junckers selected as the Official Technical Supplier for four more years to provide high-performance hardwood floors for FIBA's global events.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
-  "leagueId": "fiba"
+  "leagueId": "fiba",
+  "note": "FIBA's Official Technical Supplier of hardwood floors, extended through 2028: an equipment supply deal, not a sponsorship."
 }

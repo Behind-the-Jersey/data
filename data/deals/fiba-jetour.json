@@ -4,15 +4,19 @@
   "orgName": "FIBA",
   "sponsorId": "jetour",
   "placement": "league-partner",
-  "from": null,
+  "from": "2026",
   "to": null,
   "value": null,
   "source": {
-    "name": "FIBA partners page (fiba.net; JS-rendered)",
-    "date": "2026-09-25",
-    "url": "https://fiba.net/partners/",
-    "note": "Previous URL (about.fiba.basketball/en/partners) serves a soft-404; the partners footer on that error page listed these brands (verified by review fetch 2026-09-27)."
+    "name": "About FIBA: \"Driving the game forward: FIBA welcomes Jetour as its Official Car Supplier\"",
+    "date": "2026-08-31",
+    "url": "https://about.fiba.basketball/en/news/driving-the-game-forward-fiba-welcomes-jetour-as-its-official-car-supplier",
+    "quote": "FIBA is pleased to announce a new global partnership with Jetour, which will serve as its Official Car Supplier.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
   "leagueId": "fiba",
-  "note": "Jetour (Chery marque) is a FIBA Global Supplier; the World Cup 2027 event page news describes Jetour as FIBA's 'Official Car Supplier' while the event page footer lists Jetour among FIBA Partners - tier wording conflicts between FIBA's own pages."
+  "note": "FIBA's Official Car Supplier (FIBA also calls it a Global Supplier), ahead of the FIBA Basketball World Cup 2027 in Qatar."
 }

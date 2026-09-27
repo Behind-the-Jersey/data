@@ -4,14 +4,19 @@
   "orgName": "FIBA",
   "sponsorId": "ganten",
   "placement": "league-partner",
-  "from": null,
+  "from": "2018",
   "to": null,
   "value": null,
   "source": {
-    "name": "FIBA partners page (fiba.net; JS-rendered)",
-    "date": "2026-09-25",
-    "url": "https://fiba.net/partners/",
-    "note": "Previous URL (about.fiba.basketball/en/partners) serves a soft-404; the partners footer on that error page listed these brands (verified by review fetch 2026-09-27)."
+    "name": "About FIBA: \"Go-time for FIBA and Asia's biggest natural mineral water brand Ganten with Global Partnership extension\"",
+    "date": "2023-09-04",
+    "url": "https://about.fiba.basketball/en/news/go-time-for-fiba-and-asias-biggest-natural-mineral-water-brand-ganten-with-global-partnership-extension",
+    "quote": "Asia's leading natural mineral water brand, Ganten, has enjoyed principal commercial rights and exclusivity in the water category across all FIBA competitions since 2018.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
   },
-  "leagueId": "fiba"
+  "leagueId": "fiba",
+  "note": "FIBA Global Partner since 2018, with exclusivity in the water category; extended to the FIBA Basketball World Cup 2027."
 }
