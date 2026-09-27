@@ -15,3 +15,5 @@
 - ak-bars-bank-rubin-kazan deal removed 2026-09-26: cited issue #273, which does not contain the partnership; re-source from the club's partner page.
 
 - wta-finals-pif-riyadh deal removed 2026-09-26: the cited The National article describes a Saudi Tennis Federation hosting deal with PIF as STF's backer, not a WTA Finals PIF sponsorship. Re-add when a primary source names PIF as the sponsor.
+
+- Krasnodar 2026-27 front placement (Winline) removed 2026-09-27: its only source (fckrasnodar.ru/club/partners) 404s and the record itself flagged the placement unconfirmed. Re-add with the club's kit launch or a named press source.

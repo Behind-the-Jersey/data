@@ -7,7 +7,6 @@
   "short": "T.",
   "source": {
     "name": "SEC 10-K for T. Rowe Price",
-<<<<<<< HEAD
     "date": "2026-02-13",
     "url": "https://www.sec.gov/Archives/edgar/data/1113169/000162828026008002/trow-20251231.htm",
     "quote": "Our common stock trades on the NASDAQ Global Select Market under the symbol \"TROW\".",
@@ -15,11 +14,6 @@
       "on": "2026-09-26",
       "by": "source-audit-2026-09-26"
     }
-=======
-    "date": "2020-09-30",
-    "url": null,
-    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.sec.gov/Archives/edgar/data/267210/000032081212000031/troweprice-20200930.htm"
->>>>>>> 7b60618 (Address review: restore migration fixes, drop tournaments-as-clubs, wire claims)
   },
   "reviewed": false
 }
