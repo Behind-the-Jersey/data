@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Beyond-The-Jersey/data/schema/dropped.schema.json",
+  "$id": "https://github.com/Behind-the-Jersey/data/schema/dropped.schema.json",
   "title": "Dropped deal",
   "description": "One dropped record: data/dropped/<id>.json",
   "type": "object",

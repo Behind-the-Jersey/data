@@ -7,7 +7,7 @@ https://creativecommons.org/licenses/by/4.0/ (full legal code: https://creativec
 You may share and adapt it for any purpose, including commercially, as long as you give credit.
 Please credit it as:
 
-> Behind the Jersey, https://github.com/Beyond-The-Jersey/data (CC BY 4.0)
+> Behind the Jersey, https://github.com/Behind-the-Jersey/data (CC BY 4.0)
 
 Each record also cites its own sources. Those documents belong to their publishers; the licence
 covers our compilation and wording, not the sources themselves.

@@ -54,7 +54,7 @@ bundle['tiers'] = R['tiers']
 bundle['meta'] = {
     'schemaVersion': 1,
     'updatedAt': git('log', '-1', '--format=%cs', '--', 'data') or date.today().isoformat(),
-    'generatedBy': 'Beyond-The-Jersey/data scripts/build.py',
+    'generatedBy': 'Behind-the-Jersey/data scripts/build.py',
     'sourceCommit': git('rev-parse', '--short', 'HEAD'),
 }
 

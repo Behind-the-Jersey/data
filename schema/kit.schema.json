@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Beyond-The-Jersey/data/schema/kit.schema.json",
+  "$id": "https://github.com/Behind-the-Jersey/data/schema/kit.schema.json",
   "title": "Kits (one per club per season or period)",
   "description": "hotspot: logo centre (x,y) and size (w,h) as fractions of the photo (photos are 720x800); side: which photo the logo is on. cardSlot is no longer used (v3 team page) but still accepted. headline: the sentence under the club name, with {level} for the level word. shortLine: one line for 'Travel back in time'.",
   "type": "object",

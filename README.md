@@ -10,7 +10,7 @@ Data goes through two reviews before it's on the website: one here for each chan
 
 ```mermaid
 flowchart TB
-  subgraph data["Beyond-The-Jersey/data (this repository)"]
+  subgraph data["Behind-the-Jersey/data (this repository)"]
     A["A person, or their agent,<br/>picks an issue"] --> B["Pull request<br/>adds or fixes records in data/"]
     B --> C["checks (CI)<br/>schema, references, rating rule, links"]
     B --> D["review agent<br/>opens each source, comments on accuracy"]
@@ -19,7 +19,7 @@ flowchart TB
     E --> F["release workflow, when records change<br/>publishes a release: JSON, CSV, zip"]
   end
   F --> G["Journalists, researchers, anyone:<br/>download the release"]
-  subgraph web["Beyond-The-Jersey/website"]
+  subgraph web["Behind-the-Jersey/website"]
     H["update workflow, every morning<br/>pulls the latest release, runs the tests,<br/>builds the site, screenshots what changes"]
     H --> I["Pull request<br/>data/live/ and a report of what changes on the site"]
     I --> J{"A maintainer<br/>merges"}
@@ -46,7 +46,7 @@ Without the second step, a merge here would change the live site the next time i
 
 ## Use the data
 
-Download the [latest release](https://github.com/Beyond-The-Jersey/data/releases/latest). Each release has:
+Download the [latest release](https://github.com/Behind-the-Jersey/data/releases/latest). Each release has:
 
 | File | What's in it |
 |---|---|
@@ -55,7 +55,7 @@ Download the [latest release](https://github.com/Beyond-The-Jersey/data/releases
 | `clubs.json`, `sponsors.json`, `owners.json`, `claims.json`, `kits.json`, `deals.json`, … | The full dataset, one JSON array per type: what the website reads |
 | `meta.json` | When the data was last updated and which commit it was built from |
 
-A direct link to any file always gets the newest version, e.g. `https://github.com/Beyond-The-Jersey/data/releases/latest/download/sponsors.csv`.
+A direct link to any file always gets the newest version, e.g. `https://github.com/Behind-the-Jersey/data/releases/latest/download/sponsors.csv`.
 
 **How the data fits together**
 
@@ -68,7 +68,7 @@ A direct link to any file always gets the newest version, e.g. `https://github.c
 
 The field-by-field definitions are the JSON Schemas in [`schema/`](schema).
 
-**Licence:** the data is [CC BY 4.0](LICENSE-DATA.md). Credit "Behind the Jersey (github.com/Beyond-The-Jersey/data)". The code is [MIT](LICENSE). Images aren't part of this dataset: [`assets/`](assets) lists candidate sources and their licences.
+**Licence:** the data is [CC BY 4.0](LICENSE-DATA.md). Credit "Behind the Jersey (github.com/Behind-the-Jersey/data)". The code is [MIT](LICENSE). Images aren't part of this dataset: [`assets/`](assets) lists candidate sources and their licences.
 
 **What a release contains:** every claim, with its sources. But sponsors cite only claims whose sources were checked: someone opened the page and copied the words that support the claim. A rating whose evidence isn't complete is published as *not rated yet*, with `hold` saying why and `heldTier` holding the rating it will get. Ratings of Concern and above need two independent sources for each claim they rest on ([METHOD.md](METHOD.md), the evidence standard).
 
@@ -79,7 +79,7 @@ The field-by-field definitions are the JSON Schemas in [`schema/`](schema).
 
 ## Improve the data
 
-Anyone can help, by hand or with an AI agent: pick an [issue](https://github.com/Beyond-The-Jersey/data/issues), add or fix records, and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) explains how. If you bring an agent, point it at [`agents/research.md`](agents/research.md).
+Anyone can help, by hand or with an AI agent: pick an [issue](https://github.com/Behind-the-Jersey/data/issues), add or fix records, and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) explains how. If you bring an agent, point it at [`agents/research.md`](agents/research.md).
 
 Every pull request:
 - is checked automatically: schema, references, the rating rule, and whether the links resolve;

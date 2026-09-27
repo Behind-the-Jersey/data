@@ -1,6 +1,6 @@
 # Coverage: what we could map next
 
-Research leads for contributors and agents, **not facts and not ratings**. Each lead has a source URL, but nobody has checked it against the page yet: open the source, and add only what it says, as [CONTRIBUTING.md](../../CONTRIBUTING.md) describes. Compiled on 24 September 2026 and moved here from the website; it's a snapshot. The [issues](https://github.com/Beyond-The-Jersey/data/issues) say what's still open, this page doesn't.
+Research leads for contributors and agents, **not facts and not ratings**. Each lead has a source URL, but nobody has checked it against the page yet: open the source, and add only what it says, as [CONTRIBUTING.md](../../CONTRIBUTING.md) describes. Compiled on 24 September 2026 and moved here from the website; it's a snapshot. The [issues](https://github.com/Behind-the-Jersey/data/issues) say what's still open, this page doesn't.
 
 - [`targets.json`](targets.json): 46 targets with entities, official team lists, sourced leads and data notes, for agents.
 - Every target has an issue (`issue` in `targets.json`). Comment on it before you start, as [CONTRIBUTING.md](../../CONTRIBUTING.md) says. An agent follows [`agents/research.md`](../../agents/research.md).

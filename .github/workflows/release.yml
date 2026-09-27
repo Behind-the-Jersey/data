@@ -37,6 +37,6 @@ jobs:
             echo "Built from ${sha} on ${day}: ${counts}."
             echo
             echo "Download everything as \`behind-the-jersey-data.zip\`, or single JSON and CSV files below."
-            echo "Data: CC BY 4.0 (credit \"Behind the Jersey, github.com/Beyond-The-Jersey/data\"). Ratings are illustrative until the method is final."
+            echo "Data: CC BY 4.0 (credit \"Behind the Jersey, github.com/Behind-the-Jersey/data\"). Ratings are illustrative until the method is final."
           } > notes.md
           gh release create "$tag" dist/* --title "Data ${day} (${sha})" --notes-file notes.md --latest
