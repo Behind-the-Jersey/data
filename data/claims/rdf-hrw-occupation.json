@@ -1,0 +1,21 @@
+{
+  "id": "rdf-hrw-occupation",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-rwanda",
+    "rwanda-defence-force"
+  ],
+  "text": "Human Rights Watch documents a campaign of mass forced recruitment, arbitrary detention, torture and summary executions by M23 and Rwandan military forces in eastern DRC (mid-2024 through 2025), and concludes Rwanda 'exercises effective control over the area, meeting the legal threshold for belligerent occupation'; hundreds, perhaps more, died in the camps.",
+  "short": "HRW: mass detention, killings, forced recruitment by M23 and Rwandan forces",
+  "source": {
+    "name": "Human Rights Watch - ‘Death Was Everywhere’: Arbitrary Detention, Killings, and Forced Recruitment by the M23 and the Rwanda Defence Force",
+    "date": "2026-06-10",
+    "url": "https://www.hrw.org/report/2026/06/10/death-was-everywhere/arbitrary-detention-killings-and-forced-recruitment-by-the",
+    "quote": "Rwanda’s extensive military presence and direction of M23 operations in eastern Congo show that it exercises effective control over the area, meeting the legal threshold for belligerent occupation.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

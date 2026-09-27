@@ -1,0 +1,21 @@
+{
+  "id": "wec-pif-aston-martin-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+  ],
+  "text": "Saudi Arabia's Public Investment Fund is the largest shareholder (19.5%) of Aston Martin Lagonda, the manufacturer behind the Aston Martin THOR Team Hypercar programme; Aston Martin denied FT reports (14 Nov 2025) that PIF would raise its stake and take the company private.",
+  "short": "PIF is Aston Martin Lagonda's largest shareholder (19.5%); takeover-denied",
+  "source": {
+    "name": "CarExpert - Aston Martin denies change of ownership plans after massive losses",
+    "date": "2025-11-19",
+    "url": "https://www.carexpert.com.au/car-news/aston-martin-denies-change-of-ownership-plans-after-massive-losses",
+    "quote": "Aston Martin parent company Aston Martin Lagonda has denied the Saudi Arabia’s Public Investment Fund (PIF) – its largest shareholder – is looking to increase its ownership stake",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

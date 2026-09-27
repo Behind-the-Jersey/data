@@ -1,0 +1,21 @@
+{
+  "id": "icc-cricket",
+  "aliases": [
+    "ICC",
+    "International Cricket Council",
+    "ICC events"
+  ],
+  "sportId": "cricket",
+  "name": "ICC events",
+  "country": "Global",
+  "clubCount": 4,
+  "season": "2026-27",
+  "status": "not-started",
+  "notes": [
+    "The ICC is a governing body, not a league; its commercial partners cover its major events rather than team shirts. Modelled like FIFA: one partner list covering the four senior events in the 2026-27 window.",
+    "Premier Partners (top tier): Emirates, Aramco, DP World, Hyundai. Global Partners: Coca-Cola, Budweiser (AB InBev), Google, Sobha Realty, Rexona (Unilever), Marriott Bonvoy. Official supporter: Royal Stag (per https://www.icc-cricket.com/about/partners, fetched 2026-09-25).",
+    "Rosters differ slightly per event: the Women's T20 World Cup 2026 footer showed Rexona but not Sobha Realty; the men's-event footers show Sobha Realty. Rexona rides the Unilever women's-cricket deal (women's events only), Sobha Realty is a men's-events-only Global Partner.",
+    "ICC's Cricket 4 Good sits in the 'official supporters' footer block but is the ICC's own social-responsibility programme, not a sponsor.",
+    "Side note, not researched as a target: the UAE's ILT20 (Emirates Cricket Board) has DP World as title sponsor; franchise owners per Wikipedia (lead only): Reliance, Adani, GMR, Knight Riders, Lancer Capital, Capri Global."
+  ]
+}
