@@ -8,9 +8,9 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "wslfootball.com partners page",
+    "name": "wslfootball.com homepage partners section",
     "date": "2026-09-25",
-    "url": "https://www.wslfootball.com/clubs-and-partners/",
-    "note": "WSL major partner per wslfootball.com. Sponsor id airbnb already exists in normalized/ for other sports; this entry records the WSL partnership, builder keeps the first id."
+    "url": "https://www.wslfootball.com/",
+    "note": "WSL major partner per wslfootball.com. Sponsor id airbnb already exists in normalized/ for other sports; this entry records the WSL partnership, builder keeps the first id. URL updated 2026-09-26: the former /clubs-and-partners/ page (404) moved to the homepage partners section."
   }
 }

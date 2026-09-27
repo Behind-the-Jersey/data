@@ -1,0 +1,3 @@
+# Sources replaced or demoted, 26 Sep 2026
+
+- claims/highmark-owner-record: the wording "Highmark Health is a private, nonprofit integrated health delivery and financing system ... with no state ownership" was seen on https://www.highmarkhealth.org/about-us/index.shtml, which is now 404 with no Wayback capture; no live Highmark page describes Highmark Health itself as a "nonprofit" or an "integrated ... delivery and financing system" (the Enterprise at a Glance calls it a Pittsburgh, PA-based enterprise that is the parent company of Allegheny Health Network, Highmark Inc., and enGen), so the claim was rewritten to the live-source wording and the "private / no state ownership" phrasing is unverified.
