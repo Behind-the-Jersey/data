@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Beyond-The-Jersey/data/schema/claim.schema.json",
+  "$id": "https://github.com/Behind-the-Jersey/data/schema/claim.schema.json",
   "title": "Claims (evidence)",
   "description": "One sourced statement about an owner. It's published once every source on it is checked (a quote from the page, and who checked it); a rating needs two independent sources for each claim it rests on (METHOD.md). reviewed=true once a person has checked it.",
   "type": "object",

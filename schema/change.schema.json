@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Beyond-The-Jersey/data/schema/change.schema.json",
+  "$id": "https://github.com/Behind-the-Jersey/data/schema/change.schema.json",
   "title": "Recent changes feed",
   "description": "One change record: data/changes/<id>.json",
   "type": "object",

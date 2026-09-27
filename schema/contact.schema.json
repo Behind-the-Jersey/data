@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Beyond-The-Jersey/data/schema/contact.schema.json",
+  "$id": "https://github.com/Behind-the-Jersey/data/schema/contact.schema.json",
   "title": "Club contact channel",
   "description": "Public channels a fan can use to tell a club what they think of a sponsor. Every channel needs the URL of the page where the club publishes it. No placeholders and no guessed addresses: leave a channel out if it can't be sourced.",
   "type": "object",

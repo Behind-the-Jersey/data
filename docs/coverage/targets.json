@@ -25,7 +25,7 @@
       "siteSupport": [
         "data model: yes (clubs, kits, sponsors). Pages: full overview for soccer leagues; other sports need the overview generalised"
       ],
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/26"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/26"
     },
     {
       "id": "la-liga-complete",
@@ -44,7 +44,7 @@
       "siteSupport": [
         "data model: yes (clubs, kits, sponsors). Pages: full overview for soccer leagues; other sports need the overview generalised"
       ],
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/19"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/19"
     },
     {
       "id": "bundesliga",
@@ -63,7 +63,7 @@
       "siteSupport": [
         "data model: yes (clubs, kits, sponsors). Pages: full overview for soccer leagues; other sports need the overview generalised"
       ],
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/15"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/15"
     },
     {
       "id": "nba-patches",
@@ -82,7 +82,7 @@
       "siteSupport": [
         "data model: yes (clubs, kits, sponsors). Pages: full overview for soccer leagues; other sports need the overview generalised"
       ],
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/24"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/24"
     },
     {
       "id": "nfl-partners",
@@ -101,7 +101,7 @@
       "siteSupport": [
         "yes: deals with orgName + leagueId, shown in the sport's known-deals panel"
       ],
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/25"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/25"
     },
     {
       "id": "mlb-patches",
@@ -120,7 +120,7 @@
       "siteSupport": [
         "data model: yes (clubs, kits, sponsors). Pages: full overview for soccer leagues; other sports need the overview generalised"
       ],
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/22"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/22"
     },
     {
       "id": "formula-1",
@@ -239,7 +239,7 @@
       ],
       "unverifiedLeadCount": 7,
       "dataNotes": "Data is easy to collect: formula1.com lists partners, teams and official race names with title sponsors, and team sites list their partners. Tricky points for 2026: (1) Calendar changes. Bahrain and Saudi were cancelled in March 2026 (Iran war). Bahrain was reinstated at Sepang, Malaysia under the Bahrain/Gulf Air name (Oct 2–4), so a 'Bahrain' race sponsored by Gulf Air takes place in Malaysia. Saudi was not replaced. Qatar and Abu Dhabi were still under review as of 21 Sep 2026, with a decision due end of September, so re-check before publishing. (2) Team names change with sponsors: Aston Martin Aramco, Audi Revolut F1 Team (formerly Kick Sauber), Mercedes-AMG PETRONAS, Oracle Red Bull Racing, Visa Cash App Racing Bulls, Atlassian Williams, BWT Alpine, TGR Haas. (3) Keep race-title sponsors (per event) separate from series global partners and team sponsors. (4) PIF is the largest shareholder (19.5%) of Aston Martin Lagonda, the road-car company, but CarExpert (19 Nov 2025) reports the carmaker sold its stake in the F1 team for £108m, so do not link PIF to the F1 team through ownership. Aramco is the team's state-linked sponsor. (5) Emirates does not appear on the current F1 partners page.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/20"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/20"
     },
     {
       "id": "fifa",
@@ -355,7 +355,7 @@
       ],
       "unverifiedLeadCount": 7,
       "dataNotes": "FIFA's partner page (inside.fifa.com/tournament-organisation/partners) loads and lists the top-tier FIFA Partners (Visa, adidas, Qatar Airways, Aramco, Hyundai-Kia, Coca-Cola, Lenovo, ADI Predictstreet) but no tier labels. FIFA.com tournament pages do not render in WebFetch. There are three tiers (FIFA Partners, tournament Sponsors, Tournament/Regional Supporters), and regional supporters such as PIF differ by territory. WC 2026 and the Club World Cup 2025 are already played, so current relevance rests on WWC 2027 (Aramco, Qatar Airways, Mengniu), WC 2030 and the Saudi 2034 hosting. Many deals expire at the end of 2027 and should be rechecked. Chinese sponsors need case-by-case ownership checks (private vs SOE vs minority state stake).",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/18"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/18"
     },
     {
       "id": "uefa",
@@ -432,7 +432,7 @@
       ],
       "unverifiedLeadCount": 7,
       "dataNotes": "Competition-level sponsors are on UEFA.com, but each competition (UCL, UEL, UECL, UWCL, national-team football) has its own roster, and the rosters change at cycle boundaries (2024-27 and 2027-30, with Relevent selling club-competition rights from 2027). Club-level state links (PSG, Man City, Atletico/Riyadh Air) are much stronger than UEFA's own sponsor list and should be rated through the participating clubs. UEFA clean-venue rules hide stadium naming rights during UEFA matches, so venue-sponsor links such as Riyadh Air Metropolitano are indirect. The Europa and Conference League final venues come from search results only.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/28"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/28"
     },
     {
       "id": "ligue-1",
@@ -548,7 +548,7 @@
       ],
       "unverifiedLeadCount": 5,
       "dataNotes": "Kit sponsors per club are listed in the 'Personnel and kits' table on the Wikipedia 2026-27 Ligue 1 article; verify each against club press releases (several club sites and the Qatar Airways newsroom block automated fetching). Four clubs carry Gulf state-linked front-of-shirt brands in 2026-27 (PSG, Lyon, Paris FC, Troyes); Marseille's sleeve carries a Côte d'Ivoire state tourism brand ('Sublime Côte d'Ivoire'). Title sponsor McDonald's is not state-linked. Ownership: PSG (QSI) and Troyes (CFG) are the state-linked owners; other owners (INEOS/Nice, BlueCo/Strasbourg, RedBird/Toulouse, Rybolovlev/Monaco, etc.) are private. Season runs August-May; new deals often announced in July/August.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/21"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/21"
     },
     {
       "id": "saudi-pro-league",
@@ -638,7 +638,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Ownership is fluid: PIF sold 70% of Al-Hilal to Kingdom Holding in Sep 2026 and was absorbing the remaining foundation stakes in the other three. Re-check before publishing. Club shirt sponsors change often and are mostly Saudi state or PIF companies (Humain, Red Sea Global, NHC, Oxagon, Yelo). The Wikipedia season page gives a quick sponsor table, but each sponsor's ownership needs tracing to PIF or the ministries. The official spl.com.sa site loads and lists the clubs and league partners.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/243"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/243"
     },
     {
       "id": "serie-a",
@@ -717,7 +717,7 @@
       ],
       "unverifiedLeadCount": 2,
       "dataNotes": "Official Lega Serie A site is JS-heavy and blocks/redirects automated fetches; use the Wikipedia season article's kit table for shirt sponsors, then confirm on club sites (acmilan.com, sscnapoli.it). Most Serie A shirt sponsors are Italian/private or gambling-info brands (e.g., 'Bet365 Scores', 'kaiyunsports.news' on Lazio's sleeve, Great Wall Motor - a private Chinese carmaker - on Venezia's back); none of the 20 clubs has state-linked ownership as far as checked. Roma's Riyadh Season deal has ended. The Supercoppa Italiana, staged in Saudi Arabia, is covered by another researcher. Season runs August-May.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/27"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/27"
     },
     {
       "id": "uci-worldtour-men",
@@ -817,7 +817,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Sponsor data is easy to collect from team sites and the UCI licence list. Cyclist and The Inner Ring publish useful annual sponsor explainers (July 2026). Team names change with sponsors: Astana-Qazaqstan became XDS Astana (2026), UAE Team Emirates added XRG (2025), and Israel-Premier Tech became NSN Cycling Team for 2026 under a Swiss licence after protests (a Cyclingnews URL on this appeared in search results). NSN is not linked to the states in scope. Distinguish team owners (Bahrain's Shaikh Nasser, UAE) from co-sponsors (Jayco is private and Australian). Many ProTeams and Continental teams were not reviewed; some may also have state links.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/244"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/244"
     },
     {
       "id": "esports-world-cup",
@@ -895,7 +895,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "The official site lists clubs and games, and ownership is clear from Savvy and the Esports Foundation. Several points need care. (1) The foundation was renamed from 'Esports World Cup Foundation' to 'Esports Foundation' on 31 Mar 2026. (2) The 2026 edition was moved to Paris (6 Jul-23 Aug) because of regional security during the 2026 Iran war, and 2027 returns to Riyadh, so avoid saying 2026 was 'in Riyadh'. (3) The Olympic Esports Games is no longer tied to Saudi Arabia: the IOC and the Saudi Olympic Committee ended their 12-year deal on 30 Oct 2025, and as of May 2026 planning was reportedly paused (Wikipedia 'Olympic Esports Games', fetched). (4) ESL FACEIT Group events (IEM Katowice/Cologne, ESL Pro League, DreamHack) are PIF-owned through Savvy even when held in Europe, so decide whether to rate them as a separate entry. (5) Some clubs are themselves Saudi-owned, such as Team Falcons and Twisted Minds, and many carry EWC branding.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/245"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/245"
     },
     {
       "id": "atp-tour",
@@ -1013,7 +1013,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Moderate difficulty. Tour-level partners are on atptour.com and in ATP/PIF press releases; tournament title sponsors are embedded in event names in the ATP calendar feed, but names change with sponsors (e.g. Mubadala Citi DC Open -> Mubadala DC Open in 2026). Owners/organisers (e.g. Dubai Duty Free, Qatar Tennis Federation) must be checked on each tournament's own site. Keep separate: tour partners vs tournament sponsors vs Grand Slams (run by federations, not the ATP) vs player personal sponsors vs exhibitions (Six Kings Slam is Riyadh Season, not ATP). Saudi deals are changing: Next Gen ATP Finals left Jeddah after 2025 (Reggio Calabria in 2026); PIF has scaled back sports spending but the 2028 Masters 1000 remains planned. The atptour.com HTML calendar needs JavaScript; the JSON feed works.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/246"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/246"
     },
     {
       "id": "boxing",
@@ -1101,7 +1101,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Hard to count. Saudi money appears in several forms: Riyadh Season host or title deals (GEA), Sela as co-promoter or majority owner of Zuffa Boxing, and Alalshikh's personal ownership of The Ring. Riyadh Season also stages cards abroad (Las Vegas, London, New York), so venue country is not a good filter. Zuffa and The Ring sites are JavaScript-heavy and did not load. Wikipedia's Zuffa Boxing, The Ring and Riyadh Season pages are the best event lists, but many rows are uncited. Ownership percentages come from press reports (The Guardian, Jan 2026) and should be checked against TKO filings. Some details are inconsistent: Night of the Samurai is dated 27 Nov 2025 on one Wikipedia page and 27 Dec 2025 on another.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/247"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/247"
     },
     {
       "id": "liv-golf",
@@ -1203,7 +1203,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Easy to collect: livgolf.com news posts announce title/league partners, and event names carry the sponsor (e.g. 'ROSHN Group LIV Golf Riyadh', 'MAADEN LIV Golf Virginia'). Tricky: ownership changes from 2027 (PIF exit, unnamed lead investor, planned player majority ownership), so the page should show 2026 as PIF-owned and flag the change. Two 2026 events were cancelled (Louisiana, Team Championship). Team kit sponsors differ per team and need a separate pass.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/248"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/248"
     },
     {
       "id": "dp-world-tour",
@@ -1293,7 +1293,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Moderate effort: europeantour.com has a page per event with sponsor in the title, and a partner bar. Tricky: event titles change with sponsors (e.g. Abu Dhabi HSBC Championship became Abu Dhabi Championship; Commercial Bank Qatar Masters became Qatar Masters), the season crosses calendar years (starts Nov 2025), and many Gulf events are run by government sports bodies rather than a branded sponsor. The official site sometimes blocks automated fetches; Wikipedia's '2026 European Tour' article is a fallback.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/249"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/249"
     },
     {
       "id": "wta-tour",
@@ -1411,7 +1411,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Moderate difficulty. wtatennis.com rate-limits automated fetching (HTTP 429), so use Wikipedia or tournament sites for calendars. Tournament names carry the title sponsor and change often (e.g. Mubadala Citi DC Open -> Mubadala DC Open). The Saudi relationship is changing fast: the WTA Finals left Riyadh a year early (Indian Wells 2026, Charlotte 2027+) but the PIF rankings naming appears to continue - confirm before publishing. Separate tour partners (PIF), tournament title sponsors/owners (Mubadala, Dubai Duty Free), Grand Slam partners (Emirates, run by federations) and player personal sponsors (Emirates-Sabalenka). Chinese events are likely state-linked through municipal organisers but need tournament-by-tournament research.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/250"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/250"
     },
     {
       "id": "afc",
@@ -1515,7 +1515,7 @@
       ],
       "unverifiedLeadCount": 6,
       "dataNotes": "AFC press releases on the-afc.com load in WebFetch, but the competition hubs do not list full team rosters or partner logos in text, so Wikipedia was needed for the 32-team field. Partner tiers are Official Global Partner, Official Global Supporter and tournament-specific supporter, and some deals are competition-specific (NEOM presents only the ACL Elite Final Stage; Aramco sponsors only Asian Cup 2027). Club ownership in Saudi Arabia is changing (PIF taking 100% of three clubs; Kingdom Holding buying 70% of Al-Hilal in 2026), so recheck before publishing. The 2026/27 ACL Elite is the first 32-team edition, and its finals are in Saudi Arabia again.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/251"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/251"
     },
     {
       "id": "icc-cricket",
@@ -1593,7 +1593,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Sponsors are event and governing-body partners, not team shirts, so one ICC-wide partner list covers all tournaments. Tournament pages show the same Premier Partners, with small roster differences between events (e.g. Rexona and Sobha). Sobha Realty (Dubai) is privately owned and not state-linked. The ICC partner pages give no contract dates, so check trade press (SportBusiness, SportsPro, ESPNcricinfo) for terms. Side note: the UAE's International League T20 (ILT20) is run by the Emirates Cricket Board. DP World is its title sponsor, and its franchises are owned by Reliance (MI Emirates), Adani (Gulf Giants), GMR (Dubai Capitals), Knight Riders (Abu Dhabi Knight Riders), Lancer Capital/Avram Glazer (Desert Vipers) and Capri Global (Sharjah Warriorz), per Wikipedia (https://en.wikipedia.org/wiki/International_League_T20, fetched). ILT20 has moved to a Nov–Dec window, with season 5 in 2026 from 22 Nov to 20 Dec.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/252"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/252"
     },
     {
       "id": "euroleague",
@@ -1684,7 +1684,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Club sponsor data is spread across club websites and Gulf government media-office releases. The euroleaguebasketball.net pages block WebFetch (403). The Turkish Airlines title sponsorship (2010–2025) ended after the 2025 Final Four, according to SportsPro on 2025-07-02 (https://www.sportspro.com/news/euroleague-basketball-rebrand-logo-identity-turkish-airlines-july-2025/, fetched). The league now uses global partners such as Visa and Motorola instead of a title sponsor. Keep event hosting (DCT Abu Dhabi: 2025 Final Four, 2026 SuperCup, possibly the 2027 Final Four) separate from club shirt deals. Club rosters change each year through licences and wild cards (Dubai 5-year licence, Beşiktaş new). NBA Europe (NBA plus FIBA) is targeting an October 2027 launch with about 16 teams. In September 2026 Adam Silver confirmed talks with the EuroLeague, according to search results only (Sportico, NBA.com, OpenCourt). A merger or split could reshape the club list for 2027-28, and Gulf investor bids are worth watching.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/253"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/253"
     },
     {
       "id": "horse-racing",
@@ -1795,7 +1795,7 @@
       ],
       "unverifiedLeadCount": 5,
       "dataNotes": "Data sits across many organisers (Jockey Club of Saudi Arabia, Dubai Racing Club, France Galop, Ascot/British Champions Day, Goodwood); each race card has its own presenting partners, which change yearly. Race names embed sponsors (Qatar Prix de l'Arc, Neom Turf Cup, 1351 Turf Sprint) and switch between related entities (QIPCO -> Qatar Racing in Aug 2026), so distinguish state bodies (QREC, Abu Dhabi Sports Council, Visit Qatar, Emirates, PIF projects) from private royal-family vehicles (QIPCO, Qatar Racing, Godolphin as the Dubai ruler's operation). No jerseys in the usual sense: sponsorship is on race titles, venue branding and jockey silks (owners like Godolphin, Qatar Racing, Shadwell). The Saudi Cup and Dubai World Cup are state-organised events rather than sponsored ones. Several major racecourse sites (Arabian Business, Gulf Business, Saudi Gazette) blocked WebFetch.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/254"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/254"
     },
     {
       "id": "world-rugby",
@@ -1873,7 +1873,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Sponsor data is easy for the tournament level (World Rugby/RWC partner pages and press releases) but team-level jersey sponsors of the 24 national unions must be collected separately from each union. Event names change with sponsors (Emirates Dubai 7s; 'Qatar Airways World Rugby Nations Championship' not yet in use as of Sept 2026). Club rugby: Emirates ended its 10-year naming deal with the Johannesburg-based Lions (URC) in mid-2025; the team now plays as the 10Bet Lions (per SportBusiness 'Emirates ends decade-long Lions sponsorship' and Yahoo Sports search results) - so 'Emirates Lions' should not be listed as current. Qatar Airways' 2025 Lions tour sponsorship and paused Nations Championship deal need status checks before publication.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/255"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/255"
     },
     {
       "id": "ufc",
@@ -1948,7 +1948,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "The event list is easy to get (UFC.com, Wikipedia '2026 in UFC'), but host-partner deals and fees are rarely published. The best sources are local media (The National), UFC press releases and TKO investor filings. Separate event-level host deals (DCT Abu Dhabi, Qatar) from TKO corporate deals (Sela/Zuffa Boxing). UFC did not return to Riyadh in 2026 (last visit Feb 2025). UFC's 2026 White House event (UFC Freedom 250) and events in China and Azerbaijan may interest readers but are out of scope unless state funding is shown.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/256"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/256"
     },
     {
       "id": "fa-cup",
@@ -2022,7 +2022,7 @@
       ],
       "unverifiedLeadCount": 1,
       "dataNotes": "The title sponsor is easy to document. The deal ends after 2027-28, so watch for a renewal or a new sponsor. The entity list is huge (743 entries), so for per-club sponsor data it is realistic to cover only the 124 competition-proper clubs, or just the 64 from the Third Round on. The FA's official site lists dates and draws but no single clubs list; Wikipedia's round pages are the practical source. Emirates.com press pages often time out in WebFetch.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/257"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/257"
     },
     {
       "id": "wwe",
@@ -2097,7 +2097,7 @@
       ],
       "unverifiedLeadCount": 2,
       "dataNotes": "Event lists are easy to get (WWE.com, Wikipedia). Money flows are opaque: host fees are reported in TKO investor filings and trade press (Sportico, SportBusiness) but not itemised by WWE. Saudi branding sits at event and venue level (Riyadh Season Stadium), not on wrestlers. Watch the WrestleMania 43 (2027) date and venue, and whether it moves, since the 2026 Esports World Cup was relocated out of Riyadh over regional security concerns.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/258"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/258"
     },
     {
       "id": "dakar-rally",
@@ -2173,7 +2173,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "The official site dakar.com blocks automated fetching, so partner lists need a manual browser check. The main state link is the host or organiser relationship (Saudi Motorsport Company, SAMF, Ministry of Sport) rather than a single title sponsor. Team-level sponsors (e.g. Aramco fuel for Dacia) come from team press releases. Risk: Dakar 2027 (1–15 Jan) is still scheduled, but the regional security situation is worsening, so re-check status before publishing. Related: the World Rally Championship's Rally Saudi Arabia (Jeddah, 12–15 Nov 2026, planned season finale) was cancelled and not replaced after Toyota and Hyundai travel bans; the 2026 WRC now has 13 rounds and ends with Sardinia (Autosport search result: https://www.autosport.com/wrc/news/wrc-cancels-saudi-arabia-finale/10856625/; The Independent via Yahoo, fetched: https://sports.yahoo.com/articles/fia-cancels-saudi-arabia-race-100728397.html, 21 Sep 2026). Rally Saudi Arabia was reportedly first held as a WRC round in 2025 (not verified here) and could be its own entry later.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/259"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/259"
     },
     {
       "id": "fiba",
@@ -2262,7 +2262,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Entities are national teams, which rarely carry state-linked jersey sponsors, so the sponsorship story is event-level: the host government and FIBA/event partners. The FIBA partners page and the event page list slightly different rosters (Jetour is a 'global supplier' on one and a partner on the other; Yili appears only for the World Cup). The field of 32 is not known until the qualifiers end in early 2027, so the team list will need updating. Russia and Belarus status in FIBA qualifiers was not checked. FIBA and NBA Europe are co-developing the planned 2027 NBA Europe league (see the EuroLeague entry).",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/260"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/260"
     },
     {
       "id": "basketball-africa-league",
@@ -2353,7 +2353,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Team list and results on bal.nba.com; team ownership must be pieced together from Wikipedia and local media (The New Times, Rwanda). Jersey branding is largely league-controlled (Visit Rwanda patch on all uniforms), so per-team shirt sponsors are hard to find. Calendar-year season (March-May); 2027 participants are decided through FIBA Africa's Road to BAL qualifiers in late 2026. Kigali hosts finals in even years under the 2023 deal (2024/2026/2028). 'Record 22 marketing, merchandising and institutional partners' in 2026 per NBA.com - the full list was not checked for Gulf partners.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/16"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/16"
     },
     {
       "id": "mls",
@@ -2430,7 +2430,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "State links are concentrated in one club (NYCFC); no other club or league-level partner found with Gulf/Saudi/Chinese state links in this pass. Club jersey sponsors are listed on club sites and Wikipedia club-season pages; MLS league partners at mlssoccer.com. Calendar-year season for 2026; after the 2027 transition season MLS moves to a July-May calendar, so later season labels become '2027-28'. Etihad Park opening (17 July 2027) is a natural news hook.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/23"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/23"
     },
     {
       "id": "premier-padel",
@@ -2524,7 +2524,7 @@
       ],
       "unverifiedLeadCount": 5,
       "dataNotes": "Easy to find the headline state link (QSI ownership plus the Qatar Airways title). Harder: event-level sponsors, which change often and appear in event names (Riyadh Season P1, Emaar Dubai P1, formerly Ooredoo Qatar Major). premierpadel.com loads its calendar with JavaScript; the FIP calendar page works. The 2026 calendar was disrupted by the Iran war: Qatar Major postponed/cancelled, Kuwait upgraded to Major, Pretoria upgraded to P1. PIF's padel exposure runs through 54's Hexagon World Series investment (a separate team event), not through Premier Padel directly. Distinguish owner (QSI), tour title sponsor, event hosts and broadcaster (beIN, also Al-Khelaifi-chaired).",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/261"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/261"
     },
     {
       "id": "womens-super-league",
@@ -2602,7 +2602,7 @@
       ],
       "unverifiedLeadCount": 2,
       "dataNotes": "The official wslfootball.com site loads and lists clubs. Women's-team sponsors usually mirror the men's club deals, but not always, so confirm per club. The Wikipedia season page has a handy kit/sponsor table. Visit Rwanda moved from Arsenal's sleeve (ended Jun 2026) to Aston Villa's front (from 2026-27), so older data is out of date. League expanded to 14 in 2026-27.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/262"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/262"
     },
     {
       "id": "motogp",
@@ -2694,7 +2694,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "Team names on motogp.com include title sponsors, so they are easy to scrape. Race title sponsors change every year and are not shown on the motogp.com calendar list; check each event page or the circuit websites. The Qatar round is uncertain: moved from April to 6–8 Nov 2026, and as of 19 Sep 2026 still undecided. Qatar Airways' series deal (three years from 2024) may be up for renewal after 2026. The same sponsor can appear three ways (series partner, race title, host nation), so record each placement separately. There is no Kazakhstan round in 2026.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/263"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/263"
     },
     {
       "id": "sailgp",
@@ -2785,7 +2785,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Team names are sponsor-driven and change often (e.g. 'Bonds Flying Roos', 'Black Foils', 'Los Gallos'); boat wraps carry team naming partners, so jersey/boat sponsor = team naming partner in most cases. Separate team owners (e.g. Mubadala Capital) from league partners (Mubadala, Emirates) and event title/presenting partners (Emirates, Mubadala, DP World, Abu Dhabi Sports Council). sailgp.com is JS-rendered and did not load in WebFetch; Wikipedia season article is the easiest structured source. Season 6 ends with two UAE events in Nov 2026.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/264"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/264"
     },
     {
       "id": "formula-e",
@@ -2877,7 +2877,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "The official partners page on fiaformulae.com lists series partners (ABB title; PIF, Saudia, DHL, Google Cloud and others). Team names on the official site are mostly short brand names without sponsors, so check team sites for livery sponsors. Seasons span two calendar years: Season 12 (Dec 2025 – Aug 2026) is finished, and Season 13 starts 18–19 Dec 2026 in Jeddah with the new Gen4 car. Unlike F1, WEC, MotoGP and WRC, Formula E's 2025–26 season was not directly hit by the 2026 Iran war (Jeddah ran on 13–14 Feb). The December Jeddah opener carries the same risk as other Gulf events. McLaren (formerly NEOM McLaren) is no longer on the grid.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/265"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/265"
     },
     {
       "id": "womens-golf",
@@ -2966,7 +2966,7 @@
       ],
       "unverifiedLeadCount": 2,
       "dataNotes": "Combined LET + LPGA into one entry (id 'womens-golf', not 'ladies-european-tour') because the state-linked money is the PIF Global Series: all 5 events are LET events and the only LPGA link is the co-sanctioned Aramco Championship. A separate LPGA entry would repeat that one event. Easy to collect from pifglobalseries.com and event names (PIF/Aramco in the title). Tricky: series name changed (Aramco Team Series to PIF Global Series, 2025), the format changed in 2026, the LET site blocks automated fetches, and some events are co-sanctioned with other tours (LPGA, China LPGA).",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/266"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/266"
     },
     {
       "id": "uci-womens-worldtour",
@@ -3040,7 +3040,7 @@
       ],
       "unverifiedLeadCount": 2,
       "dataNotes": "The mid-season rename matters: UAE Team ADQ became UAE Team L'IMAD on 1 Aug 2026 because ADQ was absorbed into L'IMAD, and the UCI list still shows ADQ. Use both names and date the change. Sponsor data is on team sites and in Cyclingnews and the Cyclist explainer. Liv AlUla Jayco shares its AlUla sponsor with the men's Team Jayco AlUla (same GreenEDGE organisation).",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/267"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/267"
     },
     {
       "id": "cycling-stage-races",
@@ -3140,7 +3140,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Organisers are usually named in race press releases and on Wikipedia. Official race sites were unreliable to fetch (uaetour.com did not resolve; adsc.gov.ae failed SSL; mos.gov.sa refused the connection). Host fees are rarely disclosed. Separate the race owner or host (the state body) from the operator (RCS Sport for the UAE races, formerly ASO for Saudi and Oman). The Muscat Classic and Tour of Oman overlap in 2026 reporting. The 2025 Kigali Worlds were a one-off and are mentioned here, not counted as a 2026 race.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/268"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/268"
     },
     {
       "id": "asian-tour",
@@ -3204,7 +3204,7 @@
       ],
       "unverifiedLeadCount": 2,
       "dataNotes": "Hard to collect: asiantour.com and internationalseries.com render with JavaScript, so fall back to Wikipedia and news. Status is changing mid-season (LIV exit in July 2026, International Series branding dropped, two events cancelled), so date-stamp the entry. The International Series was effectively a LIV/PIF product, so it could also sit under the LIV entry.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/269"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/269"
     },
     {
       "id": "liga-portugal",
@@ -3279,7 +3279,7 @@
       ],
       "unverifiedLeadCount": 2,
       "dataNotes": "The official ligaportugal.pt site is a news hub and did not expose a club list to WebFetch, so Wikipedia's season page is the practical source (it includes a shirt-sponsor table). Most front-of-shirt sponsors are betting brands. Ownership stakes (QSI in Braga; foreign investors at Casa Pia, Estoril, Rio Ave, etc.) need SAD shareholder reports or CMVM filings to confirm.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/270"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/270"
     },
     {
       "id": "wec",
@@ -3370,7 +3370,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Official names on fiawec.com include title sponsors (TotalEnergies 6 Hours of Spa, Rolex 6 Hours of São Paulo, Bapco Energies 8 Hours of Bahrain). The full entry list is a PDF, and car liveries and team sponsors must be collected from each team. For 2026, both Gulf rounds were cancelled (Qatar in two steps: postponed in March, cancelled 28 Jul 2026). The Iran war and the risk to shipping through the Strait of Hormuz were cited. They were replaced by Barcelona and Monza, so the 2026 season has no Gulf race while 2027 has two. State links run mostly through manufacturer ownership (PIF–Aston Martin, CYVN–McLaren, Mumtalakat–McLaren Racing) rather than direct car-livery sponsorship. That link is indirect, so label it clearly.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/271"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/271"
     },
     {
       "id": "khl",
@@ -3470,7 +3470,7 @@
       ],
       "unverifiedLeadCount": 7,
       "dataNotes": "Sponsor data sits mostly on Russian-language club websites (partner pages) and khl.ru, which often block automated fetches (403). Club ownership is often informal: companies act as 'general partner' or founder rather than disclosed owner. Sanctions context: Russian teams remain barred from IIHF competitions in 2026-27. The IIHF Council reaffirmed this on 2026-07-30 after its Disciplinary Board annulled the January 2026 decision in May. Belarus was reinstated for a few youth/lower-division events (Daily Faceoff, https://www.dailyfaceoff.com/news/iihf-re-affirms-ban-russia-belarus-major-international-world-championship-2026-27, fetched). Shanghai Dragons' 'home' is effectively St Petersburg, so check whether it relocates to Shanghai. The club list changes often (e.g. Vityaz withdrew in 2025, Lada and Sochi present). The season runs from about 5 Sep 2026 to 20 Mar 2027 in the regular season.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/272"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/272"
     },
     {
       "id": "russian-premier-league",
@@ -3557,7 +3557,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "The official premierliga.ru site is behind a Yandex anti-bot CAPTCHA; Wikipedia's season page has a usable sponsor table. The title sponsor is now Alfa-Bank (privately owned; believed to be under Western sanctions, not verified here) rather than Mir or Lesta. Several sponsors are under Western sanctions, which may make club sites and company registries hard to reach. Owner and sponsor are often the same state company (Zenit/Gazprom, Lokomotiv/RZhD). Primary Russian-language sources (club sites, rusprofile.ru) would be needed to confirm exact shareholdings.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/273"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/273"
     },
     {
       "id": "chinese-super-league",
@@ -3644,7 +3644,7 @@
       ],
       "unverifiedLeadCount": 4,
       "dataNotes": "Calendar-year season (2026 ends 8 Nov). Clubs have used neutral names since 2021, so sponsor and owner names don't appear in club names. The official cfl-china.cn site is JavaScript-heavy and in Chinese; Wikipedia season and club pages are the practical sources but are thin on citations. Ownership changes often (clubs dissolving, local governments taking over). Chinese-language company registries (e.g. Qichacha or Tianyancha) or annual reports would be needed to confirm SOE shareholdings.",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/274"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/274"
     },
     {
       "id": "super-cups-abroad",
@@ -3730,7 +3730,7 @@
       ],
       "unverifiedLeadCount": 3,
       "dataNotes": "These are event-level host deals, not team sponsorships: the 'sponsor' is the host government, often paying a hosting fee. Hosts change every year, so check each edition's venue close to the date. Season naming is confusing: the '2025' Trophée des Champions was played in Jan 2026, and the '2027' Supercopa belongs to the 2026-27 season. The Supercoppa Italiana 2026 venue is still TBC as of late Aug 2026. RFEF's site blocked WebFetch (403).",
-      "issue": "https://github.com/Beyond-The-Jersey/data/issues/275"
+      "issue": "https://github.com/Behind-the-Jersey/data/issues/275"
     }
   ]
 }

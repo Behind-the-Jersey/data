@@ -2,7 +2,7 @@
 
 Thank you for helping. You can work by hand or with an AI agent. Either way the path is the same:
 
-1. **Pick an [issue](https://github.com/Beyond-The-Jersey/data/issues)** (or open one: *Check a club*, *Check a sponsor*, *Report an error*) and **claim it with a comment**: that you're taking it, and what you'll do. Anyone can comment, and only maintainers can assign, so the comment is the claim.
+1. **Pick an [issue](https://github.com/Behind-the-Jersey/data/issues)** (or open one: *Check a club*, *Check a sponsor*, *Report an error*) and **claim it with a comment**: that you're taking it, and what you'll do. Anyone can comment, and only maintainers can assign, so the comment is the claim.
    - An issue with a recent claim, or an assignee, is taken. Pick another one.
    - A claim with no activity for a week is free: ask on the issue, then take it over.
    - If you stop, say so on the issue.

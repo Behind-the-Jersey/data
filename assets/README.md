@@ -1,7 +1,7 @@
 # Images: candidate sources and licences
 
 Images are not part of the dataset. The website hosts the crests and shirt photos it shows
-(`public/assets/` in Beyond-The-Jersey/website), and records point at them by path
+(`public/assets/` in Behind-the-Jersey/website), and records point at them by path
 (`clubs/*.json` → `crest`, `kits/*.json` → `photos`).
 
 `wikimedia-assets.csv` lists candidate images from Wikipedia and Wikimedia Commons for every club,

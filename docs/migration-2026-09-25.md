@@ -400,20 +400,20 @@
 - deals/haas-uralkali: https://www.formula1.com/en/latest/article.haas-part-ways-with-title-sponsor-uralkali.4k1m4eFTTTRHEbDwKjHkOs.html
 - kits/monza-2026-27-home: https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey
 - kits/new-york-red-bulls-2026-27-home: https://www.newyorkredbulls.com/club/partners
-- kits/stade-brestois-29-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/abha-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-ettifaq-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-ettifaq-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-fateh-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-fayha-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-hazem-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-ittihad-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-khaleej-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-kholood-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-qadsiah-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-riyadh-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-shabab-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-taawoun-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/stade-brestois-29-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/abha-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-ettifaq-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-ettifaq-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-fateh-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-fayha-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-hazem-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-ittihad-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-khaleej-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-kholood-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-qadsiah-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-riyadh-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-shabab-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
+- kits/al-taawoun-2026-27-home: https://github.com/Behind-the-Jersey/data/issues/243
 - contacts/fc-dallas: contact-form https://www.fcdallas.com/contact-us
 - contacts/fc-dallas: email customerservice@fcdallas.com
 - contacts/fc-dallas: phone +1 214-705-6700

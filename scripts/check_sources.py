@@ -73,7 +73,7 @@ for f in sorted(files):
             items.append((rec, path, s))
 
 UA = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36 '
-      '(Beyond-The-Jersey source check; https://github.com/Beyond-The-Jersey/data)')
+      '(Behind-the-Jersey source check; https://github.com/Behind-the-Jersey/data)')
 CTX = ssl.create_default_context()
 
 

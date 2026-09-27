@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Beyond-The-Jersey/data/schema/club.schema.json",
+  "$id": "https://github.com/Behind-the-Jersey/data/schema/club.schema.json",
   "title": "Clubs and team",
   "description": "One club record: data/clubs/<id>.json",
   "type": "object",

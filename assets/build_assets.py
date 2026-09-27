@@ -5,7 +5,7 @@ used a truncated slice)."""
 import os, json, urllib.request, urllib.parse, time, re, csv, difflib
 from collections import Counter
 
-UA = 'LegionBot/1.0 (https://github.com/Beyond-The-Jersey; okinent@protonmail.com)'
+UA = 'LegionBot/1.0 (https://github.com/Behind-the-Jersey; okinent@protonmail.com)'
 EN = 'https://en.wikipedia.org/w/api.php'
 COMMONS = 'https://commons.wikimedia.org/w/api.php'
 

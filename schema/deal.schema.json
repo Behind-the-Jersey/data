@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Beyond-The-Jersey/data/schema/deal.schema.json",
+  "$id": "https://github.com/Behind-the-Jersey/data/schema/deal.schema.json",
   "title": "Deals (money)",
   "description": "Reported values are press estimates.",
   "type": "object",
