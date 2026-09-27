@@ -8,9 +8,10 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "FIBA - official partners page",
+    "name": "FIBA partners page (fiba.net; JS-rendered)",
     "date": "2026-09-25",
-    "url": "https://about.fiba.basketball/en/partners"
+    "url": "https://fiba.net/partners/",
+    "note": "Previous URL (about.fiba.basketball/en/partners) serves a soft-404; the partners footer on that error page listed these brands (verified by review fetch 2026-09-27)."
   },
   "leagueId": "fiba",
   "note": "FIBA Partner; FIBA news name a 'TISSOT MVP' award at the Women's World Cup 2026."
