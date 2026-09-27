@@ -1,0 +1,31 @@
+{
+  "id": "hedera-governing-council-record",
+  "ownerIds": [
+    "hedera-governing-council"
+  ],
+  "text": "The Hedera mainnet is maintained by governing council members which include companies such as Deutsche Telekom, IBM and FIS Global.",
+  "short": "Hedera is run by a council of member companies.",
+  "source": {
+    "name": "Wikipedia – Hashgraph",
+    "date": "2026-09-27",
+    "url": "https://en.wikipedia.org/wiki/Hashgraph",
+    "quote": "Hedera mainnet is maintained by governing council members which include companies such as Deutsche Telekom, IBM, FIS Global",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Hedera – McLaren Racing and Hedera partner to expand digital fan engagement",
+      "date": "2026-01-22",
+      "url": "https://hedera.com/blog/mclaren-racing-and-hedera-partner-to-expand-digital-fan-engagement",
+      "quote": "Hedera will become an Official Partner of the McLaren Mastercard Formula 1 and the Arrow McLaren IndyCar Team.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

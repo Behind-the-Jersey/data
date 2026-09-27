@@ -1,0 +1,41 @@
+{
+  "id": "monster-beverage-corporation-record",
+  "ownerIds": [
+    "monster-beverage-corporation"
+  ],
+  "text": "Monster Beverage went public in 1990 under its former name Hansen's Natural; the Monster Energy brand is created by Hansen Natural Company, now Monster Beverage Corporation.",
+  "short": "Monster Energy is made by Monster Beverage Corporation, public since 1990.",
+  "source": {
+    "name": "Wikipedia – Monster Beverage",
+    "date": "2026-09-27",
+    "url": "https://en.wikipedia.org/wiki/Monster_Beverage",
+    "quote": "In 1990, Hansen's (original ticker symbol: HANS) went public with an initial public offering.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Wikipedia – Monster Energy",
+      "date": "2026-09-27",
+      "url": "https://en.wikipedia.org/wiki/Monster_Energy",
+      "quote": "created by Hansen Natural Company (now Monster Beverage Corporation)",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Wikipedia – Monster Beverage",
+      "date": "2026-09-27",
+      "url": "https://en.wikipedia.org/wiki/Monster_Beverage",
+      "quote": "The Coca-Cola Company bought a 16.7% stake for $2.15 billion in Monster Beverage Corp in 2015.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "brown-forman-record",
+  "ownerIds": [
+    "brown-forman"
+  ],
+  "text": "Brown-Forman is a publicly traded company: both classes of its common stock trade on the New York Stock Exchange, and it has owned Jack Daniel's since 1956.",
+  "short": "Brown-Forman (NYSE) has owned Jack Daniel's since 1956.",
+  "source": {
+    "name": "Wikipedia – Brown-Forman",
+    "date": "2026-09-27",
+    "url": "https://en.wikipedia.org/wiki/Brown-Forman",
+    "quote": "Brown-Forman has two classes of common stock, both of which are traded publicly on the New York Stock Exchange.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Wikipedia – Jack Daniel's",
+      "date": "2026-09-27",
+      "url": "https://en.wikipedia.org/wiki/Jack_Daniel%27s",
+      "quote": "In 1956, the company was sold to the Brown-Forman Corporation.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

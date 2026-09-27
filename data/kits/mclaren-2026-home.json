@@ -14,7 +14,12 @@
       "source": {
         "name": "McLaren Racing – McLaren Racing announces Mastercard as Official Naming Partner from 2026",
         "date": "2025-08-27",
-        "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/"
+        "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/",
+        "quote": "McLaren Racing has today announced that Mastercard is set to become the Official Naming Partner of the McLaren Formula 1 Team from 2026 onwards.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -23,7 +28,12 @@
       "source": {
         "name": "McLaren Racing – McLaren Racing and Google announce partnership expansion",
         "date": "2024-02-26",
-        "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/"
+        "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/",
+        "quote": "Google Chrome, Android and Pixel branding will be featured on the McLaren MCL38, the pit crew overalls, team kit",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -33,7 +43,12 @@
         "name": "McLaren Racing – McLaren Racing announces expansion with Official Primary Partner OKX",
         "date": "2023",
         "url": "https://www.mclaren.com/racing/formula-1/2023/mclaren-racing-announces-expansion-with-official-primary-partner-okx",
-        "note": "date precision: year"
+        "quote": "The McLaren Mastercard Formula 1 Team and Official Primary Partner OKX have today unveiled a special livery enhancement",
+        "note": "date precision: year; OKX named Official Primary Partner in McLaren's 2026 livery announcement (2026-09-01).",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -42,7 +57,12 @@
       "source": {
         "name": "McLaren Racing – Partners",
         "date": "2026-09-24",
-        "url": "https://www.mclaren.com/racing/partners/"
+        "url": "https://www.mclaren.com/racing/partners/",
+        "quote": "Cisco's industry-leading technology delivers critical solutions across multiple facets of the team's global operations.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -51,20 +71,436 @@
       "source": {
         "name": "McLaren Racing – Partners",
         "date": "2026-09-24",
-        "url": "https://www.mclaren.com/racing/partners/"
+        "url": "https://www.mclaren.com/racing/partners/",
+        "quote": "Since 2018, Dell's expertise in high-performance computing, AI, and edge solutions has been integral",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
-      "sponsorId": "gulf-oil",
+      "sponsorId": "bat",
       "placement": "partner",
       "source": {
-        "name": "McLaren Racing – Partners",
+        "name": "McLaren Racing – McLaren Racing and BAT announce multi-year partnership extension",
+        "date": "2024-04-08",
+        "url": "https://www.mclaren.com/racing/partners/british-american-tobacco/mclaren-racing-and-bat-announce-multi-year-partnership-extension/",
+        "quote": "BAT's brands will continue to be represented on McLaren's F1 race cars from the current season",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "dp-world",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces partnership expansion with DP World",
+        "date": "2024-02-20",
+        "url": "https://www.mclaren.com/racing/partners/dp-world/mclaren-racing-announces-partnership-expansion-with-dp-world/",
+        "quote": "DP World branding will continue to be present on the chassis side of the MCL38 and driver overalls",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "allwyn",
+      "placement": "partner",
+      "source": {
+        "name": "Allwyn – Allwyn becomes an Official Partner of the McLaren Formula 1 Team",
+        "date": "2025-02-12",
+        "url": "https://www.allwyn.com/news/allwyn-becomes-an-official-partner-of-the-mc-laren-formula-1-team",
+        "quote": "Allwyn branding will feature on multiple team assets, including on the race cars and driver overalls of",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "etihad-airways",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Etihad Airways as an Official Partner",
+        "date": "2026-02-26",
+        "url": "https://www.mclaren.com/racing/latest-news/2026/mclaren-racing-announces-etihad-airways-as-an-official-partner/",
+        "quote": "Etihad, the national airline of the UAE, will become an Official Partner of the McLaren Mastercard Formula 1 Team",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "monster-energy",
+      "placement": "partner",
+      "source": {
+        "name": "Sportcal – Monster Energy shifts from Mercedes to McLaren to maintain F1 presence",
+        "date": "2023-11-29",
+        "url": "https://www.sportcal.com/sponsorship/monster-energy-shifts-from-mercedes-to-mclaren-to-maintain-f1-presence/",
+        "quote": "From the 2024 F1 season, the brand will be featured on the helmets, race suits, caps, and drinks bottles of McLaren drivers",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "jack-daniels",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing and Jack Daniel's announce new multi-year partnership",
+        "date": "2022-09-13",
+        "url": "https://www.mclaren.com/racing/latest-news/mclarenracing/article/mclaren-racing-and-jack-daniels-announce-new-multi-year-partnership/",
+        "quote": "branding will feature on the nose of McLaren's 2023 F1 cars as well as on the driver's overalls and pit-crew helmets.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "okta",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Okta as an Official Partner",
+        "date": "2025-01-28",
+        "url": "https://www.mclaren.com/racing/formula-1/2025/mclaren-racing-announces-okta-as-an-official-partner-of-the-mclaren-formula-1-team/",
+        "quote": "Okta branding will be featured on the race cars and driver overalls of McLaren Formula 1 Team drivers Lando Norris",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "arrow-electronics",
+      "placement": "partner",
+      "source": {
+        "name": "SportsPro – McLaren Racing, F1, IndyCar: Arrow Electronics sponsorship extension",
+        "date": "2021-09-20",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/mclaren-racing-f1-indycar-arrow-electronics-sponsorship-extension/",
+        "quote": "Arrow Electronics branding will feature on the cars and race suits of Formula One drivers Lando Norris and Daniel Ricciardo",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "stanley-black-decker",
+      "placement": "partner",
+      "source": {
+        "name": "DEWALT Media Room – McLaren Racing launches multi-year partnership with Stanley Black & Decker",
+        "date": "2021-07-15",
+        "url": "https://dewalt.mediaroom.com/2021-07-15-McLaren-Racing-launches-multi-year-partnership-with-Stanley-Black-Decker",
+        "quote": "will be visible on the rear wing endplates of the McLaren MCL35M race cars and the racesuits of McLaren F1 drivers",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "goldman-sachs",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces multi-year partnership with Goldman Sachs",
+        "date": "2022-06-21",
+        "url": "https://www.mclaren.com/racing/partners/goldman-sachs/mclaren-racing-announces-multi-year-partnership-goldman-sachs/",
+        "quote": "Goldman Sachs branding will be carried on the McLaren MCL36 F1 cars from the 2022 British Grand Prix.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "workday",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing expands partnership with Workday for the 2024 Formula 1 season",
+        "date": "2024-02-07",
+        "url": "https://www.mclaren.com/racing/partners/workday/mclaren-racing-expands-partnership-with-workday-for-the-2024-formula-1-season/",
+        "quote": "Workday branding will also be included on the McLaren team kits for the 2024 Formula 1 season.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "iron-mountain",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Iron Mountain becomes an Official Partner of the McLaren Formula 1 Team",
+        "date": "2025-10-14",
+        "url": "https://www.mclaren.com/racing/partners/iron-mountain/iron-mountain-becomes-an-official-partner-of-the-mclaren-formula-1-team/",
+        "quote": "Iron Mountain branding will feature on both McLaren Formula 1 Team race cars",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "dropbox",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Dropbox as an Official Technology Partner",
+        "date": "2024-02-09",
+        "url": "https://www.mclaren.com/racing/partners/dropbox/mclaren-racing-announces-dropbox-as-an-official-technology-partner-of-mclaren-formula-1-team/",
+        "quote": "Dropbox branding will feature on the McLaren MCL38, and the driver overalls and helmets of Formula 1 drivers Lando Norris",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "ecolab",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Ecolab as an Official Partner",
+        "date": "2024-02-08",
+        "url": "https://www.mclaren.com/racing/partners/ecolab/mclaren-racing-announces-ecolab-as-an-official-partner-of-mclaren-formula-1-team/",
+        "quote": "Ecolab branding will feature on the team kit of McLaren Formula 1 Drivers Lando Norris and Oscar Piastri for the 2024 season",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "freshworks",
+      "placement": "partner",
+      "source": {
+        "name": "Freshworks – McLaren Racing announces Freshworks as an Official Partner",
+        "date": "2025-07-22",
+        "url": "https://ir.freshworks.com/news/news-details/2025/McLaren-Racing-announces-Freshworks-as-an-Official-Partner-of-the-McLaren-Formula-1-Team-07-22-2025/default.aspx",
+        "quote": "Freshworks branding will feature on both McLaren Formula 1 Team race cars and the team kit",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "udemy",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing and Udemy announce multi-series partnership",
+        "date": "2023-11-14",
+        "url": "https://www.mclaren.com/racing/partners/udemy/mclaren-racing-and-udemy-announce-multi-series-partnership/",
+        "quote": "and on the helmets of McLaren Formula 1 drivers Lando Norris and Oscar Piastri during the 2024 F1 season.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "alteryx",
+      "placement": "partner",
+      "source": {
+        "name": "Alteryx – McLaren Racing selects Alteryx for analytics, automation and data science",
+        "date": "2021-06-30",
+        "url": "https://www.alteryx.com/about-us/newsroom/press-release/2021-06-30-mclaren-racing-selects-alteryx-for-analytics-automation-and-data-science",
+        "quote": "the Alteryx brand will also be represented on the McLaren MCL35M race cars, the race suits of drivers Lando Norris",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "smartsheet",
+      "placement": "partner",
+      "source": {
+        "name": "Smartsheet – McLaren Racing and Smartsheet announce new partnership",
+        "date": "2021-11-11",
+        "url": "https://www.smartsheet.com/content-center/news/mclaren-racing-and-smartsheet-announce-new-partnership-mclaren-formula-1-team",
+        "quote": "The Smartsheet brand will first be represented on the McLaren MCL35M race cars at the 2021 Brazilian Grand Prix,",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "medallia",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Medallia, Official Feedback Partner",
+        "date": "2021-10-19",
+        "url": "https://www.mclaren.com/racing/partners/medallia/mclaren-racing-announces-medallia-official-feedback-partner-mclaren-formula-1-team/",
+        "quote": "The Medallia brand will be represented on the McLaren MCL35M race cars for the US GP,",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "groq",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Groq as an Official Partner",
+        "date": "2025-09-26",
+        "url": "https://www.mclaren.com/racing/partners/groq/mclaren-racing-announces-groq-as-an-official-partner/",
+        "quote": "The Groq logo will feature on the McLaren Formula 1 Team race cars from the 2025 Singapore Grand Prix.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hedera",
+      "placement": "partner",
+      "source": {
+        "name": "Hedera – McLaren Racing and Hedera partner to expand digital fan engagement",
+        "date": "2026-01-22",
+        "url": "https://hedera.com/blog/mclaren-racing-and-hedera-partner-to-expand-digital-fan-engagement/",
+        "quote": "Hedera branding will feature on the McLaren Mastercard Formula 1 Team car, as well as driver race suits.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "fxpro",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing and FxPro extend longstanding partnership 2026",
+        "date": "2026-02-25",
+        "url": "https://www.mclaren.com/racing/partners/fxpro/mclaren-racing-and-fxpro-extend-longstanding-partnership-2026/",
+        "quote": "FxPro branding will retain its position on the McLaren Mastercard F1 cars, as well as on driver helmets and team kit",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "liquid-iv",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Liquid I.V. as an Official Partner",
+        "date": "2026-04-21",
+        "url": "https://www.mclaren.com/racing/partners/liquid-iv/mclaren-racing-announces-liquid-iv-as-an-official-partner/",
+        "quote": "featured on the McLaren Mastercard F1 Team pit crew helmets, on the overalls of McLaren F1 Academy Driver, Ella Lloyd",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "google-cloud",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Google Cloud partner page",
         "date": "2026-09-24",
-        "url": "https://www.mclaren.com/racing/partners/"
+        "url": "https://www.mclaren.com/racing/partners/google-cloud/",
+        "quote": "Google Cloud is the Official Cloud and Preferred Technology Partner of the McLaren F1 team.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "PUMA – McLaren Racing and PUMA unite performance and style in new partnership",
+        "date": "2026-01-20",
+        "url": "https://about.puma.com/en/newsroom/corporate-news/2026/20-01-2026-mclaren-racing-and-puma-unite-performance-and-style-new",
+        "quote": "PUMA will create team kit, delivering performance where it matters.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "pirelli",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Pirelli partner page",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/pirelli/",
+        "quote": "Pirelli has been the exclusive global tyre partner to the FIA Formula One World Championship since 2011.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "richard-mille",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Richard Mille partner page",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/richard-mille/",
+        "quote": "In 2016, McLaren announced a long-term partnership with luxury watchmaking brand Richard Mille.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hilton",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Hilton partner page",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/hilton/",
+        "quote": "extending Hilton's tenure as the team's longest standing partner",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "t-mobile",
+      "placement": "partner",
+      "source": {
+        "name": "SportsKhabri – McLaren 2026 F1 team sponsors",
+        "date": "2026-04-13",
+        "url": "https://sportskhabri.com/formula-one-2026-team-sponsors-mclaren/",
+        "quote": "features T-Mobile branding on multiple touchpoints for all US races, including its garage headsets and race cars",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "airwallex",
+      "placement": "partner",
+      "source": {
+        "name": "SportsKhabri – McLaren 2026 F1 team sponsors",
+        "date": "2026-04-13",
+        "url": "https://sportskhabri.com/formula-one-2026-team-sponsors-mclaren/",
+        "quote": "Global financial technology company Airwallex was unveiled as an Official Partner of the team in February 2024",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "2026 car. S"
+  "summary": "2026 MCL40, McLaren Mastercard Formula 1 Team. Mastercard and Google front; OKX sleeve; every other verified partner (BAT, DP World, Allwyn, Etihad, Monster Energy, Jack Daniel's, Okta, Arrow Electronics, Stanley Black & Decker/DEWALT, Goldman Sachs, Workday, Iron Mountain, Dropbox, Ecolab, Freshworks, Udemy, Alteryx, Smartsheet, Medallia, Groq, Hedera, FxPro, Liquid I.V., Google Cloud, T-Mobile, Airwallex, PUMA, Pirelli, Richard Mille, Hilton, Cisco, Dell) as partner. Gulf Oil no longer appears on McLaren's 2026 partner grid."
 }
