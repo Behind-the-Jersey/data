@@ -5,10 +5,20 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
+  "verdict": "A US regulator found that Citibank discriminated against applicants of Armenian origin (2015-2021).",
   "claimIds": [
-    "citigroup-citi-owner-record"
+    "citigroup-major-holders-2026",
+    "citibank-cfpb-armenian-american-discrimination-2023"
   ],
   "aliases": [],
-  "note": "Rating note: Citigroup has no state ownership but has a documented conduct record: paid ~$1.1bn in 2019 for Iran-related sanctions/AML failures and agreed to forfeit $227m in 2012 for Iran/Sudan transactions. Under rubric, this is a 'lesser link' (concern) not ownership-based severe/serious."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Citigroup Inc. (listed; largest holders Vanguard and BlackRock, no state) - a 2023 CFPB consent order found Citibank had a pattern or practice of discriminating against credit card applicants based on Armenian national origin (2015-2021); order ended early in October 2025.",
+  "why": {
+    "text": "In 2023 the US Consumer Financial Protection Bureau found that from at least 2015 through 2021 Citibank had a pattern or practice of discriminating against credit card applicants based on Armenian national origin, picking them out by last names ending in -ian or -yan. It ordered the bank to pay a $24.5 million penalty and $1.4 million in redress.",
+    "claimIds": [
+      "citibank-cfpb-armenian-american-discrimination-2023",
+      "citigroup-major-holders-2026"
+    ],
+    "messageLine": "In 2023 the US consumer finance regulator found that from at least 2015 through 2021 Citibank discriminated against credit card applicants based on Armenian national origin.",
+    "status": "draft"
+  }
 }

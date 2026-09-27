@@ -3,13 +3,13 @@
   "name": "JPMorgan Chase (Chase)",
   "ownerId": "jpmorgan-chase-owner",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "JPMorgan Chase & Co.",
+  "verdict": "A listed company whose largest holders are investment firms.",
   "claimIds": [
-    "jpmorgan-chase-chase-owner-record",
-    "jpmorgan-chase-fossil-finance-2025"
+    "jpmorgan-chase-major-holders-2026",
+    "jpmorgan-chase-chase-owner-record"
   ],
   "aliases": [],
-  "note": "Rating note: JPMorgan Chase has paid multiple significant settlements including $151 million in 2024 for SEC violations and various other regulatory matters."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
 }

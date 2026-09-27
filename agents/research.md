@@ -28,17 +28,22 @@ For the clubs, league or sponsors in your issue:
    - new sponsors are `tier: "unrated"`, `status: "unrated"`.
 4. **Owners:**
    - trace each sponsor's owner up to a state or fund where there is one (`parentId`), using company filings, annual reports or the sponsor's own site;
-   - each owner gets a claim that states the ownership, with its source;
+   - each owner gets an ownership claim (`"kind": "ownership"`) that states the ownership, with its source;
    - reuse existing owners (`government-of-saudi-arabia`, `saudi-pif`, `government-of-dubai`…).
-5. **Evidence:** for owners that are states or state-controlled, add claims (`data/claims/`) with sourced facts about their human-rights record. Use the UN, Amnesty International, Human Rights Watch, courts, or the named press. Reuse existing claims where they fit.
-   - **When you propose Concern, Serious or Severe**, every claim behind it needs a second source from a different publisher, in `additionalSources`, quoted and checked the same way. That includes the ownership claims that tie the sponsor to the state. Without it the rating is published as *not rated yet*.
+5. **Evidence.** A rating above *Nothing found* needs **the link** and **the record** ([METHOD.md](../METHOD.md), "Sponsor tiers"):
+   - **The link** is an ownership claim (`"kind": "ownership"`): whose brand or subsidiary the sponsor is, and for a state or state fund, its stake. It counts only if the state controls the sponsor, holds 5% or more (multiply along the chain), or has a board seat.
+   - **The record** is a record claim (`"kind": "record"`): serious human-rights abuses by that state, documented by the UN, Human Rights Watch, Amnesty International or a court; or a human-rights finding against the company itself (forced or child labour, deaths or injuries, discrimination, abuse of communities) by a court, regulator, UN body or major NGO, for abuse in the last 20 years or still going on.
+   - **What doesn't count:** a state in the chain without such a record (whatever its stake), a small passive stake, a settlement without a finding, and financial, bribery, sanctions, tax, consumer, antitrust or climate records. Don't write claims for these; say so in the pull request if they seem relevant.
+   - **Every claim behind a proposed Concern, Serious or Severe** needs a second source from a different publisher, in `additionalSources`, quoted and checked the same way. Without it the rating is published as *not rated yet*.
+   - **Draft the `why` in the pull request** for each rating you propose: the link, then the record, only from the claims.
+   - Reuse existing claims where they fit (`saudi-executions-2024`, `uae-mass-trial-2024`…).
 6. **Deals:**
    - organisation sponsors (league or competition partners) go in `data/deals/` with `clubId: null`, `orgName` and `leagueId`;
    - reported deal values go in the club's deal, with their source.
 7. **Check:** run `python3 scripts/validate.py` and `python3 scripts/check_sources.py --base origin/main` (`pip install jsonschema pypdf` first). Fix every error.
 8. **Open the pull request** with the template, linked to the issue (`Part of #<n>`, or `Closes #<n>` when it finishes the issue). Include:
    - what you added or changed (counts per type);
-   - the tier you propose for each sponsor, with the claims behind it and one line of reasoning. Don't set tiers yourself.
+   - the tier you propose for each sponsor, with its link claim, its record claim and a draft `why`, or why it's *Nothing found*. Don't set tiers yourself.
    - facts you found but couldn't source, as plain text with where you saw them;
    - anything that disagreed between sources.
 
@@ -48,7 +53,7 @@ For the clubs, league or sponsors in your issue:
 - **Open every URL you cite** and make sure it says what you claim, with a quote copied from the page. Wikipedia and Wikidata are for finding primary documents, not for citing.
 - **Never write a quote you didn't read on the page.** If a page is blocked for you, say so in the pull request instead of guessing its words.
 - **Claims say only what the source says.** Leave out conclusions the page doesn't state ("no state stake", "privately held", a founding year it doesn't give). Your reasoning goes in the pull request, never in a claim's text.
-- **State ownership alone is not a tier** ([METHOD.md](../METHOD.md)).
+- **State ownership alone is not a tier,** and neither is a fine: a rating needs the link and a human-rights record ([METHOD.md](../METHOD.md)).
 - **Contacts:** only fan-facing channels the club publishes, with the page they're on.
 - **Don't touch** `schema/`, `scripts/`, `.github/`, or records outside your issue, unless the issue asks you to.
 - **Some things don't fit the data yet:** races, fights and tournaments hosted by a state (no event record yet), and sponsors on cars (no car placement). Put them in the pull request description with their sources instead of forcing them into kits.
