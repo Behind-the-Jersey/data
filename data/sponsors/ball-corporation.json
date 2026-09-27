@@ -1,12 +1,12 @@
 {
   "id": "ball-corporation",
   "name": "Ball Corporation",
-  "ownerId": "ball-corporation-owner",
-  "ownership": "owned",
+  "ownerId": null,
+  "ownership": null,
   "tier": "unrated",
   "status": "unrated",
-  "verdict": "Owned by Ball Corporation. Nothing found.",
+  "verdict": null,
   "claimIds": [],
   "aliases": [],
-  "note": "Rating note: Listed Company company with no significant conduct issues found"
+  "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
 }

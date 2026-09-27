@@ -6,20 +6,16 @@
   "periodLabel": "2026-27",
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
-  "photos": {
-    "back": "assets/shirts/monza/2026-27-home-back.jpg",
-    "front": "assets/shirts/monza/2026-27-home-front.jpg",
-    "square": "assets/shirts/grid/monza-2026-27-home-front-square.jpg"
-  },
+  "photos": {},
   "sponsors": [
     {
       "sponsorId": "dazn-bet-club",
       "placement": "front",
       "source": {
         "name": "AC Monza",
-        "date": "2026-08-13",
-        "url": "https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey/",
-        "note": "Fixed dead link: page now lives at the trailing-slash URL (checked 26 Sep 2026). Date corrected to the article's published date, 13-08-2026."
+        "date": "2026-07-01",
+        "url": null,
+        "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey"
       }
     }
   ],

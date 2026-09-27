@@ -1,16 +1,11 @@
 {
   "id": "jetour",
   "name": "Jetour",
-  "ownerId": "chery-automobile",
-  "ownership": "owned",
+  "ownerId": null,
+  "ownership": null,
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [
-    "chery-state-shareholders"
-  ],
-  "aliases": [
-    "JETOUR"
-  ],
-  "note": "FIBA Partner or Global Supplier (the two FIBA pages disagree; see unsourced). Jetour is a brand of Chery Automobile Co., Ltd. (one of its marques per the HKEX prospectus), so it inherits Chery's minority local-government state holdings (about 34.5% combined post-IPO)."
+  "claimIds": [],
+  "aliases": []
 }

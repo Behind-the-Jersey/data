@@ -5,6 +5,7 @@
   ],
   "text": "Kaleida Health is a non-profit health system based in Buffalo, New York.",
   "source": {
+<<<<<<< HEAD
     "name": "Kaleida Health homepage",
     "date": "2026-09",
     "url": "https://www.kaleidahealth.org/",
@@ -13,6 +14,12 @@
       "on": "2026-09-26",
       "by": "source-audit-2026-09-26"
     }
+=======
+    "name": "Kaleida Health About Us",
+    "date": "2026-09-25",
+    "url": null,
+    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.kaleidahealth.org/about-us"
+>>>>>>> 7b60618 (Address review: restore migration fixes, drop tournaments-as-clubs, wire claims)
   },
   "reviewed": false
 }

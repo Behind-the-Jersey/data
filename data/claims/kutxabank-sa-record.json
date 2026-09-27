@@ -7,6 +7,7 @@
   "short": "Kutxabank S.A.",
   "source": {
     "name": "Kutxabank consolidated interim report 2024 (parent/ownership); El Correo - shareholder breakdown 57/32/11",
+<<<<<<< HEAD
     "date": "2025-07-05",
     "url": "https://cronicavasca.elespanol.com/empresas/20250705/bbk-mantiene-peso-dominante-kutxabank-ascenso-independientes/1003742670123_0.html",
     "quote": "A día de hoy, ese porcentaje de BBK se mantiene, mientras que el de Kutxa es de un 32% y el de Vital, en cambio, un 11%.",
@@ -14,6 +15,11 @@
       "on": "2026-09-26",
       "by": "source-audit-2026-09-26"
     }
+=======
+    "date": "2024-06-30",
+    "url": null,
+    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.kutxabank.eus/cs/Satellite?blobcol=urldata&blobheadername1=Expires&blobheadervalue4=inline%3B++filename%3D%22Inf+Semestral+KB+consol+30-06-2024_EN.PDF%22"
+>>>>>>> 7b60618 (Address review: restore migration fixes, drop tournaments-as-clubs, wire claims)
   },
   "reviewed": false
 }

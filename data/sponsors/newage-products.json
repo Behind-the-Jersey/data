@@ -3,6 +3,7 @@
   "name": "NewAge Products",
   "ownerId": "newage-products-owner",
   "ownership": "owned",
+<<<<<<< HEAD
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
@@ -10,3 +11,15 @@
   "aliases": [],
   "note": "Back to not rated yet (source audit, 2026-09-26): the only claim cited Fast Retailing's shareholder page, which is about another company, and no source links NewAge Products to Xinjiang cotton."
 }
+=======
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "NewAge Products Inc.",
+  "claimIds": [
+    "newage-products-owner-record",
+    "newage-products-2026"
+  ],
+  "aliases": [],
+  "note": "Rating note: NewAge Products is privately held (Toronto-based); no state stake. However, as a consumer goods manufacturer, its supply chain carries documented forced-labour exposure from Xinjiang cotton (per UFLPA detentions and Fast Retailing disclosures), triggering 'concern' on conduct grounds."
+}
+>>>>>>> 7b60618 (Address review: restore migration fixes, drop tournaments-as-clubs, wire claims)

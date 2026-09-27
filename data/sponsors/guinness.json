@@ -6,7 +6,9 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "diageo-plc-record"
+  ],
   "aliases": [
     "diageo"
   ]

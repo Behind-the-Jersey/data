@@ -6,7 +6,11 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "dp-world-tour-bahrain-record",
+    "bahrain-hrw-record",
+    "wec-bapco-bahrain-record"
+  ],
   "aliases": [
     "bapco"
   ],

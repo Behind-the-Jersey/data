@@ -5,6 +5,7 @@
   ],
   "text": "StockX is a privately held marketplace: per a company-issued 2019 press release, it closed a $110 million Series C funding round from DST Global, General Atlantic and GGV Capital (with existing investors GV and Battery Ventures participating), valuing StockX at over $1 billion. No state or state-fund investor is named among its backers.",
   "source": {
+<<<<<<< HEAD
     "name": "StockX (PR Newswire): Detroit-based StockX Closes $110M Series C Led by DST Global, General Atlantic and GGV Capital",
     "date": "2019-06-26",
     "url": "https://www.prnewswire.com/news-releases/detroit-based-stockx-closes-110m-series-c-led-by-dst-global-general-atlantic-and-ggv-capital-names-e-commerce-veteran-scott-cutler-ceo-300875188.html",
@@ -13,6 +14,12 @@
       "on": "2026-09-26",
       "by": "source-audit-2026-09-26"
     }
+=======
+    "name": "Bitget Wiki article on StockX ownership",
+    "date": "2026-09-24",
+    "url": null,
+    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://bitget.com/wiki/who-owns-stock-x"
+>>>>>>> 7b60618 (Address review: restore migration fixes, drop tournaments-as-clubs, wire claims)
   },
   "reviewed": false
 }
