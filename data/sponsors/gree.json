@@ -1,14 +1,14 @@
 {
   "id": "gree",
   "name": "Gree",
-  "ownerId": "gree-group-zhuhai-sasac",
+  "ownerId": "gree-electric",
   "ownership": "owned",
-  "tier": "concern",
+  "tier": "none",
   "status": "rated",
-  "verdict": "Gree Electric Appliances Inc.",
+  "verdict": "Listed with no controlling shareholder; the Zhuhai state's Gree Group holds 3.46%.",
   "claimIds": [
-    "gree-group-zhuhai-sasac-record"
+    "gree-no-controlling-shareholder"
   ],
   "aliases": [],
-  "note": "Rating note: Chinese appliance maker, so Xinjiang/forced-labour questions attach to the wider PRC SOE supply chain but no Gree-specific adverse finding was located: hence concern (partial state ownership) rather than serious. Owner type 'state' (municipal SASAC), country CN."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. The Zhuhai state sold control in 2019-2020 and holds 3.46%, under 5%, with no board seat."
 }

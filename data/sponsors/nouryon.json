@@ -5,10 +5,20 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
+  "verdict": "Jointly owned by Carlyle and GIC, Singapore’s state fund.",
   "claimIds": [
-    "carlyle-group-and-gic-record"
+    "carlyle-group-and-gic-record",
+    "singapore-drug-executions-2025"
   ],
   "aliases": [],
-  "note": "Rating note: Tiered 'concern' not 'serious' because GIC co-owns with private-equity capital rather than holding 100%. Nouryon does not publish an exact split; 'jointly owned' implies broadly equal stakes."
+  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): GIC is a named joint owner (share not published, no board seat); maintainers decided in September 2026 that Singapore's executions for drug offences count as a record.",
+  "why": {
+    "text": "Singapore’s state fund GIC owns Nouryon jointly with the private-equity firm Carlyle. Singapore carried out 17 executions in 2025, 15 of them for drug offences, and UN human rights experts have condemned its executions for drug offences as unlawful. So part of the money behind Nouryon is the Singapore state’s.",
+    "claimIds": [
+      "singapore-drug-executions-2025",
+      "carlyle-group-and-gic-record"
+    ],
+    "messageLine": "Singapore carried out 17 executions in 2025, 15 of them for drug offences.",
+    "status": "draft"
+  }
 }

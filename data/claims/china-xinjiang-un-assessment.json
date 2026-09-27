@@ -1,0 +1,31 @@
+{
+  "id": "china-xinjiang-un-assessment",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-china"
+  ],
+  "text": "The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. Human Rights Watch reported in August 2026 that hundreds of thousands of Uyghurs and other Turkic Muslims remain in prison.",
+  "source": {
+    "name": "UN OHCHR: OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region, People’s Republic of China",
+    "date": "2022-08-31",
+    "url": "https://www.ohchr.org/sites/default/files/documents/countries/2022-08-31/22-08-31-final-assesment.pdf",
+    "quote": "Serious human rights violations have been committed in XUAR in the context of the Government’s application of counter-terrorism and counter-“extremism” strategies.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "rating-review-2026-09-27"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Human Rights Watch: China: Decade of Impunity for Crimes Against Uyghurs",
+      "date": "2026-08-27",
+      "url": "https://www.hrw.org/news/2026/08/27/china-decade-of-impunity-for-crimes-against-uyghurs",
+      "quote": "Since then, although some of these camps appear to have closed, hundreds of thousands of Uyghurs and other Turkic Muslims remain in prison",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    }
+  ],
+  "reviewed": false
+}
