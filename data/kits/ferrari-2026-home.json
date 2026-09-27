@@ -14,7 +14,12 @@
       "source": {
         "name": "Ferrari – Ferrari and HP announce a title partnership",
         "date": "2024-04-24",
-        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-hp-announce-a-title-partnership-corporate"
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-hp-announce-a-title-partnership-corporate",
+        "quote": "Today, Ferrari and HP Inc. announced a historic, multi-year title partnership.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -22,19 +27,27 @@
       "placement": "front",
       "source": {
         "name": "Ferrari – Ferrari and Shell renew their partnership",
-        "date": "2026",
+        "date": "2024-10-23",
         "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-shell-renew-their-partnership",
-        "note": "date precision: year"
+        "quote": "This agreement, which will take effect on 1 January 2026, encompasses Scuderia Ferrari HP, Ferrari Hypercar, and the Ferrari Challenge Series.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "unicredit",
       "placement": "sleeve",
       "source": {
-        "name": "UniCredit – Scuderia Ferrari partnership",
-        "date": "2026",
-        "url": "https://www.unicreditgroup.eu/en/unicredit-at-a-glance/art-culture-sport/sport/scuderia-ferrari.html",
-        "note": "date precision: year"
+        "name": "Ferrari – Ferrari presents the brand new partnership with UniCredit",
+        "date": "2025-01-16",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-presents-the-brand-new-partnership-with-unicredit",
+        "quote": "further details of the multi-year premium partnership, that was first announced in September 2024, have been revealed",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -42,9 +55,41 @@
       "placement": "partner",
       "source": {
         "name": "Ferrari – Scuderia Ferrari HP announces a multi-year agreement with IBM as a Premium Partner",
-        "date": "2026",
+        "date": "2024-11-07",
         "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-agreement-with-ibm-as-a-premium-partner",
-        "note": "date precision: year"
+        "quote": "Scuderia Ferrari HP is pleased to announce a multi-year agreement with IBM, a leading provider of technology and consulting expertise, effective from January 1 2025.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "ceva",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP extends partnership with CEVA Logistics, which becomes a Premium Partner",
+        "date": "2025-11-18",
+        "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-extends-partnership-with-ceva-logistics-which-becomes-a-premium-partner",
+        "quote": "Scuderia Ferrari HP is pleased to announce the multi-year extension of its collaboration with CEVA Logistics, which becomes a Premium Partner of the team while continuing in its role as Official Logistics Provider. Starting in 2026",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "zyn",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP extends its partnership with Philip Morris International",
+        "date": "2025-12-03",
+        "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-philip-morris",
+        "quote": "PMI’s ZYN brand will appear on the Formula 1 car livery at a series of selected Grands Prix starting from this weekend’s Abu Dhabi race.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -52,18 +97,41 @@
       "placement": "partner",
       "source": {
         "name": "PUMA – Ferrari and PUMA announce long-term partnership extension",
-        "date": "2026",
+        "date": "2011-06-08",
         "url": "https://about.puma.com/en/newsroom/news/ferrari-and-puma-announce-long-term-partnership-extension",
-        "note": "date precision: year"
+        "quote": "PUMA, the global sport-lifestyle brand will continue to be the official licensing partner for Ferrari branded products and the official supplier of team and race wear for Scuderia Ferrari.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
-      "sponsorId": "ray-ban",
+      "sponsorId": "ambipar",
       "placement": "partner",
       "source": {
-        "name": "Ferrari – Scuderia Ferrari HP partners page",
+        "name": "Ferrari – Ambipar Team Partner page",
         "date": "2026-09-24",
-        "url": "https://www.ferrari.com/en-EN/formula1/partners"
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/ambipar",
+        "quote": "Ambipar is a global leader in environmental solutions and invests and operates decarbonization, circular economy, energy transition and environmental regeneration projects.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "bingx",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Ferrari signs a multi-year partnership agreement with BingX",
+        "date": "2025-10-31",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/FERRARI-signs-a-MULTI-YEAR-PARTNERSHIP-agreement--WITH-bingx",
+        "quote": "Under the terms of the agreement – signed today and taking effect on January 1, 2026 – BingX will become a Team Partner of Scuderia Ferrari HP.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -72,11 +140,142 @@
       "source": {
         "name": "Ferrari – Scuderia Ferrari HP partners page",
         "date": "2026-09-24",
-        "url": "https://www.ferrari.com/en-EN/formula1/partners"
+        "url": "https://www.ferrari.com/en-EN/formula1/partners",
+        "quote": "Scuderia Ferrari Partners",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "bitdefender",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Bitdefender Team Partner page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/bitdefender",
+        "quote": "Bitdefender provides cybersecurity solutions with leading security efficacy, performance, and ease of use to enterprise organizations and consumers.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "richard-mille",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Richard Mille Team Partner page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/richard-mille",
+        "quote": "Founded in 2001, RICHARD MILLE quickly established itself as one of the pre-eminent players within the watchmaking industry",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "genesys",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Genesys Team Partner page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/genesys",
+        "quote": "With the AI-Powered Experience Orchestration platform Genesys enables organizations to deliver the best customer and employee experiences.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "whoop",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – WHOOP Team Partner page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/whoop",
+        "quote": "Founded in 2012 and headquartered in Boston, WHOOP has raised more than $400 million in venture capital",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "dxc",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – DXC Technology Team Partner page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/dxc",
+        "quote": "DXC Technology helps global companies run their mission-critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "zcg",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – ZCG Team Partner page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/zcg",
+        "quote": "ZCG is a leading, privately held global firm comprised of three dynamic, cross-disciplinary platforms: private markets asset management, business consulting services, and technology development and solutions.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "ray-ban",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP partners page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners",
+        "quote": "Scuderia Ferrari Partners",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "chivas-regal",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP announces a multi-year partnership with Chivas Regal as Official Team Partner",
+        "date": "2024-11-14",
+        "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-partnership-with-chivas-regal-as-official-team-partner",
+        "quote": "Scuderia Ferrari HP is pleased to announce a new multi-year partnership with Chivas Regal, the luxury Scotch whisky, who becomes an Official Team Partner",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "omr-automotive",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – OMR Team Partner page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners/omr",
+        "quote": "The OMR Automotive Group, founded in 1919, is an Italian leader in automotive and industrial vehicle components.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "2026 car. H"
+  "summary": "2026 F1 car (SF-26): HP title partner on the front with Shell; UniCredit on the engine cover/sleeve; IBM, Puma, ZYN, CEVA, Ambipar, BingX, Peroni, Bitdefender, Richard Mille, Genesys, WHOOP, DXC, ZCG, Ray-Ban, Chivas Regal and OMR Automotive as partners. Pirelli is the league-wide tyre supplier."
 }
