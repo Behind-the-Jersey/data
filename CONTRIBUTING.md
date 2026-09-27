@@ -13,7 +13,7 @@ Thank you for helping. You can work by hand or with an AI agent. Either way the 
 
 Small fixes (a wrong date, a better source) can be made directly in the GitHub editor: open the record, edit it and choose "Create a new branch and start a pull request".
 
-**Using an agent?** Point it at [`agents/research.md`](agents/research.md). It explains the task, the format and the rules. Agents never push to `main` and never merge.
+**Using an agent?** Most agents read [`AGENTS.md`](AGENTS.md) by themselves; point yours at [`agents/research.md`](agents/research.md) for the task. Agents work only through pull requests: they never push to `main`, and never merge.
 
 ## The records
 
