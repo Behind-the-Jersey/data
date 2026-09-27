@@ -87,7 +87,7 @@ jobs:
             message is posted as the pull request comment exactly as you write it: start with
             "**Review agent:**", with nothing before it.
       # The review is a comment, and this check turns it into a signal: it fails when the agent found a
-      # source that doesn't hold up (❌ or "Needs changes"), or posted nothing.
+      # source that doesn't hold up (a ❌ row or "Needs changes"), or posted nothing.
       - name: Fail if the review found problems
         if: steps.collect.outputs.run == 'true'
         env:
@@ -95,11 +95,14 @@ jobs:
           PR: ${{ github.event.pull_request.number || github.event.issue.number }}
           SINCE: ${{ steps.collect.outputs.since }}
         run: |
+          # The agent sometimes writes a line before its review, so look for the heading anywhere.
           body=$(gh api "repos/$GITHUB_REPOSITORY/issues/$PR/comments?since=$SINCE&per_page=100" \
-            --jq '[.[] | select(.body | startswith("**Review agent:**"))] | last | .body // ""')
+            --jq '[.[] | select(.body | contains("**Review agent:**"))] | last | .body // ""')
           if [ -z "$body" ]; then echo "::error::The review agent didn't post a review."; exit 1; fi
-          printf '%s\n' "$body" | head -1
-          if printf '%s' "$body" | grep -q '❌' || printf '%s' "$body" | head -1 | grep -qi 'needs changes'; then
+          verdict=$(printf '%s\n' "$body" | grep -m1 -F '**Review agent:**')
+          echo "$verdict"
+          # A ❌ counts only in the table (one row per source), not where the text mentions the symbol.
+          if printf '%s\n' "$body" | grep -E '^[[:space:]]*\|' | grep -q '❌' || printf '%s' "$verdict" | grep -qi 'needs changes'; then
             echo "::error::The review agent found sources that don't hold up. See its comment on the pull request."
             exit 1
           fi
