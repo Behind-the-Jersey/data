@@ -1,0 +1,19 @@
+{
+  "id": "mizuno-corporation-no-parent",
+  "ownerIds": [
+    "mizuno-corporation"
+  ],
+  "text": "Mizuno Corporation's annual business report states, under 'Relationship with the parent company', that there is no applicable item — the company has no parent company.",
+  "short": "Mizuno Corporation has no parent company (business report: no parent-company relationship).",
+  "source": {
+    "name": "Mizuno Corporation - Notice of the 113th Ordinary General Meeting of Shareholders (business report, parent-company section)",
+    "date": "2026-05-29",
+    "url": "https://corp.mizuno.com/system/files/ir/2026-05/113th_Notice_of_the_Ordinary_General_Meeting_of_Shareholders.pdf",
+    "quote": "（1）親会社との関係 該当事項はありません。",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
