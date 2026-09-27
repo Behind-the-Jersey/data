@@ -8,7 +8,12 @@
   "source": {
     "name": "WWK insurer profile (WWK Lebensversicherung a.G. as mutual parent); WWK corporate history",
     "date": "2026",
-    "url": "https://boleron.eu/en/germany/insurer/wwk"
+    "url": "https://boleron.eu/en/germany/insurer/wwk",
+    "quote": "WWK Versicherungsgruppe is a German insurance group headquartered in Munich, consisting mainly of WWK Lebensversicherung a.G. (the mutual parent company), WWK Allgemeine Versicherung AG, WWK Pensionsfonds AG",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

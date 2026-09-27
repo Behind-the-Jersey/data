@@ -3,12 +3,16 @@
   "ownerIds": [
     "anthropic"
   ],
-  "text": "Claude is the product of Anthropic PBC, a Delaware public-benefit corporation that is privately held but minority-owned by Big Tech: court documents in the Google antitrust case put Alphabet at about 14% of Anthropic, with Amazon a further roughly 8%. Neither parent controls Anthropic, and there is no state stake. Human-rights relevance is compute and data-labour supply chain rather than ownership.",
-  "short": "Claude is the product of Anthropic PBC, a Delaware public-benefit corporation that is privately held but minority-owned by Big Tech: court documents in the Google….",
+  "text": "Claude is the product of Anthropic PBC, a company structured as a public benefit corporation. Court filings in the Google antitrust case, reviewed by the New York Times, show Alphabet (Google) owned about 14% of Anthropic as of March 2025 (capped at 15%, with no voting rights, board seats, or board-observer rights). The same reporting notes Amazon invested $4 billion in 2023 and a further $4 billion in 2024, but does not disclose a resulting ownership percentage for Amazon, and does not address Anthropic's state of incorporation or any state ownership.",
   "source": {
     "name": "The New York Times - 'Inside Google's Investment in Anthropic'",
     "date": "2025-03-11",
-    "url": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html"
+    "url": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html",
+    "quote": "Google owns 14 percent of Anthropic, according to legal filings that the A.I. start-up submitted as part of a Google antitrust case.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

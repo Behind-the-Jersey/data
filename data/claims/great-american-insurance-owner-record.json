@@ -8,7 +8,12 @@
   "source": {
     "name": "American Financial Group DEF 14A 2026",
     "date": "2026-04-03",
-    "url": "https://www.sec.gov/Archives/edgar/data/1042046/000114036126013118/ny20062510x1_def14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1042046/000114036126013118/ny20062510x1_def14a.htm",
+    "quote": "The Vanguard Group ... 8,187,402 8.7% BlackRock, Inc. ... 7,995,504 8.5% FMR, LLC ... 5,121,287 7.9%",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

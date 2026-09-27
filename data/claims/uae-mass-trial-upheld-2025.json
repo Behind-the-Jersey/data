@@ -10,7 +10,24 @@
   "source": {
     "name": "Human Rights Watch",
     "date": "2025-03-04",
-    "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld"
+    "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld",
+    "quote": "An Emirati court on March 4, 2025, rejected all appeals by people convicted in the United Arab Emirates’ second-largest unfair mass trial, upholding the unfair convictions and abusive sentences",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "The Associated Press, 'UAE Supreme Court upholds sentences issued in mass trial of dissidents widely criticized abroad' (read via The Republic News, a licensed AP wire republisher)",
+      "url": "https://www.therepublic.com/2025/03/04/uae-supreme-court-upholds-sentences-issued-in-mass-trial-of-dissidents-widely-criticized-abroad/",
+      "date": "2025-03-04",
+      "quote": "The United Arab Emirates’ Federal Supreme Court rejected appeals Tuesday on behalf of dozens of dissidents convicted in a mass trial that faced widespread international criticism.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

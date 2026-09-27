@@ -3,12 +3,28 @@
   "ownerIds": [
     "adidas-ag"
   ],
-  "text": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100% of shares, of which institutional investors hold 79%, retail and undisclosed holdings 20% and treasury 1%, and no single shareholder controls it. There is no state stake. The human-rights relevance sits in the supply chain, not the cap table: adidas cotton sourcing carries a documented forced-labour exposure in Xinjiang, where Xinjiang cotton was still detectable in adidas garments after the company's assurances. Tier is set to concern on that supply-chain record rather than on ownership.",
-  "short": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+  "text": "In May 2022, isotope tests by the Agroisolab laboratory and Hochschule Niederrhein, reported by German public broadcaster NDR, found cotton from Xinjiang in adidas garments, although adidas had said it would not use cotton from the region, where cotton carries a risk of forced labour.",
   "source": {
-    "name": "adidas AG Annual Report 2025 - 'Our Share'",
-    "date": "2025-12-31",
-    "url": "https://report.adidas-group.com/2025/en/to-our-shareholders/our-share.html"
+    "name": "Sourcing Journal (WWD): Xinjiang Cotton Detected in Adidas, Hugo Boss and Puma Garments",
+    "date": "2022-05-09",
+    "url": "https://wwd.com/sourcing-journal/industry-news/adidas-puma-hugo-boss-xinjiang-cotton-forced-labor-uyghur-agroisolab-isotope-1238795481/",
+    "quote": "Scientists say they have discovered traces of Xinjiang cotton in garments from Adidas, Hugo Boss and Puma despite the brands promising to no longer source materials or products",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "European Center for Constitutional and Human Rights (ECCHR): Adidas, Hugo Boss, Puma and Co.: Sourcing cotton produced with forced labor?",
+      "date": "2022-05-05",
+      "url": "https://www.ecchr.eu/en/press-release/cotton-xingjang-forced-labor/",
+      "quote": "In garments from Adidas, Hugo Boss, Puma, Jack Wolfskin and Tom Tailor, cotton was identified that, according to the available findings, originated from the Xinjiang region in western China.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

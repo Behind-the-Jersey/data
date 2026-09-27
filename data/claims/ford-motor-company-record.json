@@ -8,7 +8,12 @@
   "source": {
     "name": "Ford Motor Company DEF 14A proxy statement (SEC)",
     "date": "2026-03",
-    "url": "https://www.sec.gov/Archives/edgar/data/37996/000155278126000164/e26003_f-def14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/37996/000155278126000164/e26003_f-def14a.htm",
+    "quote": "the Company has two classes of voting stock, consisting of common stock (representing 60% of the voting power), and Class B Stock (representing 40% of the voting power)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

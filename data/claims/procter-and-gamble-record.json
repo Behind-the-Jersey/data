@@ -3,12 +3,16 @@
   "ownerIds": [
     "procter-and-gamble"
   ],
-  "text": "Gillette, the New England Revolution front sponsor, is a P&G brand - listed on P&G's own brand pages under Grooming. P&G (NYSE: PG) is a widely held listed consumer-goods major with no controlling shareholder and no state stake. Human-rights relevance: large consumer supply chains (palm oil, contract manufacturing), but nothing that lifts it above 'none'.",
-  "short": "Gillette, the New England Revolution front sponsor, is a P&G brand - listed on P&G's own brand pages under Grooming.",
+  "text": "Gillette's ultimate parent, The Procter & Gamble Company (NYSE: PG), is widely held: per its 2026 proxy statement, its only disclosed 5%+ holders are The Vanguard Group (7.52%) and BlackRock, Inc. (6.70%), with no controlling or state shareholder identified.",
   "source": {
-    "name": "Procter & Gamble - brands index (Gillette under Grooming)",
-    "date": "2026",
-    "url": "https://us.pg.com/brands/"
+    "name": "The Procter & Gamble Company DEF 14A 2026 Proxy Statement (SEC EDGAR)",
+    "date": "2026-08-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000080424/000119312526372211/pg-20260826.htm",
+    "quote": "The following table shows all entities that are the beneficial owners of more than 5% of any class of the Company's voting securities",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

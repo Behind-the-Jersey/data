@@ -6,10 +6,26 @@
   ],
   "text": "Saudi Arabia carried out a record 345 executions in 2024.",
   "source": {
-    "name": "Amnesty International",
-    "date": "2025",
-    "url": null,
-    "note": "Death Sentences and Executions 2024. Link removed 2026-09-25 (404 on 2026-09-25): https://www.amnesty.org/en/documents/act50/8800/2025/en/"
+    "name": "Amnesty International: Death Sentences and Executions 2024 (ACT 50/8976/2025)",
+    "date": "2025-04-08",
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2025/05/ACT5089762025ENGLISH.pdf",
+    "quote": "Saudi Arabia doubled their resort to executions (at least 345) compared to the previous year (172), marking the highest number of executions in any given year on record",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Human Rights Watch: Saudi Arabia: Record Number of Executions in 2025",
+      "date": "2026-01-13",
+      "url": "https://www.hrw.org/news/2026/01/13/saudi-arabia-record-number-of-executions-in-2025",
+      "quote": "This is the second year in a row that Saudi authorities have set a new execution record, with 345 registered in 2024.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

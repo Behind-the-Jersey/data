@@ -3,12 +3,16 @@
   "ownerIds": [
     "komatsu-ltd"
   ],
-  "text": "Komatsu is a Tokyo-listed (TSE Prime: 6301) construction and mining equipment maker whose major shareholders are Japanese trust banks and institutions - no state shareholder.",
-  "short": "Komatsu is a Tokyo-listed (TSE Prime: 6301) construction and mining equipment maker whose major shareholders are Japanese trust banks and institutions - no state….",
+  "text": "Komatsu Ltd.'s major shareholders, per its own shareholder-information sheet (as of 30 September 2025), are Japanese trust banks and institutions led by 'The Master Trust Bank of Japan, Ltd. (Trust Account)' (18.02%) and Custody Bank of Japan (7.15%), plus State Street entities, Nippon Life Insurance and JPMorgan entities; no state or sovereign shareholder is listed.",
   "source": {
-    "name": "Komatsu Ltd. - share information / major shareholders",
-    "date": "2026-09-24",
-    "url": "https://www.komatsu.jp/en/-/media/home/ir/shareholder/stockinfo/share_holder_en.pdf"
+    "name": "Komatsu Ltd., Stock/Shareholder Information",
+    "date": "2025-09-30",
+    "url": "https://www.komatsu.jp/en/-/media/home/ir/shareholder/stockinfo/share_holder_en.pdf",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

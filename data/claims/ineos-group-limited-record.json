@@ -3,12 +3,16 @@
   "ownerIds": [
     "ineos-group-limited"
   ],
-  "text": "INEOS, the Mercedes F1 partner and one-third team shareholder, states it is privately owned; it was founded and is chaired by Sir Jim Ratcliffe, who holds the large majority of the equity with Andy Currie and John Reece as minority shareholders. No state stake at all. Human-rights relevance: as a petrochemicals producer it carries a documented pollution/permitting record (Grangemouth and European crackers), but ownership is clean private money.",
-  "short": "INEOS, the Mercedes F1 partner and one-third team shareholder, states it is privately owned; it was founded and is chaired by Sir Jim Ratcliffe, who holds the….",
+  "text": "INEOS Group Limited is privately owned. Per its own website, it is led by founder and Chairman Sir Jim Ratcliffe and co-owners Andy Currie and John Reece.",
   "source": {
-    "name": "INEOS - About (privately owned; Chairman Sir Jim Ratcliffe)",
+    "name": "INEOS Group: 'About'",
     "date": "2026",
-    "url": "https://www.ineos.com/about/"
+    "url": "https://www.ineos.com/about/",
+    "quote": "INEOS is led by its founder and Chairman Sir Jim Ratcliffe and co-owners Andy Currie and John Reece.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -1,0 +1,30 @@
+{
+  "id": "aramco-state-ownership",
+  "ownerIds": [
+    "saudi-aramco"
+  ],
+  "text": "The Saudi government directly holds about 81.5% of Aramco, and the Public Investment Fund (PIF) holds a further 16%.",
+  "source": {
+    "name": "Saudi Aramco: Annual Report 2025, Organizational structure and corporate governance (shareholding structure)",
+    "date": "2026-03",
+    "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-governance-english.pdf",
+    "quote": "Following these transactions, the Government continues to remain the Company’s largest shareholder, holding an 81.48% direct shareholding.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Arab Gulf States Institute in Washington (AGSI): Aramco and the Saudi Government Budget",
+      "date": "2025-07-02",
+      "url": "https://agsi.org/analysis/aramco-and-the-saudi-government-budget/",
+      "quote": "the government’s stake in Aramco, and hence its share of the dividends paid, has declined to 81.5% from 100% before the 2019 IPO",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

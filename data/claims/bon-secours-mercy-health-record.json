@@ -3,12 +3,16 @@
   "ownerIds": [
     "bon-secours-mercy-health"
   ],
-  "text": "The FC Cincinnati front sponsor is Mercy Health, the Ohio and Kentucky ministry whose own site describes it as one ministry of Catholic healthcare across those states and part of what became Bon Secours Mercy Health in the 2018 merger of the two systems. It is a not-for-profit, so there is no shareholder owner and no state stake. Human-rights relevance: Catholic healthcare ethics and US hospital labour, nothing state-linked.",
-  "short": "The FC Cincinnati front sponsor is Mercy Health, the Ohio and Kentucky ministry whose own site describes it as one ministry of Catholic healthcare across those….",
+  "text": "Mercy Health describes itself on its About Us page as 'one ministry' serving regions of Ohio and Kentucky, with a mission to 'extend the compassionate ministry of Jesus.' This page does not itself identify the organization as Catholic, does not mention Bon Secours Mercy Health or a 2018 merger, and does not state its nonprofit/tax status — those specific claims are not supported by this source and would need a different page or source to confirm.",
   "source": {
-    "name": "Mercy Health (Ohio and Kentucky) - About us",
+    "name": "Mercy Health: Why Mercy | About Us",
     "date": "2026",
-    "url": "https://www.mercy.com/about-us/"
+    "url": "https://www.mercy.com/about-us/",
+    "quote": "We are one ministry serving eight regions in Ohio and Kentucky, pursuing one Mission to improve the health of our communities.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

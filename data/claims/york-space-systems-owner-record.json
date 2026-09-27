@@ -3,12 +3,16 @@
   "ownerIds": [
     "york-space-systems-owner"
   ],
-  "text": "York Space Systems, Inc. is owned by York Space Systems. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "York Space Systems, Inc.",
+  "text": "York Space Systems Inc. (NYSE: YSS), recently IPO'd, is a NYSE \"controlled company\" majority-controlled by private equity sponsor AE Industrial Partners; no state shareholder is identified.",
   "source": {
     "name": "York Space Systems Inc. 10-K 2026 (SEC)",
     "date": "2026-03-20",
-    "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026019923/yorkspacesystemsinc10-k.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026019923/yorkspacesystemsinc10-k.htm",
+    "quote": "Following our IPO in late January 2026, AE Industrial Partners controls, through share ownership and contractual arrangements, a majority of the voting power of our outstanding voting stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

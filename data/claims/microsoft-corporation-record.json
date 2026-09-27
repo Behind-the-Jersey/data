@@ -3,12 +3,16 @@
   "ownerIds": [
     "microsoft-corporation"
   ],
-  "text": "Microsoft Corporation is a US Nasdaq-listed software company with dispersed public shareholders and no state owner.",
-  "short": "Microsoft Corporation is a Nasdaq-listed software company.",
+  "text": "Microsoft Corporation is listed on Nasdaq; per its own 2025 proxy statement, its largest disclosed shareholders are The Vanguard Group, Inc. (8.95%) and BlackRock, Inc. (7.30%). No state or sovereign-fund holder is listed among them.",
   "source": {
-    "name": "Microsoft, about",
-    "date": "2026",
-    "url": "https://www.microsoft.com/en-us/about"
+    "name": "Microsoft Corporation, 2025 Proxy Statement (DEF 14A)",
+    "date": "2025-10-21",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525245150/d908201ddef14a.htm",
+    "quote": "This table lists all entities that are the beneficial owner of more than 5% of Microsoft common stock.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

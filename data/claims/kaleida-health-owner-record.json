@@ -3,13 +3,16 @@
   "ownerIds": [
     "kaleida-health-owner"
   ],
-  "text": "Kaleida Health is the ultimate owner of Kaleida Health.",
-  "short": "Kaleida Health is the ultimate owner of Kaleida Health.",
+  "text": "Kaleida Health is a non-profit health system based in Buffalo, New York.",
   "source": {
-    "name": "Kaleida Health About Us",
-    "date": "2026-09-25",
-    "url": null,
-    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.kaleidahealth.org/about-us"
+    "name": "Kaleida Health homepage",
+    "date": "2026-09",
+    "url": "https://www.kaleidahealth.org/",
+    "quote": "As a non-profit, many of the crucial life-saving programs, research, education, state-of-the-art equipment and charity care are only possible because of people like you.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "avnet-owner"
   ],
-  "text": "Avnet Inc. is a NYSE-listed electronics distributor with dispersed institutional ownership (Vanguard and BlackRock each under 10%) and no state shareholder.",
-  "short": "Avnet Inc.",
+  "text": "Avnet Inc. trades on the Nasdaq Global Select Market and has dispersed institutional ownership: its disclosed 5%+ holders are The Vanguard Group (12.61%), BlackRock (9.5%), Pzena Investment Management (8.5%) and Dimensional Fund Advisors (6.9%), with no state shareholder identified.",
   "source": {
-    "name": "Avnet DEF 14A 2025",
+    "name": "Avnet, Inc. DEF 14A 2025 Proxy Statement (SEC EDGAR)",
     "date": "2025-10-07",
-    "url": "https://www.sec.gov/Archives/edgar/data/8858/000110465925097498/tm2516396-1_def14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/8858/000110465925097498/tm2516396-1_def14a.htm",
+    "quote": "This table describes the beneficial ownership of the Company's Common Stock for persons that, to the Company's knowledge, beneficially own more than 5% of the Company's Common Stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -8,7 +8,12 @@
   "source": {
     "name": "SEC Form 20-F for Anheuser-Busch InBev SA/NV",
     "date": "2026-03-03",
-    "url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526088105/d65314d20f.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526088105/d65314d20f.htm",
+    "quote": "We are a publicly traded company, with our primary listing on Euronext Brussels under the symbol \"ABI.\"",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

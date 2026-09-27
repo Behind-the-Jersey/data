@@ -3,12 +3,28 @@
   "ownerIds": [
     "kia-america-owner"
   ],
-  "text": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%) and no state ownership; Hyundai Motor Company is a privately held conglomerate.",
-  "short": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%) and no state ownership; Hyundai Motor Company is a privately….",
+  "text": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%); Hyundai Motor Company is itself a KRX-listed public company within the Hyundai Motor Group.",
   "source": {
     "name": "Kia Corporation Investor Relations page",
     "date": "2026-09-24",
-    "url": "http://worldwide.kia.com/en/company/sustainability/governance/shareholders"
+    "url": "http://worldwide.kia.com/en/company/sustainability/governance/shareholders",
+    "quote": "Hyundai Motor Company Largest shareholder Common 137,318,251 35.17%",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Hyundai Motor Company and Its Subsidiaries, Consolidated Financial Statements for the year ended December 31, 2025 (Independent Auditor's Report)",
+      "url": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/investor-relations/financial-Information/report-en/2025/2025-q4-consolidated-audit-report-en.pdf",
+      "date": "2026-03-04",
+      "quote": "Kia Corporation Manufacturing Korea 35.17 21,535,958",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

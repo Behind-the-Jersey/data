@@ -3,12 +3,16 @@
   "ownerIds": [
     "extreme-networks-inc"
   ],
-  "text": "Extreme Networks, Inc. (Nasdaq: EXTR) is the Audi Revolut F1 Team partner: a US networking vendor listed on Nasdaq with dispersed institutional ownership and no parent company, family control or state stake. Human-rights relevance is limited to ordinary supply-chain and hardware-sourcing exposure.",
-  "short": "Extreme Networks, Inc.",
+  "text": "Extreme Networks, Inc.'s disclosed holders of more than 5% of its shares are BlackRock (13.9%) and two Vanguard entities (10.2% and 5.1%).",
   "source": {
-    "name": "Extreme Networks Investor Relations - corporate overview",
-    "date": "2026-09-25",
-    "url": "https://investor.extremenetworks.com/"
+    "name": "Extreme Networks, Inc.: 2026 proxy statement (DEF 14A), SEC EDGAR",
+    "date": "2026-09-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1078271/000119312526395545/extr-20260918.htm",
+    "quote": "5% Owners: BlackRock Inc. (7) 18,313,975 13.9 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

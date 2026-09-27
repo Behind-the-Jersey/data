@@ -7,9 +7,26 @@
   "short": "3,000–4,000 Rwandan troops fighting alongside M23 in eastern Congo",
   "source": {
     "name": "UN Group of Experts on the DR Congo, final report",
-    "date": "2024",
+    "date": "2024-06-04",
     "url": "https://docs.un.org/en/S/2024/432",
-    "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
+    "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432.",
+    "quote": "A conservative estimate of 3,000 to 4,000 RDF troops were deployed in Nyiragongo, Rutshuru and Masisi territories at the time of drafting.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "The Associated Press (Edith M. Lederer), ‘UN experts: Between 3,000 and 4,000 Rwandan troops are in Congo operating with the M23 rebel group’ (republished by The Canadian Press)",
+      "url": "https://www.thecanadianpressnews.ca/world/un-experts-between-3-000-and-4-000-rwandan-troops-are-in-congo-operating-with/article_899fc0f9-4058-5458-8c1f-4627af947970.html",
+      "date": "2024-07-10",
+      "quote": "Between 3,000 and 4,000 Rwanda government forces are deployed in neighboring eastern Congo, operating alongside the M23 rebel group which has been making major advances, U.N. experts said",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "siemens-ag"
   ],
-  "text": "Siemens AG is a Frankfurt-listed industrial group (MDAX/DAX-scale, Siemens family a long-standing minority holder) with no state shareholder. The Siemens family holding is personal and the rest is free float, so the Red Bull partnership is private corporate money. Human-rights exposure attaches to Siemens' own conduct and supply chains rather than any state owner.",
-  "short": "Siemens AG is a Frankfurt-listed industrial group (MDAX/DAX-scale, Siemens family a long-standing minority holder) with no state shareholder.",
+  "text": "Siemens AG is a Frankfurt-listed industrial group. Per its own Siemens Report for fiscal 2025, 'The von Siemens-Vermögensverwaltung GmbH (vSV) has, on a sustained basis, powers of attorney allowing it to exercise the voting rights for 9,487,101 Siemens shares (as of September 30, 2025) on behalf of members of the Siemens family' -- about 1.2% of the roughly 800 million shares outstanding. No state shareholder is named in the report.",
   "source": {
-    "name": "Siemens AG, Siemens Report 2025",
+    "name": "Siemens AG, Siemens Report fiscal 2025",
     "date": "2025-12",
-    "url": "https://www.siemens.com/siemensreport"
+    "url": "https://www.siemens.com/siemensreport",
+    "quote": "The von Siemens-Vermögensverwaltung GmbH (vSV) has, on a sustained basis, powers of attorney allowing it to exercise the voting rights for 9,487,101 Siemens shares",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "dream-finders-homes-owner"
   ],
-  "text": "Dream Finders Homes, Inc. is a publicly traded homebuilder with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
-  "short": "Dream Finders Homes, Inc.",
+  "text": "Dream Finders Homes, Inc. is a NYSE 'controlled company': founder, CEO and Chairman Patrick Zalupski holds more than a majority of voting power through super-voting Class B shares, representing 84.4% of combined voting power. Among its Class A 5%+ holders, Kayne Anderson (13.0%) and BlackRock (12.8%) are the largest; no state shareholder is identified.",
   "source": {
-    "name": "Dream Finders Homes DEF 14A 2026",
+    "name": "Dream Finders Homes, Inc. DEF 14A 2026 Proxy Statement (SEC EDGAR)",
     "date": "2026-04-16",
-    "url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026025557/dfh-20260416.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026025557/dfh-20260416.htm",
+    "quote": "Mr. Zalupski, our President, CEO and Chairman of the Board, holds more than a majority of the voting power of our common stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

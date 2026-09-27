@@ -3,12 +3,16 @@
   "ownerIds": [
     "honda-motor-co-ltd"
   ],
-  "text": "The Aston Martin F1 front branding is Honda / Honda Racing Corporation, a division of Honda Motor Co., Ltd., the Tokyo- and NYSE-listed automaker and motorcycle maker. Honda has no parent company: its annual report filing shows dispersed ownership dominated by Japanese trust banks and insurers (Mitsubishi UFJ Trust / Master Trust Bank of Japan vehicles). No state stake; relevance is automotive supply chains.",
-  "short": "The Aston Martin F1 front branding is Honda / Honda Racing Corporation, a division of Honda Motor Co., Ltd., the Tokyo- and NYSE-listed automaker and motorcycle….",
+  "text": "Honda Motor Co., Ltd. is Tokyo- and NYSE-listed. Per its FY2026 Form 20-F, Honda states it 'is not directly or indirectly owned or controlled by any other corporation, by any government, or by any other natural or legal person'; its disclosed 5%+ holders are trust-bank nominees The Master Trust Bank of Japan (17.5%) and Custody Bank of Japan (7.1%), ADS nominee Moxley & Co. (5.7%), and BlackRock (6.1%, per a separate Schedule 13G).",
   "source": {
-    "name": "Honda Motor Co., Ltd. Form 20-F (SEC)",
+    "name": "Honda Motor Co., Ltd. Form 20-F for the fiscal year ended March 31, 2026 (SEC EDGAR)",
     "date": "2026-06-18",
-    "url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526274991/d116494d20f.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526274991/d116494d20f.htm",
+    "quote": "To the knowledge of Honda, it is not directly or indirectly owned or controlled by any other corporation, by any government, or by any other natural or legal person",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

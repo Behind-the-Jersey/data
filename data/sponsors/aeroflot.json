@@ -7,14 +7,18 @@
   "status": "rated",
   "verdict": "PJSC Aeroflot is majority state-owned: the Russian Federation is the controlling shareholder of approximately 73.8% of shares.",
   "claimIds": [
-    "russian-federation-record"
+    "russian-federation-record",
+    "aeroflot-state-stake",
+    "aeroflot-sanctions-2022"
   ],
   "aliases": [],
   "note": "Rating note: Severe because the state owner is directly tied to an ongoing armed conflict. Russia planned to sell ~23.76% of its stake (Interfax, 2026), which would cut the state to ~50% but keep control. Sanctions context: https://www.consilium.europa.eu/en/policies/sanctions-against-russia-explained/.",
   "why": {
-    "text": "The Russian state owns about 74% of Aeroflot. Russia is fighting the war in Ukraine, and Aeroflot and its state owner have been under EU and US sanctions since 2022. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "The Russian state owns about 74% of Aeroflot. Russia has been at war with Ukraine since its full-scale invasion in February 2022, and after Western countries imposed sanctions over the invasion, Aeroflot stopped almost all its international flights. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
-      "russian-federation-record"
+      "russian-federation-record",
+      "aeroflot-state-stake",
+      "aeroflot-sanctions-2022"
     ],
     "messageLine": "Russia is fighting the war in Ukraine, and Aeroflot has been under EU and US sanctions since 2022.",
     "status": "draft"

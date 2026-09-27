@@ -1,0 +1,30 @@
+{
+  "id": "eni-plenitude-stake",
+  "ownerIds": [
+    "eni"
+  ],
+  "text": "In March 2026 Eni announced a reorganisation of Plenitude's shareholding after which Eni expects to hold close to 65% of Plenitude and share control with Ares, an existing shareholder.",
+  "source": {
+    "name": "Eni S.p.A.: Eni deconsolidates Plenitude through a shareholding reorganization and a new governance structure",
+    "date": "2026-03-19",
+    "url": "https://www.eni.com/en-IT/media/press-release/2026/03/eni-deconsolidates-plenitude-through-shareholding-reorganization.html",
+    "quote": "Following the capital increase, Eni anticipates holding an equity stake of close to 65%, and expects to continue exercising direction and coordination rights over Plenitude",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Il Sole 24 ORE (Celestina Dominelli, English edition): Eni deconsolidates Plenitude: start of 1.5 billion capital increase. Joint control with Ares",
+      "date": "2026-03-19",
+      "url": "https://en.ilsole24ore.com/art/eni-deconsolidates-plenitude-via-capital-increase-15-billion-joint-control-ares-AIOdJp2B",
+      "quote": "Once the new injection of resources has been made, Eni will hold a stake of close to 65% of the share capital",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

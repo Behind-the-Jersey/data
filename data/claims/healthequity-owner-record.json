@@ -3,12 +3,16 @@
   "ownerIds": [
     "healthequity-owner"
   ],
-  "text": "HealthEquity, Inc. is a publicly traded company listed on the NASDAQ under ticker HQY.",
-  "short": "HealthEquity, Inc.",
+  "text": "HealthEquity, Inc. is a publicly traded company whose common stock is listed on the NASDAQ Global Select Market.",
   "source": {
     "name": "SEC DEF 14A for HealthEquity, Inc.",
     "date": "2026-05-13",
-    "url": "https://www.sec.gov/Archives/edgar/data/1428336/000142833626000022/hqy-20260513.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1428336/000142833626000022/hqy-20260513.htm",
+    "quote": "Our common stock is listed on the NASDAQ Global Select Market.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -3,13 +3,16 @@
   "ownerIds": [
     "amica-mutual-insurance-owner"
   ],
-  "text": "Amica Mutual Insurance Company is the ultimate owner of Amica Mutual Insurance.",
-  "short": "Amica Mutual Insurance Company is the ultimate owner of Amica Mutual Insurance.",
+  "text": "Amica Mutual Insurance Company is a mutual insurer: per its own website, it is 'owned by our policyholders,' with no separate parent company or shareholder owner.",
   "source": {
-    "name": "Amica Mutual Insurance Company About Us",
-    "date": "2026-09-25",
-    "url": null,
-    "note": "Link removed 2026-09-25 (the domain doesn't exist): https://www.amicamutualinsurancecompany.com/about-us"
+    "name": "Amica Insurance: Our Company",
+    "date": "2026-09",
+    "url": "https://www.amica.com/en/about-us.html",
+    "quote": "Since we're owned by our policyholders, we make decisions with them in mind.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

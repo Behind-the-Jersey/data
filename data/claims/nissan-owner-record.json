@@ -3,12 +3,28 @@
   "ownerIds": [
     "nissan-owner"
   ],
-  "text": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state interest of approximately 2.25% in Nissan.",
-  "short": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state….",
+  "text": "The French State holds 15.01% of Renault's share capital, and Renault holds about 36% of Nissan, including about 19% held through a French trust.",
   "source": {
-    "name": "Nissan News Release",
-    "date": "2010-01-30",
-    "url": "https://global.nissannews.com/en/releases/011030-01"
+    "name": "Renault Group: 2025 Universal Registration Document",
+    "date": "2026-03-31",
+    "url": "https://assets.renaultgroup.com/uploads/2026/03/URD_2025_Comp_202603310753.pdf",
+    "quote": "the French State held 15.01% of the share capital, corresponding to 21.92% of theoretical voting rights and 22.24% of exercisable voting rights in Renault",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "French Government, Agence des participations de l'État: Rapport relatif à l'État actionnaire (annex to the 2026 budget bill), Renault page",
+      "date": "2025-10-21",
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "quote": "L’entreprise détient directement 17,1 % du constructeur japonais Nissan et 18,8 % via une fiducie, ces titres ayant vocation à être vendus.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

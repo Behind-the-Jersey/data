@@ -3,12 +3,28 @@
   "ownerIds": [
     "capital-one-owner"
   ],
-  "text": "Capital One Financial Corp. is the ultimate owner of Capital One.",
-  "short": "Capital One Financial Corp.",
+  "text": "Capital One Financial Corporation, a holding company based in McLean, Virginia, owns the national bank Capital One, National Association.",
   "source": {
-    "name": "Capital One Financial Corp. Investor Relations",
-    "date": "2026-09-25",
-    "url": "https://investor.capitalone.com"
+    "name": "Capital One Financial Corporation: Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-02-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/927628/000092762826000024/cof-20251231.htm",
+    "quote": "As of December 31, 2025, Capital One Financial Corporation’s principal operating subsidiary was Capital One, National Association (“CONA”).",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Federal Reserve Board: Order approving Capital One Financial Corporation's acquisition of Discover Financial Services (FRB Order No. 2025-10)",
+      "date": "2025-04-18",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20250418a2.pdf",
+      "quote": "Discover Bank would be merged with and into Capital One’s national bank subsidiary, Capital One, National Association (“CONA”), McLean, Virginia",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

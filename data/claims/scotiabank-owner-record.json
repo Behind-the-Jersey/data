@@ -3,12 +3,16 @@
   "ownerIds": [
     "scotiabank-owner"
   ],
-  "text": "The Bank of Nova Scotia is owned by Scotiabank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "The Bank of Nova Scotia is owned by Scotiabank.",
+  "text": "The Bank of Nova Scotia (which operates and trades under the brand name Scotiabank -- they are the same legal entity, not parent and subsidiary) is a publicly listed bank (TSX/NYSE) with no state shareholder identified; ownership sits with public institutional and retail investors.",
   "source": {
     "name": "Scotiabank Annual Report 2025",
-    "date": "2025-12-31",
-    "url": "https://gbm.scotiabank.com/content/dam/scotiabank/corporate/quarterly-reports/2025/q4/Annual_Report_2025_EN.pdf"
+    "date": "2025-12",
+    "url": "https://gbm.scotiabank.com/content/dam/scotiabank/corporate/quarterly-reports/2025/q4/Annual_Report_2025_EN.pdf",
+    "quote": "The common shares of the Bank are listed on the Toronto Stock Exchange (TSX) and the New York Stock Exchange.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

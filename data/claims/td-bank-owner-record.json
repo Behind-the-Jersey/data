@@ -3,12 +3,16 @@
   "ownerIds": [
     "td-bank-owner"
   ],
-  "text": "TD Bank Group is owned by TD Bank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "TD Bank Group is owned by TD Bank.",
+  "text": "The Toronto-Dominion Bank is a Canadian Schedule I chartered bank. Its own Annual Information Form states that Canada's Bank Act bars the registration or voting of any bank share beneficially owned by the Canadian Crown or a foreign government, and caps any other single shareholder's stake at 10% of a class without Finance Minister approval.",
   "source": {
-    "name": "TD Bank Group Proxy Circular 2026",
-    "date": "2026-03-??",
-    "url": "https://www.td.com/content/dam/tdcom/canada/about-td/pdf/2026-proxy-circular-en.pdf"
+    "name": "The Toronto-Dominion Bank Annual Information Form (December 4, 2024), 'Constraints'",
+    "date": "2024-12-04",
+    "url": "https://www.rns-pdf.londonstockexchange.com/rns/5867S_2-2025-7-25.pdf",
+    "quote": "the exercise in person or by proxy of any voting rights attached to any share of a bank that is beneficially owned by, Her Majesty in right of Canada",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

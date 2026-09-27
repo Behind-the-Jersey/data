@@ -8,7 +8,24 @@
   "source": {
     "name": "Legend Holdings Corporation Annual Report 2023 (HKEX filing) - shareholding table and substantial-shareholder definitions",
     "date": "2024-04-25",
-    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0425/2024042500436.pdf"
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0425/2024042500436.pdf",
+    "quote": "As of December 31, 2023, Legend Holdings held a 31.44% equity interest in Lenovo, directly and indirectly.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "U.S. House Select Committee on the Chinese Communist Party, letter from Chairman Mike Gallagher to Navy Exchange Service Command CEO Robert J. Bianchi",
+      "url": "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/10.04.2023-letter-to-navy-exchange.pdf",
+      "date": "2023-10-04",
+      "quote": "the largest shareholder of Lenovo is Legend Holdings, a Chinese entity whose largest shareholder is the Chinese Academy of Sciences.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

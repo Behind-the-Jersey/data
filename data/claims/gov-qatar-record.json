@@ -3,12 +3,28 @@
   "ownerIds": [
     "government-of-qatar"
   ],
-  "text": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026. Qatar's documented record: migrant workers still exposed to exploitation despite kafala reform, and expression and assembly tightly restricted.",
-  "short": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
+  "text": "Qatar's documented record: migrant workers still exposed to exploitation despite kafala reform, and expression and assembly tightly restricted. (The Visit Qatar/F1 sponsorship fact needs its own citation — it isn't covered by this human-rights source.)",
   "source": {
     "name": "Amnesty International - Human rights in Qatar (country report)",
-    "date": "2026-01-15",
-    "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+    "date": "2026",
+    "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/qatar/report-qatar/",
+    "quote": "Migrant workers remained vulnerable to labour abuses and exploitation despite recent reforms. Freedom of expression and peaceful assembly continued to be tightly restricted.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Human Rights Watch, 'World Report 2026: Qatar'",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/qatar",
+      "date": "2026-02-04",
+      "quote": "Migrant workers comprise over 91 percent of Qatar’s population and continue to face widespread abuse under the country’s restrictive kafala (labor sponsorship) system.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

@@ -3,12 +3,28 @@
   "ownerIds": [
     "hyundai-motor-group"
   ],
-  "text": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai Mobis as the largest shareholder at 22.36% and the Korean National Pension Service, the country's statutory public pension fund, as the largest outside shareholder at 7.76%, with the register noting that no government institution holds a golden share.",
-  "short": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
+  "text": "South Korea's National Pension Service held about 7.8% of Hyundai Motor Company's shares at the end of 2025.",
   "source": {
-    "name": "Hyundai Motor Company, 2026 Sustainability Report (FY2025), p.123 Shareholder Composition",
-    "date": "2026-06-01",
-    "url": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/sustainability/about-sustainability/2026/hmc-2026-sustainability-report-en.pdf"
+    "name": "Hyundai Motor Company: 2026 Sustainability Report (FY2025), p.123 Share Ownership",
+    "date": "2026-06",
+    "url": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/sustainability/about-sustainability/2026/hmc-2026-sustainability-report-en.pdf",
+    "quote": "National Pension Service Common stock 7.76 15,879,702",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "National Pension Service Investment Management: 국내주식 종목별 투자 현황 (2025년 말) [domestic equity holdings by stock, end-2025]",
+      "date": "2026-07",
+      "url": "https://fund.nps.or.kr/fileDown.do?atchFileId=FL25002092&atchFileSn=2",
+      "quote": "5 현대차 47,072 1.80% 7.75%",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

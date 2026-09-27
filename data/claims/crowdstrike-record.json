@@ -8,7 +8,12 @@
   "source": {
     "name": "CrowdStrike Holdings, Inc. DEF 14A 2026, 'Security Ownership of Certain Beneficial Owners and Management' (SEC)",
     "date": "2026-05-05",
-    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926055599/tm2532333-4_def14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926055599/tm2532333-4_def14a.htm",
+    "quote": "each person, or group of affiliated persons, who beneficially owned more than 5% of our common stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

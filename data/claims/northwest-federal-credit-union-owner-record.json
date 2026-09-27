@@ -3,13 +3,16 @@
   "ownerIds": [
     "northwest-federal-credit-union-owner"
   ],
-  "text": "Northwest Federal Credit Union is a member-owned, not-for-profit financial cooperative chartered under NCUA, with no state ownership or control.",
-  "short": "Northwest Federal Credit Union is a member-owned, not-for-profit financial cooperative chartered under NCUA, with no state ownership or control.",
+  "text": "Northwest Federal Credit Union describes itself as owned by its member-owners and is federally insured by the NCUA.",
   "source": {
     "name": "Northwest Federal Credit Union About page",
-    "date": "2026-09-24",
-    "url": null,
-    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://nwfcu.org/about-us"
+    "date": "2026",
+    "url": "https://www.nwfcu.org/about/",
+    "quote": "Northwest Federal will be the lifetime financial partner for our member-owners.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

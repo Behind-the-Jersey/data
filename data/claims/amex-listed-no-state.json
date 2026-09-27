@@ -3,12 +3,16 @@
   "ownerIds": [
     "american-express-company"
   ],
-  "text": "American Express Company is a NYSE-listed bank holding company; its shareholder register is institutional and free float with no state or state-fund holder.",
-  "short": "A listed US company with no state shareholder.",
+  "text": "American Express Company is a NYSE-listed bank holding company with no state or state-fund shareholder. Its single largest shareholder is Berkshire Hathaway Inc. (Warren Buffett), holding about 22.1% as of the 2026 proxy statement; the remaining float is institutional and retail, with Vanguard (6.8%) and BlackRock (6.4%) the next-largest holders.",
   "source": {
     "name": "American Express investor relations, stock information",
     "date": "2026",
-    "url": "https://ir.americanexpress.com/stock-information"
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm",
+    "quote": "Warren Buffett Berkshire Hathaway Inc. and subsidiaries ... 151,610,700 ... 22.1 % ... The Vanguard Group, Inc. ... 46,637,192 ... 6.8 % ... BlackRock, Inc. ... 44,114,286 ... 6.4 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -7,14 +7,16 @@
   "status": "rated",
   "verdict": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious….",
   "claimIds": [
-    "mubadala-record"
+    "mubadala-record",
+    "mubadala-uae-convictions-upheld"
   ],
   "aliases": [],
   "note": "Rating note: Ownership: Mubadala portfolio page - G42 'backed by Mubadala, Silver Lake, Microsoft and Dalio Family Office' (https://www.mubadala.com/en/what-we-do/g42). Mubadala is a shareholder, not sole owner, so 'part-owned'. Mercedes F1 sponsor.",
   "why": {
-    "text": "G42’s anchor investor is Mubadala, Abu Dhabi’s sovereign wealth fund, and the company is chaired by a member of Abu Dhabi’s ruling family. The UAE’s courts have upheld the convictions from an unfair mass trial of activists and dissidents. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "G42 counts Mubadala, Abu Dhabi’s sovereign wealth fund, as an investor, and the company is chaired by a member of Abu Dhabi’s ruling family. In March 2025, the UAE’s Federal Supreme Court upheld the convictions of 53 people from a mass trial that Human Rights Watch called unfair. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
-      "mubadala-record"
+      "mubadala-record",
+      "mubadala-uae-convictions-upheld"
     ],
     "messageLine": "The UAE’s courts upheld the convictions from an unfair mass trial of activists and dissidents.",
     "status": "draft"

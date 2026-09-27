@@ -3,12 +3,16 @@
   "ownerIds": [
     "kaseya-owner"
   ],
-  "text": "Kaseya is owned primarily by private equity firm Insight Partners, with additional investors including TPG Capital and the Ireland Strategic Investment Fund.",
-  "short": "Kaseya is owned primarily by private equity firm Insight Partners, with additional investors including TPG Capital and the Ireland Strategic Investment Fund.",
+  "text": "Kaseya is owned primarily by private equity firm Insight Partners, with additional investors including TPG Capital, Temasek (Singapore's state investment company) and Sixth Street.",
   "source": {
     "name": "LegalClarity article on Kaseya ownership",
-    "date": "2026-09-24",
-    "url": "https://legalclarity.org/who-owns-kaseya-insight-partners-and-key-investors"
+    "date": "2026-06-10",
+    "url": "https://legalclarity.org/who-owns-kaseya-insight-partners-and-key-investors",
+    "quote": "Kaseya is owned primarily by Insight Partners, a New York-based private equity firm that first invested in the company in 2013.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

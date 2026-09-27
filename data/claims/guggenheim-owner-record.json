@@ -3,12 +3,16 @@
   "ownerIds": [
     "guggenheim-owner"
   ],
-  "text": "Guggenheim Baseball Management LLC is owned by Guggenheim Baseball Management. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "Guggenheim Baseball Management LLC is owned by Guggenheim Baseball Management.",
+  "text": "The Los Angeles Dodgers were bought in 2012 by the private investor group operating as Guggenheim Baseball Management (including Mark Walter, Todd Boehly, Peter Guber, Magic Johnson and Bobby Patton) -- a privately held ownership group, not a company with public institutional or retail shareholders.",
   "source": {
     "name": "MLB article on Dodgers sale to Guggenheim",
     "date": "2012-05-01",
-    "url": "https://www.mlb.com/news/dodgers-sale-to-guggenheim-baseball-management-closed-c30125872"
+    "url": "https://www.mlb.com/news/dodgers-sale-to-guggenheim-baseball-management-closed-c30125872",
+    "quote": "The investor group includes Mandalay Entertainment chairman Peter Guber, Guggenheim Partners president Todd Boehly and Texas energy investor Bobby Patton.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

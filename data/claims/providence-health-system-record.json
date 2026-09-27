@@ -3,12 +3,16 @@
   "ownerIds": [
     "providence-health-system"
   ],
-  "text": "Providence is a not-for-profit Catholic health system serving the western United States; the Sounders deal is signed at health-system level via Providence Swedish. There are no shareholders and no state owner, so this is non-profit private money. Human-rights relevance is limited to ordinary health-sector conduct.",
-  "short": "Providence is a not-for-profit Catholic health system serving the western United States; the Sounders deal is signed at health-system level via Providence Swedish.",
+  "text": "Providence describes itself, per Seattle Sounders FC's report of the partnership, as 'a not-for-profit health system serving the Western United States,' with Providence Swedish signing the Sounders deal. This source does not identify Providence as Catholic or address shareholders or state ownership — those specifics would need a different source to confirm.",
   "source": {
-    "name": "Seattle Sounders FC, 'Sounders FC and Providence agree to unprecedented community-focused partnership'",
+    "name": "Seattle Sounders FC: Sounders FC and Providence agree to unprecedented community-focused partnership",
     "date": "2023-01-20",
-    "url": "https://www.soundersfc.com/news/sounders-fc-and-providence-agree-to-unprecedented-community-focused-partnership"
+    "url": "https://www.soundersfc.com/news/sounders-fc-and-providence-agree-to-unprecedented-community-focused-partnership",
+    "quote": "Providence, a not-for-profit health system serving the Western United States",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

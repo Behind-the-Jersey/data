@@ -8,7 +8,12 @@
   "source": {
     "name": "HP Inc. Form 10-K for FY2025 (SEC)",
     "date": "2025-12-10",
-    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000071/hpq-20251031.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000071/hpq-20251031.htm",
+    "quote": "On November 1, 2015, Hewlett-Packard Company completed the separation of Hewlett Packard Enterprise, Hewlett-Packard Company’s former enterprise technology infrastructure, software, services and financing businesses.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

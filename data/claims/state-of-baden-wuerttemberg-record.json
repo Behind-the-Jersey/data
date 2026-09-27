@@ -7,8 +7,25 @@
   "short": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of….",
   "source": {
     "name": "Landesbank Baden-Württemberg Ordinance/statute (English translation), LBBW legal documents",
-    "date": "1998 (as amended)",
-    "url": "https://www.lbbw.de/rechts-und-kundeninformationen/ordinance_of_landesbank_baden_wuerttemberg_en_89p7ho77b_m.pdf"
+    "date": "2025-07-26",
+    "url": "https://www.lbbw.de/rechts-und-kundeninformationen/ordinance_of_landesbank_baden_wuerttemberg_en_89p7ho77b_m.pdf",
+    "quote": "The Owners of Landesbank Baden-Württemberg are the Savings Banks Association of Baden-Württemberg (Sparkassenverband Baden-Württemberg – SVBW), the State of Baden-Württemberg (the State), the state capital Stuttgart (the City)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "State of Baden-Württemberg, official Law Gazette (Gesetzblatt für Baden-Württemberg), \"Gesetz zur Änderung des Landesbankgesetzes vom 22. Oktober 2002\"",
+      "url": "https://www.landtag-bw.de/resource/blob/74482/9a524299430fc8a08f11c746c9f9e9d7/GBl200212.pdf",
+      "date": "2002-10-22",
+      "quote": "Träger der Landesbank sind das Land Baden-Württemberg (Land), der Sparkassenverband Baden-Württemberg (Verband) und die Landeshauptstadt Stuttgart (Stadt).",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

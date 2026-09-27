@@ -3,12 +3,16 @@
   "ownerIds": [
     "sutter-health-owner"
   ],
-  "text": "Sutter Health is owned by Sutter Health. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "Sutter Health is owned by Sutter Health.",
+  "text": "Sutter Health is a not-for-profit health system.",
   "source": {
-    "name": "Sutter Health About page",
+    "name": "Sutter Health: About Sutter Health",
     "date": "2026-09-24",
-    "url": "https://www.sutterhealth.org/about"
+    "url": "https://www.sutterhealth.org/about",
+    "quote": "At Sutter, we’re more than just a not-for-profit health system.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

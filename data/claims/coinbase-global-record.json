@@ -3,12 +3,16 @@
   "ownerIds": [
     "coinbase-global"
   ],
-  "text": "Coinbase is a listed company (Nasdaq: COIN) held by institutions and the public float, with no state shareholder. Its SEC enforcement action was dismissed in February 2025.",
-  "short": "Coinbase is a listed company (Nasdaq: COIN) held by institutions and the public float, with no state shareholder.",
+  "text": "Coinbase's SEC civil enforcement action against Coinbase Inc. and Coinbase Global Inc. was dismissed by joint stipulation on February 27, 2025, following the SEC's formation of a Crypto Task Force.",
   "source": {
     "name": "US Securities and Exchange Commission, press release 2025-47",
     "date": "2025-02-27",
-    "url": "https://www.sec.gov/newsroom/press-releases/2025-47"
+    "url": "https://www.sec.gov/newsroom/press-releases/2025-47",
+    "quote": "The Securities and Exchange Commission today announced that the Commission has filed a joint stipulation with Coinbase Inc. and Coinbase Global Inc. to dismiss the ongoing civil enforcement action",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

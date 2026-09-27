@@ -3,12 +3,16 @@
   "ownerIds": [
     "spotify-technology"
   ],
-  "text": "Spotify is listed on the NYSE (SPOT); it has a dual-class structure with a large free float and no single controlling shareholder (founder Daniel Ek holds supervoting shares; Tencent holds ~8%, institutions ~67%). No state or sovereign-fund control - Longbridge's holder breakdown puts state-owned-enterprise holdings at well under 1%.",
-  "short": "Spotify is listed on the NYSE (SPOT); it has a dual-class structure with a large free float and no single controlling shareholder (founder Daniel Ek holds….",
+  "text": "Spotify Technology S.A. is listed on the NYSE (SPOT). Per its FY2025 Form 20-F, co-founders Daniel Ek and Martin Lorentzon hold 28.8% and 40.5% of total voting power respectively (69.3% combined via ordinary shares and beneficiary certificates), while Tencent-linked entities hold 8.1% of ordinary shares but 0% of voting power, since Ek votes those shares under an irrevocable proxy. No state or sovereign-fund shareholder is disclosed.",
   "source": {
-    "name": "Spotify Technology S.A. SEC ownership filings (CIK 0001639920); Spotify 2025 annual filing",
+    "name": "Spotify Technology S.A. Form 20-F for fiscal year 2025 (SEC EDGAR)",
     "date": "2026",
-    "url": "https://www.sec.gov/cgi-bin/own-disp?CIK=0001639920&action=getissuer&sortid=type-of-owner-DESC"
+    "url": "https://www.sec.gov/Archives/edgar/data/1639920/000162828026006874/ck0001639920-20251231.htm",
+    "quote": "Daniel Ek 28,625,267 13.9 % 119,932,980 38.7 % 28.8 % Martin Lorentzon 19,050,367 9.3 % 190,000,000 61.3 % 40.5 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

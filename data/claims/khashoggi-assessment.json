@@ -7,9 +7,26 @@
   "text": "US intelligence assessed that the crown prince approved the 2018 operation that killed journalist Jamal Khashoggi.",
   "source": {
     "name": "US Office of the Director of National Intelligence",
-    "date": "2021-02",
+    "date": "2021-02-11",
     "url": "https://www.dni.gov/files/ODNI/documents/assessments/Assessment-Saudi-Gov-Role-in-JK-Death-20210226v2.pdf",
-    "note": "Declassified assessment, 26 Feb 2021."
+    "note": "Declassified assessment, 26 Feb 2021.",
+    "quote": "We assess that Saudi Arabia's Crown Prince Muhammad bin Salman approved an operation in Istanbul, Turkey to capture or kill Saudi journalist Jamal Khashoggi.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "CNBC, \"U.S. says Saudi crown prince approved Khashoggi killing, imposes visa restrictions on 76 Saudis\"",
+      "url": "https://www.cnbc.com/2021/02/26/us-intelligence-concludes-saudi-crown-prince-mohammed-bin-salman-approved-killing-of-journalist-jamal-khashoggi-.html",
+      "date": "2021-02-26",
+      "quote": "Saudi Crown Prince Mohammed bin Salman approved an operation to capture or kill journalist Jamal Khashoggi in 2018, according to a U.S. intelligence report",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

@@ -3,12 +3,16 @@
   "ownerIds": [
     "alphabet-inc"
   ],
-  "text": "The McLaren front branding is Google, a subsidiary of Alphabet Inc., the Nasdaq-listed holding company (GOOGL/GOOG) that Google's own company page names as the parent of which Sundar Pichai is CEO. Alphabet is not state-owned: control sits with founders through super-voting Class B stock while the economic ownership is a public float. Human-rights relevance: data/privacy and antitrust exposure, not state or conflict money.",
-  "short": "The McLaren front branding is Google, a subsidiary of Alphabet Inc., the Nasdaq-listed holding company (GOOGL/GOOG) that Google's own company page names as the….",
+  "text": "Google is a subsidiary of Alphabet Inc., which Google's own company page names as the parent of which Sundar Pichai is CEO.",
   "source": {
     "name": "Google - About Google, Company Info",
     "date": "2026",
-    "url": "https://about.google/company-info/"
+    "url": "https://about.google/company-info/",
+    "quote": "Sundar Pichai, CEO of Google and Alphabet",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

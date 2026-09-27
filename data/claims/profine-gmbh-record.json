@@ -3,12 +3,16 @@
   "ownerIds": [
     "profine-gmbh"
   ],
-  "text": "Koemmerling is a brand of profine GmbH, the Pirmasens PVC-window-systems group. profine was sold by Bahrain's Arcapita Bank to the Frankfurt private equity firm Hidden Peak Capital, and Dr Peter A. Mrosik is owner and CEO, so the group is privately held rather than state-backed.",
-  "short": "Koemmerling is a brand of profine GmbH, the Pirmasens PVC-window-systems group.",
+  "text": "profine GmbH was sold by Bahrain's Arcapita Bank to Frankfurt's Hidden Peak Capital in 2012 (per profine's 2012 press release). Its current ownership under Dr Peter A. Mrosik should be sourced to a page that actually states it, e.g. profine-group.com's own company page, rather than the 2012 sale announcement.",
   "source": {
     "name": "Koemmerling/profine official press release 'profine GmbH has a new owner'; profine Group corporate site (Mrosik, owner and CEO)",
-    "date": "2024-10-07",
-    "url": "https://www.koemmerling.com/en/news-and-media/press/news/profine-gmbh-has-a-new-owner/"
+    "date": "2012-04-26",
+    "url": "https://www.koemmerling.com/en/news-and-media/press/news/profine-gmbh-has-a-new-owner/",
+    "quote": "The Frankfurt company Hidden Peak Capital has bought up the shares of the former owner, Arcapita Bank BSC of Bahrain.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

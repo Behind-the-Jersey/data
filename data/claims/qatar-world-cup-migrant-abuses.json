@@ -1,0 +1,30 @@
+{
+  "id": "qatar-world-cup-migrant-abuses",
+  "ownerIds": [
+    "government-of-qatar"
+  ],
+  "text": "In the years before the 2022 World Cup, migrant workers in Qatar faced widespread abuses, including unpaid wages, recruitment fees charged to workers, and deaths.",
+  "source": {
+    "name": "Human Rights Watch: Qatar: Rights Abuses Stain FIFA World Cup",
+    "date": "2022-11-14",
+    "url": "https://www.hrw.org/news/2022/11/14/qatar-rights-abuses-stain-fifa-world-cup",
+    "quote": "FIFA failed to impose strong conditions to protect workers and became a complacent enabler to the widespread abuse workers suffered, including illegal recruitment fees, wage theft, injuries, and deaths",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International: Qatar: Labour reform unfinished and compensation still owed as World Cup looms",
+      "date": "2022-10-20",
+      "url": "https://www.amnesty.org/en/latest/news/2022/10/qatar-labour-reform-unfinished-and-compensation-still-owed-as-world-cup-looms/",
+      "quote": "Migrant workers on both World Cup and non-World Cup related projects continue to face abuses on a significant scale in Qatar.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

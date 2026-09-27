@@ -3,12 +3,16 @@
   "ownerIds": [
     "visa-inc"
   ],
-  "text": "Visa Inc. is NYSE-listed with a widely dispersed shareholder base and no state or sovereign-fund owner. The Red Bull sleeve deal is private corporate money. Human-rights relevance is limited to interchange/fee conduct and card-network market power rather than ownership.",
-  "short": "Visa Inc.",
+  "text": "Visa Inc. is listed on the NYSE (ticker V); per its December 2025 proxy statement, its largest disclosed shareholders are The Vanguard Group (8.18%) and BlackRock Inc. (7.32%), among 311 shareholders of record. No state or sovereign-fund holder is listed among them.",
   "source": {
-    "name": "Visa Inc. Form 10-K FY2025 (SEC EDGAR)",
-    "date": "2025-11-06",
-    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm"
+    "name": "Visa Inc., 2025 Proxy Statement (DEF 14A)",
+    "date": "2025-12-08",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+    "quote": "those persons known to the Company to be the beneficial owners of more than 5% of the Company's Class A common stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

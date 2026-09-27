@@ -3,12 +3,16 @@
   "ownerIds": [
     "netapp-inc"
   ],
-  "text": "NetApp, Inc. is a Delaware corporation listed on Nasdaq (ticker NTAP); it has no controlling shareholder and no material state stake. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "NetApp, Inc.",
+  "text": "NetApp, Inc. is a Delaware corporation listed on Nasdaq (NTAP); per its 2026 proxy statement, its largest disclosed shareholders are BlackRock, Inc. (9.87%), two Vanguard entities (7.34% and 6.48%) and State Street Corporation (5.24%). No state or sovereign-fund holder is listed among them.",
   "source": {
-    "name": "NetApp, Inc. Form 10-K FY2026 (SEC EDGAR)",
-    "date": "2026-06-05",
-    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526259683/ntap-20260424.htm"
+    "name": "NetApp, Inc., 2026 Proxy Statement (DEF 14A)",
+    "date": "2026-07-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526321210/ntap-20260727.htm",
+    "quote": "each person or entity who is known by the Company to own beneficially more than 5% of the Company's common stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

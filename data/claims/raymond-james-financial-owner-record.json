@@ -8,7 +8,12 @@
   "source": {
     "name": "Raymond James Financial DEF 14A 2026",
     "date": "2026-01-07",
-    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000019/rjf-20260106.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000019/rjf-20260106.htm",
+    "quote": "The Vanguard Group, Inc., 100 Vanguard Boulevard, Malvern, PA 19355 22,296,990 (1) 11.31 %",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

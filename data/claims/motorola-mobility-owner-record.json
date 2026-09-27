@@ -3,12 +3,28 @@
   "ownerIds": [
     "motorola-mobility-owner"
   ],
-  "text": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
-  "short": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+  "text": "Lenovo Group Limited completed its purchase of Motorola Mobility from Google on 30 October 2014, making Motorola Mobility a wholly owned Lenovo subsidiary.",
   "source": {
-    "name": "Lenovo press release",
-    "date": "2014-01-29",
-    "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-to-acquire-motorola-mobility-from-google/"
+    "name": "Lenovo StoryHub: Lenovo Completes Acquisition of Motorola Mobility from Google",
+    "date": "2014-10-30",
+    "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-completes-acquisition-of-motorola-mobility-from-google/",
+    "quote": "announced today that Lenovo’s acquisition of Motorola Mobility from Google is complete.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "GeekWire (Blair Hanley Frank): Lenovo closes acquisition of Motorola Mobility",
+      "date": "2014-10-30",
+      "url": "https://www.geekwire.com/2014/lenovo-closes-acquisition-motorola-mobility/",
+      "quote": "Motorola’s brands will continue, and the company will operate as a wholly-owned subsidiary of Lenovo.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

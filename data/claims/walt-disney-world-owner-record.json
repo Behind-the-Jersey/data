@@ -3,12 +3,16 @@
   "ownerIds": [
     "walt-disney-world-owner"
   ],
-  "text": "The Walt Disney Company is owned by Walt Disney World Resort. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "The Walt Disney Company is owned by Walt Disney World Resort.",
+  "text": "The Walt Disney Company is a NYSE-listed public company with no state shareholder; its largest disclosed holders are The Vanguard Group (~8.5%) and BlackRock, Inc. (~6.9%). Walt Disney World Resort is one of the Company's own theme park properties, not its owner.",
   "source": {
     "name": "Walt Disney Co DEF 14A 2026 (SEC)",
     "date": "2026-01-22",
-    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm",
+    "quote": "To our knowledge, except as noted below, no person or entity is the beneficial owner of more than 5% of the voting power of the Company’s stock.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -1,0 +1,30 @@
+{
+  "id": "mazepin-uralchem-stake-2022",
+  "ownerIds": [
+    "uralchem"
+  ],
+  "text": "In March 2022, after being placed under EU sanctions, Dmitry Mazepin sold a controlling 52% stake in Uralchem and kept 48%.",
+  "source": {
+    "name": "Reuters (via Yahoo Finance): Mazepin sells controlling stake in Uralchem, resigns as CEO",
+    "date": "2022-03-11",
+    "url": "https://uk.finance.yahoo.com/news/mazepin-sells-controlling-stake-uralchem-083150074.html",
+    "quote": "Dmitry Mazepin has resigned as CEO of Russian fertiliser producer Uralchem, the company said, and has sold a controlling stake after being placed on a European Union sanctions list.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Interfax: Mazepin reduces stake in UralChem to below 50%, steps down as CEO",
+      "date": "2022-03-11",
+      "url": "https://interfax.com/newsroom/top-stories/76354/",
+      "quote": "Russian businessman Dmitry Mazepin, who has been hit by European Union sanctions, has reduced his stake in the chemical producer to less than a controlling interest, the company reported.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

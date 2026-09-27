@@ -7,9 +7,26 @@
   "short": "120+ tonnes of coltan a month smuggled into Rwanda",
   "source": {
     "name": "Global Witness",
-    "date": "2026-06",
+    "date": "2026-06-10",
     "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
-    "note": "Who buys Rwanda's smuggled coltan?"
+    "note": "Who buys Rwanda's smuggled coltan?",
+    "quote": "UN experts estimate that since April 2024 more than 120 tonnes of coltan per month were smuggled from Rubaya to Rwanda.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "UN Security Council, Group of Experts on the Democratic Republic of the Congo, midterm report (S/2024/969)",
+      "url": "https://documents.un.org/doc/undoc/gen/n24/373/37/pdf/n2437337.pdf",
+      "date": "2024-12-27",
+      "quote": "AFC/M23 thus controlled the trade and transport of around 120 tons of coltan monthly.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

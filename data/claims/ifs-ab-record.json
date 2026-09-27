@@ -8,7 +8,24 @@
   "source": {
     "name": "EQT / Hg / TA Associates press release - IFS valued at EUR 15bn in minority stake sale",
     "date": "2025-04-09",
-    "url": "https://mb.cision.com/Main/87/4133272/3378631.pdf"
+    "url": "https://mb.cision.com/Main/87/4133272/3378631.pdf",
+    "quote": "New investors in this transaction include a wholly-owned subsidiary of the Abu Dhabi Investment Authority (“ADIA”) and the Canada Pension Plan Investment Board (“CPP Investments”).",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "PE Hub, ‘EQT sells part of IFS stake amid €15bn valuation’ by Sophie Rose",
+      "url": "https://www.pehub.com/eqt-sells-part-of-ifs-stake-amid-e15bn-valuation/",
+      "date": "2025-04-09",
+      "quote": "The valuation has been made following investment from Hg, ADIA and CPP Investments.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

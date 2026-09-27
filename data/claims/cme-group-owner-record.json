@@ -3,12 +3,16 @@
   "ownerIds": [
     "cme-group-owner"
   ],
-  "text": "CME Group Inc. is a publicly traded company listed on the NASDAQ and NYSE under ticker CME.",
-  "short": "CME Group Inc.",
+  "text": "CME Group Inc. is a publicly traded company listed on the Nasdaq Global Select Market under ticker CME.",
   "source": {
     "name": "SEC DEF 14A for CME Group Inc.",
     "date": "2026-03-23",
-    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000162828026020500/cme-20260323.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000162828026020500/cme-20260323.htm",
+    "quote": "Shares of our Class A common stock are listed on the Nasdaq Global Select Market (Nasdaq) under the trading symbol \"CME\"",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

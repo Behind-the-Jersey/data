@@ -3,12 +3,16 @@
   "ownerIds": [
     "truist-owner"
   ],
-  "text": "Truist Financial Corporation is a NYSE-listed bank with no state ownership; largest shareholder is The Vanguard Group (~9.8%) and other institutions each under 10%.",
-  "short": "Truist Financial Corporation is a NYSE-listed bank with no state ownership; largest shareholder is The Vanguard Group (~9.8%) and other institutions each under 10%.",
+  "text": "Truist Financial Corporation (NYSE: TFC) is a bank holding company with no state ownership; its 2026 proxy statement discloses BlackRock (7.9%), Capital International Investors (8.6%) and Vanguard Group (9.5%) as its only 5%-plus shareholders, each under 10%.",
   "source": {
     "name": "Truist DEF 14A 2026",
     "date": "2026-03-16",
-    "url": "https://www.sec.gov/Archives/edgar/data/92230/000119312526107144/d12240ddef14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/92230/000119312526107144/d12240ddef14a.htm",
+    "quote": "each of BlackRock, Inc., Capital International Investors, and Vanguard Group, Inc. reported that it or its affiliates beneficially owned or had investment discretion over more than 5% of the outstanding",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

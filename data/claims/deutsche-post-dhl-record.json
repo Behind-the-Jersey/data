@@ -8,7 +8,24 @@
   "source": {
     "name": "DHL Group - Shareholder Structure (company IR)",
     "date": "2026-06-30",
-    "url": "https://www.dpdhl.com/en/investors/shares/shareholder-structure.html"
+    "url": "https://group.dhl.com/en/investors/shares/shareholder-structure.html",
+    "quote": "KfW Bankengruppe holds approximately 204 million shares, corresponding to 17.727 % of the share capital.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Bundesministerium der Finanzen (German Federal Ministry of Finance) - 'Deutsche Post AG' privatisation page",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Bundesvermoegen/Privatisierungs_und_Beteiligungspolitik/Beteiligungspolitik/deutsche-post-ag.html",
+      "date": "",
+      "quote": "Im Jahr 2024 veräußerte die KfW rund 4,0 Prozent der Aktien an institutionelle Investoren. Der Anteil am Aktienkapital beträgt aktuell 17,0 Prozent.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

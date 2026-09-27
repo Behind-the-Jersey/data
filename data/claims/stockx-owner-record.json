@@ -3,13 +3,16 @@
   "ownerIds": [
     "stockx-owner"
   ],
-  "text": "StockX is a privately held e-commerce marketplace that authenticates and resells sneakers, streetwear, watches and collectibles.",
-  "short": "StockX is a privately held e-commerce marketplace that authenticates and resells sneakers, streetwear, watches and collectibles.",
+  "text": "StockX is a privately held marketplace: per a company-issued 2019 press release, it closed a $110 million Series C funding round from DST Global, General Atlantic and GGV Capital (with existing investors GV and Battery Ventures participating), valuing StockX at over $1 billion. No state or state-fund investor is named among its backers.",
   "source": {
-    "name": "Bitget Wiki article on StockX ownership",
-    "date": "2026-09-24",
-    "url": null,
-    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://bitget.com/wiki/who-owns-stock-x"
+    "name": "StockX (PR Newswire): Detroit-based StockX Closes $110M Series C Led by DST Global, General Atlantic and GGV Capital",
+    "date": "2019-06-26",
+    "url": "https://www.prnewswire.com/news-releases/detroit-based-stockx-closes-110m-series-c-led-by-dst-global-general-atlantic-and-ggv-capital-names-e-commerce-veteran-scott-cutler-ceo-300875188.html",
+    "quote": "StockX, the world's first 'stock market of things', has closed on a $110 million Series C funding round from investment firms DST Global, General Atlantic, and GGV Capital.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

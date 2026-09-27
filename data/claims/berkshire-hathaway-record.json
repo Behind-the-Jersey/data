@@ -3,12 +3,16 @@
   "ownerIds": [
     "berkshire-hathaway"
   ],
-  "text": "Duracell is a wholly owned subsidiary of Berkshire Hathaway Inc., transferred from Procter & Gamble in a February 2016 share exchange and described by Duracell itself as a 'Berkshire Hathaway Company since 2016'. Berkshire is NYSE-listed with no state shareholder. Human-rights relevance is battery manufacturing inputs (lithium, cobalt, manganese) and their supply chains.",
-  "short": "Duracell is a wholly owned subsidiary of Berkshire Hathaway Inc., transferred from Procter & Gamble in a February 2016 share exchange and described by Duracell….",
+  "text": "Duracell became a wholly owned subsidiary of Berkshire Hathaway Inc. in February 2016: per P&G's own SEC filing, 'Procter & Gamble (NYSE:PG) has announced the completion of the transfer of its Duracell business to Berkshire Hathaway,' with P&G contributing cash to Duracell in exchange for Berkshire Hathaway's 52 million shares of P&G stock.",
   "source": {
-    "name": "P&G press release on SEC EDGAR - 'P&G Completes Exchange of Duracell to Berkshire Hathaway'",
+    "name": "Procter & Gamble press release (filed on SEC EDGAR): P&G Completes Exchange of Duracell to Berkshire Hathaway",
     "date": "2016-02-29",
-    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042416000171/duracelltransferpressrelease.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042416000171/duracelltransferpressrelease.htm",
+    "quote": "Procter & Gamble (NYSE:PG) has announced the completion of the transfer of its Duracell business to Berkshire Hathaway.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

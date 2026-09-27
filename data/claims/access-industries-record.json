@@ -3,12 +3,16 @@
   "ownerIds": [
     "access-industries"
   ],
-  "text": "DAZN Bet Club sits on DAZN, the sports-streaming group that is wholly owned by Access Industries, Len Blavatnik's privately held global investment company, where DAZN appears as a portfolio holding. There is no state stake - Blavatnik's money is private family capital, though Access has historically held Russia-linked assets. Human-rights relevance is gambling licensing and sports-rights economics.",
-  "short": "DAZN Bet Club sits on DAZN, the sports-streaming group that is wholly owned by Access Industries, Len Blavatnik's privately held global investment company, where….",
+  "text": "DAZN Bet Club sits on DAZN, which Access Industries — Len Blavatnik's privately held global investment company — lists among its Global Media investments. The exact ownership share is not stated on Access's own investment page.",
   "source": {
-    "name": "Access Industries - DAZN portfolio page",
-    "date": "2026-09-25",
-    "url": "https://www.accessindustries.com/investments/dazn"
+    "name": "Access Industries: DAZN investment page",
+    "date": "2025-05-07",
+    "url": "https://www.accessindustries.com/investments/dazn",
+    "quote": "Access Industries is a privately-held, global investment company.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

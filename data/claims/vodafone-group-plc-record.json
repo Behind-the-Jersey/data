@@ -3,12 +3,16 @@
   "ownerIds": [
     "vodafone-group-plc"
   ],
-  "text": "Vodafone is a London-listed telecoms group. Its largest shareholder was until 2026 Emirates Telecommunications (e&), itself ~60% held by the UAE state via the Emirates Investment Authority; e& agreed to sell its entire ~16.2% stake to Vega, a vehicle of the Niel family, and the sale has since completed. Owner is therefore listed/private with the state-fund link now exited.",
-  "short": "Vodafone is a London-listed telecoms group.",
+  "text": "Vodafone Group Plc, a London-listed telecoms group, confirmed on 10 July 2026 that e& agreed to sell its entire stake to Vega, a vehicle of the Niel family; whether the sale has since completed and whether Niel became the largest shareholder are reported elsewhere (Reuters, e& H1 2026 results) and not verified against this URL.",
   "source": {
     "name": "Vodafone 'Response to e&'s announcement'; Reuters (Niel becomes Vodafone's top shareholder); e& H1 2026 results (sale completed)",
-    "date": "2026-07-10 / 2026-H1",
-    "url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/response-to-announcement"
+    "date": "2026-07-10",
+    "url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/response-to-announcement",
+    "quote": "e& has agreed to dispose of its entire shareholding in Vodafone to Vega, an acquisition vehicle wholly owned by the Niel family group.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

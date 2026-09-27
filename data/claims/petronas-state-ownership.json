@@ -1,0 +1,30 @@
+{
+  "id": "petronas-state-ownership",
+  "ownerIds": [
+    "gov-malaysia"
+  ],
+  "text": "Petronas is wholly owned by the Government of Malaysia.",
+  "source": {
+    "name": "PETRONAS: Audited Financial Statements 2023 (Directors' Report)",
+    "date": "2024",
+    "url": "https://www.petronas.com/integrated-report-2023/assets/pdf/PIR%202023_Audited%20Financial%20Statements.pdf",
+    "quote": "The Company is wholly-owned by the Government of Malaysia.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bernama: Petronas Ownership Remains Under Federal Govt, Steps Taken To Enhance Participation Of States -- Azalina",
+      "date": "2025-08-14",
+      "url": "https://www.bernama.com/en/news.php?id=2456814",
+      "quote": "the federal government is currently the sole owner of Petronas, which is incorporated under the Companies Act 1965 as the national oil and gas company.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
+  "reviewed": false
+}

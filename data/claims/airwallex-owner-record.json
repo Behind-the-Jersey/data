@@ -3,12 +3,16 @@
   "ownerIds": [
     "airwallex-owner"
   ],
-  "text": "Airwallex is owned by Airwallex. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "Airwallex is owned by Airwallex.",
+  "text": "Airwallex is a private, venture-capital-backed fintech, not a publicly traded company. Its own 2018 Series B announcement names its investors as Tencent, Sequoia Capital China, Hillhouse, Sir Ka-shing Li's Horizons Ventures, Central Capital Ventura and Square Peg Capital; no state or state-fund investor is named.",
   "source": {
-    "name": "Airwallex Series B fundraising announcement",
+    "name": "Airwallex Newsroom: Airwallex closes Series B fundraising with US$80m",
     "date": "2018-07-03",
-    "url": "https://www.airwallex.com/global/newsroom/series-b-closing-80m"
+    "url": "https://www.airwallex.com/global/newsroom/series-b-closing-80m",
+    "quote": "Tencent and Sequoia China were joined by fellow China based Hillhouse, Sir Ka-Shing Li's Horizons Ventures from Hong Kong, Indonesia's Central Capital Ventura",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

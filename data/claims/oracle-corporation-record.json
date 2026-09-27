@@ -3,12 +3,16 @@
   "ownerIds": [
     "oracle-corporation"
   ],
-  "text": "Oracle Corporation is NYSE-listed (ORCL) and majority-free-float, with co-founder Larry Ellison the largest single holder at roughly 40%. There is no state or sovereign-fund owner. The F1 title sponsorship is funded from private corporate capital.",
-  "short": "Oracle Corporation is NYSE-listed (ORCL) and majority-free-float, with co-founder Larry Ellison the largest single holder at roughly 40%.",
+  "text": "Oracle Corporation is listed on the New York Stock Exchange under the symbol ORCL.",
   "source": {
     "name": "Oracle Corporation Form 10-K FY2026 (SEC EDGAR)",
     "date": "2026-06-22",
-    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm",
+    "quote": "Our common stock is traded on the New York Stock Exchange under the symbol \"ORCL.\"",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

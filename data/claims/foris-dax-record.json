@@ -3,12 +3,16 @@
   "ownerIds": [
     "foris-dax"
   ],
-  "text": "Crypto.com's corporate chain ends offshore: the OCC's conditional trust-bank approval records that Foris Holdings KY Limited, a Cayman Islands corporation, owns Foris DAX MT Ltd. (Malta), which is described as the top-tier holding company for the Crypto.com family of companies. Ownership is entirely private, with no state stake, albeit in a Cayman/Malta structure that is opaque below the top tier. Human-rights relevance is crypto-market and licensing conduct across many jurisdictions.",
-  "short": "Crypto.com's corporate chain ends offshore: the OCC's conditional trust-bank approval records that Foris Holdings KY Limited, a Cayman Islands corporation, owns….",
+  "text": "Foris DAX MT Ltd. (Malta) is owned by Foris Holdings KY Limited, a Cayman Islands corporation that is the top-tier holding company of the Crypto.com group.",
   "source": {
-    "name": "US Office of the Comptroller of the Currency, Conditional Approval 1367 (Crypto.com National Trust Bank)",
+    "name": "U.S. Office of the Comptroller of the Currency, Corporate Decision #1367 (Crypto.com National Trust Bank)",
     "date": "2026-02-20",
-    "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1367.pdf"
+    "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1367.pdf",
+    "quote": "Cayman Islands corporation, owns Foris DAX MT Ltd. and is the top-tier holding company for the Crypto.com family of companies.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

@@ -3,12 +3,28 @@
   "ownerIds": [
     "russian-federation"
   ],
-  "text": "PJSC Aeroflot is majority state-owned: the Russian Federation is the controlling shareholder of approximately 73.8% of shares. Russia is the direct belligerent in the ongoing war in Ukraine, and Aeroflot plus its state parent have been targeted by EU/US sanctions since 2022.",
-  "short": "PJSC Aeroflot is majority state-owned: the Russian Federation is the controlling shareholder of approximately 73.8% of shares.",
+  "text": "Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since.",
   "source": {
-    "name": "Aeroflot Investor Relations, Shareholder Capital; Council of the EU sanctions explainer",
-    "date": "2025 / 2026",
-    "url": "https://ir.aeroflot.com/ensecurities/shareholder-capital"
+    "name": "UN Human Rights Monitoring Mission in Ukraine (OHCHR): UN Human Rights Monitors Warn of Rising Civilian Casualties",
+    "date": "2026-05-13",
+    "url": "https://ukraine.ohchr.org/en/UN-Human-Rights-Monitors-Warn-of-Rising-Civilian-Casualties",
+    "quote": "Short-range drones killed and injured more civilians in April 2026 than in any other month since the Russian Federation launched its full-scale invasion of Ukraine in February 2022.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Council of the European Union: EU sanctions against Russia explained",
+      "date": "2025-05",
+      "url": "https://www.consilium.europa.eu/en/policies/sanctions-against-russia-explained/",
+      "quote": "Since the start of Russia's full-scale invasion of Ukraine on 24 February 2022, the EU has imposed massive and unprecedented sanctions against Russia",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

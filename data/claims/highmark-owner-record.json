@@ -3,13 +3,16 @@
   "ownerIds": [
     "highmark-owner"
   ],
-  "text": "Highmark Health is a private, nonprofit integrated health delivery and financing system, parent of Highmark Inc. and Allegheny Health Network, with no state ownership.",
-  "short": "Highmark Health is a private, nonprofit integrated health delivery and financing system, parent of Highmark Inc.",
+  "text": "Highmark Health is the parent company of Highmark Inc., Allegheny Health Network and HM Health Solutions, and describes itself as the third-largest integrated health care delivery and financing system in the nation.",
   "source": {
     "name": "Highmark Health About Us page",
     "date": "2026-09-24",
-    "url": null,
-    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.highmarkhealth.org/about-us/index.shtml"
+    "url": "https://www.highmarkhealth.org/annualreport/about/glance.shtml",
+    "quote": "Highmark Health is the parent company of Highmark Inc., Allegheny Health Network and HM Health Solutions.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

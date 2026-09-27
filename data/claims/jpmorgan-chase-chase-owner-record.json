@@ -3,12 +3,28 @@
   "ownerIds": [
     "jpmorgan-chase-owner"
   ],
-  "text": "JPMorgan Chase & Co. is the ultimate owner of JPMorgan Chase (Chase).",
-  "short": "JPMorgan Chase & Co.",
+  "text": "JPMorgan Chase & Co. is the bank holding company that owns and controls JPMorgan Chase Bank, N.A.",
   "source": {
-    "name": "JPMorgan Chase Investor Relations",
-    "date": "2026-09-25",
-    "url": "https://www.jpmorganchase.com"
+    "name": "JPMorgan Chase & Co.: Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-02-13",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+    "quote": "JPMorganChase’s principal bank subsidiary is JPMorgan Chase Bank, National Association (“JPMorgan Chase Bank, N.A.”)",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Federal Reserve Board: In the Matter of JPMorgan Chase & Co., Order to Cease and Desist and Order of Assessment of a Civil Money Penalty (Docket 24-007-B-HC)",
+      "date": "2024-03-14",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20240314a1.pdf",
+      "quote": "JPMorgan Chase & Co., New York, New York (“JPMC”), is a registered bank holding company that owns and controls JPMorgan Chase Bank, N.A., Columbus, Ohio",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ],
   "reviewed": false
 }

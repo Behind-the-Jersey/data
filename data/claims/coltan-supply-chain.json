@@ -8,7 +8,24 @@
     "name": "Global Witness",
     "date": "2026-06",
     "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
-    "note": "Who buys Rwanda's smuggled coltan?"
+    "note": "Who buys Rwanda's smuggled coltan?",
+    "quote": "Most of these shipments go to smelters in China, with a share going to Kazakhstan and, until the end of 2023, to Thailand.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "SWI swissinfo.ch, 'UN experts warn Congo's conflict minerals slipping into global market' (citing UN Group of Experts on the DRC)",
+      "url": "https://www.swissinfo.ch/eng/international-geneva/un-experts-warn-congos-conflict-minerals-slipping-into-global-market/89978793",
+      "date": "2025-09-17",
+      "quote": "The smuggling of minerals from eastern DRC into neighboring Rwanda has reached unprecedented levels",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

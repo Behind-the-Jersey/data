@@ -7,14 +7,18 @@
   "status": "rated",
   "verdict": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant….",
   "claimIds": [
-    "gov-malaysia-record"
+    "gov-malaysia-record",
+    "petronas-state-ownership",
+    "malaysia-migrant-worker-exploitation"
   ],
   "aliases": [],
   "note": "Rating note: Ownership: Petronas 'Partners & Stakeholders' (MOF through its corporation MOF (Inc.) holds a majority share) https://www.petronas.com/mpm/malaysia-e-p/partners-stakeholders. Malaysia's abuse level is milder than the Gulf states - a concern call is defensible; still fully state-owned. Mercedes-AMG PETRONAS F1 title sponsor.",
   "why": {
-    "text": "Petronas is wholly owned by the Malaysian state. Human Rights Watch documents migrant workers in forced labour, refugees held in indefinite detention and repressive laws used against dissent in Malaysia. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "text": "Petronas is wholly owned by the Malaysian state. Malaysia uses broad laws against its critics and holds refugees and migrants in indefinite detention, and UN experts and the US government report widespread exploitation of migrant workers, including debt bondage. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
     "claimIds": [
-      "gov-malaysia-record"
+      "gov-malaysia-record",
+      "petronas-state-ownership",
+      "malaysia-migrant-worker-exploitation"
     ],
     "messageLine": "Human Rights Watch documents migrant workers in forced labour and refugees held in indefinite detention in Malaysia.",
     "status": "draft"

@@ -3,12 +3,16 @@
   "ownerIds": [
     "aarp-owner"
   ],
-  "text": "AARP is owned by AARP. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "AARP is owned by AARP.",
+  "text": "AARP is a nonprofit, nonpartisan organization with no shareholders and no state ownership; it reinvests revenue into its mission rather than distributing profits.",
   "source": {
     "name": "AARP About page",
     "date": "2026-09-24",
-    "url": "https://www.aarp.org/about-aarp/"
+    "url": "https://www.aarp.org/about-aarp/",
+    "quote": "As a nonprofit, AARP reinvests its revenue into its mission rather than distributing profits to shareholders.",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

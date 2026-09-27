@@ -8,7 +8,24 @@
     "name": "Global Witness",
     "date": "2026-06",
     "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
-    "note": "Who buys Rwanda's smuggled coltan?"
+    "note": "Who buys Rwanda's smuggled coltan?",
+    "quote": "These looted minerals come from mines in Rubaya in the Democratic Republic of the Congo (DRC), which produce 15% of the world’s tantalum",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Reuters (Reade Levinson, David Lewis, Sonia Rolley), 'Major Rwandan coltan exporter bought smuggled Congolese minerals, UN report says' (read via Yahoo News syndication)",
+      "url": "https://www.yahoo.com/news/major-rwandan-coltan-exporter-bought-165341205.html",
+      "date": "2025-07-03",
+      "quote": "Rubaya, the Congolese mining area now controlled by M23, produces 15% of the world's coltan.",
+      "checked": {
+        "on": "2026-09-26",
+        "by": "source-audit-2026-09-26"
+      }
+    }
+  ]
 }

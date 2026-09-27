@@ -3,12 +3,16 @@
   "ownerIds": [
     "renasant-corporation"
   ],
-  "text": "Renasant Bank is the principal subsidiary of Renasant Corporation, an NYSE-listed (RNST) regional bank holding company based in Tupelo, Mississippi. It is privately held through public markets with no state ownership. The Nashville SC front sponsorship is plain private bank marketing money.",
-  "short": "Renasant Bank is the principal subsidiary of Renasant Corporation, an NYSE-listed (RNST) regional bank holding company based in Tupelo, Mississippi.",
+  "text": "Renasant Corporation's 2026 proxy statement lists four shareholders known to hold 5% or more of its common stock, all diversified institutional/index managers: The Vanguard Group Inc. (11.69%), BlackRock, Inc. (8.84%), Dimensional Fund Advisors LP (5.81%) and State Street Corporation (5.11%). No state or state-fund investor is named.",
   "source": {
-    "name": "Renasant Corporation Form 10-K FY2025 (SEC EDGAR)",
-    "date": "2026-03-02",
-    "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000017/rnst-20251231.htm"
+    "name": "Renasant Corporation: 2026 Proxy Statement (DEF 14A)",
+    "date": "2026-03-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000030/rnst-20260316.htm",
+    "quote": "known to us to be the beneficial owner of 5% or more of our outstanding common stock",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

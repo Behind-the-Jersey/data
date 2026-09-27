@@ -3,12 +3,16 @@
   "ownerIds": [
     "us-bank-owner"
   ],
-  "text": "U.S. Bancorp is owned by U.S. Bank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "U.S.",
+  "text": "U.S. Bancorp's only disclosed 5%-plus shareholders are asset managers The Vanguard Group (8.7%) and BlackRock, Inc. (7.0%); U.S. Bank National Association is a banking subsidiary of U.S. Bancorp, not its owner. No state shareholder is identified, so the sponsorship money is private capital.",
   "source": {
     "name": "US BANCORP DEF 14A 2026 (SEC)",
     "date": "2026-03-10",
-    "url": "https://www.sec.gov/Archives/edgar/data/36104/000110465926025844/tm261379-1_def14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/36104/000110465926025844/tm261379-1_def14a.htm",
+    "quote": "each person who is known by us to beneficially own more than 5% of our voting securities",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

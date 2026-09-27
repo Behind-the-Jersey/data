@@ -3,12 +3,16 @@
   "ownerIds": [
     "huntington-national-bank-huntington-bancshares-owner"
   ],
-  "text": "Huntington Bancshares Incorporated is owned by Huntington National Bank (Huntington Bancshares). No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "Huntington Bancshares Incorporated is owned by Huntington National Bank (Huntington Bancshares).",
+  "text": "Huntington Bancshares Incorporated (parent of Huntington National Bank) has no state shareholder; its largest holders are The Vanguard Group (8.43%) and BlackRock (7.79%).",
   "source": {
     "name": "HUNTINGTON BANCSHARES INC /MD/ DEF 14A 2026 (SEC)",
     "date": "2026-03-12",
-    "url": "https://www.sec.gov/Archives/edgar/data/49196/000119312526103196/hban-20260312.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/49196/000119312526103196/hban-20260312.htm",
+    "quote": "we knew of no person who was the beneficial owner of more than 5% of our outstanding shares of common stock, except as follows",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }

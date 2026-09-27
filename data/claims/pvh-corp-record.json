@@ -3,12 +3,16 @@
   "ownerIds": [
     "pvh-corp"
   ],
-  "text": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder.",
-  "short": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder.",
+  "text": "Tommy Hilfiger is a brand of PVH Corp. (NYSE: PVH); per PVH's own 2026 proxy statement, its largest disclosed shareholders are FMR LLC (14.6%), Pzena Investment Management (14.0%), BlackRock (9.4%), Dimensional Fund Advisors (6.6%) and Vanguard Capital Management (5.2%). No state or sovereign-fund holder is listed among them.",
   "source": {
-    "name": "PVH Corp. - NYSE: PVH company profile",
-    "date": "2026-09-24",
-    "url": "https://tradingkey.com/markets/stocks/nasdaq-pvh/company"
+    "name": "PVH Corp., 2026 Proxy Statement (DEF 14A)",
+    "date": "2026-05-08",
+    "url": "https://www.sec.gov/Archives/edgar/data/78239/000121390026053710/ea0284655-01.htm",
+    "quote": "the persons who are known by us to be the beneficial owners of more than five percent of our common stock as of the record date for the meeting",
+    "checked": {
+      "on": "2026-09-26",
+      "by": "source-audit-2026-09-26"
+    }
   },
   "reviewed": false
 }
