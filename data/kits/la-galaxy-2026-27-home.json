@@ -14,11 +14,46 @@
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "LA Galaxy Herbalife Nutrition Consumer Products",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "Live page unreachable from this network on 2026-09-27; quote verified against the Internet Archive snapshot of 2026-06-16."
+      }
+    },
+    {
+      "sponsorId": "royal-bank-of-canada",
+      "placement": "sleeve",
+      "source": {
+        "name": "City National Bank – 'Royal Bank of Canada and Subsidiary City National Bank Announce Jersey Partnership With the LA Galaxy and Founding Partnership With Dignity Health Sports Park'",
+        "date": "2025-02-13",
+        "url": "https://www.cnb.com/about-us/media/press-releases/2025/la-galaxy-soccer-jersey-partnership-founding-sports-park.html",
+        "quote": "The RBC shield will be prominently featured on the right sleeve of the LA Galaxy's official primary and secondary jerseys",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "Live page unreachable from this network on 2026-09-27; quote verified against the Internet Archive snapshot of 2026-06-16."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Herbalife fronts the Galaxy jersey; the RBC shield is on the right sleeve."
 }
