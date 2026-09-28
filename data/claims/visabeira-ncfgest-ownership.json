@@ -1,0 +1,35 @@
+{
+  "id": "visabeira-ncfgest-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "grupo-visabeira",
+    "ncfgest",
+    "fernando-campos-nunes"
+  ],
+  "text": "Grupo Visabeira consolidates its accounts in the entity NCFGest, SA, its majority shareholder, which is held 100% by Fernando Campos Nunes; the notes also state the ultimate majority shareholder held 98.57% of Grupo Visabeira indirectly at the end of 2024 and 2025.",
+  "short": "Fernando Campos Nunes holds 98.57% of Grupo Visabeira via NCFGest.",
+  "source": {
+    "name": "Grupo Visabeira, Relatório & Contas 2025 (p. 89)",
+    "date": "2026-04-30",
+    "url": "https://grupovisabeira.com/assets/RC2025-GV.pdf",
+    "quote": "O Grupo Visabeira consolida as suas contas na entidade NCFGest, SA, acionista maioritária e detida a 100% por Fernando Campos Nunes.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "10.9 MB PDF: check_sources.py reads only the first 8 MB. Read in full with pypdf (strict=False) on 2026-09-28: the quote is on PDF page 89; note 31.1 (PDF page 126) gives the 98.57% held indirectly at the end of 2024 and 2025."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Martifer SGPS: Martifer Group informs about qualified holdings (6 August 2025)",
+      "date": "2025-08-06",
+      "url": "https://martifer.com/multimedia/martifer/en/bR9lgujc8S-an_20250806a.pdf",
+      "quote": "NCFGEST, S.A., which holds 98.57% of the share capital and voting rights of Grupo Visabeira, S.A.; and c) to Fernando Campos Nunes, the company referred to in b) being wholly owned by this individual shareholder.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
