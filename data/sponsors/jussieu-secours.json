@@ -1,11 +1,16 @@
 {
   "id": "jussieu-secours",
   "name": "JUSSIEU Secours",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "jussieu-secours-france",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A French medical-transport network whose national body is JUSSIEU secours FRANCE SAS (president Pascal Barthes). Nothing found.",
+  "claimIds": [
+    "jussieu-secours-france-ownership"
+  ],
+  "aliases": [
+    "Jussieu Secours"
+  ],
+  "note": "Rating note: network of independent ambulance companies; the national SAS is privately led. No state or fund owner identified."
 }

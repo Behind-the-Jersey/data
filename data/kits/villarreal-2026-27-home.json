@@ -14,16 +14,27 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Villarreal Pamesa Cerámica Ceramics",
+        "note": "The page's 2026/27 La Liga shirt-sponsors table lists Pamesa Cerámica as Villarreal's front-of-shirt sponsor. The same page notes 'Fernando Roig owns Pamesa Cerámica and became Villarreal's principal shareholder and president in May 1997'.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "gac",
       "placement": "sleeve",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "GAC Spain, GAC patrocinador oficial de Villarreal CF",
+        "date": "2026-09-07",
+        "url": "https://gacspain.es/gac-patrocinador-oficial-de-villareal-cf/",
+        "quote": "En virtud de este acuerdo, GAC se convierte en Official Sleeve Partner del Villarreal CF. El logotipo de la compañía ocupará la manga de la camiseta del primer equipo.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -33,11 +44,31 @@
         "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
         "date": "2025-10-08",
         "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "Ascale back of shirt per the 2025-26 guide"
+        "quote": "Villarreal CF Patrocinador principal de la camiseta: Pamesa Cerámica Patrocinador espalda camiseta (Parte inferior): Ascale Marca técnica: Joma",
+        "note": "2025-26 guide: Ascale on the back of the shirt. No 2026-27 source naming the back placement was found; Ascale remains on the club's official sponsors page and the Footy Headlines 2026-27 kit photos do not show a back-of-shirt logo.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines, Villarreal 26-27 Home Kit Released",
+        "date": "2026-06-08",
+        "url": "https://www.footyheadlines.com/2026/06/villarreal-26-27-home-kit.html",
+        "quote": "Official Release: Villarreal CF has officially launched their new home kit for the 2026-2027 season, manufactured by Joma.",
+        "note": "Kit maker (technical sponsor), not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The club's sponsors page lists Joma among its official sponsors, and 433fc's LaLiga 2026/27 table lists kit manufacturer Joma for Villarreal.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Pamesa Cerámica on the front (partnership since 2013/14), GAC as Official Sleeve Partner from September 2026, Ascale carried over on the back per the 2025-26 guide, Joma as kit maker. No 2026-27 source names the back placement, so the list isn't marked complete.",
   "change": null
 }

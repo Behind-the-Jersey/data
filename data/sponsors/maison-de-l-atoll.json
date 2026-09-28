@@ -1,11 +1,17 @@
 {
   "id": "maison-de-l-atoll",
   "name": "Maison de l'Atoll",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "compagnie-de-phalsbourg",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The L'Atoll shopping centre, owned by Compagnie de Phalsbourg, a French property company. Nothing found.",
+  "claimIds": [
+    "compagnie-de-phalsbourg-ownership"
+  ],
+  "aliases": [
+    "l'atoll",
+    "L'Atoll Angers"
+  ],
+  "note": "Rating note: Compagnie de Phalsbourg is a French SARL (RCS Paris 349 545 103) run by its founder Philippe Journo; no state or fund appears in any source opened. Nothing passes the test."
 }

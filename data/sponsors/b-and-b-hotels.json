@@ -1,11 +1,17 @@
 {
   "id": "b-and-b-hotels",
   "name": "B&B Hotels",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "move-on-bb-hotels",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Operated by Move On B&B HOTELS SAS, majority-owned by Goldman Sachs since 2019. Nothing found.",
+  "claimIds": [
+    "bb-hotels-move-on-goldman-ownership"
+  ],
+  "aliases": [
+    "B&B Hôtels",
+    "B&B HOTELS"
+  ],
+  "note": "Rating note: the Goldman Sachs majority stake is a financial-investment link; under METHOD.md financial records do not count toward a tier. No state ownership found, no human-rights finding found."
 }
