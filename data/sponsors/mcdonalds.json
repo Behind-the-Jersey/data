@@ -1,12 +1,14 @@
 {
   "id": "mcdonalds",
   "name": "McDonald's",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "mcdonalds-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "McDonald's Corporation, a listed US company (NYSE: MCD). Nothing found.",
+  "claimIds": [
+    "mcdonalds-corporation-ownership"
+  ],
   "aliases": [],
-  "note": "Long-standing FIFA sponsor."
+  "note": "Rating note: Title sponsor of Ligue 1 since 2024; appears as the league patch on the shirt sleeve. Long-standing FIFA sponsor."
 }

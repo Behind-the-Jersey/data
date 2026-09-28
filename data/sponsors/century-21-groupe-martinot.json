@@ -1,11 +1,17 @@
 {
   "id": "century-21-groupe-martinot",
   "name": "Century 21 Groupe Martinot",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "martinot-immobilier-troyes",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Estate-agency group trading as CENTURY 21 Martinot Immobilier (MARTINOT IMMOBILIER TROYES, a SARL registered in Troyes). Nothing found.",
+  "claimIds": [
+    "century-21-groupe-martinot-ownership"
+  ],
+  "aliases": [
+    "CENTURY 21 Martinot Immobilier",
+    "Groupe Martinot"
+  ],
+  "note": "Rating note: The sponsor is the local CENTURY 21 agency group, not Century 21's US parent; its legal notice names MARTINOT IMMOBILIER TROYES (SARL, RCS Troyes) and no state or fund appears in any source opened. Nothing passes the test."
 }

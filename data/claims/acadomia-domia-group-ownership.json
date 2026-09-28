@@ -1,0 +1,33 @@
+{
+  "id": "acadomia-domia-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "domia-group",
+    "metric-capital-partners"
+  ],
+  "text": "Acadomia's legal notice names DOMIA GROUP SA (RCS Paris 349 367 557) as the site's publisher and says AIS 2 SAS – ACADOMIA is a subsidiary of DOMIA GROUP SA. Metric Capital Partners' portfolio lists Acadomia as a Fund I investment from 2013, with status Exited.",
+  "short": "Acadomia is a brand of Domia Group; Metric Capital Partners' Fund I held the company (exited).",
+  "source": {
+    "name": "Acadomia: Mentions légales",
+    "date": "2026-07-27",
+    "url": "https://www.acadomia.fr/mentions-legales.html",
+    "quote": "La société AIS 2 SAS – ACADOMIA, filiale de la société DOMIA GROUP SA",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Metric Capital Partners: portfolio (site data, Acadomia entry)",
+      "date": "2026",
+      "url": "https://metric-capital.com/api/portfolio",
+      "quote": "\"name\":\"Acadomia\",\"industry\":\"Professional & Business Services\",\"country\":\"France\",\"strategies\":[\"Growth Capital\",\"Rescue Financing\"],\"funds\":[\"Fund I\"],\"status\":\"Exited\",\"dateOfInvestment\":\"2013\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

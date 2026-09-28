@@ -3,9 +3,14 @@
   "name": "Ascale",
   "ownerId": "ascale",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A ceramic-surface brand of Pamesa Grupo Empresarial (Fernando Roig). Nothing found.",
+  "claimIds": [
+    "ascale-brand-of-pamesa"
+  ],
+  "aliases": [
+    "ASCALE"
+  ],
+  "note": "Nothing found: Ascale is a brand of Pamesa Grupo Empresarial (claim ascale-brand-of-pamesa), the owner of pamesa-ceramica (rated none). No state or state fund was found in the owner chain."
 }

@@ -1,0 +1,43 @@
+{
+  "id": "kuwait-technical-college-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kuwait-technical-college"
+  ],
+  "text": "ktech (Kuwait Technical College) is a private institution of higher education based in Kuwait, specialised in technical and applied training, established in 2014. Its governing body is a Board of Trustees of five members, chaired by Meshari Ayman Boodai.",
+  "short": "Kuwait Technical College (ktech)",
+  "source": {
+    "name": "CA Osasuna: 'Osasuna y Ktech establecen una nueva alianza para las próximas tres temporadas'",
+    "date": "2026-06-30",
+    "url": "https://www.osasuna.es/osasuna-ktech-2026-2029",
+    "quote": "ktech es una institución privada de educación superior con sede en Kuwait especializada en formación técnica y aplicada",
+    "note": "The club article also names 'Meshari Boodai, presidente del Consejo de Administración de Kuwait Technical College', and says the snack brand Prolife is 'una de las marcas gestionadas por la misma entidad'.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "ktech: Board of Trustees",
+      "date": "2026",
+      "url": "https://ktech.edu.kw/en/about-us/about-board-of-trustees-/",
+      "quote": "Currently, the Board is composed of five members: MR. MESHARI AYMAN BOODAI – Chairman",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "ktech: About Us",
+      "date": "2026",
+      "url": "https://ktech.edu.kw/en/about-us/about-us-page/",
+      "quote": "Kuwait Technical College (ktech) is a modern applied college established in 2014",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
