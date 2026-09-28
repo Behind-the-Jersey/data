@@ -6,6 +6,23 @@
   "placement": "sleeve",
   "from": "2026-27",
   "to": null,
-  "value": null,
-  "source": null
+  "value": {
+    "amount": 4,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 5.3
+  },
+  "source": {
+    "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+    "date": "2026-09-17",
+    "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+    "note": "Trade-press estimate: 'reportedly earning £4 million, twice as much as last season'. USD figure derived at the SportsPro conversion rate (US$26.7m per £20m).",
+    "quote": "A lucrative decision, with Aston Villa reportedly earning £4 million, twice as much as last season.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  }
 }
