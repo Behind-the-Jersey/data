@@ -5,14 +5,17 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "MGS, Seguros y Reaseguros, S.A., a Spanish insurance company founded in 1907 as Mutua General de Seguros; no state stake found. Nothing found.",
+  "verdict": "Spanish mutual-origin insurer, unlisted, majority widely held; largest stake (19.01%) with the Fundación Mutua General de Seguros. Nothing found.",
   "claimIds": [
-    "mgs-seguros-ownership"
+    "mgs-seguros-ownership",
+    "mgs-seguros-fundacion-stake"
   ],
   "aliases": [
-    "MGS, Seguros y Reaseguros, S.A.",
+    "MGS",
+    "Mutua General de Seguros",
     "MGS Seguros y Reaseguros",
+    "MGS, Seguros y Reaseguros, S.A.",
     "Grupo MGS"
   ],
-  "note": "Proposed none 2026-09-28 (PR #340): a private sociedad anónima (Estatutos, March 2025); no state body or fund found anywhere in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against it was found, so nothing found."
+  "note": "Rating note: Transformed from mutual Mutua General de Seguros (founded 1907) into an S.A. in 2011 with mutualists as shareholders. No state, listed parent or controlling shareholder found in the company's own statutes and annual report. Sleeve sponsor of Racing Santander, Málaga and Elche in 2026/27."
 }
