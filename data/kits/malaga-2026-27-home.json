@@ -14,17 +14,28 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Málaga Sabor a Málaga (main) Málaga (vertical) Food Tourism",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shirt-sponsor table row: Sabor a Málaga as main shirt sponsor. Same article: 'Sabor a Málaga has returned to Málaga's shirt fronts after a previous stint between 2021/22 and 2024/25.'"
       }
     },
     {
       "sponsorId": "malaga-turismo",
       "placement": "front",
       "source": {
-        "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
-        "date": "2026-08-10",
-        "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
-        "note": "second vertical logo (Malaga) on the shirt front"
+        "name": "Málaga CF (official site): El Málaga CF y el Ayuntamiento de Málaga amplían su vinculación una temporada más",
+        "date": "2026-08-13",
+        "url": "https://www.malagacf.com/noticias/el-malaga-cf-y-el-ayuntamiento-de-malaga-amplian-su-vinculacion-una-temporada-mas",
+        "quote": "El convenio incluye la ubicación de la marca Málaga en el lateral delantero de las camisetas de los primeros equipos masculino y femenino",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The Ayuntamiento de Málaga's 'marca Málaga', placed through municipal company Promálaga, on the front side of the shirt: the second, vertical front logo. Score and Change (2026-09-06) lists Málaga's shirt fronts as 'Sabor a Málaga (main) Málaga (vertical)' and says 'last season's main partner Málaga Turismo is now featured vertically with a Málaga logo'; 2Playbook (2026-08-10): UAX 'deja el lateral de la camiseta, que pasa a ocupar el Ayuntamiento de Málaga'. One logo, recorded once."
       }
     },
     {
@@ -33,7 +44,28 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Málaga MGS Seguros Financial services – insurance",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Sleeve-sponsor table row. Same article: 'Three clubs – Elche and promoted sides Málaga and Racing Santander – have even agreed with the same company MGS Seguros.'"
+      }
+    },
+    {
+      "sponsorId": "dental-clinics",
+      "placement": "back",
+      "source": {
+        "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+        "date": "2026-08-10",
+        "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+        "quote": "Dental Clinics continuará en el cuello y Ayuntamiento de Benahavís en la parte inferior trasera de la camiseta.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Grupo Dental Clinics on the back of the collar (neck). Club announcement of the original deal (2023-12-18): 'el grupo de centros odontológicos estará presente en el cuello de las equipaciones del primer equipo'."
       }
     },
     {
@@ -43,11 +75,31 @@
         "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
         "date": "2026-08-10",
         "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
-        "note": "Ayuntamiento de Benahavis on the lower back of the shirt"
+        "quote": "Dental Clinics continuará en el cuello y Ayuntamiento de Benahavís en la parte inferior trasera de la camiseta.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Ayuntamiento de Benahavís on the lower back of the shirt."
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Danish brand Hummel continued their partnership weith Celta de Vigo and Champions League side Real Betis, while adding promoted side Málaga.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit-sponsor table row 'Málaga Hummel': Hummel makes the 2026/27 Málaga shirt (kit maker, recorded as partner per existing convention)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Sabor a Málaga (main) and the Ayuntamiento de Málaga's 'Málaga' mark (Málaga Turismo, vertical) on the front, MGS Seguros on the sleeve, Dental Clinics on the back of the collar, Ayuntamiento de Benahavís on the lower back, and Hummel as kit maker. 2Playbook (10 Aug 2026) names each of these spaces and says the shorts are still unsold ('en el pantalón, que sigue sin patrocinador'); Málaga Hoy had reported on 2 July, before the deal was official, that Turismo Costa del Sol would go on the back of the shorts.",
   "change": null
 }

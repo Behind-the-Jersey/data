@@ -12,13 +12,61 @@
       "sponsorId": "revolut",
       "placement": "front",
       "source": {
-        "name": "Como 1907",
-        "date": "2026-07-01",
-        "url": "https://comofootball.com/en/revolut-becomes-como-1907-s-official-front-of-shirt-partner/"
+        "name": "Como 1907 - Revolut becomes Como 1907's Official Front-of-Shirt Partner",
+        "date": "2026-07-27",
+        "url": "https://comofootball.com/en/revolut-becomes-como-1907-s-official-front-of-shirt-partner/",
+        "quote": "Revolut becoming the club’s Official Front-of-Shirt Partner from the 2026/27 season onward",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "uber",
+      "placement": "back",
+      "source": {
+        "name": "Como 1907 - Como 1907 and Uber Extend Partnership with New Four-Year Agreement",
+        "date": "2026-08-17",
+        "url": "https://comofootball.com/en/como-1907-and-uber-extend-partnership-with-new-four-year-agreement/",
+        "quote": "Uber will also appear on the back of the Como 1907 shirt for all Serie A and Coppa Italia matches for the first two seasons of the partnership",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "pokerstars-news",
+      "placement": "sleeve",
+      "source": {
+        "name": "Como 1907 - PokerStarsNews continues partnership with Como 1907",
+        "date": "2026-08-20",
+        "url": "https://comofootball.com/en/pokerstarsnews-continues-partnership-with-como-1907/",
+        "quote": "PokerStarsNews will remain the club's official sleeve partner, with its logo appearing on the sleeves of the men's first team's shirts",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Como 1907 - Como 1907 and adidas unveil the 2026/27 home jersey",
+        "date": "2026-07-26",
+        "url": "https://comofootball.com/en/como-1907-and-adidas-unveil-the-202627-home-jersey/",
+        "quote": "Como 1907 and adidas today unveil the club's new home jersey for the 2026/27 season, designed by Chief Brand Officer Rhuigi Villaseñor with adidas",
+        "note": "Kit maker, named in the club's home-jersey launch; not a shirt sponsor in the front/back/sleeve sense.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Back: Uber; Sleeves: PokerStars News (gambling)."
+  "summary": "adidas home shirt: Revolut on the front, Uber on the back, PokerStarsNews on the sleeves. Revolut is rated none; Uber is a listed US company with no state holder at 5% or more; PokerStarsNews is run by TSG Platforms (Ireland), a Flutter Entertainment subsidiary - also listed, with no state holder found."
 }

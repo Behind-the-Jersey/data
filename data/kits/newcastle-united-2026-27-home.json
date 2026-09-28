@@ -14,23 +14,49 @@
       "sponsorId": "knox-hydration",
       "placement": "front",
       "source": {
-        "name": "The Mag",
-        "date": "2026-06",
-        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+        "name": "Newcastle United: Newcastle United announces monumental three-year front-of-shirt partnership with Knox Hydrate",
+        "date": "2026-06-23",
+        "url": "https://www.newcastleunited.com/en/news/knox-hydrate-front-of-shirt-partnership",
+        "quote": "Knox Hydrate branding will proudly feature on the front of all matchday shirts for the Men's first team, Newcastle United Women, and the Academy teams from the start of the 2026-27 season.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "noon",
       "placement": "sleeve",
       "source": {
-        "name": "The Mag",
-        "date": "2026-06",
-        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+        "quote": "Newcastle United Noon E-commerce",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "A row of the page's 2026/27 sleeve-sponsor table ('Who are the sleeve sponsors of the Premier League clubs?'). The club's partners page (newcastleunited.com/en/partners) lists noon among its principal partners."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Newcastle United: Newcastle United and adidas unveil 2026/27 home kit",
+        "date": "2026-06-10",
+        "url": "https://www.newcastleunited.com/en/news/newcastle-united-and-adidas-unveil-2026-27-home-kit",
+        "quote": "Our adidas home kit for the 2026/27 season has arrived",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "noon, on the sleeve, is part-owned by Saudi Arabia’s state fund.",
+  "sponsorsComplete": true,
+  "summary": "Knox Hydrate on the front and noon on the sleeve of the adidas home shirt: Score and Change's 2026/27 Premier League tables list them as Newcastle's shirt and sleeve sponsors. noon is half owned by Saudi Arabia's state fund, PIF.",
   "change": {
     "kind": "better",
     "text": "Better than last season: Saudi-owned Sela is off the front",

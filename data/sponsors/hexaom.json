@@ -1,11 +1,17 @@
 {
   "id": "hexaom",
   "name": "Hexaom",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "hexaom-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Hexaom SA, a century-old French family home-construction group listed on Euronext Growth Paris. Nothing found.",
+  "claimIds": [
+    "hexaom-sa-listing"
+  ],
+  "aliases": [
+    "Hexaôm",
+    "Groupe HEXAOM"
+  ],
+  "note": "Rating note: Family-centred home-construction group ('groupe familial centenaire' per the club's 2 July 2026 announcement); listed on Euronext Growth Paris, no state or fund owner found in its investor information → none. Main shirt sponsor from 2026-27 (club announcement 2 July 2026)."
 }
