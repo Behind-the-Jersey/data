@@ -14,7 +14,12 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Real Betis Gree Consumer appliances – air conditioning",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -23,21 +28,76 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Real Betis REVEL Car rental",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "trainline",
       "placement": "back",
       "source": {
-        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
-        "date": "2025-10-08",
-        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "Trainline back of shirt per the 2025-26 guide"
+        "name": "Real Betis Balompié: El Real Betis y Trainline refuerzan su alianza",
+        "date": "2025-02-13",
+        "url": "https://www.realbetisbalompie.es/noticias/actualidad/el-real-betis-y-trainline-refuerzan-su-alianza-31049",
+        "quote": "Concretamente, figurará en la parte delantera de la camiseta de trabajo diario y en las de calentamiento, uniéndose así a su presencia en la trasera de las camisetas de juego.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Same announcement: 'el acuerdo de patrocinio se ha ampliado hasta la campaña 2026/27'. Lower back of the shirt: Blinkfire's 2025-26 LALIGA guide, 'Patrocinador espalda camiseta (Parte inferior): Trainline'."
+      }
+    },
+    {
+      "sponsorId": "prima-assicurazioni",
+      "placement": "back",
+      "source": {
+        "name": "Real Betis Balompié: El Real Betis y Prima Seguros firman un acuerdo de patrocinio",
+        "date": "2025-06-10",
+        "url": "https://www.realbetisbalompie.es/noticias/actualidad/el-real-betis-y-prima-seguros-firman-un-acuerdo-de-patrocinio-31463",
+        "quote": "que arranca el 1 de julio y se extenderá hasta el 30 de junio de 2028, el logo de la insurtech lucirá en la parte superior trasera de las equipaciones de juego",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Prima Seguros, 'la marca de origen italiano' of Prima, on the upper back of the men's first-team match shirt from 2025-26 to 2027-28. Blinkfire's 2025-26 guide: 'Back of jersey (top): Prima Seguros'."
+      }
+    },
+    {
+      "sponsorId": "aus-global",
+      "placement": "shorts",
+      "source": {
+        "name": "Real Betis Balompié: Real Betis and AUS Global renew their sponsorship agreement until 2028",
+        "date": "2026-05-14",
+        "url": "https://en.realbetisbalompie.es/news/latest_news/real-betis-and-aus-global-renew-their-sponsorship-agreement-until-2028-32416-32417",
+        "quote": "the international trading company's logo will continue to feature on the first team's match shorts during LALIGA and Copa del Rey matches",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Same release: the renewal extends the partnership 'until the 2027/28 season'; AUS Global has sponsored the club since 2023/24."
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Danish brand Hummel continued their partnership weith Celta de Vigo and Champions League side Real Betis, while adding promoted side Málaga.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Gree (front) and REVEL (sleeve) per Score and Change's 2026/27 overview; Trainline (lower back, deal to 2026/27), Prima Seguros (upper back, to 2027/28) and AUS Global (shorts, to 2027/28) per the club's announcements; hummel as kit maker. These are the six Blinkfire's 2025-26 guide lists for Betis, but no 2026-27 source lists the whole kit, so the list is not confirmed complete.",
   "change": null
 }
