@@ -1,0 +1,34 @@
+{
+  "id": "saic-group-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saic-group",
+    "government-of-china"
+  ],
+  "text": "SAIC Motor's controlling shareholder is Shanghai Automotive Industry (Group) Co., Ltd., which holds 63.71% of the shares and is a state-owned enterprise supervised by the Shanghai Municipal State-owned Assets Supervision and Administration Commission (Shanghai SASAC).",
+  "source": {
+    "name": "SAIC Motor Corporation Limited — Annual Report 2025 (English), shareholders and related-party notes",
+    "date": "2026-03-31",
+    "url": "https://www.saicmotor.com/english/images/investor_relations/annual_report/2026/4/21/0DFE68E4BCB74B01ACFAE92C344763FF.pdf",
+    "quote": "The Company’s parent company is SAIC (Group), which is a state owned enterprise supervised by Shanghai SASAC",
+    "note": "SAIC Motor Annual Report 2025 (published April 2026). The same report's top-shareholder table lists Shanghai Automotive Industry (Group) Co., Ltd. with 7,324,009,279 shares (63.71%) as a 'State-owned legal person', and its definitions give 'Shanghai SASAC: Refers to Shanghai State-owned Assets Supervision and Administration Commission'.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SAIC Motor Corporation Limited — 2026 semi-annual report (cninfo filing, Chinese)",
+      "date": "2026-08-29",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-29/1225526578.PDF",
+      "quote": "本公司的母公司为上汽总公司，上汽总公司系上海市国有资产监督管理委员会出资监管的国 有企业。",
+      "note": "Translation: 'The Company's parent company is SAIC (Group) (Shanghai Automotive Industry (Group) Co., Ltd.), which is a state-owned enterprise funded and supervised by the Shanghai Municipal State-owned Assets Supervision and Administration Commission.' The same filing's top-shareholder table lists 上海汽车工业（集团）有限公司 with 7,324,009,279 shares, 63.71%, 国有法人 (state-owned legal person).",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

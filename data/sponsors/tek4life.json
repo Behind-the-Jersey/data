@@ -1,12 +1,16 @@
 {
   "id": "tek4life",
   "name": "Tek4Life",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "tek4life",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor per https://www.scbraga.pt/pt/sponsors"
+  "claimIds": [
+    "tek4life-sa-ownership"
+  ],
+  "aliases": [
+    "Tek4life Group"
+  ],
+  "note": "On the sleeves of SC Braga's shirts under a deal running to 2027. TEK4LIFE, S.A. (Adaúfe, Braga, NIF 516 068 121); who owns it isn't sourced, so it isn't rated yet."
 }
