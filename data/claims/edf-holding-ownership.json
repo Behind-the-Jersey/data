@@ -1,0 +1,34 @@
+{
+  "id": "edf-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "edf-holding",
+    "edf-sa",
+    "french-state"
+  ],
+  "text": "Électricité de Strasbourg's capital is held 88.64% by EDF développement et environnement (EDF HOLDING), per ES's own investor page; EDF's own capital-structure page shows the French state holds 100% of EDF.",
+  "short": "Électricité de Strasbourg is 88.64% held by EDF Holding; the French state holds 100% of EDF.",
+  "source": {
+    "name": "Groupe ES — Investisseurs et actionnaires",
+    "date": "2026-09-28",
+    "url": "https://groupe.es.fr/investisseurs-et-presse/investisseurs-et-actionnaires",
+    "quote": "Le capital d’Électricité de Strasbourg est détenu à 88,64 % par EDF développement et environnement (EDF HOLDING) et à 11,36 % par d'autres actionnaires",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "EDF — Structure du capital (investisseurs)",
+      "date": "2023-07-31",
+      "url": "https://www.edf.fr/groupe-edf/espaces-dedies/investisseurs/structure-du-capital",
+      "quote": "Répartition du capital social au 31 juillet 2023 (Nombre total d’actions : 4 168 730 082) Capital social : 2 084 365 041 € État 100 %",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

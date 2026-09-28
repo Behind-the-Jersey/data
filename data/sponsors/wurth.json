@@ -1,11 +1,18 @@
 {
   "id": "wurth",
   "name": "Würth",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "wurth-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Würth Group. Nothing found.",
+  "claimIds": [
+    "wurth-group-ownership"
+  ],
+  "aliases": [
+    "Würth Group",
+    "WURTH",
+    "Würth France"
+  ],
+  "note": "Rating note: German family company owned via family foundations since 1987. No state or fund shareholder identified; no serious-abuse record sourced."
 }

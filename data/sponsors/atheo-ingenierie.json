@@ -1,11 +1,18 @@
 {
   "id": "atheo-ingenierie",
   "name": "Atheo Ingenierie",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "oci-holding",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by OCI. Nothing found.",
+  "claimIds": [
+    "oci-holding-ownership"
+  ],
+  "aliases": [
+    "Atheo",
+    "Athéo Ingénierie",
+    "Atheo Ingenierie"
+  ],
+  "note": "Rating note: French IT-services SAS (Strasbourg) whose président is OCI, a private Grenoble holding led by Marc Rebouah. No state or fund shareholder identified; no serious-abuse record sourced."
 }

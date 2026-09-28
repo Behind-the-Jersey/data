@@ -1,11 +1,16 @@
 {
   "id": "winamax",
   "name": "Winamax",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "winamax-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Winamax SA. Nothing found.",
+  "claimIds": [
+    "winamax-sa-ownership"
+  ],
+  "aliases": [
+    "winamax sports"
+  ],
+  "note": "Rating note: Private French SA (online poker and sports betting — a gambling company, but privately held). No state or fund shareholder identified in the chain; no serious-abuse record sourced. Front-of-shirt top sponsor since 2020, extended to 2028 (22 July 2026 announcement)."
 }

@@ -1,11 +1,17 @@
 {
   "id": "hager-group",
   "name": "Hager Group",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "hager-se",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Hager SE. Nothing found.",
+  "claimIds": [
+    "hager-se-ownership"
+  ],
+  "aliases": [
+    "Hager",
+    "Hager Electro"
+  ],
+  "note": "Rating note: Independent German family company (Hager family, since 1955). No state or fund shareholder identified; no serious-abuse record sourced."
 }

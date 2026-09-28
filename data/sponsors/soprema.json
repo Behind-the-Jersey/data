@@ -1,11 +1,17 @@
 {
   "id": "soprema",
   "name": "Soprema",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "soprema-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Groupe Soprema. Nothing found.",
+  "claimIds": [
+    "soprema-group-ownership"
+  ],
+  "aliases": [
+    "SOPREMA",
+    "Group Soprema"
+  ],
+  "note": "Rating note: Independent family group since 1908 (Geisen/Bindschedler family; Crigel GmbH leads the operating company). No state or fund shareholder identified; no serious-abuse record sourced. Partner of the club since May 2022, namer of the Racing Soprema Parc performance centre, back-of-shirt presence."
 }

@@ -12,58 +12,104 @@
       "sponsorId": "winamax",
       "placement": "front",
       "source": {
-        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "name": "RC Strasbourg Alsace — Maillot domicile 2026-2027 : le Racing et adidas célèbrent les origines du club",
         "date": "2026",
-        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        "url": "https://www.rcstrasbourgalsace.fr/maillot-domicile-2026-2027-le-racing-et-adidas-celebrent-les-origines-du-club/",
+        "quote": "Une ambition qui s’illustre notamment à travers la présence du sponsor Winamax en face avant",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "hager-group",
       "placement": "front",
       "source": {
-        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
-        "date": "2026",
-        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        "name": "Wikipedia — 2026-27 Ligue 1, Personnel and kits (Strasbourg row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+        "quote": "Adidas Winamax List Front: Hager Group , Électricité de Strasbourg Back: Soprema Sleeves: Würth Shorts: Atheo Ingenierie Socks: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "electricite-de-strasbourg",
       "placement": "front",
       "source": {
-        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
-        "date": "2026",
-        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        "name": "Wikipedia — 2026-27 Ligue 1, Personnel and kits (Strasbourg row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+        "quote": "Adidas Winamax List Front: Hager Group , Électricité de Strasbourg Back: Soprema Sleeves: Würth Shorts: Atheo Ingenierie Socks: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "soprema",
       "placement": "back",
       "source": {
-        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
-        "date": "2026",
-        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        "name": "Wikipedia — 2026-27 Ligue 1, Personnel and kits (Strasbourg row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+        "quote": "Adidas Winamax List Front: Hager Group , Électricité de Strasbourg Back: Soprema Sleeves: Würth Shorts: Atheo Ingenierie Socks: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Soprema's own partnership page confirms its presence on the club's Ligue 1 shirt ('sa présence sur le maillot des Bleus et Blancs en Ligue 1') and its role as namer of the Racing Soprema Parc performance centre."
       }
     },
     {
       "sponsorId": "wurth",
       "placement": "sleeve",
       "source": {
-        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
-        "date": "2026",
-        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        "name": "Wikipedia — 2026-27 Ligue 1, Personnel and kits (Strasbourg row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+        "quote": "Adidas Winamax List Front: Hager Group , Électricité de Strasbourg Back: Soprema Sleeves: Würth Shorts: Atheo Ingenierie Socks: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "atheo-ingenierie",
       "placement": "shorts",
       "source": {
-        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "name": "Wikipedia — 2026-27 Ligue 1, Personnel and kits (Strasbourg row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+        "quote": "Adidas Winamax List Front: Hager Group , Électricité de Strasbourg Back: Soprema Sleeves: Würth Shorts: Atheo Ingenierie Socks: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "RC Strasbourg Alsace — Maillot domicile 2026-2027 : le Racing et adidas célèbrent les origines du club",
         "date": "2026",
-        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        "url": "https://www.rcstrasbourgalsace.fr/maillot-domicile-2026-2027-le-racing-et-adidas-celebrent-les-origines-du-club/",
+        "quote": "le club et adidas dévoilent un nouveau maillot domicile",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker (équipementier officiel on the club's partners page); not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Adidas kit. Winamax front; Würth on the sleeve.",
-  "change": null
+  "sponsorsComplete": true,
+  "change": null,
+  "summary": "Adidas home shirt. Winamax alone on the front (unique front-of-shirt partner, extended to 2028); Hager Group and Électricité de Strasbourg also front, Soprema on the back, Würth on the sleeves, Atheo Ingenierie on the shorts. Winamax is a private French SA, Hager a German family company, ES 88.64% EDF Holding (EDF 100% French state), Soprema an independent family group, Würth family foundations, Atheo held via the private Grenoble holding OCI; no serious-abuse record sourced anywhere in the chains."
 }
