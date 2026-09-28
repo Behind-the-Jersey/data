@@ -1,0 +1,33 @@
+{
+  "id": "naspers-prosus-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "naspers",
+    "prosus-nv"
+  ],
+  "text": "Prosus's majority shareholder is the South African multinational Naspers; the cross-shareholding deal completed in August 2021 reduced Naspers' stake in Prosus to 56.92% while giving Prosus an approximately 49% share in Naspers.",
+  "short": "Naspers holds a 56.92% stake in Prosus after the August 2021 restructuring.",
+  "source": {
+    "name": "Wikipedia: Naspers",
+    "date": "2026",
+    "url": "https://en.wikipedia.org/wiki/Naspers",
+    "quote": "The deal, successfully completed in August 2021, reduced Naspers' stake in Prosus to 56.92% and gave Prosus an approximately 49% share in its parent company.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipedia: Prosus",
+      "date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Prosus",
+      "quote": "Prosus majority shareholder is South African multinational mass media company Naspers.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
