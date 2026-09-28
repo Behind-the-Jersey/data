@@ -4,17 +4,29 @@
   "ownerIds": [
     "upcycling-holding-sl"
   ],
-  "text": "Lopez Rubio Grand Class SL became a single-member company (sociedad unipersonal) with UPCYCLING HOLDING SL as its legal titleholder of the company shares, registered in the Registro Mercantil on 14 November 2024; UPCYCLING HOLDING SL is itself administered by Lopez Rubio Pedro Miguel since 3 March 2022. Corroborating source: Empresia (Axesor data), UPCYCLING HOLDING SL — company record and BORME appointments (https://www.empresia.es/empresa/upcycling-holding/): \"Con fecha 3 de marzo de 2022 se inscribe en el Registro Mercantil el nombramiento de Lopez Rubio Pedro Miguel como Administrador Único de la sociedad.\"",
-  "short": "UPCYCLING HOLDING SL is the sole shareholder of Lopez Rubio Grand Class SL since 14 November 2024.",
+  "text": "The Boletín Oficial del Registro Mercantil records that Lopez Rubio Grand Class SL became a single-member company with UPCYCLING HOLDING SL as its sole shareholder (socio único), registered on 14 November 2024. UPCYCLING HOLDING SL's sole administrator since 3 March 2022 is Pedro Miguel Lopez Rubio.",
+  "short": "UPCYCLING HOLDING SL is the sole shareholder of Lopez Rubio Grand Class SL (BORME, November 2024).",
   "source": {
-    "name": "Empresia (Axesor data), Lopez Rubio Grand Class SL — BORME announcements",
+    "name": "BOE: Boletín Oficial del Registro Mercantil, BORME-A-2024-225-28 (Madrid)",
     "date": "2024-11-21",
-    "url": "https://www.empresia.es/empresa/lopez-rubio-grand-class/",
-    "quote": "Declaración de unipersonalidad. Con fecha 14 de noviembre de 2024 se inscribe en el Registro Mercantil la adquisición del carácter unipersonal de la sociedad, siendo el titular jurídico y formal de las acciones o participaciones societarias la sociedad UPCYCLING HOLDING SL",
+    "url": "https://www.boe.es/borme/dias/2024/11/21/pdfs/BORME-A-2024-225-28.pdf",
+    "quote": "LOPEZ RUBIO GRAND CLASS SL. Declaración de unipersonalidad. Socio único: UPCYCLING HOLDING SL.",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "BOE: Boletín Oficial del Registro Mercantil, BORME-A-2022-48-28 (Madrid)",
+      "date": "2022-03-10",
+      "url": "https://www.boe.es/borme/dias/2022/03/10/pdfs/BORME-A-2022-48-28.pdf",
+      "quote": "UPCYCLING HOLDING SL. Ceses/Dimisiones. Adm. Unico: GAYO LOPEZ JUAN MANUEL. Nombramientos. Adm. Unico: LOPEZ RUBIO PEDRO MIGUEL.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }

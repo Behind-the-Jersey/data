@@ -1,11 +1,13 @@
 {
   "id": "grand-class-brand-record",
   "kind": "ownership",
-  "ownerIds": ["lopez-rubio-grand-class-sl"],
-  "text": "The Grand Class brand (grandclass.es, luxury chauffeured car rental in Madrid) is owned by Lopez Rubio Grand Class SL, which per its legal notice is titular of the website under Spain's LSSI-CE, with NIF B81914095 registered in Madrid.",
-  "short": "Grand Class is the brand of Lopez Rubio Grand Class SL (NIF B81914095).",
+  "ownerIds": [
+    "lopez-rubio-grand-class-sl"
+  ],
+  "text": "Grand Class's legal notice names Lopez Rubio Grand Class SL (NIF B81914095, registered in Madrid) as the owner (titular) of the grandclass.es website; Getafe CF describes Grand Class as a luxury-vehicle rental company in Madrid.",
+  "short": "Grand Class's website belongs to Lopez Rubio Grand Class SL (NIF B81914095).",
   "source": {
-    "name": "Grand Class, Aviso legal",
+    "name": "Grand Class: Aviso legal",
     "date": "2026",
     "url": "https://grandclass.es/aviso-legal/",
     "quote": "En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), LOPEZ RUBIO GRAND CLASS SL informa que es titular del sitio web.",
@@ -14,5 +16,17 @@
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Getafe CF: El Getafe CF y Grand Class unen fuerzas en un nuevo acuerdo de patrocinio",
+      "date": "2025-08-14",
+      "url": "https://www.getafecf.com/noticias/el-getafe-cf-y-grand-class-unen-fuerzas-en-un-nuevo-acuerdo-de-patrocinio",
+      "quote": "Grand Class, empresa de alquiler de vehículos de lujo en Madrid",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }
