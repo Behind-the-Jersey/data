@@ -3,9 +3,13 @@
   "name": "Polestar",
   "ownerId": "polestar-automotive",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Polestar Automotive Holding UK PLC (Nasdaq: PSNY); controlled by Li Shufu through PSD Investment, Snita (Volvo Cars) and Geely vehicles - a private Chinese-Swedish ownership group. Nothing found.",
+  "claimIds": [
+    "polestar-automotive-ownership",
+    "geely-volvo-control-polestar"
+  ],
+  "aliases": [],
+  "note": "Rating note: BVB sleeve and mobility partner since August 2025 (three-year deal reported at ~EUR 5m per season). Ownership per Polestar's own 20-F for 2025: Li Shufu/PSD 55.2% of shares and 27.9% of votes, Geely-affiliated vehicles and Volvo Cars (itself Geely-controlled) hold the rest of the ~69% related-party stake; no state or state fund appears among the five-percent-or-more holders. Chain ends in a private individual (Li Shufu) and a private Chinese holding group, not a state. Geely's automotive/battery supply chains (cobalt, Uyghur-region inputs) were considered, but METHOD.md record claims need a court, regulator, UN body or major-NGO finding against a company in the chain, and none was sourced for Polestar, Volvo Cars, Geely or PSD."
 }

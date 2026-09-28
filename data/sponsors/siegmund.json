@@ -3,9 +3,15 @@
   "name": "Siegmund",
   "ownerId": "siegmund",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Bernd Siegmund GmbH, a family-run welding-table maker. Nothing found.",
+  "claimIds": [
+    "siegmund-bernd-siegmund-gmbh-record"
+  ],
+  "aliases": [
+    "Bernd Siegmund GmbH",
+    "SIEGMUND"
+  ],
+  "note": "Rating note: Private, family-run GmbH (founded by Bernd Siegmund, run by his son Daniel Siegmund) in Oberottmarshausen near Augsburg. FC Augsburg's sleeve sponsor since 2018. No state or fund in the ownership chain, and no sourced human-rights finding against the company was found."
 }
