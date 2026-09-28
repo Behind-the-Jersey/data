@@ -1,11 +1,14 @@
 {
   "id": "bwin",
   "name": "Bwin",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "entain-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Entain plc.. Nothing found.",
+  "claimIds": [
+    "bwin-entain-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: bwin is a gambling (sports betting) brand owned by Entain plc, a UK-listed company; no state appears in the ownership chain."
 }

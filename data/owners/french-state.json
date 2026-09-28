@@ -3,5 +3,6 @@
   "name": "French State via APE",
   "type": "state",
   "country": "France",
-  "parentId": "renault-group"
+  "parentId": null,
+  "note": "A minority shareholder of listed French companies (Renault ~15%, FDJ United, Airbus...) held through the Agence des participations de l'État; a state, so no parent company."
 }

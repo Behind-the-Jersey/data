@@ -1,11 +1,14 @@
 {
   "id": "vinci",
   "name": "Vinci",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "vinci-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Vinci SA. Nothing found.",
+  "claimIds": [
+    "vinci-sa-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Vinci SA is the listed French concession and construction group itself; its shareholder base is spread (no shareholder above ~12%, no state holder), so the chain stops at the listed company."
 }

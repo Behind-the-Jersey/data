@@ -14,47 +14,92 @@
       "source": {
         "name": "The Daily Tribune (Bahrain), 'Victorious Bahrain goes European: Shaikh Nasser visits Paris FC'",
         "date": "2026-02-08",
-        "url": "https://www.newsofbahrain.com/sports/126544.html"
+        "url": "https://www.newsofbahrain.com/sports/126544.html",
+        "quote": "visited the headquarters of French club Paris FC, which competes under the banner of “Victorious Bahrain”",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club's official partners page lists Team Bahrain Victorious first under 'Partenaires principaux' (main partners); the shirt photo on the club's shop shows BAHRAIN VICTORIOUS printed across the centre chest."
       }
     },
     {
       "sponsorId": "google-pixel",
       "placement": "front",
       "source": {
-        "name": "Paris FC — site officiel",
-        "date": "2026",
-        "url": "https://parisfc.fr/"
+        "name": "Paris FC — Nos partenaires (Google Pixel appears under Partenaires majeurs)",
+        "date": "2026-09-28",
+        "url": "https://parisfc.fr/nos-partenaires-2/",
+        "quote": "Partenaires principaux Partenaires majeurs Partenaires officiels et institutionnels Fournisseurs Officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The partner names on that page are images; Google Pixel's logo (alt 'Google Pixel') sits under the heading 'Partenaires majeurs'. Wikipedia's 2026-27 Ligue 1 kit table (uncited) places Google Pixel on the front of the shirt."
       }
     },
     {
       "sponsorId": "vinci",
       "placement": "back",
       "source": {
-        "name": "Paris FC — site officiel",
-        "date": "2026",
-        "url": "https://parisfc.fr/"
+        "name": "Paris FC — Nos partenaires (Vinci appears under Partenaires majeurs)",
+        "date": "2026-09-28",
+        "url": "https://parisfc.fr/nos-partenaires-2/",
+        "quote": "Partenaires principaux Partenaires majeurs Partenaires officiels et institutionnels Fournisseurs Officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The partner names on that page are images; Vinci's logo (alt 'Vinci') sits under the heading 'Partenaires majeurs'. Wikipedia's 2026-27 Ligue 1 kit table (uncited) places Vinci on the back of the shirt."
       }
     },
     {
       "sponsorId": "renault",
       "placement": "sleeve",
       "source": {
-        "name": "Paris FC — site officiel",
-        "date": "2026",
-        "url": "https://parisfc.fr/"
+        "name": "Paris FC — Nos partenaires (Renault appears under Partenaires majeurs)",
+        "date": "2026-09-28",
+        "url": "https://parisfc.fr/nos-partenaires-2/",
+        "quote": "Partenaires principaux Partenaires majeurs Partenaires officiels et institutionnels Fournisseurs Officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The partner names on that page are images; Renault's logo (alt 'Renault') sits under the heading 'Partenaires majeurs'. Wikipedia's 2026-27 Ligue 1 kit table (uncited) places Renault on the sleeves."
       }
     },
     {
       "sponsorId": "bwin",
       "placement": "shorts",
       "source": {
-        "name": "Paris FC — site officiel",
-        "date": "2026",
-        "url": "https://parisfc.fr/"
+        "name": "Paris FC — Nos partenaires (Bwin appears under Partenaires majeurs)",
+        "date": "2026-09-28",
+        "url": "https://parisfc.fr/nos-partenaires-2/",
+        "quote": "Partenaires principaux Partenaires majeurs Partenaires officiels et institutionnels Fournisseurs Officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The partner names on that page are images; Bwin's logo (alt 'Bwin') sits under the heading 'Partenaires majeurs'. Wikipedia's 2026-27 Ligue 1 kit table (uncited) places Bwin on the shorts; socks: none."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Paris FC — adidas et le Paris FC dévoilent le maillot domicile pour la saison 26-27",
+        "date": "2026-08-05",
+        "url": "https://parisfc.fr/equipe-pro/adidas-et-le-paris-fc-devoilent-le-maillot-domicile-pour-la-saison-26-27/",
+        "quote": "adidas et le Paris FC présentent aujourd’hui le nouveau maillot domicile pour la saison 2026/27.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, named by the club in the kit launch; not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Adidas kit. Bahrain Victorious (Bahrain state brand) front.",
+  "sponsorsComplete": true,
+  "summary": "Adidas kit. Bahrain Victorious (Bahrain state brand) across the centre chest, Google Pixel on the front, Vinci on the back, Renault on the sleeves, Bwin on the shorts.",
   "change": null
 }
