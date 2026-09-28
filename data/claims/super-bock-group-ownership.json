@@ -1,0 +1,31 @@
+{
+  "id": "super-bock-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "super-bock-group"
+  ],
+  "text": "The capital of Super Bock Group is held 56% by Grupo VIACER and 44% by Grupo Carlsberg, per the group's own site. Carlsberg's 2025 annual report states the Group's effective ownership of Super Bock Group is 60% and lists its 29% holding in Viacer S.G.P.S., Lda, the majority shareholder of Super Bock Group.",
+  "source": {
+    "name": "Super Bock Group: Quem Somos",
+    "date": "2026",
+    "url": "https://superbockgroup.com/grupo/quem-somos/",
+    "quote": "o capital do Super Bock Group é detido em 56% pelo Grupo VIACER e em 44% pelo Grupo Carlsberg",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Carlsberg Group Annual Report 2025 (associates; effective ownership of Super Bock Group 60%)",
+      "date": "2026-02-04",
+      "url": "https://www.carlsberggroup.com/reports-downloads/carlsberg-group-2025-annual-report/",
+      "quote": "The Group’s effective ownership of Super Bock Group, Portugal, is 60%. Nevertheless, Super Bock remains an associate of the Group due to the ownership structure.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
