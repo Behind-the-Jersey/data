@@ -3,12 +3,14 @@
   "name": "Super Bock",
   "ownerId": "super-bock-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Super Bock Group (56% VIACER Group, 44% Carlsberg Group). Nothing found.",
+  "claimIds": [
+    "super-bock-group-ownership"
+  ],
   "aliases": [
     "super bock group"
   ],
-  "note": "Portuguese beer brand (Super Bock Group). Back-of-shirt sponsor at Porto and Sporting CP, and an official sponsor at Braga, in 2026-27."
+  "note": "Portuguese beer brand (Super Bock Group). Back-of-shirt sponsor at Porto and Sporting CP, and an official sponsor at Braga, in 2026-27. Rating note (2026-09-28): Super Bock Group is 56% VIACER Group and 44% Carlsberg Group; Carlsberg also holds 29% of Viacer without control. Neither owner is a state or state fund, so nothing passes the METHOD.md test."
 }
