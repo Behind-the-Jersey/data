@@ -12,13 +12,38 @@
       "sponsorId": "fundacion-1890",
       "placement": "front",
       "source": {
+        "name": "Sevilla FC: 'EL SEVILLA FC SE VUELCA CON LA FUNDACIÓN 1890 Y SU RETO'",
+        "date": "2026-08-14",
+        "url": "https://sevillafc.es/es/actualidad/noticias/camiseta-sevilla-fc-fundacion-1890",
+        "quote": "El Sevilla FC portará en su camiseta en el arranque de LALIGA 2026/27 el logo de su Fundación 1890, en lo que será un impulso decisivo para su Reto solidario en el Polígono Sur.",
+        "note": "Score and Change's 2026/27 La Liga sponsor overview lists the front shirt sponsor as 'Sevilla Fundación 1890* Charity' and its prose says 'A day before their opening match, Sevilla announced their charity Fundación 1890 as shirt sponsor.' (https://www.scoreandchange.com/la-liga-sponsors/)",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Sevilla Adidas",
+        "note": "Kit-maker table row; the article adds 'After the relegation of Oviedo, the German brand now sponsors two sides: Real Madrid and Sevilla.' The same overview lists no sleeve sponsor for Sevilla ('Sevilla – –') and no back or shorts sponsor.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
-  "change": null
+  "sponsorsComplete": true,
+  "summary": "Home shirt 2026/27: adidas kit, Fundación 1890 (the club's own charity) on the front from the start of the season; no sleeve, back or shorts sponsor per Score and Change's La Liga overview.",
+  "change": {
+    "kind": "better",
+    "text": "Fundación 1890, the club's own charity, replaces Midea on the front.",
+    "badge": "New front sponsor"
+  }
 }
