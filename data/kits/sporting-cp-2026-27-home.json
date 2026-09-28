@@ -26,48 +26,34 @@
       "sponsorId": "super-bock",
       "placement": "back",
       "source": {
-        "name": "Wikipedia: 2026-27 Primeira Liga — Personnel and kits (Sporting CP row)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
-        "quote": "Sporting CP Rui Borges Gonçalo Inácio Nike Betano List Front: None Back: Super Bock Sleeves: Super Bock (in UEFA matches) Shorts: None",
+        "name": "Footy Headlines: Gold Sporting 26-27 Away Kit Released - Total 90 Inspired",
+        "date": "2026-07-25",
+        "url": "https://www.footyheadlines.com/1162067902/gold-sporting-26-27-away-kit-released-total-90-inspired.html",
+        "quote": "On the upper back, the number \"120\" sits above the Super Bock sponsor to commemorate the club's 120th anniversary.",
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
         },
-        "note": "Season kit table. The club's own sponsors page lists Super Bock under Main Partners (logos only, no text), and Super Bock's site confirms the partnership: 'Sporting CP More than a sponsorship, a toast to history.'"
-      }
-    },
-    {
-      "sponsorId": "super-bock",
-      "placement": "sleeve",
-      "source": {
-        "name": "Wikipedia: 2026-27 Primeira Liga — Personnel and kits (Sporting CP row, sleeves in UEFA matches)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
-        "quote": "Sporting CP Rui Borges Gonçalo Inácio Nike Betano List Front: None Back: Super Bock Sleeves: Super Bock (in UEFA matches) Shorts: None",
-        "checked": {
-          "on": "2026-09-28",
-          "by": "Schnitzel"
-        }
+        "note": "This article is about the 2026-27 away shirt. No text source found that names the back sponsor of the 2026-27 home shirt: the press reports of its launch on 13 July 2026 (A Bola, Record, O Jogo, TVI) and Footy Headlines' home-kit article don't name it."
       }
     },
     {
       "sponsorId": "nike",
       "placement": "partner",
       "source": {
-        "name": "Wikipedia: 2026-27 Primeira Liga — Personnel and kits (Sporting CP row, kit manufacturer Nike)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
-        "quote": "Sporting CP Rui Borges Gonçalo Inácio Nike Betano List Front: None Back: Super Bock Sleeves: Super Bock (in UEFA matches) Shorts: None",
+        "name": "Footy Headlines: Sporting CP 26-27 Home Kit Released",
+        "date": "2026-07-13",
+        "url": "https://www.footyheadlines.com/0629045786/sporting-cp-26-27-home-kit-released.html",
+        "quote": "The Nike Sporting CP 26-27 home kit features the club's legendary green and white hoops, without any other colors.",
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
         },
-        "note": "Kit maker, named in the season kit table; not a shirt sponsor in the front/back/sleeve sense."
+        "note": "Kit maker; not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": true,
-  "summary": "Betano (Kaizen Gaming) on the front and Super Bock on the back, with Super Bock on the sleeves in UEFA matches; Nike is the kit maker.",
+  "sponsorsComplete": false,
+  "summary": "Betano (Kaizen Gaming) on the front and Super Bock on the back; Nike is the kit maker. Not marked complete: no cited source lists every placement on the shirt.",
   "change": null
 }
