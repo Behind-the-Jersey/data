@@ -12,22 +12,79 @@
       "sponsorId": "bwin",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Marketeer: A nova camisola do Casa Pia tem uma novidade e a \"culpada\" é a bwin",
+        "date": "2026-07-31",
+        "url": "https://marketeer.sapo.pt/a-nova-camisola-do-casa-pia-tem-uma-novidade-e-a-culpada-e-a-bwin/",
+        "quote": "A bwin anunciou uma nova parceria com o Casa Pia Atlético Clube para a temporada 2026/2027, passando a integrar os equipamentos oficiais de jogo e treino da equipa profissional do clube lisboeta.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club shop's photos of the CAMISOLA PRINCIPAL 26-27 (https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702; https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Abdu-719x900h.png) show bwin across the front of the black home shirt."
       }
     },
     {
       "sponsorId": "hospital-da-luz",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Hospital da Luz front)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Casa Pia AC, Loja Oficial: CAMISOLA PRINCIPAL 26-27",
+        "date": "2026",
+        "url": "https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702",
+        "quote": "CAMISOLA PRINCIPAL 26-27",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The shop's front photos (https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Abdu-719x900h.png, https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20David%20Sousa-719x900h.png) show 'HOSPITAL DA LUZ' on the right chest, beside the adidas logo, above bwin."
+      }
+    },
+    {
+      "sponsorId": "benecar",
+      "placement": "back",
+      "source": {
+        "name": "Casa Pia AC, Loja Oficial: CAMISOLA PRINCIPAL 26-27",
+        "date": "2026",
+        "url": "https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702",
+        "quote": "CAMISOLA PRINCIPAL 26-27",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The shop's back photo (https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Goulart-719x900h.png) shows 'Benecar Cidade do Automóvel' across the upper back, above the player's name."
+      }
+    },
+    {
+      "sponsorId": "silogia",
+      "placement": "sleeve",
+      "source": {
+        "name": "Casa Pia AC, Loja Oficial: CAMISOLA PRINCIPAL 26-27",
+        "date": "2026",
+        "url": "https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702",
+        "quote": "CAMISOLA PRINCIPAL 26-27",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The shop's back photo (https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Goulart-719x900h.png) shows 'SILOGIA' down the sleeve."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Casa Pia 26-27 Home & Away Kits Released",
+        "date": "2026-07-25",
+        "url": "https://www.footyheadlines.com/4690267943/casa-pia-26-27-home-away-kits-released.html",
+        "quote": "The jerseys are made by Adidas, which continues to supply the club's gear following its previous work for the 24-25 and 25-26 seasons.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, recorded as partner per existing convention."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Entain plc via Bwin; Hospital da Luz also on the front.",
+  "summary": "bwin on the front from 2026-27 (a new partnership announced in July 2026), with Hospital da Luz on the chest; Benecar on the upper back and Silogia on the sleeve in the club shop's photos of the Camisola Principal 26-27; adidas makes the kit. Not marked complete: the shop's back photo also shows a Meltino Café logo on the lower back and a partly hidden logo below it, which have no record here yet, and no cited source shows the shorts.",
   "change": null
 }
