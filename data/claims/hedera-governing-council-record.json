@@ -1,0 +1,32 @@
+{
+  "id": "hedera-governing-council-record",
+  "ownerIds": [
+    "hedera-governing-council"
+  ],
+  "kind": "ownership",
+  "text": "Hedera is governed by Hedera Council: only Council members run network nodes, approve updates of the network's technology and have voting rights. McLaren Racing joined Hedera Council, the governing body of Hedera, in March 2026.",
+  "short": "Hedera is governed by a council of member organisations, which McLaren Racing joined in 2026.",
+  "source": {
+    "name": "Hedera Council: About",
+    "date": "2026",
+    "url": "https://hederacouncil.org/about",
+    "quote": "While only Hedera Council members run network nodes, approve updates of the network’s technology, and have voting rights",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Hedera: McLaren Racing Joins Hedera Council to Accelerate Digital Innovation",
+      "date": "2026-03-25",
+      "url": "https://hedera.com/blog/mclaren-racing-joins-hedera-council-to-accelerate-digital-innovation",
+      "quote": "McLaren Racing has joined Hedera Council, the governing body of Hedera",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

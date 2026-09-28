@@ -1,0 +1,32 @@
+{
+  "id": "iron-mountain-inc-record",
+  "ownerIds": [
+    "iron-mountain-inc"
+  ],
+  "kind": "ownership",
+  "text": "Iron Mountain became a publicly traded company in 1996; its common stock is traded on the NYSE under the symbol IRM.",
+  "short": "Iron Mountain has been public since 1996 (NYSE: IRM).",
+  "source": {
+    "name": "Iron Mountain: Our history",
+    "date": "2026",
+    "url": "https://www.ironmountain.com/about-us/history",
+    "quote": "Upon reaching an annual revenue of $100 million, Iron Mountain became a publicly traded company in 1996.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Iron Mountain Incorporated – Form 10-K for fiscal 2025 (SEC)",
+      "date": "2026-02-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/1020569/000102056926000013/irm-20251231.htm",
+      "quote": "Our common stock is traded on the NYSE under the symbol \"IRM\".",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
