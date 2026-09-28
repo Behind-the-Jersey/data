@@ -3,13 +3,15 @@
   "name": "Solverde.pt",
   "ownerId": "solverde",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Grupo Solverde (93.67% Violas SGPS, the Manuel Violas family holding). Nothing found.",
+  "claimIds": [
+    "solverde-ownership"
+  ],
   "aliases": [
     "solverde",
     "grupo solverde"
   ],
-  "note": "Online casino/betting brand of Grupo Solverde (casinos Espinho, Vilamoura, Monte Gordo, Portimao, Chaves); SRIJ-licensed. Main kit sponsor at SC Braga and Estoril Praia in 2026-27."
+  "note": "Online casino/betting brand of Grupo Solverde (casinos Espinho, Vilamoura, Monte Gordo, Portimao, Chaves); SRIJ-licensed. Main kit sponsor at SC Braga and Estoril Praia in 2026-27. Owner chain stops at the private Violas family holding; the group runs casinos under state concessions (Estado Portugues) and pays IEJ/IEJO gaming taxes, but the state holds no stake."
 }
