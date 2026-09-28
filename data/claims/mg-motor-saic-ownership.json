@@ -1,0 +1,31 @@
+{
+  "id": "mg-motor-saic-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saic-motor"
+  ],
+  "text": "MG Motor is owned by SAIC (Shanghai Automotive Industry Corporation), China's largest carmaker.",
+  "source": {
+    "name": "Newstank: Olympique Lyonnais - MG Motor, constructeur automobile, prolonge comme sponsor",
+    "date": "2024-06-25",
+    "url": "https://sport.newstank.fr/article/view/329629/olympique-lyonnais-mg-motor-constructeur-automobile-prolonge-comme-sponsor.html",
+    "quote": "MG Motor, propriété du groupe chinois Shanghai Automotive Industry Corporation (SAIC), prolonge comme sponsor manche de l'Olympique Lyonnais (Ligue 1) pour trois saisons supplémentaires",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "MG Motor (news.mgmotor.eu): MG Motor France et l'Olympique Lyonnais renouvellent leur partenariat majeur pour trois ans",
+      "date": "2024-06-24",
+      "url": "https://news.mgmotor.eu/fr/press/mg-motor-france-et-lolympique-lyonnais-renouvellent-leur-partenariat-majeur-pour-trois-ans/",
+      "quote": "Avec des ventes mondiales de plus de 5 millions de véhicules en 2023, SAIC Group, propriétaire de MG Motor, est le leader du marché automobile en Chine.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
