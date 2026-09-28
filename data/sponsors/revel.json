@@ -3,9 +3,14 @@
   "name": "REVEL",
   "ownerId": "revel",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Private Spanish car-subscription company (Drive REVEL S.L.); KKR and Santander Consumer Finance hold minority stakes. Nothing found.",
+  "claimIds": [
+    "revel-ownership-2023-round"
+  ],
+  "aliases": [
+    "Drive REVEL"
+  ],
+  "note": "Rating note: Founder-led private company; investor stakes (KKR, Santander Consumer Finance) undisclosed and minority. No state body or fund found anywhere in the chain, and no court, regulator, UN body or major-NGO human-rights finding against REVEL found."
 }

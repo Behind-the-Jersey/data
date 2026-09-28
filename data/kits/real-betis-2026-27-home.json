@@ -14,7 +14,12 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Real Betis Gree Consumer appliances – air conditioning",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -23,7 +28,12 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Real Betis REVEL Car rental",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -33,11 +43,31 @@
         "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
         "date": "2025-10-08",
         "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "Trainline back of shirt per the 2025-26 guide"
+        "note": "Trainline back of shirt per the 2025-26 guide; Trainline's Betis partnership is active into 2026-27 (national campaign with Betis players, January 2026; back-of-shirt activation, December 2025), but a 2026-27 back-of-shirt listing was not found.",
+        "quote": "Patrocinador espalda camiseta (Parte inferior): Trainline",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Danish brand Hummel continued their partnership weith Celta de Vigo and Champions League side Real Betis, while adding promoted side Málaga.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Gree (front), REVEL (sleeve), Trainline (back), hummel (kit maker) for 2026/27.",
   "change": null
 }
