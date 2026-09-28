@@ -1,12 +1,15 @@
 {
   "id": "qatar-holding-vw-stake",
   "kind": "ownership",
-  "ownerIds": ["qatar-holding-llc", "volkswagen-ag"],
-  "text": "Qatar Holding LLC holds 10.4% of Volkswagen AG's subscribed capital and, with 17.0% of the voting rights, was the third-largest shareholder in Volkswagen AG (Volkswagen Group Annual Report 2025, shareholder structure).",
+  "ownerIds": [
+    "qatar-holding-llc",
+    "volkswagen-ag"
+  ],
+  "text": "Qatar Holding LLC was the third-largest shareholder in Volkswagen AG at the end of 2025, with 17.0% of the voting rights; the annual report's shareholder-structure chart shows it with 10.4% of the subscribed capital.",
   "source": {
-    "name": "Volkswagen Group, Annual Report 2025 (PDF), p. 108",
+    "name": "Volkswagen Group Annual Report 2025: Shareholder structure",
     "date": "2026-03-10",
-    "url": "https://uploads.vw-mms.de/system/production/documents/cws/003/212/file_en/41966a4270c8a0a4185b3ab69eaa433cf6892168/2026-03-10-volkswagen-group-annual-report-2025-en.pdf?1787739972",
+    "url": "https://annualreport2025.volkswagen-group.com/group-management-report/shares-and-bonds/shareholder-structure.html",
     "quote": "Qatar Holding LLC was the third-largest shareholder with 17.0%.",
     "checked": {
       "on": "2026-09-28",
@@ -15,10 +18,10 @@
   },
   "additionalSources": [
     {
-      "name": "Volkswagen Group, Shareholder structure (volkswagen-group.com)",
-      "date": "2026",
-      "url": "https://www.volkswagen-group.com/en/shareholder-structure-15951",
-      "quote": "17.0% Quatar Holding",
+      "name": "AGBI: Volkswagen’s troubles sour Qatari investment (archived)",
+      "date": "2024-11-05",
+      "url": "https://web.archive.org/web/20260823184546/https://www.agbi.com/analysis/markets/2024/11/volkswagens-troubles-sour-qatari-investment/",
+      "quote": "Qatar paid “in excess of” €7 billion for options that ultimately led it to acquire 10 percent of Volkswagen Group – including 17 percent voting rights – plus 10 percent of Porsche.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"

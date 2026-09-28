@@ -4,8 +4,8 @@
   "orgName": "Circle Internet Group",
   "sponsorId": "circle-usdc",
   "placement": "front",
-  "from": "2026",
-  "to": "2027",
+  "from": "2026-27",
+  "to": "2026-27",
   "value": {
     "amount": 50,
     "currency": "GBP",
@@ -15,7 +15,7 @@
     "usdApprox": 67
   },
   "source": {
-    "name": "BBC Sport, \"Chelsea: club announce USDC shirt sponsorship deal with Circle\" (Nizaar Kinsella)",
+    "name": "BBC Sport: Chelsea announce new shirt sponsorship with Circle",
     "date": "2026-08-28",
     "url": "https://www.bbc.com/sport/football/articles/c36lp8jyydjo",
     "quote": "Chelsea have announced a new one-year front-of-shirt sponsorship deal with Circle Internet Group.",
@@ -24,5 +24,5 @@
       "by": "Schnitzel"
     }
   },
-  "note": "USDC stablecoin branding; replaces the front that had been vacant. One-year deal; the value is 'believed to be about £50m per season, though the exact figures have not been given' (same article) — so the amount is a reported estimate, not an official figure."
+  "note": "USDC stablecoin branding; replaces the front that had been vacant. One-year deal; BBC Sport says the value was 'believed to be about £50m per season, though the exact figures have not been given', so the amount is a reported estimate. usdApprox is a conversion at about $1.34 per £, not a reported figure."
 }

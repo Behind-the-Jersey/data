@@ -1,10 +1,13 @@
 {
   "id": "qatar-holding-qia-ownership",
   "kind": "ownership",
-  "ownerIds": ["qatar-holding-llc", "qia"],
-  "text": "Qatar Holding LLC is a wholly-owned subsidiary of the Qatar Investment Authority, per two SEC filings by different issuers (a Tiffany & Co. SC 13G/A and a BRF S.A. Form 6-K).",
+  "ownerIds": [
+    "qatar-holding-llc",
+    "qia"
+  ],
+  "text": "Qatar Holding LLC is a wholly owned subsidiary of the Qatar Investment Authority.",
   "source": {
-    "name": "Tiffany & Co. Schedule 13G/A (SEC EDGAR), filed by Qatar Holding LLC",
+    "name": "Tiffany & Co. Schedule 13G/A, filed by Qatar Investment Authority (SEC EDGAR)",
     "date": "2012-12-26",
     "url": "https://www.sec.gov/Archives/edgar/data/1441449/000119312512514076/d458301dsc13ga.htm",
     "quote": "On December 17, 2012, Qatar Holding LLC, a wholly owned subsidiary of the Qatar Investment Authority, transferred",
@@ -15,10 +18,20 @@
   },
   "additionalSources": [
     {
-      "name": "BRF S.A. Form 6-K, Exhibit 99.1 (SEC EDGAR)",
+      "name": "BRF S.A. Form 6-K, Exhibit 99.1: condensed consolidated interim financial information, September 30, 2021 (SEC EDGAR)",
       "date": "2022-01-18",
       "url": "https://www.sec.gov/Archives/edgar/data/1122491/000129281422000132/ex99-1.htm",
       "quote": "the Company has executed an amendment to the shareholders' agreement with Qatar Holding LLC, a wholly-owned subsidiary of the Qatar Investment Authority",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "AGBI: Volkswagen’s troubles sour Qatari investment (archived)",
+      "date": "2024-11-05",
+      "url": "https://web.archive.org/web/20260823184546/https://www.agbi.com/analysis/markets/2024/11/volkswagens-troubles-sour-qatari-investment/",
+      "quote": "since Qatar Holding invested in 2009, Volkswagen’s problems suggest the sovereign wealth fund subsidiary would have fared better putting its money elsewhere.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
