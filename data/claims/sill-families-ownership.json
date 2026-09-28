@@ -1,0 +1,54 @@
+{
+  "id": "sill-families-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sill-entreprises"
+  ],
+  "text": "SILL Entreprises (SIREN 636220220, SAS, Plouvien, RCS Brest 636 220 220) says it began in 1962 at Plouvien and calls itself a longstanding family business. The club's partner page says the SILL (Société Industrielle Laitière du Léon) was created in 1962 by two families of butter merchants, the Falc'hun and León families. The company register lists Sébastien Floch as Président de SAS, with Tristan Falc'hun and Henri León as Directeurs Généraux.",
+  "short": "SILL Entreprises, founded in 1962 by the Falc'hun and León families, calls itself a family business.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SILL ENTREPRISES, SIREN 636220220",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=636220220&per_page=1",
+    "quote": "\"dirigeants\":[{\"nom\":\"FALC'HUN\",\"prenoms\":\"TRISTAN\",\"annee_de_naissance\":\"1979\",\"date_de_naissance\":\"1979-12\",\"qualite\":\"Directeur Général\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: FLOCH Sébastien Alain Olivier is Président de SAS and LEON Henri is the second Directeur Général; nature juridique 5710 (SAS), siège Plouvien (29860)."
+  },
+  "additionalSources": [
+    {
+      "name": "Accueil – Sill Entreprises",
+      "date": "2026",
+      "url": "https://www.sill-entreprises.com/",
+      "quote": "SILL Entreprises began back in 1962 in a Breton town called Plouvien. As a longstanding family business bringing together a strong group of SMEs, SILL Entreprises is ready to take on whatever the future holds.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Mentions légales - Malo",
+      "date": "2026",
+      "url": "https://www.malo.fr/mentions-legales/",
+      "quote": "Éditeur : SILL ENTREPRISES, SAS au Capital de 18 830 562,30 € Dont le siège social est Lieu-dit Le Raden 29860 PLOUVIEN, Immatriculée au RCS de Brest sous le n° 636 220 220.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Gives the SIREN, capital and registered office of SILL ENTREPRISES."
+    },
+    {
+      "name": "Stade Brestois 29: Partenaire : Sill",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/sill/",
+      "quote": "La SILL (Société Industrielle Laitière du Léon) a été créée en 1962 par 2 familles de marchands de beurre : les familles FALC'HUN et LEON",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

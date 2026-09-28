@@ -1,0 +1,55 @@
+{
+  "id": "guyot-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "hiru-environnement"
+  ],
+  "text": "The company register lists HIRU ENVIRONNEMENT (SIREN 943903278) as Président de SAS of GUYOT ENVIRONNEMENT (SIREN 430004671, Brest), and Erwan Guyot as Président de SAS of HIRU ENVIRONNEMENT, with Giulia Guyot, Frédéric Jestin and Bertrand Le Floc'h as Directeurs Généraux. The group's governance page says the family company is run by Erwan and Giulia Guyot, Bertrand Le Floch and Frédéric Jestin, and that the group chose to stay independent. The club's partner page names Guyot Erwan as Président and gives 300 employees.",
+  "short": "Guyot Environnement is chaired by the holding Hiru Environnement, led by Erwan Guyot; the group calls itself a family company.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), HIRU ENVIRONNEMENT, SIREN 943903278",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=943903278&per_page=1",
+    "quote": "\"dirigeants\":[{\"nom\":\"GUYOT\",\"prenoms\":\"ERWAN\",\"annee_de_naissance\":\"1978\",\"date_de_naissance\":\"1978-08\",\"qualite\":\"Président de SAS\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: GUYOT Giulia Edwige Joëlle, JESTIN Frédéric and LE FLOC'H Bertrand are Directeurs Généraux; nature juridique 5710 (SAS), created 2025-04-29, siège 15 rond-point des Grèbes, Brest."
+  },
+  "additionalSources": [
+    {
+      "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), GUYOT ENVIRONNEMENT, SIREN 430004671",
+      "date": "2026-09-28",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=430004671&per_page=1",
+      "quote": "\"siren\":\"943903278\",\"denomination\":\"HIRU ENVIRONNEMENT\",\"qualite\":\"Président de SAS\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Gouvernance du groupe | GUYOT environnement",
+      "date": "2022-12-20",
+      "url": "https://www.guyotenvironnement.com/groupe-gouvernance-pxl-22_135.html",
+      "quote": "Aujourd’hui, l’entreprise familiale est dirigée par Erwan et Giulia GUYOT, Bertrand LE FLOCH et Frédéric JESTIN.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page: \"Notre Groupe a fait le choix de rester indépendant\"."
+    },
+    {
+      "name": "Stade Brestois 29: Partenaire : Guyot Environnement",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/guyot-environnement/",
+      "quote": "le Groupe Guyot Environnement est aujourd'hui l'un des prestataires incontournables",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page: \"300 employés\"; it lists Guyot Erwan, Président, as contact."
+    }
+  ],
+  "reviewed": false
+}

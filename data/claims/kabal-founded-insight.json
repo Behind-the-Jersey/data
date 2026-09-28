@@ -1,0 +1,42 @@
+{
+  "id": "kabal-founded-insight",
+  "kind": "ownership",
+  "ownerIds": [
+    "kabal"
+  ],
+  "text": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen and is backed by the investor Insight Partners, which made a growth investment in it in 2023; the Brønnøysund register lists KABAL AS as an aksjeselskap founded on 17 March 2011.",
+  "short": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen; Insight Partners made a growth investment in it.",
+  "source": {
+    "name": "Kabal: Company",
+    "date": "2026",
+    "url": "https://kabal.com/company/",
+    "quote": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Willkie: Willkie Advises Insight Partners in Investment in Kabal",
+      "date": "2023-05-24",
+      "url": "https://www.willkie.com/news/2023/05/willkie-advises-insight-partners-in-investment-in-kabal",
+      "quote": "Willkie represented Insight Partners in its significant strategic growth investment in Kabal, a Norwegian logistics SaaS platform for the global energy industry.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Brønnøysund Register Centre - entity record 996787303 KABAL AS (open data API)",
+      "date": "2011-03-17",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/996787303",
+      "quote": "\"stiftelsesdato\":\"2011-03-17\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
