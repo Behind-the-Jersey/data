@@ -3,10 +3,12 @@
   "name": "Joma",
   "ownerId": "joma-sport",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Joma Sport SL, a family enterprise founded in 1965 and still family-run per the brand's own about page. Nothing found.",
+  "claimIds": [
+    "joma-sport-family-owned-record"
+  ],
   "aliases": ["Joma Sport"],
-  "note": "Kit supplier (technical sponsor) to Fiorentina from 2026-27."
+  "note": "Kit supplier (technical sponsor) to Fiorentina from 2026-27. Privately held Spanish family business; no state links found in the owner chain."
 }
