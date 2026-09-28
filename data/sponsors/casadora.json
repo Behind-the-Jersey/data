@@ -1,11 +1,16 @@
 {
   "id": "casadora",
   "name": "Casadora",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-ramos",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of the family-owned Groupe Ramos (founded 1970). Nothing found.",
+  "claimIds": [
+    "casadora-ownership"
+  ],
+  "aliases": [
+    "CASADORA"
+  ],
+  "note": "Front-of-shirt sponsor of Toulouse FC from 2026-27. Rating note: brand of the family property group Groupe Ramos; its first Casadora programme is at El Jadida, Morocco (Toulouse FC announcement). No state or state fund in the chain."
 }
