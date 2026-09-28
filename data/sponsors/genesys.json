@@ -1,12 +1,14 @@
 {
   "id": "genesys",
   "name": "Genesys",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "genesys",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "genesys-record"
+  ],
   "aliases": [],
   "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
 }
