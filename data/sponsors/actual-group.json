@@ -1,11 +1,17 @@
 {
   "id": "actual-group",
   "name": "Actual Group",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "actual-group-sas",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of ACTUAL GROUP SAS, a family-owned French HR group led by Samuel Tual. Nothing found.",
+  "claimIds": [
+    "actual-group-family-ownership"
+  ],
+  "aliases": [
+    "Actual",
+    "ACTUAL GROUP"
+  ],
+  "note": "Rating note: the company describes itself as a family-owned and independent SME; no state or fund ownership found, no human-rights finding found."
 }

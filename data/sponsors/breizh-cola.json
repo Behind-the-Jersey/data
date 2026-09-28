@@ -1,11 +1,16 @@
 {
   "id": "breizh-cola",
   "name": "Breizh Cola",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "brasserie-lancelot",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of Brasserie Lancelot, part of the Agrial farmer cooperative. Nothing found.",
+  "claimIds": [
+    "breizh-cola-lancelot-agrial-ownership"
+  ],
+  "aliases": [
+    "Brasserie Lancelot"
+  ],
+  "note": "Rating note: Agrial is a cooperative owned by its farmer members; no state or fund ownership found in the chain, no human-rights finding found."
 }

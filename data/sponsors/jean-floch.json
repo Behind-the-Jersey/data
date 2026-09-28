@@ -1,11 +1,17 @@
 {
   "id": "jean-floch",
   "name": "Jean Floc'h",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-jean-floch",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by the groupe Jean Floc'h, a family-led French pork-processing group (RCS Lorient). Nothing found.",
+  "claimIds": [
+    "jean-floch-groupe-ownership"
+  ],
+  "aliases": [
+    "Groupe Jean Floc'h",
+    "JEAN FLOC'H"
+  ],
+  "note": "Rating note: privately held, led by Michel Boulaire since 2007; no state or fund ownership found in the chain, no human-rights finding found."
 }

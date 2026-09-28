@@ -1,0 +1,33 @@
+{
+  "id": "bb-hotels-move-on-goldman-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "move-on-bb-hotels",
+    "goldman-sachs"
+  ],
+  "text": "B&B Hotels operates through MOVE ON B&B HOTELS, a French SAS au capital de 7 010 000 euros (RCS Brest 831 737 168) whose president is Nicolas Drapier; the B&B Hotels group states that since 2019 it has been majority-owned by the investment company Goldman Sachs.",
+  "short": "B&B Hotels is run by Move On B&B HOTELS SAS, majority-owned by Goldman Sachs since 2019.",
+  "source": {
+    "name": "B&B HOTELS — Mentions légales (hotel-bb.com)",
+    "date": "2026-01-05",
+    "url": "https://www.hotel-bb.com/fr/mentions-legales",
+    "quote": "Ce site est édité par la société MOVE ON B&B HOTELS, société par actions simplifiée dont le capital social est de 7.010.000 euros, immatriculée sous le numéro RCS Brest 831 737 168",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "B&B HOTELS group — Our success story",
+      "date": "2024-10-14",
+      "url": "https://bbhotels-group.com/our-success-story/",
+      "quote": "Since 2019 we have been majority-owned by the investment company Goldman Sachs.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
