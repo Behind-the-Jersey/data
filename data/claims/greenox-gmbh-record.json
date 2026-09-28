@@ -1,0 +1,43 @@
+{
+  "id": "greenox-gmbh-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "greenox-gmbh"
+  ],
+  "text": "VfB Stuttgart's announcement names Maximilian Seifert as managing director and shareholder (Gesellschafter) of GREENOX GmbH, and Christoph Brechtel as a GREENOX GmbH shareholder. The company's legal notice gives its register entry as Amtsgericht Stuttgart, HRB 788621, represented by Maximilian Seifert and Simeon Forster.",
+  "short": "GREENOX GmbH's named shareholders include managing director Maximilian Seifert and Christoph Brechtel.",
+  "source": {
+    "name": "VfB Stuttgart: 'Herzlich willkommen, GREENOX!'",
+    "date": "2026-08-28",
+    "url": "https://www.vfb.de/de/vfb/aktuell/neues/club/2026/herzlich-willkommen--greenox-/",
+    "quote": "sagt der Geschäftsführer und Gesellschafter der GREENOX GmbH, Maximilian Seifert",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "VfB Stuttgart: 'Herzlich willkommen, GREENOX!'",
+      "date": "2026-08-28",
+      "url": "https://www.vfb.de/de/vfb/aktuell/neues/club/2026/herzlich-willkommen--greenox-/",
+      "quote": "ergänzt GREENOX GmbH-Gesellschafter Christoph Brechtel",
+      "note": "Same page as the main source, second quote (Christoph Brechtel); not a second publisher.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "GREENOX: Impressum",
+      "date": "2026",
+      "url": "https://greenox-group.de/impressum/",
+      "quote": "Handelsregister: HRB 788621 Registergericht: Amtsgericht Stuttgart Vertreten durch: Maximilian Seifert, Simeon Forster",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

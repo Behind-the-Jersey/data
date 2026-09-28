@@ -1,0 +1,20 @@
+{
+  "id": "ecolab-inc-record",
+  "ownerIds": [
+    "ecolab-inc"
+  ],
+  "kind": "ownership",
+  "text": "Ecolab's common stock is listed on the New York Stock Exchange under the symbol ECL.",
+  "short": "Ecolab is listed on the NYSE (ECL).",
+  "source": {
+    "name": "Ecolab Inc. – Form 10-K for fiscal 2025 (SEC)",
+    "date": "2026-02-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/31462/000110465926018357/ecl-20251231x10k.htm",
+    "quote": "Our common stock is listed on the New York Stock Exchange under the symbol “ECL.”",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
