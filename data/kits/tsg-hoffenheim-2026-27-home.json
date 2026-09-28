@@ -14,7 +14,12 @@
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Somit sorgt der Softwarekonzern seit 2013 für die Trikotwerbung des Vereins und wird es vorerst bis 2030 tun.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -22,13 +27,18 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "ProMinent: press release 'ProMinent verlängert Ärmelpartnerschaft mit der TSG Hoffenheim' (prominent.de)",
+        "date": "2026-07",
+        "url": "https://www.prominent.de/de/Unternehmen/Unternehmen/Presse/prominent-verlaengert-aermelpartnerschaft-tsg-hoffenheim.html",
+        "quote": "ProMinent verlängert die bestehende Ärmelpartnerschaft mit dem Bundesligisten um eine weitere Saison. Damit bleibt das Heidelberger Familienunternehmen auch in der kommenden Spielzeit auf dem Trikotärmel der Lizenzmannschaft präsent.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Home shirt carries SAP on the chest (Haupt- und Trikotsponsor) and ProMinent on the sleeve (Trikotärmel Partner); the club's partner page lists no other shirt placements for 2026/27.",
   "change": null
 }
