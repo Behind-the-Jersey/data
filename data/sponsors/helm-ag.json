@@ -3,9 +3,15 @@
   "name": "Helm",
   "ownerId": "helm-ag",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "HELM AG, a Hamburg family-owned chemical trading company. Nothing found.",
+  "claimIds": [
+    "helm-ag-ownership",
+    "helm-ag-hsv-sleeve-partner"
+  ],
+  "note": "Family-owned private Aktiengesellschaft; no state body or fund found anywhere in the chain (parent: null). The company's own Historie page traces it to Hermann Schnabel's 1950 purchase and his family since. Sleeve partner of HSV since 2024/25 for three seasons, donating the league-match sleeve presence to Plan International Deutschland; no human-rights finding found.",
+  "aliases": [
+    "HELM AG"
+  ]
 }
