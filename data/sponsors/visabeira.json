@@ -1,14 +1,16 @@
 {
   "id": "visabeira",
   "name": "Visabeira",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "grupo-visabeira",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Grupo Visabeira, S.A. — held 98.57% by its founder Fernando Campos Nunes through NCFGest, S.A. Nothing found.",
+  "claimIds": [
+    "visabeira-ncfgest-ownership"
+  ],
   "aliases": [
     "grupo visabeira"
   ],
-  "note": "Portuguese conglomerate (telecoms, energy, industry incl. Vista Alegre, tourism, construction), founded in Viseu in 1980. Main kit sponsor at Academico de Viseu in 2026-27. Controlling owners not stated in the sources checked."
+  "note": "Rating note: privately held by its Portuguese founder; no state involvement anywhere in the chain (Relatório & Contas 2025 names one individual owner). Nothing passes the METHOD.md test."
 }

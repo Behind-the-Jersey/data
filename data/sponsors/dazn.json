@@ -3,10 +3,13 @@
   "name": "DAZN",
   "ownerId": "access-industries",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Access Industries, Inc.. Nothing found.",
+  "claimIds": [
+    "access-industries-record",
+    "dazn-majority-access-industries"
+  ],
   "aliases": [],
-  "note": "Global broadcaster of the FIFA Club World Cup 2025 (reported US$1bn rights deal). SURJ/PIF took a reported minority stake in DAZN."
+  "note": "Rating note: majority-owned by Access Industries (Blavatnik); Companies House shows Sir Leonard Blavatnik as the person with significant control of Dazn Sports Media Limited (notified 7 August 2026). Saudi Arabia's SURJ Sports Investment (a PIF subsidiary) took a reported minority stake in February 2025, terms not confirmed and reported at under 5% — a passive stake that doesn't pass the METHOD.md link test, and no record claim is cited. Not a gambling sponsor on this kit: DAZN is the sleeve broadcaster brand."
 }

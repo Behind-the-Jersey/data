@@ -12,22 +12,118 @@
       "sponsorId": "visabeira",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Visabeira main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Académico de Viseu, kit announcement (notícia 1345)",
+        "date": "2026-07-28",
+        "url": "https://academicodeviseu.pt/noticia.php?n=1345",
+        "quote": "O regresso do logótipo da Visabeira à zona do abdómen recupera um momento do qual só os mais antigos se lembram",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club's own announcement names Visabeira back on the front of the shirt; the full placement set below (back, sleeve, shorts) comes from Wikipedia's Personnel and kits table for the 2026–27 Primeira Liga."
+      }
+    },
+    {
+      "sponsorId": "buondi",
+      "placement": "front",
+      "source": {
+        "name": "Wikipedia, 2026–27 Primeira Liga — Personnel and kits (Académico de Viseu row)",
+        "date": "2026-09-22",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Buondi caffé Back: Visipapel, Quinta de Lemos Sleeves: DAZN Shorts: Águas do Caramulo, 2PLAY",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "visipapel",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026–27 Primeira Liga — Personnel and kits (Académico de Viseu row)",
+        "date": "2026-09-22",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Buondi caffé Back: Visipapel, Quinta de Lemos Sleeves: DAZN Shorts: Águas do Caramulo, 2PLAY",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "quinta-de-lemos",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026–27 Primeira Liga — Personnel and kits (Académico de Viseu row)",
+        "date": "2026-09-22",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Buondi caffé Back: Visipapel, Quinta de Lemos Sleeves: DAZN Shorts: Águas do Caramulo, 2PLAY",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "dazn",
       "placement": "sleeve",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (DAZN sleeve)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Wikipedia, 2026–27 Primeira Liga — Personnel and kits (Académico de Viseu row)",
+        "date": "2026-09-22",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Buondi caffé Back: Visipapel, Quinta de Lemos Sleeves: DAZN Shorts: Águas do Caramulo, 2PLAY",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "aguas-do-caramulo",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026–27 Primeira Liga — Personnel and kits (Académico de Viseu row)",
+        "date": "2026-09-22",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Buondi caffé Back: Visipapel, Quinta de Lemos Sleeves: DAZN Shorts: Águas do Caramulo, 2PLAY",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "2play",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026–27 Primeira Liga — Personnel and kits (Académico de Viseu row)",
+        "date": "2026-09-22",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Buondi caffé Back: Visipapel, Quinta de Lemos Sleeves: DAZN Shorts: Águas do Caramulo, 2PLAY",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "TV Mangualde, 'Académico de Viseu revela equipamento alternativo inspirado nos viseenses longe de casa'",
+        "date": "2026-07-14",
+        "url": "https://tvmangualde.sapo.pt/noticias/academico-de-viseu-revela-equipamento-alternativo-inspirado-nos-viseenses-longe-de-casa",
+        "quote": "O equipamento é produzido pela Joma e mantém a Visabeira como principal patrocinador visível na parte frontal",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by Grupo Visabeira (private Portuguese conglomerate).",
+  "sponsorsComplete": true,
+  "summary": "Visabeira back on the front of a second-division club from its home city; Buondi, Visipapel, Quinta de Lemos, DAZN, Águas do Caramulo and 2PLAY fill the other slots; kit made by Joma.",
   "change": null
 }
