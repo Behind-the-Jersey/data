@@ -1,11 +1,11 @@
 {
   "id": "j-bervas-automobiles",
   "name": "J.Bervas Automobiles",
-  "ownerId": "sofipel",
-  "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Breton used-car dealer network (175 rue de Gouesnou, Brest) run through the Brest holding SOFIPEL, chaired by Marc Yvon Philippe Trébaol-Pelleau. Nothing found.",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "trebaol-pelleau-ownership"
   ],
@@ -14,5 +14,5 @@
     "Jacques Bervas",
     "SOFIPEL"
   ],
-  "note": "Rating note: registry shows SOFIPEL (SIREN 440978062) at the J.Bervas address, chaired by Trébaol-Pelleau; the club's partner page names Pelleau Antoine as contact. No state or fund stake found → none."
+  "note": "Not rated yet: no cited source says which company owns J.Bervas Automobiles. The club's partner page for it sits at /partenaire/sofipel/ and gives the same Brest street address as the company SOFIPEL (Président Marc Trébaol-Pelleau), but no page names SOFIPEL as the company behind the brand, and SOFIPEL's shareholders are not in any source."
 }

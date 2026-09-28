@@ -1,8 +1,8 @@
 {
   "id": "e-leclerc-mouvement",
-  "name": "Mouvement E.Leclerc (cooperative of independent merchants)",
+  "name": "Mouvement E.Leclerc",
   "type": "private-company",
   "parentId": null,
   "country": "FR",
-  "note": "The E.Leclerc brand belongs to a cooperative of independent merchant-owners: per the movement's own site, 'Le Mouvement E.Leclerc est une coopérative de commerçants rassemblés sous une même enseigne' whose members are 'chefs d'entreprise indépendants et propriétaires de leur centre E.Leclerc'. Wikipedia's infobox likewise lists the actionnaires as 'Commerçants indépendants adhérents'. Filed as private-company because the owners are thousands of independent private merchants (precedent: DEVK's mutual); no state or fund stake exists."
+  "note": "Per the movement's own site, 'Le Mouvement E.Leclerc est une coopérative de commerçants rassemblés sous une même enseigne', whose members own their E.Leclerc centres. Filed as private-company (precedent: DEVK's mutual)."
 }

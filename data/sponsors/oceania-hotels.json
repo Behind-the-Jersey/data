@@ -1,11 +1,11 @@
 {
   "id": "oceania-hotels",
   "name": "Oceania Hotels",
-  "ownerId": "fbi",
+  "ownerId": "sofibra",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Breton hotel brand (Oceania Hotels, hôtels d'origine bretonne) whose hotel companies are chaired by the Branellec family holding F.B.I. (SA, Brest, created 1987). Nothing found.",
+  "verdict": "Breton hotel brand, published by SAS SOFIBRA, whose Président is F.B.I., a holding whose board is made up of Branellec family members; the brand calls itself a Breton family company founded in 1975. Nothing found.",
   "claimIds": [
     "branellec-family-ownership"
   ],
@@ -13,5 +13,5 @@
     "Oceania",
     "Hôtels Oceania"
   ],
-  "note": "Rating note: registry shows F.B.I.'s conseil d'administration entirely Branellec family (Francois, Gwenola Deguerre-Branellec, Gurvan, Rozenn Dumon-Branellec), and the same board at subsidiary Sofibra. No state or fund stake found → none."
+  "note": "Rating note: chain SOFIBRA → F.B.I. from the website's mentions légales and the company register; F.B.I.'s board lists only Branellec family members. No state or fund stake found → none."
 }

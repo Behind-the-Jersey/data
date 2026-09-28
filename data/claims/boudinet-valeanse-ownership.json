@@ -4,10 +4,10 @@
   "ownerIds": [
     "valeanse"
   ],
-  "text": "Groupe SOFT, the Stade Brestois 29 partner (Société d'Organisation Financière et Technique, Breton tertiary-building group), is now carried by the Brest holding VALEANSE (SIREN 798816682, SAS, 490 rue Augustin Jacq, Brest, created 2024-08-01, trading as Groupe SOFT), chaired by Fabrice Paul Lucien Boudinet — the group's founder-family name. No state or sovereign-fund stake was found in the chain.",
-  "short": "Groupe SOFT is carried by the Brest holding Valeanse, chaired by Fabrice Boudinet.",
+  "text": "The company register lists VALEANSE (SIREN 798816682, SAS, 490 rue Augustin Jacq, Brest) under the trading name GROUPE SOFT, with Fabrice Paul Lucien Boudinet as its Président de SAS. The club's partner page for Soft (Société d'Organisation Financière et Technique, which designs and builds commercial and industrial buildings) gives 490 rue Docteur Augustin Jacq, Brest, and names Boudinet Fabrice as contact.",
+  "short": "Groupe SOFT is the trading name of VALEANSE, whose Président is Fabrice Boudinet.",
   "source": {
-    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SIREN 798816682",
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), VALEANSE (GROUPE SOFT), SIREN 798816682",
     "date": "2026-09-28",
     "url": "https://recherche-entreprises.api.gouv.fr/search?q=798816682&per_page=1",
     "quote": "\"dirigeants\":[{\"nom\":\"BOUDINET\",\"prenoms\":\"FABRICE PAUL LUCIEN\",\"annee_de_naissance\":\"1976\",\"date_de_naissance\":\"1976-05\",\"qualite\":\"Président de SAS\"",
@@ -15,11 +15,11 @@
       "on": "2026-09-28",
       "by": "Schnitzel"
     },
-    "note": "Same response: nature juridique 5710 (SAS); the company's legal name line reads 'VALEANSE (GROUPE SOFT)'."
+    "note": "Same response: \"nom_complet\":\"VALEANSE (GROUPE SOFT)\" and \"liste_enseignes\":[\"GROUPE SOFT\"]; nature juridique 5710 (SAS), created 2013-11-22."
   },
   "additionalSources": [
     {
-      "name": "Stade Brestois 29 — Partenaire (business.sb29.bzh, site officiel)",
+      "name": "Stade Brestois 29: Partenaire : Soft",
       "date": "2026",
       "url": "https://business.sb29.bzh/partenaire/soft/",
       "quote": "SOFT, Société d'Organisation Financière et Technique, conçoit et réalise des bâtiments tertiaires",
@@ -27,7 +27,7 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       },
-      "note": "The club's own partner page (names Boudinet Fabrice as contact) confirms the Groupe SOFT identity."
+      "note": "Same page: \"490 rue Docteur Augustin Jacq 29200 Brest\" and \"Contact(s) --> Boudinet Fabrice\"."
     }
   ],
   "reviewed": false

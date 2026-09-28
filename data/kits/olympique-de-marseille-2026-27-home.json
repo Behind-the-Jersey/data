@@ -12,31 +12,48 @@
       "sponsorId": "cma-cgm",
       "placement": "front",
       "source": {
-        "name": "Olympique de Marseille — Nos partenaires (CMA CGM 'partenaire principal ... présent sur la face avant des maillots')",
-        "date": "2026",
-        "url": "https://www.om.fr/fr/partenaires"
-      }
-    },
-    {
-      "sponsorId": "unibet",
-      "placement": "front",
-      "source": {
-        "name": "Olympique de Marseille — Nos partenaires",
-        "date": "2026",
-        "url": "https://www.om.fr/fr/partenaires"
+        "name": "Foot01 — L'OM dévoile son maillot domicile pour 2026-2027",
+        "date": "2026-05-28",
+        "url": "https://www.foot01.com/marseille/lom-devoile-son-maillot-domicile-pour-2026-2027",
+        "quote": "Une tunique blanche designée par Puma, arborant le nouveau logo et le sponsor principal CMA CGM au centre.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "sublime-cote-divoire",
       "placement": "sleeve",
       "source": {
-        "name": "Olympique de Marseille — Nos partenaires (Sublime Côte d'Ivoire, Ministère du Tourisme de Côte d'Ivoire)",
+        "name": "CINEWS — « Sublime Côte d'Ivoire » et l'OM prolongent leur partenariat jusqu'en 2029",
+        "date": "2026-08-27",
+        "url": "https://cinews.ci/football-sublime-cote-divoire-et-lom-prolongent-leur-partenariat-jusquen-2029/",
+        "note": "Coverage of the renewed 2026-2029 partnership: the logo, previously on the shorts, moves to the shirt sleeve for the new cycle.",
+        "quote": "Alors que le logo figurait jusque-là sur le short de l’équipe marseillaise, il sera désormais apposé sur la manche du maillot de l’Om",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "OM Boutique — Maillot OM domicile 2026/27 (product page)",
         "date": "2026",
-        "url": "https://www.om.fr/fr/partenaires"
+        "url": "https://boutique.om.fr/products/maillot-om-domicile-26-27-ome26-mah-rhom.json",
+        "note": "Kit maker. The club shop's product page for the 2026/27 home shirt.",
+        "quote": "Logos PUMA et Olympique de Marseille",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Puma kit. CMA CGM front; Sublime Côte d'Ivoire (state tourism brand) on the sleeve.",
+  "summary": "Puma kit. CMA CGM (main partner) on the front; Sublime Côte d'Ivoire, the Côte d'Ivoire state tourism brand, on the sleeve from the 2026-29 partnership cycle. Not marked complete: no cited source lists every placement on the 2026-27 shirt.",
   "change": null
 }

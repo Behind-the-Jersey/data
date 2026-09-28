@@ -4,10 +4,10 @@
   "ownerIds": [
     "sofipel"
   ],
-  "text": "J.Bervas Automobiles, the Stade Brestois 29 lower-back sponsor, is the car-dealer name of the Brest holding SOFIPEL (SIREN 440978062, SAS, angle Bd de l'Europe / 175 rue de Gouesnou, Brest — the J.Bervas address), chaired by Marc Yvon Philippe Trébaol-Pelleau; Jacques Bervas (SIREN 900250978) is the founder-name company of the same Breton dealer network. No state or sovereign-fund stake was found in the chain.",
-  "short": "J.Bervas Automobiles is run through the Brest holding SOFIPEL, chaired by Marc Trébaol-Pelleau.",
+  "text": "The club's partner page for J.Bervas Automobiles (business.sb29.bzh/partenaire/sofipel/) gives 175 rue de Gouesnou, Brest. The company register lists SOFIPEL (SIREN 440978062, SAS) at angle Bd de l'Europe / 175 rue de Gouesnou, Brest, with Marc Yvon Philippe Trébaol-Pelleau as Président de SAS.",
+  "short": "The club's J.Bervas Automobiles partner page and the company SOFIPEL share a Brest address.",
   "source": {
-    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SIREN 440978062",
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SOFIPEL, SIREN 440978062",
     "date": "2026-09-28",
     "url": "https://recherche-entreprises.api.gouv.fr/search?q=440978062&per_page=1",
     "quote": "\"dirigeants\":[{\"nom\":\"TREBAOL-PELLEAU\",\"prenoms\":\"MARC YVON PHILILPPE\",\"annee_de_naissance\":\"1963\",\"date_de_naissance\":\"1963-02\",\"qualite\":\"Président de SAS\"",
@@ -19,7 +19,7 @@
   },
   "additionalSources": [
     {
-      "name": "Stade Brestois 29 — Partenaire (business.sb29.bzh, site officiel)",
+      "name": "Stade Brestois 29: Partenaire : J.Bervas Automobiles",
       "date": "2026",
       "url": "https://business.sb29.bzh/partenaire/sofipel/",
       "quote": "PARTENAIRE Officiel J.Bervas Automobiles 175 rue de Gouesnou 29200 Brest",
@@ -27,7 +27,7 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       },
-      "note": "The club's own partner page gives the J.Bervas Automobiles address (175 rue de Gouesnou) that matches SOFIPEL's registered office, and names Pelleau Antoine as contact."
+      "note": "Same page: \"Contact(s) --> Pelleau Antoine\"."
     }
   ],
   "reviewed": false

@@ -1,0 +1,32 @@
+{
+  "kind": "ownership",
+  "id": "df-invest-record",
+  "ownerIds": [
+    "df-invest"
+  ],
+  "text": "DF Industrie, a SASU (société par actions simplifiée unipersonnelle) registered in Le Havre, has DF Invest SAS as its president; DF Invest's director is David Folliot.",
+  "short": "DF Industrie is run by holding company DF Invest (director David Folliot).",
+  "source": {
+    "name": "Pappers: Société DF INDUSTRIE : Chiffre d'affaires, statuts, extrait d'immatriculation",
+    "date": "2026-09-28",
+    "url": "https://www.pappers.fr/entreprise/df-industrie-441677093",
+    "quote": "Président : DF Invest (SAS)",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Pappers: Société D.F. INVEST : Chiffre d'affaires, statuts, extrait d'immatriculation",
+      "date": "2026-09-28",
+      "url": "https://www.pappers.fr/entreprise/df-invest-797787231",
+      "quote": "Dirigeant : Folliot David",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

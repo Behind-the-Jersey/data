@@ -1,0 +1,32 @@
+{
+  "id": "limova-kainotom-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kainotom-ia"
+  ],
+  "text": "Limova.ai is the brand of KAINOTOM.IA, a French company (SIREN 982965600) registered in Nice whose legal notice names Réouven Bokobza, Co-Founder, as director of publication; its French registry entry names BOKOBZA & CO (SIREN 103657904) as Président de SAS and YD SCALING as Directeur Général.",
+  "short": "Limova.ai is run by KAINOTOM.IA, a French company led by co-founder Réouven Bokobza",
+  "source": {
+    "name": "Limova.ai — Mentions légales",
+    "date": "2025-09-02",
+    "url": "https://www.limova.ai/legal/mentions-legales",
+    "quote": "Ce site est édité par KAINOTOM.IA, société enregistrée en France, dont le siège social est situé au 38Bis avenue Victor Hugo, 06000 Nice. KAINOTOM.IA propose des solutions SaaS pour la gestion de subventions, commercialisées sous la marque Limova.ai. Le directeur de publication est Monsieur Réouven BOKOBZA, en qualité de Co-Fondateur.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Annuaire des Entreprises / recherche-entreprises.api.gouv.fr — KAINOTOM.IA (SIREN 982965600), dirigeants",
+      "date": "2026",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=982965600",
+      "quote": "\"denomination\":\"YD SCALING\",\"qualite\":\"Directeur Général\",\"type_dirigeant\":\"personne morale\"},{\"siren\":\"103657904\",\"denomination\":\"BOKOBZA & CO\",\"qualite\":\"Président de SAS\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

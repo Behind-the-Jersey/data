@@ -4,10 +4,10 @@
   "ownerIds": [
     "groupe-queguiner"
   ],
-  "text": "Quéguiner Matériaux, the Stade Brestois 29 front-of-shirt sponsor, is the trading company of the Breton Groupe Quéguiner (holding SIREN 482611761, SAS, Landivisiau), founded in 1948 by Yves Quéguiner and still held by the Quéguiner family: Clément Quéguiner is Président de SAS of the holding and of Quéguiner Matériaux (SIREN 309540433), with Bertrand and Claude Quéguinaire as Directeurs Généraux; the third generation, Bertrand and Clément Quéguiner, joined the group in 2016. No state or sovereign-fund stake was found in the chain.",
-  "short": "Quéguiner Matériaux belongs to the family-built Groupe Quéguiner, chaired by Clément Quéguiner.",
+  "text": "The company register lists the holding GROUPE QUEGUINER (SIREN 482611761, SAS, Landivisiau) as Président de SAS of QUEGUINER MATERIAUX (SIREN 309540433), and Clément Quéguiner as Président de SAS of the holding, with Bertrand François Yves Quéguiner and Claude Quéguiner as its Directeurs Généraux. Groupe Quéguiner calls itself a family company for more than 75 years and a regional, independent group; its history page says Yves Quéguiner set up the business at Landivisiau in 1948 and that the third generation, Bertrand and Clément Quéguiner, joined the group in 2016.",
+  "short": "Quéguiner Matériaux is chaired by the holding Groupe Quéguiner, a family company led by Clément Quéguiner.",
   "source": {
-    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SIREN 482611761",
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), GROUPE QUEGUINER, SIREN 482611761",
     "date": "2026-09-28",
     "url": "https://recherche-entreprises.api.gouv.fr/search?q=482611761&per_page=1",
     "quote": "\"dirigeants\":[{\"nom\":\"QUEGUINER\",\"prenoms\":\"BERTRAND FRANCOIS YVES\",\"annee_de_naissance\":\"1986\",\"date_de_naissance\":\"1986-11\",\"qualite\":\"Directeur Général\"",
@@ -15,11 +15,31 @@
       "on": "2026-09-28",
       "by": "Schnitzel"
     },
-    "note": "Same response: QUEGUINER Claude and QUEGUINER Bertrand François Yves are Directeurs Généraux; nature juridique 5710 (SAS), siège Landivisiau (29400); the same registry response for SIREN 309540433 (Quéguiner Matériaux) lists Clément Quéguiner as its Président de SAS."
+    "note": "Same response: QUEGUINER Clément is Président de SAS and QUEGUINER Claude the second Directeur Général; nature juridique 5710 (SAS), siège Landivisiau (29400)."
   },
   "additionalSources": [
     {
-      "name": "Groupe Quéguiner — Notre histoire (groupe-queguiner.fr)",
+      "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), QUEGUINER MATERIAUX, SIREN 309540433",
+      "date": "2026-09-28",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=309540433&per_page=1",
+      "quote": "\"siren\":\"482611761\",\"denomination\":\"GROUPE QUEGUINER\",\"qualite\":\"Président de SAS\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Accueil - Groupe Quéguiner",
+      "date": "2026",
+      "url": "https://www.groupe-queguiner.bzh/",
+      "quote": "Intégrez une entreprise familiale depuis plus de 75 ans, un groupe régional et indépendant de production et de distribution de matériaux de construction",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Histoire - Groupe Quéguiner",
       "date": "2026",
       "url": "https://www.groupe-queguiner.fr/histoire",
       "quote": "1948 Yves Quéguiner se met à son compte et crée les établissements Yves Quéguiner sur la commune de Landivisiau dans le Finistère.",
@@ -27,10 +47,10 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       },
-      "note": "Same page: \"2000 Quéguiner Matériaux sponsorise le Stade Brestois 29.\" and \"2016 Arrivée de la 3ème génération : Bertrand & Clément Quéguiner au sein du Groupe.\""
+      "note": "Same page: \"2016 Arrivée de la 3ème génération : Bertrand & Clément Quéguiner au sein du Groupe.\" and \"2000 Quéguiner Matériaux sponsorise le Stade Brestois 29.\""
     },
     {
-      "name": "Stade Brestois 29 — Partenaire (business.sb29.bzh, site officiel)",
+      "name": "Stade Brestois 29: Partenaire : Quéguiner Matériaux",
       "date": "2026",
       "url": "https://business.sb29.bzh/partenaire/groupe-queguiner/",
       "quote": "Fortement ancré en Bretagne et Loire-Atlantique, le Groupe Quéguiner conçoit, produit, commercialise et transporte des matériaux de construction",
@@ -38,7 +58,7 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       },
-      "note": "The club's own partner page for the shirt sponsor."
+      "note": "Same page: \"Contact(s) --> Quéguiner Clément\"."
     }
   ],
   "reviewed": false

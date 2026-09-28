@@ -1,0 +1,33 @@
+{
+  "id": "bank-respublika-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bank-respublika"
+  ],
+  "text": "Bank Respublika's shares are held by private individuals and a German development trust: 63.32% by Natiq Saday oglu Quliyev, 18.46% by his brother Elchin Quliyev, 8.47% by Namig Quliyev, 5.45% by Shakir Khyavyam oglu Rahimov and 4.22% by SIDT (Sparkassen International Development Trust); no state stake is reported.",
+  "short": "Bank Respublika is privately held, mostly by the Quliyev family (about 90% combined).",
+  "source": {
+    "name": "Valyuta.az, 'Natiq Quliyev və qardaşları \"Bank Respublika\"dan nə qədər qazanır? - Rəqəmlər'",
+    "date": "2025-05-30",
+    "url": "https://valyuta.az/news/natiq-quliyev-ve-qardaslari-ldquobank-respublikardquodan-ne-qeder-qazanir-reqemler",
+    "quote": "bankın səhmlərinin 63,32%-i Quliyev Natiq Saday oğlu, 18,46%-i qardaşı Elçin Quliyevə, 8,47%-i Namiq Quliyevə, 5,45%-i Rəhimov Şakir Xəyyam oğluna, 4,22%-i SIDT-ə, 0,08%-i isə digər səhmdarlara aiddir",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Banco.az bank catalogue, 'Bank Respublika'",
+      "date": "2013-04-23",
+      "url": "https://banco.az/az/banks/bank-respublika-0",
+      "quote": "Bankın səhmdarları sırasında Almaniyanın 2 nəhəng maliyyə təşkilatı təmsil olunur – KfW bank qrupunun üzvü DEG İnvestisiya Şirkəti və Sparkassen-Finanzgruppe maliyyə qrupunun üzvü Sparkassen International Development Trust",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Corroborates that Bank Respublika's shareholders include private German financial institutions (SIDT, formerly alongside DEG) rather than the Azerbaijani state."
+    }
+  ],
+  "reviewed": false
+}
