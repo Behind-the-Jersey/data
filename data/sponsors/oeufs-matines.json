@@ -1,11 +1,16 @@
 {
   "id": "oeufs-matines",
   "name": "Oeufs Matines",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-ldc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Matines is an egg brand of the listed LDC group (family shareholding of more than 69%). Nothing found.",
+  "claimIds": [
+    "groupe-ldc-matines-ownership"
+  ],
+  "aliases": [
+    "Matines"
+  ],
+  "note": "Rating note: Consumer egg brand of Groupe LDC since 2022 (LDC listed on Eurolist A since 1995; family block above 69%); partnership extended to 2028 (club announcement 3 September 2026). No state owner in the chain → none."
 }

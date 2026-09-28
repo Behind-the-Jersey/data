@@ -24,9 +24,14 @@
       },
       "cardSlot": "L",
       "source": {
-        "name": "Sporting Goods Intelligence",
+        "name": "Arsenal FC – 'Arsenal and Emirates renew landmark partnership'",
         "date": "2026-08-06",
-        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article"
+        "url": "https://www.arsenal.com/news/arsenal-and-emirates-renew-landmark-partnership-aNgdG4z8FpG8",
+        "quote": "Emirates continue as the Champion’s front-of-shirt, training kit and stadium naming rights partner through to 2033",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -41,14 +46,34 @@
       },
       "cardSlot": "T",
       "source": {
-        "name": "Sporting Goods Intelligence",
-        "date": "2026-08-06",
-        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article"
+        "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+        "date": "2026-05-14",
+        "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM",
+        "quote": "Deel's logo will appear on the left sleeve of our home, away and third shirts from the start of next season",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Arsenal FC – 'The inspiration and features behind our 2026/27 home kit'",
+        "date": "2026-05-15",
+        "url": "https://www.arsenal.com/news/the-inspiration-and-features-behind-our-202627-home-kit-a84jJ7T0sFDo",
+        "note": "Kit maker. The club's 2026/27 home-kit launch article.",
+        "quote": "adidas and Arsenal have revealed our new home kit for the 2026/27 season, celebrating 20 years of Emirates Stadium as our home",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Rwanda is off the sleeve, but Dubai’s government still pays for the front, so the shirt stays stained.",
+  "summary": "Rwanda is off the sleeve, but Dubai’s government still pays for the front, so the shirt stays stained. adidas makes the kit.",
   "change": {
     "kind": "better",
     "text": "Better than last season: Visit Rwanda left in June 2026",
