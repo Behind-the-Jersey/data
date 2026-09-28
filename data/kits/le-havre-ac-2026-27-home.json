@@ -26,8 +26,8 @@
       "sponsorId": "sim-agences-d-emploi",
       "placement": "front",
       "source": {
-        "name": "Le Havre AC — Nos partenaires (site officiel)",
-        "date": "2026-09-28",
+        "name": "Havre Athletic Club: Nos partenaires",
+        "date": "2026",
         "url": "https://hac.football/fr/nos-partenaires",
         "quote": "SIM Agences d'emploi se positionne en tant que spécialiste indépendant des solutions RH et de l'intérim",
         "checked": {
@@ -40,8 +40,8 @@
       "sponsorId": "df-industrie",
       "placement": "sleeve",
       "source": {
-        "name": "Le Havre AC — Nos partenaires (site officiel)",
-        "date": "2026-09-28",
+        "name": "Havre Athletic Club: Nos partenaires",
+        "date": "2026",
         "url": "https://hac.football/fr/nos-partenaires",
         "quote": "DF Industrie est une entreprise spécialisée dans la maintenance industrielle et les projets neufs, forte de plus de 55 ans d’expérience.",
         "checked": {
@@ -54,10 +54,10 @@
       "sponsorId": "zeturf",
       "placement": "shorts",
       "source": {
-        "name": "Le Havre AC — Nos partenaires (site officiel)",
-        "date": "2026-09-28",
-        "url": "https://hac.football/fr/nos-partenaires",
-        "quote": "ZEturf est la marque de paris hippiques en ligne du groupe FDJ UNITED",
+        "name": "Havre Athletic Club: ZEturf devient Partenaire Officiel du Havre AC et dévoile sa nouvelle identité visuelle",
+        "date": "2026-09-04",
+        "url": "https://hac.football/fr/posts/zeturf-devient-partenaire-officiel-du-havre-ac-et-devoile-sa-nouvelle-identite-visuelle",
+        "quote": "La marque apparaîtra sur les shorts de match lors des rencontres de Ligue 1 McDonald's",
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
@@ -68,8 +68,8 @@
       "sponsorId": "hummel",
       "placement": "partner",
       "source": {
-        "name": "Boutique Officielle HAC — Maillot Domicile HAC 26/27",
-        "date": "2026-09-28",
+        "name": "Boutique Officielle HAC: Maillot Domicile HAC 26/27",
+        "date": "2026",
         "url": "https://boutique.hac.football/tenues-officielles/1203-maillot-domicile-hac-2627.html",
         "quote": "Le HAC et Hummel présentent le maillot domicile des Ciel&Marine pour la saison 2026/2027",
         "checked": {
@@ -79,7 +79,7 @@
       }
     }
   ],
-  "sponsorsComplete": true,
-  "summary": "Hummel kit. Seafrigo main partner on the front, SIM upper chest, DF Industrie right sleeve, ZEturf on the shorts.",
+  "sponsorsComplete": false,
+  "summary": "Hummel kit. Seafrigo on the front and ZEturf on the match shorts, per the club's announcements. SIM Agences d'emploi (front) and DF Industrie (sleeve) are cited from the club's partners page, which lists them as official partners but doesn't say where they sit on the shirt; no source names every placement, so the list isn't marked complete.",
   "change": null
 }
