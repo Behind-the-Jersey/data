@@ -4,9 +4,9 @@
   "ownerIds": [
     "fundacio-fc-barcelona"
   ],
-  "text": "The Fundacio FC Barcelona (Barca Foundation) is FC Barcelona's own charitable foundation, created in 1994. Its governing body is the Patronat (board of patrons) and its income comes mainly from the Club, the players and external financiers, with FC Barcelona contributing up to 0.7% of its income budget. It is a club-affiliated charity, not a state or state-fund entity.",
+  "text": "The Fundació FC Barcelona (Barça Foundation) was created in 1994. Its highest governing body is its Board of Patrons. Its income comes from two main sources: the Club, players and external financiers; FC Barcelona's contribution is up to 0.7% of the income budget.",
   "source": {
-    "name": "Barca Foundation, Economic transparency",
+    "name": "Barça Foundation: Economic transparency",
     "date": "2026",
     "url": "https://foundation.fcbarcelona.com/en/the-foundation/economic-transparency",
     "quote": "The Foundation receive income from two main sources: the Club, players and external financiers",
@@ -15,5 +15,27 @@
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Barça Foundation: The Foundation",
+      "date": "2026",
+      "url": "https://foundation.fcbarcelona.com/en/the-foundation",
+      "quote": "In 1994 the Barça Foundation was created as a pioneering initiative in sport in Spain",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Barça Foundation: Who we are",
+      "date": "2026",
+      "url": "https://foundation.fcbarcelona.com/en/the-foundation/who-we-are",
+      "quote": "The Board of Patrons is the entity’s highest governing body.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }
