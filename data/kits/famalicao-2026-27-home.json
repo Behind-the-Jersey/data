@@ -12,13 +12,48 @@
       "sponsorId": "bwin",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "FC Famalicão, 'Bwin é o novo main sponsor do FC Famalicão'",
+        "date": "2026-08-19",
+        "url": "https://www.fcfamalicao.pt/bwin-e-o-novo-main-sponsor-do-fc-famalicao/",
+        "quote": "a presença desta marca na parte frontal das camisolas da equipa principal",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "chanceplus",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Famalicão: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://www.fcfamalicao.pt/loja/camisola-principal-26-27/",
+        "quote": "Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club shop's product photo of the sleeve (https://www.fcfamalicao.pt/wp-content/uploads/2026/08/FCF-LOJAONLINE-26270334_Easy-Resize.com_.jpg) shows 'chanceplus' and 'INTERMEDIÁRIO DE CRÉDITO' on the navy sleeve; the front photo (https://www.fcfamalicao.pt/wp-content/uploads/2026/08/FCF-LOJAONLINE-26270329_Easy-Resize.com_.jpg) shows bwin across the front and the Puma logo."
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: FC Famalicão 26-27 Kits Revealed",
+        "date": "2026-07-19",
+        "url": "https://www.footyheadlines.com/5967214814/fc-famalicao-26-27-kits-revealed.html",
+        "quote": "Made by Puma, the FC Famalicão 26-27 shirts will be worn in the upcoming Primeira Liga campaign.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, recorded as partner per existing convention."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Entain plc via Bwin.",
+  "summary": "bwin on the front: the club announced a three-season main-sponsor deal on 19 August 2026, with the brand on the front of the first-team shirts and the naming of the Estádio Municipal's east stand. Chanceplus on the sleeve in the club shop's photos of the Camisola Principal 26/27; Puma makes the kit. Not marked complete: no cited source shows the back of the shirt or the shorts, so their sponsors aren't recorded yet.",
   "change": null
 }

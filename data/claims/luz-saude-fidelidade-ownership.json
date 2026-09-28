@@ -4,17 +4,29 @@
   "ownerIds": [
     "fidelidade"
   ],
-  "text": "Fidelidade completed the sale of a 40% stake in Luz Saude to Macquarie Asset Management (MEIF 7 MED BIDCO, S.A.), keeping a controlling position because of Luz Saude's importance to the group's health strategy.",
-  "short": "Fidelidade holds a controlling stake in Luz Saude after selling 40% to Macquarie",
+  "text": "Fidelidade's brands page lists Luz Saúde among its group brands, one of the main private health-care groups in Portugal. Fidelidade concluded the sale of 40% of Luz Saúde to Macquarie Asset Management, via MEIF 7 MED BIDCO, S.A., on 29 January 2026, keeping a controlling position.",
   "source": {
-    "name": "ECO (Economia Online): Fidelidade confirms sale of 40% of Luz Saude to Macquarie",
-    "date": "2026-01-29",
-    "url": "https://eco.sapo.pt/2026/01/29/fidelidade-confirmou-venda-de-40-da-luz-saude-a-macquarie/",
-    "quote": "A Fidelidade concluiu esta quinta-feira a venda de uma participação de 40% no capital da Luz Saúde ao Grupo Macquarie Asset Management",
+    "name": "Fidelidade: Marcas do Grupo",
+    "date": "2026",
+    "url": "https://www.fidelidade.pt/PT/a-fidelidade/NossaMarca/marca/Paginas/Marcas-do-grupo.aspx",
+    "quote": "Luz Saúde Um dos principais grupos de prestação de cuidados de saúde privados em Portugal, com uma rede de hospitais e clínicas.",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "ECO: Fidelidade confirmou venda de 40% da Luz Saúde à Macquarie",
+      "date": "2026-01-29",
+      "url": "https://eco.sapo.pt/2026/01/29/fidelidade-confirmou-venda-de-40-da-luz-saude-a-macquarie/",
+      "quote": "A Fidelidade concluiu esta quinta-feira a venda de uma participação de 40% no capital da Luz Saúde ao Grupo Macquarie Asset Management via MEIF 7 MED BIDCO, S.A., após a verificação de todas as condições definidas para o efeito, designadamente de caráter regulatório, comunicou a seguradora.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same article: 'a conclusão da operação confirma a entrada do grupo australiano na estrutura acionista da Luz Saúde, com a Fidelidade “a manter uma posição de controlo'."
+    }
+  ],
   "reviewed": false
 }

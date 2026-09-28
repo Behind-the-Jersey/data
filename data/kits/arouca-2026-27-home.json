@@ -12,13 +12,63 @@
       "sponsorId": "bwin",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
+        "date": "2026-08-06",
+        "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
+        "quote": "The Skita logo is placed on the right chest in navy, sitting opposite the traditional club crest, with main sponsor bwin printed across the front.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club's announcement of 27 July 2026 (https://fcarouca.eu/noticias/mudanca-historica-em-arouca-bwin-e-o-novo-main-sponsor-do-fc-arouca/): 'a entrada da bwin como Main Sponsor do clube', replacing 'Construções Carlos Pinho, Lda na frente da camisola principal' after more than a decade."
+      }
+    },
+    {
+      "sponsorId": "castro-electronica",
+      "placement": "back",
+      "source": {
+        "name": "FC Arouca: Castro Electrónica renova parceria com o FC Arouca",
+        "date": "2026-08-20",
+        "url": "https://fcarouca.eu/noticias/castro-electronica-renova-parceria-com-o-fc-arouca/",
+        "quote": "com a renovação do patrocínio oficial para a época 2026/2027. A empresa mantém assim o seu logótipo em destaque nas costas da camisola oficial dos Lobos de Arouca",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hospital-da-luz",
+      "placement": "sleeve",
+      "source": {
+        "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
+        "date": "2026-08-06",
+        "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
+        "quote": "FC Arouca and technical sponsor Skita have officially launched the club's new home shirt for the 26-27 season.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The article's launch photo (https://www.footyheadlines.com/static/img/post/2026/08/06/RBDGIxBl9zd3Iix/fc-arouca-26-27-home-kit-released.jpg, captioned 'Equipamento Principal 26-27') shows 'HOSPITAL DA LUZ' on the left sleeve. Roda Viva's third-kit article (https://rodaviva.pt/fca-apresentou-terceiro-equipamento-para-2026-2027/, 5 Sep 2026): 'a margem superior da manga fica reservada ao Hospital da Luz'."
+      }
+    },
+    {
+      "sponsorId": "skita",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
+        "date": "2026-08-06",
+        "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
+        "quote": "FC Arouca and technical sponsor Skita have officially launched the club's new home shirt for the 26-27 season.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, recorded as partner per existing convention."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Entain plc (LSE-listed, no state owner) via Bwin.",
+  "summary": "bwin on the front from 2026-27, on a four-season deal with an option for a fifth, replacing Construções Carlos Pinho after more than a decade (club announcement, 27 July 2026). Castro Electrónica stays on the back (club, 20 August 2026), Hospital da Luz is on the sleeve in the launch photos, and Skita makes the kit. Not marked complete: no cited source lists every mark on the shirt, and Construções Carlos Pinho's place on it in 2026-27 isn't sourced.",
   "change": null
 }

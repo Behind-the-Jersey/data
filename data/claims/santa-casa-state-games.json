@@ -7,7 +7,7 @@
   "text": "Santa Casa da Misericordia de Lisboa operates Portugal's social games 'on behalf and on account of the State' under an exclusive regime; its Jogos Santa Casa arm runs the Placard betting brand ('O Placard, produto dos Jogos Santa Casa'), whose online licence (013) is held by SAS Apostas Sociais, Jogos e Apostas Online, S.A.",
   "short": "Placard is a product of Jogos Santa Casa, which operates Portugal's games on behalf of the State",
   "source": {
-    "name": "Santa Casa da Misericordia de Lisboa (scml.pt Jogos Santa Casa page and news) + SRIJ licensed-entities register",
+    "name": "Santa Casa da Misericórdia de Lisboa: Placard dá nome à Supertaça Cândido de Oliveira",
     "date": "2026-07-20",
     "url": "https://scml.pt/comunicacao/noticias/placard-da-nome-a-supertaca-candido-de-oliveira/",
     "quote": "O Placard, produto dos Jogos Santa Casa, é o novo patrocinador principal da Supertaça Cândido de Oliveira.",
@@ -16,5 +16,28 @@
       "by": "claude-review-282"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Santa Casa da Misericórdia de Lisboa: Jogos Santa Casa",
+      "date": "2026",
+      "url": "https://scml.pt/jogos-santa-casa/",
+      "quote": "A Santa Casa é responsável pela exploração dos jogos sociais no país, em nome e por conta do Estado, em regime de exclusividade.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "SRIJ: Entidades licenciadas",
+      "date": "2026",
+      "url": "https://www.srij.turismodeportugal.pt/pt/jogos-e-apostas-online/entidades-licenciadas",
+      "quote": "Placard.pt Marca: Placard.pt Website: www.placard.pt Entidade exploradora: SAS APOSTAS SOCIAIS, JOGOS E APOSTAS ONLINE, S.A.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same entry: 'Licença 013 - Apostas desportivas à cota'."
+    }
+  ]
 }

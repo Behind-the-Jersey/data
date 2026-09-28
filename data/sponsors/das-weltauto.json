@@ -3,15 +3,17 @@
   "name": "Das WeltAuto",
   "ownerId": "volkswagen-ag",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "The used-car brand of Volkswagen Group, a listed company. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Volkswagen Group's used-car brand; Qatar Holding LLC holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights.",
   "claimIds": [
-    "das-weltauto-volkswagen-ownership"
+    "das-weltauto-volkswagen-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
   ],
   "aliases": [
-    "Das WeltAuto",
-    "Volkswagen used cars"
+    "Das WeltAuto Portugal"
   ],
-  "note": "Back-of-shirt sponsor at Alverca in 2026-27."
+  "note": "Official partner of FC Alverca - Futebol SAD from 2026-27, providing the club's mobility (Fleet Magazine; O Jogo, 29 July 2026); named on the back of Alverca's 2026-27 shirt only by Wikipedia's kit table, so it isn't on the kit record yet. Rating note: on hold for a maintainer, like skoda: Volkswagen AG, whose used-car brand this is, is 10.4% owned (17.0% of votes) by Qatar Holding LLC, part of the Qatar Investment Authority (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); Qatar's record is recorded (qatar-migrant-worker-abuse-2025). That passes the 5% test, so 'none' can't stand."
 }
