@@ -3,9 +3,12 @@
   "name": "ODTY News",
   "ownerId": "odty-news",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "ODTY News is a Chinese sports-news portal that became Getafe CF's shirt-sleeve sponsor in July 2024, replacing Tbty News. Its corporate ownership is opaque - no reliable primary source names the company behind the portal. No state owner identified. Nothing found.",
+  "claimIds": [
+    "odty-news-record"
+  ],
+  "aliases": ["Odty News", "odtynews.com", "ODTY"],
+  "note": "Rating note: Ownership is opaque - odtynews.com is an anonymous site with no about or legal page, the domain is privacy-redacted (registered March 2024 via Gname.com Pte. Ltd., observed servers in Hong Kong) and 2Playbook describes it only as 'la agencia de noticias china' with the deal's economics and duration unknown. The claim rests on the trade press and the club's kit; no state owner appears anywhere in available material."
 }

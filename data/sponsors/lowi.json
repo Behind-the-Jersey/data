@@ -1,11 +1,15 @@
 {
   "id": "lowi",
   "name": "Lowi",
-  "ownerId": "vodafone-group-plc",
+  "ownerId": "vodafone-espana",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Lowi is a telecom brand of Vodafone España, wholly owned by Zegona Communications Plc (UK-listed) since 31 May 2024. No state owner identified. Nothing found.",
+  "claimIds": [
+    "lowi-brand-record",
+    "zegona-communications-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Owner record updated - Lowi belonged to Vodafone Group Plc until Zegona Communications completed the 100% acquisition of Vodafone Spain on 31 May 2024. Private/listed corporate capital only; no state owner appears anywhere in available material."
 }

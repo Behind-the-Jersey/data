@@ -3,10 +3,12 @@
   "name": "Joma",
   "ownerId": "joma-sport",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Joma is a Spanish sportswear brand founded in 1965 and still run as a family enterprise (Joma Sport, S.A.). No state owner identified. Nothing found.",
+  "claimIds": [
+    "joma-sport-family-owned-record"
+  ],
   "aliases": ["Joma Sport"],
-  "note": "Kit supplier (technical sponsor) to Fiorentina from 2026-27."
+  "note": "Rating note: Kit supplier (technical sponsor) to Getafe since 2004, per Score and Change's 2026/27 La Liga overview; also kits Fiorentina and Levante. Private Spanish family company; no state owner appears anywhere in available material."
 }

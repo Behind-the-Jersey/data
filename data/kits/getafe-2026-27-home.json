@@ -12,32 +12,94 @@
       "sponsorId": "tecnocasa-group",
       "placement": "front",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "Getafe CF official news: Tecnocasa Group y el Getafe CF, unidos hasta 2026",
+        "date": "2023-11-16",
+        "url": "https://www.getafecf.com/noticias/tecnocasa-group-y-el-getafe-cf-unidos-hasta-2026",
+        "quote": "Tecnocasa se mantendrá como patrocinador principal del club, luciéndose con orgullo en el pecho de la camiseta más bonita de LaLiga, la del Getafe C.F.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "odty-news",
       "placement": "sleeve",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "2Playbook: El Getafe CF firma a Odty News como patrocinador para la manga de la camiseta",
+        "date": "2024-07-05",
+        "url": "https://www.2playbook.com/patrocinio/getafe-cf-firma-odty-news-como-patrocinador-manga-camiseta_16076_102.html",
+        "quote": "El club de LaLiga ha firmado a Odty News como patrocinador para la manga de la camiseta.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "lowi",
       "placement": "back",
       "source": {
-        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
-        "date": "2025-10-08",
-        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "Lowi back of shirt per the 2025-26 guide; one of the two Lowi backs the 2026-27 overview names, not identified there"
+        "name": "Getafe CF official news: Lowi, nuevo patrocinador oficial del Getafe CF",
+        "date": "2024-09-23",
+        "url": "https://www.getafecf.com/noticias/lowi-nuevo-patrocinador-oficial-del-getafe-cf",
+        "quote": "La marca, en el primer patrocinio deportivo de su historia, se verá debajo del dorsal de las camisetas de nuestros jugadores",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Back-of-shirt placement (below the shirt number), carried into 2026-27 per Score and Change's 2026/27 La Liga back-of-shirt overview."
+      }
+    },
+    {
+      "sponsorId": "mapei",
+      "placement": "shorts",
+      "side": "front",
+      "source": {
+        "name": "Getafe CF official news: El Getafe C.F. y Mapei firman un acuerdo de patrocinio por tres temporadas",
+        "date": "2025-09-03",
+        "url": "https://www.getafecf.com/noticias/el-getafe-cf-y-mapei-firman-un-acuerdo-de-patrocinio-por-tres-temporadas",
+        "quote": "Mapei ocupará el frontal del pantalón de las equipaciones de juego",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Three-season deal (2025-26 to 2027-28), so it covers the 2026-27 kit."
+      }
+    },
+    {
+      "sponsorId": "grand-class",
+      "placement": "shorts",
+      "side": "back",
+      "source": {
+        "name": "Getafe CF official news: El Getafe CF y Grand Class unen fuerzas en un nuevo acuerdo de patrocinio",
+        "date": "2025-08-14",
+        "url": "https://www.getafecf.com/noticias/el-getafe-cf-y-grand-class-unen-fuerzas-en-un-nuevo-acuerdo-de-patrocinio",
+        "quote": "la marca Grand Class tendrá presencia destacada en la parte trasera del pantalón de juego del primer equipo",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Three-season deal (2025-26 to 2027-28), so it covers the 2026-27 kit."
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "2026/27 La Liga kit sponsors Team Kit sponsor Alavés Macron Athletic Club de Bilbao Castore Atlético de Madrid Nike Barcelona Nike (home & third) Nike-Kobe Bryant (away) Celta de Vigo Hummel Deportivo De A Coruña Nike Elche Nike Espanyol Kelme Getafe Joma",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker (technical sponsor) since 2004 per the same overview; listed as partner per the convention for kit suppliers."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "summary": null,
   "change": null
 }
