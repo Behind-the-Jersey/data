@@ -3,9 +3,14 @@
   "name": "Sublime Côte d'Ivoire",
   "ownerId": "government-of-cote-divoire",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Tourism-promotion brand of the Côte d'Ivoire Ministry of Tourism and Leisure, i.e. a state body. Nothing found.",
+  "claimIds": [
+    "sublime-ministry-ownership"
+  ],
+  "aliases": [
+    "Sublime Côte d'Ivoire (Ministère du Tourisme et des Loisirs)"
+  ],
+  "note": "State ownership alone is not a tier (METHOD.md); no human-rights record claim applies to the sponsor itself. The brand's own site (mysublimecotedivoire.com) was unreachable (TLS internal error), so the ownership is evidenced by press coverage of the OM partnership naming the ministry."
 }

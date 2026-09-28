@@ -1,11 +1,12 @@
 {
   "id": "unibet",
   "name": "Unibet",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "kindred-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Online betting and gaming brand owned by Kindred Group plc, wholly-owned by FDJ UNITED (listed on Euronext Paris; the French State held about 21% of the capital in February 2026, a passive stake). Nothing found.",
+  "claimIds": ["kindred-unibet-fdj-ownership", "kindred-wholly-owned-fdj-ownership"],
+  "aliases": [],
+  "note": "Gambling operator. Kindred was acquired by FDJ UNITED in 2024; FDJ UNITED is a listed company whose largest shareholder is the French State (about 21%, February 2026 URD) — a passive stake, and state ownership alone is not a tier (METHOD.md). No openable source places Unibet on the 2026-27 home shirt."
 }

@@ -1,11 +1,12 @@
 {
   "id": "cma-cgm",
   "name": "CMA CGM",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "cma-cgm",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French shipping and logistics group founded and controlled by the Saadé family; the CMA CGM Foundation describes it as family-owned. Nothing found.",
+  "claimIds": ["cma-cgm-record"],
+  "aliases": ["CMA CGM Group"],
+  "note": "The Saadé family controls the group (Rodolphe Saadé is chairman and CEO); no state or fund owner identified."
 }
