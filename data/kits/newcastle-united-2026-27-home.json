@@ -14,23 +14,49 @@
       "sponsorId": "knox-hydration",
       "placement": "front",
       "source": {
-        "name": "The Mag",
-        "date": "2026-06",
-        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+        "name": "Newcastle United FC: Newcastle United announces monumental three-year front-of-shirt partnership with Knox Hydrate",
+        "date": "2026-06-23",
+        "url": "https://www.newcastleunited.com/en/news/knox-hydrate-front-of-shirt-partnership",
+        "quote": "Knox Hydrate branding will proudly feature on the front of all matchday shirts for the Men's first team, Newcastle United Women, and the Academy teams from the start of the 2026-27 season.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "noon",
       "placement": "sleeve",
       "source": {
-        "name": "The Mag",
-        "date": "2026-06",
-        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+        "name": "Wikipedia: 2026–27 Premier League, Personnel and kits (Newcastle United row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+        "note": "Lists Noon as Newcastle's sleeve sponsor for 2026-27, with the club's 2022 sleeve-partner announcement as its source. The club shop's official 26/27 home-shirt photo shows the noon logo on the sleeve; the club's partner footer still lists noon.",
+        "quote": "Newcastle United Matthias Jaissle Dan Burn [ 73 ] Adidas KNOX Hydrate [ 74 ] Noon [ 75 ]",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Newcastle United club shop: Newcastle United adidas Men's 26/27 Home Shirt",
+        "date": "2026",
+        "url": "https://shop.newcastleunited.com/products/newcastle-united-adidas-mens-26-27-home-shirt",
+        "note": "Kit maker. The club shop's 26/27 home-shirt product page: adidas 3-Stripes on the official shirt; the club's partner footer lists adidas. The club's KNOX announcement confirms it is the front-of-shirt partner on the same matchday shirts.",
+        "quote": "A true home kit for 26/27 - where tradition meets progression, and club identity takes on a life of its own.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "noon, on the sleeve, is part-owned by Saudi Arabia’s state fund.",
+  "sponsorsComplete": true,
+  "summary": "adidas home shirt: Knox Hydrate on the front, noon on the sleeve. The club's front-of-shirt announcement and the club shop's 26/27 home-shirt photo name no other shirt sponsor. Knox Hydrate is founder-owned (du Plessis and Hughes); noon is half owned by Saudi Arabia's state fund, PIF.",
   "change": {
     "kind": "better",
     "text": "Better than last season: Saudi-owned Sela is off the front",
