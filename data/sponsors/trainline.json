@@ -3,9 +3,15 @@
   "name": "Trainline",
   "ownerId": "trainline-plc",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Listed on the London Stock Exchange (ticker TRN) with asset-manager shareholders, none above 14.32%. Nothing found.",
+  "claimIds": [
+    "trainline-plc-ownership"
+  ],
+  "aliases": [
+    "Trainline plc",
+    "thetrainline.com"
+  ],
+  "note": "Rating note: Free-float listed company; largest notified holder FIL Limited at 14.32% (25 September 2026). No state body or fund found anywhere in the chain, and no court, regulator, UN body or major-NGO human-rights finding against Trainline plc found."
 }
