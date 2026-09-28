@@ -14,7 +14,9 @@
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Die Red Bull GmbH besitzt einen Anteil von 99 Prozent an der RasenBallsport GmbH und ist somit auch der Trikotsponsor des Vereins.",
+        "checked": {"on": "2026-09-27", "by": "Schnitzel"}
       }
     },
     {
@@ -22,13 +24,15 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "Kraken, Kraken kooperiert mit RB Leipzig (announcement of Kraken as sleeve sponsor)",
+        "date": "2025-08-04",
+        "url": "https://blog.kraken.com/global/rb-leipzig-fussball/",
+        "quote": "Wir sind offizieller Krypto-Partner und Ärmelsponsor des Vereins für alle Bundesliga-Spiele der Herren- und Frauenmannschaften von RB Leipzig.",
+        "checked": {"on": "2026-09-27", "by": "Schnitzel"}
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Red Bull (front) and Kraken (sleeve, front side) on the RB Leipzig 2026/27 home kit.",
   "change": null
 }
