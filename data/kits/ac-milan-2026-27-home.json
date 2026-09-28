@@ -12,13 +12,61 @@
       "sponsorId": "emirates",
       "placement": "front",
       "source": {
-        "name": "Football Italia",
-        "date": "2026-07-01",
-        "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal"
+        "name": "Football Italia, 'Official: Milan confirm €100m front-of-shirt sponsorship agreement'",
+        "date": "2025-10-15",
+        "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal",
+        "quote": "Milan have announced that they have extended their sponsorship agreement with the airline Emirates. Reports in Italy suggest that this new extension will be worth around €100m",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "bitpanda",
+      "placement": "back",
+      "source": {
+        "name": "AC Milan, 'AC MILAN AND BITPANDA EXPAND PARTNERSHIP WITH NEW BACK OF SHIRT SPONSORSHIP'",
+        "date": "2025-02-02",
+        "url": "https://www.acmilan.com/en/news/articles/sponsor/2025-02-02/ac-milan-and-bitpanda-expand-partnership-with-new-back-of-shirt-sponsorship",
+        "quote": "Bitpanda will serve as the new Back-of-Shirt sponsor for the men's First Team , joining AC Milan's family of Principal Partners .",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "msc-cruises",
+      "placement": "sleeve",
+      "source": {
+        "name": "AC Milan, 'MSC CRUISES BECOMES NEW SLEEVE PARTNER OF AC MILAN'",
+        "date": "2023-07-19",
+        "url": "https://www.acmilan.com/en/news/articles/sponsor/2023-07-19/msc-cruises-becomes-new-sleeve-partner-of-ac-milan",
+        "quote": "Starting from the 2023/24 season, MSC Cruises will become a Principal Partner and the Official Sleeve Partner of the Rossoneri",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines, 'Milan 26-27 Home Kit Released'",
+        "date": "2026-05-22",
+        "url": "https://www.footyheadlines.com/2025/11/milan-26-27-home-kit.html",
+        "quote": "The Puma logo and the sponsor appear in white, standing out against the black/red background of the shirt.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "Emirates on the front (renewed in October 2025), Bitpanda on the back (since the February 2025 derby), MSC Cruises on the sleeves (since 2023/24), kit made by Puma. The 2026-27 home shirt also carries a Franco Baresi memorial patch on the left sleeve, worn for the whole season — a tribute, not a sponsor (source: acmilan.com, '“6 PER SEMPRE”: THE TRIBUTE TO FRANCO BARESI ON THE AC MILAN JERSEY', 2026-08-21)."
 }
