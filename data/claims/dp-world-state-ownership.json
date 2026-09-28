@@ -1,0 +1,32 @@
+{
+  "id": "dp-world-state-ownership",
+  "ownerIds": [
+    "government-of-dubai"
+  ],
+  "kind": "ownership",
+  "text": "DP World Limited's interim financial statements for the first half of 2026 state that Port & Free Zone World FZE, a wholly owned subsidiary of Dubai World Corporation, holds 100% of the company's share capital, and that the Government of Dubai is the ultimate owner of the group. DP World announced in February 2020 that it would delist from Nasdaq Dubai after its parent, Port and Free Zone World, offered to buy the shares traded there.",
+  "short": "DP World is ultimately owned by the Government of Dubai.",
+  "source": {
+    "name": "DP World – DP World Reports Resilient First Half 2026 Results, with condensed consolidated interim financial statements (Nasdaq Dubai filing)",
+    "date": "2026-08-13",
+    "url": "https://candidocs.nasdaqdubai.com/2026/Aug/13/84244e7b-fa59-4391-b91b-81a9f7027833/2026_08_13_DP%20World%201H%202026%20Interim%20Results%20Announcement_final%20with%20Audited%20FS.pdf",
+    "quote": "a wholly owned subsidiary of Dubai World Corporation (‘the Intermediate Parent’), holds 100% of the Company’s issued and outstanding share capital. The Government of Dubai is the Ultimate owner of the Group.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "DP World – DP World to Delist from Nasdaq Dubai (press release)",
+      "date": "2020-02-17",
+      "url": "https://www.dpworld.com/en/news/dp-world-to-delist-from-nasdaq-dubai",
+      "quote": "DP World will be 100 per cent owned by Port and Free Zone World, which in turn is a wholly-owned subsidiary of Dubai World.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
