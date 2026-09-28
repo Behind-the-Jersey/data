@@ -1,0 +1,33 @@
+{
+  "id": "ds-automobiles-france-2026-home",
+  "clubId": "ds-automobiles-france",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "ds-automobiles",
+      "placement": "front",
+      "source": {
+        "name": "SailGP team page - DS Automobiles France (Title Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/france/"
+      }
+    },
+    {
+      "sponsorId": "accor",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - France (Global Partners: ALL - Accor Live Limitless)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/france/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Stellantis marque DS Automobiles is France's Title Partner; ALL - Accor Live Limitless leads the global-partner block.",
+  "change": null
+}

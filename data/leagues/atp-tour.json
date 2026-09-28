@@ -1,0 +1,19 @@
+{
+  "id": "atp-tour",
+  "aliases": [
+    "atp",
+    "association of tennis professionals tour",
+    "atp tour 2026"
+  ],
+  "sportId": "tennis",
+  "name": "ATP Tour",
+  "clubCount": 0,
+  "season": "2026",
+  "status": "not-started",
+  "notes": [
+    "Calendar-year competition; season field uses bare 2026. The 2026 ATP Tour runs January to November with the Next Gen ATP Finals in December.",
+    "PIF is the first-ever naming partner of the ATP Rankings ('PIF ATP Rankings') and a Platinum Partner of the ATP Tour; PIF's partner page at bnpparibasopen.com/partners/pif describes it as 'exclusive naming partner of both the ATP and WTA Rankings' and 'Platinum Partner of the ATP Tour' (fetched 25 Sep 2026).",
+    "Nitto extended as title sponsor of the ATP Finals in Turin through 2030; the 2026 edition is the 2026 Nitto ATP Finals (15-22 Nov 2026, Inalpi Arena).",
+    "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fa-cup",
+  "aliases": [
+    "emirates fa cup",
+    "fa cup",
+    "the fa cup",
+    "english fa cup"
+  ],
+  "sportId": "soccer",
+  "name": "The Emirates FA Cup",
+  "country": "England",
+  "clubCount": 124,
+  "season": "2026-27",
+  "status": "not-started",
+  "notes": [
+    "Organisation target: sponsors of the FA Cup are recorded as deals with clubId null, orgName and leagueId fa-cup.",
+    "clubCount 124 is the competition proper (32 First Round qualifiers plus the 92 Premier League and EFL clubs who enter in the Third Round); 743 clubs in total were accepted for 2026-27 per the FA's official list (thefa.com news, 26 Jun 2026). The 124 figure is derived, not published by the FA.",
+    "Key dates for 2026-27 (thefa.com/competitions/thefacup/round-dates, fetched): First Round Proper 7 Nov 2026, Third Round (PL and Championship enter) 9 Jan 2027, Final 22 May 2027. The competition-proper club list is not final until those rounds are drawn, so per-club kits are deferred.",
+    "Title sponsor Emirates runs to 2027-28; the FA's official page footer (thefa.com/competitions/thefacup, fetched 25 Sep 2026) shows Emirates as primary sponsor with Carling, Cognizant, Mitre and ClearScore as secondary sponsors."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "germany-sailgp-2026-home",
+  "clubId": "germany-sailgp",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "deutsche-bank",
+      "placement": "front",
+      "source": {
+        "name": "SailGP team page - Germany presented by Deutsche Bank (Title Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/germany/"
+      }
+    },
+    {
+      "sponsorId": "riedel",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Germany (Official Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/germany/"
+      }
+    },
+    {
+      "sponsorId": "viessmann",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Germany (Official Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/germany/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Deutsche Bank presents Germany's team; Riedel - whose founder owns the team - and Viessmann are official partners.",
+  "change": null
+}

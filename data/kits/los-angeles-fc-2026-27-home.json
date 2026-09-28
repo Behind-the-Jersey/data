@@ -12,13 +12,60 @@
       "sponsorId": "bmo-bank",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "LAFC – LAFC Debuts New 2026 Home Kit Ahead of Club's Ninth Season",
+        "date": "2026-02-10",
+        "url": "https://www.lafc.com/news/lafc-debuts-new-2026-home-kit-ahead-of-club-s-ninth-season",
+        "quote": "BMO continues as the presenting front-of-kit partner, adorning the chest, while Ford is featured on the right sleeve",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "ford",
+      "placement": "sleeve",
+      "source": {
+        "name": "LAFC – LAFC Debuts New 2026 Home Kit Ahead of Club's Ninth Season",
+        "date": "2026-02-10",
+        "url": "https://www.lafc.com/news/lafc-debuts-new-2026-home-kit-ahead-of-club-s-ninth-season",
+        "quote": "BMO continues as the presenting front-of-kit partner, adorning the chest, while Ford is featured on the right sleeve",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "Blinkfire – 2026 MLS Jersey Sponsors: Brands Fueling North American Soccer",
+        "date": "2026-04-02",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/02/2026-mls-jersey-sponsors-brands-fueling-north-american-soccer/",
+        "quote": "Apple TV continues to serve as the official jersey sleeve patch sponsor of MLS",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "el-mexicano",
+      "placement": "back",
+      "source": {
+        "name": "LAFC – LAFC Announces El Mexicano Brand as Club's First-Ever Back-of-Kit Partner",
+        "date": "2026-07-31",
+        "url": "https://www.lafc.com/news/lafc-announces-el-mexicano-brand-as-club-s-first-ever-back-of-kit-partner",
+        "quote": "the El Mexicano® Brand logo will appear on the back of every LAFC first-team jersey",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. LAFC: BMO fronts the 2026-27 home kit, Ford on the right sleeve, El Mexicano on the back."
 }

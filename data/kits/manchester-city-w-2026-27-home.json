@@ -1,0 +1,29 @@
+{
+  "id": "manchester-city-w-2026-27-home",
+  "clubId": "manchester-city-w",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "joie",
+      "placement": "shorts",
+      "source": {
+        "name": "Nursery Today: Joie announces new partnership with Manchester City Women",
+        "date": "2023-03-29",
+        "url": "https://nurserytoday.co.uk/2023/03/29/joie-announces-new-partnership-with-manchester-city-women/",
+        "quote": "Joie will see its logo on the back of the women's first team playing shorts for all fixtures for the period of the partnership.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "claude-review-282"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Joie on the back of the shorts. The front-of-shirt sponsor isn't sourced yet: the City Football Group page cited for Etihad doesn't mention the women's team.",
+  "change": null
+}
