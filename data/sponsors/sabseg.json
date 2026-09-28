@@ -3,9 +3,9 @@
   "name": "SABSEG",
   "ownerId": "sabseg",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "SABSEG is SABSEG - Corretor de Seguros, S.A., a Portuguese insurance broker whose group says its capital is 100% Portuguese. No state or state fund appears in its ownership. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "sabseg-sa-ownership"
   ],
@@ -13,5 +13,5 @@
     "SABSEG Seguros",
     "Grupo SABSEG"
   ],
-  "note": "Shorts sponsor at SC Braga in 2026-27. SABSEG - Corretor de Seguros, S.A. (Lisbon); no shareholder names on its own pages, no state link."
+  "note": "On the front of SC Braga's shorts under a deal running to 2028. SABSEG - Corretor de Seguros, S.A. (Lisbon); Grupo SABSEG says its capital is 100% Portuguese but names no shareholders, so it isn't rated yet."
 }
