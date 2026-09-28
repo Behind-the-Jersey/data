@@ -4,9 +4,9 @@
   "ownerIds": [
     "compagnie-de-phalsbourg"
   ],
-  "text": "The Maison de l'Atoll shopping centre in Angers is edited (operated) by Compagnie de Phalsbourg, a French SARL registered in Paris (RCS 349 545 103).",
+  "text": "The L'Atoll shopping centre in Angers is owned by Compagnie de Phalsbourg, founded and run by Philippe Journo; the centre's website is published by Compagnie de Phalsbourg, a SARL registered in Paris (RCS 349 545 103).",
   "source": {
-    "name": "Maison de l'Atoll — Mentions légales",
+    "name": "L'Atoll Angers: Mentions légales",
     "date": "2026-09-28",
     "url": "https://www.latoll-angers.fr/mentions-legales/",
     "quote": "le présent site est édité par la société Compagnie de Phalsbourg, société SARL au capital de 50 000 000 euros, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 349 545 103",
@@ -15,5 +15,18 @@
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "short": "L'Atoll belongs to Compagnie de Phalsbourg, a French property company.",
+  "additionalSources": [
+    {
+      "name": "Compagnie de Phalsbourg: L’Atoll, premier centre commercial écologique - Ouest France",
+      "date": "2022-12-09",
+      "url": "https://compagniedephalsbourg.com/latoll-premier-centre-commercial-ecologique-ouest-france/",
+      "quote": "Entretien avec Philippe Journo, fondateur et PDG de la Compagnie de Phalsbourg, propriétaire de L’Atoll.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }
