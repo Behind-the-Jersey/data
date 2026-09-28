@@ -1,0 +1,29 @@
+{
+  "id": "liverpool-expedia",
+  "clubId": "liverpool",
+  "orgName": null,
+  "sponsorId": "expedia",
+  "placement": "sleeve",
+  "from": null,
+  "to": null,
+  "value": {
+    "amount": 9,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 12
+  },
+  "source": {
+    "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+    "date": "2026-09-17",
+    "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+    "short": "Score and Change",
+    "quote": "Liverpool’s Expedia sleeve deal is reportedly worth less, with £9 million annually",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Press estimate; deal start and end not stated in the source. Expedia extended its sleeve partnership for four more years in March 2023."
+}

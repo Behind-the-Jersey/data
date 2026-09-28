@@ -12,14 +12,35 @@
       "sponsorId": "visit-rwanda",
       "placement": "front",
       "source": {
-        "name": "SportsPro",
-        "date": "2026-07-15",
-        "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+        "name": "Aston Villa FC – 'Aston Villa announce Visit Rwanda partnership'",
+        "date": "2026-07-14",
+        "url": "https://www.avfc.co.uk/news/2026/july/14/news-aston-villa-announce-visit-rwanda-partnership/",
+        "note": "The club's own announcement: Visit Rwanda on the front of all men's, women's and academy teams' shirts.",
+        "quote": "Visit Rwanda’s branding will appear on the front of all men’s, women’s and academy teams’ shirts",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "betano",
+      "placement": "sleeve",
+      "source": {
+        "name": "Aston Villa FC – 'Aston Villa shirts to feature Visit Rwanda branding'",
+        "date": "2026-08-01",
+        "url": "https://www.avfc.co.uk/news/2026/august/01/news-aston-villa-shirts-to-feature-visit-rwanda-branding/",
+        "note": "Retail-shirt article: adult shirts carry Betano on the sleeve after the Kaizen Gaming extension. It does not name the women's team specifically; see the pull request.",
+        "quote": "Adult shirts will also feature Betano on the sleeve going forward",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Rwanda's government takes the front of the Aston Villa Women shirt, worth up to £20m a year across the club.",
+  "summary": "Rwanda's government takes the front of the Aston Villa Women shirt; Betano is on the sleeve of adult retail shirts.",
   "change": {
     "kind": "worse",
     "text": "Worse than last season: Visit Rwanda took the front",
