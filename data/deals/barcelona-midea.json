@@ -1,0 +1,28 @@
+{
+  "id": "barcelona-midea",
+  "clubId": "barcelona",
+  "orgName": null,
+  "sponsorId": "midea",
+  "placement": "sleeve",
+  "from": "2026-27",
+  "to": "2030-31",
+  "value": {
+    "amount": 12,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 14
+  },
+  "source": {
+    "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+    "date": "2026-09-06",
+    "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+    "quote": "This season, Barcelona has entered a five-year sleeve sponsorship deal with Midea (shirt sponsor of Sevilla last season).",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Reported EUR12m a year over five years (the page reads 'reportedly pays EUR12 annually', i.e. per year); the end season 2030-31 is derived from 'five-year' starting 2026-27 and is not directly sourced."
+}
