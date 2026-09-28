@@ -1,11 +1,14 @@
 {
   "id": "newrest",
   "name": "Newrest",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "newrest-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "97.35% held by its management (founder Olivier Sadran chairs); Naxicap 2.65%. Nothing found.",
+  "claimIds": [
+    "newrest-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Privately held French catering group; TFC partner since the club's 2005 founding of the partnership per Newrest's sport page."
 }

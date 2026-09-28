@@ -1,0 +1,20 @@
+{
+  "id": "starbucks-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "starbucks-corporation"
+  ],
+  "text": "Starbucks Corporation's common stock, $0.001 par value per share, is registered on the Nasdaq Global Select Market under the trading symbol SBUX (fiscal 2025 Form 10-K).",
+  "short": "Starbucks is a listed company (Nasdaq: SBUX) per its fiscal 2025 Form 10-K.",
+  "source": {
+    "name": "Starbucks Corporation Form 10-K for fiscal year ended September 28, 2025 (SEC EDGAR)",
+    "date": "2025-11",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm",
+    "quote": "Common Stock, $0.001 par value per share SBUX Nasdaq Global Select Market",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

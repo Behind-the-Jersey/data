@@ -1,12 +1,14 @@
 {
   "id": "nike",
   "name": "Nike",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "nike-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Listed company (NYSE: NKE). Nothing found.",
+  "claimIds": [
+    "nike-ownership"
+  ],
   "aliases": [],
-  "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+  "note": "Kit supplier to Al-Ittihad, Al-Qadsiah and Toulouse FC. Rating note: Widely held listed US company; no controlling owner and no state links found."
 }

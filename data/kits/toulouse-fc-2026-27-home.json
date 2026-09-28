@@ -12,49 +12,91 @@
       "sponsorId": "casadora",
       "placement": "front",
       "source": {
-        "name": "Toulouse FC — site officiel",
-        "date": "2026",
-        "url": "https://www.toulousefc.com/"
+        "name": "Toulouse FC — Le Toulouse FC accueille CASADORA comme partenaire majeur",
+        "date": "2026-06-30",
+        "url": "https://www.toulousefc.com/play/blog/2026/06/le-toulouse-fc-accueille-casadora-comme-partenaire-majeur",
+        "quote": "la marque sera présente sur la face avant des maillots des équipes professionnelles masculine et féminine",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "lp-promotion",
       "placement": "front",
       "source": {
-        "name": "Toulouse FC — site officiel",
-        "date": "2026",
-        "url": "https://www.toulousefc.com/"
+        "name": "Toulouse FC — Le Toulouse Football Club et LP Promotion : plus de vingt ans d'engagement commun",
+        "date": "2026-07-03",
+        "url": "https://www.toulousefc.com/play/blog/2026/06/le-toulouse-football-club-et-lp-promotion-plus-de-vingt-ans-d-engagement-commun",
+        "quote": "Partenaire du Toulouse FC depuis 2005, LP Promotion prolonge son engagement en tant que Partenaire Officiel. Présent sur le maillot",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club article places LP Promotion on the shirt without naming the spot; the club shop's personalisation overlay for the home shirt shows its roundel on the front, below the Casadora wordmark."
       }
     },
     {
       "sponsorId": "winamax",
       "placement": "back",
       "source": {
-        "name": "Toulouse FC — site officiel",
-        "date": "2026",
-        "url": "https://www.toulousefc.com/"
+        "name": "Toulouse FC — Le Toulouse Football Club accueille Winamax comme Partenaire Officiel",
+        "date": "2026-07-24",
+        "url": "https://www.toulousefc.com/play/blog/2026/07/le-toulouse-football-club-accueille-winamax-comme-partenaire-officiel",
+        "quote": "Le logo de Winamax apparaîtra sur le haut du dos des maillots de l'équipe première à compter de la saison 2026/2027.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "newrest",
-      "placement": "back",
+      "placement": "front",
       "source": {
-        "name": "Toulouse FC — site officiel",
-        "date": "2026",
-        "url": "https://www.toulousefc.com/"
+        "name": "Toulouse FC official shop — Maillot Domicile Toulouse FC 26/27 personalisation options",
+        "date": "2026-09-28",
+        "url": "https://boutique.toulousefc.com/fr/maillot-domicile-toulouse-fc-26-27-tfce26-mah-dom.html",
+        "quote": "Sponsors NEWREST LP PROMOTION WINAMAX STARBUCKS",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The shop's sponsor overlay (dom_newrest_2x.png) sits centred below the Casadora wordmark on the front preview; neither the club's partner page nor Newrest's sport page names the spot in words."
       }
     },
     {
       "sponsorId": "starbucks",
       "placement": "sleeve",
       "source": {
-        "name": "Toulouse FC — site officiel",
-        "date": "2026",
-        "url": "https://www.toulousefc.com/"
+        "name": "Toulouse FC — Le Toulouse Football Club accueille STARBUCKS comme Partenaire Officiel",
+        "date": "2026-09-03",
+        "url": "https://www.toulousefc.com/play/blog/2026/09/le-toulouse-football-club-accueille-starbucks-comme-partenaire-officiel",
+        "quote": "Le logo de STARBUCKS apparaîtra sur la manche des maillots de l'équipe professionnelle masculine",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Toulouse FC official shop — Maillot Domicile Toulouse FC 26/27",
+        "date": "2026-09-28",
+        "url": "https://boutique.toulousefc.com/fr/maillot-domicile-toulouse-fc-26-27-tfce26-mah-dom.html",
+        "quote": "Portez fièrement les couleurs des Violets avec le Maillot Toulouse FC Domicile 2026/2027 de Nike.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, named by the club shop as part of the shirt lineup; not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Nike kit. Casadora front; Starbucks on the sleeve.",
+  "sponsorsComplete": true,
+  "summary": "Nike home shirt: Casadora on the front with LP Promotion and Newrest beneath it (LP and Newrest positions from the shop's personalisation overlays), Winamax at the top of the back and Starbucks on the sleeve. All five sponsors are privately or widely held — Casadora in the Ramos family, LP Promotion an unnamed-shareholder SAS, Newrest management-owned, Winamax founder-owned, Starbucks and Nike listed; no state owner found in any chain.",
   "change": null
 }
