@@ -1,12 +1,17 @@
 {
   "id": "albert",
   "name": "Albert",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "albert-corporation",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "claimIds": [
+    "albert-corporation-record",
+    "albert-general-atlantic-investor"
+  ],
+  "aliases": [
+    "Albert Corporation"
+  ],
+  "note": "Rating note: The Albert app's owner record was previously dropped as an invented stub (#279); rebuilt 2026-09-27 from sourced records (FinWise Bancorp agreement names Albert Corporation; General Atlantic lists Albert as a 2021 investment)."
 }

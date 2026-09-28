@@ -14,11 +14,62 @@
       "source": {
         "name": "Bologna FC 1909",
         "date": "2023-07-13",
-        "url": "https://www.bolognafc.it/en/saputo-to-become-bolognas-new-main-partner/"
+        "url": "https://www.bolognafc.it/en/saputo-to-become-bolognas-new-main-partner/",
+        "quote": "the Saputo Group logo will be printed on the jerseys of Bologna FC 1909 in the 2023/24 season",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "Main Partner since 2023/24; still front-of-shirt in 2026/27 per the kit launch photos and FootyLogos."
+      }
+    },
+    {
+      "sponsorId": "selenella",
+      "placement": "back",
+      "source": {
+        "name": "FootyLogos – Bologna 2026-27 kit page",
+        "date": "2026",
+        "url": "https://www.footylogos.com/kits/bologna-2026-27",
+        "quote": "The shirt has white Macron branding, the Bologna badge on the chest, Saputo on the front and Selenella on the back.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "Club's long-standing Back Shirt/Back Jersey Partner (bolognafc.it 2024-02-26 and 2024-09-30); the club's official kit article does not name sponsors, and the away-kit write-up places Selenella low on the rear for 2026-27."
+      }
+    },
+    {
+      "sponsorId": "lavoropiu",
+      "placement": "sleeve",
+      "source": {
+        "name": "Bologna FC 1909 – Lavoropiù extends Bologna partnership until 2029",
+        "date": "2026-07-20",
+        "url": "https://www.bolognafc.it/en/lavoropiu-extends-bologna-partnership-until-2029-nineteenth-season-together/",
+        "quote": "The employment agency will continue as both a Top Partner and Sleeve Partner , with its logo remaining on the sleeves of all Bologna teams",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "Sleeve partner through 2028/29, so Lavoropiù is on the 2026-27 sleeve; also visible on the sleeve in the club's launch photo and Football Shirt Culture's away-kit write-up."
+      }
+    },
+    {
+      "sponsorId": "enilive",
+      "placement": "patch",
+      "source": {
+        "name": "Eni press release: Enilive becomes Serie A Title sponsor with sponsorship agreement up until 2027",
+        "date": "2024-02-05",
+        "url": "https://www.eni.com/en-IT/media/press-release/2024/02/enilive-becomes-serie-a-title-sponsor.html",
+        "quote": "Enilive, Eni's company dedicated to mobility products and services, will be the Title sponsor of Serie A starting from the 2024/25 championship and covering three seasons.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "League title sponsor whose branding is on the official Serie A sleeve patch (2026-27 patch on sale as 'Official Italian Serie A enilive 2026-27 Patch'); the patch is visible on the left sleeve of the match photo. Not a direct Bologna club deal."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "Saputo front, Selenella back, Lavoropiù sleeve, Serie A Enilive league patch; Macron make. No shorts sponsor on the home kit."
 }

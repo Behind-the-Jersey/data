@@ -1,0 +1,28 @@
+{
+  "id": "as-roma-wizz-air",
+  "clubId": "as-roma",
+  "orgName": null,
+  "sponsorId": "wizz-air",
+  "placement": "sleeve",
+  "from": "2025-26",
+  "to": null,
+  "value": {
+    "amount": 3,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "RomaPress - Roma to earn €3 million per season from Wizz Air partnership",
+    "date": "2025-12-14",
+    "url": "https://romapress.net/roma-to-earn-e3-million-per-season-from-wizz-air-partnership/",
+    "quote": "Financially, the deal should generate revenue for Roma in excess of €3 million per year.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Reported 'in excess of €3 million per year' (citing Il Tempo), so upTo is false but the figure is a floor; recorded as approximately €3m per year. Sleeve sponsorship debuted 15 December 2025 per the club's announcement."
+}

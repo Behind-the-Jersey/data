@@ -1,0 +1,19 @@
+{
+  "id": "betsson-ownership-nasdaq",
+  "kind": "ownership",
+  "ownerIds": [
+    "betsson"
+  ],
+  "text": "Betsson AB is listed on Nasdaq Stockholm; per its 2023 corporate governance report, no state shareholder is identified among its largest shareholders.",
+  "source": {
+    "name": "Betsson AB Corporate Governance Report 2023",
+    "date": "2024-05",
+    "url": "https://www.betssonab.com/sites/default/files/2024-05/corporate-governance-report-betsson-ab-2023.pdf",
+    "quote": "Betsson has been a listed company since 1996 and has been listed on Nasdaq Stockholm since 2000",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

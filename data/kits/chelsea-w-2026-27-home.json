@@ -1,0 +1,45 @@
+{
+  "id": "chelsea-w-2026-27-home",
+  "clubId": "chelsea-w",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "circle-usdc",
+      "placement": "front",
+      "source": {
+        "name": "Chelsea FC, Circle partner page",
+        "date": "2026-09-25",
+        "url": "https://www.chelseafc.com/en/circle",
+        "note": "Circle Internet Group is a Principal Partner and official front-of-shirt partner beginning with the 2026/27 season; in 2026/27 the Circle and USDC brands appear on the front of Chelsea's Men's, Women's and Academy shirts."
+      }
+    },
+    {
+      "sponsorId": "skoda",
+      "placement": "back",
+      "source": {
+        "name": "Chelsea FC, Škoda partner page",
+        "date": "2026-09-25",
+        "url": "https://www.chelseafc.com/en/skoda",
+        "note": "Chelsea FC Women first teamed up with Škoda UK at the start of 2024 as Official Car Partner; the May 2025 extension established Škoda as Chelsea Women's first Official Back of Shirt Partner."
+      }
+    },
+    {
+      "sponsorId": "here-we-flo",
+      "placement": "shorts",
+      "source": {
+        "name": "Chelsea FC, Here We Flo partner page",
+        "date": "2026-09-25",
+        "url": "https://www.chelseafc.com/en/partner-page-flo",
+        "note": "Here We Flo is Chelsea FC Women's Official Back of Short partner."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Circle's USDC stablecoin takes the front of the Chelsea Women shirt, with Škoda on the back and Here We Flo on the shorts.",
+  "change": null
+}

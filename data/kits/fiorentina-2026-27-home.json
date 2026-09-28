@@ -12,13 +12,38 @@
       "sponsorId": "mediacom",
       "placement": "front",
       "source": {
-        "name": "Firenze Viola",
-        "date": "2026-07-10",
-        "url": "https://www.firenzeviola.it/copertina/fiorentina-nuove-maglie-2026-27-sponsor-mediacom-480579"
+        "name": "Football Shirt Culture, Fiorentina 2026-27 Home Kit by Joma Revealed",
+        "date": "2026-07-07",
+        "url": "https://www.footballshirtculture.com/new-kits/fiorentina-jersey-26-27-home-joma.html",
+        "quote": "Mediacom remains the main front sponsor, applied in white across the chest.",
+        "checked": { "on": "2026-09-27", "by": "Schnitzel" }
+      }
+    },
+    {
+      "sponsorId": "bet365-scores",
+      "placement": "sleeve",
+      "source": {
+        "name": "ACF Fiorentina, bet365 Scores Becomes ACF Fiorentina's New Sleeve Jersey Partner",
+        "date": "2026-08-06",
+        "url": "https://www.acffiorentina.com/en/news/bet365-scores-e-il-nuovo-sleeve-jersey-partner-di-acf-fiorentina-060826",
+        "quote": "the bet365 Scores logo will appear on the sleeve of the Men's First Team jersey in all official competitions",
+        "checked": { "on": "2026-09-27", "by": "Schnitzel" }
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "Joma, Joma to kit out ACF Fiorentina from the 2026/27 season",
+        "date": "2026-07-01",
+        "url": "https://www.joma-sport.com/blog/en/joma-to-kit-out-acf-fiorentina-from-the-2026-27-season/",
+        "quote": "Spanish brand Joma will become the new official technical sponsor of ACF Fiorentina",
+        "checked": { "on": "2026-09-27", "by": "Schnitzel" },
+        "note": "Kit maker (technical sponsor), not a shirt-sponsor placement; listed as partner per the convention for kit suppliers."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "Joma's first Fiorentina home shirt (centenary season): Mediacom on the front, bet365 Scores on the sleeve from August 2026, no back or shorts sponsor on the launch kit."
 }
