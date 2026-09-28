@@ -5,12 +5,14 @@
   "sponsorId": "raisin",
   "placement": "front",
   "from": "2026-27",
-  "to": null,
-  "value": null,
+  "to": "2027",
+  "value": { "amount": 4, "currency": "EUR", "unit": "m", "per": "year", "upTo": true, "usdApprox": 5 },
   "source": {
-    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga",
     "date": "2026-08-04",
-    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+    "quote": "Seit der Saison 2025/26 ist das Berliner Finanztechnologieunternehmen Raisin Haupt- und Trikotsponsor des 1. FC Union Berlin und löste HomeToGo ab. Der aktuelle Vertrag läuft voraussichtlich bis zum Sommer 2027. Medienberichte schätzen den jährlichen Sponsoringwert auf etwa vier Millionen Euro.",
+    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
   },
-  "note": "Value not disclosed."
+  "note": "No official disclosure; the page cites press estimates of about EUR 4m per year. Partnership runs since 2025/26, contract expected to run to summer 2027."
 }

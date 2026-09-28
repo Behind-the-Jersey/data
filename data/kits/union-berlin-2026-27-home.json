@@ -12,9 +12,11 @@
       "sponsorId": "raisin",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Seit der Saison 2025/26 ist das Berliner Finanztechnologieunternehmen Raisin Haupt- und Trikotsponsor des 1. FC Union Berlin und löste HomeToGo ab. Der aktuelle Vertrag läuft voraussichtlich bis zum Sommer 2027.",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" }
       }
     },
     {
@@ -22,13 +24,15 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "Wikipedia, Fußball-Bundesliga 2026/27",
+        "date": "2026-09-20",
+        "url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bundesliga_2026/27",
+        "quote": "1. FC Union Berlin Stadion An der Alten Försterei 22.012 42.024 21.012 95,46 % 1/2 Raisin Kermi Adidas",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Raisin is the front (Haupt- und Trikotsponsor) and Kermi the front-of-sleeve (Ärmelsponsor) partner on the 2026/27 home shirt, with adidas as kit maker; the club's partner page lists no further shirt placements (no back or shorts sponsor).",
   "change": null
 }
