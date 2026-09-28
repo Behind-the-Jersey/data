@@ -1,16 +1,28 @@
 {
   "id": "chelsea-circle-usdc",
   "clubId": "chelsea",
-  "orgName": null,
+  "orgName": "Circle Internet Group",
   "sponsorId": "circle-usdc",
   "placement": "front",
-  "from": null,
-  "to": null,
-  "value": null,
-  "source": {
-    "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
-    "date": "2026-09-17",
-    "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+  "from": "2026",
+  "to": "2027",
+  "value": {
+    "amount": 50,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 67
   },
-  "note": "USDC stablecoin branding; replaces the front that had been vacant."
+  "source": {
+    "name": "BBC Sport, \"Chelsea: club announce USDC shirt sponsorship deal with Circle\" (Nizaar Kinsella)",
+    "date": "2026-08-28",
+    "url": "https://www.bbc.com/sport/football/articles/c36lp8jyydjo",
+    "quote": "Chelsea have announced a new one-year front-of-shirt sponsorship deal with Circle Internet Group.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "USDC stablecoin branding; replaces the front that had been vacant. One-year deal; the value is 'believed to be about £50m per season, though the exact figures have not been given' (same article) — so the amount is a reported estimate, not an official figure."
 }

@@ -1,0 +1,29 @@
+{
+  "id": "qatar-holding-vw-stake",
+  "kind": "ownership",
+  "ownerIds": ["qatar-holding-llc", "volkswagen-ag"],
+  "text": "Qatar Holding LLC holds 10.4% of Volkswagen AG's subscribed capital and, with 17.0% of the voting rights, was the third-largest shareholder in Volkswagen AG (Volkswagen Group Annual Report 2025, shareholder structure).",
+  "source": {
+    "name": "Volkswagen Group, Annual Report 2025 (PDF), p. 108",
+    "date": "2026-03-10",
+    "url": "https://uploads.vw-mms.de/system/production/documents/cws/003/212/file_en/41966a4270c8a0a4185b3ab69eaa433cf6892168/2026-03-10-volkswagen-group-annual-report-2025-en.pdf?1787739972",
+    "quote": "Qatar Holding LLC was the third-largest shareholder with 17.0%.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Volkswagen Group, Shareholder structure (volkswagen-group.com)",
+      "date": "2026",
+      "url": "https://www.volkswagen-group.com/en/shareholder-structure-15951",
+      "quote": "17.0% Quatar Holding",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,12 +1,14 @@
 {
   "id": "nike",
   "name": "Nike",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "nike-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Listed company (NYSE: NKE) controlled by the Knight family via Swoosh LLC. Nothing found.",
+  "claimIds": [
+    "nike-inc-ownership"
+  ],
   "aliases": [],
-  "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+  "note": "Kit supplier to Chelsea (2026/27 home kit maker) and to SV Elversberg, Al-Ittihad and Al-Qadsiah. Shared sponsor record: duplicated from the sv-elversberg rating sweep (issue #327) so the Chelsea kit can cite it; ownership claim cites NIKE, Inc.'s SEC filings."
 }

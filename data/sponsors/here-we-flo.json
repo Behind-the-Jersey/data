@@ -1,14 +1,16 @@
 {
   "id": "here-we-flo",
   "name": "Here We Flo",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "here-we-flo-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Here We Flo Ltd is controlled by Sustainable Ethical Enterprises Limited (75% or more of shares and voting rights, per Companies House). Nothing found.",
+  "claimIds": [
+    "here-we-flo-ownership"
+  ],
   "aliases": [
     "flo"
   ],
-  "note": "Female-owned period-care brand; Chelsea FC Women's Official Back of Short partner per chelseafc.com."
+  "note": "Rating note: propose 'none'. UK private company (Companies House 10474281); its sole registered person with significant control is Sustainable Ethical Enterprises Limited (10457185) at 75% or more, whose own PSC is a person, Tara Priya Chandra (more than 25% but not more than 50%). No state or fund in the owner chain."
 }
