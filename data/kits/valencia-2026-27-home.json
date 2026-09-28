@@ -12,22 +12,61 @@
       "sponsorId": "tm-real-estate-group",
       "placement": "front",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "Valencia CF: Valencia CF and PUMA unveil the 2026.27 home kit, a tribute to history and the legacy of Mestalla Stadium",
+        "date": "2026-06-18",
+        "url": "https://www.valenciacf.com/valencia-cf-and-puma-unveil-the-202627-home-kit-a-tribute-to-history-and-the-legacy-of-mestalla-stadium",
+        "quote": "along with the TM Grupo Inmobiliario logo as the club’s Main Global Partner on the front of the shirt",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "divina-seguros",
       "placement": "sleeve",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "Valencia CF: Valencia CF and PUMA unveil the 2026.27 home kit, a tribute to history and the legacy of Mestalla Stadium",
+        "date": "2026-06-18",
+        "url": "https://www.valenciacf.com/valencia-cf-and-puma-unveil-the-202627-home-kit-a-tribute-to-history-and-the-legacy-of-mestalla-stadium",
+        "quote": "the Divina Seguros logo, Official Insurer of Valencia CF, on the left sleeve",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "skoda",
+      "placement": "shorts",
+      "source": {
+        "name": "Valencia CF: Valencia CF and PUMA unveil the 2026.27 home kit, a tribute to history and the legacy of Mestalla Stadium",
+        "date": "2026-06-18",
+        "url": "https://www.valenciacf.com/valencia-cf-and-puma-unveil-the-202627-home-kit-a-tribute-to-history-and-the-legacy-of-mestalla-stadium",
+        "quote": "On the shorts, the white PUMA logo is accompanied by the Škoda logo, the club’s Premium Plus Partner and Official Vehicle Partner",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Valencia CF: Valencia CF and PUMA unveil the 2026.27 home kit, a tribute to history and the legacy of Mestalla Stadium",
+        "date": "2026-06-18",
+        "url": "https://www.valenciacf.com/valencia-cf-and-puma-unveil-the-202627-home-kit-a-tribute-to-history-and-the-legacy-of-mestalla-stadium",
+        "quote": "Valencia CF and PUMA have unveiled the HOME kit for the 2026–27 season",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Puma-made home shirt with TM Grupo Inmobiliario on the front, Divina Seguros on the left sleeve and Škoda on the shorts: the logos the club lists at the kit launch (18 June 2026), which names no back-of-shirt sponsor.",
   "change": null
 }

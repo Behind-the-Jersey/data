@@ -14,13 +14,32 @@
       "sponsorId": "circle-usdc",
       "placement": "front",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "name": "Score and Change: Overview of the 2026/2027 Premier League sponsors",
         "date": "2026-09-17",
-        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+        "quote": "the Blues announced internet financial platform Circle before their second match day. With the company’s stablecoin USDC featured on the shirt fronts",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change: Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+        "quote": "Brighton & Hove Albion Nike Chelsea Nike",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "No front-of-shirt sponsor at the start of the season (SportsPro).",
+  "summary": "USDC by Circle on the front from late August 2026 on a one-year deal; no sleeve sponsor yet (Chelsea is still on the lookout for one); Nike makes the kit.",
   "change": null
 }
