@@ -1,11 +1,17 @@
 {
   "id": "le-rond-central",
   "name": "Le Rond Central",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "kermasport",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brest sports-equipment shop (lerondcentral.fr) and official supplier of Stade Brestois 29, published by SAS Kermasport, whose Président is the holding Kerhupert (gérants Geoffrey Hubert and Marie-Bénédicte Hubert). Nothing found.",
+  "claimIds": [
+    "hubert-family-ownership"
+  ],
+  "aliases": [
+    "Rond Central",
+    "Kermasport"
+  ],
+  "note": "Rating note: the shop's mentions légales name KERMASPORT as publisher; the company register lists KERHUPERT (gérants Geoffrey Hubert and Marie-Bénédicte Hubert (Pons)) as its Président de SAS. Kerhupert's shareholders are not in the cited sources. No state or fund stake found → none."
 }

@@ -1,0 +1,34 @@
+{
+  "id": "sitikod-llc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sitikod-llc"
+  ],
+  "text": "BETON, Shakhtar Donetsk's title sponsor, is the brand of SITIKOD LLC, a licensed Ukrainian online-casino and betting operator; according to public records its founder and beneficial owner is Roman Balashov, who also manages and owns 6.4423% of JSC Chicago, the owner of the Be, Bet, Beton-Casino and Beton Games trademarks.",
+  "short": "BETON is the brand of SITIKOD LLC; beneficial owner Roman Balashov",
+  "source": {
+    "name": "FC Shakhtar: Shakhtar and BETON: new title sponsor of the club",
+    "date": "2026-05-03",
+    "url": "https://shakhtar.com/en/news/2026/may/3_news/3_shakhtar_beton/",
+    "note": "The club's own announcement identifies the operator behind the BETON brand as SITIKOD LLC.",
+    "quote": "SITIKOD LLC working under the BETON brand is a licensed Ukrainian operator in the field of online casino and betting activities.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Komersant Ukrainian: BETON Enters the World of Professional Soccer: Shakhtar's New Sponsor Turns Out to Be Linked to Kamyshin's Business Circle",
+      "date": "2026-05-18",
+      "url": "https://komersant.ua/en/beton-zakhodyt-u-velykyy-futbol-novyy-sponsor-shakhtaria-vyiavyvsia-pov-iazanym-iz-biznes-otochenniam-kamyshina/",
+      "note": "Komersant says the brand operates through CITYCODE LLC while naming SITIKOD LLC's beneficial owner; the two sources disagree on the operating company (noted in the pull request).",
+      "quote": "According to public records, the founder and beneficial owner of SITIKOD LLC is Roman Balashov, who simultaneously manages and owns 6.4423% of JSC “Chicago”",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
