@@ -1,11 +1,14 @@
 {
   "id": "molinel",
   "name": "Molinel",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "molinel-sas",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Private French SAS (RCS Lille B 337 814 024). Nothing found.",
+  "claimIds": [
+    "molinel-sas-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: RC Lens shorts-front sponsor to 2028 (club announcement 10 July 2026); workwear maker since 1845."
 }

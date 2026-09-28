@@ -1,11 +1,14 @@
 {
   "id": "murprotec",
   "name": "Murprotec",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "murprotec-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Private company (Murprotec SA, RCS Paris), part of Groupe Murprotec International. Nothing found.",
+  "claimIds": [
+    "murprotec-sa-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: RC Lens back-of-shirt sponsor 2026-27 (per the club's partner roster)."
 }

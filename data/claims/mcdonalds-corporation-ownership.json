@@ -1,0 +1,32 @@
+{
+  "id": "mcdonalds-corporation-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mcdonalds-corporation"
+  ],
+  "text": "McDonald's Corporation is a listed company: its common stock trades under the symbol MCD on the New York Stock Exchange, and 710,398,642 shares were outstanding as of 31 January 2026, with an estimated 5,100,000 shareholders of record and beneficial owners.",
+  "short": "McDonald's Corporation is listed on the NYSE (MCD); widely held.",
+  "source": {
+    "name": "McDonald's Corporation Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-02-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+    "quote": "The number of shares outstanding of the registrant’s common stock as of January 31, 2026: 710,398,642 .",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "McDonald's Corporation Form 10-K for fiscal year 2025 (exchange registration)",
+      "date": "2026-02-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+      "quote": "Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, $0.01 par value MCD New York Stock Exchange",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

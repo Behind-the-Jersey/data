@@ -1,11 +1,14 @@
 {
   "id": "auchan",
   "name": "Auchan",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "auchan-retail-international",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Family-controlled retail group (Association familiale Mulliez). Nothing found.",
+  "claimIds": [
+    "auchan-mulliez-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: front-of-shirt sponsor of RC Lens 2026-27. Chain: Auchan Retail International <- ELO (ex Auchan Holding) <- Association familiale Mulliez. Context, not rated on: Russian presidential decree of 18 September 2026 placed Auchan's Russian assets under temporary administration (Wikipedia, fr)."
 }

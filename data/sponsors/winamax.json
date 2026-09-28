@@ -1,11 +1,14 @@
 {
   "id": "winamax",
   "name": "Winamax",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "winamax",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Founder-led French SAS; no external controlling shareholder found. Nothing found.",
+  "claimIds": [
+    "winamax-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: RC Lens back-of-shirt sponsor 2026-27 (per the club's partner roster). Gambling operator licensed by the ANJ; ownership chain checked - no state or public fund found in the opened sources."
 }

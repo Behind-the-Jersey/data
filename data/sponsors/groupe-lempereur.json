@@ -1,11 +1,14 @@
 {
   "id": "groupe-lempereur",
   "name": "Groupe Lempereur",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-lempereur",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Family-owned automotive dealer group (founded 1987 by Jean-Paul Lempereur). Nothing found.",
+  "claimIds": [
+    "groupe-lempereur-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: RC Lens front-of-shirt (right chest) sponsor 2026-27 per the club's partner roster and kit photos."
 }

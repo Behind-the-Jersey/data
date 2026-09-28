@@ -1,0 +1,34 @@
+{
+  "id": "auchan-mulliez-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "auchan-retail-international",
+    "elo",
+    "association-famille-mulliez"
+  ],
+  "text": "Auchan is a family-controlled French retail group: the Association familiale Mulliez (AFM) is its principal shareholder and Gérard Mulliez personally the second, with employees holding the remaining 13.5% via Valauchan; the operating company Auchan Retail International sits under the holding ELO (ex Auchan Holding) with Financière de Participations at 70%, Soparsam 15% and employee-held Valauchan 15%.",
+  "short": "Auchan is controlled by the Mulliez family (AFM), with 13.5% held by employees.",
+  "source": {
+    "name": "Wikipédia (fr) — Auchan (page history id 239836536)",
+    "date": "2026",
+    "url": "https://fr.wikipedia.org/wiki/Auchan",
+    "quote": "Le groupe Auchan a pour actionnaire principal l' Association familiale Mulliez (AFM), fondée et dirigée par la famille Mulliez",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipédia (fr) — Auchan, infobox actionnariat",
+      "date": "2026",
+      "url": "https://fr.wikipedia.org/wiki/Auchan",
+      "quote": "Financière de Participations : 70 %, Soparsam : 15 %, Valauchan (salariés) : 15 %.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

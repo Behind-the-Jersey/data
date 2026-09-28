@@ -14,7 +14,12 @@
       "source": {
         "name": "RC Lens — Les partenaires du Racing",
         "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "url": "https://www.rclens.fr/fr/club/partenaires",
+        "quote": "Partenaires majeurs  AUCHAN Auchan, enseigne de grande distribution française, contribue à améliorer le pouvoir d'achat et la qualité de vie du client",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -23,7 +28,12 @@
       "source": {
         "name": "RC Lens — Les partenaires du Racing",
         "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "url": "https://www.rclens.fr/fr/club/partenaires",
+        "quote": "GROUPE LEMPEREUR Le Groupe Lempereur est la solution automobile , offrant une large gamme de véhicules neufs et d'occasion",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -32,7 +42,12 @@
       "source": {
         "name": "RC Lens — Les partenaires du Racing",
         "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "url": "https://www.rclens.fr/fr/club/partenaires",
+        "quote": "Doté d'une usine historique à Lens, Nexans est fier d'être sponsor du Racing Club de Lens.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -41,7 +56,12 @@
       "source": {
         "name": "RC Lens — Les partenaires du Racing",
         "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "url": "https://www.rclens.fr/fr/club/partenaires",
+        "quote": "MURPROTEC Murprotec est le leader européen du traitement de l’humidité et de l’assainissement de l’habitat, avec plus de 65 ans d’expertise",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -50,7 +70,12 @@
       "source": {
         "name": "RC Lens — Les partenaires du Racing",
         "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "url": "https://www.rclens.fr/fr/club/partenaires",
+        "quote": "WINAMAX Winamax est le premier site de poker et de paris sportifs en France.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -59,16 +84,26 @@
       "source": {
         "name": "RC Lens — Les partenaires du Racing",
         "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "url": "https://www.rclens.fr/fr/club/partenaires",
+        "quote": "Aushopping est la marque réseau des centres commerciaux Auchan en France.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "molinel",
       "placement": "shorts",
       "source": {
-        "name": "RC Lens — Les partenaires du Racing",
-        "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "name": "RC Lens — Molinel, Partenaire Premium jusqu'en 2028 (club announcement, 10 July 2026)",
+        "date": "2026-07-10",
+        "url": "https://www.rclens.fr/fr/partenaire-molinel-rclens-2028-20260710",
+        "quote": "Ce partenariat se traduira notamment par la présence de Molinel sur la face avant du short des équipes professionnelles masculine et féminine jusqu’en 2028.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -77,11 +112,30 @@
       "source": {
         "name": "RC Lens — Les partenaires du Racing",
         "date": "2026",
-        "url": "https://www.rclens.fr/fr/club/partenaires"
+        "url": "https://www.rclens.fr/fr/club/partenaires",
+        "quote": "Sponsor de nombreux clubs et évènements sportifs à travers le monde, McDonald’s est fière de soutenir les Sang & Or !",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "RC Lens — « On a ça dans le sang » : le maillot domicile 2026/27 du Racing (kit launch)",
+        "date": "2026-06-01",
+        "url": "https://www.rclens.fr/fr/maillot-domicile-2026-2027-adidas-20260601",
+        "quote": "adidas fait son grand retour sur les maillots du Racing Club de Lens.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Adidas kit. Auchan front; Aushopping (Auchan's mall brand) on the sleeve.",
+  "sponsorsComplete": true,
+  "summary": "Adidas kit (five-season deal from 2026-27). Auchan front, centre; Lempereur front right chest; Nexans front left chest; Murprotec and Winamax back; Aushopping sleeve; Molinel shorts front to 2028; McDonald's shorts. Back and McDonald's placements carried from the club's partner roster.",
   "change": null
 }

@@ -1,11 +1,14 @@
 {
   "id": "aushopping",
   "name": "Aushopping",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "auchan-retail-international",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Shopping-centre network brand of the Auchan group (Mulliez family). Nothing found.",
+  "claimIds": [
+    "aushopping-auchan-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: sleeve sponsor of RC Lens 2026-27; brand of the Auchan group, same family ownership as Auchan."
 }

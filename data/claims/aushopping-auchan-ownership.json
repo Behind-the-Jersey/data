@@ -1,0 +1,32 @@
+{
+  "id": "aushopping-auchan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "auchan"
+  ],
+  "text": "Aushopping is the network brand of the Auchan shopping centres in France, i.e. a brand of the Auchan retail group owned by the Mulliez family holding structure.",
+  "short": "Aushopping is the Auchan group's shopping-centre network brand.",
+  "source": {
+    "name": "RC Lens — Les partenaires du Racing",
+    "date": "2026",
+    "url": "https://www.rclens.fr/fr/club/partenaires",
+    "quote": "Aushopping est la marque réseau des centres commerciaux Auchan en France.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipédia (fr) — Auchan",
+      "date": "2026",
+      "url": "https://fr.wikipedia.org/wiki/Auchan",
+      "quote": "Le groupe Auchan a pour actionnaire principal l' Association familiale Mulliez (AFM), fondée et dirigée par la famille Mulliez",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
