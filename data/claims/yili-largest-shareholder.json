@@ -1,0 +1,19 @@
+{
+  "id": "yili-largest-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "yili-group"
+  ],
+  "text": "Yili Industrial Group's 2025 annual report (30 Apr 2026) names Hohhot Investment Co., Ltd. as its largest shareholder with 538,535,826 shares, 8.51%, shareholder type 'state legal person' (国有法人), and states the company has no controlling shareholder and no actual controller.",
+  "source": {
+    "name": "Inner Mongolia Yili Industrial Group - 2025 Annual Report (cninfo)",
+    "date": "2026-04-30",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225259562.PDF",
+    "quote": "呼和浩特投资有限责任公司 0 538,535,826 8.51 0 质押 205,380,000 国有法人",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

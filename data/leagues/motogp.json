@@ -1,0 +1,20 @@
+{
+  "id": "motogp",
+  "aliases": [
+    "moto gp",
+    "motogp world championship",
+    "fim motogp world championship",
+    "premier class"
+  ],
+  "sportId": "motorsport",
+  "name": "FIM MotoGP World Championship",
+  "clubCount": 11,
+  "season": "2026",
+  "status": "partial",
+  "notes": [
+    "11 MotoGP-class teams per the official motogp.com teams page (fetched 2026-09-25); every team name carries its title sponsor.",
+    "The official calendar lists 22 rounds for 2026; race title sponsors are shown on motogp.com/en/sponsors, not on the calendar.",
+    "The Qatar GP (Lusail) was moved from 10-12 Apr to 6-8 Nov 2026 after the Iran conflict; as of 19 Sep 2026 Dorna was still deciding whether it runs (Crash.net). No Kazakhstan round in 2026.",
+    "Sponsor placement here is mapped to the schema's front value from 'team title/name'; bike-livery placements do not fit the schema yet."
+  ]
+}

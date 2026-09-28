@@ -1,0 +1,31 @@
+{
+  "id": "bbva-ownership-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "bbva-sa"
+  ],
+  "text": "BBVA's shares trade on the Madrid, Barcelona, Bilbao and Valencia stock markets (and as ADSs on the New York Stock Exchange); as of December 31, 2025 there were no shareholders with significant influence, and BBVA stated it was not aware of any direct or indirect interests through which control of the Bank may be exercised.",
+  "source": {
+    "name": "BBVA Group Annual Report and Management Report 2025, Note 26 'Capital' and Note 53.1 'Transactions with significant shareholders'",
+    "date": "2026-02-05",
+    "url": "https://shareholdersandinvestors.bbva.com/wp-content/uploads/2026/02/5_2_BBVA_Group_Annual_Report_and_Management_Report_2025.pdf",
+    "quote": "BBVA is not aware of any direct or indirect interests through which control of the Bank may be exercised.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "BBVA Group Annual Report and Management Report 2025, Note 53.1",
+      "date": "2026-02-05",
+      "url": "https://shareholdersandinvestors.bbva.com/wp-content/uploads/2026/02/5_2_BBVA_Group_Annual_Report_and_Management_Report_2025.pdf",
+      "quote": "As of December 31, 2025, 2024 and 2023, there were no shareholders with significant influence (see Note 26).",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
