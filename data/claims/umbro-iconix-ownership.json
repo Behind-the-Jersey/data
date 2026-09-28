@@ -5,8 +5,8 @@
     "umbro",
     "iconix-brand-group"
   ],
-  "text": "Umbro is one of the brands of Iconix Brand Group, Inc., an American brand-management company that licenses its brands to retailers and manufacturers; Iconix acquired the Umbro brand from Nike for $225 million in 2012.",
-  "short": "Umbro is an Iconix Brand Group brand; Iconix is owned by Avram Glazer's trust.",
+  "text": "Umbro is one of the brands of Iconix Brand Group, Inc., an American brand-management company; Iconix acquired the Umbro brand from Nike for $225 million in 2012 and still licenses it (as Iconix International) in 2025. Since 4 August 2021 Iconix has been a wholly-owned subsidiary of Iconix Acquisition LLC, which Avram Glazer and the Avram Glazer Irrevocable Exempt Trust control.",
+  "short": "Umbro is an Iconix Brand Group brand; Iconix has been controlled by Avram Glazer and his trust since 2021.",
   "source": {
     "name": "Iconix Brand Group, Inc. Form 10-K for fiscal year 2020 (brand list including Umbro)",
     "date": "2021-03-31",
@@ -27,6 +27,39 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       }
+    },
+    {
+      "name": "Iconix International: UMBRO ADDS NEW CATEGORY PARTNERS AHEAD OF THE 2026 WORLD CUP (archived)",
+      "date": "2025-11-24",
+      "url": "https://web.archive.org/web/20260614104148/https://iconixbrand.com/umbro-adds-new-category-partners-ahead-of-the-2026-world-cup/",
+      "quote": "Iconix has also appointed BBC International as Umbro’s North American footwear partner as part of the brand’s new Umbro Footwear Strategy.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "iconixbrand.com blocks scripts; read through the Wayback capture of 14 June 2026. The site lists Umbro among Iconix's sports brands."
+    },
+    {
+      "name": "Iconix Merger Sub Inc., Offer to Purchase for Cash All Outstanding Shares of Common Stock of Iconix Brand Group, Inc. (Schedule TO, Exhibit (a)(1)(A))",
+      "date": "2021-07-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/857737/000110465921088757/tm2121070d1_exa-1a.htm",
+      "quote": "Avram Glazer and the Avram Glazer Irrevocable Exempt Trust are beneficial owners of and control Parent and Purchaser.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Parent is Iconix Acquisition LLC. Same document: 'Both Parent and Lancer are managed by the Trust as their respective sole member.'"
+    },
+    {
+      "name": "Iconix Brand Group, Inc., Form 8-K (completion of the merger)",
+      "date": "2021-08-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/857737/000114036121026938/brhc10027568_8k.htm",
+      "quote": "As a result of the effectiveness of the Merger on August 4, 2021, a change of control of the Company occurred, and the Company became a wholly-owned subsidiary of Parent.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same filing: 'Avram Glazer became the sole director of the Company.'"
     }
   ],
   "reviewed": false
