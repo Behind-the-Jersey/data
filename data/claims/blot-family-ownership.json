@@ -4,8 +4,8 @@
   "ownerIds": [
     "blot-groupe"
   ],
-  "text": "Blot Immobilier, the Stade Rennais back-of-shirt sponsor, is the flagship of Groupe Blot, a Breton family real-estate group founded in 1968 and structured as a 'holding animatrice' (SIREN 385038724, SAS, Rennes, capital EUR 2m). The registry's dirigeant list is entirely Blot family: David Blot (Président de SAS), Sandra Blot (Directeur Général, Vice-Président), Jean Blot and Marie-France Blot (POIRIER) on the conseil de surveillance. No state or sovereign-fund stake was found in the chain.",
-  "short": "Blot Immobilier is held by the Blot family, whose members fill the group's governance.",
+  "text": "Blot Immobilier (SIREN 385038724) is a SAS registered in Rennes. The company register lists David Blot as its président, Sandra Blot as vice-président, and Jean Blot, Marie-France Blot (Poirier) and Didier Ferre as members of its conseil de surveillance. Blot's own site dates the business to 1968.",
+  "short": "Blot Immobilier is led by members of the Blot family (company register).",
   "source": {
     "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), BLOT IMMOBILIER, SIREN 385038724",
     "date": "2026-09-28",
@@ -15,19 +15,18 @@
       "on": "2026-09-28",
       "by": "Schnitzel"
     },
-    "note": "Same response: BLOT Sandra (Vice-Président, Directeur Général), BLOT Jean (Membre du conseil de surveillance), FERE Didier; nature juridique 5710 (SAS), siege Rennes (35238)."
+    "note": "Same response: BLOT Sandra (Vice-Président); BLOT Jean, BLOT (POIRIER) Marie-France and FERRE Didier (Membre du conseil de surveillance); nature juridique 5710 (SAS), siège Rennes (35238)."
   },
   "additionalSources": [
     {
-      "name": "Blot Immobilier — Qui sommes-nous (blot-immobilier.fr)",
+      "name": "Blot — Nous sommes Blot (blot-immobilier.fr/qui-sommes-nous)",
       "date": "2026",
       "url": "https://www.blot-immobilier.fr/qui-sommes-nous/",
       "quote": "L’ADN de Blot, ancré dans la société depuis 1968, a toujours été et sera toujours l’élégance.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
-      },
-      "note": "Group founded 1968; the club's own partner page states \"Depuis 2010, Blot Immobilier est sponsor officiel du Stade Rennais F.C.\""
+      }
     }
   ],
   "reviewed": false

@@ -14,22 +14,32 @@
       "sponsorId": "etihad-airways",
       "placement": "front",
       "source": {
-        "name": "All Football",
-        "date": "2026",
-        "url": "https://m.allfootballapp.com/news/EPL/Manchester-City-set-to-keep-up-%C2%A367.5million-a-year-deal-with-Abu-Dhabi-airline-Etihad/2424047"
+        "name": "Score and Change \u2013 Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+        "quote": "Manchester City and Etihad Airways have the second longest running deal (since 2009). Like Arsenal, this deal also includes stadium naming rights.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "okx",
       "placement": "sleeve",
       "source": {
-        "name": "Manchester City FC – 'Manchester City and OKX announce new shirt sleeve partnership'",
-        "date": "2023-06-22",
-        "url": "https://www.mancity.com/news/club/okx-to-sponsor-manchester-city-shirt-sleeve-202324-63823725"
+        "name": "Score and Change \u2013 Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+        "quote": "Manchester City struck a three-year \u00a355 million deal with crypto exchange firm OKX in 2023, which they have since extended.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Paid for by the Government of Abu Dhabi.",
+  "sponsorsComplete": true,
+  "summary": "Front sponsor Etihad Airways (Abu Dhabi state-owned) since 2009; sleeve sponsor OKX since 2023.",
   "change": null
 }

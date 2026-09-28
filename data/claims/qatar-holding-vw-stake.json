@@ -1,0 +1,32 @@
+{
+  "id": "qatar-holding-vw-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "qatar-holding-llc",
+    "volkswagen-ag"
+  ],
+  "text": "Qatar Holding LLC was the third-largest shareholder in Volkswagen AG at the end of 2025, with 17.0% of the voting rights; the annual report's shareholder-structure chart shows it with 10.4% of the subscribed capital.",
+  "source": {
+    "name": "Volkswagen Group Annual Report 2025: Shareholder structure",
+    "date": "2026-03-10",
+    "url": "https://annualreport2025.volkswagen-group.com/group-management-report/shares-and-bonds/shareholder-structure.html",
+    "quote": "Qatar Holding LLC was the third-largest shareholder with 17.0%.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AGBI: Volkswagen’s troubles sour Qatari investment (archived)",
+      "date": "2024-11-05",
+      "url": "https://web.archive.org/web/20260823184546/https://www.agbi.com/analysis/markets/2024/11/volkswagens-troubles-sour-qatari-investment/",
+      "quote": "Qatar paid “in excess of” €7 billion for options that ultimately led it to acquire 10 percent of Volkswagen Group – including 17 percent voting rights – plus 10 percent of Porsche.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

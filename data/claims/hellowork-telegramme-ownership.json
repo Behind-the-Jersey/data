@@ -4,8 +4,8 @@
   "ownerIds": [
     "advenn"
   ],
-  "text": "Hellowork, the Stade Rennais front sponsor, is the French job platform (SIREN 428843130, SASU) whose sole corporate president in the registry is GROUPE TELEGRAMME (SIREN 487661654), with François Leverger as Directeur Général. Groupe Télégramme, the Morlaix media-and-services group around the Le Télégramme newspaper chaired by Edouard Coudurier, was renamed ADVENN in 2024; Advenn's own governance page lists \"François Leverger, Directeur général de Hellowork group\" under president Edouard Coudurier. The group describes itself as independent and family-controlled; no state or sovereign-fund stake was found in the chain.",
-  "short": "Hellowork is owned by Groupe Télégramme (now ADVENN), Edouard Coudurier's independent Breton group.",
+  "text": "Hellowork (SIREN 428843130) is a SAS registered in Rennes whose président, in the company register, is the company GROUPE TELEGRAMME (SIREN 487661654), with François Leverger as directeur général. Groupe Télégramme has been renamed ADVENN and calls itself an independent group; Advenn's governance page lists François Leverger as Directeur général de Hellowork group and Edouard Coudurier as Président d'Advenn.",
+  "short": "Hellowork's président is Groupe Télégramme, now ADVENN, chaired by Edouard Coudurier.",
   "source": {
     "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), HELLOWORK, SIREN 428843130",
     "date": "2026-09-28",
@@ -15,7 +15,7 @@
       "on": "2026-09-28",
       "by": "Schnitzel"
     },
-    "note": "Same response: nature juridique 5710 (SAS), siege commune 35238 (Rennes area), other dirigeant LEVERGER François (Directeur Général)."
+    "note": "Same response: nature juridique 5710 (SAS), siège Rennes (35238); other dirigeant LEVERGER François (Directeur Général)."
   },
   "additionalSources": [
     {
@@ -27,7 +27,17 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       },
-      "note": "Same page lists \"Edouard Coudurier Président d'Advenn\". The rename press release (advenn.com/actualites/le-groupe-telegramme-devient-advenn/) confirms \"Le Groupe Télégramme devient ADVENN\" and calls it \"ce groupe indépendant et solide\"."
+      "note": "Same page lists \"Edouard Coudurier Président d'Advenn\"."
+    },
+    {
+      "name": "Advenn — Le groupe Télégramme devient ADVENN",
+      "date": "2026",
+      "url": "https://advenn.com/actualites/le-groupe-telegramme-devient-advenn/",
+      "quote": "Le Groupe Télégramme devient ADVENN et affirme sa nouvelle dimension. Un nouveau nom pour incarner la dimension acquise par ce groupe indépendant et solide",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     }
   ],
   "reviewed": false

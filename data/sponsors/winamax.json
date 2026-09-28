@@ -5,10 +5,12 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "French online poker and sports-betting operator based in Paris, owned by its founders and shareholders Alexandre Roos and Christophe Schaming. Nothing found.",
+  "verdict": "Owned by its founders and shareholders Alexandre Roos and Christophe Schaming. Nothing found.",
   "claimIds": [
-    "winamax-founders-ownership"
+    "winamax-ownership"
   ],
-  "aliases": [],
-  "note": "Rating note: gambling sponsor (online poker / sports betting) — owner chain checked as required: founders Roos and Schaming per Winamax's own page, both listed as dirigeants in the registry; a 2010 EUR 12m Idinvest round is the only outside money found and no state stake appears. French press and Wikipedia note a 2022 money-laundering investigation (mise en examen of the company) and a 2021 Conseil d'État ruling on ANJ's online-gaming decisions — financial/commercial matters, not sourced human-rights abuses, so no record claim and no tier above none is proposed. No state links in the chain."
+  "aliases": [
+    "WINAMAX"
+  ],
+  "note": "Rating note: Private French online betting and poker operator, licensed by France's national gambling authority (ANJ); no state ownership found in the chain."
 }

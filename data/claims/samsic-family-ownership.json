@@ -4,7 +4,7 @@
   "ownerIds": [
     "samsic-groupe"
   ],
-  "text": "Samsic, the Stade Rennais front sponsor, is the brand of Groupe Samsic, a French services group (Samsic Facility, Samsic RH, Samsic Airport) created in 1986 by Christian Roulleau and still family-owned: the group's English vision page carries the founder's motto \"Samsic will remain a family business\" and states that Samsic is and will remain a family-owned business. The company registry shows SIREN 403227796, a SAS (nature juridique 5710) registered in Rennes, whose president is Thierry Geffroy. No state or sovereign-fund stake was found anywhere in the chain.",
+  "text": "Samsic is Groupe Samsic, a French services group created in 1986 by Christian Roulleau. The group's vision page says Samsic is and will remain a family-owned business. The company register lists SAMSIC (SIREN 403227796) as a SAS based in Cesson-Sévigné, whose président is Thierry Geffroy.",
   "short": "Groupe Samsic is a family-owned French services group founded in 1986 by Christian Roulleau.",
   "source": {
     "name": "Samsic — Our vision (samsic.com/en/our-vision)",
@@ -15,7 +15,7 @@
       "on": "2026-09-28",
       "by": "Schnitzel"
     },
-    "note": "Same page, founder's quote: \"Samsic will remain a family business\". Founder and date on samsic-rh.com (Le Groupe Samsic): \"Samsic est un groupe familial et international créé en 1986 par Christian Roulleau.\""
+    "note": "Same page, founder's quote: \"Samsic will remain a family business\"."
   },
   "additionalSources": [
     {
@@ -27,7 +27,17 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       },
-      "note": "Same response: \"nature_juridique\":\"5710\" (SAS), siege commune Rennes (35051). Samsic RH group page names founder Christian Roulleau (1986)."
+      "note": "Same response: \"nature_juridique\":\"5710\" (SAS), siège Cesson-Sévigné (35051)."
+    },
+    {
+      "name": "Samsic RH — Qui sommes-nous ?",
+      "date": "2026",
+      "url": "https://www.samsic-rh.com/qui-sommes-nous/",
+      "quote": "Le Groupe Samsic, créé en 1986 par Christian Roulleau",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     }
   ],
   "reviewed": false
