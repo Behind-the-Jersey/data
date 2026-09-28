@@ -1,0 +1,46 @@
+{
+  "id": "misli-elektronik-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "misli-elektronik",
+    "demiroren-yatirim-holding"
+  ],
+  "text": "Misli (misli.com), the betting brand that sponsors the Galatasaray shirt sleeve, is operated by Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş. and advanced with an investment it received from Demirören Holding in 2019; the Demirören group is a private family holding, not a state body.",
+  "short": "Misli is a Demirören group company (investment since 2019).",
+  "source": {
+    "name": "Demirören: Şans Oyunları (group website, faaliyet alanları)",
+    "date": "2026-09-28",
+    "url": "https://www.demiroren.com.tr/faaliyet-alanlari/sans-oyunlari/",
+    "note": "date precision: page current when read 2026-09-28",
+    "quote": "Pazar lideri olma hedefiyle, 2019 yılında Demirören Holding’den aldığı yatırımla hızla ilerleyen Misli; pazara getirdiği yeni ürün özellikleri, oyuncuyu merkeze alan ‘Oyun Deneyimi’ yaklaşımı, yenilikçi kampanyaları ile şans oyunları ve sabit ihtimalli bahis oyunları konusunda iddiasını ortaya koymaktadır.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Apple App Store: Misli – İddaa & At Yarışı (seller: Misli Elektronik Şans Oyunları ve Yayıncılık Anonim Şirketi)",
+      "date": "2026-09-28",
+      "url": "https://apps.apple.com/tr/app/misli-i-ddaa-canl%C4%B1-bahis/id531126816?l=tr",
+      "note": "date precision: page current when read 2026-09-28; names the operating company behind the misli brand",
+      "quote": "Geliştirici MISLI ELEKTRONIK SANS OYUNLARI VE YAYINCILIK ANONIM SIRKETI",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "misli.com: Hakkımızda (about page)",
+      "date": "2026-09-28",
+      "url": "https://www.misli.com/hakkimizda",
+      "note": "date precision: page current when read 2026-09-28; quote read from the page's hakkimizda text bundle (the page loads it by script, so a reviewer opens it in a browser)",
+      "quote": "Misli, Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş. olarak Spor Toto Teşkilatı ve United Racing ile yapılan sözleşmeler kapsamında; spor müsabakalarına dayalı sabit ihtimalli bahis oyunlarını ve at yarışı bahislerini yasal çerçevede sunan lider bir şans oyunları platformudur.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
