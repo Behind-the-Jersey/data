@@ -1,15 +1,20 @@
 {
   "id": "2play-creative-studio",
   "kind": "ownership",
-  "ownerIds": ["2play-creative-lab"],
-  "text": "2 Play describes itself as a creative studio where programmers, videographers and designers work; the page names no owner or parent company.",
-  "short": "2PLAY is an independent creative studio (owner not stated).",
+  "ownerIds": [
+    "2play-creative-lab"
+  ],
+  "text": "2PLAY's own about page describes it as a creative studio where programmers, videographers and designers work.",
+  "short": "2PLAY is a creative studio in Viseu.",
   "source": {
     "name": "2PLAY - Creative Lab, Empresa (about page)",
     "date": "2026-09-28",
     "url": "https://2play.pt/empresa.php",
     "quote": "A 2 Play é um estúdio criativo onde vivem programadores, videógrafos e designers",
-    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
   },
   "reviewed": false
 }

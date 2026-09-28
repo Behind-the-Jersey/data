@@ -1,16 +1,17 @@
 {
   "id": "buondi",
   "name": "Buondi",
-  "ownerId": "cafe-torrados-ribatejo",
+  "ownerId": "nestle-sa",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by Nestlé S.A. (Nestlé's Portuguese coffee business, which acquired the brand in 1993). Nothing found.",
+  "verdict": "A Nestlé brand since 1993; owned by Nestlé S.A. Nothing found.",
   "claimIds": [
-    "buondi-nestle-ownership"
+    "buondi-nestle-ownership",
+    "nestle-sa-record"
   ],
   "aliases": [
     "buondi caffé"
   ],
-  "note": "Rating note: a Nestlé coffee brand (Porto factory); Nestlé S.A. is broadly held (Institutions 74% / Private 26% per its 2025 Annual Review) with no state or controlling shareholder. Nothing passes the METHOD.md test."
+  "note": "Rating note: a Nestlé coffee brand; Nestlé S.A. is broadly held (Institutions 74% / Private 26% per its 2025 Annual Review, claim nestle-sa-record) with no state or controlling shareholder named. Nothing passes the METHOD.md test."
 }
