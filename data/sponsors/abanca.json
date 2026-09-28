@@ -3,9 +3,12 @@
   "name": "Abanca",
   "ownerId": "abanca",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Controlled by Juan Carlos Escotet Rodriguez (84.75% via direct holding and a family office). Nothing found.",
+  "claimIds": [
+    "abanca-escotet-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private bank controlled by the Escotet family (titular efectivo 84.75%: 43.50% direct + 41.25% via Escotet Family Office S.L.U.); no other shareholder above 5%. No state or fund capital. Wikipedia mentions only historical financial-rescue items, which do not meet the human-rights record bar."
 }

@@ -12,23 +12,46 @@
       "sponsorId": "estrella-galicia",
       "placement": "front",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "Diario AS, El Deportivo filtra por error la nueva camiseta para la 2026-2027",
+        "date": "2026-07-02",
+        "url": "https://as.com/futbol/primera/el-deportivo-filtra-por-error-la-nueva-camiseta-para-la-2026-2027-f202607-n/",
+        "quote": "Las prendas oficiales de la temporada 2026-2027 tendrán un año más como publicidad principal ‘Estrella Galicia’",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "abanca",
       "placement": "back",
       "source": {
-        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
-        "date": "2025-10-08",
-        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "Abanca back of shirt; the promoted club is the likely second Abanca back"
+        "name": "Wikipedia, 2026-27 La Liga kit sponsors table (Deportivo A Coruña row)",
+        "date": "2026-09-27",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+        "quote": "Deportivo A Coruña Antonio Hidalgo Diego Villares Nike Estrella Galicia 0,0 List Side: None Back: Abanca Sleeves: None Shorts: Bualá",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "buala",
+      "placement": "shorts",
+      "source": {
+        "name": "Buala blog, Buala renueva su patrocinio con el RC Deportivo",
+        "date": "2026-08-14",
+        "url": "https://buala.es/blog/buala-renueva-su-patrocinio-con-el-rc-deportivo/",
+        "quote": "nuestra marca continuará presente en la parte trasera del pantalón de juego del primer equipo masculino",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "summary": null,
   "change": null
 }
