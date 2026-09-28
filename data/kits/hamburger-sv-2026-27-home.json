@@ -14,7 +14,13 @@
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Die HanseMerkur ist seit der Saison 2022/23 Haupt- und Trikotsponsor des Hamburger SV.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club's own partner page (hsv.de/partner) lists Hanse Merkur as Hauptpartner and the joint 'Plan International Helm' entry as Aermelpartner; no back, shorts or patch sponsor category appears there."
       }
     },
     {
@@ -22,13 +28,19 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "Plan International Deutschland, Pressemitteilung 24.06.2024: HELM AG wird neuer Ärmelpartner des HSV und überlässt die Präsenz Plan International",
+        "date": "2024-06-24",
+        "url": "https://www.plan.de/presse/pressemitteilungen/detail/helm-ag-wird-neuer-aermelpartner-des-hsv-und-ueberlaesst-die-praesenz-plan-international.html",
+        "quote": "Das traditionsreiche Hamburger Familienunternehmen HELM AG, das den Club seit 2022 bereits als Supplier unterstützt, wird von der Saison 2024/25 an und für die kommenden drei Jahre neuer Ärmelpartner des Hamburger SV.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Sleeve deal runs three seasons from 2024/25, i.e. through 2026/27. In DFB-Pokal matches the HELM logo itself is on the sleeve; in league matches HELM donates the sleeve presence to Plan International."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "HanseMerkur (front since 2022/23, deal to 2028) and HELM (sleeve partner, whose league-match sleeve presence is donated to Plan International). Both are Hamburg private companies with no state owner in the chain.",
   "change": null
 }

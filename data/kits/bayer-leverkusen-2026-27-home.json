@@ -12,9 +12,14 @@
       "sponsorId": "barmenia",
       "placement": "front",
       "source": {
-        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-        "date": "2026-09-24",
-        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Die Werkself aus Leverkusen arbeitet bereits seit 2016 mit den Barmenia Versicherungen zusammen. Durch die Fusion von Barmenia mit der Gothaer zur BarmeniaGothaer-Gruppe im September 2024 ist seit der Saison 2025/26 ein neues Sponsorenlogo auf den Trikoten zu sehen sein",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -22,13 +27,18 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "Niedax Group: Sponsorship (Who We Are)",
+        "date": "2026",
+        "url": "https://www.niedax-group.com/en/who-we-are/sponsorship/",
+        "quote": "For the 2024/2025 season, our company became the official sleeve partner of Bayer 04 Leverkusen.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "The front is paid for by Barmenia, a German mutual insurer; the sleeve by Niedax, a family-owned cable-management group.",
   "change": null
 }

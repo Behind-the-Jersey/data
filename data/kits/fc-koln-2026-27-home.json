@@ -14,7 +14,12 @@
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Der Haupt- und Trikotsponsor des 1. FC Köln ist weiterhin die REWE Group",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -24,11 +29,17 @@
       "source": {
         "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
         "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/",
+        "note": "The page is behind Cloudflare and answers 403 to some fetchers; it loads with a browser user agent. The article surveys the 2025/26 season; the 2026-27 sleeve placement is corroborated by the official 2026-27 home-shirt photos on the club's launch page (REWE chest, DEVK right sleeve, nothing on the back) and by DEVK's own partnership page, which confirms ongoing sleeve sponsoring (Ärmelsponsoring) with the club.",
+        "quote": "Hummel bringt 5 Millionen Euro, Ärmelpartner DEVK unbekannt.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "summary": null,
   "change": null
 }

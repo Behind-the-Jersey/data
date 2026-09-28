@@ -4,13 +4,26 @@
   "orgName": null,
   "sponsorId": "hansemerkur",
   "placement": "front",
-  "from": "2026-27",
-  "to": null,
-  "value": null,
+  "from": "2022-23",
+  "to": "2027-28",
+  "value": {
+    "amount": 8,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 9
+  },
   "source": {
     "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
     "date": "2026-08-04",
-    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+    "quote": "Der jährliche Sponsoringbeitrag wird in Medienberichten auf rund acht Millionen Euro geschätzt.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same page: 'Die HanseMerkur ist seit der Saison 2022/23 Haupt- und Trikotsponsor des Hamburger SV.' The to-season follows the September 2024 extension announced by the club (contract to summer 2028), which is not on this page."
   },
-  "note": "Value not disclosed."
+  "note": "Press estimate, not an official figure. Main and shirt sponsor since 2022/23."
 }
