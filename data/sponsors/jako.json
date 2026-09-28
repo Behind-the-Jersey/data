@@ -1,12 +1,17 @@
 {
   "id": "jako",
-  "name": "Jako",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit supplier to Al-Ettifaq."
+  "name": "JAKO",
+  "ownerId": "jako-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "claimIds": [
+    "jako-ag-record"
+  ],
+  "aliases": [
+    "JAKO AG",
+    "Jako"
+  ],
+  "note": "German sportswear manufacturer from Mulfingen; kit supplier (Ausrüster) to VfB Stuttgart since the 2019/20 season, making the current 2026/27 home shirt. Also dresses other clubs such as Al-Ettifaq.",
+  "verdict": "JAKO AG is a privately held German family sportswear company founded by Rudi Sprügel in 1989 and run by the second generation of the founding family; the register names Sturm Beteiligungs-GmbH & Co. KG as shareholder. It is a kit maker with ownership held inside one family and no state or conflicting club interests, so it is rated none."
 }

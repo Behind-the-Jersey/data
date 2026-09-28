@@ -1,0 +1,32 @@
+{
+  "id": "jako-ag-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "jako-ag"
+  ],
+  "text": "JAKO was founded in 1989 by Rudi Sprügel as 'JAKO Sportartikelvertriebs GmbH' and is a family business: Nadine and Yvonne Sprügel run JAKO with their board in the second generation and founder Rudi Sprügel chairs its supervisory board.",
+  "short": "JAKO is a family business founded by Rudi Sprügel in 1989, run in its second generation by Nadine and Yvonne Sprügel.",
+  "source": {
+    "name": "JAKO: 'Unternehmen' (jako.com, Über JAKO)",
+    "date": "2026",
+    "url": "https://www.jako.com/de-de/ueber-jako/unternehmen/",
+    "quote": "Wir sind ein Familienunternehmen. Nadine und Yvonne Sprügel führen JAKO zusammen mit ihrem Vorstandsteam in der zweiten Generation.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "North Data: JAKO AG, Mulfingen, Amtsgericht Stuttgart HRB 590730 (register publications)",
+      "date": "2026",
+      "url": "https://www.northdata.de/Jako+AG,+Mulfingen",
+      "quote": "16.04.2013 über Sturm Beteiligungs-GmbH & Co. KG auch 22.03.2012 Gesellschafter: Sturm Beteiligungs-GmbH & Co. KG",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

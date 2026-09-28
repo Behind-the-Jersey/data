@@ -12,23 +12,47 @@
       "sponsorId": "lbbw",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-        "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "name": "LBBW: 'VfB Stuttgart' engagement page (lbbw.de)",
+        "date": "2026",
+        "url": "https://www.lbbw.de/konzern/lbbw/verantwortung/vfb-stuttgart/vfb-stuttgart_aiu5io3hsv_d.html",
+        "quote": "Die LBBW ist auf dem markanten Brustring des Clubs aus Cannstatt präsent",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
-      "sponsorId": "hep-solar",
+      "sponsorId": "greenox",
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "VfB Stuttgart: 'Herzlich willkommen, GREENOX!' (club announcement)",
+        "date": "2026-08-28",
+        "url": "https://www.vfb.de/de/vfb/aktuell/neues/club/2026/herzlich-willkommen--greenox-/",
+        "quote": "Das Stuttgarter Unternehmen für Energieberatung und Gebäudesanierung engagiert sich ab sofort als Ärmelpartner und Premium-Partner beim VfB Stuttgart",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "jako",
+      "placement": "partner",
+      "source": {
+        "name": "Wikipedia (de): VfB Stuttgart, Sponsoren und Ausrüster section",
+        "date": "2026",
+        "url": "https://de.wikipedia.org/wiki/VfB_Stuttgart",
+        "quote": "Seit der Spielzeit 2019/20 ist Jako Ausrüster des VfB Stuttgart",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "White home shirt with the red chest hoop; LBBW on the front, GREENOX on the sleeve (side front) and Jako as kit maker. GREENOX took over the sleeve from hep solar for 2026/27.",
   "change": null
 }
