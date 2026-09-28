@@ -2,5 +2,7 @@
   "id": "fidelidade",
   "name": "Fidelidade - Companhia de Seguros",
   "type": "private-company",
-  "parentId": null
+  "country": "Portugal",
+  "note": "Portuguese insurer; 84.9892% held by Fosun International via Millennium Gain Limited, 15% by state-owned Caixa Geral de Depósitos.",
+  "parentId": "fosun"
 }

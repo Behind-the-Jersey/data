@@ -11,14 +11,106 @@
     {
       "sponsorId": "lebull",
       "placement": "front",
+      "side": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Estrela da Amadora: maker Adidas, main Lebull)",
         "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Estrela da Amadora Pepa Stefan Leković Adidas Lebull",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "marcos-car",
+      "placement": "front",
+      "side": "front",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Estrela da Amadora, Front: Marcos Car)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Marcos Car Back: Centro de Reciclagem da Amadora Sleeves: Hospital da Luz Shorts: Solfaestofo – Estofos e decoração, RE/MAX Yes",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "centro-de-reciclagem-da-amadora",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Estrela da Amadora, Back: Centro de Reciclagem da Amadora)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Marcos Car Back: Centro de Reciclagem da Amadora Sleeves: Hospital da Luz Shorts: Solfaestofo – Estofos e decoração, RE/MAX Yes",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hospital-da-luz",
+      "placement": "sleeve",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Estrela da Amadora, Sleeves: Hospital da Luz)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Marcos Car Back: Centro de Reciclagem da Amadora Sleeves: Hospital da Luz Shorts: Solfaestofo – Estofos e decoração, RE/MAX Yes",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "solfaestofo",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Estrela da Amadora, Shorts: Solfaestofo – Estofos e decoração)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Marcos Car Back: Centro de Reciclagem da Amadora Sleeves: Hospital da Luz Shorts: Solfaestofo – Estofos e decoração, RE/MAX Yes",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "remax-yes",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Estrela da Amadora, Shorts: RE/MAX Yes)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Marcos Car Back: Centro de Reciclagem da Amadora Sleeves: Hospital da Luz Shorts: Solfaestofo – Estofos e decoração, RE/MAX Yes",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Estrela da Amadora, kit maker Adidas)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Estrela da Amadora Pepa Stefan Leković Adidas Lebull",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, named in the Personnel and kits table (technical sponsor column); not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull.",
+  "sponsorsComplete": true,
+  "summary": "adidas home shirt: Lebull (Southern Stingray, S.A.) as the main front sponsor with Marcos Car (Marcoscar, S.A.) also on the chest, Centro de Reciclagem da Amadora on the back, Hospital da Luz (Luz Saúde/Fidelidade/Fosun) on the sleeves, and Solfaestofo and RE/MAX Yes on the shorts. Every placement checked against the 2026-27 Primeira Liga kit table and the club's product photos.",
   "change": null
 }

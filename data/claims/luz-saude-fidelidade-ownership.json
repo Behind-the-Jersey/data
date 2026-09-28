@@ -1,0 +1,33 @@
+{
+  "id": "luz-saude-fidelidade-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "luz-saude",
+    "fidelidade"
+  ],
+  "text": "Fidelidade agreed in September 2025 to sell 40% of Luz Saúde to Macquarie Asset Management (via Macquarie European Infrastructure Fund 7) for a base price of 310 million euros, keeping a majority position; the sale completed on 29 January 2026 with Fidelidade keeping a controlling position.",
+  "short": "Fidelidade keeps a controlling position in Luz Saúde after selling 40% to Macquarie.",
+  "source": {
+    "name": "Fidelidade press release: Fidelidade vende 40% da Luz Saúde à Macquarie",
+    "date": "2025-09-05",
+    "url": "https://www.fidelidade.pt/PT/a-fidelidade/Imprensa/Imprensa/Documents/2025/PT_PR_Fidelidade_Luz%20Saude_docxVMSV3%20(003).pdf",
+    "quote": "A Fidelidade chegou a acordo com a Macquarie Asset Management via Macquarie European Infrastructure Fund 7 para a venda de uma participação de 40% no capital da Luz Saúde por um preço base de 310 milhões de euros",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "ECO: Fidelidade confirmou venda de 40% da Luz Saúde à Macquarie",
+      "date": "2026-01-29",
+      "url": "https://eco.sapo.pt/2026/01/29/fidelidade-confirmou-venda-de-40-da-luz-saude-a-macquarie/",
+      "quote": "A Fidelidade concluiu esta quinta-feira a venda de uma participação de 40% no capital da Luz Saúde ao Grupo Macquarie Asset Management via MEIF 7 MED BIDCO, S.A.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
