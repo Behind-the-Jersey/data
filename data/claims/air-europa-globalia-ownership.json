@@ -1,0 +1,21 @@
+{
+  "id": "air-europa-globalia-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "globalia"
+  ],
+  "text": "Air Europa is the airline of Grupo Globalia, the Spanish tourism group founded by Juan Jose Hidalgo; the legal entity behind the brand is Air Europa Lineas Aereas, S.A.U.",
+  "short": "Air Europa is the airline of Grupo Globalia",
+  "source": {
+    "name": "Globalia: Air Europa (corporate site)",
+    "date": "2026-09",
+    "url": "https://www.globalia.com/air-europa",
+    "quote": "Air Europa es la aerolínea del Grupo Globalia.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "globalia.com serves a JavaScript app; the page text was read through a reader proxy and the quote is on the rendered page."
+  },
+  "reviewed": false
+}

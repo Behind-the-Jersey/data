@@ -1,15 +1,18 @@
 {
   "id": "hospital-da-luz",
   "name": "Hospital da Luz (Luz Saude)",
-  "ownerId": "fidelidade",
+  "ownerId": "luz-saude",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Luz Saude, controlled by Fidelidade (84.99% Fosun International, 15% state-owned Caixa Geral de Depositos). Nothing found.",
+  "claimIds": [
+    "luz-saude-fidelidade-ownership",
+    "fidelidade-fosun-cgd-ownership"
+  ],
   "aliases": [
     "luz saude",
     "hospital da luz"
   ],
-  "note": "Portuguese private hospital group (Luz Saude, 60% Fidelidade / 40% Macquarie since Sep 2025; Fidelidade is 85% Fosun / 15% state-owned CGD). Front or sleeve sponsor at several clubs in 2026-27."
+  "note": "Portuguese private hospital group (Luz Saude: 60% Fidelidade / 40% Macquarie since Jan 2026; Fidelidade is 84.99% Fosun / 15% state-owned CGD). Front or sleeve sponsor at several clubs in 2026-27."
 }

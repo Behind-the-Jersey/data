@@ -14,11 +14,101 @@
       "source": {
         "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
         "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Alverca Sérgio Ferreira Sergi Gómez Nike Placard.pt List",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hospital-da-luz",
+      "placement": "front",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Alverca row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Hospital da Luz Back: Das WeltAuto Sleeves: DAZN Shorts: Air Europa , Água de Monfortinho",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "das-weltauto",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Alverca row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Hospital da Luz Back: Das WeltAuto Sleeves: DAZN Shorts: Air Europa , Água de Monfortinho",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "dazn",
+      "placement": "sleeve",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Alverca row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Hospital da Luz Back: Das WeltAuto Sleeves: DAZN Shorts: Air Europa , Água de Monfortinho",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "air-europa",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Alverca row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Hospital da Luz Back: Das WeltAuto Sleeves: DAZN Shorts: Air Europa , Água de Monfortinho",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "agua-de-monfortinho",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Alverca row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Hospital da Luz Back: Das WeltAuto Sleeves: DAZN Shorts: Air Europa , Água de Monfortinho",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Alverca 26-27 Home, Away & Third Kits Released",
+        "date": "2026-09",
+        "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+        "quote": "FC Alverca and Nike have officially unveiled the club's new home, away, and third kits for the 26-27 season",
+        "note": "Kit maker; not a shirt sponsor in the front/back/sleeve sense.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Shirt main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+  "sponsorsComplete": true,
+  "summary": "Nike home shirt: Placard.pt on the front with Hospital da Luz, Das WeltAuto on the back, DAZN on the sleeves, and Air Europa and Agua de Monfortinho on the shorts.",
   "change": null
 }

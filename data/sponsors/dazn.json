@@ -3,10 +3,12 @@
   "name": "DAZN",
   "ownerId": "access-industries",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Access Industries, Len Blavatnik's privately held investment company. Nothing found.",
+  "claimIds": [
+    "access-industries-record"
+  ],
   "aliases": [],
   "note": "Global broadcaster of the FIFA Club World Cup 2025 (reported US$1bn rights deal). SURJ/PIF took a reported minority stake in DAZN."
 }
