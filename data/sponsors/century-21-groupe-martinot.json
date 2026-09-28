@@ -1,11 +1,17 @@
 {
   "id": "century-21-groupe-martinot",
   "name": "Century 21 Groupe Martinot",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "martinot-immobilier-troyes",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Estate-agency group franchising the CENTURY 21 brand; family-owned (Martinot family). Nothing found.",
+  "claimIds": [
+    "century-21-groupe-martinot-ownership"
+  ],
+  "aliases": [
+    "CENTURY 21 Martinot Immobilier",
+    "Groupe Martinot"
+  ],
+  "note": "Rating note: The sponsor is the local franchise group, not Century 21's US parent; its agencies are family-owned SARLs/SAS. Nothing passes the test."
 }

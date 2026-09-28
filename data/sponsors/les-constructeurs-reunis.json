@@ -1,11 +1,16 @@
 {
   "id": "les-constructeurs-reunis",
   "name": "Les Constructeurs Réunis",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "lcr-sas",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French construction group (LCR SAS, RCS Strasbourg). Nothing found.",
+  "claimIds": [
+    "lcr-ownership"
+  ],
+  "aliases": [
+    "LCR"
+  ],
+  "note": "Rating note: Private SAS; shareholders not disclosed in its legal notice, no state or fund ownership in any source opened. Nothing passes the test."
 }
