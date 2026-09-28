@@ -14,7 +14,13 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Real Sociedad Baghdadi Capital Financial services",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shirt-sponsor table row. Corroborated by the club's own shop photos of the 2026/27 home shirt (rsstore.realsociedad.eus, product kamiseta-home-2627), which show Baghdadi Capital across the front."
       }
     },
     {
@@ -24,11 +30,30 @@
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/",
-        "note": "Kutxabank backs the Basque clubs Alaves and Real Sociedad"
+        "quote": "Kutxabank sponsors the back of Basque clubs Alavés and Real Sociedad, while already being a front-of-shirt sponsor for Basque rival Athletic.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "Joma Sport, Primera equipación Real Sociedad Joma (club announcement)",
+        "date": "2026-06-30",
+        "url": "https://www.joma-sport.com/blog/primera-equipacion-real-sociedad-joma/",
+        "quote": "Fuimos, somos y seremos. La nueva camiseta txuri urdin abre la etapa entre el club y Joma con un diseño fiel a las rayas tradicionales y tecnología aplicada al rendimiento.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker (recorded as partner per existing convention). Joma's own announcement of the first 2026/27 Real Sociedad shirt; the same article states Joma became the club's official technical sponsor from July, replacing Macron."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Baghdadi Capital on the front, Kutxabank on the back, no sleeve sponsor (one of five La Liga clubs without one), Joma as kit maker.",
   "change": null
 }
