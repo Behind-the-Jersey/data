@@ -1,11 +1,14 @@
 {
   "id": "bwin",
   "name": "Bwin",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "entain-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Entain plc (LSE: ENT), a FTSE100 listed betting and gaming group; no state owner in the chain. Nothing found.",
+  "claimIds": [
+    "bwin-entain-fy25"
+  ],
+  "aliases": [],
+  "note": "Rated during the Casa Pia research (issue #390): bwin is the front (main) sponsor of Casa Pia's 2026-27 home kit and also Famalicao's (PR #815) and Arouca's (PR #816) main sponsor. Owner chain checked for a gambling sponsor: bwin -> Entain plc, a London-listed company whose largest notified holders are asset managers, not states or state funds. No state links found."
 }

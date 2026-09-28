@@ -1,0 +1,20 @@
+{
+  "id": "dominos-pizza-inc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dominos-pizza-inc"
+  ],
+  "text": "Domino's Pizza, Inc. is a US franchisor listed on NASDAQ: per its fiscal-2025 Form 10-K, it is primarily a franchisor with approximately 99% of Domino's global stores owned and operated by independent franchisees as of 28 December 2025; internationally it generally grants geographical rights to the brand to master franchisees.",
+  "source": {
+    "name": "Domino's Pizza, Inc. Form 10-K for fiscal year ended 28 December 2025 (SEC EDGAR)",
+    "date": "2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312526062321/dpz-20251228.htm",
+    "quote": "We are primarily a franchisor, with approximately 99% of Domino’s global stores owned and operated by our independent franchisees as of December 28, 2025.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same 10-K, International franchise segment: 'In our international markets, we generally grant geographical rights to the Domino’s Pizza ® brand to master franchisees.' The 10-K does not name the Portuguese master franchisee."
+  },
+  "reviewed": false
+}

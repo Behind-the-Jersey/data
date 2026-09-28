@@ -12,22 +12,94 @@
       "sponsorId": "bwin",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Casa Pia row (main sponsor); bwin listed as Main Sponsor in the footer of the club's own site",
         "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Casa Pia Filipe Coelho André Geraldes Adidas bwin",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Wikipedia kits-table row for Casa Pia: the main-sponsor cell renders as 'bwin'. The footer of casapiaac.pt also lists 'Main Sponsor: Bwin' (in image alt text, so not quotable here)."
       }
     },
     {
       "sponsorId": "hospital-da-luz",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Hospital da Luz front)",
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Casa Pia row (Front)",
         "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Hospital da Luz",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "No named press or club page states the front placement; the Wikipedia kits table is the only source found. Hospital da Luz is also an Official Sponsor of the club (casapiaac.pt footer)."
+      }
+    },
+    {
+      "sponsorId": "benecar",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Casa Pia row (Back)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Back: Benecar - Cidade do Automóvel",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "No named press or club page states the back placement; the Wikipedia kits table is the only source found. Benecar is an Official Sponsor of the club (casapiaac.pt footer)."
+      }
+    },
+    {
+      "sponsorId": "silogia",
+      "placement": "sleeve",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Casa Pia row (Sleeves)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Sleeves: Silogia",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "No named press or club page states the sleeve placement; the Wikipedia kits table is the only source found. Silogia is an Official Sponsor of the club (casapiaac.pt footer)."
+      }
+    },
+    {
+      "sponsorId": "dominos",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Casa Pia row (Shorts)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Shorts: Domino's",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "No named press or club page states the shorts placement; the Wikipedia kits table is the only source found. Domino's Pizza is an Official Sponsor of the club (casapiaac.pt footer)."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Casa Pia row (kit manufacturer); adidas maker marks visible on the shirt photos at footballkitarchive and on the club shop",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Casa Pia Filipe Coelho André Geraldes Adidas bwin",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Wikipedia kits-table row for Casa Pia: the kit-manufacturer cell renders as 'Adidas'. Kit-maker partner placement follows the convention used for other clubs (e.g. Puma at Famalicao, PR #815)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by Entain plc via Bwin; Hospital da Luz also on the front.",
+  "sponsorsComplete": true,
+  "summary": "Front bwin (main sponsor per the Wikipedia kits table and the club site footer) with Hospital da Luz also on the front; back Benecar; sleeves Silogia; shorts Domino's; kit made by adidas. All six placements come from the Wikipedia kits table for 2026-27 (no named press or club page marks the shirt), cross-checked against the club footer's sponsor list.",
   "change": null
 }

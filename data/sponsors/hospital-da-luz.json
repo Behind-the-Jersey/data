@@ -3,13 +3,16 @@
   "name": "Hospital da Luz (Luz Saude)",
   "ownerId": "fidelidade",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Operated by Luz Saude, a Fidelidade group company: Fidelidade keeps a controlling position after selling 40% to a Macquarie infrastructure fund (concluded 29 January 2026). Fidelidade itself is 84.9892% Fosun International (HKEX-listed) and 15% state-owned CGD as a strategic minority. Nothing found.",
+  "claimIds": [
+    "luz-saude-fidelidade-ownership",
+    "fidelidade-fosun-ownership"
+  ],
   "aliases": [
     "luz saude",
     "hospital da luz"
   ],
-  "note": "Portuguese private hospital group (Luz Saude, 60% Fidelidade / 40% Macquarie since Sep 2025; Fidelidade is 85% Fosun / 15% state-owned CGD). Front or sleeve sponsor at several clubs in 2026-27."
+  "note": "Rated during the Casa Pia research (issue #390): Hospital da Luz is on the front of Casa Pia's 2026-27 home kit. Chain: Hospital da Luz -> Luz Saude -> Fidelidade (control, 60% before the Macquarie sale; the sale announcement says Fidelidade keeps 'uma posição de controlo') -> Fosun International 84.9892% / CGD 15%. CGD is owned by the Portuguese State, but its Fidelidade stake is a strategic minority without control (roughly 12.75% effective in Luz Saude) - state ownership alone is not a tier (METHOD.md). The Macquarie side (MEIF 7 MED BIDCO, S.A., 40%) is a fund holding, no control. Fosun is a private-to-listed Hong Kong group, not a state body. Earlier percentages in this note (60/40 Sep 2025; 85/15) were unsourced and have been replaced by sourced figures."
 }
