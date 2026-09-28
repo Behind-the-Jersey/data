@@ -1,0 +1,43 @@
+{
+  "id": "skoda-vw-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "skoda-auto",
+    "volkswagen-finance-luxemburg",
+    "volkswagen-ag"
+  ],
+  "text": "Škoda Auto's sole shareholder is Volkswagen Finance Luxemburg S.A., whose sole shareholder is Volkswagen AG; Volkswagen AG, as parent company, holds direct or indirect interests in Škoda Auto a.s.",
+  "source": {
+    "name": "Škoda Auto Company (skoda-auto.com)",
+    "date": "2026",
+    "url": "https://www.skoda-auto.com/en/company",
+    "quote": "Škoda Auto has a sole shareholder, a General Meeting is not held and its powers are executed by this sole shareholder: VOLKSWAGEN FINANCE LUXEMBURG S.A. with its registered seat in Luxembourg, the Grand Duchy of Luxembourg.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Škoda Annual Report 2025: Corporate Governance",
+      "date": "2026",
+      "url": "https://reporting.skoda-auto.com/management",
+      "quote": "The sole shareholder of VOLKSWAGEN FINANCE LUXEMBURG S.A. is VOLKSWAGEN AKTIENGESELLSCHAFT (“VW AG”), having its registered office in Wolfsburg, Federal Republic of Germany.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Volkswagen Group Annual Report 2025: Structure and Business Activities",
+      "date": "2026-03-10",
+      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/structure-and-business-activities.html",
+      "quote": "In its capacity as parent company, Volkswagen AG holds direct or indirect interests in AUDI AG, SEAT S.A., Škoda Auto a.s.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
