@@ -12,13 +12,64 @@
       "sponsorId": "placard",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+        "date": "2026-08-11",
+        "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+        "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The article's photos of the new shirts (for example https://www.footyheadlines.com/static/img/post/2026/08/11/Bk3WvH3wXrqvIte/alverca-26-27-home-away-and-third-kits-released.jpg, the blue shirt the SAD calls the equipamento principal) show 'PLACARD.pt' across the front."
+      }
+    },
+    {
+      "sponsorId": "hospital-da-luz",
+      "placement": "front",
+      "source": {
+        "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+        "date": "2026-08-11",
+        "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+        "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The article's photos (https://www.footyheadlines.com/static/img/post/2026/08/11/Bk3WvH3wXrqvIte/alverca-26-27-home-away-and-third-kits-released.jpg; https://www.footyheadlines.com/static/img/post/2026/08/11/QtjfFTC7YsPZypR/alverca-26-27-home-away-and-third-kits-released.jpg) show the 'HOSPITAL DA LUZ' logo on the chest, above the Nike swoosh."
+      }
+    },
+    {
+      "sponsorId": "dazn",
+      "placement": "sleeve",
+      "source": {
+        "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+        "date": "2026-08-11",
+        "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+        "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The article's photos (https://www.footyheadlines.com/static/img/post/2026/08/11/Bk3WvH3wXrqvIte/alverca-26-27-home-away-and-third-kits-released.jpg) show the 'DAZN' logo on the sleeve."
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+        "date": "2026-08-11",
+        "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+        "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, recorded as partner per existing convention."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Shirt main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+  "summary": "Placard.pt across the front, with Hospital da Luz on the chest and DAZN on the sleeve, in the launch photos of the Nike shirts for 2026-27. Not marked complete: no cited source shows the back of the shirt or the shorts, so their sponsors aren't recorded yet.",
   "change": null
 }
