@@ -1,0 +1,28 @@
+{
+  "id": "inter-milan-bbva-sleeve",
+  "clubId": "inter-milan",
+  "orgName": null,
+  "sponsorId": "bbva",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": {
+    "amount": 8.5,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "AllFootball (citing La Gazzetta dello Sport), 'Gazzetta: Inter sign record sleeve sponsorship deal with BBVA worth €8.5 million annually'",
+    "date": "2026-07-28",
+    "url": "https://www.allfootballapp.com/articles/4911635-gazzetta-inter-sign-record-sleeve-sponsorship",
+    "quote": "The previous contract with Gate.io was worth €6 million per year, while the BBVA deal is expected to reach €8.5 million per year.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Press estimate (Gazzetta dello Sport via AllFootball); the club gave no value. Replaces the Gate.io sleeve deal."
+}
