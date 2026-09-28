@@ -1,0 +1,32 @@
+{
+  "id": "obos-boligbyggelag",
+  "kind": "ownership",
+  "ownerIds": [
+    "obos"
+  ],
+  "text": "OBOS says it is owned by more than half a million members; the Brønnøysund register lists OBOS BBL as a boligbyggelag (housing cooperative).",
+  "short": "OBOS, a housing cooperative, is owned by its more than 500,000 members.",
+  "source": {
+    "name": "OBOS: Om OBOS",
+    "date": "2026",
+    "url": "https://www.obos.no/om-obos",
+    "quote": "OBOS er en av Nordens største boligbyggere, eid av over en halv million medlemmer.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Brønnøysund Register Centre - entity record 937052766 OBOS BBL (open data API)",
+      "date": "1938-02-18",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/937052766",
+      "quote": "\"beskrivelse\":\"Boligbyggelag\",\"kode\":\"BBL\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

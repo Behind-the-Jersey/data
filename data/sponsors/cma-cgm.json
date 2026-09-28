@@ -1,11 +1,17 @@
 {
   "id": "cma-cgm",
   "name": "CMA CGM",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "cma-cgm",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French shipping and logistics group that the CMA CGM Foundation describes as family-owned; Rodolphe Saadé chairs its board. Nothing found.",
+  "claimIds": [
+    "cma-cgm-saade-family-ownership",
+    "cma-cgm-record"
+  ],
+  "aliases": [
+    "CMA CGM Group"
+  ],
+  "note": "Board members named by the group include members of the Saadé family shareholder and Robert Yüksel Yildirim (Turkish group Yildirim, a private company). No state or state fund with a record of serious abuses is named as an owner."
 }

@@ -1,0 +1,34 @@
+{
+  "id": "naspers-prosus-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "naspers",
+    "prosus-nv"
+  ],
+  "text": "Prosus and Naspers both say Naspers is the majority owner of Prosus. Prosus was formed to house the international internet assets of Naspers, which has its primary listing on the Johannesburg Stock Exchange; Prosus listed on Euronext Amsterdam in September 2019.",
+  "short": "Naspers is the majority owner of Prosus.",
+  "source": {
+    "name": "Prosus: Group structure",
+    "date": "2026",
+    "url": "https://www.prosus.com/about-us/group-structure",
+    "quote": "Prosus listed on the Euronext Amsterdam in September 2019, with a secondary, inward listing on the Johannesburg Stock Exchange in South Africa. Naspers is the majority owner of Prosus.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same page: 'Prosus was formed to house the international internet assets of Naspers, a Johannesburg Stock Exchange listed global consumer internet company.' The cross-holding between Naspers and Prosus was removed in September 2023."
+  },
+  "additionalSources": [
+    {
+      "name": "Naspers: Group structure",
+      "date": "2026",
+      "url": "https://www.naspers.com/the-group/group-structure",
+      "quote": "Prosus has its primary listing on Euronext Amsterdam and secondary listings on the JSE and A2X Exchanges in South Africa. Naspers is the majority owner of Prosus.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

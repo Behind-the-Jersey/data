@@ -1,11 +1,18 @@
 {
   "id": "groupe-soft",
   "name": "Groupe SOFT",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "valeanse",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brest builder of commercial and industrial buildings (Société d'Organisation Financière et Technique); Groupe SOFT is the trading name of the SAS VALEANSE, whose Président is Fabrice Boudinet. Nothing found.",
+  "claimIds": [
+    "boudinet-valeanse-ownership"
+  ],
+  "aliases": [
+    "SOFT",
+    "Groupe SOFT",
+    "Valeanse"
+  ],
+  "note": "Rating note: the company register lists VALEANSE (GROUPE SOFT), SIREN 798816682, with Fabrice Boudinet as Président de SAS; the club's partner page names Boudinet Fabrice as contact. VALEANSE's shareholders are not in the cited sources. No state or fund stake found → none."
 }

@@ -1,0 +1,42 @@
+{
+  "id": "sabseg-sa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sabseg"
+  ],
+  "text": "SABSEG is SABSEG - Corretor de Seguros, S.A. (Lisbon, NIF 500 906 181). Grupo SABSEG says it was founded in late 1999 by four entrepreneurs and that its capital is 100% Portuguese.",
+  "short": "SABSEG is SABSEG - Corretor de Seguros, S.A. (Lisbon).",
+  "source": {
+    "name": "SABSEG: Informação Legal",
+    "date": "2026",
+    "url": "https://www.sabseg.com/sabseg/informacao-legal/",
+    "quote": "SABSEG – CORRETOR DE SEGUROS, S.A. com sede social na Avenida Almirante Gago Coutinho, 164 1700-033 Lisboa, Nif 500 906 181",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SABSEG: História",
+      "date": "2026",
+      "url": "https://www.sabseg.com/sabseg/historia/",
+      "quote": "O Grupo SABSEG, nasceu em finais de 1999, através da união de quatro empreendedores, conhecedores do mercado regional",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "SABSEG: História",
+      "date": "2026",
+      "url": "https://www.sabseg.com/sabseg/historia/",
+      "quote": "Atualmente, conta com mais de 25 anos de experiência no mercado segurador, com capital cem por cento português",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

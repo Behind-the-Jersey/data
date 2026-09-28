@@ -1,11 +1,14 @@
 {
   "id": "staffmatch",
   "name": "Staffmatch",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "staffmatch-newco",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by STAFFMATCH NEWCO (SAS), led by the private French holding VARGOS (president Vincent Rech). Nothing found.",
+  "claimIds": [
+    "staffmatch-vargos-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Owner chain checked: a private French SAS under VARGOS SAS; no state or state-fund link found."
 }

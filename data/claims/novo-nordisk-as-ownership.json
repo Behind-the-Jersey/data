@@ -1,0 +1,34 @@
+{
+  "id": "novo-nordisk-as-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "novo-nordisk-as",
+    "novo-holdings",
+    "novo-nordisk-foundation"
+  ],
+  "text": "Novo Nordisk A/S's unlisted A shares are held by Novo Holdings A/S, a Danish public limited liability company wholly owned by the Novo Nordisk Foundation; each A share carries 100 votes, giving the Foundation-controlled Novo Holdings the controlling vote.",
+  "short": "Novo Holdings, owned by the Novo Nordisk Foundation, holds Novo Nordisk's A shares.",
+  "source": {
+    "name": "Novo Nordisk A/S - Share and ownership structure (novonordisk.com)",
+    "date": "2024-11-08",
+    "url": "https://www.novonordisk.com/investors/stock-information/share-and-ownership-structure.html",
+    "quote": "The company’s A shares are not listed and are held by Novo Holdings A/S, a Danish public limited liability company wholly owned by the Novo Nordisk Foundation",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Novo Holdings - About (novoholdings.com)",
+      "date": "2026",
+      "url": "https://novoholdings.com/about/",
+      "quote": "Novo Holdings is the controlling shareholder of Novo Nordisk A/S",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
