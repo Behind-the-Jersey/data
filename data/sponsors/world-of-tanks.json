@@ -1,11 +1,17 @@
 {
   "id": "world-of-tanks",
   "name": "World of Tanks",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "wargaming-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Game developed by Wargaming, controlled by founder Victor Kislyi. Nothing found.",
+  "claimIds": [
+    "world-of-tanks-wargaming-kislyi-ownership"
+  ],
+  "aliases": [
+    "Wargaming",
+    "WorldofTanks"
+  ],
+  "note": "Rating note: Wargaming is a private Cyprus-based company; press reporting (Bloomberg via GameSpot, 2016) put control with Victor Kislyi (64% direct plus his father's 25.5%). No state or fund ownership found, no human-rights finding found. Kislyi-stake figures date from 2016."
 }

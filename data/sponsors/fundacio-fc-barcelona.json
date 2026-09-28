@@ -3,9 +3,14 @@
   "name": "Fundacio FC Barcelona",
   "ownerId": "fundacio-fc-barcelona",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by the Fundació FC Barcelona (Barça Foundation), created in 1994 and funded mainly by the Club, players and external financiers. Nothing found.",
+  "claimIds": [
+    "fundacio-fc-barcelona-ownership"
+  ],
+  "aliases": [
+    "Barca Foundation"
+  ],
+  "note": "Rating note: The back-of-shirt placement is the club's own charitable foundation logo (replacing UNHCR/ACNUR), a self-promotional charitable placement like Sevilla's Fundacion 1890; not a state or fund sponsor."
 }

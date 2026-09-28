@@ -4,8 +4,24 @@
   "ownerId": "government-of-dr-congo",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "status": "being-rated",
+  "verdict": "Paid for by the DR Congo state: the sleeve brand is the government's sports and tourism-promotion brand, run with the Ministry of Sports and Leisure.",
+  "claimIds": [
+    "rd-congo-brand-ownership",
+    "dr-congo-security-forces"
+  ],
+  "aliases": [
+    "RD Congo Coeur de l'Afrique"
+  ],
+  "ownerVerb": "paid for by",
+  "why": {
+    "text": "'R.D.Congo : Cœur de l'Afrique' is the state's own promotion brand, run with the Ministry of Sports and Leisure. Human Rights Watch reports that Congolese security forces used excessive force against protesters in June 2026, and Amnesty International reports that an army-backed armed group killed and tortured civilians in Rutshuru territory. A Ligue 1 sleeve helps the state present a friendly face while that goes on.",
+    "claimIds": [
+      "rd-congo-brand-ownership",
+      "dr-congo-security-forces"
+    ],
+    "messageLine": "HRW reports Congolese security forces used excessive force against protesters in June 2026; Amnesty reports army-backed abuses in Rutshuru.",
+    "status": "draft"
+  },
+  "note": "Rating note: ON HOLD: state-owned brand with a sourced record of abuses by that state (HRW, Amnesty) — proposed serious, awaiting a maintainer's tier."
 }

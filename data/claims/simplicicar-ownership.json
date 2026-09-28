@@ -1,0 +1,31 @@
+{
+  "id": "simplicicar-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "simplicicar-france"
+  ],
+  "text": "Simplicicar is operated by Simplicicar France (SIREN 814099040), whose registry entry lists founder Yoni Dayan (born 1985) as company leader; AS Monaco's partners page describes the network as founded in 2011 by Yoni Dayan.",
+  "source": {
+    "name": "Annuaire des Entreprises / recherche-entreprises.api.gouv.fr — Simplicicar France (SIREN 814099040)",
+    "date": "2026",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=814099040&page=1&per_page=1",
+    "quote": "\"nom\":\"DAYAN\",\"prenoms\":\"YONI\",\"annee_de_naissance\":\"1985\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AS Monaco — Les partenaires de l'AS Monaco",
+      "date": "2026",
+      "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco",
+      "quote": "Fondé en 2011 par Yoni Dayan, Simplicicar est un réseau spécialisé dans la vente et l'achat de véhicules d'occasion",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

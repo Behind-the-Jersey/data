@@ -1,11 +1,15 @@
 {
   "id": "triangle-interim",
   "name": "Triangle Intérim",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-jm",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by GROUPE JM (listed as its 'Président de SAS' in the French registry). Nothing found.",
+  "claimIds": [
+    "triangle-interim-ownership"
+  ],
+  "aliases": [
+    "Triangle Interim Solutions RH"
+  ]
 }

@@ -1,11 +1,17 @@
 {
   "id": "blot-immobilier",
   "name": "Blot Immobilier",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "blot-groupe",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Rennes real-estate group dating from 1968, led by members of the Blot family according to the company register; official sponsor of Stade Rennais since 2010. Nothing found.",
+  "claimIds": [
+    "blot-family-ownership"
+  ],
+  "aliases": [
+    "Groupe Blot",
+    "Blot"
+  ],
+  "note": "Company register: David Blot président, Sandra Blot vice-présidente, a conseil de surveillance of three Blot family members and Didier Ferre. No state or state fund appears in the sources."
 }
