@@ -1,16 +1,29 @@
 {
   "id": "malaga-sabor-a-malaga",
   "clubId": "malaga",
-  "orgName": null,
+  "orgName": "Diputación Provincial de Málaga",
   "sponsorId": "sabor-a-malaga",
   "placement": "front",
   "from": "2026-27",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-    "date": "2026-09-06",
-    "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+  "value": {
+    "amount": 1500000,
+    "currency": "EUR",
+    "unit": "total",
+    "per": "season",
+    "upTo": false,
+    "usdApprox": 1650000
   },
-  "note": "Value not disclosed."
+  "source": {
+    "name": "Málaga Hoy: Sabor a Málaga y Turismo Costa del Sol lucirán con el Málaga CF por 1,5 millones (archived)",
+    "date": "2026-07-02",
+    "url": "https://web.archive.org/web/20260703034710if_/https://www.malagahoy.es/malaga_cf/sabor-malaga-turismo-costa-sol_0_2007270420.html",
+    "quote": "entre ambas entidades, los ingresos alcanzarán los 1,5 millones de euros",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "The 1.5 million euros covers both Diputación brands combined: Sabor a Málaga on the shirt front and Turismo Costa del Sol on the back of the shorts. Press estimate, not a club disclosure."
+  },
+  "note": "Reported value is the combined Sabor a Málaga + Turismo Costa del Sol sponsorship of the Diputación de Málaga for the return to Primera División; the split between the two brands is not published."
 }
