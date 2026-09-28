@@ -2,26 +2,26 @@
   "id": "altibox-ownership",
   "kind": "ownership",
   "ownerIds": [
-    "lyse-tele-as"
+    "lyse-as"
   ],
-  "text": "Altibox, the Norwegian fibre broadband brand, has since April 2024 been a brand within Lyse Tele AS, a subsidiary of the Lyse group; until then Altibox AS was a wholly owned Lyse subsidiary.",
-  "short": "Altibox is a brand within Lyse Tele AS.",
+  "text": "The Lyse group calls Altibox and Ice its brands (\"våre merkevarer\"); a 2018 Lyse announcement names the Lyse group as Altibox's owner.",
+  "short": "Altibox is a brand of the Lyse group.",
   "source": {
-    "name": "Wikipedia (Norwegian): Altibox",
+    "name": "Lyse: Om Lyse-konsernet",
     "date": "2026",
-    "url": "https://no.wikipedia.org/wiki/Altibox",
-    "quote": "fra april 2024 en merkevare innenfor datterselskapet Lyse Tele AS",
+    "url": "https://www.lyse.com/om-oss",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
-    }
+    },
+    "quote": "Nasjonalt er vi ledende på fiberbasert bredbånd og på mobiltjenester er vi tredje størst i landet – med våre merkevarer Altibox og Ice."
   },
   "additionalSources": [
     {
-      "name": "Wikipedia (Norwegian): Lyse-konsernet",
-      "date": "2026",
-      "url": "https://no.wikipedia.org/wiki/Lyse_Energi",
-      "quote": "Lyse Tele forvalter merkevarene Altibox og ice",
+      "name": "Lyse: Altibox forlenger avtale med Norsk Toppfotball",
+      "date": "2018-09-06",
+      "url": "https://www.lyse.com/om-oss/nyhetsarkiv/altibox-forlenger-avtale-med-norsk-toppfotball",
+      "quote": "Det var første gang at Altibox og selskapets eier, Lyse-konsernet, inngikk en nasjonal sponsoravtale av et slikt omfang.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"

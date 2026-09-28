@@ -1,11 +1,11 @@
 {
   "id": "altibox",
   "name": "Altibox",
-  "ownerId": "lyse-tele-as",
+  "ownerId": "lyse-as",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "A fibre broadband brand of Lyse Tele, part of the Lyse group owned by 15 Norwegian municipalities; public regional owners without a sourced record.",
+  "verdict": "A fibre broadband brand of the Lyse group, which is wholly owned by 15 Norwegian municipalities. Nothing found.",
   "claimIds": [
     "altibox-ownership",
     "lyse-as-ownership"
@@ -13,5 +13,5 @@
   "aliases": [
     "altibox"
   ],
-  "note": "Rating note: Left-sleeve patch (black circle with white altibox wordmark). Lyse AS is owned by 15 municipalities; state ownership alone is not a tier (METHOD.md) and no record was found for the owner municipalities, so 'none'."
+  "note": "Rating note: Eliteserien's league partner, on the right arm of Bodø/Glimt's 2026 shirt. Lyse AS is owned by 15 municipalities; public owners without a sourced record of abuses are not a tier (METHOD.md), so 'none'."
 }

@@ -14,7 +14,7 @@
   "aliases": [
     "Elkem ASA"
   ],
-  "note": "Rating note: ON HOLD: proposed 'concern' - Elkem ASA is 52.9% owned through Bluestar Elkem International, controlled by Sinochem Holdings, a Chinese central state-owned enterprise (SASAC directory entry 43); the Chinese state's record rests on the UN OHCHR Xinjiang assessment and HRW 2026. State ownership alone is not a tier; the proposal awaits maintainer review.",
+  "note": "Rating note: ON HOLD. The PR proposed 'concern' because Elkem ASA was 52.9% owned through Bluestar Elkem International, controlled by Sinochem Holdings (a Chinese central state-owned enterprise). Bluestar's shares were redeemed on 30 April 2026 and it is no longer a shareholder (elkem-asa-ownership), so that link no longer holds for the 2026 shirt: the draft 'why' needs a maintainer's re-rating.",
   "why": {
     "text": "Elkem belongs to China National Bluestar, which is controlled by Sinochem Holdings, a central state-owned enterprise of China. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So part of the money behind Elkem is the Chinese state’s.",
     "claimIds": [

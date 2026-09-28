@@ -3,17 +3,15 @@
   "kind": "ownership",
   "ownerIds": [
     "elkem-asa",
-    "bluestar-elkem-international",
-    "china-national-bluestar",
-    "sinochem-holdings"
+    "bluestar-elkem-international"
   ],
-  "text": "Elkem ASA, an Oslo Stock Exchange-listed company, is owned 52.9 per cent by Bluestar Elkem International Co. Ltd S.A. of Luxembourg, which is owned by China National Bluestar and under the control of Sinochem Holdings Co., Ltd, a Chinese state-owned chemicals group.",
-  "short": "Elkem ASA is majority-owned by Bluestar Elkem International, controlled by Sinochem Holdings.",
+  "text": "Elkem completed the sale of most of its Silicones division to China's Bluestar on 30 April 2026, settled by redeeming all of Bluestar's 338,338,536 shares (52.9%) in Elkem; Bluestar is no longer a shareholder, and Elkem's minority investors assumed 100% control of the listed company.",
+  "short": "Elkem's former 52.9% owner, China's Bluestar, left in April 2026.",
   "source": {
-    "name": "Elkem ASA - Integrated Annual Report 2025, note 1 (General information)",
-    "date": "2026-03",
-    "url": "https://www.elkem.com/globalassets/corporate/documents/annual-report/2025/elkem-asa---integrated-annual-report-2025.pdf",
-    "quote": "Elkem ASA is owned 52.9 per cent by Bluestar Elkem International Co. Ltd S.A., Luxembourg, which is under the control of Sinochem Holdings Co., Ltd (Sinochem), a company registered and domiciled in China.",
+    "name": "Elkem: Elkem has sold majority of Silicones division to Bluestar",
+    "date": "2026",
+    "url": "https://www.elkem.com/transaction/",
+    "quote": "Transaction settled through redemption of Bluestar’s 338,338,536 shares (52.9%) in Elkem. No cash payments by Elkem nor Bluestar as settlement Minority investors assumed 100% control of Elkem (listed)",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
@@ -21,10 +19,10 @@
   },
   "additionalSources": [
     {
-      "name": "Wikipedia: Elkem",
-      "date": "2026",
-      "url": "https://en.wikipedia.org/wiki/Elkem",
-      "quote": "China National Bluestar (52.91%) is the largest shareholder, ahead of Folketrygdfondet (4.28%) and Must Invest (3.07%)",
+      "name": "European Rubber Journal: Elkem completes Silicones sale to Bluestar",
+      "date": "2026-05-05",
+      "url": "https://www.european-rubber-journal.com/article/2099145/elkem-completes-silicones-sale-to-bluestar",
+      "quote": "the transaction announced in February had been completed, alongside the redemption of all of Bluestar’s 338,338,536 shares in Elkem. As a result, Bluestar is no longer a shareholder in the group.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
