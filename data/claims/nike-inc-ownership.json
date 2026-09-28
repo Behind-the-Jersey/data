@@ -1,0 +1,32 @@
+{
+  "id": "nike-inc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nike-inc"
+  ],
+  "text": "NIKE, Inc. registers its Class B Common Stock (symbol NKE) on the New York Stock Exchange; Swoosh, LLC holds 221,750,000 Class A shares, 78.8% of that class, and Class A shareholders elect 8 of the 11 directors, so the Knight family, which owns Swoosh LLC, controls the election of most of the board.",
+  "short": "NIKE, Inc. is NYSE-listed (NKE); the Knight family controls 78.8% of Class A via Swoosh LLC and elects 8 of 11 directors.",
+  "source": {
+    "name": "NIKE, Inc. Form 10-K for fiscal year ended May 31, 2026 (SEC cover page)",
+    "date": "2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm",
+    "quote": "SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: Class B Common Stock NKE New York Stock Exchange",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "NIKE, Inc. 2026 Proxy Statement: Stock Holdings of Certain Owners and Management",
+      "date": "2026-07-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm",
+      "quote": "Swoosh, LLC 22990 NW Bennett Street, Hillsboro, OR 97124 Class A 221,750,000 (11) 78.8 %",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
