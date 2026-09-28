@@ -1,0 +1,45 @@
+{
+  "id": "misli-elektronik-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "misli-elektronik",
+    "demiroren-holding"
+  ],
+  "text": "The Misli app on the App Store lists MISLI ELEKTRONIK SANS OYUNLARI VE YAYINCILIK ANONIM SIRKETI as its developer. Demirören Holding's website lists Misli among its gaming businesses: it says Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş. is a legal electronic dealer set up under a 15 July 2009 contract with the Spor Toto Organization, and that Misli has grown with an investment it received from Demirören Holding in 2019. Futbol Medya reported in January 2019 that the Demirören group was bidding for misli.com, then owned by Hazar Büyüka.",
+  "short": "misli.com is run by Misli Elektronik, which received an investment from Demirören Holding in 2019.",
+  "source": {
+    "name": "Şans Oyunları | Demirören Holding",
+    "date": "2026",
+    "url": "https://www.demiroren.com.tr/faaliyet-alanlari/sans-oyunlari/",
+    "note": "Same page: \"15 Temmuz 2009 tarihinde Spor Toto Teşkilatı ile yapılan sözleşme ile, spor müsabakalarına dayalı sabit ihtimalli bahis oyunlarını üyelerine sunmak üzere kurulmuş, yasal elektronik bayiidir\".",
+    "quote": "Pazar lideri olma hedefiyle, 2019 yılında Demirören Holding’den aldığı yatırımla hızla ilerleyen Misli; pazara getirdiği yeni ürün özellikleri, oyuncuyu merkeze alan ‘Oyun Deneyimi’ yaklaşımı, yenilikçi kampanyaları ile şans oyunları ve sabit ihtimalli bahis oyunları konusunda iddiasını ortaya koymaktadır.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Misli – İddaa & At Yarışı (Apple App Store)",
+      "date": "2026",
+      "url": "https://apps.apple.com/tr/app/misli-i-ddaa-canl%C4%B1-bahis/id531126816?l=tr",
+      "quote": "Geliştirici MISLI ELEKTRONIK SANS OYUNLARI VE YAYINCILIK ANONIM SIRKETI",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Futbol Medya: Medyadan sonra bahis dünyasında da değişim başladı. Demirören Grubu, misli.com’u satın alıyor",
+      "date": "2019-01-29",
+      "url": "https://www.futbolmedya.com/medyadan-sonra-bahis-dunyasinda-da-degisim-basladi-demiroren-grubu-misli-comu-da-satin-aliyor/",
+      "quote": "Demirören Grup, Türkiye’de internet üzerinden bahis oynatan 6 bahis sitesinden biri olan misli.com’a talip oldu",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same article: \"Hazar Büyüka’nın sahibi olduğu misli.com’u satın alırsa bahis oynatma yetkisine sahip olacak\"."
+    }
+  ],
+  "reviewed": false
+}

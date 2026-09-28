@@ -1,0 +1,21 @@
+{
+  "id": "ni-ke-spol-sro-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ni-ke-spol-sro"
+  ],
+  "text": "NIKÉ, spol. s r.o. is a private limited liability company (Slovak sro) whose partners are three individuals: MUDr. Robert Mardiak (deposit 510,000 EUR), Adriana Borutová (323,000 EUR) and Ing. Roman Berger (867,000 EUR), per the commercial register of the City Court Bratislava III.",
+  "short": "Niké is a private Slovak company owned by three individuals (Mardiak, Borutová, Berger).",
+  "source": {
+    "name": "Slovak Commercial Register (orsr.sk) — extract for N I K É, spol. s r.o., City Court Bratislava III, Oddiel Sro, vložka 309/B",
+    "date": "2026-09-28",
+    "url": "https://www.orsr.sk/vypis.asp?ID=2741&SID=2&P=0&lan=en",
+    "quote": "Partners: MUDr. Robert Mardiak Date of birth: 08/06/1942 (from: 02/17/2021) Adriana Borut",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "The register extract's 'Legal form: Private limited liability company' line and the full partners block (Mardiak, Borutová, Berger, with deposits of 510,000 / 323,000 / 867,000 EUR of 1,700,000 EUR share capital and no state or state-fund shareholder) support the claim. The quote is truncated where the page's encoding drops accented characters (Borutová); the same page text continues 'Ing. Roman Berger Date of birth: 07/24/1965'."
+  },
+  "reviewed": false
+}

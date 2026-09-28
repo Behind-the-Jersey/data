@@ -1,0 +1,32 @@
+{
+  "id": "scc-heineken-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sociedade-central-cervejas"
+  ],
+  "text": "Sociedade Central de Cervejas e Bebidas (SCC), the brewer of the Sagres brand, was acquired by the Heineken Group in April 2008, which took 100% control of the company following the purchase of Scottish and Newcastle.",
+  "short": "SCC (Sagres) is 100% owned by Heineken since 2008.",
+  "source": {
+    "name": "Sociedade Central de Cervejas, 'Estrutura Orgânica' (corporate site)",
+    "date": "2026",
+    "url": "https://www.centralcervejas.pt/pt/sobre-nos/estrutura-organica/",
+    "quote": "O Grupo SCC foi adquirido, em Abril de 2008, pelo Grupo HEINEKEN, grupo cervejeiro líder europeu e uma das maiores empresas do Mundo, que passou a deter o controlo a 100% da empresa.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Sociedade Central de Cervejas, 'About us / SCC' (corporate site, English)",
+      "date": "2026",
+      "url": "https://www.centralcervejas.pt/en/about-us/scc/",
+      "quote": "Heineken took over the control of Sociedade Central de Cervejas e Bebidas (SCC) on April 29, 2008.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

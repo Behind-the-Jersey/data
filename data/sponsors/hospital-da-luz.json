@@ -1,19 +1,19 @@
 {
   "id": "hospital-da-luz",
   "name": "Hospital da Luz (Luz Saude)",
-  "ownerId": "luz-saude",
+  "ownerId": "fidelidade",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "A brand of Luz Saúde, controlled by Fidelidade (Fosun 84.9892%, state-owned CGD a passive 15%). Nothing found.",
+  "verdict": "Run by Luz Saúde, 60% owned by the insurer Fidelidade (84.99% Fosun Group, 15% the Portuguese state bank CGD). Nothing found.",
   "claimIds": [
-    "hospital-da-luz-luz-saude-ownership",
-    "luz-saude-fidelidade-ownership",
-    "fidelidade-fosun-ownership"
+    "fidelidade-ownership",
+    "fosun-international-shareholders",
+    "luz-saude-fidelidade-ownership"
   ],
   "aliases": [
     "luz saude",
     "hospital da luz"
   ],
-  "note": "Rating note: chain is Hospital da Luz (brand) -> Luz Saúde, S.A. -> Fidelidade (majority; 40% to Macquarie's MEIF 7 since Jan 2026) -> Fosun International 84.9892% / CGD 15%. The 15% CGD stake is below the 5%-rule only by being state-linked: state ownership alone is not a tier, and no sourced serious-abuse record was found for the chain. Nothing sourced passes the test."
+  "note": "Portuguese private hospital group; front or sleeve sponsor at several clubs in 2026-27. Rating note: CGD, a bank owned by the Portuguese State, holds 15% of Fidelidade, about 9% of Luz Saúde along the chain, but no record of serious abuses by Portugal is recorded, and state ownership alone is not a tier. Fosun International's substantial shareholders are only Fosun Holdings/Fosun International Holdings (72.78%, owned by Guo Guangchang and Wang Qunbin), so no state holds 5% of it; Fidelidade calls Fosun Group a Chinese private conglomerate. The other 40% of Luz Saúde is held by Macquarie European Infrastructure Fund 7, whose investors aren't sourced."
 }

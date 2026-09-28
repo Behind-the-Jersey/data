@@ -1,0 +1,42 @@
+{
+  "id": "air-europa-globalia-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "globalia"
+  ],
+  "text": "The Hidalgo family, through Globalia, is Air Europa's majority shareholder: in January 2026 it held 54%, with Turkish Airlines at 26% and IAG at 20%. Turkish Airlines' minority stake, formalised in November 2025 with a EUR300 million investment, was approved by Spain's council of ministers and in June 2026 awaited approval from the European Commission.",
+  "short": "Air Europa is 54% the Hidalgo family's (through Globalia), 26% Turkish Airlines, 20% IAG",
+  "source": {
+    "name": "El Español: Juan José Hidalgo (Globalia): “Turkish me ha dado el dinero y el poder de seguir gobernando Air Europa”",
+    "date": "2026-01-16",
+    "url": "https://www.elespanol.com/invertia/empresas/turismo/20260116/juan-jose-hidalgo-globalia-turkish-dado-dinero-poder-seguir-gobernando-air-europa/1003744091828_0.html",
+    "quote": "La familia Hidalgo mantiene el control de Air Europa, con un 54% de participación, mientras que Turkish Airlines tiene el 26% e IAG el 20%.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "El Conciso: Juan José Hidalgo mantendrá el control total de Air Europa pese a la entrada de Turkish Airlines como accionista",
+      "date": "2025-12-15",
+      "url": "https://www.elconciso.es/empresas/juan-jose-hidalgo-air-europa-turkish-airlines-accionista_0_2005463716.html",
+      "quote": "La familia Hidalgo, a través de Globalia, continuará siendo el accionista mayoritario de la compañía mientras que IAG conservará su participación actual mediante la compra de acciones a Globalia.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "ch-aviation: Spain okays Turkish Airlines stake in Air Europa",
+      "date": "2026-06-10",
+      "url": "https://www.ch-aviation.com/news/168132-spain-okays-turkish-airlines-stake-in-air-europa",
+      "quote": "Turkish Airlines' bid for a minority stake in Air Europa was formalised in November 2025 with a EUR300 million (USD347 million) investment. The acquisition now awaits approval from the European Commission.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

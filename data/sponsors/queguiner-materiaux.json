@@ -1,11 +1,17 @@
 {
   "id": "queguiner-materiaux",
   "name": "Quéguiner Matériaux",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-queguiner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The materials company of the Breton Groupe Quéguiner, a family company set up in 1948 at Landivisiau and chaired by Clément Quéguiner; a Stade Brestois 29 sponsor since 2000. Nothing found.",
+  "claimIds": [
+    "queguiner-family-ownership"
+  ],
+  "aliases": [
+    "Quéguiner Matériaux",
+    "Groupe Quéguiner"
+  ],
+  "note": "Rating note: the company register lists GROUPE QUEGUINER as Président of Quéguiner Matériaux, and Clément Quéguiner (Président de SAS) with Bertrand and Claude Quéguiner (Directeurs Généraux) at the holding; the group calls itself a family company. No state or fund stake found → none."
 }

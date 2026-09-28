@@ -1,0 +1,21 @@
+{
+  "id": "kleber-michelin-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kleber",
+    "compagnie-generale-des-etablissements-michelin"
+  ],
+  "text": "Kleber's own history page states, in its 1980 entry, that Michelin became majority shareholder of Kleber.",
+  "short": "Kleber is a Michelin brand: Michelin became its majority shareholder.",
+  "source": {
+    "name": "Kleber – L'histoire des pneus Kleber (kleber.fr)",
+    "date": "2026-09-28",
+    "url": "https://www.kleber.fr/auto/a-propos-des-pneus-kleber",
+    "quote": "Michelin devient actionnaire majoritaire.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

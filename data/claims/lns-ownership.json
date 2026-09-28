@@ -1,0 +1,32 @@
+{
+  "id": "lns-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lns"
+  ],
+  "text": "Leonhard Nilsen & Sønner AS (LNS) is a Norwegian family-owned (familieeid) contractor working in tunnelling, mining and mass handling, as described on Bodø/Glimt's own partner page.",
+  "short": "LNS is a Norwegian family-owned contractor.",
+  "source": {
+    "name": "Bodø/Glimt - Partnere (glimt.no partner page)",
+    "date": "2026",
+    "url": "https://www.glimt.no/partnereny",
+    "quote": "Leonhard Nilsen & Sønner AS (LNS) er et norsk, familieeid entreprenørselskap innen tunnel, gruvedrift og masseflytting",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Brønnøysund Register Centre - entity record 937843771 LEONHARD NILSEN & SØNNER AS (open data API)",
+      "date": "2026",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/937843771",
+      "quote": "\"navn\":\"LEONHARD NILSEN & SØNNER AS\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

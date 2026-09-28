@@ -1,0 +1,55 @@
+{
+  "id": "hubert-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kermasport",
+    "kerhupert"
+  ],
+  "text": "Le Rond Central (lerondcentral.fr), a sports-equipment shop that calls itself an official supplier of Stade Brestois 29, is published by SAS KERMASPORT (RCS Brest 489 019 547, 69 rue Amiral Romain-Desfosses, Brest). The company register lists KERHUPERT (SIREN 990088437, SARL) as Président de SAS of KERMASPORT, and Geoffrey Julien Louis Hubert and Marie-Bénédicte Claire Hubert (Pons) as the gérants of KERHUPERT.",
+  "short": "Le Rond Central is published by Kermasport, whose Président is Kerhupert, managed by Geoffrey Hubert and Marie-Bénédicte Hubert.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), KERMASPORT, SIREN 489019547",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=489019547&per_page=1",
+    "quote": "\"dirigeants\":[{\"siren\":\"990088437\",\"denomination\":\"KERHUPERT\",\"qualite\":\"Président de SAS\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: nature juridique 5710 (SAS), siège 69 rue Amiral Romain-Desfosses, 29200 Brest."
+  },
+  "additionalSources": [
+    {
+      "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), KERHUPERT, SIREN 990088437",
+      "date": "2026-09-28",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=990088437&per_page=1",
+      "quote": "\"nom\":\"HUBERT\",\"prenoms\":\"GEOFFREY JULIEN LOUIS\",\"annee_de_naissance\":\"1990\",\"date_de_naissance\":\"1990-06\",\"qualite\":\"Gérant\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same response: HUBERT (PONS) Marie-Bénédicte Claire is the second Gérant; nature juridique 5499 (SARL), created 2025-08-05."
+    },
+    {
+      "name": "Mentions légales - Le Rond Central",
+      "date": "2026",
+      "url": "https://www.lerondcentral.fr/mentions-legales",
+      "quote": "édité par la SAS KERMASPORT au Capital de 475 700,00 € Dont le siège social est 69 RUE AMIRAL ROMAIN DESFOSSES – 29200 BREST, Immatriculée au RCS de Brest sous le n° 489 019 547.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Le Rond Central | Équipements sportifs Nike & Adidas",
+      "date": "2026",
+      "url": "https://www.lerondcentral.fr/",
+      "quote": "Fournisseur officiel du Stade Brestois 29",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

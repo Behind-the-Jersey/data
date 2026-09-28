@@ -9,52 +9,92 @@
   "photos": {},
   "sponsors": [
     {
+      "sponsorId": "new-balance",
+      "placement": "partner",
+      "source": {
+        "name": "LOSC – Entre modernité et légende : découvrez le maillot domicile LOSC 26-27",
+        "date": "2026-07-03",
+        "url": "https://www.losc.fr/actualites/2026-07-03/entre-modernite-et-legende-decouvrez-le-maillot-domicile-losc-26-27",
+        "quote": "le LOSC et New Balance ont imaginé un maillot domicile chargé en symboles et en Histoire",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
       "sponsorId": "boulanger",
       "placement": "front",
       "source": {
-        "name": "LOSC — Partenaires",
-        "date": "2026",
-        "url": "https://www.losc.fr/partenaires"
-      }
-    },
-    {
-      "sponsorId": "actual-group",
-      "placement": "front",
-      "source": {
-        "name": "LOSC — Partenaires",
-        "date": "2026",
-        "url": "https://www.losc.fr/partenaires"
-      }
-    },
-    {
-      "sponsorId": "toyota",
-      "placement": "back",
-      "source": {
-        "name": "LOSC — Partenaires",
-        "date": "2026",
-        "url": "https://www.losc.fr/partenaires"
+        "name": "433FC — Ligue 1 2026/27 Shirt Sponsors: Every Club's Main Sponsor & Kit Maker",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/ligue-1-2026-27-shirt-sponsors/",
+        "note": "Row of the table of each 2026/27 Ligue 1 club's main shirt sponsor and kit manufacturer. The club's announcement of 25 June 2023 put Boulanger on the front of the shirt from 2023-24 for three seasons.",
+        "quote": "Lille OSC Boulanger New Balance",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "aushopping",
       "placement": "back",
       "source": {
-        "name": "LOSC — Partenaires",
-        "date": "2026",
-        "url": "https://www.losc.fr/partenaires"
+        "name": "LOSC – LOSC x Aushopping V2 : un lien renforcé",
+        "date": "2025-07-11",
+        "url": "https://www.losc.fr/actualites/2025-07-11/losc-x-aushopping-v2-un-lien-renforce",
+        "quote": "Aushopping V2 apparaitra dès le premier match de la saison sur le haut du dos du maillot des Dogues en Ligue 1 McDonald's, mais également sur la manche des joueuses en D2 Féminine.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "toyota",
+      "placement": "back",
+      "source": {
+        "name": "LOSC – Toyota en France, nouveau partenaire Premium du LOSC",
+        "date": "2025-08-01",
+        "url": "https://www.losc.fr/actualites/2025-08-01/toyota-en-france-nouveau-partenaire-premium-du-losc",
+        "quote": "une présence du célèbre constructeur automobile sur le maillot des Dogues en Ligue 1 McDonald's, en bas du dos",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "etoro",
       "placement": "sleeve",
       "source": {
-        "name": "LOSC — Partenaires",
-        "date": "2026",
-        "url": "https://www.losc.fr/partenaires"
+        "name": "LOSC – eToro, partenaire Premium du LOSC jusqu'en 2028",
+        "date": "2026-01-15",
+        "url": "https://www.losc.fr/actualites/2026-01-15/etoro-partenaire-premium-du-losc-jusquen-2028",
+        "quote": "eToro apparait depuis plusieurs mois sur la manche gauche du maillot des Dogues en Ligue 1 McDonald's",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "kleber",
+      "placement": "patch",
+      "source": {
+        "name": "LOSC – Kléber devient partenaire Premium du LOSC",
+        "date": "2026-08-28",
+        "url": "https://www.losc.fr/actualites/2026-08-25/kleber-devient-partenaire-premium-du-losc",
+        "quote": "KLEBER s'affiche également sur la « pocket » gauche du maillot des Dogues en Ligue 1 McDonald's, ainsi qu'en D2 Féminine",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "New Balance kit. Boulanger front; eToro on the sleeve.",
+  "summary": "New Balance kit. Boulanger on the front; Aushopping V2 upper back, Toyota lower back; eToro on the left sleeve; Kléber on the left pocket. Not marked complete: each placement comes from a separate announcement and no cited source lists every placement on the shirt.",
   "change": null
 }
