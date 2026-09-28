@@ -1,0 +1,31 @@
+{
+  "id": "sonepar-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sonepar"
+  ],
+  "text": "Sonepar is an independent, family-owned French company: its family shareholders, brought together within the holding Colam Entreprendre, and its associate shareholders hold all of the company's share capital via their respective holding companies, per Sonepar's own website.",
+  "source": {
+    "name": "Sonepar, corporate website: Governance – A Family-Owned Company",
+    "date": "2026",
+    "url": "https://www.sonepar.com/en/about/governance",
+    "quote": "Together, the Group’s family shareholders and associates hold all the company’s share capital via their respective holding companies",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipedia: Sonepar (History)",
+      "date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Sonepar",
+      "quote": "The family holding Colam Entreprendre, owner of Sonepar and syndicating inheriting descendants of the Coisne and Lambert families, was created in 2000.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

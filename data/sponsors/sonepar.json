@@ -3,9 +3,12 @@
   "name": "Sonepar",
   "ownerId": "sonepar",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Sonepar (independent, family-owned French group; family shareholders via Colam Entreprendre hold all the share capital). Nothing found.",
+  "claimIds": [
+    "sonepar-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private family-owned group (Coisne/Lambert families via Colam Entreprendre), not listed. Borussia Moenchengladbach's shirt-sleeve partner since 2020/21, extended to 2029. No state or fund in the chain; no sourced serious-abuse record found."
 }

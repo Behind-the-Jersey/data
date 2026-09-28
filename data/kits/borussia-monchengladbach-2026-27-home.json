@@ -9,22 +9,18 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "hylo",
-      "placement": "front",
-      "source": {
-        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-        "date": "2026-09-24",
-        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
-      }
-    },
-    {
       "sponsorId": "reuter",
       "placement": "front",
       "side": "front",
       "source": {
-        "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+        "name": "ran.de, Was die Hauptsponsoren den 18 Klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
         "date": "2026-08",
-        "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+        "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665",
+        "quote": "Borussia Mönchengladbach Hauptsponsor: Reuter Vertragslaufzeit: seit 2024, bis 2027 Summe: 8 Millionen Euro pro Jahr",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -32,13 +28,18 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "Wikipedia, Fußball-Bundesliga 2026/27 (Trikotsponsor/Ärmelsponsor table, Stand 20. September 2026, lt. kicker.de)",
+        "date": "2026-09-20",
+        "url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bundesliga_2026/27",
+        "quote": "Borussia Mönchengladbach Borussia-Park 54.042 101.759 0 50.880 94,15 % 0/2 Reuter Sonepar Puma",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "summary": null,
   "change": null
 }
