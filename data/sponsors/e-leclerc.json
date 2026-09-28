@@ -1,11 +1,18 @@
 {
   "id": "e-leclerc",
   "name": "E.Leclerc",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "e-leclerc-mouvement",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "France's cooperative of independent E.Leclerc merchant-owners ('une coopérative de commerçants rassemblés sous une même enseigne'), founded by Édouard Leclerc at Landerneau in 1949. Nothing found.",
+  "claimIds": [
+    "leclerc-cooperative-ownership"
+  ],
+  "aliases": [
+    "E.Leclerc",
+    "Mouvement E.Leclerc",
+    "Leclerc"
+  ],
+  "note": "Rating note: a cooperative of independent merchant-owners (member ownership, like a mutual: the DEVK precedent); no state or fund stake found → none."
 }

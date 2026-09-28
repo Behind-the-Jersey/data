@@ -1,0 +1,45 @@
+{
+  "id": "malo-sill-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "laiterie-de-saint-malo",
+    "sill-entreprises"
+  ],
+  "text": "The Malo website (malo.fr) is published by SILL ENTREPRISES (SAS, RCS Brest 636 220 220, Plouvien). The company register lists SILL ENTREPRISES as Président de SAS of LAITERIE DE SAINT MALO (SIREN 895780377, 9 rue du Clos du Noyer, Saint-Malo), with Henri León as Directeur Général. The club's partner page for Malo gives the same Saint-Malo address.",
+  "short": "The Malo dairy is chaired by SILL Entreprises, which also publishes the Malo website.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), LAITERIE DE SAINT MALO, SIREN 895780377",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=895780377&per_page=1",
+    "quote": "\"siren\":\"636220220\",\"denomination\":\"SILL ENTREPRISES\",\"qualite\":\"Président de SAS\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: LEON Henri is Directeur Général; nature juridique 5710 (SAS), siège 9 rue du Clos du Noyer, 35400 Saint-Malo."
+  },
+  "additionalSources": [
+    {
+      "name": "Stade Brestois 29: Partenaire : Malo",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/yaourt-malo/",
+      "quote": "PARTENAIRE Malo 9, rue du Clos du Noyer 35400 Saint-Malo",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The page lists Falc'hun Gilles, PDG, as contact."
+    },
+    {
+      "name": "Mentions légales - Malo",
+      "date": "2026",
+      "url": "https://www.malo.fr/mentions-legales/",
+      "quote": "Éditeur : SILL ENTREPRISES, SAS au Capital de 18 830 562,30 € Dont le siège social est Lieu-dit Le Raden 29860 PLOUVIEN, Immatriculée au RCS de Brest sous le n° 636 220 220.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
