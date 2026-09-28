@@ -1,0 +1,31 @@
+{
+  "id": "dr-congo-security-forces",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-dr-congo"
+  ],
+  "text": "Security forces of the DR Congo state used excessive force against protesters on 12 June 2026 (Human Rights Watch), and an armed group backed by the Congolese army (FARDC) killed and tortured civilians, looted property and abducted women as sexual slaves in Rutshuru territory (Amnesty International, June 2026).",
+  "source": {
+    "name": "Human Rights Watch — DR Congo: Crackdown on Protesters",
+    "date": "2026-07-09",
+    "url": "https://www.hrw.org/news/2026/07/09/dr-congo-crackdown-on-protesters",
+    "quote": "Security forces in the Democratic Republic of Congo used excessive force against protesters demonstrating against a proposed law that could extend President Félix Tshisekedi's term on June 12, 2026",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International — DRC: authorities must end support for armed group suspected of war crimes",
+      "date": "2026-06-25",
+      "url": "https://www.amnesty.org/en/latest/news/2026/06/drc-authorities-must-end-support-for-armed-group-suspected-of-war-crimes/",
+      "quote": "An armed group backed by the Congolese army (FARDC) has killed and tortured civilians, looted property, and abducted women as sexual slaves in Rutshuru territory in eastern Democratic Republic of Congo (DRC)",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

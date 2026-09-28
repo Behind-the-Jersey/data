@@ -1,11 +1,16 @@
 {
   "id": "lp-promotion",
   "name": "LP Promotion",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "lp-promotion-sas",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Toulouse property developer SAS LP Promotion. Nothing found.",
+  "claimIds": [
+    "lp-promotion-ownership"
+  ],
+  "aliases": [
+    "LP PROMOTION"
+  ],
+  "note": "Rating note: Private Toulouse property developer (SAS); its legal notices publish no shareholder information."
 }

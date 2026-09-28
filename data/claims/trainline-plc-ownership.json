@@ -1,0 +1,32 @@
+{
+  "id": "trainline-plc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "trainline-plc"
+  ],
+  "text": "Trainline plc's shares trade on the London Stock Exchange under the symbol TRN (IPO prospectus, June 2019). As at 25 September 2026 the company had been notified of these interests in its share capital: FIL Limited 14.32%, BlackRock, Inc. 6.15%, JPMorgan Asset Management Holdings Inc. 5.72%, Aviva plc 5.35%, J.P. Morgan Securities 5.05% and Ninety One UK Ltd 5.04%.",
+  "source": {
+    "name": "Trainline plc: Major shareholders",
+    "date": "2026-09-25",
+    "url": "https://www.trainlinegroup.com/investors/shareholder-centre/major-shareholders",
+    "quote": "As at 25 September 2026, the Company had been notified of the following direct or indirect interests of its share capital: Shareholder Voting rights (%) FIL Limited 14.32% BlackRock, Inc. 6.15%",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Trainline plc IPO Prospectus",
+      "date": "2019-06-13",
+      "url": "https://www.trainlinegroup.com/media/l2hkwxp4/trainline_prospectus.pdf",
+      "quote": "When admitted to trading, the Shares will be registered with ISIN number GB00BKDTK925 and SEDOL number BKDTK92 and trade under the symbol “TRN”.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Admission to the LSE Main Market was expected to become effective on 26 June 2019 (prospectus, page 5)."
+    }
+  ],
+  "reviewed": false
+}

@@ -1,11 +1,16 @@
 {
   "id": "acadomia",
   "name": "Acadomia",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "domia-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of Domia Group (AIS 2 SAS - ACADOMIA). Nothing found.",
+  "claimIds": [
+    "acadomia-domia-group-ownership"
+  ],
+  "aliases": [
+    "AIS 2 SAS"
+  ],
+  "note": "Rating note: Acadomia's own legal notice makes it a subsidiary of DOMIA GROUP SA. Metric Capital Partners lists the 2013 Fund I investment as Exited, so the current ownership above Domia Group is unclear; no state or fund control found, no human-rights finding found."
 }
