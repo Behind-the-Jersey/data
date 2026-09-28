@@ -1,0 +1,32 @@
+{
+  "id": "quooker-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "quooker"
+  ],
+  "text": "Quooker is a Dutch family business producing boiling-water taps and reservoirs, headquartered in Ridderkerk, where it was founded in 1987 by Henri Peteri. Since Henri Peteri's death in 2007 the company is owned by his sons Niels and Walter Peteri. It is a private limited company (besloten vennootschap); Feyenoord's own announcement calls it 'the well-known family business from Rotterdam, market leader in boiling-water taps'.",
+  "short": "Quooker: private family business owned by Niels and Walter Peteri.",
+  "source": {
+    "name": "Wikipedia (nl), 'Quooker'",
+    "date": "2026-09-28",
+    "url": "https://nl.wikipedia.org/wiki/Quooker",
+    "quote": "Het bedrijf is inmiddels eigendom van Henri's zoons Niels en Walter Peteri.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Feyenoord, 'Quooker verlengt partnership met Feyenoord' (Wayback capture of feyenoord.com)",
+      "date": "2026-06-17",
+      "url": "https://web.archive.org/web/20260617105841/https://www.feyenoord.com/nl/news/quooker-verlengt-partnership-met-feyenoord-170626",
+      "quote": "Het bekende familiebedrijf uit Rotterdam, marktleider op het gebied van kokendwaterkranen, blijft daardoor tot medio 2029 verbonden aan Feyenoord.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

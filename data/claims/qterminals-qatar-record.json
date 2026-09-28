@@ -1,0 +1,34 @@
+{
+  "id": "qterminals-qatar-record",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-qatar",
+    "mwani-qatar",
+    "qterminals"
+  ],
+  "text": "Human Rights Watch reports that Qatari authorities have failed to address serious labor violations: migrant workers, over 91 percent of Qatar's population, continue to face widespread abuse under the restrictive kafala sponsorship system, and employers confiscating passports and charging illegal recruitment fees remain common and largely unpunished.",
+  "short": "HRW: Qatar fails to address kafala labour abuses against migrant workers.",
+  "source": {
+    "name": "Human Rights Watch: World Report 2026, Qatar",
+    "date": "2026-02-04",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/qatar",
+    "quote": "Qatari authorities have failed to address serious labor violations.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International: Qatar 2025 (annual report country entry)",
+      "date": "2026",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/qatar/report-qatar/",
+      "quote": "Despite recent legal reforms, migrant workers continued to face labour abuses, including an exploitative kafala sponsorship system",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

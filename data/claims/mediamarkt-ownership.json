@@ -1,0 +1,33 @@
+{
+  "id": "mediamarkt-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "media-saturn-holding",
+    "ceconomy"
+  ],
+  "text": "MediaMarkt is a brand of Media-Saturn-Holding (MediaMarktSaturn Retail Group), headquartered in Ingolstadt, which bundles business under the MediaMarkt and Saturn brands and is part of Ceconomy AG. Ceconomy AG is a publicly traded company listed on the Frankfurt Stock Exchange (FWB: CEC, SDAX component); in July 2025 JD.com agreed to acquire Ceconomy for about 2.2 billion euros.",
+  "short": "MediaMarkt is a Media-Saturn brand; Media-Saturn is part of listed Ceconomy AG.",
+  "source": {
+    "name": "Wikipedia (en), 'Ceconomy'",
+    "date": "2026-04-25",
+    "url": "https://web.archive.org/web/20260425132112/https://en.wikipedia.org/wiki/Ceconomy",
+    "quote": "Media-Saturn-Holding (or MediaMarktSaturn Retail Group), headquartered in Ingolstadt, bundles business under the MediaMarkt and Saturn brands.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Feyenoord, 'Feyenoord en MediaMarkt verlengen tot 2030' (Wayback capture of feyenoord.com)",
+      "date": "2026-04-02",
+      "url": "https://web.archive.org/web/20260601164558/https://www.feyenoord.com/nl/news/feyenoord-en-mediamarkt-verlengen-tot-2030-020426",
+      "quote": "Het in april 2024 afgesloten hoofdpartnerschap met de grootste elektronicaketen van Europa is tot medio 2030 verlengd.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
