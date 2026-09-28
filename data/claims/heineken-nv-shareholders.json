@@ -1,0 +1,21 @@
+{
+  "id": "heineken-nv-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "heineken-nv"
+  ],
+  "text": "Heineken N.V. is listed on Euronext Amsterdam. Its corporate governance statement (Annual Report 2023) lists one substantial shareholding notified to the Dutch financial markets authority: Mrs. C.L. de Carvalho-Heineken holds indirectly 50.005% of its issued share capital, through the direct 50.005% shareholder Heineken Holding N.V.",
+  "short": "Heineken N.V. is 50.005% held by Heineken Holding N.V., indirectly Mrs. C.L. de Carvalho-Heineken's.",
+  "source": {
+    "name": "Heineken N.V.: Corporate Governance statement (Annual Report 2023)",
+    "date": "2024",
+    "url": "https://www.theheinekencompany.com/sites/heineken-corp/files/Downloads/2024-04/heineken-n-v-corporate-governance-statement.pdf",
+    "quote": "Mrs. C.L. de Carvalho-Heineken (holds indirectly 50.005% of the issued share capital of the Company; the direct 50.005% shareholder is Heineken Holding N.V.)",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same statement: 'Its shares are listed on the Amsterdam Stock Exchange, Euronext Amsterdam.' It also says FEMSA sold its shares in the Company and Heineken Holding N.V. in February and May 2023."
+  },
+  "reviewed": false
+}
