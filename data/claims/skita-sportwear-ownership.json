@@ -4,31 +4,18 @@
   "ownerIds": [
     "skita-sportwear"
   ],
-  "text": "Skita presents itself as 'Skita Sportwear équipementier sportif', a French kit maker whose site says it equips clubs for training and competition; no parent company, fund or state owner is named anywhere on the site.",
-  "short": "Skita is a self-owned French sportswear maker; no parent identified.",
+  "text": "Skita presents itself as 'Skita Sportwear équipementier sportif', a sports-kit maker for training and competition; its site gives an address in Orly and is published by SKITA SPORT (RCS Créteil 510 664 881).",
+  "short": "Skita Sportwear (SKITA SPORT, Orly) is a sports-kit maker.",
   "source": {
-    "name": "skita.fr (official site, homepage and footer)",
-    "date": "2026-09",
+    "name": "Skita - Equipementier sportif (homepage)",
+    "date": "2026",
     "url": "https://www.skita.fr/",
-    "quote": "Skita Sportwear équipementier sportif ... SKITA vous accompagne à l’entrainement et dans la compétition",
+    "quote": "Skita Sportwear équipementier sportif SKITA vous accompagne à l’entrainement et dans la compétition",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
     },
-    "note": "skita.fr was fetched via its resolved IP (83.166.138.63) because the hostname did not resolve locally."
+    "note": "Same site, Mentions légales (https://www.skita.fr/mentions-legales): 'Le site https://www.skita.fr est édité par SKITA SPORT Immatriculé au RCS de Créteil sous le numéro 510 664 881'. skita.fr resolves to 0.0.0.0 on some resolvers; it answers at 83.166.138.63."
   },
-  "additionalSources": [
-    {
-      "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
-      "date": "2026-08-06",
-      "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
-      "quote": "The Skita logo is placed on the right chest in navy, sitting opposite the traditional club crest, with main sponsor bwin printed across the front.",
-      "checked": {
-        "on": "2026-09-28",
-        "by": "Schnitzel"
-      },
-      "note": "Establishes the sponsor link: Skita is FC Arouca's kit maker for 2026-27. Footy Headlines calls Skita a 'domestic manufacturer', but the brand is French (skita.fr) - the wording is theirs, not ours."
-    }
-  ],
   "reviewed": false
 }

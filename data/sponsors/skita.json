@@ -2,15 +2,15 @@
   "id": "skita",
   "name": "Skita",
   "ownerId": "skita-sportwear",
-  "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Self-owned French sportswear maker (Skita Sportwear, equipementier sportif). Nothing found.",
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "skita-sportwear-ownership"
   ],
   "aliases": [
     "skita sportwear"
   ],
-  "note": "Rated during the Arouca research (issue #386): FC Arouca's kit maker from 2026-27 (partner placement). Footy Headlines calls Skita a 'domestic manufacturer' of Arouca's, but the brand is French - skita.fr."
+  "note": "Sports-kit maker (Skita Sportwear, Orly), FC Arouca's kit maker in 2026-27. Who owns it isn't sourced, so it isn't rated yet."
 }

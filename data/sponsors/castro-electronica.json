@@ -2,10 +2,10 @@
   "id": "castro-electronica",
   "name": "Castro Electrónica",
   "ownerId": "castro-electronica",
-  "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Self-owned Portuguese electronics retailer (capital 100% Portuguese, founded 1996). Nothing found.",
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "castro-electronica-ownership"
   ],
@@ -13,5 +13,5 @@
     "castro electronica",
     "castro eletronica"
   ],
-  "note": "Rated during the Arouca research (issue #386): back-of-shirt sponsor at FC Arouca in 2026-27."
+  "note": "Portuguese electronics company, on the back of FC Arouca's shirt in 2026-27. Who owns it isn't sourced, so it isn't rated yet."
 }

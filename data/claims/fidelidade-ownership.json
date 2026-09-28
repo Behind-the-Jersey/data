@@ -5,39 +5,40 @@
     "fidelidade",
     "fosun"
   ],
-  "text": "Fidelidade's shareholders page lists Fosun Group (through Millennium Gain Limited) with 84.9892% and Caixa Geral de Depósitos (CGD) with 15%, describing CGD as a bank owned by the Portuguese State; the page adds that Fosun International Limited is listed on the Hong Kong stock exchange (00656.HK).",
-  "short": "Fidelidade is 84.9892% Fosun Group and 15% state-owned CGD; Fosun International is HKEX-listed (00656.HK).",
+  "text": "Luz Saúde has more than 30 health units in Portugal, including Hospital da Luz. Macquarie Asset Management's European Infrastructure Fund 7 agreed in September 2025 to buy 40% of Luz Saúde from Fidelidade, which keeps 60%. Fidelidade's shareholders page lists Fosun Group (through Millennium Gain Limited) with 84.9892%, a Chinese private conglomerate listed as Fosun International Limited in Hong Kong, and Caixa Geral de Depósitos (CGD), a bank owned by the Portuguese State, with 15%.",
+  "short": "Hospital da Luz is Luz Saúde's (60% Fidelidade); Fidelidade is 84.9892% Fosun Group and 15% state-owned CGD.",
   "source": {
-    "name": "Fidelidade: Shareholders (investor relations page)",
-    "date": "2026-09",
+    "name": "Fidelidade: Shareholders",
+    "date": "2026",
     "url": "https://www.fidelidade.pt/EN/fidelidade/investor-relations/financial-information/Paginas/Shareholders.aspx",
-    "quote": "Fosun Group (through Millennium Gain Limited): 84.9892% ... Caixa Geral de Depósitos (“CGD”): 15% CGD is a bank owned by the Portuguese State.",
+    "quote": "Fosun Group (through Millennium Gain Limited): 84.9892% Fosun Group is one of the largest Chinese private conglomerates with an international presence and is listed (Fosun International Limited) on the Hong Kong stock exchange.",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
-    }
+    },
+    "note": "Same page: 'Caixa Geral de Depósitos (“CGD”): 15% CGD is a bank owned by the Portuguese State.'"
   },
   "additionalSources": [
     {
-      "name": "Fosun: About us - company profile",
-      "date": "2026-09",
-      "url": "https://en.fosun.com/about/company.html",
-      "quote": "In 2007, Fosun International Limited was listed on the main board of the Hong Kong Stock Exchange (stock code: 00656.HK).",
-      "checked": {
-        "on": "2026-09-28",
-        "by": "Schnitzel"
-      }
-    },
-    {
-      "name": "Macquarie Asset Management press release: 'Macquarie Asset Management to acquire Luz Saúde stake'",
+      "name": "Macquarie: Macquarie Asset Management to acquire Luz Saúde stake",
       "date": "2025-09-05",
       "url": "https://www.macquarie.com/us/en/about/news/2025/macquarie-asset-management-to-acquire-luz-saude-stake.html",
-      "quote": "Macquarie Asset Management, via Macquarie European Infrastructure Fund 7, has reached an agreement to acquire a 40 per cent stake in Luz Saúde ... The stake will be acquired from Fidelidade, the leading insurance company in Portugal, who will retain a 60 per cent stake in the company.",
+      "quote": "The stake will be acquired from Fidelidade, the leading insurance company in Portugal, who will retain a 60 per cent stake in the company.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
       },
-      "note": "Establishes the chain from Hospital da Luz's operator Luz Saúde up to Fidelidade (60%, with Macquarie European Infrastructure Fund 7 at 40% since Sep 2025)."
+      "note": "Same page: 'Macquarie Asset Management, via Macquarie European Infrastructure Fund 7, has reached an agreement to acquire a 40 per cent stake in Luz Saúde'."
+    },
+    {
+      "name": "RTP: Seguradora Fidelidade vende 40% da Luz Saúde ao grupo australiano Macquarie",
+      "date": "2025-09-05",
+      "url": "https://www.rtp.pt/noticias/economia/seguradora-fidelidade-vende-40-da-luz-saude-ao-grupo-australiano-macquarie_n1681490",
+      "quote": "A Luz Saúde detém em Portugal mais de 30 unidades de saúde, incluindo o Hospital da Luz.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     }
   ],
   "reviewed": false
