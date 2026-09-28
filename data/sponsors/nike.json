@@ -1,12 +1,14 @@
 {
   "id": "nike",
   "name": "Nike",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "nike-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "NIKE, Inc., listed on the New York Stock Exchange (NKE); no controlling shareholder named. Nothing found.",
+  "claimIds": [
+    "nike-inc-ownership"
+  ],
   "aliases": [],
-  "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+  "note": "Kit supplier to Al-Ittihad, Al-Qadsiah and AEK Athens (since 1 June 2021)."
 }
