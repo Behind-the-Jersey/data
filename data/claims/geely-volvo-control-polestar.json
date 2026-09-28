@@ -1,0 +1,23 @@
+{
+  "id": "geely-volvo-control-polestar",
+  "kind": "ownership",
+  "ownerIds": [
+    "zhejiang-geely-holding-group",
+    "volvo-cars",
+    "psd-investment-ltd",
+    "li-shufu"
+  ],
+  "text": "Polestar's 20-F states that Geely (Zhejiang Geely Holding Group Company Limited) is primarily owned and operated by Li Shufu; that Geely, through wholly and partially owned entities, owns a controlling number of equity interests in Volvo Cars; and that Li Shufu, as a controlling equity interest holder in Geely, effectively controls Geely and Volvo Cars. As of December 31, 2025, related parties owned 69.0% of the Group.",
+  "short": "Polestar 20-F: Li Shufu controls Geely, Geely controls Volvo Cars; related parties owned 69.0% of the Group at end-2025.",
+  "source": {
+    "name": "Polestar Automotive Holding UK PLC, Annual Report on Form 20-F for fiscal year 2025 (SEC), related-party note",
+    "date": "2026-04-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1884082/000188408226000006/psny-20251231.htm",
+    "quote": "Li Shufu, as a controlling equity interest holder in Geely, effectively controls Geely and Volvo Cars",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
