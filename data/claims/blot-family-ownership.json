@@ -1,0 +1,33 @@
+{
+  "id": "blot-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "blot-groupe"
+  ],
+  "text": "Blot Immobilier (SIREN 385038724) is a SAS registered in Rennes. The company register lists David Blot as its président, Sandra Blot as vice-président, and Jean Blot, Marie-France Blot (Poirier) and Didier Ferre as members of its conseil de surveillance. Blot's own site dates the business to 1968.",
+  "short": "Blot Immobilier is led by members of the Blot family (company register).",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), BLOT IMMOBILIER, SIREN 385038724",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=385038724",
+    "quote": "\"dirigeants\":[{\"nom\":\"BLOT\",\"prenoms\":\"DAVID\",\"annee_de_naissance\":\"1968\",\"date_de_naissance\":\"1968-06\",\"qualite\":\"Président de SAS\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: BLOT Sandra (Vice-Président); BLOT Jean, BLOT (POIRIER) Marie-France and FERRE Didier (Membre du conseil de surveillance); nature juridique 5710 (SAS), siège Rennes (35238)."
+  },
+  "additionalSources": [
+    {
+      "name": "Blot — Nous sommes Blot (blot-immobilier.fr/qui-sommes-nous)",
+      "date": "2026",
+      "url": "https://www.blot-immobilier.fr/qui-sommes-nous/",
+      "quote": "L’ADN de Blot, ancré dans la société depuis 1968, a toujours été et sera toujours l’élégance.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

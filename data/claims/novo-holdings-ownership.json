@@ -1,0 +1,33 @@
+{
+  "id": "novo-holdings-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "novo-holdings",
+    "novo-nordisk-foundation"
+  ],
+  "text": "Novo Holdings A/S is the holding and investment company responsible for managing the assets and the wealth of the Novo Nordisk Foundation, an independent Danish enterprise foundation, and is the controlling shareholder of Novo Nordisk A/S.",
+  "short": "Novo Holdings manages the assets of the Novo Nordisk Foundation.",
+  "source": {
+    "name": "Novo Holdings - About (novoholdings.com)",
+    "date": "2026",
+    "url": "https://novoholdings.com/about/",
+    "quote": "Novo Holdings is the controlling shareholder of Novo Nordisk A/S",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Novo Nordisk Foundation - About (novonordiskfonden.dk/en)",
+      "date": "2026",
+      "url": "https://novonordiskfonden.dk/en/",
+      "quote": "investment activities are carried out by the Foundation’s fully owned subsidiary Novo Holdings",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,11 +1,16 @@
 {
   "id": "samsic",
   "name": "Samsic",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "samsic-groupe",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French services group founded in 1986 by Christian Roulleau that describes itself as family-owned. Nothing found.",
+  "claimIds": [
+    "samsic-family-ownership"
+  ],
+  "aliases": [
+    "Groupe Samsic"
+  ],
+  "note": "Family-owned private group (register: SAS, SIREN 403227796, Cesson-Sévigné, président Thierry Geffroy). No state or state fund appears in the sources."
 }

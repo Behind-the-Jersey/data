@@ -1,0 +1,33 @@
+{
+  "id": "mcdonalds-nyse-listed-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mcdonalds-corporation"
+  ],
+  "text": "McDonald's Corporation's common stock (trading symbol MCD) is registered on the New York Stock Exchange. Its 2026 proxy statement lists all beneficial owners of more than 5% of its common stock at 31 December 2025: The Vanguard Group (10.03%), BlackRock (7.3%) and State Street (5.1%).",
+  "short": "McDonald's is a New York Stock Exchange-listed company",
+  "source": {
+    "name": "McDonald's Corporation: Form 10-K for the fiscal year 2025 (SEC EDGAR), cover page",
+    "date": "2026-02-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+    "quote": "Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, $0.01 par value MCD New York Stock Exchange",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "McDonald's Corporation: 2026 Proxy Statement (Form DEF 14A, SEC EDGAR), Security Ownership of Certain Beneficial Owners",
+      "date": "2026-04-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm",
+      "quote": "The following table shows all beneficial owners of more than 5% of our common stock outstanding as of December 31, 2025.",
+      "note": "Table: The Vanguard Group 10.03%, BlackRock, Inc. 7.3%, State Street Corporation 5.1%.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

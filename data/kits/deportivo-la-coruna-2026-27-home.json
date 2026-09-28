@@ -12,23 +12,47 @@
       "sponsorId": "estrella-galicia",
       "placement": "front",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "Diario AS, El Deportivo filtra por error la nueva camiseta para la 2026-2027",
+        "date": "2026-07-02",
+        "url": "https://as.com/futbol/primera/el-deportivo-filtra-por-error-la-nueva-camiseta-para-la-2026-2027-f202607-n/",
+        "quote": "Las prendas oficiales de la temporada 2026-2027 tendrán un año más como publicidad principal ‘Estrella Galicia’",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "abanca",
       "placement": "back",
       "source": {
-        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
-        "date": "2025-10-08",
-        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "Abanca back of shirt; the promoted club is the likely second Abanca back"
+        "name": "2Playbook: El RC Deportivo y Feiraco renuevan una de las alianzas más recordadas para la temporada 2026-2027",
+        "date": "2026-09-18",
+        "url": "https://www.2playbook.com/patrocinio/rc-deportivo-feiraco-renuevan-alianzas-mas-recordadas-temporada-2026-2027_23697_102.html",
+        "quote": "Abanca lucirá en la trasera de la camiseta y Boualá en el pantalón",
+        "note": "The full sentence: 'Esta temporada, el equipo de A Coruña lucirá en el frontal de su equipación a Estrella Galicia, como principal patrocinador, mientras que Abanca lucirá en la trasera de la camiseta y Boualá en el pantalón.' Score and Change's 2026/27 La Liga sleeve table lists no sleeve sponsor for Deportivo ('Deportivo De A Coruña – –', https://www.scoreandchange.com/la-liga-sponsors/).",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "buala",
+      "placement": "shorts",
+      "source": {
+        "name": "Bualá: Bualá renueva su patrocinio con el RC Deportivo hasta 2028",
+        "date": "2026-08-14",
+        "url": "https://buala.es/blog/buala-renueva-su-patrocinio-con-el-rc-deportivo/",
+        "quote": "nuestra marca continuará presente en la parte trasera del pantalón de juego del primer equipo masculino",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Estrella Galicia (front), Abanca (back) and Bualá (back of the shorts); 2Playbook names these three for the 2026-27 kit, and Score and Change lists no sleeve sponsor.",
   "change": null
 }

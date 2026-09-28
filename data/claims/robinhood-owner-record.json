@@ -4,16 +4,17 @@
   "ownerIds": [
     "robinhood-owner"
   ],
-  "text": "Robinhood Markets, Inc. is founder-controlled through super-voting Class B shares: per its 2026 proxy statement, co-founders Vladimir Tenev and Baiju Bhatt hold approximately 26.1% and 32.0% of total voting power respectively (58.6% combined). Among Class A shareholders, The Vanguard Group (11.9%) and BlackRock (7.0%) are also disclosed 5%+ holders; no state shareholder is identified.",
+  "text": "Robinhood Markets, Inc. is founder-controlled through super-voting Class B shares: per its 2026 proxy statement, co-founders Vladimir Tenev and Baiju Bhatt hold 26.1% and 32.0% of total voting power respectively (58.1% combined). Among Class A shareholders, The Vanguard Group (11.9%) and BlackRock (7.0%) are also disclosed 5%+ holders.",
   "source": {
     "name": "Robinhood Markets, Inc. DEF 14A 2026 Proxy Statement (SEC EDGAR)",
     "date": "2026-04-22",
     "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/hood-20260422.htm",
-    "quote": "Vladimir Tenev 49,234,651 44.9 26.1 Baiju Bhatt 61,076,048 55.7 32.0",
+    "quote": "Vladimir Tenev (4)(5) 6,907 * 49,234,651 44.9 26.1",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
-    }
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same beneficial-ownership table: 'Baiju Bhatt (5)(10) 3,579 * 61,076,048 55.7 32.0'. sec.gov needs a declared User-Agent for scripted access."
   },
   "reviewed": false
 }

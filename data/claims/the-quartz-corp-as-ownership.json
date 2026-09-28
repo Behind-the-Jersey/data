@@ -1,0 +1,33 @@
+{
+  "id": "the-quartz-corp-as-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "the-quartz-corp-as",
+    "the-quartz-corp-sas"
+  ],
+  "text": "The Quartz Corp AS, the Norwegian high-purity quartz producer at Drag, is a 100 per cent subsidiary of The Quartz Corp SAS, which since 2011 has been under shared ownership with the French company Imerys (per TQC's Transparency Act statement); a company article describes the ownership as shared between French Imerys and Norway's Norsk Mineral.",
+  "short": "The Quartz Corp AS is wholly owned by The Quartz Corp SAS (Imerys and Norsk Mineral shared ownership).",
+  "source": {
+    "name": "The Quartz Corp - Transparency Act (Åpenhetsloven) statement 2025",
+    "date": "2025-06-25",
+    "url": "https://cdn.sanity.io/files/xp6wv2um/production/fcc4b4a7ff4dd051da8d9be460d9c2bf8e5acfd2.pdf",
+    "quote": "The Quartz Corp AS (TQC AS) er et 100% datterselskap av The Quartz Corp SAS",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Quartz Corp article: Høyteknologisk industrieventyr på Hamarøy (28 Nov 2023)",
+      "date": "2023-11-28",
+      "url": "https://thequartzcorp.com/articles/hoyteknologisk-industrieventyr-pa-hamaroy",
+      "quote": "The Quartz Corp har delt eierskap mellom franske Imerys og Norsk Mineral, og har sterk norsk forankring.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

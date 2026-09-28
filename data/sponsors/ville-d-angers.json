@@ -1,11 +1,17 @@
 {
   "id": "ville-d-angers",
   "name": "Ville d'Angers",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "ville-d-angers",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The commune of Angers itself — a French local authority. Nothing found.",
+  "claimIds": [
+    "ville-d-angers-ownership"
+  ],
+  "aliases": [
+    "Angers",
+    "City of Angers"
+  ],
+  "note": "Rating note: A French commune; state ownership alone is not a tier (METHOD.md) and no sourced serious-abuse record was found for the municipality."
 }

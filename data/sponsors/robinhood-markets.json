@@ -1,11 +1,17 @@
 {
   "id": "robinhood-markets",
   "name": "Robinhood Markets",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "robinhood-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Founder-controlled, Nasdaq-listed US company: co-founders Tenev and Bhatt hold 58.1% of voting power between them. Nothing found.",
+  "claimIds": [
+    "robinhood-owner-record"
+  ],
+  "aliases": [
+    "Robinhood",
+    "Robinhood EU"
+  ],
+  "note": "Rating note: main partner and shirt sponsor of OGC Nice's men's and women's first teams since 2025-26. Founder-controlled; the 5%+ Class A holders disclosed in the proxy are Vanguard and BlackRock, and no state or state fund appears among them, so proposed none."
 }

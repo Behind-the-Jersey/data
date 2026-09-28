@@ -1,0 +1,20 @@
+{
+  "id": "norelem-sas-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "norelem-sas"
+  ],
+  "text": "The norelem brand in France is run by NORELEM SAS, a SASU (single-shareholder simplified joint-stock company) registered in Troyes (SIREN 432 505 741, capital 2 540 000 euros). The company register does not disclose its shareholder: beneficial-ownership data is restricted to authorised persons.",
+  "short": "NORELEM SAS is a French SASU; its shareholder is not public.",
+  "source": {
+    "name": "Pappers — NORELEM SAS (SIREN 432 505 741) company record",
+    "date": "2026-09-28",
+    "url": "https://www.pappers.fr/entreprise/norelem-432505741",
+    "quote": "Forme juridique : SASU, société par actions simplifiée unipersonnelle",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
