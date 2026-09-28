@@ -1,0 +1,44 @@
+{
+  "id": "hellowork-telegramme-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "advenn"
+  ],
+  "text": "Hellowork (SIREN 428843130) is a SAS registered in Rennes whose président, in the company register, is the company GROUPE TELEGRAMME (SIREN 487661654), with François Leverger as directeur général. Groupe Télégramme has been renamed ADVENN and calls itself an independent group; Advenn's governance page lists François Leverger as Directeur général de Hellowork group and Edouard Coudurier as Président d'Advenn.",
+  "short": "Hellowork's président is Groupe Télégramme, now ADVENN, chaired by Edouard Coudurier.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), HELLOWORK, SIREN 428843130",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=428843130",
+    "quote": "\"siren\":\"487661654\",\"denomination\":\"GROUPE TELEGRAMME\",\"qualite\":\"Président de SAS\",\"type_dirigeant\":\"personne morale\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: nature juridique 5710 (SAS), siège Rennes (35238); other dirigeant LEVERGER François (Directeur Général)."
+  },
+  "additionalSources": [
+    {
+      "name": "Advenn — Notre gouvernance (advenn.com/notre-gouvernance/)",
+      "date": "2026",
+      "url": "https://advenn.com/notre-gouvernance/",
+      "quote": "François Leverger Directeur général de Hellowork group",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page lists \"Edouard Coudurier Président d'Advenn\"."
+    },
+    {
+      "name": "Advenn — Le groupe Télégramme devient ADVENN",
+      "date": "2026",
+      "url": "https://advenn.com/actualites/le-groupe-telegramme-devient-advenn/",
+      "quote": "Le Groupe Télégramme devient ADVENN et affirme sa nouvelle dimension. Un nouveau nom pour incarner la dimension acquise par ce groupe indépendant et solide",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

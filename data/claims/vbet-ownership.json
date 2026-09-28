@@ -1,0 +1,41 @@
+{
+  "id": "vbet-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "softconstruct"
+  ],
+  "text": "VBET was founded in 2003 by Vigen and Vahe Badalyan, whom SoftConstruct's leadership page lists as its co-founders (alongside a Head of VBET Group). UK filings for VBET SPORTS LIMITED (company 10392319) name both brothers, Armenian and resident in Armenia, as persons with significant control, each holding more than 25% but not more than 50% of shares and voting rights.",
+  "source": {
+    "name": "Companies House: VBET SPORTS LIMITED (10392319), persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10392319/persons-with-significant-control",
+    "quote": "Ownership of shares – More than 25% but not more than 50% Ownership of voting rights - More than 25% but not more than 50% Mr Vahe Badalyan",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SoftConstruct Leadership",
+      "date": "2026",
+      "url": "https://www.softconstruct.com/leadership",
+      "quote": "VAHE BADALYAN Co-founder VIGEN BADALYAN Co-founder",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "VBET Group: About Us",
+      "date": "2026",
+      "url": "https://www.vbet.group/about-us",
+      "quote": "Founded by Vigen and Vahe Badalyan in 2003, VBET started out under the brand name Vivaro",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

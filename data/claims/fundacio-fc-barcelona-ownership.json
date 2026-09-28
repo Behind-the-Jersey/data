@@ -1,0 +1,41 @@
+{
+  "id": "fundacio-fc-barcelona-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "fundacio-fc-barcelona"
+  ],
+  "text": "The Fundació FC Barcelona (Barça Foundation) was created in 1994. Its highest governing body is its Board of Patrons. Its income comes from two main sources: the Club, players and external financiers; FC Barcelona's contribution is up to 0.7% of the income budget.",
+  "source": {
+    "name": "Barça Foundation: Economic transparency",
+    "date": "2026",
+    "url": "https://foundation.fcbarcelona.com/en/the-foundation/economic-transparency",
+    "quote": "The Foundation receive income from two main sources: the Club, players and external financiers",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Barça Foundation: The Foundation",
+      "date": "2026",
+      "url": "https://foundation.fcbarcelona.com/en/the-foundation",
+      "quote": "In 1994 the Barça Foundation was created as a pioneering initiative in sport in Spain",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Barça Foundation: Who we are",
+      "date": "2026",
+      "url": "https://foundation.fcbarcelona.com/en/the-foundation/who-we-are",
+      "quote": "The Board of Patrons is the entity’s highest governing body.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
