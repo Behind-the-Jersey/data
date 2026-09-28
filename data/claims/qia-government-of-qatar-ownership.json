@@ -1,0 +1,32 @@
+{
+  "id": "qia-government-of-qatar-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "qia",
+    "government-of-qatar"
+  ],
+  "text": "The Qatar Investment Authority (QIA) is the sovereign wealth fund of the State of Qatar; the State of Qatar holds its voting rights in Volkswagen AG acting by and through QIA.",
+  "source": {
+    "name": "Qatar Investment Authority: About",
+    "date": "2026",
+    "url": "https://www.qia.qa/en/About/Pages/default.aspx",
+    "quote": "Qatar Investment Authority (QIA) is the sovereign wealth fund of the State of Qatar.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Volkswagen Group Annual Report 2025: Notices and disclosure of changes regarding the ownership of voting rights in Volkswagen AG",
+      "date": "2026-03-10",
+      "url": "https://annualreport2025.volkswagen-group.com/notes/other-disclosures/notices-and-disclosure-of-changes-regarding-the-ownership-of-voting-rights-in-volkswagen-ag-in-accordance-with-the-wertpapierhandelsgesetz-wphg-german-securities-trading-act.html",
+      "quote": "we hereby notify for and on behalf of the State of Qatar, acting by and through the Qatar Investment Authority, Doha, Qatar, that its indirect voting rights in Volkswagen Aktiengesellschaft",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
