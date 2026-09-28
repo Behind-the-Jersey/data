@@ -12,23 +12,32 @@
       "sponsorId": "matthaei",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga - 1. und 2. Bundesliga (Stand 04.08.2026)",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Nach einer Vertragslaufzeit von 11 Jahren übernimmt in der Saison 2023/2024 der Baudienstleister Matthäi den Platz des Trikotsponsors.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
-      "sponsorId": "harald-pihl",
-      "placement": "sleeve",
-      "side": "front",
+      "sponsorId": "hummel",
+      "placement": "partner",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "433FC: Bundesliga 2026/27 Shirt Sponsors: Every Club's Main Sponsor",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/bundesliga-2026-27-shirt-sponsors/",
+        "quote": "Castore (Leverkusen), Joma (Hoffenheim), Hummel (Werder Bremen) and Mizuno (Augsburg) round out the field.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Matthäi on the front (shirt sponsor since 2023/24) and hummel as kit maker. No source yet names the 2026-27 sleeve sponsor, so the list isn't marked complete.",
   "change": null
 }

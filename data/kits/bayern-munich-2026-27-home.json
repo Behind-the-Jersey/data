@@ -14,7 +14,12 @@
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "und die deutsche Telekom AG haben ihre seit 2002 bestehende Partnerschaft im Jahr 2025 bis 2032 verlängert",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -22,13 +27,19 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "11+ Media, Sponsoring in der Bundesliga (Archived 16 Sep 2025, Wayback Machine)",
+        "date": "2025-09-16",
+        "url": "https://web.archive.org/web/20250916201450/https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/",
+        "note": "Live page blocks scripts (HTTP 403); quote verified on the Internet Archive snapshot. Names Allianz as Bayern's sleeve sponsor (Aermelsponsor) alongside Telekom as Hauptsponsor.",
+        "quote": "Hauptsponsor Telekom ( 50 Mio. € ) und Ärmelsponsor Allianz ( 8 Mio.€ )",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Deutsche Telekom on the front (contract to 2032) and Allianz on the sleeve, as in 2025/26. No written source yet confirms the 2026-27 sleeve, so the list isn't marked complete.",
   "change": null
 }

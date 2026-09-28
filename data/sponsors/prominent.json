@@ -3,9 +3,12 @@
   "name": "ProMinent",
   "ownerId": "prominent-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "ProMinent GmbH is a private Heidelberg family company run by the founder's sons Andreas and Rainer Dulger. Nothing found.",
+  "claimIds": [
+    "prominent-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private German family company (Dulger family), no state link → none."
 }

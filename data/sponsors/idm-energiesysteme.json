@@ -3,11 +3,15 @@
   "name": "IDM Energiesysteme",
   "ownerId": "idm-energiesysteme",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by the Pletzer Unternehmensgruppe, a family-run Tyrolean group (acquired 1997). Nothing found.",
+  "claimIds": [
+    "idm-pletzer-record"
+  ],
   "aliases": [
-    "idm waermepumpen"
-  ]
+    "idm waermepumpen",
+    "idm energiesysteme gmbh"
+  ],
+  "note": "Left-sleeve partner of Mainz 05 since 2023, extended to 2029. Heat-pump manufacturer from Matrei in Osttirol."
 }

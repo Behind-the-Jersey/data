@@ -3,9 +3,17 @@
   "name": "MGS Seguros",
   "ownerId": "mgs-seguros",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Spanish mutual-origin insurer, unlisted, majority widely held; largest stake (19.01%) with the Fundación Mutua General de Seguros. Nothing found.",
+  "claimIds": [
+    "mgs-seguros-ownership",
+    "mgs-seguros-fundacion-stake"
+  ],
+  "aliases": [
+    "MGS",
+    "Mutua General de Seguros",
+    "MGS Seguros y Reaseguros"
+  ],
+  "note": "Rating note: Transformed from mutual Mutua General de Seguros (founded 1907) into an S.A. in 2011 with mutualists as shareholders. No state, listed parent or controlling shareholder found in the company's own statutes and annual report. Sleeve sponsor of Racing Santander, Málaga and Elche in 2026/27."
 }

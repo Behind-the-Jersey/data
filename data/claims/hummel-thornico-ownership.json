@@ -1,0 +1,33 @@
+{
+  "id": "hummel-thornico-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "hummel-international-as",
+    "thornico-as"
+  ],
+  "text": "hummel is part of THORNICO, a family-owned global conglomerate founded by Thor and Christian Nicholas Stadil, consisting of more than 130 companies worldwide; THORNICO's own about page says the name combination of Thor and Nicholas took its form around the millennium, where father and son secured their investments in hummel.",
+  "short": "hummel is part of THORNICO, the family-owned conglomerate of Thor and Christian Nicholas Stadil.",
+  "source": {
+    "name": "hummel, 'About hummel' (hummel.net, 'Part of THORNICO')",
+    "date": "2026",
+    "url": "https://www.hummel.net/pages/about-hummel",
+    "quote": "hummel is part of THORNICO, a family-owned global conglomerate founded by Thor and Christian Nicholas Stadil, consisting of more than 130 companies worldwide.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "THORNICO, 'About THORNICO - A family-owned conglomerate'",
+      "date": "2026",
+      "url": "https://thornico.com/about-us/",
+      "quote": "A FAMILY-OWNED CONGLOMERATE THORNICO - the name combination of Thor and Nicholas - took its form around the millennium where father and son, Thor and Christian Nicholas Stadil, secured their investments in hummel",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
