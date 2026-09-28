@@ -3,9 +3,12 @@
   "name": "Allianz",
   "ownerId": "allianz-se",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Allianz SE, a DAX-listed insurer with shares 100% in free float - no state or controlling owner. Nothing found.",
+  "claimIds": [
+    "allianz-se-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Proposed tier none for issue #315 (2026-09-28). Allianz SE is a listed German insurer; its own shareholder-structure page reports 100% free float and no controlling shareholder. Germany has no sourced serious-abuse record, and state ownership alone is not a tier (METHOD.md)."
 }

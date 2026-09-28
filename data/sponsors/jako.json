@@ -1,12 +1,16 @@
 {
   "id": "jako",
   "name": "Jako",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit supplier to Al-Ettifaq."
+  "ownerId": "jako-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Family-owned German kit maker (Sprügel family, founded 1989). Nothing found.",
+  "claimIds": [
+    "jako-spruegel-record"
+  ],
+  "aliases": [
+    "jako ag"
+  ],
+  "note": "Kit maker (Hollenbach, Mulfingen). Kit supplier to Mainz 05 (2026/27 home) and Al-Ettifaq."
 }
