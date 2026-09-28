@@ -2,5 +2,8 @@
   "id": "fidelidade",
   "name": "Fidelidade - Companhia de Seguros",
   "type": "private-company",
-  "parentId": null
+  "country": "Portugal",
+  "via": "Fosun Group (through Millennium Gain Limited)",
+  "note": "Fidelidade's own shareholders page lists Fosun Group (through Millennium Gain Limited) at 84.9892% and state-owned Caixa Geral de Depósitos (CGD) at 15%. The CGD stake is a passive minority interest; parent of hospital-da-luz (Luz Saude, where Fidelidade retains 60% after Macquarie bought 40% in Sep 2025).",
+  "parentId": "fosun"
 }

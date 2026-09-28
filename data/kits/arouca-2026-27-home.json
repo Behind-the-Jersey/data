@@ -12,13 +12,76 @@
       "sponsorId": "bwin",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+        "name": "FC Arouca: 'Mudanca Historica em Arouca: Bwin e o novo main sponsor do FC Arouca' (club announcement)",
+        "date": "2026-07-27",
+        "url": "https://fcarouca.eu/noticias/mudanca-historica-em-arouca-bwin-e-o-novo-main-sponsor-do-fc-arouca/",
+        "quote": "O FC Arouca inicia uma nova etapa da sua história com a entrada da bwin como Main Sponsor do clube. O acordo, válido por quatro épocas, com opção por uma quinta temporada",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Wikipedia's 2026-27 Primeira Liga kit table lists Arouca's main kit sponsor as bwin, and Footy Headlines' home-kit release (2026-08-06) has 'main sponsor bwin printed across the front'. The club announcement adds: 'Depois de mais de uma década com a Construções Carlos Pinho, Lda na frente da camisola principal' - the deal replaced Construções Carlos Pinho after more than ten years."
+      }
+    },
+    {
+      "sponsorId": "castro-electronica",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Arouca row)",
         "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Arouca Vasco Seabra Tiago Esgaio Skita bwin List Front: None Back: Castro Electrónica, Const. Carlos Pinho, Lda. Sleeves: Hospital da Luz Shorts: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "construcoes-carlos-pinho",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Arouca row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Arouca Vasco Seabra Tiago Esgaio Skita bwin List Front: None Back: Castro Electrónica, Const. Carlos Pinho, Lda. Sleeves: Hospital da Luz Shorts: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hospital-da-luz",
+      "placement": "sleeve",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Arouca row)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Arouca Vasco Seabra Tiago Esgaio Skita bwin List Front: None Back: Castro Electrónica, Const. Carlos Pinho, Lda. Sleeves: Hospital da Luz Shorts: None",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "skita",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
+        "date": "2026-08-06",
+        "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
+        "quote": "The Skita logo is placed on the right chest in navy, sitting opposite the traditional club crest, with main sponsor bwin printed across the front.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker; not a shirt sponsor in the front/back/sleeve sense. Wikipedia's Arouca row also lists Skita as kit manufacturer."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by Entain plc (LSE-listed, no state owner) via Bwin.",
+  "sponsorsComplete": true,
+  "summary": "Front paid for by Entain plc (LSE-listed) via Bwin, on a four-season deal announced 27 Jul 2026. Back: Castro Electrónica and Construções Carlos Pinho. Sleeves: Hospital da Luz. Kit maker: Skita (partner).",
   "change": null
 }

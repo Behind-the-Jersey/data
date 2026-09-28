@@ -1,11 +1,16 @@
 {
   "id": "bwin",
   "name": "Bwin",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "entain-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Entain plc (LSE: ENT), an FTSE100 listed company. Nothing found.",
+  "claimIds": [
+    "bwin-entain-ownership"
+  ],
+  "aliases": [
+    "bwin interactive entertainment"
+  ],
+  "note": "Rated during the Arouca research (issue #386): bwin is FC Arouca's main sponsor from 2026-27 on a four-season deal. Owner chain: bwin -> Entain plc (listed, no state owner)."
 }

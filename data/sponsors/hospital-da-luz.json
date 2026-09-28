@@ -3,13 +3,15 @@
   "name": "Hospital da Luz (Luz Saude)",
   "ownerId": "fidelidade",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Operated by Luz Saude: 60% Fidelidade (itself 84.99% Fosun, 15% state-owned CGD), 40% a Macquarie infrastructure fund. The Portuguese state stake is a passive minority. Nothing found.",
+  "claimIds": [
+    "fidelidade-ownership"
+  ],
   "aliases": [
     "luz saude",
     "hospital da luz"
   ],
-  "note": "Portuguese private hospital group (Luz Saude, 60% Fidelidade / 40% Macquarie since Sep 2025; Fidelidade is 85% Fosun / 15% state-owned CGD). Front or sleeve sponsor at several clubs in 2026-27."
+  "note": "Rated during the Arouca research (issue #386). Chain: Hospital da Luz -> Luz Saude -> Fidelidade (60%, after Macquarie European Infrastructure Fund 7 bought 40% in Sep 2025) -> Fosun Group 84.9892% / CGD 15%. CGD is a bank owned by the Portuguese State, but its Fidelidade stake is a passive minority holding (about 9% effective in Luz Saude) with no control - state ownership alone is not a tier (METHOD.md)."
 }
