@@ -4,27 +4,28 @@
     "brown-forman"
   ],
   "kind": "ownership",
-  "text": "Brown-Forman is a publicly traded company: both classes of its common stock trade on the New York Stock Exchange, and it has owned Jack Daniel's since 1956.",
-  "short": "Brown-Forman (NYSE) has owned Jack Daniel's since 1956.",
+  "text": "Brown-Forman is a publicly traded company: its Class A (voting) and Class B (non-voting) common stock trade on the New York Stock Exchange, and it is a \"controlled company\" under NYSE rules because the Brown family owns more than 50% of its voting stock. Brown-Forman bought the Jack Daniel Distillery in 1956.",
+  "short": "Brown-Forman (NYSE) is controlled by the Brown family and has owned Jack Daniel's since 1956.",
   "source": {
-    "name": "Wikipedia – Brown-Forman",
-    "date": "2026-09-27",
-    "url": "https://en.wikipedia.org/wiki/Brown-Forman",
-    "quote": "Brown-Forman has two classes of common stock, both of which are traded publicly on the New York Stock Exchange.",
+    "name": "Brown-Forman – Form 10-K for the fiscal year ended 30 April 2026 (SEC)",
+    "date": "2026-06-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469326000024/bfb-20260430.htm",
+    "quote": "We are a “controlled company” under New York Stock Exchange rules because the Brown family owns more than 50% of our voting stock.",
+    "note": "Item 5 of the same filing: Class A and Class B common stock is traded on the New York Stock Exchange under the symbols BFA and BFB.",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
   "reviewed": false,
   "additionalSources": [
     {
-      "name": "Wikipedia – Jack Daniel's",
-      "date": "2026-09-27",
-      "url": "https://en.wikipedia.org/wiki/Jack_Daniel%27s",
-      "quote": "In 1956, the company was sold to the Brown-Forman Corporation.",
+      "name": "Jack Daniel's Press Room – Background",
+      "date": "2026",
+      "url": "https://pressroom.jackdaniels.com/background/",
+      "quote": "In 1956, the Jack Daniel Distillery was purchased by Brown-Forman Corporation of Louisville, Ky.",
       "checked": {
-        "on": "2026-09-27",
+        "on": "2026-09-28",
         "by": "Schnitzel"
       }
     }

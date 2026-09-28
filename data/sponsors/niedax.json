@@ -3,9 +3,15 @@
   "name": "Niedax",
   "ownerId": "niedax-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by the Niedax Group, a 100% family-owned German cable-management manufacturer. Nothing found.",
+  "claimIds": [
+    "niedax-group-ownership",
+    "niedax-group-sleeve-partner"
+  ],
+  "aliases": [
+    "Niedax Group"
+  ],
+  "note": "Rating note: Family-owned German cable-management group (Niedax GmbH & Co. KG, Linz am Rhein); no state or fund ownership found in its chain. Official sleeve partner of Bayer 04 Leverkusen since 2024/25 (contract to 30 June 2027)."
 }

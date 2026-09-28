@@ -1,0 +1,29 @@
+{
+  "id": "juventus-jeep",
+  "clubId": "juventus",
+  "orgName": null,
+  "sponsorId": "jeep",
+  "placement": "front",
+  "from": "2025-26",
+  "to": "2027-28",
+  "value": {
+    "amount": 23,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 25.9
+  },
+  "source": {
+    "name": "SportsPro – Juventus and Jeep reunite in new €69m shirt sponsorship deal",
+    "date": "2025-05-14",
+    "url": "https://www.sportspro.com/news/juventus-jeep-visit-detroit-jersey-partnership-may-2025/",
+    "short": "SportsPro",
+    "quote": "The club will then gain €19 million (US$21.4 million) for the 2025/26 campaign and then €23 million (US$25.9 million) for subsequent years.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "SportsPro: Jeep pays €69m in total through 2028 (€4m for the rest of 2024/25, €19m for 2025/26, €23m per year after). Calcio e Finanza puts the combined Jeep+Visit Detroit front at €28-30m per season."
+}

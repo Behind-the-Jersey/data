@@ -4,17 +4,29 @@
     "clearlake-capital-and-insight-partners"
   ],
   "kind": "ownership",
-  "text": "Two private equity firms, Clearlake Capital and Insight Partners, agreed to acquire Alteryx in a US$4.4 billion deal taking it private (completed March 2024).",
-  "short": "Alteryx is owned by Clearlake Capital and Insight Partners.",
+  "text": "Funds affiliated with the private equity firms Clearlake Capital Group and Insight Partners completed their acquisition of Alteryx on 19 March 2024, in a transaction valued at $4.4 billion including debt. Alteryx became a privately held company and its common stock stopped trading on the New York Stock Exchange.",
+  "short": "Alteryx is owned by funds affiliated with Clearlake Capital and Insight Partners.",
   "source": {
-    "name": "Wikipedia – Alteryx",
-    "date": "2026-09-27",
-    "url": "https://en.wikipedia.org/wiki/Alteryx",
-    "quote": "two private equity firms, Clearlake Capital and Insight Partners, would acquire the company in a US$4.4 billion deal",
+    "name": "Alteryx – Clearlake Capital Group and Insight Partners Complete Acquisition of Alteryx (press release)",
+    "date": "2024-03-19",
+    "url": "https://www.alteryx.com/about-us/newsroom/press-release/clearlake-capital-group-and-insight-partners-complete-acquisition-of-alteryx",
+    "quote": "Clearlake Capital Group, L.P. (“Clearlake”) and Insight Partners L.P. (“Insight”) today announced that their affiliated funds have completed the acquisition of Alteryx, Inc.",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Clearlake Capital Group – Alteryx Enters into Definitive Agreement to be Acquired by Clearlake Capital Group and Insight Partners for $4.4 Billion (press release)",
+      "date": "2023-12-18",
+      "url": "https://clearlake.com/news/alteryx-enters-into-definitive-agreement-to-be-acquired-by-clearlake-capital-group-and-insight-partners-for-44-billion/",
+      "quote": "two global private equity firms, in a transaction valued at $4.4 billion, including debt. Upon completion of the transaction, Alteryx will become a privately held company.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }

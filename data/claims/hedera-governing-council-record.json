@@ -4,27 +4,27 @@
     "hedera-governing-council"
   ],
   "kind": "ownership",
-  "text": "The Hedera mainnet is maintained by governing council members which include companies such as Deutsche Telekom, IBM and FIS Global.",
-  "short": "Hedera is run by a council of member companies.",
+  "text": "Hedera is governed by Hedera Council: only Council members run network nodes, approve updates of the network's technology and have voting rights. McLaren Racing joined Hedera Council, the governing body of Hedera, in March 2026.",
+  "short": "Hedera is governed by a council of member organisations, which McLaren Racing joined in 2026.",
   "source": {
-    "name": "Wikipedia – Hashgraph",
-    "date": "2026-09-27",
-    "url": "https://en.wikipedia.org/wiki/Hashgraph",
-    "quote": "Hedera mainnet is maintained by governing council members which include companies such as Deutsche Telekom, IBM, FIS Global",
+    "name": "Hedera Council: About",
+    "date": "2026",
+    "url": "https://hederacouncil.org/about",
+    "quote": "While only Hedera Council members run network nodes, approve updates of the network’s technology, and have voting rights",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
   "reviewed": false,
   "additionalSources": [
     {
-      "name": "Hedera – McLaren Racing and Hedera partner to expand digital fan engagement",
-      "date": "2026-01-22",
-      "url": "https://hedera.com/blog/mclaren-racing-and-hedera-partner-to-expand-digital-fan-engagement",
-      "quote": "Hedera will become an Official Partner of the McLaren Mastercard Formula 1 and the Arrow McLaren IndyCar Team.",
+      "name": "Hedera: McLaren Racing Joins Hedera Council to Accelerate Digital Innovation",
+      "date": "2026-03-25",
+      "url": "https://hedera.com/blog/mclaren-racing-joins-hedera-council-to-accelerate-digital-innovation",
+      "quote": "McLaren Racing has joined Hedera Council, the governing body of Hedera",
       "checked": {
-        "on": "2026-09-27",
+        "on": "2026-09-28",
         "by": "Schnitzel"
       }
     }

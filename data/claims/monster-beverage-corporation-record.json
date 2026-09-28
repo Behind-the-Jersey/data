@@ -1,40 +1,30 @@
 {
   "id": "monster-beverage-corporation-record",
   "ownerIds": [
-    "monster-beverage-corporation"
+    "monster-beverage-corp"
   ],
   "kind": "ownership",
-  "text": "Monster Beverage went public in 1990 under its former name Hansen's Natural; the Monster Energy brand is created by Hansen Natural Company, now Monster Beverage Corporation.",
-  "short": "Monster Energy is made by Monster Beverage Corporation, public since 1990.",
+  "text": "Monster Beverage Corporation's subsidiaries develop and market energy drinks, including Monster Energy drinks. The Coca-Cola Company owned approximately 20.9% of Monster Beverage's common stock as of February 13, 2026.",
+  "short": "Monster Energy is made by Monster Beverage Corporation; Coca-Cola owns about 20.9%.",
   "source": {
-    "name": "Wikipedia – Monster Beverage",
-    "date": "2026-09-27",
-    "url": "https://en.wikipedia.org/wiki/Monster_Beverage",
-    "quote": "In 1990, Hansen's (original ticker symbol: HANS) went public with an initial public offering.",
+    "name": "Monster Beverage Corporation website",
+    "date": "2026",
+    "url": "https://www.monsterbevcorp.com/",
+    "quote": "The Company’s subsidiaries develop and market energy drinks, including Monster Energy® drinks",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
   "reviewed": false,
   "additionalSources": [
     {
-      "name": "Wikipedia – Monster Energy",
-      "date": "2026-09-27",
-      "url": "https://en.wikipedia.org/wiki/Monster_Energy",
-      "quote": "created by Hansen Natural Company (now Monster Beverage Corporation)",
+      "name": "Monster Beverage Corporation – Form 10-K for fiscal 2025 (SEC)",
+      "date": "2026-02-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+      "quote": "As of February 13, 2026, TCCC owned approximately 20.9% of our common stock.",
       "checked": {
-        "on": "2026-09-27",
-        "by": "Schnitzel"
-      }
-    },
-    {
-      "name": "Wikipedia – Monster Beverage",
-      "date": "2026-09-27",
-      "url": "https://en.wikipedia.org/wiki/Monster_Beverage",
-      "quote": "The Coca-Cola Company bought a 16.7% stake for $2.15 billion in Monster Beverage Corp in 2015.",
-      "checked": {
-        "on": "2026-09-27",
+        "on": "2026-09-28",
         "by": "Schnitzel"
       }
     }

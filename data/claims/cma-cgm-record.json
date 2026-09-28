@@ -4,17 +4,29 @@
     "cma-cgm"
   ],
   "kind": "ownership",
-  "text": "CEVA Logistics, Scuderia Ferrari HP's Premium Partner and Official Logistics Provider, has been a subsidiary of the French CMA CGM Group since 2019.",
-  "short": "CEVA Logistics has been a CMA CGM subsidiary since 2019.",
+  "text": "CEVA Logistics is a subsidiary of the CMA CGM Group. CMA CGM made a public tender offer for all publicly held CEVA shares; the shares still held by the public were cancelled by a Swiss court decision in September 2019, and CEVA was delisted from the SIX Swiss Exchange as of 10 October 2019.",
+  "short": "CEVA Logistics is a CMA CGM subsidiary; its last public shares were cancelled in 2019.",
   "source": {
-    "name": "Wikipedia – CEVA Logistics",
-    "date": "2026-09",
-    "url": "https://en.wikipedia.org/wiki/CEVA_Logistics",
-    "quote": "It has been a CMA CGM subsidiary since 2019, who acquired and merged other companies into CEVA",
+    "name": "CMA CGM Group – CMA CGM reports strong annual financial results for 2024",
+    "date": "2025-02-28",
+    "url": "https://www.cmacgm-group.com/en/news-media/2024-annual-financial-results",
+    "quote": "the CMA CGM Group, via its CEVA Logistics subsidiary, played a crucial role in the reception, storage, preparation and customs clearance of goods and equipment",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "CEVA Logistics – Cancellation of publicly held CEVA shares and delisting from SIX Swiss Exchange as of 10 October 2019 (press release)",
+      "date": "2019-10-02",
+      "url": "https://www.cevalogistics.com/documents/2020-07/CEVA%20Logistics%20-%20Delisting%20FINAL.pdf",
+      "quote": "corresponding to the offer price paid by CMA CGM S.A. in its public tender offer for all publicly held shares of CEVA",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }

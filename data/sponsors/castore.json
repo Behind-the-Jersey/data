@@ -1,12 +1,14 @@
 {
   "id": "castore",
   "name": "Castore",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "j-carter-sporting-club-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Castore is the trading name of J. Carter Sporting Club Limited, a private UK company controlled by its founders, Tom and Phil Beahon. Nothing found.",
+  "claimIds": [
+    "j-carter-sporting-club-limited-ownership"
+  ],
   "aliases": [],
-  "note": "Kit supplier to Al-Ettifaq (2026/27 per 433FC)."
+  "note": "Rating note: Private UK sportswear company (Companies House no. 09670915, Manchester); the persons-with-significant-control register names founders Philip and Thomas Beahon, no state body or fund in the chain → none. Kit maker (Castore) of the Athletic Club 2026/27 shirt per Score and Change."
 }

@@ -1,20 +1,32 @@
 {
   "id": "richard-mille-record",
+  "kind": "ownership",
   "ownerIds": [
     "richard-mille"
   ],
-  "kind": "ownership",
-  "text": "Richard Mille is a privately held Swiss watchmaker founded in 2001; its Ferrari partner page describes it as a pre-eminent player in watchmaking.",
-  "short": "Richard Mille is a privately held Swiss watchmaker founded in 2001.",
+  "text": "Richard Mille watches are developed, produced and distributed by Horométrie SA, the brand's operating company created in 2001, together with Guenat SA Montres Valgine, in Les Breuleux, Switzerland. Ferrari's partner page says the brand was founded in 2001.",
+  "short": "Horométrie SA, created in 2001, is the operating company of the Richard Mille brand.",
   "source": {
-    "name": "Ferrari – Richard Mille Team Partner page",
-    "date": "2026-09-24",
-    "url": "https://www.ferrari.com/en-EN/formula1/partners/richard-mille",
-    "quote": "Founded in 2001, RICHARD MILLE quickly established itself as one of the pre-eminent players within the watchmaking industry",
+    "name": "Richard Mille – Manufacture",
+    "date": "2026",
+    "url": "https://www.richardmille.com/page/manufacture",
+    "quote": "HOROMÉTRIE SA Created in 2001, it is the operating company of the Richard Mille brand",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Ferrari – Richard Mille Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/richard-mille",
+      "quote": "Founded in 2001, RICHARD MILLE quickly established itself as one of the pre-eminent players within the watchmaking industry",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }

@@ -12,9 +12,14 @@
       "sponsorId": "koemmerling",
       "placement": "front",
       "source": {
-        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-        "date": "2026-09-24",
-        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+        "name": "Mainz 05, 'Jako-Heimtrikot 2026/27: Dezente Mainzer Elemente prägen neues Jersey' (kit launch)",
+        "date": "2026-07-03",
+        "url": "https://www.mainz05.de/news/jako-heimtrikot-2026-27-dezente-mainzer-elemente-pragen-neues-jersey",
+        "quote": "Auch Haupt- und Trikotsponsor KÖMMERLING sowie Ärmelsponsor iDM sind natürlich wieder mit ihren Logos auf dem Trikot vertreten.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -22,13 +27,33 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "Mainz 05, 'Jako-Heimtrikot 2026/27: Dezente Mainzer Elemente prägen neues Jersey' (kit launch)",
+        "date": "2026-07-03",
+        "url": "https://www.mainz05.de/news/jako-heimtrikot-2026-27-dezente-mainzer-elemente-pragen-neues-jersey",
+        "quote": "Auch Haupt- und Trikotsponsor KÖMMERLING sowie Ärmelsponsor iDM sind natürlich wieder mit ihren Logos auf dem Trikot vertreten.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "jako",
+      "placement": "partner",
+      "source": {
+        "name": "Mainz 05, 'Jako-Heimtrikot 2026/27: Dezente Mainzer Elemente prägen neues Jersey' (kit launch)",
+        "date": "2026-07-03",
+        "url": "https://www.mainz05.de/news/jako-heimtrikot-2026-27-dezente-mainzer-elemente-pragen-neues-jersey",
+        "quote": "Auch Haupt- und Trikotsponsor KÖMMERLING sowie Ärmelsponsor iDM sind natürlich wieder mit ihren Logos auf dem Trikot vertreten.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Jako is the kit maker; the launch article is titled 'Jako-Heimtrikot 2026/27'."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "2026/27 home kit by Jako: KÖMMERLING on the front, iDM on the left sleeve. Kit launch names no back or shorts sponsor.",
   "change": null
 }

@@ -12,9 +12,15 @@
       "sponsorId": "vodafone",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-        "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "name": "BVB.de: BVB x Vodafone (club partner page)",
+        "date": "2026",
+        "url": "https://www.bvb.de/de/de/allgemein/partner/bvb-vodafone.html",
+        "note": "date precision: page current in 2026; deal runs since 2025/26",
+        "quote": "Aus Respekt vor dem BVB und seinen Millionen Fans ist Vodafone auf allen ikonischen, gelben BVB-Trikots seit der Saison 2025/26 mit seinem Logo in Schwarz vertreten",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -22,13 +28,32 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
+        "name": "ran/Joyn (Seven.One Sports): Borussia Dortmund kassiert mit neuem Sponsor Millionen",
+        "date": "2025-08-04",
+        "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-borussia-dortmund-kassiert-mit-neuem-sponsor-millionen-73566",
+        "quote": "stellte am Montag den schwedischen Elektroauto-Hersteller Polestar als offiziellen Mobilitätspartner und Ärmelsponsor für alle Wettbewerbe vor - zunächst für drei Jahre",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
         "name": "433FC, Bundesliga 2026/27 shirt sponsors",
         "date": "2026-06-15",
-        "url": "https://433fc.com/bundesliga-2026-27-shirt-sponsors/"
+        "url": "https://433fc.com/bundesliga-2026-27-shirt-sponsors/",
+        "quote": "Vodafone becomes Borussia Dortmund’s new main shirt sponsor, taking over from 1&1, while Polestar features as the sleeve sponsor",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Vodafone (front, since 2025/26), Polestar (sleeve, since 2025/26), Puma (kit maker).",
   "change": null
 }

@@ -4,17 +4,29 @@
     "coursera"
   ],
   "kind": "ownership",
-  "text": "Coursera agreed to acquire Udemy for about $930 million in equity, valuing the combined company at $2.5 billion.",
-  "short": "Coursera is acquiring Udemy for about $930m.",
+  "text": "Coursera completed its merger with Udemy on 11 May 2026: each Udemy share was converted into the right to receive 0.800 Coursera shares, and Udemy became a wholly owned subsidiary of Coursera.",
+  "short": "Udemy has been a wholly owned subsidiary of Coursera since May 2026.",
   "source": {
-    "name": "Wikipedia – Udemy",
-    "date": "2026-09-27",
-    "url": "https://en.wikipedia.org/wiki/Udemy",
-    "quote": "Coursera agreed to acquire Udemy for about $930 million in equity, valuing the combined company at $2.5 billion.",
+    "name": "Coursera – Form 10-Q for the quarter ended 30 June 2026 (SEC)",
+    "date": "2026-08-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1651562/000165156226000063/cour-20260630.htm",
+    "quote": "each issued and outstanding share of Udemy common stock was converted into the right to receive 0.800 shares of our common stock, and Udemy became a wholly owned subsidiary of Coursera",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Coursera – Coursera Completes Combination with Udemy to Build the World’s Most Comprehensive Skills Platform (press release)",
+      "date": "2026-05-11",
+      "url": "https://investor.coursera.com/news/news-details/2026/Coursera-Completes-Combination-with-Udemy-to-Build-the-Worlds-Most-Comprehensive-Skills-Platform/default.aspx",
+      "quote": "Coursera, Inc. (NYSE: COUR) today announced the completion of its combination with Udemy, Inc.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }

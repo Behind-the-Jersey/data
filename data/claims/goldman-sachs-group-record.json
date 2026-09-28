@@ -4,17 +4,29 @@
     "goldman-sachs-group"
   ],
   "kind": "ownership",
-  "text": "Goldman Sachs became a public company via an IPO in May 1999; it trades on the NYSE under GS.",
-  "short": "Goldman Sachs has been public since its May 1999 IPO.",
+  "text": "The Goldman Sachs Group, Inc. began trading on the New York Stock Exchange on May 4, 1999; its common stock trades on the NYSE under the symbol GS.",
+  "short": "Goldman Sachs has been listed on the NYSE (GS) since May 1999.",
   "source": {
-    "name": "Wikipedia – Goldman Sachs",
-    "date": "2026-09-27",
-    "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
-    "quote": "After decades of debate among the partners, Goldman Sachs became a public company via an IPO in May 1999.",
+    "name": "Goldman Sachs investor relations",
+    "date": "2026",
+    "url": "https://www.goldmansachs.com/investor-relations",
+    "quote": "The Goldman Sachs Group, Inc. began trading on the New York Stock Exchange on May 4, 1999.",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "The Goldman Sachs Group, Inc. – Form 10-K for fiscal 2025 (SEC)",
+      "date": "2026-02-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "quote": "The principal market on which our common stock is traded is the NYSE under the symbol “GS.”",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }
