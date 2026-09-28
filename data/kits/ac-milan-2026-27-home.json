@@ -12,13 +12,62 @@
       "sponsorId": "emirates",
       "placement": "front",
       "source": {
-        "name": "Football Italia",
-        "date": "2026-07-01",
-        "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal"
+        "name": "Football Italia, 'Official: Milan confirm €100m front-of-shirt sponsorship agreement'",
+        "date": "2025-10-15",
+        "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal",
+        "quote": "Milan have announced that they have extended their sponsorship agreement with the airline Emirates. Reports in Italy suggest that this new extension will be worth around €100m",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "bitpanda",
+      "placement": "back",
+      "source": {
+        "name": "Calcio e Finanza, 'Quanto vale la maglia dell'Inter: il confronto con Juve, Milan e Napoli'",
+        "date": "2026-07-29",
+        "url": "https://www.calcioefinanza.it/2026/07/29/sponsor-maglie-serie-a-juventus-inter-milan-napoli/",
+        "quote": "I 5 milioni di Bitpanda per lo spazio sul retro chiudono il cerchio, per un totale che supera i 70 milioni",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The article's breakdown of Milan's shirt sponsors (Emirates main, Puma technical, Bitpanda back, MSC sleeve), in the context of the 2026/27 season (Emirates' new base 'dal 2026/27', MSC's renewal). The club's sponsor page (acmilan.com/en/club/sponsor, opened 2026-09-28) also lists Bitpanda among its Principal Partners."
+      }
+    },
+    {
+      "sponsorId": "msc-cruises",
+      "placement": "sleeve",
+      "source": {
+        "name": "AC Milan, 'AC MILAN AND MSC CRUISES: FROM MILAN TO THE WORLD, THE JOURNEY CONTINUES'",
+        "date": "2026-07-16",
+        "url": "https://www.acmilan.com/en/news/articles/sponsor/2026-07-16/ac-milan-and-msc-cruises-from-milan-to-the-world-the-journey-continues",
+        "quote": "will remain Principal Partner and Official Sleeve Partner of the Club, with its logo featuring on the sleeve of the Men's First Team, Women's First Team, Milan Futuro and Primavera jerseys",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines, 'Milan 26-27 Home Kit Released'",
+        "date": "2026-05-22",
+        "url": "https://www.footyheadlines.com/2025/11/milan-26-27-home-kit.html",
+        "quote": "The Puma logo and the sponsor appear in white, standing out against the black/red background of the shirt.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "Emirates on the front (renewed in October 2025), MSC Cruises on the sleeve (renewed in July 2026), Bitpanda on the back, kit made by Puma: Calcio e Finanza's breakdown of Milan's 2026/27 shirt sponsors (29 July 2026) lists these four."
 }

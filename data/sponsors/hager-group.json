@@ -1,11 +1,17 @@
 {
   "id": "hager-group",
   "name": "Hager Group",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "hager-se",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Hager SE. Nothing found.",
+  "claimIds": [
+    "hager-se-ownership"
+  ],
+  "aliases": [
+    "Hager",
+    "Hager Electro"
+  ],
+  "note": "Rating note: Hager Group describes itself as an independent family-owned and family-run company (Blieskastel, Germany). No state or state fund appears in the chain, so proposed none."
 }

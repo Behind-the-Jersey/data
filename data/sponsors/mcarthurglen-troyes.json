@@ -1,11 +1,17 @@
 {
   "id": "mcarthurglen-troyes",
   "name": "McArthurGlen Troyes",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "mcarthurglen-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Designer outlet owned by McArthurGlen Group, a joint venture between the Kaempfer Partners and Simon Property Group (NYSE: SPG). Nothing found.",
+  "claimIds": [
+    "mcarthurglen-ownership"
+  ],
+  "aliases": [
+    "McArthurGlen Designer Outlet Troyes",
+    "Village de Marques Troyes"
+  ],
+  "note": "Rating note: Owners are a private European retail group and a US-listed REIT; no state or fund ownership, and no human-rights finding against the company opened. Nothing passes the test."
 }
