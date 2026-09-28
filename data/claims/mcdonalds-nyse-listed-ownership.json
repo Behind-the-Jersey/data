@@ -1,0 +1,21 @@
+{
+  "id": "mcdonalds-nyse-listed-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mcdonalds-corporation"
+  ],
+  "text": "McDonald's Corporation's common stock (trading symbol MCD) is registered under Section 12(b) of the US Securities Exchange Act on the New York Stock Exchange.",
+  "short": "McDonald's is a New York Stock Exchange-listed company",
+  "source": {
+    "name": "McDonald's Corporation Form 10-K for fiscal year 2025 (SEC EDGAR), cover page",
+    "date": "2026-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+    "quote": "Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, $0.01 par value MCD New York Stock Exchange",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "SEC requires a declared user agent for scripted access."
+  },
+  "reviewed": false
+}

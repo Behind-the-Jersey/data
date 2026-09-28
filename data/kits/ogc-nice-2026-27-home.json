@@ -12,9 +12,12 @@
       "sponsorId": "robinhood-markets",
       "placement": "front",
       "source": {
-        "name": "OGC Nice — Nos partenaires 2026/2027",
-        "date": "2026",
-        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        "name": "OGC Nice — Robinhood, sponsor principal du match, rend hommage à Dante (club article)",
+        "date": "2026-03-19",
+        "url": "https://www.ogcnice.com/fr/article/130119/robinhood-sponsor-principal-du-match-rend-hommage-a-dante.html",
+        "quote": "En tant que partenaire principal et sponsor maillot des équipes premières masculine et féminine, Robinhood continue de soutenir le club dans toutes ses compétitions.",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" },
+        "note": "Club's own article: Robinhood is the club's main partner and shirt sponsor of the men's and women's first teams. The club's partners page lists Robinhood first under 'Partenaires principaux'; Wikipedia's 2026–27 Ligue 1 kit table gives Nice 'Main: Robinhood Markets'."
       }
     },
     {
@@ -23,16 +26,22 @@
       "source": {
         "name": "OGC Nice — Nos partenaires 2026/2027",
         "date": "2026",
-        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html",
+        "quote": "Robin Hood Kappa Ineos Actual Vbet Limova",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" },
+        "note": "Actual is a Premium partner on the club's partners page (linked to groupeactual.eu). Wikipedia's 2026–27 Ligue 1 kit table places Actual Group on the front of the shirt: 'Nice ... Kappa Robinhood Markets List Front: Actual Group Back: Limova.ai Sleeves: Ineos Shorts: VBET Socks: None'."
       }
     },
     {
       "sponsorId": "limova-ai",
       "placement": "back",
       "source": {
-        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "name": "Wikipédia (EN) — 2026–27 Ligue 1, Personnel and kits (Nice row)",
         "date": "2026",
-        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+        "quote": "Kappa Robinhood Markets List Front: Actual Group Back: Limova.ai Sleeves: Ineos Shorts: VBET Socks: None",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" },
+        "note": "Wikipedia's kit table gives Back: Limova.ai. Limova appears as a Premium partner on the club's partners page (logo linked to limova.ai)."
       }
     },
     {
@@ -41,7 +50,10 @@
       "source": {
         "name": "OGC Nice — Nos partenaires 2026/2027",
         "date": "2026",
-        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html",
+        "quote": "Robin Hood Kappa Ineos Actual Vbet Limova",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" },
+        "note": "INEOS is a principal partner on the club's partners page; Wikipedia's 2026–27 Ligue 1 kit table places Ineos on the sleeves."
       }
     },
     {
@@ -50,11 +62,38 @@
       "source": {
         "name": "OGC Nice — Nos partenaires 2026/2027",
         "date": "2026",
-        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html",
+        "quote": "Ineos Actual Vbet",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" },
+        "note": "VBET is a Premium partner on the club's partners page (linked to the club's 'Play for fun avec Vbet.fr' article). Wikipedia's 2026–27 Ligue 1 kit table places VBET on the shorts."
+      }
+    },
+    {
+      "sponsorId": "kappa",
+      "placement": "partner",
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027 (Kappa listed under Partenaires principaux)",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html",
+        "quote": "Robin Hood Kappa",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" },
+        "note": "Kit maker (équipementier): Kappa is one of the three 'Partenaires principaux' on the club's partners page, alongside Robinhood and INEOS; Wikipedia's 2026–27 Ligue 1 kit table gives Kit maker: Kappa."
+      }
+    },
+    {
+      "sponsorId": "mcdonalds",
+      "placement": "patch",
+      "source": {
+        "name": "Ligue 1 McDonald's / LFP — league title sponsorship (Ligue 1 branded 'Ligue 1 McDonald's')",
+        "date": "2026",
+        "url": "https://ligue1.com/",
+        "quote": "Championships Ligue 1 McDonald's Ligue 2 BKT",
+        "checked": { "on": "2026-09-28", "by": "Schnitzel" },
+        "note": "League title sponsor whose branding is on the official Ligue 1 McDonald's sleeve patch. Not a direct OGC Nice club deal (deal: ligue-1-mcdonalds-title)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Kappa kit. Robinhood front; INEOS, the club's owner, on the sleeve.",
+  "sponsorsComplete": true,
+  "summary": "Kappa kit. Robinhood front with Actual; Limova on the back; INEOS, the club's owner, on the sleeve; VBET on the shorts; Ligue 1 McDonald's sleeve patch.",
   "change": null
 }
