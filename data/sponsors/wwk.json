@@ -5,10 +5,13 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by WWK Lebensversicherung a.G. (WWK Versicherungsgruppe). Nothing found.",
+  "verdict": "WWK Lebensversicherung a.G., a Munich mutual insurance association owned by its members. Nothing found.",
   "claimIds": [
     "wwk-lebensversicherung-ag-record"
   ],
-  "aliases": [],
-  "note": "Rating note: Founded 1884 in Munich; 140-year mutual insurer with a real-estate subsidiary. No state or listed-shareholder ownership."
+  "aliases": [
+    "WWK Versicherungsgruppe",
+    "WWK Lebensversicherung a.G."
+  ],
+  "note": "Rating note: Mutual insurer (Versicherungsverein auf Gegenseitigkeit) founded 1884 in Munich; owned by its members, not shareholders or the state (wwk.de Unternehmensprofil). FC Augsburg's shirt sponsor since 2015/16, also holds the WWK Arena naming rights. No sourced human-rights finding against the group was found."
 }
