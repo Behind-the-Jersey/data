@@ -1,12 +1,14 @@
 {
   "id": "nike",
   "name": "Nike",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "nike-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by NIKE, Inc., a NYSE-listed company with widely held shares. Nothing found.",
+  "claimIds": [
+    "nike-inc-ownership"
+  ],
   "aliases": [],
-  "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+  "note": "Kit supplier to Al-Ittihad and Al-Qadsiah, and kit maker for Sporting CP 2026-27. Re-rated 2026-09-28 from unrated: listed US company, no state holder, nothing found."
 }
