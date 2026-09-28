@@ -2,14 +2,33 @@
   "id": "gac-group-record",
   "kind": "ownership",
   "ownerIds": [
-    "gac-group"
+    "gac-group",
+    "guangzhou-municipal-government"
   ],
-  "text": "Guangzhou Automobile Group Co., Ltd. is a Chinese vehicle maker headquartered in Guangzhou and controlled by the Guangzhou municipal government (Guangzhou SASAC).",
-  "short": "Guangzhou municipal state-owned carmaker",
+  "text": "GAIG (Guangzhou Automobile Industry Group Co., Ltd.) is the controlling shareholder of GAC Group, holding approximately 54.02% of the company, and the ultimate controller of the company is the Guangzhou State-Owned Assets Administration Bureau, a department directly under the Guangzhou Municipal People's Government that performs the investor's role on its behalf.",
+  "short": "GAC Group is controlled by the Guangzhou municipal government: GAIG holds 54.02%; the ultimate controller is the Guangzhou State-Owned Assets Administration Bureau.",
   "source": {
-    "name": "GAC, GAC Global Site",
-    "date": "2026",
-    "url": "https://www.gac.com.cn/en/"
+    "name": "Guangzhou Automobile Group Co., Ltd. Annual Report 2025 (H-share, HKEX), Changes in Shares and Information on Shareholders, ultimate-controller note",
+    "date": "2026-04-29",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902580.pdf",
+    "quote": "GAIG is the controlling shareholder of the Company, holding approximately 54.02% of the Company’s equity interest",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Guangzhou Automobile Group Co., Ltd. 2025 Annual Report (A-share, cninfo), Share Changes and Shareholders, actual-controller note and control-chain diagram",
+      "date": "2026-04-29",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225266423.PDF",
+      "quote": "本公司實際控制人為廣州市人民政府國有資產監督管理委員會，是廣州市人民政府直屬機構，經廣州市人民政府授權，代表廣州市人民政府履行出資人職責",
+      "note": "Chinese A-share filing of the same annual report (different regulator, different host): names the Guangzhou Municipal SASAC as actual controller, holding 90% of Guangzhou Automobile Industry Group, which holds 54.02% of GAC Group.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }

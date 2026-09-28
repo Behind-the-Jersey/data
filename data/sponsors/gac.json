@@ -4,8 +4,24 @@
   "ownerId": "gac-group",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "status": "being-rated",
+  "verdict": "GAC (Guangzhou Automobile Group), a Chinese carmaker controlled by the Guangzhou municipal government.",
+  "claimIds": [
+    "gac-group-record",
+    "gac-uyghur-region-plants"
+  ],
+  "aliases": [
+    "GAC Group",
+    "Guangzhou Automobile Group"
+  ],
+  "why": {
+    "text": "GAC is controlled by the Guangzhou municipal government's state-assets commission, which holds 54.02% of the carmaker through Guangzhou Automobile Industry Group. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind GAC is a Chinese state's.",
+    "claimIds": [
+      "gac-uyghur-region-plants",
+      "gac-group-record"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Rating note: propose 'concern'. The link: GAC Group's 2025 annual report names Guangzhou Automobile Industry Group as controlling shareholder with 54.02% and the Guangzhou Municipal SASAC as actual controller (claim gac-group-record, primary document quoted twice). The record: the UN OHCHR 2022 Xinjiang assessment, with Sheffield Hallam's Driving Force report placing GAC plants in the Ürümqi automotive zone (claim gac-uyghur-region-plants). Judgement call: the controller is a city-level SASAC and the documented abuses are the national government's Xinjiang conduct, so 'concern' rather than 'serious' seems right; a maintainer should decide — the table's 'a state with a record controls the sponsor' reading could also support 'serious'. The report does not document labour transfers at GAC's own plants (unlike Dongfeng's supplier-level evidence). ON HOLD: proposed 'concern' in PR #348, pending maintainer review."
 }
