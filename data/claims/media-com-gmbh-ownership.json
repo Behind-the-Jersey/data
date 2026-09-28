@@ -1,0 +1,33 @@
+{
+  "id": "media-com-gmbh-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "media-com-gmbh"
+  ],
+  "text": "MEDIA.COM GmbH, Almerfeldweg 44, 59929 Brilon, is entered in the commercial register of Amtsgericht Arnsberg (HRB 7317) and is represented by Markus Frese; the company trades as MEDIA COM, a contractor for radio, audiovision, mobile-communications and electrical engineering.",
+  "short": "MEDIA.COM GmbH (Brilon, HRB 7317 Arnsberg), represented by managing director Markus Frese.",
+  "source": {
+    "name": "MEDIA.COM GmbH, Impressum (create-connectivity.com)",
+    "date": "2026",
+    "url": "https://www.create-connectivity.com/impressum.html",
+    "quote": "Angaben gemäß § 5 TMG MEDIA.COM GmbH Almerfeldweg 44 59929 Brilon Handelsregister: 7317 Registergericht: Arnsberg Vertreten durch: Herr Markus Frese",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "MEDIA COM GmbH, 'Create Connectivity' (company homepage)",
+      "date": "2026",
+      "url": "http://www.mediacom-gmbh.de",
+      "quote": "Wir bieten professionelle Serviceleistungen, eine vielfältige Produktpalette, mehr als 150 Techniker für lokale, nationale und inter- nationale Einsätze",
+      "note": "Same publisher as the imprint (the company's own site), so not independent; it corroborates the business and the footer identifies the site owner as 'MEDIA COM GmbH, Almerfeldweg 44, 59929 Brilon'. North Data's register mirror (northdata.de/Media.com+GmbH, Brilon) lists Amtsgericht Arnsberg HRB 7317, address Almerfeldweg 44, D-59929 Brilon, behind a paywall for shareholder names.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

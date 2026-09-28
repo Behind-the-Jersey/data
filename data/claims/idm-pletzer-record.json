@@ -1,0 +1,34 @@
+{
+  "id": "idm-pletzer-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "idm-energiesysteme",
+    "pletzer-gruppe"
+  ],
+  "text": "IDM Energiesysteme GmbH, the Austrian heat-pump manufacturer from Matrei in Osttirol, belongs to the family-run Pletzer Unternehmensgruppe in Tyrol, which acquired iDM in 1997 and calls it the largest company of the group.",
+  "short": "IDM belongs to the Tyrolean family-run Pletzer Unternehmensgruppe (acquired 1997).",
+  "source": {
+    "name": "Mainz 05, 'iDM verlängert Engagement bei Mainz 05 bis 2029'",
+    "date": "2026-05-07",
+    "url": "https://www.mainz05.de/news/idm-verlangert-engagement-bei-mainz-05-bis-2029",
+    "quote": "Das Familienunternehmen gehört zur ebenfalls familiengeführten Tiroler Pletzer Unternehmensgruppe",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Pletzer Unternehmensgruppe, 'Unsere Historie'",
+      "date": "2026",
+      "url": "https://www.pletzer-gruppe.at/die-gruppe/unsere-historie/",
+      "quote": "1997 Übernahme der iDM Energiesysteme",
+      "note": "Same page also states: 'Thomas Pletzer, der bereits die operative Geschäftsführung des größten Unternehmens der Gruppe übernommen hat: iDM Energiesysteme GmbH'.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

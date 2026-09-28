@@ -14,7 +14,13 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Athletic Club de Bilbao Kutxabank Financial services",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shirt-sponsor table row. Same article: 'Kutxabank sponsors the back of Basque clubs Alavés and Real Sociedad, while already being a front-of-shirt sponsor for Basque rival Athletic.'"
       }
     },
     {
@@ -24,11 +30,31 @@
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/",
-        "note": "back of shirt; B2BinPay did not renew the sleeve, left free"
+        "quote": "Telecommunications company Digi is also visible as both a front-of-shirt sponsor (Rayo Vallecano and vertical on Racing Santander’s shirtfronts) and a back-of-shirt sponsor (Athletic).",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Back of shirt. The article's sleeve-sponsor table lists no sleeve sponsor for Athletic Club ('Athletic Club de Bilbao – –'), one of five La Liga clubs without one; the article also states 'So far, 15 out of 20 La Liga teams have a sleeve sponsor.'"
+      }
+    },
+    {
+      "sponsorId": "castore",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Athletic Club de Bilbao Castore",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit-sponsor table row: Castore makes the 2026/27 Athletic Club shirt (kit maker, recorded as partner per existing convention)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Kutxabank on the front, Digi on the back, no sleeve sponsor (one of five La Liga clubs without one), Castore as kit maker.",
   "change": null
 }

@@ -12,13 +12,49 @@
       "sponsorId": "c-hedenkamp",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-        "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "name": "SC Paderborn 07, 'Hedenkamp wird es' (Haupt- und Trikotpartner announcement, 03.07.2026)",
+        "date": "2026-07-03",
+        "url": "https://www.scp07.de/Newsarchiv/Hedenkamp-wird-es.html",
+        "quote": "Der SC Paderborn 07 und sein Vermarktungspartner Infront Germany freuen sich, mit der C. Hedenkamp GmbH & Co. KG einen neuen Haupt- und Trikotpartner zu präsentieren.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Chest placement per Infront's release ('die Praesenz auf der Trikotbrust'); deal effective 1 July 2026. On the limited launch edition the front carried the print 'Sportclub' instead of the sponsor logo, as a tribute to the promotion."
+      }
+    },
+    {
+      "sponsorId": "media-com-gmbh",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "SC Paderborn 07, 'Trikots 2026/2027 - Unser Heimtrikot' (kit page)",
+        "date": "2026",
+        "url": "https://www.scp07.de/Trikots/Unser-Heimtrikot-1/",
+        "quote": "Auch Ärmel-Sponsor Mediacom ist natürlich gut sichtbar in der weißen und roten Schrift",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "SC Paderborn 07, 'Trikots 2026/2027 - Unser Heimtrikot' (kit page)",
+        "date": "2026",
+        "url": "https://www.scp07.de/Trikots/Unser-Heimtrikot-1/",
+        "quote": "hummel ist zudem mit seinem Logo in elegantem blau als Pendant zum weißen Sportclub-Logo zu sehen.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "hummel is the kit maker (Ausrüster); the same page names 'die markanten Chevrons von Ausrüster hummel'. Placement 'partner' per the New Balance/Atalanta convention."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "2026/27 home kit by hummel: C. Hedenkamp on the chest (Haupt- und Trikotsponsor since 1 July 2026), Mediacom on the sleeve, hummel as kit maker. The club's kit page names no back, shorts or separate patch sponsor; the Bundesliga promotion patch sits on the left sleeve.",
   "change": null
 }
