@@ -1,7 +1,9 @@
 {
   "id": "gac-group",
-  "name": "Guangzhou Automobile Group Co., Ltd. (Guangzhou SASAC)",
+  "name": "Guangzhou Automobile Group Co., Ltd. (GAC Group)",
   "type": "state",
-  "parentId": null,
-  "country": "China"
+  "parentId": "guangzhou-municipal-government",
+  "country": "China",
+  "via": "Guangzhou Automobile Industry Group Co., Ltd. holds 54.02% of the listed GAC Group; Guangzhou SASAC holds 90% of Guangzhou Automobile Industry Group",
+  "note": "Listed in Hong Kong and Shanghai (02238.HK / 601238.SH). Controlling shareholder Guangzhou Automobile Industry Group holds 54.02%; actual controller is the Guangzhou Municipal SASAC, per the company's 2025 annual report."
 }

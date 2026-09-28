@@ -5,8 +5,12 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "French private-tutoring brand; its operating companies are subsidiaries of Domia Group SA (RCS Paris 349 367 557). Nothing found.",
-  "claimIds": ["acadomia-domia-ownership"],
-  "aliases": ["ACADOMIA"],
-  "note": "Rating note: Domia Group is a private Paris company (president Maxime Aiach per the company registry); no state or fund owner identified."
+  "verdict": "Brand of Domia Group (AIS 2 SAS - ACADOMIA). Nothing found.",
+  "claimIds": [
+    "acadomia-domia-group-ownership"
+  ],
+  "aliases": [
+    "AIS 2 SAS"
+  ],
+  "note": "Rating note: Acadomia's own legal notice makes it a subsidiary of DOMIA GROUP SA. Metric Capital Partners lists the 2013 Fund I investment as Exited, so the current ownership above Domia Group is unclear; no state or fund control found, no human-rights finding found."
 }

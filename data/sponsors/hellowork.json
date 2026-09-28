@@ -1,11 +1,17 @@
 {
   "id": "hellowork",
   "name": "Hellowork",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "advenn",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French job platform whose président is Groupe Télégramme, the independent Breton group now called ADVENN, chaired by Edouard Coudurier. Nothing found.",
+  "claimIds": [
+    "hellowork-telegramme-ownership"
+  ],
+  "aliases": [
+    "HelloWork",
+    "Hellowork group"
+  ],
+  "note": "Company register: Hellowork SAS, président GROUPE TELEGRAMME; Advenn's governance page places Hellowork group within Advenn. No state or state fund appears in the sources."
 }
