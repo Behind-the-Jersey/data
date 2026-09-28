@@ -14,7 +14,13 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Rayo Vallecano | Digi | Telecommunications",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shirt-sponsor table row. The article's prose also names Digi as a front-of-shirt sponsor: Digi is 'both a front-of-shirt sponsor (Rayo Vallecano and vertical on Racing Santander's shirtfronts) and a back-of-shirt sponsor (Athletic)'."
       }
     },
     {
@@ -23,11 +29,32 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Rayo Vallecano | GCS | Aerospace",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Sleeve-sponsor table row. GCS has been Rayo's sleeve sponsor since the club announcement of 15 September 2023 (rayovallecano.es/noticias/gcs-nuevo-patrocinado-del-rayo-vallecano): 'Este nuevo patrocinador tendrá presencia en la manga de la equipación de juego del primer equipo masculino, femenino y del filial.'"
+      }
+    },
+    {
+      "sponsorId": "umbro",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Rayo Vallecano | Umbro",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit-sponsor table row: Umbro makes the 2026/27 Rayo Vallecano shirt (kit maker, recorded as partner per existing convention). 2Playbook reported on 18 September 2023: 'El club madrileño cuenta con Digi y Umbro como patrocinadores principales' and 'Digi y Umbro (socio técnico)'."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Digi on the front, GCS on the sleeve, Umbro as kit maker. The article's back-of-shirt and shorts tables list no back or shorts sponsor for Rayo (Digi's back-of-shirt deal is with Athletic).",
   "change": null
 }

@@ -1,0 +1,33 @@
+{
+  "id": "umbro-iconix-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "umbro",
+    "iconix-brand-group"
+  ],
+  "text": "Umbro is one of the brands of Iconix Brand Group, Inc., an American brand-management company that licenses its brands to retailers and manufacturers; Iconix acquired the Umbro brand from Nike for $225 million in 2012.",
+  "short": "Umbro is an Iconix Brand Group brand; Iconix is owned by Avram Glazer's trust.",
+  "source": {
+    "name": "Iconix Brand Group, Inc. Form 10-K for fiscal year 2020 (brand list including Umbro)",
+    "date": "2021-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/857737/000156459021017054/icon-10k_20201231.htm",
+    "quote": "Starter ® , Waverly ® , Ecko Unltd ® /Mark Ecko Cut & Sew ® , Zoo York ® , Umbro ® , Lee Cooper ® , and Artful Dodger ®",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "FashInvest, 'Iconix Brand Group Completes Acquisition of Umbro from Nike for $225 Million' (archived copy)",
+      "date": "2012-12-04",
+      "url": "https://web.archive.org/web/20130129115241/http://www.fashinvest.com/iconix-brand-group-completes-acquisition-umbro-nike-225-million/",
+      "quote": "Iconix Brand Group , Inc has just acquired the Umbro brand and other associated intellectual property assets from NIKE, Inc . The acquisition costs a total of $225 million in cash.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
