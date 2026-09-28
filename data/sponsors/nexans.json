@@ -1,11 +1,14 @@
 {
   "id": "nexans",
   "name": "Nexans",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "nexans-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Listed on Euronext Paris; institutional investors hold 81.28% of the capital. Nothing found.",
+  "claimIds": [
+    "nexans-sa-ownership"
+  ],
+  "aliases": [],
+  "note": "Bpifrance Participations (France) holds 5.20% and a board seat. France has no record of serious abuses, so this is not a link (METHOD.md: state ownership alone is not a tier; same reasoning as jeep)."
 }

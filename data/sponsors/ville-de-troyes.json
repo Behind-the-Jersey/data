@@ -1,11 +1,14 @@
 {
   "id": "ville-de-troyes",
   "name": "Ville de Troyes",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "ville-de-troyes",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The municipality of Troyes itself; a French local government body. Nothing found.",
+  "claimIds": [
+    "ville-de-troyes-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Front-of-shirt sponsor is the city itself (commune de Troyes). A French municipality is a public body with no abuse record proposed; per METHOD.md, a public owner without a sourced serious-abuse record is none."
 }

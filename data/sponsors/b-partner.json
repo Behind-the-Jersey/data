@@ -1,11 +1,16 @@
 {
   "id": "b-partner",
   "name": "B-Partner",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "b-partner-srl",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Belgian fintech (B Partner SRL, Waterloo). Nothing found.",
+  "claimIds": [
+    "b-partner-ownership"
+  ],
+  "aliases": [
+    "B Partner"
+  ],
+  "note": "Rating note: Private Belgian company; shareholders not disclosed in its legal notice, but no state or fund ownership appears in any source opened. Nothing passes the test."
 }

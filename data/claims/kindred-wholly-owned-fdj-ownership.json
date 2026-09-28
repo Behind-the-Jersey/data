@@ -1,0 +1,24 @@
+{
+  "id": "kindred-wholly-owned-fdj-ownership",
+  "kind": "ownership",
+  "ownerIds": ["fdj-united"],
+  "text": "Kindred Group Ltd. is wholly-owned by La Française des Jeux (FDJ UNITED) per the group organisation chart as at 31 December 2025; the URD also describes Kindred, acquired by FDJ UNITED in 2024, as a major European player in online gaming and betting operating brands such as Unibet and 32Red.",
+  "short": "Kindred Group Ltd. is wholly-owned by La Française des Jeux (FDJ UNITED)",
+  "source": {
+    "name": "FDJ UNITED — 2025 Universal Registration Document (URD), chapter 7.3.3, group organisation chart",
+    "date": "2026-03",
+    "url": "https://www.fdjunited.com/wp-content/uploads/2026/03/FDJUNITEDDEU2025ENVDEF.pdf",
+    "quote": "Kindred Group Ltd. Wholly-owned by La Française des Jeux",
+    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "FDJ UNITED — 2025 Universal Registration Document (URD), note 1 overview of the Group",
+      "date": "2026-03",
+      "url": "https://www.fdjunited.com/wp-content/uploads/2026/03/FDJUNITEDDEU2025ENVDEF.pdf",
+      "quote": "Kindred, a major European player in online gaming and betting. Acquired by FDJ UNITED in 2024, Kindred operates in several key European markets, notably the Netherlands, the United Kingdom, France, Sweden, Belgium and Romania.",
+      "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ac-milan-emirates-front",
+  "clubId": "ac-milan",
+  "orgName": null,
+  "sponsorId": "emirates",
+  "placement": "front",
+  "from": "2025",
+  "to": "2030",
+  "value": {
+    "amount": 20,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "Football Italia, 'Official: Milan confirm €100m front-of-shirt sponsorship agreement'",
+    "date": "2025-10-15",
+    "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal",
+    "quote": "Reports in Italy suggest that this new extension will be worth around €100m to Milan over a five-year period, or in other words, €20m per season.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Five-year renewal of a partnership running since 2007 (front-of-shirt since 2010-11). SportsPro reported the deal as '€30m-a-year' citing La Gazzetta dello Sport — the two outlets disagree; both figures are press reports, not club filings."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "b-partner-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "b-partner-srl"
+  ],
+  "text": "B Partner is operated by B Partner SRL, a company registered in the Belgian trade register under number BE 1003965341, with its head office at 161 Drève Richelle, 1410 Waterloo, Belgium.",
+  "short": "B Partner is B Partner SRL, a Belgian company.",
+  "source": {
+    "name": "B Partner — Mentions légales",
+    "date": "2026-09-28",
+    "url": "https://b-partner.com/pdf?doc=BPartner_MentionsL%C3%A9gales",
+    "quote": "B Partner SRL est une société immatriculée au registre de commerce en Belgique, sous le numéro BE 1003965341",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
