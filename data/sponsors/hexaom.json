@@ -1,11 +1,17 @@
 {
   "id": "hexaom",
   "name": "Hexaom",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "hexaom-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Hexaom SA, a century-old French family home-construction group listed on Euronext Growth Paris; shares widely held. Nothing found.",
+  "claimIds": [
+    "hexaom-sa-listing"
+  ],
+  "aliases": [
+    "Hexaôm",
+    "Groupe HEXAOM"
+  ],
+  "note": "Rating note: Family-centred home-construction group (Alençon, founded 1919 by the Picaud family per its own materials); listed on Euronext Growth Paris, no state or fund owner found in its chain → none. Main shirt sponsor from 2026-27 (club announcement 2 July 2026)."
 }

@@ -1,0 +1,32 @@
+{
+  "id": "groupe-ldc-matines-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "groupe-ldc"
+  ],
+  "text": "Matines, the egg brand on the Le Mans FC shirt, has belonged to the LDC group since 2022; LDC itself is listed on Euronext Paris (Eurolist compartment A, ISIN FR001400SF56, mnemonic LOUP) with a family shareholding of more than 69% of the capital.",
+  "short": "Matines has belonged to the listed Groupe LDC since 2022.",
+  "source": {
+    "name": "Matines — La marque",
+    "date": "2026",
+    "url": "https://www.matines.com/la-marque/",
+    "quote": "Matines appartient au groupe LDC depuis 2022.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "LDC — Finance / Caractéristiques du titre",
+      "date": "2026",
+      "url": "https://www.ldc.fr/finance",
+      "quote": "Le Groupe LDC a été introduit en Bourse depuis le 23 novembre 1995.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

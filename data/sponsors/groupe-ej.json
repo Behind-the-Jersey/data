@@ -1,11 +1,17 @@
 {
   "id": "groupe-ej",
   "name": "Groupe EJ",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-ej",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The Groupe EJ (Groupe Éric Jouvet) is the private construction group created by Éric Jouvet in 2005. Nothing found.",
+  "claimIds": [
+    "groupe-ej-creation"
+  ],
+  "aliases": [
+    "Groupe Éric Jouvet",
+    "EJ"
+  ],
+  "note": "Rating note: Private Sarthe construction group (creator and president Éric Jouvet); no state, fund or listed parent found → none. Long-time Le Mans FC partner; logo on the front of the 2026-27 home shirt."
 }

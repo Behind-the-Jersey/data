@@ -1,11 +1,17 @@
 {
   "id": "passenaud-recyclage",
   "name": "Passenaud Recyclage",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupe-passenaud",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Passenaud is an independent family waste-recycling business in the Sarthe since 1907. Nothing found.",
+  "claimIds": [
+    "groupe-passenaud-family-ownership"
+  ],
+  "aliases": [
+    "Groupe Passenaud",
+    "Passenaud"
+  ],
+  "note": "Rating note: Independent family ETI (recycling), no state or fund link found → none. Club partner for more than 20 years (Passenaud, May 2026)."
 }
