@@ -7,12 +7,12 @@
   "from": null,
   "to": "2028-29",
   "value": {
-    "amount": 3,
+    "amount": 5,
     "currency": "EUR",
     "unit": "m",
     "per": "year",
     "upTo": true,
-    "usdApprox": 3
+    "usdApprox": null
   },
   "source": {
     "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
