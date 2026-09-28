@@ -5,13 +5,15 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by Grupo Solverde (93.67% Violas SGPS, the Manuel Violas family holding). Nothing found.",
+  "verdict": "Solverde.pt is the online betting and casino brand of Grupo Solverde, a Portuguese casino and hotel group wholly held by the Violas family holding Violas SGPS. Nothing found.",
   "claimIds": [
+    "solverde-violas-ownership",
     "solverde-ownership"
   ],
   "aliases": [
     "solverde",
     "grupo solverde"
   ],
-  "note": "Online casino/betting brand of Grupo Solverde (casinos Espinho, Vilamoura, Monte Gordo, Portimao, Chaves); SRIJ-licensed. Main kit sponsor at SC Braga and Estoril Praia in 2026-27. Owner chain stops at the private Violas family holding; the group runs casinos under state concessions (Estado Portugues) and pays IEJ/IEJO gaming taxes, but the state holds no stake."
+  "note": "Rating note: online casino and betting brand of Grupo Solverde (casinos in Espinho, Vilamoura, Monte Gordo, Praia da Rocha and Chaves), SRIJ-licensed; main kit sponsor at SC Braga and Estoril Praia in 2026-27. The group is wholly held by Violas SGPS, the Violas family holding (solverde-violas-ownership); no state or state fund appears in that chain, so nothing passes the rating test.",
+  "ownerVerb": "paid for by"
 }

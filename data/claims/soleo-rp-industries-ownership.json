@@ -1,0 +1,21 @@
+{
+  "id": "soleo-rp-industries-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "r-p-industries"
+  ],
+  "text": "Soleo is a swimming-pool brand of R.P. Industries, S.A., a pool maker founded in 1994 with its head office in the Sobreposta industrial park, Braga.",
+  "short": "Soleo is the pool brand of R.P. Industries, S.A. (Braga).",
+  "source": {
+    "name": "Empresas de Piscinas SOLEO | RP Industries Piscinas",
+    "date": "2026",
+    "url": "https://www.rppiscinas.com/pt/empresas-de-piscinas/",
+    "quote": "é com a gama SOLEO que a RP INDUSTRIES usufrui de um protagonismo singular no mercado global de empresas de piscinas",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "The site's certificate chain is incomplete (the server doesn't send the Let's Encrypt intermediate), so scripts fail TLS verification; the page was read with verification off on 2026-09-28. The same page says 'Criada em 1994' and gives the head office as Parque Industrial de Sobreposta, Braga; its privacy text names R.P. Industries, S.A."
+  },
+  "reviewed": false
+}
