@@ -3,16 +3,18 @@
   "name": "Aushopping",
   "ownerId": "nhood-services-france",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "being-rated",
-  "verdict": "Aushopping is the shopping-centre network run by Nhood Services France.",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Network of Auchan shopping centres in France, run by Nhood Services France; Nhood belongs to New Immo Holding, an ELO company held by the Mulliez family association. Nothing found.",
   "claimIds": [
-    "aushopping-nhood-ownership"
+    "aushopping-nhood-ownership",
+    "auchan-mulliez-ownership"
   ],
   "aliases": [
     "V2 Aushopping",
     "Aushopping V2",
-    "V2 Au Shopping"
+    "V2 Au Shopping",
+    "Aushopping Noyelles"
   ],
-  "note": "Brand of the shopping-centre network formerly Ceetrus/Nhood; the LOSC partner is the V2 centre in Villeneuve d'Ascq branded Aushopping V2. Rating held: Nhood Services France's own shareholder is not stated on any open primary page found, so the chain stops at the operator."
+  "note": "Chain: Nhood Services France (publisher of aushopping.com) → New Immo Holding → ELO (family and employee shareholders) → Association Famille Mulliez. No state or state fund in the chain."
 }

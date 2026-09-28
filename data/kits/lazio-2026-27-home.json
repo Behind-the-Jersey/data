@@ -21,13 +21,28 @@
           "by": "Schnitzel"
         }
       }
+    },
+    {
+      "sponsorId": "mizuno",
+      "placement": "partner",
+      "source": {
+        "name": "Lazio Style Store - Lazio Maglia Gara Home 2026/27 (official club store product page)",
+        "date": "2026",
+        "url": "https://www.laziostylestore.com/it/lazio-maglia-gara-home-2026-27",
+        "quote": "Realizzata da Mizuno nell'iconico colore sky blue, reinterpreta uno dei grandi classici della storia del Club",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "date precision: year; the product page carries no publication date. The club's homepage partner wall (sslazio.it) also lists Mizuno as Ausrüster-equivalent kit supplier."
+      }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": {
     "kind": "worse",
     "badge": "Polymarket gone",
     "text": "Lazio start 2026-27 with a blank front: Polymarket signed in April, Italy's ADM blacklisted it in July, and the club terminated in August. kaiyunsports.news took the sleeve on 22 August."
   },
-  "summary": "Serie A. No front sponsor: Polymarket signed in April 2026 and the deal was terminated on 11 August, before the season began. kaiyunsports.news is the sleeve sponsor (Serie A matches, 2026/27 and 2027/28); the kit maker is Mizuno."
+  "summary": "Serie A. No front sponsor: Polymarket signed in April 2026 and the deal was terminated on 11 August, before the season began. kaiyunsports.news is the sleeve sponsor (Serie A matches, 2026/27 and 2027/28); the kit maker is Mizuno. Every placement checked against the club's official kit renders and store photos: only the sleeve carries a sponsor."
 }

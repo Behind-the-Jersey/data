@@ -9,26 +9,53 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "reuter",
-      "placement": "front",
-      "source": {
-        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-        "date": "2026-09-24",
-        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
-      }
-    },
-    {
       "sponsorId": "hylo",
       "placement": "front",
       "side": "front",
       "source": {
-        "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
-        "date": "2026-08",
-        "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+        "name": "SV 07 Elversberg: 'Unsere Farben. Unsere Zeit. Das neue Heimtrikot für die Bundesliga-Saison 2026/2027'",
+        "date": "2026-07-03",
+        "url": "https://sv07elversberg.de/unsere-farben-unsere-zeit-das-neue-heimtrikot-fuer-die-bundesliga-saison-2026-2027/",
+        "quote": "Als Brustsponsor bleibt das Produkt „HYLO“ unseres Hauptsponsors URSAPHARM weiterhin präsent.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "HYLO is the eye-care brand of Hauptsponsor URSAPHARM; ran.de/kicker list the deal as 'URSAPHARM, seit 1990, bis 2029, zwischen 3 und 5 Millionen Euro pro Jahr'."
+      }
+    },
+    {
+      "sponsorId": "pure-steel-plus",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "SV 07 Elversberg: 'Unsere Farben. Unsere Zeit. Das neue Heimtrikot für die Bundesliga-Saison 2026/2027'",
+        "date": "2026-07-03",
+        "url": "https://sv07elversberg.de/unsere-farben-unsere-zeit-das-neue-heimtrikot-fuer-die-bundesliga-saison-2026-2027/",
+        "quote": "„Pure Steel+“ als Marke unseres Premium-Partners SHS – Stahl-Holding-Saar wird auch in diesem Jahr auf den Ärmeln abgebildet.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "SV 07 Elversberg: 'Unsere Farben. Unsere Zeit. Das neue Heimtrikot für die Bundesliga-Saison 2026/2027'",
+        "date": "2026-07-03",
+        "url": "https://sv07elversberg.de/unsere-farben-unsere-zeit-das-neue-heimtrikot-fuer-die-bundesliga-saison-2026-2027/",
+        "quote": "Beide sind optisch harmonisch in das Gesamtdesign integriert, ebenso wie das SVE-Nike-Hologramm am unteren Trikot-Rand.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, named by the club as part of the shirt lineup (SVE-Nike hologram on the hem); not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Nike home shirt: HYLO (URSAPHARM's eye-care brand) on the chest, Pure Steel+ (SHS - Stahl-Holding-Saar) on the sleeves. URSAPHARM has been the club's Hauptsponsor since 1990; the shirt itself carries the HYLO product brand. No back, shorts or patch sponsor named by the club.",
   "change": null
 }

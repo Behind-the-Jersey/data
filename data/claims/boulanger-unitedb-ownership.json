@@ -5,17 +5,29 @@
     "united-b",
     "boulanger"
   ],
-  "text": "Boulanger belongs to the United.b group, an ecosystem of companies in home equipment, reconditioning and the circular economy; the group brings together the banners Boulanger, Electro Dépôt, Hifi International, Krëfel, Reconomia, Re!commerce and Environnement Recycling.",
+  "text": "Boulanger belongs to the United.b group, an ecosystem of companies in home equipment, reconditioning and the circular economy; the group brings together the banners Boulanger, Electro Dépôt, Hifi International, Krëfel, Reconomia, Re!commerce and Environnement Recycling. Le Journal des Entreprises lists Boulanger among the banners brought together by the Association familiale Mulliez (AFM).",
   "short": "Boulanger is part of the United.b group.",
   "source": {
-    "name": "Boulanger – Présentation (corporate presentation, boulanger.com)",
+    "name": "Boulanger — Présentation de Boulanger",
     "date": "2026-09-28",
-    "url": "https://www.boulanger.com/info/corporate/presentation",
+    "url": "https://www.boulanger.com/info/presentation-boulanger",
     "quote": "Boulanger fait partie du groupe United B , un écosystème d’entreprises engagées dans l’équipement du foyer, le reconditionné et l’économie circulaire. Le groupe rassemble plusieurs enseignes : Boulanger, Electro Dépôt, Hifi International, Krëfel, Reconomia, Re!commerce et Environnement Recycling.",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Le Journal des Entreprises — L'Association familiale Mulliez (AFM) se dote d'un nouveau siège",
+      "date": "2024-06-10",
+      "url": "https://www.lejournaldesentreprises.com/breve/lassociation-familiale-mulliez-afm-se-dote-dun-nouveau-siege-2097835",
+      "quote": "réunit 900 cousins et quelque 130 enseignes comme Auchan, Decathlon, Leroy Merlin, Kiabi, Jules, Electro Dépôt, Boulanger etc.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }

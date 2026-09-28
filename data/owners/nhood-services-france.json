@@ -2,8 +2,8 @@
   "id": "nhood-services-france",
   "name": "Nhood Services France",
   "type": "private-company",
-  "parentId": null,
-  "country": "FR",
-  "via": "SAS à capital variable (RCS Lille Métropole 534 886 411), Villeneuve d'Ascq; the operator of the Aushopping shopping-centre network",
-  "note": "Former Ceetrus/New Immo Holding services branch (renamed Nhood in 2021). Its ultimate shareholder (Auchan-related holding structure) is not stated on any open primary page found, so the parent is held at null. Registry shows NHOOD HOLDING (888171568) and NEW IMMO HOLDING (428803746) with overlapping boards, but no citable ownership statement."
+  "parentId": "new-immo-holding",
+  "country": "France",
+  "via": "Publisher of aushopping.com and of the Nhood France website; Nhood is held by New Immo Holding (aushopping-nhood-ownership)",
+  "note": "Société par actions simplifiée à capital variable, Villeneuve d'Ascq (RCS Lille Métropole 534 886 411, per the aushopping.com legal notice)."
 }
