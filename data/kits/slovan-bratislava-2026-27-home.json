@@ -1,0 +1,60 @@
+{
+  "id": "slovan-bratislava-2026-27-home",
+  "clubId": "slovan-bratislava",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nike-je-tipovanie",
+      "placement": "front",
+      "source": {
+        "name": "footpack, 'Pourquoi le Slovan Bratislava ne portera pas son sponsor « Niké » contre le PSG ?'",
+        "date": "2026-09-09",
+        "url": "https://www.footpack.fr/241043-pourquoi-le-slovan-bratislava-ne-portera-pas-son-sponsor-nike-contre-le-psg",
+        "quote": "Sur son maillot domicile 2026-2027, fabriqué par adidas, le Slovan Bratislava affiche en temps normal le logo de Niké, une société de paris sportifs slovaque",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Front-chest 'niké je tipovanie' logo confirmed visually on the club shop product photo (https://shop.skslovan.com/image/cache/catalog/2026/1-270x360.jpg, product 'Originálny dres Srdce Bratislavy 2026/2027') and the footyheadlines launch photos. The club site lists Niké as Generálny partner: https://www.skslovan.com/klub/partneri.php"
+      }
+    },
+    {
+      "sponsorId": "nike-je-tipovanie",
+      "placement": "patch",
+      "source": {
+        "name": "footpack, 'Pourquoi le Slovan Bratislava ne portera pas son sponsor « Niké » contre le PSG ?'",
+        "date": "2026-09-09",
+        "url": "https://www.footpack.fr/241043-pourquoi-le-slovan-bratislava-ne-portera-pas-son-sponsor-nike-contre-le-psg",
+        "quote": "Niké sponsorise d'ailleurs l'intégralité du championnat slovaque depuis 2023-2024, rebaptisé « Niké Liga » pour l'occasion, et affiche même son logo sur la manche gauche de la plupart des clubs du pays",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Small red/orange Niké Liga league patch visible on the left sleeve in the club-shop and footyheadlines launch photos; the patch text itself is too small to read in the photos, so the placement rests on this article's league-wide sleeve-patch description."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "ŠK Slovan Bratislava, 'ŠK Slovan Bratislava predstavuje novú sadu dresov na sezónu 2026/27: Srdce Bratislavy'",
+        "date": "2026-07-27",
+        "url": "https://www.skslovan.com/clanok13556-SK_Slovan_Bratislava_predstavuje_novu_sadu_dresov_na_sezonu_202627_Srdce_Bratislavy.htm",
+        "quote": "Nové dresy boli vyrobené v spolupráci s partnermi klubu adidas a 11teamsports",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, recorded as partner per existing convention. 11teamsports is a retail partner of the launch, not a kit maker."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "'Srdce Bratislavy' royal-blue home kit by adidas, released 27 July 2026. 'niké je tipovanie' (Niké, Slovak betting operator) in gold on the front chest; Niké Liga league patch on the left sleeve; adidas maker mark. Kit photos confirm no back sponsor (gold player names and numbers only) and plain blue shorts. Niké's sponsor logo is covered for Slovan's away games in France (PSG, LOSC) because the operator holds no French ANJ licence.",
+  "change": null
+}
