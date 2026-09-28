@@ -3,15 +3,15 @@
   "kind": "ownership",
   "ownerIds": [
     "misli-elektronik",
-    "demiroren-yatirim-holding"
+    "demiroren-holding"
   ],
-  "text": "Misli (misli.com), the betting brand that sponsors the Galatasaray shirt sleeve, is operated by Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş. and advanced with an investment it received from Demirören Holding in 2019; the Demirören group is a private family holding, not a state body.",
-  "short": "Misli is a Demirören group company (investment since 2019).",
+  "text": "The Misli app on the App Store lists MISLI ELEKTRONIK SANS OYUNLARI VE YAYINCILIK ANONIM SIRKETI as its developer. Demirören Holding's website lists Misli among its gaming businesses: it says Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş. is a legal electronic dealer set up under a 15 July 2009 contract with the Spor Toto Organization, and that Misli has grown with an investment it received from Demirören Holding in 2019. Futbol Medya reported in January 2019 that the Demirören group was bidding for misli.com, then owned by Hazar Büyüka.",
+  "short": "misli.com is run by Misli Elektronik, which received an investment from Demirören Holding in 2019.",
   "source": {
-    "name": "Demirören: Şans Oyunları (group website, faaliyet alanları)",
-    "date": "2026-09-28",
+    "name": "Şans Oyunları | Demirören Holding",
+    "date": "2026",
     "url": "https://www.demiroren.com.tr/faaliyet-alanlari/sans-oyunlari/",
-    "note": "date precision: page current when read 2026-09-28",
+    "note": "Same page: \"15 Temmuz 2009 tarihinde Spor Toto Teşkilatı ile yapılan sözleşme ile, spor müsabakalarına dayalı sabit ihtimalli bahis oyunlarını üyelerine sunmak üzere kurulmuş, yasal elektronik bayiidir\".",
     "quote": "Pazar lideri olma hedefiyle, 2019 yılında Demirören Holding’den aldığı yatırımla hızla ilerleyen Misli; pazara getirdiği yeni ürün özellikleri, oyuncuyu merkeze alan ‘Oyun Deneyimi’ yaklaşımı, yenilikçi kampanyaları ile şans oyunları ve sabit ihtimalli bahis oyunları konusunda iddiasını ortaya koymaktadır.",
     "checked": {
       "on": "2026-09-28",
@@ -20,10 +20,9 @@
   },
   "additionalSources": [
     {
-      "name": "Apple App Store: Misli – İddaa & At Yarışı (seller: Misli Elektronik Şans Oyunları ve Yayıncılık Anonim Şirketi)",
-      "date": "2026-09-28",
+      "name": "Misli – İddaa & At Yarışı (Apple App Store)",
+      "date": "2026",
       "url": "https://apps.apple.com/tr/app/misli-i-ddaa-canl%C4%B1-bahis/id531126816?l=tr",
-      "note": "date precision: page current when read 2026-09-28; names the operating company behind the misli brand",
       "quote": "Geliştirici MISLI ELEKTRONIK SANS OYUNLARI VE YAYINCILIK ANONIM SIRKETI",
       "checked": {
         "on": "2026-09-28",
@@ -31,15 +30,15 @@
       }
     },
     {
-      "name": "misli.com: Hakkımızda (about page)",
-      "date": "2026-09-28",
-      "url": "https://www.misli.com/hakkimizda",
-      "note": "date precision: page current when read 2026-09-28; quote read from the page's hakkimizda text bundle (the page loads it by script, so a reviewer opens it in a browser)",
-      "quote": "Misli, Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş. olarak Spor Toto Teşkilatı ve United Racing ile yapılan sözleşmeler kapsamında; spor müsabakalarına dayalı sabit ihtimalli bahis oyunlarını ve at yarışı bahislerini yasal çerçevede sunan lider bir şans oyunları platformudur.",
+      "name": "Futbol Medya: Medyadan sonra bahis dünyasında da değişim başladı. Demirören Grubu, misli.com’u satın alıyor",
+      "date": "2019-01-29",
+      "url": "https://www.futbolmedya.com/medyadan-sonra-bahis-dunyasinda-da-degisim-basladi-demiroren-grubu-misli-comu-da-satin-aliyor/",
+      "quote": "Demirören Grup, Türkiye’de internet üzerinden bahis oynatan 6 bahis sitesinden biri olan misli.com’a talip oldu",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
-      }
+      },
+      "note": "Same article: \"Hazar Büyüka’nın sahibi olduğu misli.com’u satın alırsa bahis oynatma yetkisine sahip olacak\"."
     }
   ],
   "reviewed": false

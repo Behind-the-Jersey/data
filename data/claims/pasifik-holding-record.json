@@ -4,25 +4,25 @@
   "ownerIds": [
     "pasifik-holding"
   ],
-  "text": "Pasifik is a privately held Turkish investment group that grew from Orçay A.Ş., founded in 1986, into 55 companies active in real estate, logistics, technology, energy and mining, four of them traded on BIST; its chairman is Fatih Erdoğan. Neither pasifik.com nor press coverage identifies a state or fund shareholder.",
-  "short": "Pasifik Holding is a private Erdoğan-family Turkish investment group (55 companies).",
+  "text": "Pasifik Holding's shareholder table lists Fatih Erdoğan, Abdulkerim Fırat and Mehmet Erdoğan with 26.67% of the capital each, and 'other (below 5%)' with 19.99%. Its board is chaired by Fatih Erdoğan. The group traces its start to the founding of Orçay A.Ş. in 1986 and has grown from real estate into logistics, technology, energy and mining; Fatih Erdoğan told Türk Spor Ajansı that it contributes to the Turkish economy with 55 companies.",
+  "short": "Pasifik Holding's main shareholders are Fatih Erdoğan, Abdulkerim Fırat and Mehmet Erdoğan, with 26.67% each.",
   "source": {
-    "name": "Pasifik Holding: Biz Kimiz (company website)",
-    "date": "2026-09-28",
-    "url": "https://pasifik.com/kurumsal/biz-kimiz",
-    "note": "date precision: page current when read 2026-09-28",
-    "quote": "1986 yılında ilk büyük girişimi olan Orçay A.Ş.’nin kuruluşuyla başlayan Pasifik’in yolculuğu; gayrimenkul yatırımlarıyla ivme kazandıktan sonra lojistik, teknoloji enerji ve maden gibi birçok stratejik sektöre yayılan ilklerle güçlenerek devam ediyor.",
+    "name": "Ortaklık ve Sermaye Yapısı | Pasifik Holding",
+    "date": "2026",
+    "url": "https://pasifik.com/yatirimci-iliskileri/kurumsal-yonetim/ortaklik-ve-sermaye-yapisi",
+    "quote": "Fatih ERDOĞAN 5.333.333.334 26,67 Abdulkerim FIRAT 5.333.333.334 26,67 Mehmet ERDOĞAN 5.333.333.334 26,67 Diğer (%5 altı) 4.000.000.000 19,99",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
-    }
+    },
+    "note": "Same page: the table is updated quarterly from data calculated by the Central Registry Agency (MKK) and published on KAP."
   },
   "additionalSources": [
     {
-      "name": "Pasifik Holding: Yönetim Kurulu (company website)",
-      "date": "2026-09-28",
+      "name": "Yönetim Kurulu | Pasifik Holding",
+      "date": "2026",
       "url": "https://pasifik.com/kurumsal/yonetim-kurulu",
-      "note": "date precision: page current when read 2026-09-28; lists Fatih ERDOĞAN as Yönetim Kurulu Başkanı",
+      "note": "The board page lists Fatih ERDOĞAN as Yönetim Kurulu Başkanı (chairman).",
       "quote": "Fatih ERDOĞAN Yönetim Kurulu Başkanı",
       "checked": {
         "on": "2026-09-28",
@@ -30,10 +30,20 @@
       }
     },
     {
-      "name": "Türk Spor Ajansı: Pasifik Holding G.Saray'ın göğsünde! (19 June 2025)",
+      "name": "Biz Kimiz? | Pasifik Holding",
+      "date": "2026",
+      "url": "https://pasifik.com/kurumsal/biz-kimiz",
+      "quote": "1986 yılında ilk büyük girişimi olan Orçay A.Ş.’nin kuruluşuyla başlayan Pasifik’in yolculuğu; gayrimenkul yatırımlarıyla ivme kazandıktan sonra lojistik, teknoloji enerji ve maden gibi birçok stratejik sektöre yayılan ilklerle güçlenerek devam ediyor.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Türk Spor Ajansı: Pasifik Holding G.Saray'ın göğsünde!",
       "date": "2025-06-19",
       "url": "https://turksporajansi.com/2025/06/19/pasifik-holding-g-sarayin-gogsunde/",
-      "note": "independent press coverage of the sponsor deal; chairman Fatih Erdoğan signed for Pasifik",
+      "note": "Reports the 2025-26 chest deal; Fatih Erdoğan signed for Pasifik.",
       "quote": "Pasifik Holding’in Türkiye ekonomisine 55 şirketiyle katkı sunduğunu vurgulayan Erdoğan, Galatasaray ile yakaladıkları uyumu şu sözlerle ifade etti",
       "checked": {
         "on": "2026-09-28",
