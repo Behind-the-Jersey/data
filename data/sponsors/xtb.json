@@ -1,11 +1,18 @@
 {
   "id": "xtb",
   "name": "XTB",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "xtb-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Trades on the Warsaw Stock Exchange as XTB S.A. (largest shareholder XX ZW Investment Group S.A., 27.78%; free float 72%). Nothing found.",
+  "claimIds": [
+    "xtb-sa-ownership"
+  ],
+  "aliases": [
+    "XTB S.A.",
+    "X-Trade Brokers"
+  ],
+  "note": "Rating note: Proposed tier none for issue #434 (2026-09-28). XTB S.A. is a listed Polish broker; its dominant shareholder XX ZW Investment Group S.A. (27.78%) is Luxembourg-seated and directly controlled by private investor Jakub Zabłocki. No state or state-fund owner in the chain. XTB is FC Porto's sleeve sponsor (domestic competitions) from 2026-27.",
+  "ownerVerb": "owned by"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "super-bock-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "super-bock-group"
+  ],
+  "text": "Per the Super Bock Group's own About us page, with a Portuguese majority, 56% of the Super Bock Group's capital is owned by the VIACER Group and 44% by the Carlsberg Group.",
+  "short": "Super Bock Group capital: 56% VIACER Group, 44% Carlsberg Group.",
+  "source": {
+    "name": "Super Bock Group - About us (Quem Somos)",
+    "date": "2026",
+    "url": "https://superbockgroup.com/group/about-us/?lang=en",
+    "quote": "With a Portuguese majority, 56% of the Super Bock Group's capital is owned by the VIACER Group and 44% by the Carlsberg Group",
+    "note": "Quote as shown on the page, minus the final full stop. The Portuguese version reads: 'Maioritariamente português, o capital do Super Bock Group é detido em 56% pelo Grupo VIACER e em 44% pelo Grupo Carlsberg.'",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

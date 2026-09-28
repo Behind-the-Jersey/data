@@ -12,31 +12,64 @@
       "sponsorId": "betano",
       "placement": "front",
       "source": {
-        "name": "Kaizen Gaming, 'Betano and FC Porto renew partnership until 2029' (Main Sponsor, logo on the front of the official match shirts)",
+        "name": "Kaizen Gaming, 'Betano and FC Porto renew partnership until 2029' (Main Sponsor, logo on the front of the official match and training shirts)",
         "date": "2026-07-30",
-        "url": "https://kaizengaming.com/news/betano-and-fc-porto-renew-partnership-until-2029-2/"
+        "url": "https://kaizengaming.com/news/betano-and-fc-porto-renew-partnership-until-2029-2/",
+        "quote": "The renewed agreement ensures Betano's continued presence on the front of the official match and training shirts of FC Porto's First Team and B Team.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Same announcement: 'Betano, Kaizen Gaming's premium online sports betting and gaming brand, will continue as FC Porto's Main Sponsor until the end of the 2028/29 season.'"
       }
     },
     {
       "sponsorId": "super-bock",
       "placement": "back",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Betano front slot; Super Bock back)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Super Bock - Football (We team up with... FC Porto), plus Wikipedia 2026-27 Primeira Liga Personnel and kits (Porto row: Back Super Bock)",
+        "date": "2026",
+        "url": "https://www.superbock.pt/en/football",
+        "quote": "We team up with... FC Porto",
+        "note": "Super Bock's own football page lists FC Porto under 'We team up with...' ('A partnership of champions with a Northeastern accent'). The back-of-shirt slot for 2026-27 is documented by the Wikipedia season page's Personnel and kits table, Porto row: 'Back: Super Bock'; its sleeves in UEFA matches carry Super Bock instead of XTB.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "xtb",
       "placement": "sleeve",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (XTB sleeve, UEFA matches)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "FC Porto, 'FC Porto and XTB announce partnership through 2028/29' (Official Investment Partner, sleeve of the men's first-team shirt)",
+        "date": "2026-08-07",
+        "url": "https://www.fcporto.pt/en/news/20260807-en-fc-porto-and-xtb-announce-partnership-through-2028-29",
+        "quote": "FC Porto and XTB have signed a three-year partnership running through the end of the 2028/29 season.",
+        "note": "Same announcement: XTB becomes the Club's new Official Investment Partner 'and will feature on the sleeve of the men's first-team shirt in all domestic competitions.' Wikipedia's 2026-27 Primeira Liga Personnel and kits table confirms XTB on the sleeves domestically, with Super Bock worn there in UEFA matches.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "new-balance",
+      "placement": "partner",
+      "source": {
+        "name": "FC Porto, 'A tribute to the 1980s: here is FC Porto's new 2026-27 kit' (home kit produced in partnership with New Balance)",
+        "date": "2026-05-16",
+        "url": "https://www.fcporto.pt/en/news/20260516-en-a-tribute-to-the-1980s-here-is-fc-porto-s-new-2026-27-kit",
+        "quote": "The new Futebol Clube do Porto kit for the 2026/27 season, once again produced in partnership with New Balance,",
+        "note": "Kit maker, named by the club as the producer of the 2026/27 kit; not a shirt sponsor in the front/back/sleeve sense.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
-  "change": null
+  "sponsorsComplete": true,
+  "change": null,
+  "summary": "New Balance home shirt: Betano on the front (Main Sponsor until 2028/29), Super Bock on the back, XTB on the sleeve in domestic competitions (Super Bock there in UEFA matches). Betano is Kaizen Gaming (private Greek/Czech owners, partly Allwyn), Super Bock Group sits with the Violas family (56% VIACER) and Carlsberg (44%), XTB S.A. is Warsaw-listed with private investor Jakub Zabłocki as dominant shareholder; no state owner found in any chain."
 }
