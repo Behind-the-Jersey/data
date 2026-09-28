@@ -2,10 +2,16 @@
   "id": "ebpay",
   "name": "EBpay",
   "ownerId": "ebpay",
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A Chinese crypto-payment wallet app for the EB coin. Its own site describes it as founded by a blockchain team with investment from private Southeast Asian internet groups; no state owner identified. Nothing found.",
+  "claimIds": [
+    "ebpay-record"
+  ],
+  "aliases": [
+    "EBPay",
+    "易币付"
+  ],
+  "note": "Rating note: Ownership is opaque - the site names no legal entity and ebpay.net was unreachable (HTTP 521) when checked 2026-09-28, so the claim rests on the site's own archived about text. No state owner appears anywhere in the site's own material."
 }

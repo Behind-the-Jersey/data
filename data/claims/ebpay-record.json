@@ -1,0 +1,19 @@
+{
+  "id": "ebpay-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "ebpay"
+  ],
+  "text": "EBpay presents itself as a professional multi-currency crypto wallet founded with investment from a world-class blockchain technology team and four major Southeast Asian internet groups, serving over 500,000 merchants; no state entity is named as an owner.",
+  "source": {
+    "name": "EBpay website (archived 2024-12-25), site text bundle (_nuxt/22ec48d.js)",
+    "date": "2024-12-25",
+    "url": "https://web.archive.org/web/20241225091726/https://www.ebpay.net/_nuxt/22ec48d.js",
+    "quote": "EBpay钱包是一款专业的多币种钱包，由世界一流区块链技术团队及东南亚四大互联网集团公司投资成立",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

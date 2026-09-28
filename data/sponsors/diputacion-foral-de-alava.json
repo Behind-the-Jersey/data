@@ -1,11 +1,19 @@
 {
   "id": "diputacion-foral-de-alava",
-  "name": "Diputacion Foral de Alava",
+  "name": "Diputación Foral de Álava (Araba)",
   "ownerId": "diputacion-foral-de-alava",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The logo is Araba/Álava, the brand of the Diputación Foral de Álava, the province's governing public body. Nothing found.",
+  "claimIds": [
+    "diputacion-foral-de-alava-record"
+  ],
+  "aliases": [
+    "Araba",
+    "Álava",
+    "Araba/Álava",
+    "Diputacion Foral de Alava"
+  ],
+  "note": "Rating note: Spanish provincial (foral) public body - state ownership alone is not a tier; no record of serious abuses found. Same treatment as Sabor a Málaga."
 }
