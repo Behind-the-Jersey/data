@@ -1,0 +1,34 @@
+{
+  "id": "hubert-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kerhupert"
+  ],
+  "text": "Le Rond Central, the Stade Brestois 29 sleeve sponsor, is the club's web shop, edited by the SAS KERMASPORT (SIREN 489019547, 69 rue Amiral Romain-Desfosses, Brest, capital EUR 475,700); its Président de SAS is the family holding KERHUPERT (SIREN 990088437, SARL), whose gérants are Geoffrey Julien Louis Hubert and Marie-Bénédicte Claire Hubert-Pons — the Hubert family. No state or sovereign-fund stake was found in the chain.",
+  "short": "Le Rond Central is edited by Kermasport, chaired by the Hubert family holding Kerhupert.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SIREN 489019547",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=489019547&per_page=1",
+    "quote": "\"dirigeants\":[{\"siren\":\"990088437\",\"denomination\":\"KERHUPERT\",\"qualite\":\"Président de SAS\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: nature juridique 5710 (SAS), siège 69 rue Amiral Romain-Desfosses, 29200 Brest. The registry response for KERHUPERT (990088437) lists HUBERT Geoffrey Julien Louis and HUBERT (PONS) Marie-Bénédicte Claire as gérants."
+  },
+  "additionalSources": [
+    {
+      "name": "Le Rond Central — mentions légales (lerondcentral.fr)",
+      "date": "2026",
+      "url": "https://www.lerondcentral.fr/mentions-legales",
+      "quote": "édité par la SAS KERMASPORT au Capital de 475 700,00 € Dont le siège social est 69 RUE AMIRAL ROMAIN DESFOSSES – 29200 BREST, Immatriculée au RCS de Brest sous le n° 489 019 547.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Confirms Kermasport edits the Le Rond Central shop."
+    }
+  ],
+  "reviewed": false
+}

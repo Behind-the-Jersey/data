@@ -1,11 +1,17 @@
 {
   "id": "le-rond-central",
   "name": "Le Rond Central",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "kerhupert",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The club's official web shop, edited by SAS KERMASPORT (Brest) whose Président de SAS is the Hubert family holding KERHUPERT. Nothing found.",
+  "claimIds": [
+    "hubert-family-ownership"
+  ],
+  "aliases": [
+    "Rond Central",
+    "Kermasport"
+  ],
+  "note": "Rating note: registry shows KERHUPERT (gérants Geoffrey Hubert and Marie-Bénédicte Hubert-Pons) as Président de SAS of KERMASPORT; the shop's mentions légales confirm Kermasport edits it. No state or fund stake found → none."
 }

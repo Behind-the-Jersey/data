@@ -1,0 +1,46 @@
+{
+  "id": "malo-sill-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "laiterie-de-saint-malo",
+    "sill-entreprises"
+  ],
+  "text": "Yaourt Malo is made by the Laiterie de Saint-Malo (SIREN 895780377, SAS, 9 rue du Clos du Noyer, Saint-Malo), whose Président de SAS is SILL Entreprises (SIREN 636220220) with Henri León — of the founding León family — as Directeur Général; the Malo brand therefore sits inside the same family-owned SILL federation (Falc'hun and León families since 1962). No state or sovereign-fund stake was found in the chain.",
+  "short": "The Malo dairy is chaired by SILL Entreprises, the Falc'hun/León family federation.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SIREN 895780377",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=895780377&per_page=1",
+    "quote": "\"dirigeants\":[{\"nom\":\"LEON\",\"prenoms\":\"HENRI\",\"annee_de_naissance\":\"1959\",\"date_de_naissance\":\"1959-11\",\"qualite\":\"Directeur Général\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: nature juridique 5710 (SAS), siège 9 rue du Clos du Noyer, 35400 Saint-Malo; SILL ENTREPRISES listed as Président de SAS."
+  },
+  "additionalSources": [
+    {
+      "name": "Stade Brestois 29 — Partenaire (business.sb29.bzh, site officiel)",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/yaourt-malo/",
+      "quote": "PARTENAIRE Malo 9, rue du Clos du Noyer 35400 Saint-Malo",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The club's own partner page gives the dairy's address (9 rue du Clos du Noyer) and names Falc'hun Gilles PDG."
+    },
+    {
+      "name": "Yaourt Malo — mentions légales (malo.fr)",
+      "date": "2026",
+      "url": "https://www.malo.fr/mentions-legales/",
+      "quote": "Éditeur : SILL ENTREPRISES, SAS au Capital de 18 830 562,30 € Dont le siège social est Lieu-dit Le Raden 29860 PLOUVIEN, Immatriculée au RCS de Brest sous le n° 636 220 220.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The Malo brand site is edited by SILL ENTREPRISES, confirming the brand sits inside SILL."
+    }
+  ],
+  "reviewed": false
+}

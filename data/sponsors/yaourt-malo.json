@@ -1,11 +1,18 @@
 {
   "id": "yaourt-malo",
   "name": "Yaourt Malo",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "laiterie-de-saint-malo",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Dairy brand of the Laiterie de Saint-Malo (Saint-Malo), chaired by SILL Entreprises — the same Falc'hun/León family federation behind the SILL chest sponsor. Nothing found.",
+  "claimIds": [
+    "malo-sill-ownership"
+  ],
+  "aliases": [
+    "Yaourt Malo",
+    "Malo",
+    "Laiterie de Saint-Malo"
+  ],
+  "note": "Rating note: registry shows SILL ENTREPRISES as Président de SAS of the Laiterie de Saint-Malo, with Henri León Directeur Général; malo.fr is edited by SILL. No state or fund stake found → none. Yaourt Malo is a club partner (business.sb29.bzh/partenaire/yaourt-malo/); 433FC's table pairs it with Quéguiner Matériaux as the shirt sponsors, but the official launch photos show Quéguiner Matériaux alone centre front on the home shirt, so Malo is kept as a rated partner rather than a home-kit placement."
 }

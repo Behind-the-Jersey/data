@@ -1,0 +1,45 @@
+{
+  "id": "abgrall-delanoe-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ad-invest"
+  ],
+  "text": "Oriance, the Stade Brestois 29 upper-back sponsor, is the brand of the Breton window-maker sarl A-D Oriance / ABGRALL-DELANOE (SIREN 480426758, Siret 480 426 758 00037, created 2004 in Brest), whose Président is the family holding AD Invest (SIREN 804544914, SARL, ZAC de Prat Pip Sud, 200 rue Robert Schuman, Guipavas — the Oriance works address); its gérants are Stephane Michel Abgrall and Bruno Yvon Delanoë, the founders' names. No state or sovereign-fund stake was found in the chain.",
+  "short": "Oriance is held through the family holding AD Invest of gérants Abgrall and Delanoë.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SIREN 804544914",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=804544914&per_page=1",
+    "quote": "\"dirigeants\":[{\"nom\":\"ABGRALL\",\"prenoms\":\"STEPHANE MICHEL\",\"annee_de_naissance\":\"1969\",\"date_de_naissance\":\"1969-09\",\"qualite\":\"Gérant\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: DELANOE Bruno Yvon is the second Gérant; nature juridique 5499 (SARL), siège ZAC de Prat Pip Sud, 200 rue Robert Schuman, 29490 Guipavas. The registry response for ABGRALL-DELANOE (480426758) lists AD INVEST as its Président."
+  },
+  "additionalSources": [
+    {
+      "name": "Oriance — mentions légales (oriance-fenetres.com)",
+      "date": "2026",
+      "url": "https://www.oriance-fenetres.com/mentions-legales",
+      "quote": "La sarl A-D Oriance au capital de 75 000 euros Dont le siège social est situé ZA de Prat Pip Sud, 200 Rue Robert Schuman, 29490 GUIPAVAS",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page: \"N° Siret : 480 426 758 00037\" — matches the registry's ABGRALL-DELANOE."
+    },
+    {
+      "name": "Stade Brestois 29 — Partenaire (business.sb29.bzh, site officiel)",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/oriance/",
+      "quote": "l'entreprise Oriance a été créée en 2004 à Brest",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The club's own partner page (Club des 29 names Abgrall Stéphane) confirms the 2004 Brest creation."
+    }
+  ],
+  "reviewed": false
+}

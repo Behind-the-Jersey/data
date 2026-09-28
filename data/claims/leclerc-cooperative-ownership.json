@@ -1,0 +1,45 @@
+{
+  "id": "leclerc-cooperative-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "e-leclerc-mouvement"
+  ],
+  "text": "E.Leclerc, the Stade Brestois 29 partner and a Ligue 1 retail sponsor, is the brand of a cooperative of independent merchant-owners: the movement's own site states it 'est une coopérative de commerçants rassemblés sous une même enseigne' whose members are 'chefs d'entreprise indépendants et propriétaires de leur centre E.Leclerc, membres actifs d'une coopérative nationale'; Wikipedia's infobox lists the actionnaires as 'Commerçants indépendants adhérents'. No state or sovereign-fund stake exists in the chain.",
+  "short": "E.Leclerc is owned by its cooperative of independent merchant-members.",
+  "source": {
+    "name": "E.Leclerc — Le Mouvement (recrutement.leclerc)",
+    "date": "2026",
+    "url": "https://www.recrutement.leclerc/le-mouvement/",
+    "quote": "Le Mouvement E.Leclerc est une coopérative de commerçants rassemblés sous une même enseigne.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same page: \"Ces entrepreneurs, chefs d'entreprise indépendants et propriétaires de leur centre E.Leclerc, sont membres actifs d'une coopérative nationale.\""
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipédia — E.Leclerc",
+      "date": "2026",
+      "url": "https://fr.wikipedia.org/wiki/E.Leclerc",
+      "quote": "Commerçants indépendants adhérents",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The infobox 'Actionnaires' line, describing who holds the movement."
+    },
+    {
+      "name": "Stade Brestois 29 — Partenaire (business.sb29.bzh, site officiel)",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/e--leclerc-/",
+      "quote": "C'est en 1949 que Monsieur Edouard Leclerc ouvre sa première épicerie à Landerneau",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The club's own partner page for E.Leclerc."
+    }
+  ],
+  "reviewed": false
+}

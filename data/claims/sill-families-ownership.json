@@ -1,0 +1,56 @@
+{
+  "id": "sill-families-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sill-entreprises"
+  ],
+  "text": "SILL, the Stade Brestois 29 chest sponsor, is the flagship of SILL Entreprises (SIREN 636220220, SAS, Le Raden, Plouvien, capital EUR 18,830,562.30, RCS Brest 636 220 220), founded in 1962 by two families of butter merchants, the Falc'hun and León families, and still run by them: Sebastien Floch is Président de SAS with Tristan Falc'hun and Henri León as Directeurs Généraux. No state or sovereign-fund stake was found in the chain.",
+  "short": "SILL Entreprises is the family federation founded in 1962 by the Falc'hun and León families.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SIREN 636220220",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=636220220&per_page=1",
+    "quote": "\"dirigeants\":[{\"nom\":\"FALC'HUN\",\"prenoms\":\"TRISTAN\",\"annee_de_naissance\":\"1979\",\"date_de_naissance\":\"1979-12\",\"qualite\":\"Directeur Général\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: FLOCH Sébastien Alain Olivier is Président de SAS and LEON Henri is the second Directeur Général; nature juridique 5710 (SAS), siège Plouvien (29860)."
+  },
+  "additionalSources": [
+    {
+      "name": "SILL Entreprises — home page (sill-entreprises.com)",
+      "date": "2026",
+      "url": "https://www.sill-entreprises.com/",
+      "quote": "SILL Entreprises began back in 1962 in a Breton town called Plouvien. As a longstanding family business bringing together a strong group of SMEs, SILL Entreprises is ready to take on whatever the future holds.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "SILL's own home page (its English version): confirms the 1962 Plouvien founding and that SILL Entreprises remains a family business."
+    },
+    {
+      "name": "Yaourt Malo — mentions légales (malo.fr)",
+      "date": "2026",
+      "url": "https://www.malo.fr/mentions-legales/",
+      "quote": "Éditeur : SILL ENTREPRISES, SAS au Capital de 18 830 562,30 € Dont le siège social est Lieu-dit Le Raden 29860 PLOUVIEN, Immatriculée au RCS de Brest sous le n° 636 220 220.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Confirms the SIREN, capital and registered office of the SILL parent."
+    },
+    {
+      "name": "Stade Brestois 29 — Partenaire (business.sb29.bzh, site officiel)",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/sill/",
+      "quote": "La SILL (Société Industrielle Laitière du Léon) a été créée en 1962 par 2 familles de marchands de beurre : les familles FALC'HUN et LEON",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The club's own partner page states the two founding families."
+    }
+  ],
+  "reviewed": false
+}

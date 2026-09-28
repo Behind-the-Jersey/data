@@ -1,11 +1,17 @@
 {
   "id": "breizh-cola",
   "name": "Breizh Cola",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "brasserie-lancelot",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Breton cola brewed since 2002 by the Brasserie Lancelot (La Mine d'Or, Val d'Oust), part of the farmer-owned cooperative Agrial since its 2021 buy-up of the Phare Ouest group. Nothing found.",
+  "claimIds": [
+    "lancelot-agrial-ownership"
+  ],
+  "aliases": [
+    "Breizh Cola",
+    "Brasserie Lancelot"
+  ],
+  "note": "Rating note: chain ends in the farmer members of the Agrial cooperative (nature juridique 6317) — private farmer ownership, not state. No state or fund stake found → none. Breizh Cola is a club partner (business.sb29.bzh/partenaire/breizh-cola/) but does not appear on the 2026-27 home shirt; it is kept rated for the partnership."
 }

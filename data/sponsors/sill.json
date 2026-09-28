@@ -1,11 +1,17 @@
 {
   "id": "sill",
   "name": "SILL",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "sill-entreprises",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "SILL (Société Industrielle Laitière du Léon), flagship of the Breton family agri-food federation SILL Entreprises, founded in 1962 by the Falc'hun and León families and still run by them. Nothing found.",
+  "claimIds": [
+    "sill-families-ownership"
+  ],
+  "aliases": [
+    "SILL",
+    "SILL Entreprises"
+  ],
+  "note": "Rating note: registry shows Sebastien Floch Président de SAS with Tristan Falc'hun and Henri León (the founding families) as Directeurs Généraux. No state or fund stake found → none."
 }
