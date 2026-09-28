@@ -1,11 +1,17 @@
 {
   "id": "seafrigo",
   "name": "Seafrigo",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "seafrigo-investissements",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by family holding Seafrigo Investissements (president Eric Barbe). Nothing found.",
+  "claimIds": [
+    "seafrigo-investissements-record"
+  ],
+  "aliases": [
+    "seafrigo group",
+    "sefrigo"
+  ],
+  "note": "Rating note: Le Havre cold-chain logistics group founded by Eric Barbe in 1979; chaired by his private holding company Seafrigo Investissements. Credit Mutuel Equity and BNP Paribas Developpement sit on its supervisory board, but no state or fund control is named. Front-of-shirt principal partner from 2026-27 (previously 2017-2020)."
 }

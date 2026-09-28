@@ -12,40 +12,74 @@
       "sponsorId": "seafrigo",
       "placement": "front",
       "source": {
-        "name": "Le Havre AC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "http://www.hac-foot.com/"
+        "name": "AJOT: Seafrigo becomes Principal Partner of Le Havre Athletic Club",
+        "date": "2026-09-11",
+        "url": "https://www.ajot.com/news/seafrigo-becomes-principal-partner-of-le-havre-athletic-club",
+        "quote": "Seafrigo is becoming the main partner of Le Havre Athletic Club and will have its brand displayed on the front of the first team’s shirts.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "sim-agences-d-emploi",
       "placement": "front",
       "source": {
-        "name": "Le Havre AC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "http://www.hac-foot.com/"
+        "name": "Le Havre AC — Nos partenaires (site officiel)",
+        "date": "2026-09-28",
+        "url": "https://hac.football/fr/nos-partenaires",
+        "quote": "SIM Agences d'emploi se positionne en tant que spécialiste indépendant des solutions RH et de l'intérim",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "df-industrie",
       "placement": "sleeve",
       "source": {
-        "name": "Le Havre AC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "http://www.hac-foot.com/"
+        "name": "Le Havre AC — Nos partenaires (site officiel)",
+        "date": "2026-09-28",
+        "url": "https://hac.football/fr/nos-partenaires",
+        "quote": "DF Industrie est une entreprise spécialisée dans la maintenance industrielle et les projets neufs, forte de plus de 55 ans d’expérience.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "zeturf",
       "placement": "shorts",
       "source": {
-        "name": "Le Havre AC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "http://www.hac-foot.com/"
+        "name": "Le Havre AC — Nos partenaires (site officiel)",
+        "date": "2026-09-28",
+        "url": "https://hac.football/fr/nos-partenaires",
+        "quote": "ZEturf est la marque de paris hippiques en ligne du groupe FDJ UNITED",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Boutique Officielle HAC — Maillot Domicile HAC 26/27",
+        "date": "2026-09-28",
+        "url": "https://boutique.hac.football/tenues-officielles/1203-maillot-domicile-hac-2627.html",
+        "quote": "Le HAC et Hummel présentent le maillot domicile des Ciel&Marine pour la saison 2026/2027",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Hummel kit. Seafrigo front.",
+  "sponsorsComplete": true,
+  "summary": "Hummel kit. Seafrigo main partner on the front, SIM upper chest, DF Industrie right sleeve, ZEturf on the shorts.",
   "change": null
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "ownership",
+  "id": "df-invest-record",
+  "ownerIds": [
+    "df-invest"
+  ],
+  "text": "DF Industrie is a SASU (single-shareholder company) whose sole shareholder and president is DF Invest, a privately held Le Havre SAS chaired by David Folliot; the registry names no state or state-fund shareholder.",
+  "short": "DF Industrie is wholly owned by private holding DF Invest (president David Folliot).",
+  "source": {
+    "name": "Pappers: DF INDUSTRIE (441 677 093), Lillebonne — dirigeants",
+    "date": "2026-09-28",
+    "url": "https://www.pappers.fr/entreprise/df-industrie-441677093",
+    "quote": "Président : DF Invest (SAS)",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Pappers: D.F. INVEST (797 787 231), Le Havre — dirigeants et sociétés dirigées",
+      "date": "2026-09-28",
+      "url": "https://www.pappers.fr/entreprise/df-invest-797787231",
+      "quote": "Dirigeant : Folliot David",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

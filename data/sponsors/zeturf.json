@@ -1,11 +1,17 @@
 {
   "id": "zeturf",
   "name": "Zeturf",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "fdj-united",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "ZEturf is the horse-race betting brand of FDJ United, part-owned by the French state (~20%). Nothing found.",
+  "claimIds": [
+    "fdj-united-record"
+  ],
+  "aliases": [
+    "zeturf france",
+    "zebet"
+  ],
+  "note": "Rating note: Gambling sponsor. ZEturf is the horse-race betting brand of FDJ United (acquired 2023, EV 175m EUR); founder Emmanuel de Rohan Chabot sold to FDJ. The French state holds a minority stake of about 20% in FDJ United after the 2019 privatisation - a state link (>=5% along the chain) but no control and no sourced record of serious abuses by that owner, so proposed none. Licensed by the French regulator ANJ (permits N°0064-PS/PO/PH-2025-01-23-AGR-00)."
 }

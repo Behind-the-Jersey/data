@@ -1,11 +1,17 @@
 {
   "id": "df-industrie",
   "name": "DF Industrie",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "df-invest",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Wholly owned by private holding DF Invest (president David Folliot). Nothing found.",
+  "claimIds": [
+    "df-invest-record"
+  ],
+  "aliases": [
+    "df",
+    "df industrie"
+  ],
+  "note": "Rating note: Norman industrial-maintenance contractor (Lillebonne, over 55 years of experience); SASU wholly held by DF Invest SAS, chaired by David Folliot. Sleeve partner on the 2026-27 home shirt."
 }
