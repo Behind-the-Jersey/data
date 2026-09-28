@@ -9,35 +9,79 @@
   "photos": {},
   "sponsors": [
     {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors (kit-makers table)",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Levante Macron",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker. The same article's text also says: 'Macron continued with Levante and Osasuna, while adding a new Basque club Alavés (previously Puma).'"
+      }
+    },
+    {
       "sponsorId": "sesame-hr",
       "placement": "front",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "2Playbook, \"El Levante UD firma a la 'techie' Sesame como patrocinador principal para 2026-2027\"",
+        "date": "2026-07-10",
+        "url": "https://www.2playbook.com/patrocinio/levante-ud-firma-techie-sesame-como-patrocinador-principal-2026-2027_22946_102.html",
+        "quote": "En el frontal de la camiseta ya luce Sesame , su nuevo patrocinador principal para esta temporada.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "gana-energia",
       "placement": "sleeve",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors (sleeve-sponsor table)",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Levante Gana Energía Energy and utilities",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "lowi",
       "placement": "back",
       "source": {
-        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
-        "date": "2025-10-08",
-        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "Lowi lower back of shirt"
+        "name": "2Playbook, \"El Levante UD firma a la 'techie' Sesame como patrocinador principal para 2026-2027\"",
+        "date": "2026-07-10",
+        "url": "https://www.2playbook.com/patrocinio/levante-ud-firma-techie-sesame-como-patrocinador-principal-2026-2027_22946_102.html",
+        "quote": "que mantiene a Lowi en la trasera de la camiseta",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Also in the Score and Change overview: 'In addition to Kutxabank, Abanca and Lowi have also partnered with two different La Liga clubs to feature on the back.' Blinkfire's 2025-26 guide documents Lowi at lower back of shirt last season."
+      }
+    },
+    {
+      "sponsorId": "internxt",
+      "placement": "shorts",
+      "source": {
+        "name": "2Playbook, \"El Levante UD firma a la 'techie' Sesame como patrocinador principal para 2026-2027\"",
+        "date": "2026-07-10",
+        "url": "https://www.2playbook.com/patrocinio/levante-ud-firma-techie-sesame-como-patrocinador-principal-2026-2027_22946_102.html",
+        "quote": "También seguirá Internxt en el pantalón.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "2026/27 home kit by Macron: Sesame HR on the front, Gana Energía on the sleeve, Lowi on the back and Internxt on the shorts.",
   "change": null
 }
