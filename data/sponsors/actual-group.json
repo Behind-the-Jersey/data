@@ -1,11 +1,17 @@
 {
   "id": "actual-group",
   "name": "Actual Group",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "actual-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Led by Samuel Tual, président since March 2019. Nothing found.",
+  "claimIds": [
+    "actual-group-tual-ownership"
+  ],
+  "aliases": [
+    "ACTUAL",
+    "Actual Leader Group"
+  ],
+  "note": "Mayenne workwear and temporary-staffing group (Actual, Plus Interim, Simei). The old kit entry listing Actual as front sponsor was wrong: it is a Partenaire officiel (losc.fr/partenaires) with no named shirt placement, so it is not on the 2026-27 home kit list."
 }

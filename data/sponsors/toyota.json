@@ -1,12 +1,17 @@
 {
   "id": "toyota",
   "name": "Toyota",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "ownerId": "toyota-motor-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Toyota en France is the premium partner; the brand sits under Toyota Motor Corporation, a listed company with no controlling owner. Nothing found.",
+  "claimIds": [
+    "toyota-motor-corporation-record"
+  ],
+  "aliases": [
+    "TOYOTA",
+    "Toyota en France"
+  ],
+  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Re-rated 2026-09-28 on the SEC 20-F ownership claim."
 }

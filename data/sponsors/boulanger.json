@@ -1,11 +1,18 @@
 {
   "id": "boulanger",
   "name": "Boulanger",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "boulanger",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Boulanger is part of the United.b group. Nothing found.",
+  "claimIds": [
+    "boulanger-unitedb-ownership",
+    "united-b-sa-registry",
+    "boulanger-sa-legal"
+  ],
+  "aliases": [
+    "BOULANGER"
+  ],
+  "note": "French electronics retailer (Lesquin, Nord). Part of the United.b group per Boulanger's own corporate presentation. United.b's own shareholders (a Mulliez-family holding) are registry-visible but not stated on an open primary page, so the chain is held at United.b itself."
 }

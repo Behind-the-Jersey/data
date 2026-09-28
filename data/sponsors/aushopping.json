@@ -1,11 +1,18 @@
 {
   "id": "aushopping",
   "name": "Aushopping",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "nhood-services-france",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "status": "being-rated",
+  "verdict": "Aushopping is the shopping-centre network run by Nhood Services France.",
+  "claimIds": [
+    "aushopping-nhood-ownership"
+  ],
+  "aliases": [
+    "V2 Aushopping",
+    "Aushopping V2",
+    "V2 Au Shopping"
+  ],
+  "note": "Brand of the shopping-centre network formerly Ceetrus/Nhood; the LOSC partner is the V2 centre in Villeneuve d'Ascq branded Aushopping V2. Rating held: Nhood Services France's own shareholder is not stated on any open primary page found, so the chain stops at the operator."
 }
