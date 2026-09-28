@@ -1,11 +1,16 @@
 {
   "id": "starbucks",
   "name": "Starbucks",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "starbucks-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Listed company (Nasdaq: SBUX). Nothing found.",
+  "claimIds": [
+    "starbucks-ownership"
+  ],
+  "aliases": [
+    "STARBUCKS"
+  ],
+  "note": "Rating note: Widely held listed US company; no controlling owner and no state links found."
 }

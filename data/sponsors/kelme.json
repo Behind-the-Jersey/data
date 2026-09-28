@@ -1,14 +1,16 @@
 {
   "id": "kelme",
   "name": "Kelme",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "new-millennium-sports",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "new-millennium-sports-ownership"
+  ],
   "aliases": [
     "new millennium sports"
   ],
-  "note": "Spanish sportswear brand; the AFC's Official Technical Sponsor and match-ball supplier, extended to 2029 and covering ACL Elite, Asian Cup 2027 and more (Kelme, 2024-11-18). Owner named in note only - New Millennium Sports S.L. (Wikipedia lead, not independently confirmed)."
+  "note": "Spanish sportswear brand; the AFC's Official Technical Sponsor and match-ball supplier, extended to 2029 and covering ACL Elite, Asian Cup 2027 and more (Kelme, 2024-11-18). Espanyol's kit maker since 2018-19 (La Grada, 2026-03-26). Kelme's legal notice names New Millennium Sports, S.L. as the owner of kelme.com; no public shareholder register found beyond the company itself."
 }

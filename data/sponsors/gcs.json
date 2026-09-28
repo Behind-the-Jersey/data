@@ -3,9 +3,16 @@
   "name": "GCS",
   "ownerId": "gcs",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "GCS is Griffin Core Solutions S.L., a Madrid aerospace company founded in 2021 and run by its administrators Alejandro and Sergio Molina Sanchez. Nothing found.",
+  "claimIds": [
+    "gcs-griffin-core-solutions-ownership",
+    "gcs-molina-directors-ownership"
+  ],
+  "aliases": [
+    "Griffin Core Solutions",
+    "GriffinCore Solutions"
+  ],
+  "note": "Rating note: Sleeve sponsor since 2023-24 (club announcement, 15 September 2023) and in the 2026/27 La Liga sleeve-sponsor table (industry: aerospace). A private Spanish S.L. whose administrators are Alejandro and Sergio Molina Sanchez per the BORME; its shareholders are not published, and no state body or fund was found linked to it. No court, regulator, UN body or major-NGO human-rights finding against the company found."
 }
