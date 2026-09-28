@@ -1,0 +1,33 @@
+{
+  "id": "jako-spruegel-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "jako-ag"
+  ],
+  "text": "JAKO is a family company: Nadine and Yvonne Sprügel lead JAKO together with their management board in the second generation, and founder Rudi Sprügel chairs the supervisory board. He founded the 'JAKO Sportartikelvertriebs GmbH' in 1989.",
+  "short": "JAKO is a Sprügel family company (founded 1989), led in the second generation.",
+  "source": {
+    "name": "JAKO, 'Über JAKO - Unternehmen'",
+    "date": "2026",
+    "url": "https://www.jako.com/de-de/ueber-jako/unternehmen/",
+    "quote": "Wir sind ein Familienunternehmen. Nadine und Yvonne Sprügel führen JAKO zusammen mit ihrem Vorstandsteam in der zweiten Generation. Gründer Rudi Sprügel ist Vorsitzender des Aufsichtsrats.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "JAKO, 'Über JAKO - Unternehmen' (history section)",
+      "date": "2026",
+      "url": "https://www.jako.com/de-de/ueber-jako/unternehmen/",
+      "quote": "Im Jahr 1989 gründete Rudi Sprügel die \"JAKO Sportartikelvertriebs GmbH\"",
+      "note": "Same page, history section - kept as a second quote rather than a second publisher.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
