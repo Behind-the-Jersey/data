@@ -1,0 +1,32 @@
+{
+  "id": "whitebit-group-record",
+  "ownerIds": [
+    "whitebit-group"
+  ],
+  "kind": "ownership",
+  "text": "WhiteBIT was established in Kharkiv, Ukraine, by entrepreneur Volodymyr Nosov, and its parent company is W Group.",
+  "short": "WhiteBIT was founded in Kharkiv, Ukraine by Volodymyr Nosov; parent company is W Group.",
+  "source": {
+    "name": "Yahoo Finance / Decrypt – Russia bans WhiteBIT, deeming crypto exchange 'undesirable'",
+    "date": "2026-01-26",
+    "url": "https://finance.yahoo.com/news/russia-bans-whitebit-deeming-crypto-224102212.html",
+    "quote": "Although the company is currently headquartered in Vilnius, Lithuania, WhiteBIT was established in Kharkiv, Ukraine, by entrepreneur Volodymyr Nosov.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Diia.City United – CEO of WhiteBIT Group Volodymyr Nosov joins the Strategic Board",
+      "url": "https://diiacityunited.org/en/ceo-of-whitebit-group-volodymyr-nosov-joins-the-strategic-board-of-diia-city-united/",
+      "date": "2024-12-16",
+      "quote": "The most popular one is the WhiteBIT cryptocurrency exchange, founded in 2018.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
