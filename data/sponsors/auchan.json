@@ -1,11 +1,14 @@
 {
   "id": "auchan",
   "name": "Auchan",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "auchan-retail-international",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French retailer whose parent company, ELO, has family and employee shareholders and is held by the Association Famille Mulliez. Nothing found.",
+  "claimIds": [
+    "auchan-mulliez-ownership"
+  ],
+  "aliases": [],
+  "note": "Chain: Auchan Retail International → ELO → Association Famille Mulliez. No state or state fund in the chain."
 }

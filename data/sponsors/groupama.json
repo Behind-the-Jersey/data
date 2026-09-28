@@ -1,11 +1,17 @@
 {
   "id": "groupama",
   "name": "Groupama",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "groupama-pvl-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Groupama Paris Val de Loire, a regional mutual insurer run on mutualist principles by its sociétaires (members). Nothing found.",
+  "claimIds": [
+    "groupama-pvl-mutual-ownership"
+  ],
+  "aliases": [
+    "Groupama Paris Val de Loire",
+    "Groupama Val de Loire"
+  ],
+  "note": "Rating note: a mutual has no shareholders; the Groupama group's parent (Groupama Assurances Mutuelles) is itself mutualist. No state or fund owner identified."
 }

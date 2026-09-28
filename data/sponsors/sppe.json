@@ -1,11 +1,17 @@
 {
   "id": "sppe",
   "name": "SPPE",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "raigneau-et-compagnie",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Société Pétrolière de Production et d'Exploitation, a Loiret oil company whose president is Raigneau et Compagnie. Nothing found.",
+  "claimIds": [
+    "sppe-raigneau-ownership"
+  ],
+  "aliases": [
+    "SPPE",
+    "Société Pétrolière de Production et d'Exploitation"
+  ],
+  "note": "Rating note: AJA's kit article describes Sppe as 'une société de production et d'exploitation de pétrole basée dans le Loiret'. Family-owned SAS; no state or fund owner identified."
 }

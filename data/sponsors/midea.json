@@ -3,9 +3,12 @@
   "name": "Midea",
   "ownerId": "midea-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Midea Group Co., Ltd. (SZSE 000333, HKEX 0300), controlled by founder He Xiangjian via Midea Holding (28.33%, non-state-owned). No state or fund shareholder of 5% or more. Nothing found.",
+  "claimIds": [
+    "midea-group-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Midea Group's 2024 annual report classifies its controlling shareholder Midea Holding Co., Ltd. as a 'Domestic non-state-owned corporation'; the largest state-linked holders (China Securities Finance 2.59%, Central Huijin 1.15%) are below the 5% link threshold, so no state link claimable."
 }

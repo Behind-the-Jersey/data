@@ -1,0 +1,20 @@
+{
+  "id": "ville-d-auxerre-commune-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ville-d-auxerre-owner"
+  ],
+  "text": "The auxerre.fr site is published by the Ville d'Auxerre, whose publication director is the mayor of Auxerre (Le maire d'Auxerre).",
+  "short": "Ville d'Auxerre is the French commune of Auxerre",
+  "source": {
+    "name": "Ville d'Auxerre: Mentions légales",
+    "date": "2026",
+    "url": "https://www.auxerre.fr/mentions-legales",
+    "quote": "Editeur du site Directeur de la publication : Le maire d'Auxerre Ville d'Auxerre 14 place de l'Hôtel de ville 8900 Auxerre",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
