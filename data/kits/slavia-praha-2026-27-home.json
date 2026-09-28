@@ -1,0 +1,45 @@
+{
+  "id": "slavia-praha-2026-27-home",
+  "clubId": "slavia-praha",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "etoro",
+      "placement": "front",
+      "source": {
+        "name": "SK Slavia Praha official site, partner page: 'eToro | SK Slavia Praha'",
+        "date": "2026",
+        "url": "https://www.slavia.cz/cze/partners/406",
+        "quote": "eToro je generálním partnerem klubu a podporuje jeho další rozvoj doma i na evropské scéně. Kromě loga na hrudi najdeme eToro na každém domácím zápase ve fanzoně",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "'Kromě loga na hrudi' = besides the logo on the chest, i.e. eToro appears on the chest (front) of the shirt. eToro is listed as the club's Generální partner (general partner) on https://www.slavia.cz/cze/partners."
+      }
+    },
+    {
+      "sponsorId": "castore",
+      "placement": "partner",
+      "source": {
+        "name": "SK Slavia Praha official fanshop, product 'Domácí dres Stadium 26/27 Castore muži červená/bílá'",
+        "date": "2026",
+        "url": "https://fanshop.slavia.cz/p3983-domaci-dres-stadium-26-27-castore-muzi-cervena-bila",
+        "quote": "Fanouškovská verze domácího dresu SK Slavia Praha pro sezonu 2026/27 zachovává ikonický červenobílý design",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, recorded as partner per existing convention. The club's partner page (https://www.slavia.cz/cze/partners/479) states 'Castore dodává Slavii oficiální týmové i tréninkové oblečení napříč sportovním úsekem klubu' (Castore supplies Slavia's official team and training clothing). Product photos show the gold Castore wing logo on the right chest."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "eToro on the front chest, Castore as kit maker. The official fanshop product photos confirm no back, sleeve or shorts sponsor: the back carries only a gold SLAVIA lettering under the collar, the sleeves are plain with a Czech tricolour trim, and the white shorts carry only the club crest and a gold Castore mark. Premium partners Fortuna, Visa and Chance and the other main partners appear on the club's partner list but not on the home shirt.",
+  "change": null
+}

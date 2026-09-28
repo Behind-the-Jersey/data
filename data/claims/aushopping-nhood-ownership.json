@@ -1,0 +1,53 @@
+{
+  "id": "aushopping-nhood-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nhood-services-france",
+    "new-immo-holding"
+  ],
+  "text": "The Aushopping.com website is published by Nhood Services France (Villeneuve d'Ascq, RCS Lille Métropole 534 886 411), which also publishes the Nhood France website; RC Lens describes Aushopping as the network brand of Auchan's shopping centres in France. New Immo Holding is the holding company of Foncière Ceetrus and of Nhood, a real-estate services platform created in 2021.",
+  "short": "Aushopping is run by Nhood Services France; Nhood is held by New Immo Holding",
+  "source": {
+    "name": "Aushopping — Mentions légales",
+    "date": "2026",
+    "url": "https://aushopping.com/mentions-legales",
+    "quote": "Le site internet www.aushopping.com est édité par NHOOD SERVICES FRANCE, Société par Actions Simplifiées à Capital Variable 243-245 rue Jean Jaurès, 59650 Villeneuve d’Ascq. RCS Lille Métropole : 534 886 411",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Nhood France — Mentions légales",
+      "date": "2026",
+      "url": "https://www.nhood.fr/mentions-legales",
+      "quote": "Le site internet www.nhood.fr est édité par NHOOD SERVICES FRANCE",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "RC Lens — Partenaires",
+      "date": "2026",
+      "url": "https://www.rclens.fr/fr/club/partenaires",
+      "quote": "Aushopping est la marque réseau des centres commerciaux Auchan en France.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "New Immo Holding — Page d'accueil",
+      "date": "2026",
+      "url": "https://www.newimmoholding.com/",
+      "quote": "New Immo Holding (NIH) est la société holding de la Foncière Ceetrus et de Nhood, plateforme de services immobiliers créée en 2021.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

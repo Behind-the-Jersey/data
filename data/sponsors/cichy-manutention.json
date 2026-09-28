@@ -1,11 +1,17 @@
 {
   "id": "cichy-manutention",
   "name": "Cichy Manutention",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "holding-cichy",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Monéteau (Yonne) materials-handling sales and rental company held by the family's Holding Cichy. Nothing found.",
+  "claimIds": [
+    "cichy-manutention-holding-ownership"
+  ],
+  "aliases": [
+    "Cichy",
+    "Cichy Manutention"
+  ],
+  "note": "Rating note: AJA's kit article describes it as 'une entreprise de vente et de location de solutions de manutention et de levage'. Family holding; no state or fund owner identified."
 }

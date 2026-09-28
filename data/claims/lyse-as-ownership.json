@@ -1,0 +1,32 @@
+{
+  "id": "lyse-as-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lyse-as"
+  ],
+  "text": "The Lyse group, headquartered in Stavanger, is wholly owned by 15 municipalities; the Brønnøysund Register files Lyse AS under sector code 1520, municipally owned limited companies.",
+  "short": "Lyse AS is wholly owned by 15 Norwegian municipalities.",
+  "source": {
+    "name": "Lyse: Om Lyse-konsernet",
+    "date": "2026",
+    "url": "https://www.lyse.com/om-oss",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "quote": "Konsernet er heleid av 15 kommuner og vår verdiskaping går tilbake til fellesskapet."
+  },
+  "additionalSources": [
+    {
+      "name": "Brønnøysund Register Centre - entity record 980001482 LYSE AS (open data API, sector code 1520 municipally owned companies)",
+      "date": "1998-06-17",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/980001482",
+      "quote": "Kommunalt eide aksjeselskaper mv.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

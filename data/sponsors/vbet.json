@@ -1,11 +1,16 @@
 {
   "id": "vbet",
   "name": "VBET",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "softconstruct",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Betting brand founded and owned by Vigen and Vahe Badalyan, co-founders of the SoftConstruct group. Nothing found.",
+  "claimIds": [
+    "vbet-ownership"
+  ],
+  "aliases": [
+    "Vbet France"
+  ],
+  "note": "Rating note: gambling operator (licensed by France's ANJ). Owner chain checked: private Armenian group, Badalyan brothers; no state link found."
 }
