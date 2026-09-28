@@ -1,11 +1,18 @@
 {
   "id": "boulanger",
   "name": "Boulanger",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "boulanger",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Boulanger is part of the United.b group. Nothing found.",
+  "claimIds": [
+    "boulanger-unitedb-ownership",
+    "united-b-sa-registry",
+    "boulanger-sa-legal"
+  ],
+  "aliases": [
+    "BOULANGER"
+  ],
+  "note": "French electronics retailer (Lesquin, Nord), part of the United.b group per Boulanger's own presentation. Le Journal des Entreprises lists Boulanger among the Mulliez family association's banners; United.b's own shareholders are not stated in a cited page, so the chain is held at United.b. No state or state fund appears in the sources."
 }
