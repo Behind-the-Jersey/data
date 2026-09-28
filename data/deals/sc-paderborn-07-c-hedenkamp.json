@@ -4,13 +4,25 @@
   "orgName": null,
   "sponsorId": "c-hedenkamp",
   "placement": "front",
-  "from": "2026-27",
-  "to": null,
-  "value": null,
-  "source": {
-    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-    "date": "2026-08-04",
-    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+  "from": "2026",
+  "to": "2028",
+  "value": {
+    "amount": 2.5,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": null
   },
-  "note": "Value not disclosed."
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (Stand 04.08.2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+    "quote": "Die zunächst über zwei Spielzeiten abgeschlossene Vereinbarung läuft bis zum Sommer 2028.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Value from the same page: 'Der jährliche Sponsoringbeitrag wird in Medienberichten auf rund 2,5 Millionen Euro geschätzt.' - a media estimate ('rund' -> upTo). Contract effective 1 July 2026 per the club's announcement."
+  }
 }
