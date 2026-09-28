@@ -14,7 +14,13 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Racing Santander Plenitude (main) Digi (vertical) Energy and utilities Telecommunications",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shirt-sponsor table row. Same article: 'Racing Santander has telecommunications company Digi featured vertically, while having Plenitude (energy and utilities) as main shirt sponsor.'"
       }
     },
     {
@@ -24,7 +30,12 @@
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/",
-        "note": "second vertical logo (Digi) on the shirt front"
+        "quote": "Racing Santander has telecommunications company Digi featured vertically, while having Plenitude (energy and utilities) as main shirt sponsor.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Second vertical logo (Digi) on the shirt front, below the main sponsor."
       }
     },
     {
@@ -33,7 +44,28 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Three clubs – Elche and promoted sides Málaga and Racing Santander – have even agreed with the same company MGS Seguros.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Sleeve-sponsor table row: 'Racing Santander MGS Seguros Financial services – insurance'."
+      }
+    },
+    {
+      "sponsorId": "austral",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Including Austral, who gained visibility in the Spanish topflight with Racing Santander’ s promotion.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit-sponsor table row: 'Racing Santander Austral'. Kit maker, recorded as partner per existing convention."
       }
     }
   ],

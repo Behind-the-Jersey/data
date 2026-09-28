@@ -3,9 +3,12 @@
   "name": "MGS Seguros",
   "ownerId": "mgs-seguros",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Unlisted Spanish insurer: no organised-market shares, largest named stake is the Fundación Mutua General de Seguros at 19.01%, no state body or fund in the chain. Nothing found.",
+  "claimIds": [
+    "mgs-seguros-fundacion-stake"
+  ],
+  "aliases": [],
+  "note": "MGS, Seguros y Reaseguros S.A. (Madrid). Sleeve sponsor of Racing Santander for 2026/27 per Score and Change; also sleeve sponsor of Málaga and Elche. The Fundación Mutua General de Seguros is a private foundation linked to the company, not a state body."
 }
