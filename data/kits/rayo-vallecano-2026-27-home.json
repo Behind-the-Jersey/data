@@ -14,7 +14,13 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Rayo Vallecano | Digi | Telecommunications",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shirt-sponsor table row. The article's prose also names Digi as a front-of-shirt sponsor: Digi is 'both a front-of-shirt sponsor (Rayo Vallecano and vertical on Racing Santander's shirtfronts) and a back-of-shirt sponsor (Athletic)'."
       }
     },
     {
@@ -23,11 +29,32 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Rayo Vallecano | GCS | Aerospace",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Sleeve-sponsor table row. GCS has been Rayo's sleeve sponsor since the club announcement of 15 September 2023 (rayovallecano.es/noticias/gcs-nuevo-patrocinado-del-rayo-vallecano): 'Este nuevo patrocinador tendrá presencia en la manga de la equipación de juego del primer equipo masculino, femenino y del filial.'"
+      }
+    },
+    {
+      "sponsorId": "umbro",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Rayo Vallecano | Umbro",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit-sponsor table row: Umbro makes the 2026/27 Rayo Vallecano shirt (kit maker, recorded as partner per existing convention)."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Digi on the front, GCS on the sleeve, Umbro as kit maker (Score and Change's shirt, sleeve and kit tables). The article has no per-club back-of-shirt or shorts table: its text says 15 clubs have a back sponsor and names Digi only as Athletic's, without saying whether Rayo has one, so no cited source confirms Rayo's back and shorts are unsponsored.",
   "change": null
 }
