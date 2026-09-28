@@ -5,24 +5,25 @@
     "naspers",
     "prosus-nv"
   ],
-  "text": "Prosus's majority shareholder is the South African multinational Naspers; the cross-shareholding deal completed in August 2021 reduced Naspers' stake in Prosus to 56.92% while giving Prosus an approximately 49% share in Naspers.",
-  "short": "Naspers holds a 56.92% stake in Prosus after the August 2021 restructuring.",
+  "text": "Prosus and Naspers both say Naspers is the majority owner of Prosus. Prosus was formed to house the international internet assets of Naspers, which has its primary listing on the Johannesburg Stock Exchange; Prosus listed on Euronext Amsterdam in September 2019.",
+  "short": "Naspers is the majority owner of Prosus.",
   "source": {
-    "name": "Wikipedia: Naspers",
+    "name": "Prosus: Group structure",
     "date": "2026",
-    "url": "https://en.wikipedia.org/wiki/Naspers",
-    "quote": "The deal, successfully completed in August 2021, reduced Naspers' stake in Prosus to 56.92% and gave Prosus an approximately 49% share in its parent company.",
+    "url": "https://www.prosus.com/about-us/group-structure",
+    "quote": "Prosus listed on the Euronext Amsterdam in September 2019, with a secondary, inward listing on the Johannesburg Stock Exchange in South Africa. Naspers is the majority owner of Prosus.",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
-    }
+    },
+    "note": "Same page: 'Prosus was formed to house the international internet assets of Naspers, a Johannesburg Stock Exchange listed global consumer internet company.' The cross-holding between Naspers and Prosus was removed in September 2023."
   },
   "additionalSources": [
     {
-      "name": "Wikipedia: Prosus",
+      "name": "Naspers: Group structure",
       "date": "2026",
-      "url": "https://en.wikipedia.org/wiki/Prosus",
-      "quote": "Prosus majority shareholder is South African multinational mass media company Naspers.",
+      "url": "https://www.naspers.com/the-group/group-structure",
+      "quote": "Prosus has its primary listing on Euronext Amsterdam and secondary listings on the JSE and A2X Exchanges in South Africa. Naspers is the majority owner of Prosus.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
