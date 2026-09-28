@@ -1,0 +1,32 @@
+{
+  "id": "unilever-record",
+  "ownerIds": [
+    "unilever"
+  ],
+  "kind": "ownership",
+  "text": "Unilever acquired Liquid I.V. in 2020 to build out its portfolio of brands in functional nutrition, health and wellbeing. Liquid I.V. is based in Los Angeles and has been part of Unilever since 2020.",
+  "short": "Liquid I.V. has been part of Unilever since 2020.",
+  "source": {
+    "name": "Unilever PLC – Annual Report on Form 20-F 2020 (SEC)",
+    "date": "2021-03-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/217410/000119312521075770/d14846d20f.htm",
+    "quote": "During the year, we acquired SmartyPants Vitamins and Liquid I.V. to build out our portfolio of brands in functional nutrition, health and wellbeing.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "McLaren Racing – Liquid I.V. partner page",
+      "date": "2026",
+      "url": "https://www.mclaren.com/racing/partners/liquid-iv/",
+      "quote": "Liquid I.V. is America's #1 powdered hydration brand, based in Los Angeles, CA and part of Unilever since 2020.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
