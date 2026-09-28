@@ -1,8 +1,9 @@
 {
   "id": "limad",
-  "parentId": "government-of-abu-dhabi",
-  "name": "L'IMAD Holding Company (Abu Dhabi sovereign investment fund; ADQ's assets consolidated into it in January 2026)",
+  "name": "L'IMAD (Abu Dhabi sovereign investor, formerly ADQ)",
   "type": "state-fund",
-  "country": "UAE",
-  "note": "Chaired by Sheikh Khaled bin Mohamed bin Zayed, Crown Prince of Abu Dhabi. Overseen by the Supreme Council for Financial and Economic Affairs with ADIA and Mubadala."
+  "country": "United Arab Emirates",
+  "parentId": "government-of-abu-dhabi",
+  "via": "Sovereign investor of the Government of Abu Dhabi; absorbed ADQ in 2026; chaired by Sheikh Tahnoon bin Zayed (The Inner Ring, 2026-08-05)",
+  "note": "UAE Team L'IMAD sponsor page: 'L'IMAD is a sovereign investor of the Government of Abu Dhabi.' Cyclingnews (2026-07-27): Abu Dhabi sovereign wealth fund reportedly worth about $300bn, chaired by Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan; ADQ absorbed into L'IMAD. The Inner Ring (2026-08-05) says the fund is chaired by Sheikh Tahnoon bin Zayed. Chair accounts differ between sources."
 }

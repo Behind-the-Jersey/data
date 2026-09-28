@@ -1,0 +1,33 @@
+{
+  "id": "gewiss-polifin-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "gewiss-spa",
+    "polifin-spa"
+  ],
+  "text": "POLIFIN SpA is the financial and industrial holding of the Bosatelli family that controls GEWISS, COSTIM and CHORUS LIFE.",
+  "short": "GEWISS is controlled by POLIFIN, the holding of the Bosatelli family.",
+  "source": {
+    "name": "Internews - Nuovi ingressi nel CdA Polifin, holding della famiglia Bosatelli",
+    "date": "2024-06-28",
+    "url": "https://www.internews.biz/nuovi-ingressi-nel-cda-polifin-holding-della-famiglia-bosatelli/",
+    "quote": "L’Assemblea di POLIFIN SpA, holding finanziaria e industriale della famiglia Bosatelli che controlla GEWISS, COSTIM e CHORUS LIFE",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "MilanoFinanza News - Gewiss rileva il 75% di Beghelli dalla famiglia Bosatelli",
+      "date": "2024-12-10",
+      "url": "https://www.milanofinanza.it/news/beghelli-accordo-con-gewiss-il-gruppo-del-salvavita-passa-alla-societa-della-famiglia-bosatelli-202412101520083739",
+      "quote": "Fondata 54 anni fa da Domenico Bosatelli, Gewiss fa parte della holding Polifin che controlla anche Costim e Chorus Life.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

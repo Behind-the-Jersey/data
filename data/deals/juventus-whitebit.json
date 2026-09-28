@@ -1,0 +1,29 @@
+{
+  "id": "juventus-whitebit",
+  "clubId": "juventus",
+  "orgName": null,
+  "sponsorId": "whitebit",
+  "placement": "sleeve",
+  "from": "2025-26",
+  "to": "2027-28",
+  "value": {
+    "amount": 5,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 5.8
+  },
+  "source": {
+    "name": "Sportcal (GlobalData) – Juventus name WhiteBIT as sleeve sponsor",
+    "date": "2025-06-16",
+    "url": "https://www.sportcal.com/sponsorship/juventus-name-whitebit-as-sleeve-sponsor-everton-partner-with-seat-unique/",
+    "short": "Sportcal",
+    "quote": "The deal will run through the 2025-26, 2026-27, and 2027-28 seasons and is understood to be worth around €5 million ($5.8 million) annually.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Press estimate ('understood to be worth around'); WhiteBIT replaces Azimut as sleeve sponsor."
+}

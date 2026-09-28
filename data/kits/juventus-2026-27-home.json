@@ -12,13 +12,60 @@
       "sponsorId": "jeep",
       "placement": "front",
       "source": {
-        "name": "Juventus FC",
-        "date": "2025-05-15",
-        "url": "https://www.juventus.com/it/news/articoli/jeep-e-visit-detroit-nuovi-front-of-shirt-partner-della-juventus-a-partire-dalla-stagione-2025-26"
+        "name": "Juventus FC – Jeep and Visit Detroit to serve as Juventus front-of-shirt partners",
+        "date": "2025-05-13",
+        "url": "https://www.juventus.com/en/news/articles/jeep-and-visit-detroit-to-serve-as-juventus-front-of-shirt-partners",
+        "quote": "The combined logos will appear on the First Team Men, Women and Next Gen jerseys in national competitions, while Jeep will be Juventus' primary front-of-shirt sponsor for matches played in international tournaments.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "visit-detroit",
+      "placement": "front",
+      "source": {
+        "name": "Visit Detroit – Born Bold: Visit Detroit & Juventus",
+        "date": "2026",
+        "url": "https://visitdetroit.com/juventus/",
+        "quote": "Visit Detroit is proud to be a front-of-shirt partner for the face of Italian football, Juventus FC.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "whitebit",
+      "placement": "sleeve",
+      "source": {
+        "name": "Juventus FC – WhiteBIT becomes Official Sleeve Partner and Official Cryptocurrency Exchange of Juventus",
+        "date": "2025-06-16",
+        "url": "https://www.juventus.com/en/news/articles/whitebit-becomes-official-sleeve-partner-and-official-cryptocurrency-exchange-of-juventus",
+        "quote": "Starting at the FIFA Club World Cup 2025, and continuing through the next three seasons (2025/26, 2026/27 2027/28), the WhiteBIT logo will be visible on the sleeve of the Men's First Team jersey.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "cygames",
+      "placement": "back",
+      "source": {
+        "name": "Juventus FC – Juventus and Cygames extend partnership until 2027",
+        "date": "2026-07-11",
+        "url": "https://www.juventus.com/en/news/articles/juventus-and-cygames-extend-partnership-until-2027",
+        "quote": "Cygames' logo will again be worn on the back of the Men's First Team shirt through the 2026/27 campaign,",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Deal runs to 30 June 2028; both Jeep and Visit Detroit appear on the front."
+  "summary": "Jeep and Visit Detroit share the front (domestic games; Jeep alone in Europe), WhiteBIT on the sleeve, Cygames on the back."
 }

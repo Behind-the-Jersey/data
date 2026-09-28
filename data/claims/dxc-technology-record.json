@@ -1,18 +1,18 @@
 {
   "id": "dxc-technology-record",
-  "kind": "ownership",
   "ownerIds": [
     "dxc-technology"
   ],
-  "text": "DXC Technology is a publicly traded American IT-services company whose shares trade on the New York Stock Exchange under the ticker DXC.",
+  "kind": "ownership",
+  "text": "DXC Technology is a publicly traded company: its common stock trades on the New York Stock Exchange under the symbol DXC. It is headquartered in Ashburn, Virginia.",
   "short": "DXC Technology trades on the NYSE under DXC.",
   "source": {
-    "name": "Wikipedia – DXC Technology",
-    "date": "2026-09",
-    "url": "https://en.wikipedia.org/wiki/DXC_Technology",
-    "quote": "It began trading on the New York Stock Exchange under the symbol DXC.",
+    "name": "DXC Technology – Form 10-K for the fiscal year ended 31 March 2026 (SEC)",
+    "date": "2026-05-08",
+    "url": "https://www.sec.gov/Archives/edgar/data/1688568/000168856826000022/dxc-20260331.htm",
+    "quote": "Our common stock trades on the New York Stock Exchange under the symbol \"DXC.\"",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },

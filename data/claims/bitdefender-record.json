@@ -1,20 +1,32 @@
 {
   "id": "bitdefender-record",
-  "kind": "ownership",
   "ownerIds": [
     "bitdefender"
   ],
-  "text": "Bitdefender is a cybersecurity company founded and headquartered in Bucharest, Romania; it was founded in 2001 by its current CEO and main shareholder, Florin Talpeș.",
-  "short": "Bitdefender was founded by its CEO and main shareholder Florin Talpeș.",
+  "kind": "ownership",
+  "text": "Bitdefender is a cybersecurity company co-founded by its CEO, Florin Talpeș, and his wife Mariuca. When Vitruvian Partners bought a stake of about 30% from Axxess Capital in December 2017, Bitdefender said Vitruvian became its second-largest shareholder and the co-founders continued to hold the majority stake.",
+  "short": "Bitdefender's co-founders, CEO Florin Talpeș and Mariuca Talpeș, held the majority stake (2017).",
   "source": {
-    "name": "Wikipedia – Bitdefender",
-    "date": "2026-09",
-    "url": "https://en.wikipedia.org/wiki/Bitdefender",
-    "quote": "The company was founded in 2001 by current CEO and main shareholder, Florin Talpeș.",
+    "name": "Bitdefender – Bitdefender Announces Investment from Growth Capital Investor Vitruvian Partners (press release, PR Newswire)",
+    "date": "2017-12-01",
+    "url": "https://www.prnewswire.com/news-releases/bitdefender-announces-investment-from-growth-capital-investor-vitruvian-partners---values-business-at-over-600m-661251673.html",
+    "quote": "Following the acquisition, Vitruvian becomes the second-largest shareholder with co-founders Mariuca and Florin Talpes continuing to hold the majority stake.",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Bitdefender – Leadership",
+      "date": "2026",
+      "url": "https://www.bitdefender.com/en-us/company/leadership",
+      "quote": "Co-founder and Chief Executive Officer, Florin Talpes is a visionary technology entrepreneur who together with his wife Mariuca, founded one of the first private software companies in post-communist Romania that grew to become Bitdefender.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }

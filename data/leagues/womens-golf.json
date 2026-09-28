@@ -1,0 +1,20 @@
+{
+  "id": "womens-golf",
+  "aliases": [
+    "Ladies European Tour",
+    "LET",
+    "LPGA Tour",
+    "Ladies Professional Golf Association",
+    "PIF Global Series",
+    "women's golf tours"
+  ],
+  "sportId": "golf",
+  "name": "Women's golf: Ladies European Tour & LPGA Tour (PIF Global Series)",
+  "country": "Global",
+  "clubCount": 0,
+  "season": "2026",
+  "status": "not-started",
+  "notes": [
+    "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
+  ]
+}

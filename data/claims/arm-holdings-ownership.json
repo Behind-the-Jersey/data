@@ -1,0 +1,19 @@
+{
+  "id": "arm-holdings-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "softbank-group"
+  ],
+  "text": "Arm Holdings plc's FY2026 annual report records 769,029,000 of its ordinary shares beneficially owned by SoftBank Group, representing a 72.0% equity interest in Arm.",
+  "source": {
+    "name": "Arm Holdings plc Form 20-F for fiscal year ended 31 March 2026",
+    "date": "2026-05-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000097/arm-20260331.htm",
+    "quote": "769,029,000 of our ordinary shares that are beneficially owned by SoftBank Group, representing a 72.0% equity interest in us, were pledged as security under the SoftBank Group Facility",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

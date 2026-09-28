@@ -1,18 +1,18 @@
 {
   "id": "genesys-record",
-  "kind": "ownership",
   "ownerIds": [
     "genesys"
   ],
-  "text": "Genesys is privately held; Wikipedia lists its owners as the private-equity firms Hellman & Friedman, Permira and Technology Crossover Ventures.",
-  "short": "Genesys is owned by private-equity firms Hellman & Friedman, Permira and TCV.",
+  "kind": "ownership",
+  "text": "In July 2025 Genesys announced $1.5 billion in investment commitments from Salesforce and ServiceNow, with the proceeds to be used to repurchase shares from existing equity holders; it said Hellman & Friedman and Permira remain the company's majority equity owners.",
+  "short": "Genesys is majority-owned by Hellman & Friedman and Permira (2025).",
   "source": {
-    "name": "Wikipedia – Genesys (company)",
-    "date": "2026-09",
-    "url": "https://en.wikipedia.org/wiki/Genesys_(company)",
-    "quote": "In July 2016, private equity investor Hellman & Friedman purchased a $900 million stake in Genesys from majority owners Permira and Technology Crossover Ventures",
+    "name": "Genesys – Genesys Announces $1.5 Billion Investment by Salesforce and ServiceNow (press release)",
+    "date": "2025-07-31",
+    "url": "https://www.genesys.com/company/newsroom/announcements/genesys-announces-1-5-billion-investment-by-salesforce-and-servicenow",
+    "quote": "Proceeds from the investment will be used to repurchase shares from the company’s existing equity holders. Hellman & Friedman and Permira remain the company’s majority equity owners.",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },

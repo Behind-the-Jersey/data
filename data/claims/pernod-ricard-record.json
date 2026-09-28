@@ -1,32 +1,42 @@
 {
   "id": "pernod-ricard-record",
-  "kind": "ownership",
   "ownerIds": [
     "pernod-ricard"
   ],
-  "text": "Chivas Regal, the Scotch whisky on the Ferrari partner grid, is produced by Chivas Brothers, a subsidiary of Pernod Ricard, a French spirits company traded on Euronext Paris (RI).",
-  "short": "Chivas Regal is produced by Chivas Brothers, a subsidiary of Pernod Ricard.",
+  "kind": "ownership",
+  "text": "Chivas Regal has been part of Pernod Ricard since 2001 and belongs to Chivas Brothers, Pernod Ricard's Scotch whisky business. Pernod Ricard's shares are listed on Euronext Paris (code RI).",
+  "short": "Chivas Regal has been part of Pernod Ricard since 2001.",
   "source": {
-    "name": "Wikipedia – Chivas Regal",
-    "date": "2026-09",
-    "url": "https://en.wikipedia.org/wiki/Chivas_Regal",
-    "quote": "is a blended Scotch whisky produced by the Chivas Brothers subsidiary of Pernod Ricard in Scotland",
+    "name": "Pernod Ricard – Chivas Regal (brand page)",
+    "date": "2026",
+    "url": "https://www.pernod-ricard.com/en/brands/chivas",
+    "quote": "The brand has been part of Pernod Ricard since 2001",
     "checked": {
-      "on": "2026-09-27",
+      "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
+  "reviewed": false,
   "additionalSources": [
     {
-      "name": "Wikipedia – Pernod Ricard",
-      "date": "2026-09",
-      "url": "https://en.wikipedia.org/wiki/Pernod_Ricard",
-      "quote": "Traded as Euronext Paris : RI CAC 40 component",
+      "name": "Pernod Ricard – Chivas Brothers invests in sustainable future of Scotch (press release)",
+      "date": "2022-04-29",
+      "url": "https://www.pernod-ricard.com/en/media/chivas-brothers-invests-sustainable-future-scotch",
+      "quote": "Chivas Brothers, the Scotch Whisky business of Pernod Ricard, today announced a £88 million investment into Aberlour and Miltonduff",
       "checked": {
-        "on": "2026-09-27",
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Pernod Ricard – Share & debt information",
+      "date": "2026",
+      "url": "https://www.pernod-ricard.com/en/investors/share-debt-information",
+      "quote": "Mnemonique code: RI Listed by : Euronext Paris",
+      "checked": {
+        "on": "2026-09-28",
         "by": "Schnitzel"
       }
     }
-  ],
-  "reviewed": false
+  ]
 }
