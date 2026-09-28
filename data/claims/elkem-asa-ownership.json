@@ -1,0 +1,35 @@
+{
+  "id": "elkem-asa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "elkem-asa",
+    "bluestar-elkem-international",
+    "china-national-bluestar",
+    "sinochem-holdings"
+  ],
+  "text": "Elkem ASA, an Oslo Stock Exchange-listed company, is owned 52.9 per cent by Bluestar Elkem International Co. Ltd S.A. of Luxembourg, which is owned by China National Bluestar and under the control of Sinochem Holdings Co., Ltd, a Chinese state-owned chemicals group.",
+  "short": "Elkem ASA is majority-owned by Bluestar Elkem International, controlled by Sinochem Holdings.",
+  "source": {
+    "name": "Elkem ASA - Integrated Annual Report 2025, note 1 (General information)",
+    "date": "2026-03",
+    "url": "https://www.elkem.com/globalassets/corporate/documents/annual-report/2025/elkem-asa---integrated-annual-report-2025.pdf",
+    "quote": "Elkem ASA is owned 52.9 per cent by Bluestar Elkem International Co. Ltd S.A., Luxembourg, which is under the control of Sinochem Holdings Co., Ltd (Sinochem), a company registered and domiciled in China.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipedia: Elkem",
+      "date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Elkem",
+      "quote": "China National Bluestar (52.91%) is the largest shareholder, ahead of Folketrygdfondet (4.28%) and Must Invest (3.07%)",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

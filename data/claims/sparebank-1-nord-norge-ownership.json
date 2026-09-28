@@ -1,0 +1,33 @@
+{
+  "id": "sparebank-1-nord-norge-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sparebank-1-nord-norge",
+    "sparebankstiftelsen-nord-norge"
+  ],
+  "text": "SpareBank 1 Nord-Norge is an independent Norwegian savings bank (sparebank). Sparebankstiftelsen Nord-Norge, a foundation set up in 2011, holds the bank's equity certificates (egenkapitalbevis) with the charter purpose of exercising long-term and stable ownership in the bank.",
+  "short": "SpareBank 1 Nord-Norge is a savings bank whose equity certificates are held by Sparebankstiftelsen Nord-Norge.",
+  "source": {
+    "name": "Brønnøysund Register Centre - entity record 997144406 SPAREBANKSTIFTELSEN NORD-NORGE (open data API)",
+    "date": "2011-05-05",
+    "url": "https://data.brreg.no/enhetsregisteret/api/enheter/997144406",
+    "quote": "Å utøve et langsiktig og stabilt eierskap i SpareBank 1 Nord-Norge, herunder forvalte de egenkapitalbevis som stiftelsen ble tilført ved opprettelsen",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Brønnøysund Register Centre - entity record 952706365 SPAREBANK 1 NORD-NORGE (open data API)",
+      "date": "2026",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/952706365",
+      "quote": "Sparebank.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

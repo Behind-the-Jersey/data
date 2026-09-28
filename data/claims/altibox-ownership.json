@@ -1,0 +1,32 @@
+{
+  "id": "altibox-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lyse-tele-as"
+  ],
+  "text": "Altibox, the Norwegian fibre broadband brand, has since April 2024 been a brand within Lyse Tele AS, a subsidiary of the Lyse group; until then Altibox AS was a wholly owned Lyse subsidiary.",
+  "short": "Altibox is a brand within Lyse Tele AS.",
+  "source": {
+    "name": "Wikipedia (Norwegian): Altibox",
+    "date": "2026",
+    "url": "https://no.wikipedia.org/wiki/Altibox",
+    "quote": "fra april 2024 en merkevare innenfor datterselskapet Lyse Tele AS",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipedia (Norwegian): Lyse-konsernet",
+      "date": "2026",
+      "url": "https://no.wikipedia.org/wiki/Lyse_Energi",
+      "quote": "Lyse Tele forvalter merkevarene Altibox og ice",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

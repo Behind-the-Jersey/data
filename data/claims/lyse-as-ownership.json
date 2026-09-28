@@ -1,0 +1,32 @@
+{
+  "id": "lyse-as-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lyse-as"
+  ],
+  "text": "The Lyse group, the parent of Lyse Tele and the Altibox brand, is owned by 15 municipalities in Southern Rogaland and Agder, with its headquarters in Stavanger.",
+  "short": "Lyse AS is owned by 15 municipalities in Southern Rogaland and Agder.",
+  "source": {
+    "name": "Wikipedia (Norwegian): Lyse-konsernet",
+    "date": "2026",
+    "url": "https://no.wikipedia.org/wiki/Lyse_Energi",
+    "quote": "Konsernet eies av 15 kommuner i Sør-Rogaland og Agder",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Brønnøysund Register Centre - entity record 980001482 LYSE AS (open data API, sector code 1520 municipally owned companies)",
+      "date": "1998-06-17",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/980001482",
+      "quote": "Kommunalt eide aksjeselskaper mv.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

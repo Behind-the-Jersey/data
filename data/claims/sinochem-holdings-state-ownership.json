@@ -1,0 +1,33 @@
+{
+  "id": "sinochem-holdings-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sinochem-holdings",
+    "government-of-china"
+  ],
+  "text": "Sinochem Holdings Co., Ltd is entry 43 in the directory of central state-owned enterprises (央企名录) published by SASAC, the State-owned Assets Supervision and Administration Commission of the State Council, making the Chinese state its ultimate owner.",
+  "short": "Sinochem Holdings is a Chinese central state-owned enterprise under SASAC.",
+  "source": {
+    "name": "SASAC (国务院国资委) - 央企名录 (central state-owned enterprises directory)",
+    "date": "2026-07-11",
+    "url": "http://www.sasac.gov.cn/n2588045/n27271785/n27271792/index.html",
+    "quote": "43 中国中化控股有限责任公司",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipedia: Sinochem",
+      "date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Sinochem",
+      "quote": "the key state-owned enterprise under the supervision of State-owned Assets Supervision and Administration Commission",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
