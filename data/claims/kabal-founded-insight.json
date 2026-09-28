@@ -4,13 +4,13 @@
   "ownerIds": [
     "kabal"
   ],
-  "text": "Kabal AS is a private Norwegian logistics-software company founded in 2011 by Jan Inge Pedersen and Fredrik Larsen, headquartered in Stavanger, and backed by investor Insight Partners; no controlling owner is named by its sources.",
-  "short": "Kabal AS is a private Stavanger software company founded in 2011, backed by Insight Partners.",
+  "text": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen and is backed by the investor Insight Partners, which made a growth investment in it in 2023; the Brønnøysund register lists KABAL AS as an aksjeselskap founded on 17 March 2011.",
+  "short": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen; Insight Partners made a growth investment in it.",
   "source": {
-    "name": "Kabal – Company page",
+    "name": "Kabal: Company",
     "date": "2026",
     "url": "https://kabal.com/company/",
-    "quote": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen ... Backed by world-leading investor Insight Partners, Kabal is committed to innovating for logistics excellence",
+    "quote": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
@@ -19,10 +19,20 @@
   "reviewed": false,
   "additionalSources": [
     {
-      "name": "Brønnøysundregistrene – Enhetsregisteret, KABAL AS (orgnr 996 787 303)",
-      "date": "2026-09-28",
+      "name": "Willkie: Willkie Advises Insight Partners in Investment in Kabal",
+      "date": "2023-05-24",
+      "url": "https://www.willkie.com/news/2023/05/willkie-advises-insight-partners-in-investment-in-kabal",
+      "quote": "Willkie represented Insight Partners in its significant strategic growth investment in Kabal, a Norwegian logistics SaaS platform for the global energy industry.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Brønnøysund Register Centre - entity record 996787303 KABAL AS (open data API)",
+      "date": "2011-03-17",
       "url": "https://data.brreg.no/enhetsregisteret/api/enheter/996787303",
-      "quote": "navn: KABAL AS | organisasjonsform: Aksjeselskap | institusjonellSektorkode: 'Private aksjeselskaper mv.' (2100) | stiftelsesdato: 2011-03-17",
+      "quote": "\"stiftelsesdato\":\"2011-03-17\"",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"

@@ -1,20 +1,17 @@
 {
   "id": "lyse",
   "name": "Lyse",
-  "ownerId": "lyse",
+  "ownerId": "lyse-as",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by 15 Norwegian municipalities (kommunalt eide aksjeselskaper). Nothing found.",
+  "verdict": "Stavanger energy and telecom group, wholly owned by 15 Norwegian municipalities. Nothing found.",
   "claimIds": [
-    "lyse-municipal-ownership",
-    "lyse-hovedsponsor-30-years"
+    "lyse-as-ownership"
   ],
   "aliases": [
     "Lyse AS",
-    "Lyse Konsern",
-    "Altibox",
-    "ice"
+    "Lyse Konsern"
   ],
-  "note": "Rating note: Viking's front-of-shirt sponsor and hovedsamarbeidspartner since 1994 (partner page). Norwegian municipal energy and telecoms group; wholly owned by 15 municipalities per the club's partner page, confirmed by the Brønnøysund sector code 1520 (kommunalt eide aksjeselskaper). Municipal Norwegian ownership with no record findings in this run. State/municipal ownership alone is not a tier (METHOD.md)."
+  "note": "Rating note: Viking's main partner (hovedsamarbeidspartner), on the chest of the 2026 home shirt. Lyse AS is owned by 15 municipalities (lyse-as-ownership); public owners without a sourced record of abuses are not a tier (METHOD.md), so 'none'. Altibox, a Lyse brand, is its own sponsor record."
 }
