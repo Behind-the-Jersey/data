@@ -1,0 +1,33 @@
+{
+  "id": "ayuntamiento-de-benahavis-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ayuntamiento-de-benahavis"
+  ],
+  "text": "The shirt sponsor 'Ayuntamiento de Benahavís' is the Ayuntamiento de Benahavís itself, the town council of Benahavís (Málaga province): its official municipal website carries the council's name and NIF P2902300I.",
+  "short": "The sponsor is the town council of Benahavís itself (NIF P2902300I).",
+  "source": {
+    "name": "Ayuntamiento de Benahavís (official municipal website, archived)",
+    "date": "2026-05-19",
+    "url": "https://web.archive.org/web/20260519215926/https://benahavis.es/",
+    "quote": "Ayuntamiento de Benahavís NIF: P2902300I",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+      "date": "2026-08-10",
+      "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+      "quote": "Ayuntamiento de Benahavís en la parte inferior trasera de la camiseta",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Confirms the sponsor on the shirt is named 'Ayuntamiento de Benahavís', i.e. the council itself rather than a private company."
+    }
+  ],
+  "reviewed": false
+}

@@ -1,12 +1,14 @@
 {
   "id": "macron",
   "name": "Macron",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "macron-spa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Italian sportswear maker whose majority shareholder is Andrea Pignataro, the founder of the financial-software group ION Group. Nothing found.",
+  "claimIds": [
+    "macron-record"
+  ],
   "aliases": [],
-  "note": "Kit supplier to Al-Diriyah and Al-Taawoun."
+  "note": "Kit supplier to Al-Diriyah and Al-Taawoun, and Deportivo Alavés' kit maker from 2026-27 (previously Puma)."
 }
