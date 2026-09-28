@@ -12,13 +12,48 @@
       "sponsorId": "beumer-group",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-        "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "name": "FC Schalke 04: BEUMER Group to become FC Schalke 04's new main partner",
+        "date": "2026-04-22",
+        "url": "https://schalke04.de/en/partner-en/beumer-group-new-main-partner/",
+        "quote": "BEUMER Group will become FC Schalke 04’s new main partner from the 2026/27 season. The deal brings together two partners whose roots and ambitions make them a perfect fit.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "blaklader",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "FC Schalke 04: FC Schalke 04 welcomes Blåkläder as its new sleeve partner",
+        "date": "2026-06-09",
+        "url": "https://schalke04.de/en/partner-en/blaklaeder-new-sleeve-partner/",
+        "quote": "The partnership will be visible on the sleeves of the first team’s jerseys and training kits.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Schalke 04 Fanshop (shop.schalke04.de): adidas Heimtrikot 2026/2027",
+        "date": "2026",
+        "url": "https://shop.schalke04.de/adidas-heimtrikot-2026-2027-30501",
+        "note": "Kit maker. The club shop's 2026/27 home-shirt product page: adidas logo on the right chest, BEUMER central on the chest, BLÅKLÄDER on the left sleeve. Deal with adidas and 11teamsports runs to 30 June 2031 (club announcement of 7 Oct 2025).",
+        "quote": "Auf der rechten Brust befindet sich das gestickte adidas-Logo in Weiß",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "adidas home shirt: BEUMER Group on the front, Blåkläder on the left sleeve, nothing on the back or shorts (the club shop's 2026/27 home shirt and shorts pages list only adidas branding besides these). BEUMER is family-owned, Blåkläder is Gustavsson-family-owned, adidas is a listed company; no state owner in any chain.",
   "change": null
 }
