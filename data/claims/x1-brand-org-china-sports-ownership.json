@@ -1,23 +1,33 @@
 {
   "id": "x1-brand-org-china-sports-ownership",
   "kind": "ownership",
-  "ownerIds": ["org-technology", "china-sports-industry-group"],
-  "text": "The X1 (犀旺) sports nutrition drink was jointly launched by China Sports Industry Group and ORG (奥瑞金); ORG's own site lists 犀旺 among its brands alongside the Auxerre club (欧塞尔俱乐部).",
-  "short": "X1 is a brand of ORG and China Sports Industry Group",
+  "ownerIds": [
+    "org-technology",
+    "china-sports-industry-group"
+  ],
+  "text": "The X1 (犀旺) brand site says the sports nutrition drink was jointly launched by China Sports Industry Group and ORG (奥瑞金); ORG's 2025 annual report calls 犀旺 its own brand (自有品牌).",
+  "short": "X1 was launched jointly by ORG and China Sports Industry Group; ORG calls it its own brand",
   "source": {
-    "name": "xiwangworld.com — About Xiwang (犀旺 official brand site)",
+    "name": "犀旺运动营养饮料 (xiwangworld.com): 关于犀旺 ABOUT XIWANG",
     "date": "2026",
     "url": "http://www.xiwangworld.com/",
     "quote": "犀旺运动营养饮料，是由中体产业集团与奥瑞金联合推出的，专为中国规律运动人群研发的新一代运动营养饮料。",
-    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
   },
   "additionalSources": [
     {
-      "name": "ORG Technology (奥瑞金科技) corporate site — brand row listing 犀旺 and 欧塞尔俱乐部",
-      "date": "2026",
-      "url": "https://www.orgtech.cn/",
-      "quote": "奥瑞金科技股份有限公司成立于1994年，总部位于北京，是一家集品牌策划、包装设计与制造、灌装服务、食品深加工及包装信息化服务为一体的综合包装解决方案提供商。",
-      "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+      "name": "奥瑞金科技股份有限公司 (ORG Technology Co., Ltd.): 2025年年度报告 (2025 annual report, on cninfo)",
+      "date": "2026-04-29",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225238137.PDF",
+      "quote": "我们自有品牌“犀旺”",
+      "note": "财年寄语 (letter to shareholders), page 2.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     }
   ],
   "reviewed": false
