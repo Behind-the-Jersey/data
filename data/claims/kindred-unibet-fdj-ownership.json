@@ -1,15 +1,20 @@
 {
   "id": "kindred-unibet-fdj-ownership",
   "kind": "ownership",
-  "ownerIds": ["kindred-group"],
+  "ownerIds": [
+    "kindred-group"
+  ],
   "text": "Unibet is a brand of Kindred, one of Europe's leading online betting and gaming companies; FDJ (today FDJ UNITED) launched a recommended all-cash tender offer for Kindred in January 2024 to create a European gaming champion.",
-  "short": "Unibet is a Kindred brand; Kindred was acquired by FDJ UNITED",
+  "short": "Unibet is a Kindred brand; FDJ made a tender offer for Kindred in 2024",
   "source": {
     "name": "FDJ — FDJ launches a recommended all-cash tender offer for Kindred to create a European Gaming Champion (press release)",
     "date": "2024-01-22",
     "url": "https://www.fdjunited.com/presse/fdj-launches-a-recommended-all-cash-tender-offer-for-kindred-to-create-a-european-gaming-champion/",
     "quote": "Kindred is one of Europe's leading online betting and gaming companies, operating the Unibet brand",
-    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
   },
   "reviewed": false
 }

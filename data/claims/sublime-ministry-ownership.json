@@ -1,15 +1,20 @@
 {
   "id": "sublime-ministry-ownership",
   "kind": "ownership",
-  "ownerIds": ["government-of-cote-divoire"],
-  "text": "Sublime Côte d'Ivoire is the national tourism-development programme carried by the Côte d'Ivoire Ministry of Tourism and Leisure; the renewed OM partnership is negotiated with the ministry, whose teams the club thanks.",
+  "ownerIds": [
+    "government-of-cote-divoire"
+  ],
+  "text": "Sublime Côte d'Ivoire is the national tourism-development programme carried by the Côte d'Ivoire Ministry of Tourism and Leisure.",
   "short": "Sublime Côte d'Ivoire is the tourism brand of the Côte d'Ivoire state",
   "source": {
     "name": "Le Phocéen — OM : le partenariat avec « Sublime Côte d'Ivoire » prolongé jusqu'en 2029",
     "date": "2026-08-19",
     "url": "https://www.lephoceen.fr/infos-om/autour-de-l-om/om-le-partenariat-avec-sublime-cote-d-ivoire-prolonge-jusqu-en-2029-237495",
     "quote": "la collaboration entre le club marseillais et le programme national de développement touristique porté par le ministère du Tourisme et des Loisirs de Côte d'Ivoire",
-    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
   },
   "reviewed": false
 }

@@ -5,8 +5,12 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Online betting and gaming brand owned by Kindred Group plc, wholly-owned by FDJ UNITED (listed on Euronext Paris; the French State held about 21% of the capital in February 2026, a passive stake). Nothing found.",
-  "claimIds": ["kindred-unibet-fdj-ownership", "kindred-wholly-owned-fdj-ownership"],
+  "verdict": "Online betting and gaming brand of Kindred Group Ltd., wholly-owned by FDJ UNITED, a company listed on Euronext Paris and controlled by the French State (21.09%). Nothing found.",
+  "claimIds": [
+    "kindred-unibet-fdj-ownership",
+    "kindred-wholly-owned-fdj-ownership",
+    "fdj-united-french-state-control"
+  ],
   "aliases": [],
-  "note": "Gambling operator. Kindred was acquired by FDJ UNITED in 2024; FDJ UNITED is a listed company whose largest shareholder is the French State (about 21%, February 2026 URD) — a passive stake, and state ownership alone is not a tier (METHOD.md). No openable source places Unibet on the 2026-27 home shirt."
+  "note": "Gambling operator. Kindred was acquired by FDJ UNITED in 2024. The French State keeps close control of FDJ UNITED (21.09%, PACTE law), but France has no record of serious abuses, so it is not a link (METHOD.md: state ownership alone is not a tier). No openable source places Unibet on the 2026-27 OM home shirt."
 }
