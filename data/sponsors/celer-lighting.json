@@ -4,8 +4,11 @@
   "ownerId": "grupo-saltoki",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
+  "status": "being-rated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "celer-lighting-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: a lighting brand presented by Score and Change as part of Grupo Saltoki, sponsoring the sleeve of Osasuna's home shirt. The Celer-to-Saltoki link rests on that single source: saltoki.com and its Iluminación division pages never mention Celer, and celer.es is a parked page. No record of serious abuse was found. Proposed 'Nothing found' in the pull request; a maintainer sets the tier."
 }

@@ -14,7 +14,13 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Osasuna Kosner Consumer appliances – air conditioning",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shirt-sponsor table row. The club's 11-Nov-2025 announcement (osasuna.es/kosner-patrocinador-osasuna-2028) confirms Kosner as main sponsor on the front through 2027-28: 'seguirá ocupando la parte frontal de la camiseta del primer equipo rojillo durante las temporadas 2026-27 y 2027-28'."
       }
     },
     {
@@ -24,21 +30,46 @@
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/",
-        "note": "sleeve branding is Grupo Saltoki's Celer Lighting on the home kit"
+        "quote": "Osasuna Grupo Saltoki: Celer Lighting (home) Saltoki Home (away & third) Lighting Building and interior design",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Sleeve-sponsor table row: Celer Lighting on the home kit. The white sleeve lettering on the club's official 2026-27 home-kit press photo (linked from osasuna.es/osasuna-macron-primera-equipacion-2026-2027) is consistent with the Celer Lighting lockup."
       }
     },
     {
-      "sponsorId": "digi",
+      "sponsorId": "ktech",
       "placement": "back",
       "source": {
-        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
-        "date": "2025-10-08",
-        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
-        "note": "back of shirt per the 2025-26 guide"
+        "name": "CA Osasuna: 'Osasuna y Ktech establecen una nueva alianza para las próximas tres temporadas'",
+        "date": "2026-06-30",
+        "url": "https://www.osasuna.es/osasuna-ktech-2026-2029",
+        "quote": "A partir de la próxima temporada, el logotipo de Kuwait Technical College (ktech) aparecerá en la espalda de las camisetas oficiales de partido de Osasuna",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Back of shirt from 2026-27, deal to 30 June 2029. Confirmed by the club's 12-Aug-2026 article (osasuna.es/club-atletico-osasuna-y-kuwait-technical-college-oficializan-la-ampliacion-de-su-alianza): 'Osasuna luzca la imagen de ktech en la parte trasera de sus camisetas oficiales de partido'."
+      }
+    },
+    {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Macron continued with Levante and Osasuna, while adding a new Basque club Alavés (previously Puma).",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, recorded as partner per existing convention (same article's kit-sponsor table row 'Osasuna Macron'). The club's 3-Jul-2026 kit-launch article (osasuna.es/osasuna-macron-primera-equipacion-2026-2027) presents the Macron 2026/27 home kit."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Kosner on the front (renewed to 2028), Celer Lighting on the sleeve, ktech (Kuwait Technical College) on the back from 2026-27, Macron as kit maker.",
   "change": null
 }
