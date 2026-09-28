@@ -1,11 +1,13 @@
 {
   "id": "bwin",
   "name": "Bwin",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "entain-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Entain plc, a London-listed betting and gaming group. Nothing found.",
+  "claimIds": [
+    "entain-plc-bwin-brand"
+  ],
   "aliases": []
 }

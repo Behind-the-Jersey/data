@@ -12,13 +12,92 @@
       "sponsorId": "bwin",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+        "name": "FC Famalicão, 'Bwin é o novo main sponsor do FC Famalicão'",
+        "date": "2026-08-19",
+        "url": "https://www.fcfamalicao.pt/bwin-e-o-novo-main-sponsor-do-fc-famalicao/",
+        "quote": "a presença desta marca na parte frontal das camisolas da equipa principal",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "mercainox",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Famalicão row (Back)",
         "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Back: Mercainox - aço inoxidável, Hyundai",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "No named press or club page states the back placement; the Wikipedia kits table is the only source found. Mercainox is a club Premium Sponsor on fcfamalicao.pt/parceiros."
+      }
+    },
+    {
+      "sponsorId": "hyundai",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Famalicão row (Back)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Back: Mercainox - aço inoxidável, Hyundai",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "No named press or club page states the back placement; Hyundai is a club Premium Sponsor on fcfamalicao.pt/parceiros."
+      }
+    },
+    {
+      "sponsorId": "chanceplus",
+      "placement": "sleeve",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Famalicão row (Sleeves); confirmed on the shirt photos in the club's online shop (Camisola Principal 26/27, fcfamalicao.pt/loja/camisola-principal-26-27, opened 2026-09-28)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Sleeves: Chanceplus - Intermediário de Crédito",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "enif",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Famalicão row (Shorts)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Shorts: Enif",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "No named press or club page states the shorts placement; Enif is a club Premium Sponsor on fcfamalicao.pt/parceiros."
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits, Famalicão row (Kit manufacturer); Puma maker marks and authenticity patch visible on the club shop photos of the Camisola Principal 26/27 (opened 2026-09-28)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Famalicão Carlos Carvalhal Tom van de Looi Puma bwin",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Wikipedia kits-table row for Famalicão: the kit-manufacturer cell (with a Germany flag) renders as 'Puma' and the main-sponsor cell as 'bwin'; Puma maker marks and authenticity patch are also visible on the club shop photos of the Camisola Principal 26/27 (opened 2026-09-28), and Puma is listed among the club's Premium Sponsors on fcfamalicao.pt/parceiros."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by Entain plc via Bwin.",
+  "sponsorsComplete": true,
+  "summary": "Front bwin (three-season main-sponsor deal announced 19 August 2026, brand on the front of the first-team shirts plus naming of the Estádio Municipal's east stand); back Mercainox and Hyundai; sleeve Chanceplus; shorts Enif; kit made by Puma. Front and sleeve confirmed on the club shop's product photos; back and shorts per the Wikipedia kits table, with all five named partners on the club's own Parceiros page.",
   "change": null
 }
