@@ -4,20 +4,25 @@
   "orgName": null,
   "sponsorId": "reuter",
   "placement": "front",
-  "from": null,
-  "to": "2026-27",
+  "from": "2024",
+  "to": "2027",
   "value": {
     "amount": 8,
     "currency": "EUR",
     "unit": "m",
     "per": "year",
-    "upTo": true,
+    "upTo": false,
     "usdApprox": 9
   },
   "source": {
-    "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
-    "date": "2026-08",
-    "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+    "name": "ran.de: Bundesliga: Was die Hauptsponsoren den 18 Klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+    "date": "2026-07-24",
+    "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665",
+    "quote": "Borussia Mönchengladbach Hauptsponsor: Reuter Vertragslaufzeit: seit 2024, bis 2027 Summe: 8 Millionen Euro pro Jahr",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
   },
-  "note": "Two-year deal from 2024 with option (now exercised) to 2027; reported ~EUR8m, plus success bonuses."
+  "note": "Two-year deal from 2024 with option (now exercised) to 2027; reported ~EUR8m per year, plus success bonuses."
 }

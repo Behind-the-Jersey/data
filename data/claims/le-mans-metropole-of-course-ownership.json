@@ -1,0 +1,20 @@
+{
+  "id": "le-mans-metropole-of-course-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "le-mans-metropole"
+  ],
+  "text": ":Of course Le Mans is the official brand of the city of Le Mans: the brand's Bluesky account (:Of course Le Mans) is the 'Compte officiel de la ville du Mans'.",
+  "short": ":Of course Le Mans is the official brand of the Ville du Mans / Le Mans Métropole.",
+  "source": {
+    "name": "Bluesky — :Of course Le Mans (profil officiel, public.api.bsky.app)",
+    "date": "2025",
+    "url": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=ofcourselemans.bsky.social",
+    "quote": "Compte officiel de la ville du Mans. #LeMans #LeMansMétropole",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
