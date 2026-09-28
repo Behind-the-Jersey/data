@@ -1,11 +1,17 @@
 {
   "id": "bang-and-olufsen",
   "name": "Bang & Olufsen",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "bang-olufsen-as",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A listed Danish company (Nasdaq Copenhagen, XCSE: BO). Nothing found.",
+  "claimIds": [
+    "bang-olufsen-ownership"
+  ],
+  "aliases": [
+    "B&O",
+    "Bang Olufsen"
+  ],
+  "note": "Rating note: largest investors are New Sparkle Roll (a Hong Kong-listed luxury group) and Denmark's Dyvig Holdings, each above 10% — private investors, no state link found."
 }

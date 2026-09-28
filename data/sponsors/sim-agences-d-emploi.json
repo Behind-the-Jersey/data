@@ -1,11 +1,18 @@
 {
   "id": "sim-agences-d-emploi",
   "name": "SIM Agences d'emploi",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "sim-travail-temporaire",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of SIM Travail Temporaire (director Philippe Moutel). Nothing found.",
+  "claimIds": [
+    "sim-travail-temporaire-record"
+  ],
+  "aliases": [
+    "sim",
+    "sim emploi",
+    "groupe sim"
+  ],
+  "note": "Rating note: Saint-Lô employment-agency company created in 1990; the brand is a registered trademark of SIM Travail Temporaire, directed by Philippe Moutel. No state or state fund appears in the chain, so proposed none."
 }

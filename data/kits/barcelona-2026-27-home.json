@@ -14,7 +14,12 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Barcelona reportedly receives around €65 million per year from their deal with Spotify.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -23,21 +28,31 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "This season, Barcelona has entered a five-year sleeve sponsorship deal with Midea (shirt sponsor of Sevilla last season).",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "fundacio-fc-barcelona",
       "placement": "back",
       "source": {
-        "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
-        "date": "2026-08-10",
-        "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
-        "note": "Fundacio FC Barcelona replaces UNHCR/ACNUR on the back"
+        "name": "Barça Foundation: The Barça Foundation logo to appear on the back of the shirt for the first time in the opening match of the 2026-27 pre-season",
+        "date": "2026-07-30",
+        "url": "https://foundation.fcbarcelona.com/en/club/news/4549820/the-barca-foundation-logo-to-appear-on-the-back-of-the-shirt-for-the-first-time-in-the-opening-match-of-the-2026-27-pre-season",
+        "quote": "as it will be the first time that the men's first team wears the Barça Foundation logo on the back of its shirt",
+        "note": "2Playbook's 2026-27 LaLiga sponsorship roundup (2026-08-10, https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html): 'Mantiene a Spotify como patrocinador principal, mientras que Midea sustituye a Ambilight TV en la manga. En la parte trasera de la camiseta figurará la Fundació FC Barcelona, en sustitución de ACNUR. Como el Real Madrid, el Barça no comercializa otros activos habituales en la industria y autorizados por LaLiga, como el lateral de la camiseta, el cuello, el frontal del pantalón o la trasera del pantalón.'",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": null,
+  "summary": "Spotify (front), Midea (sleeve) and the Fundació FC Barcelona (back, replacing UNHCR/ACNUR); 2Playbook's LaLiga 2026-27 roundup says Barça sells no other shirt or shorts placements (side, collar, shorts front or back).",
   "change": null
 }

@@ -1,0 +1,31 @@
+{
+  "id": "teddy-smith-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "teddy-smith-sas"
+  ],
+  "text": "Teddy Smith is operated by Teddy Smith SAS (SIREN 333966117), a French company whose registry entry lists Philippe Bouloux (born 1956) as its leader (Président).",
+  "source": {
+    "name": "Annuaire des Entreprises / recherche-entreprises.api.gouv.fr — Teddy Smith SAS (SIREN 333966117)",
+    "date": "2026",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=333966117&page=1&per_page=1",
+    "quote": "\"nom\":\"BOULOUX\",\"prenoms\":\"PHILIPPE\",\"annee_de_naissance\":\"1956\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Teddy Smith — La marque",
+      "date": "2026",
+      "url": "https://www.teddy-smith.com/pages/la-marque",
+      "quote": "Une histoire qui a commencé en 1989 et qui continue aujourd'hui, portée par des équipes passionnées et des clients passionnants !",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

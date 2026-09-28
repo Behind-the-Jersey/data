@@ -1,11 +1,17 @@
 {
   "id": "df-industrie",
   "name": "DF Industrie",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "df-invest",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Run by holding company DF Invest (director David Folliot). Nothing found.",
+  "claimIds": [
+    "df-invest-record"
+  ],
+  "aliases": [
+    "df",
+    "df industrie"
+  ],
+  "note": "Rating note: Norman industrial-maintenance contractor (Lillebonne, over 55 years of experience); a SASU whose president is DF Invest SAS, directed by David Folliot. No state or state fund appears in the chain, so proposed none. Listed as an official partner of Le Havre AC for 2026-27."
 }

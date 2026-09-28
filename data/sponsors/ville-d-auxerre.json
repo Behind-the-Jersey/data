@@ -1,11 +1,12 @@
 {
   "id": "ville-d-auxerre",
   "name": "Ville d'Auxerre",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "ville-d-auxerre-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The city of Auxerre itself, a French commune (publication director: the mayor of Auxerre). Nothing found.",
+  "claimIds": ["ville-d-auxerre-commune-ownership"],
+  "aliases": ["Ville d'Auxerre", "Auxerre"],
+  "note": "Rating note: a public owner in a state without a sourced record of serious abuses is not a link to abuse; state ownership alone is not a tier (METHOD.md)."
 }
