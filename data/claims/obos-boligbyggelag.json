@@ -1,0 +1,32 @@
+{
+  "id": "obos-boligbyggelag",
+  "kind": "ownership",
+  "ownerIds": [
+    "obos"
+  ],
+  "text": "OBOS BBL is registered in the Brønnøysund registers as a boligbyggelag (housing cooperative), founded 18 February 1938; no external parent company is registered.",
+  "short": "OBOS BBL is a Norwegian housing cooperative (boligbyggelag), founded 1938.",
+  "source": {
+    "name": "Brønnøysundregistrene – Enhetsregisteret, OBOS BBL (orgnr 937 052 766)",
+    "date": "2026-09-28",
+    "url": "https://data.brreg.no/enhetsregisteret/api/enheter/937052766",
+    "quote": "navn: OBOS BBL | organisasjonsform: Boligbyggelag | stiftelsesdato: 1938-02-18",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Viking FK – OBOS partner page",
+      "date": "2026",
+      "url": "https://www.vikingfotball.no/samarbeidspartnere/vare-partnere/obos",
+      "quote": "Bransje: Boligbyggelag, bank og forsikring",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

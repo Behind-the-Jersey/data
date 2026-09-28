@@ -1,0 +1,33 @@
+{
+  "id": "diadora-lir-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "diadora",
+    "lir-srl"
+  ],
+  "text": "LIR S.r.l., an investment holding company belonging entirely to Mario Moretti Polegato (85%) and Enrico Moretti Polegato (15%), holds 71.16% of Geox S.p.A.; Geox's half-year 2026 report names Diadora S.p.A. among the group's affiliated companies.",
+  "short": "Diadora is an affiliated company of the Geox group, controlled by the Polegato family's LIR S.r.l.",
+  "source": {
+    "name": "Geox S.p.A. – Half-Year Financial Report 30 June 2026 (related parties)",
+    "date": "2026",
+    "url": "http://www.geox.biz/static/upload/hal/half-year-financial-report-30-06-2026.pdf",
+    "quote": "The Group has dealings with the ultimate parent company (LIR S.r.l.), with affiliated companies (mainly Diadora S.p.A. for the portion related to revenues on royalties",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Wikipedia – Geox",
+      "date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Geox",
+      "quote": "In 2009, Geox agreed with Italian sportswear company Diadora to have Polegato buy its assets through his family's investment arm, LIR.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

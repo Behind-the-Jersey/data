@@ -1,0 +1,32 @@
+{
+  "id": "kabal-founded-insight",
+  "kind": "ownership",
+  "ownerIds": [
+    "kabal"
+  ],
+  "text": "Kabal AS is a private Norwegian logistics-software company founded in 2011 by Jan Inge Pedersen and Fredrik Larsen, headquartered in Stavanger, and backed by investor Insight Partners; no controlling owner is named by its sources.",
+  "short": "Kabal AS is a private Stavanger software company founded in 2011, backed by Insight Partners.",
+  "source": {
+    "name": "Kabal – Company page",
+    "date": "2026",
+    "url": "https://kabal.com/company/",
+    "quote": "Kabal was founded in 2011 by Jan Inge Pedersen and Fredrik Larsen ... Backed by world-leading investor Insight Partners, Kabal is committed to innovating for logistics excellence",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Brønnøysundregistrene – Enhetsregisteret, KABAL AS (orgnr 996 787 303)",
+      "date": "2026-09-28",
+      "url": "https://data.brreg.no/enhetsregisteret/api/enheter/996787303",
+      "quote": "navn: KABAL AS | organisasjonsform: Aksjeselskap | institusjonellSektorkode: 'Private aksjeselskaper mv.' (2100) | stiftelsesdato: 2011-03-17",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "viking-fk-2026-home",
+  "clubId": "viking-fk",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "lyse",
+      "placement": "front",
+      "side": "front",
+      "source": {
+        "name": "Viking FK – 'Lyse forlenger med historisk avtale'",
+        "date": "2024-08-12",
+        "url": "https://www.vikingfotball.no/nyheter/lyse-forlenger-med-historisk-avtale",
+        "note": "Club announcement renewing Lyse as hovedsamarbeidspartner (main partner, since 1994 per the club's partner page). The 2026 home-kit launch article does not name sponsors; the chest placement is carried by this club article and is visible on the club's 2026 kit photo.",
+        "quote": "det er stor stolthet knyttet til at Viking-spillerne har Lyse på brystet",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "obos",
+      "placement": "partner",
+      "side": "front",
+      "source": {
+        "name": "Viking FK – OBOS partner page",
+        "date": "2026",
+        "url": "https://www.vikingfotball.no/samarbeidspartnere/vare-partnere/obos",
+        "note": "Club partner page (partner since 2018). The 2026 home-kit launch article does not name sponsors; the centre-chest placement is read from the club's 2026 kit photo.",
+        "quote": "OBOS bygger framtidens samfunn og oppfyller boligdrømmer.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "sparebank-1-sornorge",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "Viking FK – SpareBank 1 Sør-Norge partner page",
+        "date": "2026",
+        "url": "https://www.vikingfotball.no/samarbeidspartnere/vare-partnere/sr-bank",
+        "note": "Club partner page (partner since 1899, premium partner). The 2026 home-kit launch article does not name sponsors; the both-shoulders placement is read from the club's 2026 kit photo.",
+        "quote": "Som Norges nest største norskeide bank gir konsernet økonomisk kraft til vekst, verdiskaping og lønnsomhet",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "kabal",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "Viking FK – 'Kabal blir med Viking ut i Europa'",
+        "date": "2026-08-11",
+        "url": "https://www.vikingfotball.no/nyheter/kabal-blir-med-viking-ut-i-europa",
+        "note": "Club announcement naming Kabal as draktsponsor on the 2026 European kit. The text does not name Kabal for the home shirt; the white circular right-sleeve logo on the club's 2026 home-kit photo matches Kabal's logo, but no text source confirms Kabal on the home shirt (flagged in the PR).",
+        "quote": "Store kamper fortjener flotte drakter, og på Vikings nye, rå europadrakter har Kabal-logoen en tydelig og stolt plass.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "diadora",
+      "placement": "partner",
+      "source": {
+        "name": "Viking FK – 'Viking har Eliteseriens fineste drakt 2026'",
+        "date": "2026-07-02",
+        "url": "https://www.vikingfotball.no/nyheter/viking-har-eliteseriens-fineste-drakt-2026",
+        "note": "Kit maker. Club article naming Diadora as the maker of the 2026 kit.",
+        "quote": "Den retroinspirerte drakta fra Diadora baserer seg på klubbens tradisjonelle uttrykk, men med moderne detaljer",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Lyse, owned by 15 Norwegian municipalities, has the front of a Diadora-made shirt; OBOS sits centre chest and SpareBank 1 Sør-Norge on the shoulders. All five sponsors rated none.",
+  "change": null,
+  "headline": "The shirt is {level}: the front sponsor, Lyse, is owned by 15 Norwegian municipalities.",
+  "shortLine": "Lyse on the front, Diadora kit"
+}
