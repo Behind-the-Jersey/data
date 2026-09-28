@@ -3,9 +3,15 @@
   "name": "Ayuntamiento de Benahavis",
   "ownerId": "ayuntamiento-de-benahavis",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The town council of Benahavís (Málaga) sponsoring in its own name; a Spanish municipal government with no record of serious abuses found.",
+  "claimIds": [
+    "ayuntamiento-de-benahavis-ownership"
+  ],
+  "aliases": [
+    "Ayuntamiento de Benahavís",
+    "Benahavís"
+  ],
+  "note": "Proposed none 2026-09-28 (issue #340): the sponsor is the council itself (NIF P2902300I on benahavis.es). State ownership alone is not a tier; no court, regulator, UN-body or major-NGO human-rights finding against the Ayuntamiento de Benahavís was found, so nothing found."
 }

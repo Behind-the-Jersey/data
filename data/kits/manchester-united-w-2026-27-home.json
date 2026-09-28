@@ -12,24 +12,61 @@
       "sponsorId": "snapdragon",
       "placement": "front",
       "source": {
-        "name": "Manchester United, Microsoft Surface announcement",
-        "date": "2026-07-17",
-        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
-        "note": "The article is about the Surface back-of-shirt deal; Snapdragon remains the shirt front from the existing club partnership (men's 2026/27 kit in normalized uses the same front). Women's-team-specific confirmation of the front placement not restated."
+        "name": "Manchester United – Snapdragon club partner page",
+        "date": "2026",
+        "url": "https://www.manutd.com/en/partners/global/snapdragon",
+        "quote": "Qualcomm Technologies, Inc. is the official principal shirt partner for Manchester United’s men’s, women’s and academy teams, featuring the Snapdragon brand.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "date precision: page current in 2026; replaces the Microsoft Surface announcement as the front-placement source, which was about the back-of-shirt deal."
+      }
+    },
+    {
+      "sponsorId": "sumup",
+      "placement": "sleeve",
+      "source": {
+        "name": "Manchester United – 'SumUp becomes United's Official Sleeve Partner'",
+        "date": "2026-09-08",
+        "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner",
+        "quote": "will see the SumUp logo feature on the sleeve of the playing shirt for the men’s, women’s and Academy teams across all competitions",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "microsoft",
       "placement": "back",
       "source": {
-        "name": "Manchester United, Microsoft Surface announcement",
+        "name": "Manchester United, Microsoft Surface to feature on United shirts",
         "date": "2026-07-17",
         "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
-        "note": "Surface branding appears on the back of United Women's shirts across the 2026/27 campaign (men's domestic cup shirts and selected Academy kits covered separately)."
+        "quote": "The brand will additionally feature on the back of United Women’s matches across the campaign and selective Academy team kits.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "betway",
+      "placement": "training-kit",
+      "source": {
+        "name": "Manchester United – 'Betway announced as Official Principal Partner'",
+        "date": "2026-08-04",
+        "url": "https://www.manutd.com/en/news/betway-announced-as-united-official-training-kit-partner",
+        "quote": "Through the new agreement, the Betway logo will feature on the training kits of Manchester United’s men’s and women’s teams.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Snapdragon fronts the Manchester United Women shirt with Microsoft Surface on the back for 2026/27.",
+  "summary": "Snapdragon fronts the Manchester United Women shirt, with SumUp on the sleeve, Microsoft Surface on the back and Betway on the training kit for 2026/27. No cited source lists every sponsor on the women's shirt, so the list isn't marked complete.",
   "change": null
 }
