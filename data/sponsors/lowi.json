@@ -1,11 +1,15 @@
 {
   "id": "lowi",
   "name": "Lowi",
-  "ownerId": "vodafone-group-plc",
+  "ownerId": "vodafone-espana-sau",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Lowi is Vodafone España S.A.U. (the brand's legal name), which is 100% owned by Zegona Communications, a company listed on the London Stock Exchange. Nothing found.",
+  "claimIds": [
+    "lowi-vodafone-espana-ownership",
+    "vodafone-espana-zegona-ownership"
+  ],
+  "aliases": [],
+  "note": "Back-of-shirt sponsor of Levante UD (2026/27 home kit). Owner record changed from Vodafone Group Plc to Vodafone España S.A.U. under Zegona: Vodafone Group sold Vodafone Spain to Zegona in 2023-2024 and no longer owns the Lowi operator."
 }
