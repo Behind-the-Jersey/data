@@ -1,0 +1,21 @@
+{
+  "id": "allianz-se-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "allianz-se"
+  ],
+  "text": "Allianz SE, the Munich-based insurance group whose shares trade in Frankfurt (DAX), reports that its share register held 901,740 shareholders and that Allianz shares are held 100% in free float - no state, foundation or controlling shareholder is named.",
+  "short": "Allianz SE shares are held 100% in free float, no controlling owner.",
+  "source": {
+    "name": "Allianz SE Investor Relations, Shareholder structure (Archived 29 Jan 2023, Wayback Machine)",
+    "date": "2023-01-29",
+    "url": "https://web.archive.org/web/20230129190341/https://www.allianz.com/en/investor_relations/share/shareholder-structure.html",
+    "note": "The live allianz.com pages sit behind a script challenge (HTTP 403 to scripts); quote verified on the Internet Archive snapshot of Allianz's own shareholder-structure page.",
+    "quote": "On December 31, 2022 the share register of Allianz SE contained 901,740 shareholders. Allianz shares are held 100% in free float.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}
