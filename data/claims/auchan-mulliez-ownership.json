@@ -2,33 +2,32 @@
   "id": "auchan-mulliez-ownership",
   "kind": "ownership",
   "ownerIds": [
-    "auchan-retail-international",
     "elo",
     "association-famille-mulliez"
   ],
-  "text": "Auchan is a family-controlled French retail group: the Association familiale Mulliez (AFM) is its principal shareholder and Gérard Mulliez personally the second, with employees holding the remaining 13.5% via Valauchan; the operating company Auchan Retail International sits under the holding ELO (ex Auchan Holding) with Financière de Participations at 70%, Soparsam 15% and employee-held Valauchan 15%.",
-  "short": "Auchan is controlled by the Mulliez family (AFM), with 13.5% held by employees.",
+  "text": "ELO (formerly Auchan Holding) is an unlisted company with family and employee shareholders that brings together Auchan Retail, New Immo Holding and Oney (49.9%). Le Journal des Entreprises lists ELO, the parent company of Auchan Retail, among the companies held by the Association Famille Mulliez.",
+  "short": "Auchan's parent ELO is held by the Mulliez family association (AFM)",
   "source": {
-    "name": "Wikipédia (fr) — Auchan (page history id 239836536)",
+    "name": "ELO — Notre groupe",
     "date": "2026",
-    "url": "https://fr.wikipedia.org/wiki/Auchan",
-    "quote": "Le groupe Auchan a pour actionnaire principal l' Association familiale Mulliez (AFM), fondée et dirigée par la famille Mulliez",
+    "url": "https://groupe-elo.com/groupe/",
+    "quote": "Entreprise non cotée associant un actionnariat familial et salarié, Elo (précédemment dénommée \"Auchan Holding\") réunit 3 entreprises complémentaires : Auchan Retail, New Immo Holding et Oney (détenue à 49,9 %).",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
+  "reviewed": false,
   "additionalSources": [
     {
-      "name": "Wikipédia (fr) — Auchan, infobox actionnariat",
-      "date": "2026",
-      "url": "https://fr.wikipedia.org/wiki/Auchan",
-      "quote": "Financière de Participations : 70 %, Soparsam : 15 %, Valauchan (salariés) : 15 %.",
+      "name": "Le Journal des Entreprises — Auchan, Leroy Merlin, Decathlon… Le Top 20 des entreprises des Hauts-de-France dominé par l’Association Famille Mulliez",
+      "date": "2026-02-27",
+      "url": "https://www.lejournaldesentreprises.com/article/top-20-des-entreprises-des-hauts-de-france-un-classement-toujours-domine-par-lassociation-famille-2137610",
+      "quote": "En tête du classement figurent trois sociétés détenues par l’Association Famille Mulliez : ELO (maison mère d’Auchan Retail) devance Adeo (Leroy Merlin, Weldom…) et Decathlon.",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
       }
     }
-  ],
-  "reviewed": false
+  ]
 }

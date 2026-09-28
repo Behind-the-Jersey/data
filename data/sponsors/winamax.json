@@ -1,14 +1,14 @@
 {
   "id": "winamax",
   "name": "Winamax",
-  "ownerId": "winamax",
+  "ownerId": "winamax-sa",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Founder-led French SAS; no external controlling shareholder found. Nothing found.",
+  "verdict": "French online poker and sports-betting operator; its own page names its founders, Alexandre Roos and Christophe Schaming, as its shareholders. Nothing found.",
   "claimIds": [
-    "winamax-ownership"
+    "winamax-founders-ownership"
   ],
   "aliases": [],
-  "note": "Rating note: RC Lens back-of-shirt sponsor 2026-27 (per the club's partner roster). Gambling operator licensed by the ANJ; ownership chain checked - no state or public fund found in the opened sources."
+  "note": "Gambling operator: owner chain checked as the research issues ask. No state or state fund appears among the shareholders or on the board in the cited sources."
 }

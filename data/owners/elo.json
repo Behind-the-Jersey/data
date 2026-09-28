@@ -1,8 +1,9 @@
 {
   "id": "elo",
-  "name": "ELO (ex Auchan Holding)",
+  "name": "ELO (formerly Auchan Holding)",
   "type": "private-company",
   "country": "France",
   "parentId": "association-famille-mulliez",
-  "note": "Holding at the head of the Auchan group; a Mulliez family holding per the Association familiale Mulliez."
+  "via": "Unlisted, with family and employee shareholders; held by the Association Famille Mulliez (auchan-mulliez-ownership)",
+  "note": "Brings together Auchan Retail, New Immo Holding and Oney (49.9%)."
 }
