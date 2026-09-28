@@ -1,0 +1,20 @@
+{
+  "id": "csl-crb-under-crc",
+  "kind": "ownership",
+  "ownerIds": [
+    "cr-beverage"
+  ],
+  "text": "CR Beverage (China Resources Beverage (Holdings) Co., Ltd., HKEX 02460) describes itself as a core business unit under China Resources (Group) Co., Ltd., headquartered in Nanshan, Shenzhen, according to the company's own website.",
+  "short": "CR Beverage is a core business unit of state-owned China Resources Group.",
+  "source": {
+    "name": "CR Beverage company website, about page (archived; live site blocked by a JS bot-challenge)",
+    "date": "2026-09-15",
+    "url": "https://web.archive.org/web/20260915082043/https://www.crbeverage.com/",
+    "quote": "华润饮料（控股）有限公司（简称“华润饮料”）是华润（集团）有限公司旗下专注即饮软饮业务的核心业务单元，于香港联合交易所上市（股份代号：02460）",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

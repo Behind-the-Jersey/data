@@ -1,0 +1,20 @@
+{
+  "id": "fa-cup-carling-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "molson-coors"
+  ],
+  "text": "Carling is one of Molson Coors' core power brands, named alongside Coors Light, Miller Lite, Coors Banquet, Molson Canadian and Ozujsko on the company's own About page.",
+  "short": "Carling is a Molson Coors core power brand.",
+  "source": {
+    "name": "Molson Coors Beverage Company - About",
+    "date": "2026-09-27",
+    "url": "https://www.molsoncoors.com/about",
+    "quote": "our core power brands Coors Light, Miller Lite, Coors Banquet, Molson Canadian, Carling, and Ožujsko",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

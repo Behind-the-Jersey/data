@@ -12,13 +12,46 @@
       "sponsorId": "betsson-sport",
       "placement": "front",
       "source": {
-        "name": "Calcio e Finanza",
-        "date": "2026-07-07",
-        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+        "name": "Inter.it, 'Inter and Nike unveil the new Third Kit for the 2026/27 season'",
+        "date": "2026-09-14",
+        "url": "https://www.inter.it/en/news/inter-nike-third-kit-season-2026-27",
+        "quote": "In the same way that Home and Away kits did, the Third Kit 2026/27 will see the presence of BBVA, Inter’s Official Sleeve Partner, who will join front sponsor Betsson.sport and back sponsor U-Power.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "bbva",
+      "placement": "sleeve",
+      "source": {
+        "name": "Footy Headlines, 'Inter Milan Announces BBVA as New Sleeve Sponsor'",
+        "date": "2026-07-28",
+        "url": "https://www.footyheadlines.com/8979737742/inter-milan-announces-bbva-as-new-sleeve-sponsor.html",
+        "quote": "The BBVA logo will appear on the sleeve of the men's and women's first-team kits starting in the 26-27 season",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "u-power",
+      "placement": "back",
+      "source": {
+        "name": "Inter.it, 'U-Power becomes Inter's new official Back Jersey Partner'",
+        "date": "2023-09-15",
+        "url": "https://www.inter.it/en/news/u-power-inters-new-official-back-jersey-partner",
+        "quote": "Starting from the derby, the U-Power logo will appear on the back of the Club’s kit in a deal lasting until 2027",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Sleeves: BBVA; Back: U-Power."
+  "summary": "Front: Betsson.sport. Sleeve: BBVA. Back: U-Power. The club lists no other sponsor placements on the match shirt."
 }

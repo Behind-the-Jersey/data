@@ -12,13 +12,46 @@
       "sponsorId": "msc-cruises",
       "placement": "front",
       "source": {
-        "name": "Calcio e Finanza",
-        "date": "2026-07-07",
-        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+        "name": "SSC Napoli - SSC Napoli and EA7 unveil the 2026/27 Home Jersey",
+        "date": "2026-07-06",
+        "url": "https://sscnapoli.it/en/ssc-napoli-and-ea7-unveil-the-2026-27-home-jersey/",
+        "quote": "The jersey also elegantly integrates the logo of the club's Main Partner, MSC, its Global Technical Partner, EA7, its Back-of-Shirt Partner, Sorgesana, and its Sleeve Partner, Dongfeng.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "sorgesana",
+      "placement": "back",
+      "source": {
+        "name": "SSC Napoli - SSC Napoli and EA7 unveil the 2026/27 Home Jersey",
+        "date": "2026-07-06",
+        "url": "https://sscnapoli.it/en/ssc-napoli-and-ea7-unveil-the-2026-27-home-jersey/",
+        "quote": "The jersey also elegantly integrates the logo of the club's Main Partner, MSC, its Global Technical Partner, EA7, its Back-of-Shirt Partner, Sorgesana, and its Sleeve Partner, Dongfeng.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "dongfeng",
+      "placement": "sleeve",
+      "source": {
+        "name": "SSC Napoli - SSC Napoli and EA7 unveil the 2026/27 Home Jersey",
+        "date": "2026-07-06",
+        "url": "https://sscnapoli.it/en/ssc-napoli-and-ea7-unveil-the-2026-27-home-jersey/",
+        "quote": "The jersey also elegantly integrates the logo of the club's Main Partner, MSC, its Global Technical Partner, EA7, its Back-of-Shirt Partner, Sorgesana, and its Sleeve Partner, Dongfeng.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Renewed to 2028-29, doubling the club's shirt value to ~EUR18m/yr."
+  "summary": "Centenary home shirt by EA7: MSC on the front (renewed to 2028-29 at ~EUR18m/yr), Sorgesana on the back, Dongfeng on the sleeve. No shorts sponsor."
 }

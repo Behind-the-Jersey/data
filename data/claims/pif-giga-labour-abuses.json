@@ -1,0 +1,21 @@
+{
+  "id": "pif-giga-labour-abuses",
+  "kind": "record",
+  "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia",
+    "qiddiya"
+  ],
+  "text": "Human Rights Watch found that PIF-funded businesses and projects are among those exploiting and abusing migrant workers in Saudi Arabia's giga-project construction, including at NEOM, as Vision 2030 projects scale up toward the 2034 FIFA World Cup.",
+  "source": {
+    "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
+    "date": "2024-12-04",
+    "url": "https://www.hrw.org/report/2024/12/04/die-first-and-ill-pay-you-later/saudi-arabias-giga-projects-built-widespread",
+    "quote": "this report reveals that PIF-funded businesses and projects are among those exploiting and abusing migrant workers, including in NEOM, a PIF-funded giga-project",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}
