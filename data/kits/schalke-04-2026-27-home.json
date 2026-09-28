@@ -12,13 +12,49 @@
       "sponsorId": "beumer-group",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-        "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "name": "FC Schalke 04: BEUMER Group to become FC Schalke 04's new main partner",
+        "date": "2026-04-22",
+        "url": "https://schalke04.de/en/partner-en/beumer-group-new-main-partner/",
+        "quote": "BEUMER Group will become FC Schalke 04’s new main partner from the 2026/27 season. The deal brings together two partners whose roots and ambitions make them a perfect fit.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "blaklader",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "FC Schalke 04: Inspired by the Arena, made for the Arena: S04 unveil new home kit",
+        "date": "2026-07-17",
+        "url": "https://schalke04.de/en/inside-en/home-shirt-2627/",
+        "note": "The club's kit launch. It describes the whole home kit: the badge and the adidas logo on the chest, BEUMER below, BLÅKLÄDER on the left sleeve, a VELTINS-Arena graphic on the back of the neck, and white shorts and blue socks. It names no other sponsor.",
+        "quote": "Main sponsor BEUMER also features in white below, while the BLÅKLÄDER logo appears on the left sleeve.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Schalke 04 Fanshop (shop.schalke04.de): adidas Heimtrikot 2026/2027",
+        "date": "2026",
+        "url": "https://shop.schalke04.de/adidas-heimtrikot-2026-2027-30501",
+        "note": "Kit maker. The club shop's 2026/27 home-shirt product page: adidas logo on the right chest, BEUMER central on the chest, BLÅKLÄDER on the left sleeve.",
+        "quote": "Auf der rechten Brust befindet sich das gestickte adidas-Logo in Weiß",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "adidas home shirt: BEUMER Group on the front, Blåkläder on the left sleeve. The club's kit launch names no other sponsor on the shirt or the shorts; the back of the neck carries a graphic of the VELTINS-Arena for its 25th anniversary. BEUMER Group is family-owned, Blåkläder is owned by the Gustavsson family, adidas is a listed company.",
   "change": null
 }
