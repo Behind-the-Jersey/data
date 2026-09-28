@@ -1,11 +1,13 @@
 {
   "id": "teddy-smith",
   "name": "Teddy Smith",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "teddy-smith-sas",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Operated by Teddy Smith SAS (French registry; leader Philippe Bouloux). Nothing found.",
+  "claimIds": [
+    "teddy-smith-ownership"
+  ],
   "aliases": []
 }

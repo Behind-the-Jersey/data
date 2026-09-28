@@ -1,0 +1,41 @@
+{
+  "id": "vbet-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "softconstruct"
+  ],
+  "text": "VBET is a brand of the SoftConstruct group, founded in 2003 by Vigen and Vahe Badalyan; UK filings for VBET's UK entity (company 10392319) name both Badalyan brothers (born January 1975, resident in Armenia) as persons with significant control, each with more than 25% but not more than 50% of shares.",
+  "source": {
+    "name": "Companies House — VBET (UK) Ltd, persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10392319/persons-with-significant-control",
+    "quote": "Date of birth January 1975 Nationality Armenian Place of residence Armenia",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SoftConstruct — Leadership",
+      "date": "2026",
+      "url": "https://www.softconstruct.com/leadership",
+      "quote": "VAHE BADALYAN Co-founder VIGEN BADALYAN Co-founder",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "VBET — About us",
+      "date": "2026",
+      "url": "https://www.vbet.group/about-us",
+      "quote": "Founded by Vigen and Vahe Badalyan in 2003, VBET started out under the brand name Vivaro",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

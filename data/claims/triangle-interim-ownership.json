@@ -1,0 +1,19 @@
+{
+  "id": "triangle-interim-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "groupe-jm"
+  ],
+  "text": "The French corporate registry (recherche-entreprises) shows Triangle Intérim (SIREN 354088544) with GROUPE JM (SIREN 402629976) as its 'Président de SAS', i.e. its SAS parent.",
+  "source": {
+    "name": "Annuaire des Entreprises / recherche-entreprises.api.gouv.fr — Triangle Intérim (SIREN 354088544)",
+    "date": "2026",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=354088544&page=1&per_page=1",
+    "quote": "\"siren\":\"402629976\",\"denomination\":\"GROUPE JM\",\"qualite\":\"Président de SAS\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

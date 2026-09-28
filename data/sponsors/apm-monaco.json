@@ -1,11 +1,14 @@
 {
   "id": "apm-monaco",
   "name": "APM Monaco",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "prette-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by the Prette family (founders, since 1982); TPG Capital holds a 30% minority stake. Nothing found.",
+  "claimIds": [
+    "apm-monaco-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: family-controlled jewellery house based in Monaco and Hong Kong; TPG's 2019 stake is a passive 30% minority holding."
 }
