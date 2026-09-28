@@ -1,12 +1,14 @@
 {
   "id": "ggm-gastro",
   "name": "GGM Gastro",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "ggm-gastro-international-gmbh",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by GGM Gastro International GmbH, a private German company run by its two managing directors. Nothing found.",
+  "claimIds": [
+    "ggm-gastro-international-gmbh-ownership"
+  ],
   "aliases": [],
-  "note": "German commercial catering-equipment supplier; Official Partner of Everton Women from October 2025 with its mark on the back of the shorts."
+  "note": "Rating note: privately held German GmbH (HRB 9637, Amtsgericht Steinfurt); managing directors Ferit Inan and Ömer Elma. Official Partner of Everton Women since October 2025 (back-of-shorts mark)."
 }
