@@ -12,49 +12,77 @@
       "sponsorId": "hexaom",
       "placement": "front",
       "source": {
-        "name": "Le Mans FC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "https://www.lemansfc.fr/"
+        "name": "Le Mans FC — Hexaom devient partenaire principal du Mans FC (2 juillet 2026)",
+        "date": "2026-07-02",
+        "url": "https://www.lemansfc.fr/index.php?section=actualites-contenu&actu=4089",
+        "quote": "le logo Hexaom bénéficiera d’une visibilité majeure sur les maillots des équipes professionnelles, avec une présence au centre du maillot de l’équipe masculine",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "groupe-ej",
       "placement": "front",
       "source": {
-        "name": "Le Mans FC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "https://www.lemansfc.fr/"
+        "name": "Le Mans FC — Sang et or : plus que des couleurs, une identité (lancement des maillots domicile et extérieur, 31 juillet 2026)",
+        "date": "2026-07-31",
+        "url": "https://www.lemansfc.fr/index.php?section=actualites-contenu&actu=4112",
+        "quote": "Le Mans FC tient à remercier les partenaires qui accompagneront ces tenues et les Sang et Or tout au long de la saison : Le Mans Métropole, Hexaom, Groupe EJ, Matines, Passenaud et bien sûr adidas.",
+        "note": "The club names Groupe EJ among the partners of the 2026-27 tenues; the club's official kit-launch photos show the EJ logo on the right chest of the home shirt.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "oeufs-matines",
       "placement": "front",
       "source": {
-        "name": "Le Mans FC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "https://www.lemansfc.fr/"
+        "name": "Le Mans FC — Matines prolonge son engagement aux côtés du Mans FC (3 septembre 2026)",
+        "date": "2026-09-03",
+        "url": "https://www.lemansfc.fr/index.php?section=actualites-contenu&actu=4144",
+        "quote": "Toujours présente sur les maillots de notre équipe professionnelle masculine, Matines renforce sa présence au Stade Marie-Marvingt",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "passenaud-recyclage",
       "placement": "back",
       "source": {
-        "name": "Le Mans FC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "https://www.lemansfc.fr/"
+        "name": "Passenaud — Partenariat Le Mans FC : le club retrouve la Ligue 1 (19 mai 2026)",
+        "date": "2026-05-19",
+        "url": "https://passenaud.fr/partenariat-le-mans-fc-ligue-1/",
+        "quote": "Partenaire du club depuis plus de 20 ans, le Groupe Passenaud partage la joie de tous ceux qui ont contribué à cette belle réussite.",
+        "note": "Passenaud is named among the partners of the 2026-27 tenues by the club's kit launch (lemansfc.fr, actu 4112). The back placement comes from the kit record as inherited; none of the official product photos shows the back of the shirt, so the back placement itself is not photo-sourced.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "of-course-le-mans",
       "placement": "sleeve",
       "source": {
-        "name": "Le Mans FC — site officiel (partenaires)",
-        "date": "2026",
-        "url": "https://www.lemansfc.fr/"
+        "name": "Le Mans FC — Sang et or : plus que des couleurs, une identité (31 juillet 2026)",
+        "date": "2026-07-31",
+        "url": "https://www.lemansfc.fr/index.php?section=actualites-contenu&actu=4112",
+        "quote": "Le Mans FC tient à remercier les partenaires qui accompagneront ces tenues et les Sang et Or tout au long de la saison : Le Mans Métropole, Hexaom, Groupe EJ, Matines, Passenaud et bien sûr adidas.",
+        "note": "'Le Mans Métropole' appears on the shirt through its :Of course Le Mans brand; the club's official kit-launch photos show it on the sleeve.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Adidas kit. Hexaom front.",
+  "sponsorsComplete": true,
+  "summary": "Adidas home shirt: Hexaom in the centre, Groupe EJ on the right chest and Matines on the left chest of the front, Passenaud on the back and the Ville du Mans / Le Mans Métropole brand (:Of course Le Mans) on the sleeve. All five are French private or public-local bodies rated none.",
   "change": null
 }
