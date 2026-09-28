@@ -16,7 +16,12 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
         "date": "2026-09-17",
-        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+        "quote": "This was upgraded to a front-of-shirt partnership for the men’s, women’s and academy teams before the start of the 2024/25 season. The current deal runs until at least 2029",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -25,7 +30,12 @@
       "source": {
         "name": "Manchester United – 'SumUp becomes United's Official Sleeve Partner'",
         "date": "2026-09-08",
-        "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner"
+        "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner",
+        "quote": "will see the SumUp logo feature on the sleeve of the playing shirt for the men’s, women’s and Academy teams across all competitions",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -33,13 +43,34 @@
       "placement": "back",
       "source": {
         "name": "Manchester United, Microsoft Surface to feature on United shirts",
-        "date": "2026-08",
-        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1"
+        "date": "2026-07-17",
+        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+        "quote": "Surface branding will also appear on United shirts in men’s first team domestic cup competitions throughout the 2026/27 season.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Back-of-shirt coverage is selective for the men's first team: pre-season fixtures plus domestic cup competitions in 2026/27 (Score and Change: 'Microsoft Surface now featuring on the back of match day shirts during selective fixtures (e.g. domestic cup matches)')."
       },
       "side": "back"
+    },
+    {
+      "sponsorId": "betway",
+      "placement": "training-kit",
+      "source": {
+        "name": "Manchester United – 'Betway announced as Official Principal Partner'",
+        "date": "2026-08-04",
+        "url": "https://www.manutd.com/en/news/betway-announced-as-united-official-training-kit-partner",
+        "quote": "Through the new agreement, the Betway logo will feature on the training kits of Manchester United’s men’s and women’s teams.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Betway is Official Principal Partner and Exclusive Global Betting Partner; on the playing-shirt lineup its placement is the training kit, not the match shirt."
+      }
     }
   ],
   "sponsorsComplete": true,
-  "summary": null,
+  "summary": "Snapdragon on the front, SumUp on the sleeve from September 2026, Microsoft Surface on the back for pre-season and domestic cup fixtures, and Betway on the training kit.",
   "change": null
 }
