@@ -12,22 +12,48 @@
       "sponsorId": "betano",
       "placement": "front",
       "source": {
-        "name": "Kaizen Gaming, 'Betano and Sporting CP renew partnership until 2029' (Main Sponsor, branding on the front of the official shirts)",
+        "name": "Kaizen Gaming: Betano and Sporting CP renew partnership until 2029",
         "date": "2025-08-08",
-        "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/"
+        "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/",
+        "quote": "will continue to support the Alvalade club as the Main Sponsor. The renewed agreement covers both the First Team and the B Team, which currently competes in the second league, with Betano maintaining prominent branding on the front of both teams’ official shirts",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "super-bock",
       "placement": "back",
       "source": {
-        "name": "Sporting CP official sponsors page (Super Bock listed as Main Partner) plus Wikipedia 2026-27 Personnel and kits (Super Bock back)",
-        "date": "2026-09",
-        "url": "https://www.sporting.pt/en/sponsors"
+        "name": "Footy Headlines: Gold Sporting 26-27 Away Kit Released - Total 90 Inspired",
+        "date": "2026-07-25",
+        "url": "https://www.footyheadlines.com/1162067902/gold-sporting-26-27-away-kit-released-total-90-inspired.html",
+        "quote": "On the upper back, the number \"120\" sits above the Super Bock sponsor to commemorate the club's 120th anniversary.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "This article is about the 2026-27 away shirt. No text source found that names the back sponsor of the 2026-27 home shirt: the press reports of its launch on 13 July 2026 (A Bola, Record, O Jogo, TVI) and Footy Headlines' home-kit article don't name it."
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Sporting CP 26-27 Home Kit Released",
+        "date": "2026-07-13",
+        "url": "https://www.footyheadlines.com/0629045786/sporting-cp-26-27-home-kit-released.html",
+        "quote": "The Nike Sporting CP 26-27 home kit features the club's legendary green and white hoops, without any other colors.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker; not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
+  "summary": "Betano (Kaizen Gaming) on the front and Super Bock on the back; Nike is the kit maker. Not marked complete: no cited source lists every placement on the shirt.",
   "change": null
 }
