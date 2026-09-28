@@ -1,0 +1,28 @@
+{
+  "id": "los-angeles-fc-bmo-stadium",
+  "clubId": "los-angeles-fc",
+  "orgName": null,
+  "sponsorId": "bmo-bank",
+  "placement": "stadium",
+  "from": "2023",
+  "to": null,
+  "value": {
+    "amount": 100,
+    "currency": "USD",
+    "unit": "m",
+    "per": "10 years",
+    "upTo": false,
+    "usdApprox": 100
+  },
+  "source": {
+    "name": "Sportico – LAFC Signs MLS-Record $100 Million Naming Rights Deal With BMO",
+    "date": "2023-01-19",
+    "url": "https://www.sportico.com/business/sponsorship/2023/lafc-bmo-stadium-1234693659/",
+    "quote": "LAFC has signed a new naming rights deal with BMO Financial, a 10-year partnership worth approximately $100 million total",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Banc of California Stadium renamed BMO Stadium; roughly $10m a year, the largest naming-rights deal for a soccer-specific stadium in MLS."
+}

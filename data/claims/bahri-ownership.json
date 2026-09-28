@@ -1,0 +1,21 @@
+{
+  "id": "bahri-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+  ],
+  "text": "The Public Investment Fund holds a 22.55 percent stake in Bahri (National Shipping Company of Saudi Arabia) and 20 percent is held by Saudi Aramco Development Company, with the remainder in public shares.",
+  "short": "PIF holds 22.55% of Bahri; Saudi Aramco Development Company holds 20%.",
+  "source": {
+    "name": "AGBI (Arab Gulf Business Insight) company profile",
+    "date": "2025-05-08",
+    "url": "https://www.agbi.com/companies/bahri-company/",
+    "quote": "The Public Investment Fund (PIF) holds a 22.55 percent stake, 20 percent is held by by Saudi Aramco Development Company and the remainder is held in public shares.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "claude-review-282"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "inter-milan-betsson-sport-front",
+  "clubId": "inter-milan",
+  "orgName": null,
+  "sponsorId": "betsson-sport",
+  "placement": "front",
+  "from": "2024",
+  "to": "2028",
+  "value": {
+    "amount": 30,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 32200000
+  },
+  "source": {
+    "name": "SportsPro, 'Inter Milan ink club-record Betsson Sport shirt sponsorship'",
+    "date": "2024-07-01",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/inter-milan-betsson-sport-shirt-sponsorship-serie-a/",
+    "quote": "It was reported in February that Betsson was set to take over from Paramount+ in a deal worth around €30 million (US$32.2 million) annually plus bonuses.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Four-year deal running 2024-25 to 2027-28. Figure is a press report, not a club filing."
+}
