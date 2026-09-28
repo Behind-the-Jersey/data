@@ -1,0 +1,28 @@
+{
+  "id": "borussia-dortmund-polestar",
+  "clubId": "borussia-dortmund",
+  "orgName": null,
+  "sponsorId": "polestar",
+  "placement": "sleeve",
+  "from": "2025-26",
+  "to": null,
+  "value": {
+    "amount": 5,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "SPORT1/SID: Neuer Geldregen für BVB (citing Bild: ~EUR 5m per season, three years)",
+    "date": "2025-08-04",
+    "url": "https://www.sport1.de/news/emerald-default-temp/2025/08/neuer-armelsponsor-bvb-kassiert-millionen",
+    "quote": "Der Bild-Zeitung zufolge nimmt der BVB dadurch fünf Millionen Euro pro Saison ein",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Announced 4 August 2025 as mobility partner and sleeve sponsor for all competitions, 'zunächst für drei Jahre' (initially three years). 'to' left null: the sources give the initial term, not a fixed end season."
+}
