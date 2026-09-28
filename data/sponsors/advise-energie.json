@@ -1,11 +1,17 @@
 {
   "id": "advise-energie",
   "name": "Advise Énergie",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "lmef-invest",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Pierrelatte-based nuclear-services company (maintenance of nuclear power plants) held through LMEF Invest. Nothing found.",
+  "claimIds": [
+    "advise-energie-lmef-ownership"
+  ],
+  "aliases": [
+    "ADVISE",
+    "Advise Energie"
+  ],
+  "note": "Rating note: SAS with ~70 staff serving the nuclear industry (its own site); president is LMEF Invest, a small private holding. No state or fund owner identified."
 }

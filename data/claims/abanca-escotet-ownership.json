@@ -4,8 +4,8 @@
   "ownerIds": [
     "abanca"
   ],
-  "text": "Abanca is the Galician banking ally of Banesco Internacional; Banesco Internacional states that its founder and principal shareholder, the banker and economist Juan Carlos Escotet Rodríguez, is also the principal shareholder of Abanca.",
-  "short": "Banesco Internacional says its founder and principal shareholder Juan Carlos Escotet Rodríguez is also Abanca's principal shareholder.",
+  "text": "Abanca is the Galician banking ally of Banesco Internacional; Banesco Internacional states that its founder and principal shareholder, the banker and economist Juan Carlos Escotet Rodríguez, is also the principal shareholder of Abanca. Abanca's 2025 corporate governance report says Escotet is the bank's effective owner (titular efectivo) with 84.75% of the share capital, 43.50% held directly and 41.25% through the Spanish company Escotet Family Office S.L.U., and that no other shareholder holds more than 5%.",
+  "short": "Juan Carlos Escotet Rodríguez is Abanca's effective owner, with 84.75% of the share capital.",
   "source": {
     "name": "Banesco Internacional, 'Nosotros'",
     "date": "2026",
@@ -16,5 +16,18 @@
       "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Abanca: Memoria Anual de Gobierno Corporativo 2025",
+      "date": "2026",
+      "url": "https://www.abancacorporacionbancaria.com/files/documents/memoria-anual-2025vf-es-d10c08aa.pdf",
+      "quote": "Juan Carlos Escotet Rodríguez es el titular efectivo de la Sociedad, con una participación del 84,75% del capital social: 43,50% de propiedad directa y 41,25% de propiedad indirecta a través de la sociedad española",
+      "note": "18 MB PDF, too large for the source check script. Same page (section 02, Estructura de la propiedad): 'No existen otros accionistas (ni personas físicas ni jurídicas) con una participación superior al 5%.'",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }

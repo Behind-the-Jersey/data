@@ -1,0 +1,33 @@
+{
+  "id": "super-bock-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "super-bock-group"
+  ],
+  "text": "56% of Super Bock Group's capital is owned by the VIACER Group and 44% by the Carlsberg Group. Carlsberg's 2025 annual report says Viacer is the controlling shareholder of Super Bock Group, and that Carlsberg Breweries A/S also holds 29% of Viacer, without exercising control.",
+  "short": "Super Bock Group: 56% VIACER Group, 44% Carlsberg Group.",
+  "source": {
+    "name": "Super Bock Group: About us",
+    "date": "2026",
+    "url": "https://superbockgroup.com/group/about-us/?lang=en",
+    "quote": "With a Portuguese majority, 56% of the Super Bock Group’s capital is owned by the VIACER Group and 44% by the Carlsberg Group.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Carlsberg Group Annual Report 2025",
+      "date": "2026-02-04",
+      "url": "https://www.carlsberggroup.com/media/1tgf0wsy/carlsberg-group_2025-annual-report.pdf",
+      "quote": "Viacer S.G.P.S (Viacer) is the controlling shareholder of Super Bock Group, S.G.P.S. (Super Bock) with a 56% shareholding, with Carlsberg Breweries A/S owning the remaining 44%. In addition, Carlsberg Breweries A/S has a direct ownership share of 29% in Viacer without exercising control.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Footnote to the list of Group companies (associates). The PDF is 15 MB, too large for the source check script."
+    }
+  ],
+  "reviewed": false
+}

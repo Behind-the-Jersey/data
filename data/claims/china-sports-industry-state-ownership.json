@@ -1,0 +1,34 @@
+{
+  "id": "china-sports-industry-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "china-sports-industry-group"
+  ],
+  "text": "China Sports Industry Group (SSE 600158) names the General Administration of Sport of China (国家体育总局) as its ultimate controller; its largest shareholder, the Administration's Sports Fund Management Centre, holds 19.49%. At 30 June 2026 its first, second and fourth largest shareholders (19.49%, 7.01% and 1.33%) were units under the Administration.",
+  "short": "China Sports Industry Group's ultimate controller is China's General Administration of Sport",
+  "source": {
+    "name": "中体产业集团股份有限公司 (China Sports Industry Group Co., Ltd.): 2026年半年度报告 (2026 half-year report, on cninfo)",
+    "date": "2026-08-27",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-27/1225509997.PDF",
+    "quote": "本企业最终控制方是国家体育总局。",
+    "note": "Notes on related parties: the parent (母公司) is 国家体育总局体育基金管理中心 with 19.49% of shares and voting rights; 'the ultimate controlling party of the company is the General Administration of Sport'. The 2025 annual report (cninfo, 2026-04-30) names 国家体育总局 as actual controller (实际控制人).",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "中体产业集团股份有限公司 (China Sports Industry Group Co., Ltd.): 2026年半年度报告摘要 (2026 half-year report summary, on cninfo)",
+      "date": "2026-08-27",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-27/1225510055.PDF",
+      "quote": "在公司前十名股东中，第 1、2、4 名股东为国家体育总局下属之事业单位、法人单位。",
+      "note": "Top-10 shareholder table: 国家体育总局体育基金管理中心 19.49%, 华体集团有限公司 7.01%, 国家体育总局体育器材装备中心 1.33% (all 国有法人).",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

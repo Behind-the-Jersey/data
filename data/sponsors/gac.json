@@ -4,8 +4,24 @@
   "ownerId": "gac-group",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "status": "being-rated",
+  "verdict": "GAC (Guangzhou Automobile Group), a Chinese carmaker controlled by the Guangzhou municipal government.",
+  "claimIds": [
+    "gac-group-record",
+    "china-xinjiang-un-assessment"
+  ],
+  "aliases": [
+    "GAC Group",
+    "Guangzhou Automobile Group"
+  ],
+  "why": {
+    "text": "GAC is controlled by the Guangzhou city government: its state-assets commission is GAC's actual controller, and holds 90% of Guangzhou Automobile Industry Group, which owns 54.02% of GAC. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind GAC is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "gac-group-record"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "The link (claim gac-group-record): GAC Group's 2025 annual report (HKEX and cninfo editions) names Guangzhou Automobile Industry Group as controlling shareholder with 54.02% and the Guangzhou Municipal SASAC, a department of the Guangzhou Municipal People's Government, as actual controller with 90% of Guangzhou Automobile Industry Group; Nikkei Asia (28 Sep 2026) reports the Guangzhou city government controls about two-thirds of GAC. The chain is gac-group, guangzhou-municipal-government, government-of-china: the Chinese state controls GAC through its city government. The record (claim china-xinjiang-un-assessment): the UN OHCHR 2022 Xinjiang assessment and Human Rights Watch (2026). The tier is for a maintainer to set (METHOD.md 'Sponsor tiers': a state with a record that controls the sponsor). Not recorded as claims: Sheffield Hallam's Driving Force report (Oct 2024) lists GAC Group among companies in the Ürümqi Toutunhe automotive zone in the Uyghur Region but makes no forced-labour finding against GAC; Nikkei Asia (28 Sep 2026) reports an agreement of intent for FAW Group, controlled by China's central SASAC, to become GAC's second-largest shareholder."
 }

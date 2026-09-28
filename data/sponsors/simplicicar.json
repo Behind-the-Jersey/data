@@ -1,11 +1,15 @@
 {
   "id": "simplicicar",
   "name": "Simplicicar",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "simplicicar-france",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Operated by Simplicicar France (French registry), founded by Yoni Dayan. Nothing found.",
+  "claimIds": [
+    "simplicicar-ownership"
+  ],
+  "aliases": [
+    "Simplicicar Monacar"
+  ]
 }

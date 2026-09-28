@@ -1,15 +1,33 @@
 {
   "id": "skoda",
   "name": "Škoda Auto",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "skoda-auto",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Czech carmaker wholly owned (via Volkswagen Finance Luxemburg S.A.) by Volkswagen AG, in which Qatar Holding LLC — a wholly-owned subsidiary of Qatar Investment Authority, the State of Qatar's sovereign wealth fund — holds 10.4% of the subscribed capital and 17.0% of the voting rights.",
+  "claimIds": [
+    "qatar-migrant-worker-abuse-2025",
+    "skoda-vw-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
+  ],
   "aliases": [
     "skoda uk",
     "skoda auto"
   ],
-  "note": "Czech car maker (Volkswagen Group); Chelsea Women's first Official Back of Shirt Partner since the May 2025 extension, after becoming the team's Official Car Partner at the start of 2024."
+  "why": {
+    "text": "Škoda Auto is wholly owned by Volkswagen AG, and Qatar Holding LLC — the investment arm of Qatar's sovereign wealth fund, the Qatar Investment Authority — holds 10.4% of Volkswagen's subscribed capital and 17.0% of its voting rights, making it the third-largest shareholder. That stake clears the 5% METHOD.md threshold, so the Qatari state's money is behind Škoda. Amnesty International and Human Rights Watch both report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "qatar-holding-vw-stake",
+      "skoda-vw-ownership",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International reports that migrant workers in Qatar continued to face labour abuses, including an exploitative kafala sponsorship system, despite recent legal reforms.",
+    "status": "draft"
+  },
+  "note": "Rating note: propose 'concern'. The link: Škoda Auto's sole shareholder is Volkswagen Finance Luxemburg S.A. (skoda-auto.com), and Volkswagen AG's Annual Report 2025 names Škoda Auto a.s. among the companies in which it 'holds direct or indirect interests' (claim skoda-vw-ownership); the same report shows Qatar Holding LLC with 10.4% of subscribed capital and 17.0% of voting rights, the third-largest shareholder (claim qatar-holding-vw-stake); two SEC filings by different issuers establish Qatar Holding LLC as a wholly-owned subsidiary of the Qatar Investment Authority (claim qatar-holding-qia-ownership); QIA's own About page names it the sovereign wealth fund of the State of Qatar (claim qia-government-of-qatar-ownership). The record: Amnesty International's Qatar 2025 country entry and HRW's World Report 2026 Qatar chapter, two independent publishers, on continuing migrant-labour abuses under kafala (existing claim qatar-migrant-worker-abuse-2025). Judgement call: Qatar's stake sits in Volkswagen AG two levels above Škoda and is 10.4% — a genuine link, but not control — so 'concern' rather than 'serious' seems right; a maintainer should decide. ON HOLD: proposed 'concern' in PR for issue #653, pending maintainer review."
 }
