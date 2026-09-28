@@ -3,9 +3,12 @@
   "name": "DEVK",
   "ownerId": "devk",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A German mutual insurance association owned by its members. Nothing found.",
+  "claimIds": [
+    "devk-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: DEVK is a Versicherungsverein auf Gegenseitigkeit (mutual), member-owned with no external shareholder and no state stake; its Deutsche Bahn relationship is a welfare-facility partnership, not ownership. German mutual with no sourced human-rights finding against it: none."
 }

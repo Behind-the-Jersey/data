@@ -1,0 +1,20 @@
+{
+  "id": "helm-ag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "helm-ag"
+  ],
+  "text": "HELM AG is a family-owned company: Hermann Schnabel acquired it in 1950, it became a private Aktiengesellschaft in 1978, and in 1984 he handed it over to his son Dieter.",
+  "source": {
+    "name": "HELM AG: Historie",
+    "date": "2026",
+    "url": "https://www.helmag.com/unternehmen/historie",
+    "quote": "1950 Hermann Schnabel erwirbt HELM und verlagert den Schwerpunkt auf den Handel von chemischen Produkten.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same page: '1978 HELM wird in eine private Aktiengesellschaft umgewandelt.' and '1984 Hermann Schnabel übergibt das Unternehmen an seinen Sohn Dieter.'"
+  },
+  "reviewed": false
+}

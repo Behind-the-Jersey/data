@@ -5,10 +5,12 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by Barmenia Versicherungen a.G. (BarmeniaGothaer Group). Nothing found.",
+  "verdict": "Owned by Barmenia Versicherungen a.G. (BarmeniaGothaer Group), a mutual insurer. Nothing found.",
   "claimIds": [
     "barmenia-versicherungen-ag-record"
   ],
-  "aliases": [],
-  "note": "Rating note: German mutual 'a.G.' structure; Barmenia holds 36% and Gothaer 64% of the joint holding after the 2023/24 merger. No state capital."
+  "aliases": [
+    "BarmeniaGothaer"
+  ],
+  "note": "Rating note: German mutual 'a.G.' structure; Barmenia Versicherungen a.G. and Gothaer Versicherungsbank VVaG stand at the top of the BarmeniaGothaer group (steering via BarmeniaGothaer AG). Owned by policyholder members, not shareholders or the state. Main and shirt sponsor since 2016, running to 2028."
 }
