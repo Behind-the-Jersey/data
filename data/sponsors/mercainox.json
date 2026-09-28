@@ -2,12 +2,13 @@
   "id": "mercainox",
   "name": "Mercainox",
   "ownerId": "mercainox",
-  "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Portuguese stainless-steel retailer; owner not identified. Nothing found.",
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "mercainox-ownership"
   ],
-  "aliases": []
+  "aliases": [],
+  "note": "Stainless-steel supplier (Mercainox – Componentes Industriais, Lda.), listed among FC Famalicão's partners (https://www.fcfamalicao.pt/parceiros/mercainox/). Who owns it isn't sourced, so it isn't rated yet."
 }
