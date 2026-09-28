@@ -1,0 +1,33 @@
+{
+  "id": "mgs-seguros-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mgs-seguros"
+  ],
+  "text": "MGS Seguros is MGS, Seguros y Reaseguros, S.A., a Spanish insurance company that is the parent (marca matriz) of the Grupo MGS; it began in 1907 as Mutua General de Seguros and later adopted the form of a sociedad anónima. No state body or fund appears in its ownership.",
+  "short": "MGS Seguros is MGS, Seguros y Reaseguros S.A., an independent Spanish insurer founded in 1907.",
+  "source": {
+    "name": "MGS, Estatutos sociales (March 2025, PDF)",
+    "date": "2025-03",
+    "url": "https://www.mgs.es/wps/documents/10158/103592/ESTATUTOS_MGS_MARZO_2025.pdf/7825ce06-09d3-efb8-04d6-c011631a170a",
+    "quote": "La entidad adopta la forma de sociedad anónima y actuará en el tráfico bajo la denominación MGS, SEGUROS Y REASEGUROS S.A.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "The same statutes state: 'La Sociedad es continuadora, por vía de transformación, de la entidad MUTUA GENERAL DE SEGUROS-EUROMUTUA... fundada en 1907' and give share capital of 20,000,000 euros in 40,000,000 nominative shares with transfer restrictions (registered at the Registro Mercantil de Zaragoza, Hoja Z-62788)."
+  },
+  "additionalSources": [
+    {
+      "name": "MGS, Grupo MGS (información societaria)",
+      "date": "2026",
+      "url": "https://www.mgs.es/wps/informacion-societaria/grupo-mgs",
+      "quote": "MGS, Seguros y Reaseguros S.A. es la marca matriz del Grupo MGS. Nacida en 1907 como Mutua General de Seguros",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

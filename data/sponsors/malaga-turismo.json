@@ -3,9 +3,16 @@
   "name": "Malaga Turismo",
   "ownerId": "ayuntamiento-de-malaga",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The tourism brand of the Ayuntamiento de Málaga (the city council's Área de Turismo). Nothing found.",
+  "claimIds": [
+    "malaga-turismo-ownership"
+  ],
+  "aliases": [
+    "Málaga Turismo",
+    "Turismo Málaga",
+    "Visita Málaga"
+  ],
+  "note": "Proposed none 2026-09-28 (PR #340): state ownership alone is not a tier; the city's tourism area has no record of serious abuses found. Note: Score and Change calls the vertical front logo 'Málaga Turismo'; the club's Ayuntamiento announcement calls the same space 'la marca Málaga en el lateral delantero'."
 }

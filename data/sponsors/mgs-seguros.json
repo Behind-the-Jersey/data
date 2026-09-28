@@ -3,9 +3,16 @@
   "name": "MGS Seguros",
   "ownerId": "mgs-seguros",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "MGS, Seguros y Reaseguros, S.A., a Spanish insurance company founded in 1907 as Mutua General de Seguros; no state stake found. Nothing found.",
+  "claimIds": [
+    "mgs-seguros-ownership"
+  ],
+  "aliases": [
+    "MGS, Seguros y Reaseguros, S.A.",
+    "MGS Seguros y Reaseguros",
+    "Grupo MGS"
+  ],
+  "note": "Proposed none 2026-09-28 (PR #340): a private sociedad anónima (Estatutos, March 2025); no state body or fund found anywhere in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against it was found, so nothing found."
 }
