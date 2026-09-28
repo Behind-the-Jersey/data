@@ -1,0 +1,32 @@
+{
+  "id": "blaklader-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "blaklader-ab"
+  ],
+  "text": "Blåkläder is owned by the Gustavsson family: FC Schalke 04's announcement of the sleeve partnership quotes 'The Gustavsson family, owners of Blåkläder'. Marcus Gustavsson became the owner of the company his father founded in 1959, per an EY Entrepreneur Of The Year profile.",
+  "short": "Blåkläder is owned by the Gustavsson family.",
+  "source": {
+    "name": "FC Schalke 04: FC Schalke 04 welcomes Blåkläder as its new sleeve partner",
+    "date": "2026-06-09",
+    "url": "https://schalke04.de/en/partner-en/blaklaeder-new-sleeve-partner/",
+    "quote": "The Gustavsson family, owners of Blåkläder, says: “Blåkläder has grown over generations because we have always thought long-term.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "EY Entrepreneur Of The Year (via Cision): Marcus Gustavsson från AB Blåkläder i Svenljunga kan bli Sveriges främsta entreprenör",
+      "date": "2013-01-30",
+      "url": "https://news.cision.com/se/ey-entrepreneur-of-the-year/r/marcus-gustavsson-fran-ab-blaklader-i-svenljunga-kan-bli-sveriges-framsta-entreprenor,c9362640",
+      "quote": "År 1959 startade Marcus Gustavssons pappa Blåkläder, med affärsidén att sälja arbetskläder, handskar och skor av högsta kvalitet. 30 år senare blev Marcus ägare till bolaget.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -3,9 +3,10 @@
   "name": "Kermi",
   "ownerId": "kermi",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Kermi GmbH, which is part of Midea Group (listed, China) via MBT Climate. Nothing found.",
+  "claimIds": ["kermi-ownership"],
+  "aliases": [],
+  "note": "Rating note: Kermi GmbH is a private German heating/ventilation manufacturer; its own company page places it under MBT Climate, the European unit of the listed Midea Group's Building Technologies business (börsennotierte Midea Group, Foshan, China). No state ownership, no sanction or human-rights findings found; sponsor tier none."
 }
