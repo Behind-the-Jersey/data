@@ -7,6 +7,16 @@
   "from": "2024-25",
   "to": "2025-26",
   "value": null,
-  "source": null,
+  "source": {
+    "name": "SportsPro (citing The Athletic)",
+    "date": "2026-07-15",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
+    "note": "Reported as a UK£40m (US$53.5m) deal when Betano became principal partner in 2024; the article does not say whether that is per year or over the term, so the value stays null.",
+    "quote": "will replace Betano, which had been Villa’s principal partner since 2024 as part of a reported UK£40 million (US$53.5 million) deal",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
   "note": "Moved to the sleeves for 2026/27."
 }

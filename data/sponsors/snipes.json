@@ -1,11 +1,16 @@
 {
   "id": "snipes",
   "name": "Snipes",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "deichmann-se",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Deichmann SE (DEICHMANN Group). Nothing found.",
+  "claimIds": [
+    "snipes-deichmann-ownership"
+  ],
+  "aliases": [
+    "SNIPES"
+  ],
+  "note": "Rating note: Owner Deichmann SE is a family-owned German footwear retailer (Essen). No state ownership, stake or board seat sourced, and no human-rights finding against the company sourced, so Nothing found."
 }
