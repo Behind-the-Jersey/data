@@ -6,11 +6,23 @@
   "placement": "front",
   "from": "2026",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "McLaren Racing – McLaren Racing announces Mastercard as Official Naming Partner from 2026",
-    "date": "2025-08-27",
-    "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/"
+  "value": {
+    "amount": 100,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 100
   },
-  "note": "McLaren Mastercard F1 Team title partner on the 2026 car."
+  "source": {
+    "name": "McLaren Racing – Mastercard Official Naming Partner announcement",
+    "date": "2025-08-27",
+    "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/",
+    "quote": "Mastercard is set to become the Official Naming Partner of the McLaren Formula 1 Team from 2026 onwards",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Estimated at US$100 million per season until the mid-2030s per BlackBook Motorsport (2025-08-27): https://www.blackbookmotorsport.com/news/f1-mclaren-mastercard-title-sponsorship-august-2025/"
 }
