@@ -1,0 +1,33 @@
+{
+  "id": "ascale-brand-of-pamesa",
+  "kind": "ownership",
+  "ownerIds": [
+    "ascale",
+    "pamesa-grupo-empresarial"
+  ],
+  "text": "Ascale states on its website footer that ASCALE is a brand of Pamesa Grupo Empresarial, whose site lists Ascale among the brands of the group; the group's history page says it acquired Best Surface (now ASCALE) in 2023 and created Ascale as a commercial brand in 2024.",
+  "short": "Ascale is a brand of Pamesa Grupo Empresarial (Fernando Roig).",
+  "source": {
+    "name": "Ascale (ascale.es) website footer: 'ASCALE es una marca de' with a link to pamesagrupoempresarial.com",
+    "date": "2026",
+    "url": "https://ascale.es/",
+    "quote": "ASCALE es una marca de",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Pamesa Grupo Empresarial, Conoce Grupo Pamesa (history and group brands)",
+      "date": "2026",
+      "url": "https://www.pamesagrupoempresarial.com/conoce-grupo-pamesa/",
+      "quote": "2023 Adquisición de Best Surface, ahora ASCALE. 2024 Creación de Ascale como marca comercial.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
