@@ -4,13 +4,25 @@
   "orgName": null,
   "sponsorId": "koemmerling",
   "placement": "front",
-  "from": "2026-27",
+  "from": "2015",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-    "date": "2026-09-24",
-    "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+  "value": {
+    "amount": 5,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": null
   },
-  "note": "Value not disclosed."
+  "source": {
+    "name": "Deutsches Marketing Institut, Trikotsponsoren der Bundesliga (Stand 04.08.2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+    "quote": "Kömmerling ist bereits seit 2015 Trikotsponsor der Mainzer und ist damit das längste Engagement eines Sponsors in der Geschichte des FSV.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Value from the same page: 'Inzwischen erhält der FSV Mainz 05 circa 5 Millionen Euro jährlich für das Trikotsponsoring.' - a circa figure ('circa' -> upTo). Contract extended until at least 2027."
 }
