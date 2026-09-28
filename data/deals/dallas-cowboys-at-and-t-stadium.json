@@ -2,15 +2,27 @@
   "id": "dallas-cowboys-at-and-t-stadium",
   "clubId": "dallas-cowboys",
   "orgName": "AT&T",
-  "sponsorId": "at-and-t",
+  "sponsorId": "att",
   "placement": "stadium",
-  "from": null,
+  "from": "2013",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "ESPN",
-    "date": "2013-07-25",
-    "url": "https://www.espn.com/nfl/story/_/id/9508990/dallas-cowboys-say-complex-renamed-att-stadium"
+  "value": {
+    "amount": 17,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 19
   },
-  "note": "Arena naming rights: AT&T Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2013-07-25."
+  "source": {
+    "name": "ESPN - Cowboys complete AT&T deal",
+    "date": "2013-07-25",
+    "url": "https://www.espn.com/nfl/story/_/id/9508990/dallas-cowboys-say-complex-renamed-att-stadium",
+    "quote": "The deal is worth between $17 million and $19 million per year, according to sources.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Arena naming rights: AT&T Stadium, announced 2013-07-24 and effective immediately per ESPN."
 }

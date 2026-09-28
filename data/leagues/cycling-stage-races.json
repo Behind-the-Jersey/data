@@ -1,0 +1,29 @@
+{
+  "id": "cycling-stage-races",
+  "aliases": [
+    "uae tour",
+    "uae tour women",
+    "alula tour",
+    "saudi tour",
+    "tour of oman",
+    "muscat classic",
+    "tour of guangxi",
+    "gree-tour of guangxi",
+    "tour du rwanda",
+    "state-hosted uci road races"
+  ],
+  "sportId": "cycling",
+  "name": "State-hosted UCI road races (UAE, Saudi Arabia, Oman, China, Rwanda)",
+  "country": "UAE / Saudi Arabia / Oman / China / Rwanda",
+  "clubCount": 7,
+  "season": "2026",
+  "status": "not-started",
+  "notes": [
+    "Event-host shape: these 7 races do not fit the schema yet (no event entity, no host/title-sponsor placement), so the races are recorded here as the entity list and every commercial fact is recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts and as org deals, following the UFC, Esports World Cup and horse-racing precedents. clubs and kits arrays are empty.",
+    "The 7 races (2026): UAE Tour (UCI WorldTour, 16-22 Feb, won by Isaac del Toro), UAE Tour Women (Women's WorldTour, 5-8 Feb, won by Elisa Longo Borghini), AlUla Tour (UCI ProSeries 2.Pro, 27-31 Jan, won by Jan Christen), Tour of Oman (ProSeries, 7-11 Feb, won by Christian Scaroni), Muscat Classic (ProSeries one-day race, 6 Feb, won by Mauro Schmid), Tour of Guangxi (WorldTour season finale, 13-18 Oct), Tour du Rwanda (UCI Africa Tour 2.1, 22 Feb-1 Mar, won by Moritz Kretschy).",
+    "Separate the race owner/host (the state body) from the commercial operator: Abu Dhabi Sports Council owns the UAE Tour races with RCS Sport as organiser; the AlUla Tour site is run by ASO (c) with the Saudi Ministry of Sport and Royal Commission for AlUla as institutional partners; the Tour of Oman site is run by ASO (c) with the Omani Ministry of Culture, Sports and Youth organising; the Tour of Guangxi is organised by the People's Government of Guangxi and Wanda Group; the Tour du Rwanda is organised by the Rwanda Cycling Federation.",
+    "Muscat Classic and Tour of Oman overlap in 2026 reporting: Muscat Daily describes the 6 Feb Muscat Classic as opening the Tour of Oman programme, while Wikipedia lists it as a separate one-day race on the ProSeries calendar; the race's own site says it runs 'ahead of the Tour of Oman (7-11 February 2026)'. Both are counted here; the exact governance split is unresolved.",
+    "Not counted: the 2025 UCI Road World Championships in Kigali (21-28 Sept 2025, one-off host event, covered in claims and unsourced) and a possible 2026 Tour of Guangxi women's race, which was not verified.",
+    "Sponsorship is on race titles, presenting partnerships and leader's-jersey/stage sponsorship, not shirts; the UAE Tour's own sponsors page lists Presenting Sponsor (AD Ports Group), Jersey Sponsors, Stage Sponsors and stage partners. Host fees are not disclosed."
+  ]
+}

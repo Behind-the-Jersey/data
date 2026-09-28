@@ -1,0 +1,25 @@
+{
+  "id": "world-rugby",
+  "aliases": [
+    "World Rugby",
+    "Rugby World Cup",
+    "RWC 2027",
+    "HSBC SVNS",
+    "World Rugby Sevens Series",
+    "Nations Championship"
+  ],
+  "sportId": "rugby",
+  "name": "World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)",
+  "country": "Global",
+  "clubCount": 24,
+  "season": "2026-27",
+  "status": "not-started",
+  "notes": [
+    "Governing-body shape, modelled like FIFA/ICC: one partner list covering World Rugby's properties in the 2026-27 window - Men's Rugby World Cup 2027 (Australia, 1 Oct - 13 Nov 2027, 24 teams) and the HSBC SVNS Series and World Championship 2026-27 (nine events, 28 Nov 2026 - 30 May 2027).",
+    "World Rugby partner tiers (world.rugby header/footer, fetched 2026-09-25): Platinum Partner Emirates; Global Partners Macron, HSBC, WizTeam.",
+    "RWC 2027 partner tiers (rugbyworldcup.com/2027/en/partners, fetched 2026-09-25): Principal Partners Emirates, Asahi Super Dry, Visa; Official Partners LIQUI MOLY, Coca-Cola, IHG Hotels & Resorts; Official Suppliers & Supporters Dove Men+Care, Gilbert, Macron, LipovitanD (Taisho Pharmaceutical), Mitsubishi Estate, Meiji, Fanatics, Ticketmaster, ChildFund Rugby. Footer also shows Tourism Australia and the NSW, Queensland, South Australia, Western Australia and Victoria governments as host destination partners.",
+    "HSBC SVNS 2026-27 (world.rugby/news/1045878, 28 Jul 2026): Dubai 28-29 Nov, Cape Town 5-6 Dec, Singapore 30-31 Jan 2027, Perth 6-7 Feb, Vancouver 6-7 Mar, New York 13-14 Mar; World Championship: Hong Kong 9-11 Apr, Valladolid 21-23 May, Bordeaux 28-30 May 2027.",
+    "The World Rugby Nations Championship (inaugural 2026, finals at Twickenham; 2028 finals in Doha) is a separate World Rugby property. Its reported Qatar Airways title sponsorship (GBP 80m, eight years to 2034) was agreed but unsigned as of 25 Jun 2026 and paused amid Middle East tensions; no World Rugby announcement confirming it had been published as of 25 Sep 2026, so it is recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts, not as a deal.",
+    "RWC 2027 team-level shirt sponsors of the 24 national unions are not yet in this file (each union must be checked separately); verified union partner lists for three unions are recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "arm",
+  "name": "Arm",
+  "ownerId": "arm-holdings",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "arm-holdings-ownership"
+  ],
+  "aliases": [
+    "Arm Holdings"
+  ],
+  "note": "Rating note for maintainer: semiconductor IP company; Arm Holdings plc is Nasdaq-listed (ARM) and SoftBank Group held a 72.0% equity interest per the FY2026 Form 20-F (chain: arm-holdings -> softbank-group)."
+}

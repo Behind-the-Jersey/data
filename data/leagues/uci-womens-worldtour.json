@@ -1,0 +1,20 @@
+{
+  "id": "uci-womens-worldtour",
+  "aliases": [
+    "womens worldtour",
+    "uci women's worldtour",
+    "women's worldtour",
+    "women's world team"
+  ],
+  "sportId": "cycling",
+  "name": "UCI Women's WorldTour (women's road cycling)",
+  "clubCount": 14,
+  "season": "2026",
+  "status": "not-started",
+  "notes": [
+    "14 UCI Women's WorldTeams granted 2026-2028 licences by the UCI Licence Commission (UCI press release, 2026-2028 cycle).",
+    "Every team is named after a sponsor; names change with sponsors.",
+    "Sponsor placement is mapped to the schema's front/back/sleeve/shorts/partner values from 'team title/name' and 'jersey'.",
+    "Mid-season rename: UAE Team ADQ became UAE Team L'IMAD on 1 August 2026 after ADQ was absorbed into L'IMAD; the UCI licence list still shows UAE Team ADQ (Cyclingnews, 2026-07-27)."
+  ]
+}
