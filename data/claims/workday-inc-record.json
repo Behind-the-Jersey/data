@@ -1,0 +1,32 @@
+{
+  "id": "workday-inc-record",
+  "ownerIds": [
+    "workday-inc"
+  ],
+  "kind": "ownership",
+  "text": "Workday's Class A common stock was listed on the New York Stock Exchange under the symbol WDAY on October 12, 2012, the date of its initial public offering; in September 2017 Workday announced it was transferring the listing to the NASDAQ Global Select Market.",
+  "short": "Workday has been public since its October 2012 IPO.",
+  "source": {
+    "name": "Workday, Inc. – Form 10-K for fiscal 2013 (SEC)",
+    "date": "2013-03-22",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327811/000119312513122351/d448150d10k.htm",
+    "quote": "Our Class A common stock has been listed on the New York Stock Exchange under the symbol “WDAY” since October 12, 2012, the date of our initial public offering.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Workday press release: Workday to Transfer Stock Listing to NASDAQ",
+      "date": "2017-09-01",
+      "url": "https://newsroom.workday.com/2017-09-01-Workday-to-Transfer-Stock-Listing-to-NASDAQ",
+      "quote": "today announced it will be transferring its stock exchange listing from the New York Stock Exchange to The NASDAQ Global Select Market (\"NASDAQ\") effective Sept. 19, 2017 after market close.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
