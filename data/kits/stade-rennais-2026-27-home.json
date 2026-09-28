@@ -12,58 +12,109 @@
       "sponsorId": "samsic",
       "placement": "front",
       "source": {
-        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "name": "Stade Rennais FC — SAMSIC (page partenaire, site officiel)",
         "date": "2026",
-        "url": "https://www.staderennais.com/"
+        "url": "https://www.staderennais.com/samsic",
+        "quote": "Créé en 1986, le groupe Samsic s’est imposé comme un acteur incontournable des services aux entreprises.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Samsic's own site confirms the main-sponsor role: samsic.com/en/stade-rennais-fc — \"Since 2004, we have been the main sponsor of the \"Rouge et Noir\", the Stade Rennais F.C.\""
       }
     },
     {
       "sponsorId": "hellowork",
       "placement": "front",
       "source": {
-        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "name": "Stade Rennais FC — Hellowork (page partenaire, site officiel)",
         "date": "2026",
-        "url": "https://www.staderennais.com/"
+        "url": "https://www.staderennais.com/hellowork",
+        "quote": "Hellowork, première plateforme privée française d’emploi et recrutement, a permis à 1,8 millions de personnes de trouver un emploi ou d’en changer grâce à sa plateforme en 2024.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Front placement (second front slot beside Samsic) per the Wikipedia 2026-27 Ligue 1 kit table: \"Front: Hellowork, Association ELA\"."
       }
     },
     {
       "sponsorId": "association-ela",
       "placement": "front",
       "source": {
-        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "name": "Stade Rennais FC — ASSOCIATION ELA (page partenaire, site officiel)",
         "date": "2026",
-        "url": "https://www.staderennais.com/"
+        "url": "https://www.staderennais.com/association-ela",
+        "quote": "Créée en 1992 par Guy Alba et reconnue d'utilité publique depuis 1996, l' Association ELA regroupe des familles qui se mobilisent pour vaincre les leucodystrophies.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Front placement (charity partner) per the Wikipedia 2026-27 Ligue 1 kit table: \"Front: Hellowork, Association ELA\"."
       }
     },
     {
       "sponsorId": "winamax",
       "placement": "back",
       "source": {
-        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "name": "Stade Rennais FC — Winamax (page partenaire, site officiel)",
         "date": "2026",
-        "url": "https://www.staderennais.com/"
+        "url": "https://www.staderennais.com/winamax",
+        "quote": "Winamax N°1 du poker et des paris sportifs en France. Avec près de deux tiers de parts de marché (données 2022), Winamax est le premier site de poker en France.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Back placement per the Wikipedia 2026-27 Ligue 1 kit table: \"Back: Winamax , Blot Immobilier\"."
       }
     },
     {
       "sponsorId": "blot-immobilier",
       "placement": "back",
       "source": {
-        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "name": "Stade Rennais FC — BLOT (page partenaire, site officiel)",
         "date": "2026",
-        "url": "https://www.staderennais.com/"
+        "url": "https://www.staderennais.com/blot",
+        "quote": "Depuis 2010, Blot Immobilier est sponsor officiel du Stade Rennais F.C. Pour ce groupe breton, être partenaire principal du SRFC est un engagement majeur.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Back placement per the Wikipedia 2026-27 Ligue 1 kit table: \"Back: Winamax , Blot Immobilier\"."
       }
     },
     {
       "sponsorId": "bwt",
       "placement": "shorts",
       "source": {
-        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "name": "Stade Rennais FC — BWT (page partenaire, site officiel)",
         "date": "2026",
-        "url": "https://www.staderennais.com/"
+        "url": "https://www.staderennais.com/bwt",
+        "quote": "Le groupe Best Water Technology est l’un des leaders européens de la technologie de l’eau, comptant 4500 collaborateurs,",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Shorts placement per the Wikipedia 2026-27 Ligue 1 kit table: \"Shorts: BWT\"."
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "433FC: Ligue 1 2026/27 Shirt Sponsors: Every Club's Main Sponsor & Kit Maker",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/ligue-1-2026-27-shirt-sponsors/",
+        "quote": "Stade Rennais Samsic Puma",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, from the site's Club / Main Shirt Sponsor / Kit Manufacturer table; same convention as hummel at Werder and adidas at Strasbourg. The same page states \"Puma outfits Marseille, Rennes and Troyes\". Club's own partner page: staderennais.com/puma."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Puma kit. Samsic front; BWT on the shorts.",
+  "sponsorsComplete": true,
+  "summary": "Puma home shirt: Samsic (main sponsor since 2004) and Hellowork on the front, charity partner Association ELA also front, Winamax and Blot Immobilier on the back, BWT on the shorts. Every placement is named by the Wikipedia 2026-27 Ligue 1 kit table and each sponsor has its own club partner page. All chains are private or nonprofit; no state owner found anywhere.",
   "change": null
 }

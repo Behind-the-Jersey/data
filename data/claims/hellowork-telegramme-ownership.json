@@ -1,0 +1,34 @@
+{
+  "id": "hellowork-telegramme-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "advenn"
+  ],
+  "text": "Hellowork, the Stade Rennais front sponsor, is the French job platform (SIREN 428843130, SASU) whose sole corporate president in the registry is GROUPE TELEGRAMME (SIREN 487661654), with François Leverger as Directeur Général. Groupe Télégramme, the Morlaix media-and-services group around the Le Télégramme newspaper chaired by Edouard Coudurier, was renamed ADVENN in 2024; Advenn's own governance page lists \"François Leverger, Directeur général de Hellowork group\" under president Edouard Coudurier. The group describes itself as independent and family-controlled; no state or sovereign-fund stake was found in the chain.",
+  "short": "Hellowork is owned by Groupe Télégramme (now ADVENN), Edouard Coudurier's independent Breton group.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), HELLOWORK, SIREN 428843130",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=428843130",
+    "quote": "\"siren\":\"487661654\",\"denomination\":\"GROUPE TELEGRAMME\",\"qualite\":\"Président de SAS\",\"type_dirigeant\":\"personne morale\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: nature juridique 5710 (SAS), siege commune 35238 (Rennes area), other dirigeant LEVERGER François (Directeur Général)."
+  },
+  "additionalSources": [
+    {
+      "name": "Advenn — Notre gouvernance (advenn.com/notre-gouvernance/)",
+      "date": "2026",
+      "url": "https://advenn.com/notre-gouvernance/",
+      "quote": "François Leverger Directeur général de Hellowork group",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page lists \"Edouard Coudurier Président d'Advenn\". The rename press release (advenn.com/actualites/le-groupe-telegramme-devient-advenn/) confirms \"Le Groupe Télégramme devient ADVENN\" and calls it \"ce groupe indépendant et solide\"."
+    }
+  ],
+  "reviewed": false
+}

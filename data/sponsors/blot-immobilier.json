@@ -1,11 +1,17 @@
 {
   "id": "blot-immobilier",
   "name": "Blot Immobilier",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "blot-groupe",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Breton family real-estate group founded in 1968, a 'holding animatrice' whose governance is filled by the Blot family (David, Sandra, Jean, Marie-France); official sponsor of Stade Rennais since 2010. Nothing found.",
+  "claimIds": [
+    "blot-family-ownership"
+  ],
+  "aliases": [
+    "Groupe Blot",
+    "Blot"
+  ],
+  "note": "Rating note: registry shows the SAS holding (SIREN 385038724, Rennes) governed entirely by Blot family members. No state or fund stake found → none."
 }

@@ -1,0 +1,33 @@
+{
+  "id": "ela-nonprofit-association",
+  "kind": "ownership",
+  "ownerIds": [
+    "association-ela"
+  ],
+  "text": "The Stade Rennais front partner Association ELA is the Association Européenne contre les Leucodystrophies, a French nonprofit patients' association founded in 1992 by Guy Alba and recognised of public utility (reconnue d'utilité publique) since 1996; the registry shows SIREN 387955917, nature juridique 9230 ('association déclarée'), headquartered in Laxou. As a charity it has no owner or shareholders, so the sponsor's ownerId is null and no state or fund link can arise.",
+  "short": "Association ELA is a French nonprofit charity with no owner (reconnue d'utilité publique since 1996).",
+  "source": {
+    "name": "Association ELA — ela-asso.com (homepage, 'L'association ELA')",
+    "date": "2026",
+    "url": "https://www.ela-asso.com/",
+    "quote": "Fondée en 1992 par Guy Alba, l’Association Européenne contre les Leucodystrophies (ELA) regroupe des familles qui se mobilisent pour vaincre ces maladies génétiques rares. L’Association est reconnue d’utilité publique depuis 1996.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), ASS EUROP CONTRE LES LEUCODYSTROPHIES (ELA), SIREN 387955917",
+      "date": "2026-09-28",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=387955917",
+      "quote": "\"siren\":\"387955917\",\"siren_conserve\":null,\"nom_complet\":\"ASS EUROP CONTRE LES LEUCODYSTROPHIES (ELA)\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same response: \"nature_juridique\":\"9230\" (association déclarée), sigle ELA, siege Laxou (54304). The club's own partner page describes ELA the same way."
+    }
+  ],
+  "reviewed": false
+}

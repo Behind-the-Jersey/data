@@ -1,0 +1,34 @@
+{
+  "id": "samsic-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "samsic-groupe"
+  ],
+  "text": "Samsic, the Stade Rennais front sponsor, is the brand of Groupe Samsic, a French services group (Samsic Facility, Samsic RH, Samsic Airport) created in 1986 by Christian Roulleau and still family-owned: the group's English vision page carries the founder's motto \"Samsic will remain a family business\" and states that Samsic is and will remain a family-owned business. The company registry shows SIREN 403227796, a SAS (nature juridique 5710) registered in Rennes, whose president is Thierry Geffroy. No state or sovereign-fund stake was found anywhere in the chain.",
+  "short": "Groupe Samsic is a family-owned French services group founded in 1986 by Christian Roulleau.",
+  "source": {
+    "name": "Samsic — Our vision (samsic.com/en/our-vision)",
+    "date": "2026",
+    "url": "https://www.samsic.com/en/our-vision",
+    "quote": "Samsic is and will remain a family-owned business",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same page, founder's quote: \"Samsic will remain a family business\". Founder and date on samsic-rh.com (Le Groupe Samsic): \"Samsic est un groupe familial et international créé en 1986 par Christian Roulleau.\""
+  },
+  "additionalSources": [
+    {
+      "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SAMSIC, SIREN 403227796",
+      "date": "2026-09-28",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=403227796",
+      "quote": "\"dirigeants\":[{\"nom\":\"GEFFROY\",\"prenoms\":\"THIERRY ROLAND PASCAL\",\"annee_de_naissance\":\"1968\",\"date_de_naissance\":\"1968-02\",\"qualite\":\"Président\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same response: \"nature_juridique\":\"5710\" (SAS), siege commune Rennes (35051). Samsic RH group page names founder Christian Roulleau (1986)."
+    }
+  ],
+  "reviewed": false
+}

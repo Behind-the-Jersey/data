@@ -1,11 +1,17 @@
 {
   "id": "hellowork",
   "name": "Hellowork",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "advenn",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French job platform owned by Groupe Télégramme, the independent Breton group renamed ADVENN in 2024 (Le Télégramme, Hellowork group, OC Sport), chaired by Edouard Coudurier. Nothing found.",
+  "claimIds": [
+    "hellowork-telegramme-ownership"
+  ],
+  "aliases": [
+    "HelloWork",
+    "Hellowork group"
+  ],
+  "note": "Rating note: registry shows Hellowork as a SASU whose sole corporate officer (Président de SAS) is GROUPE TELEGRAMME; Advenn's governance page ties Hellowork group into Coudurier's independent family group. No state or fund stake found → none."
 }
