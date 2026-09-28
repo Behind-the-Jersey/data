@@ -1,0 +1,33 @@
+{
+  "id": "lus-iadas-vivalto-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vivalto-sante"
+  ],
+  "text": "Lusíadas, the back-of-shirt sponsor at Braga, is the health brand of Grupo Lusíadas Saúde, which joined the French group Vivalto Santé at the end of 2022. Vivalto Santé's controlling shareholder is Vivalto Partners, the management company of founder and CEO Daniel Caille, alongside institutional investors and over 1,200 doctor shareholders; it is not state-controlled.",
+  "short": "Lusíadas belongs to Grupo Lusíadas Saúde, part of France's Vivalto Santé since 2022.",
+  "source": {
+    "name": "Grupo Lusíadas Saúde — lusiadas.pt",
+    "date": "2026",
+    "url": "https://www.lusiadas.pt/grupo-lusiadas-saude",
+    "quote": "A Lusíadas Saúde passa a integrar, no final de 2022, o grupo francês Vivalto Santé",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Vivalto Santé — Modèle fondateur (vivalto-sante.fr)",
+      "date": "2026",
+      "url": "https://www.vivalto-sante.fr/un-groupe-engage/le-groupe-en-france/modele-fondateur",
+      "quote": "Vivalto Partners, société de gestion créée en 2021 par Daniel Caille, le PDG fondateur de Vivalto Santé, est l’actionnaire contrôlant de Vivalto Santé",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page lists institutional investors (IK Partners, MACSF, Bpifrance, Mubadala, Arkéa Capital, Groupe Crédit Agricole, BNPP) and more than 1,200 doctor shareholders."
+    }
+  ],
+  "reviewed": false
+}

@@ -12,31 +12,116 @@
       "sponsorId": "solverde",
       "placement": "front",
       "source": {
-        "name": "SC Braga official sponsors page (Solverde listed first among Patrocinadores Principais)",
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (Solverde.pt main kit sponsor) and SC Braga sponsors page",
         "date": "2026-09",
-        "url": "https://www.scbraga.pt/pt/sponsors"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Puma Solverde.pt List Front: Soleo Piscinas Back: AMCO Intermediários de Crédito, Lusíadas Sleeves: Tek4life Shorts: SABSEG Seguros, 2045 Empresa de Segurança",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "soleo",
       "placement": "front",
       "source": {
-        "name": "SC Braga official sponsors page (Soleo among Patrocinadores Principais)",
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (Front: Soleo Piscinas) and SC Braga sponsors page",
         "date": "2026-09",
-        "url": "https://www.scbraga.pt/pt/sponsors"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Soleo Piscinas Back: AMCO Intermediários de Crédito, Lusíadas Sleeves: Tek4life Shorts: SABSEG Seguros, 2045 Empresa de Segurança",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "amco",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (Back: AMCO Intermediários de Crédito) and SC Braga sponsors page",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Soleo Piscinas Back: AMCO Intermediários de Crédito, Lusíadas Sleeves: Tek4life Shorts: SABSEG Seguros, 2045 Empresa de Segurança",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "lus-iadas",
+      "placement": "back",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (Back: Lusíadas) and SC Braga sponsors page",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Soleo Piscinas Back: AMCO Intermediários de Crédito, Lusíadas Sleeves: Tek4life Shorts: SABSEG Seguros, 2045 Empresa de Segurança",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "tek4life",
       "placement": "sleeve",
       "source": {
-        "name": "SC Braga official sponsors page (Tek4life among Patrocinadores Principais)",
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (Sleeves: Tek4life) and SC Braga sponsors page",
         "date": "2026-09",
-        "url": "https://www.scbraga.pt/pt/sponsors"
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Soleo Piscinas Back: AMCO Intermediários de Crédito, Lusíadas Sleeves: Tek4life Shorts: SABSEG Seguros, 2045 Empresa de Segurança",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "sabseg",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (Shorts: SABSEG Seguros) and SC Braga sponsors page",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Soleo Piscinas Back: AMCO Intermediários de Crédito, Lusíadas Sleeves: Tek4life Shorts: SABSEG Seguros, 2045 Empresa de Segurança",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "2045",
+      "placement": "shorts",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (Shorts: 2045 Empresa de Segurança) and SC Braga sponsors page",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Front: Soleo Piscinas Back: AMCO Intermediários de Crédito, Lusíadas Sleeves: Tek4life Shorts: SABSEG Seguros, 2045 Empresa de Segurança",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga — Personnel and kits (kit manufacturer: Puma) and SC Braga sponsors page (Puma among Técnicos)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga",
+        "quote": "Carlos Vicens Ricardo Horta Puma Solverde.pt",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Front of the shirt carries Solverde.pt (Grupo Solverde) and Soleo; sleeve Tek4life. Qatar Sports Investments (QSI, via the Qatar Investment Authority) holds about 29.6% of the football SAD.",
+  "sponsorsComplete": true,
+  "summary": "Front of the shirt carries Solverde.pt (Grupo Solverde) with Soleo above it; the back carries AMCO and Lusíadas, the sleeves Tek4life, and the shorts SABSEG and 2045. Puma makes the kit. Grupo Solverde is wholly held by the Violas family holding; Lusíadas sits in France's Vivalto Santé; the rest are Portuguese private companies with no state link found.",
   "change": null
 }

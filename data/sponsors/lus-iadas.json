@@ -1,12 +1,19 @@
 {
   "id": "lus-iadas",
-  "name": "Lus Iadas",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor per https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+  "name": "Lusíadas",
+  "ownerId": "lus-iadas-saude",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Lusíadas is the health brand of Grupo Lusíadas Saúde, part of the French hospital group Vivalto Santé since the end of 2022, controlled by founder Daniel Caille's Vivalto Partners with institutional and doctor shareholders. Nothing found.",
+  "claimIds": [
+    "lus-iadas-vivalto-ownership"
+  ],
+  "aliases": [
+    "Lusiadas",
+    "Grupo Lusíadas Saúde",
+    "Hospital da Luz"
+  ],
+  "note": "Kit sponsor (back of shirt) at SC Braga and Rio Ave in 2026-27. Grupo Lusíadas Saúde, a private Portuguese hospital group, is part of France's Vivalto Santé; no state link.",
+  "ownerVerb": "paid for by"
 }

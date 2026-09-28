@@ -1,12 +1,16 @@
 {
   "id": "soleo",
   "name": "Soleo",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor per https://www.scbraga.pt/pt/sponsors"
+  "ownerId": "r-p-industries",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Soleo is the swimming-pool brand of R.P. Industries, S.A., a privately held Portuguese pool maker based in Braga. Nothing found.",
+  "claimIds": [
+    "soleo-rp-industries-ownership"
+  ],
+  "aliases": [
+    "Soleo Piscinas"
+  ],
+  "note": "Kit sponsor per SC Braga's sponsors page and the Wikipedia 2026-27 Primeira Liga kit table (front). Soleo is a brand of R.P. Industries; the rppiscinas.com site is linked from SC Braga's sponsors page."
 }
