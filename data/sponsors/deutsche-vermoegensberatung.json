@@ -3,11 +3,14 @@
   "name": "Deutsche Vermögensberatung",
   "ownerId": "deutsche-vermoegensberatung-ag",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Deutsche Vermögensberatung AG (DVAG) is a German family company led by Andreas Pohl in its second generation. Nothing found.",
+  "claimIds": [
+    "deutsche-vermoegensberatung-ag-record"
+  ],
   "aliases": [
     "dvag"
-  ]
+  ],
+  "note": "Rating note: Private German family company (Pohl family), no state link → none."
 }
