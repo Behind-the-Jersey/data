@@ -5,10 +5,13 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by Trainline plc, listed on the London Stock Exchange; its notified major shareholders are institutional investors. Nothing found.",
+  "verdict": "Listed on the London Stock Exchange (ticker TRN) with asset-manager shareholders, none above 14.32%. Nothing found.",
   "claimIds": [
-    "trainline-plc-lse-ownership"
+    "trainline-plc-ownership"
   ],
-  "aliases": [],
-  "note": "Rating note: Owner chain checked: LSE-listed, largest notified holder FIL Limited at 14.32%; no state or state-fund holder. On the 2026-27 shirt Trainline sits on the shorts; its February 2025 deal ran only to the end of the 2024/25 season, and it remains a secondary partner on the club's partners list."
+  "aliases": [
+    "Trainline plc",
+    "thetrainline.com"
+  ],
+  "note": "Rating note: Free-float listed company; largest notified holder FIL Limited at 14.32% (25 September 2026). No state body or fund found anywhere in the chain, and no court, regulator, UN body or major-NGO human-rights finding against Trainline plc found."
 }

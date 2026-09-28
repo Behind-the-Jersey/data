@@ -3,12 +3,15 @@
   "name": "New Balance",
   "ownerId": "new-balance-inc",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by New Balance Athletics, Inc. (Jim Davis and family, estimated 95%). Nothing found.",
+  "claimIds": [
+    "new-balance-davis-record"
+  ],
   "aliases": [
     "NEW BALANCE"
   ],
-  "note": "Official Kit Sponsor (kit maker) of Atalanta since 2025-26; second season in 2026-27. Recorded for the placement the club's announcement gives it in the shirt lineup."
+  "note": "Official Kit Sponsor (kit maker) of Atalanta since 2025-26; second season in 2026-27. Recorded for the placement the club's announcement gives it in the shirt lineup. Also FC Porto's and LOSC's kit maker in 2026-27. Rating note (2026-09-28): privately held; Jim Davis and his family own an estimated 95% (Forbes). No state owner, so nothing passes the METHOD.md test.",
+  "ownerVerb": "owned by"
 }

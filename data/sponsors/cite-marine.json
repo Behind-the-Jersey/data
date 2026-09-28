@@ -1,11 +1,16 @@
 {
   "id": "cite-marine",
   "name": "Cité Marine",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "nissui-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French prepared-seafood producer in the Nissui group (Tokyo-listed). Nothing found.",
+  "claimIds": [
+    "cite-marine-nissui-ownership"
+  ],
+  "aliases": [
+    "Cite Marine"
+  ],
+  "note": "Rating note: Cité Marine appears in Nissui's overseas group network; Nissui is a Japanese listed company. No state or fund ownership found, no human-rights finding found."
 }

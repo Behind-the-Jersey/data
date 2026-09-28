@@ -5,10 +5,13 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by Winamax SA, a private French company (SA) run by its co-founder Alexandre Roos. Nothing found.",
+  "verdict": "Owned by its founders and shareholders Alexandre Roos and Christophe Schaming. Nothing found.",
   "claimIds": [
-    "winamax-rcs-ownership"
+    "winamax-ownership"
   ],
-  "aliases": [],
-  "note": "Rating note: Online poker and sports betting (gambling). Owner chain checked: a private French SA whose beneficial-ownership data is restricted in the trade register; its president/DG is co-founder Alexandre Roos. No state or state-fund link found in the register data."
+  "aliases": [
+    "WINAMAX",
+    "winamax sports"
+  ],
+  "note": "Rating note: Private French online betting and poker operator, licensed by France's national gambling authority (ANJ); no state ownership found in the chain. RC Strasbourg partner since 2020, extended to 2028 (22 July 2026 announcement)."
 }

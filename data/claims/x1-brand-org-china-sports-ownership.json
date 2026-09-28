@@ -1,0 +1,34 @@
+{
+  "id": "x1-brand-org-china-sports-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "org-technology",
+    "china-sports-industry-group"
+  ],
+  "text": "The X1 (犀旺) brand site says the sports nutrition drink was jointly launched by China Sports Industry Group and ORG (奥瑞金); ORG's 2025 annual report calls 犀旺 its own brand (自有品牌).",
+  "short": "X1 was launched jointly by ORG and China Sports Industry Group; ORG calls it its own brand",
+  "source": {
+    "name": "犀旺运动营养饮料 (xiwangworld.com): 关于犀旺 ABOUT XIWANG",
+    "date": "2026",
+    "url": "http://www.xiwangworld.com/",
+    "quote": "犀旺运动营养饮料，是由中体产业集团与奥瑞金联合推出的，专为中国规律运动人群研发的新一代运动营养饮料。",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "奥瑞金科技股份有限公司 (ORG Technology Co., Ltd.): 2025年年度报告 (2025 annual report, on cninfo)",
+      "date": "2026-04-29",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225238137.PDF",
+      "quote": "我们自有品牌“犀旺”",
+      "note": "财年寄语 (letter to shareholders), page 2.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

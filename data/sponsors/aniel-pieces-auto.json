@@ -1,11 +1,17 @@
 {
   "id": "aniel-pieces-auto",
   "name": "ANIEL Pièces Auto",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "aniel-pieces-autos",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of ANIEL PIECES AUTOS SAS (RCS Rennes), a Morbihan auto-parts distributor. Nothing found.",
+  "claimIds": [
+    "aniel-pieces-autos-ownership"
+  ],
+  "aliases": [
+    "ANIEL",
+    "ANIEL PIECES AUTOS"
+  ],
+  "note": "Rating note: small private SAS, publication director Guillaume Ramirez; no parent found, no human-rights finding found."
 }

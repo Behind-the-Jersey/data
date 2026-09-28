@@ -1,11 +1,17 @@
 {
   "id": "ecole-noir-et-blanc",
   "name": "École Noir&Blanc",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "sco-fonds-de-dotation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A school-support programme of the SCO Fonds de Dotation, Angers SCO's own endowment fund. Nothing found.",
+  "claimIds": [
+    "sco-fonds-de-dotation-ownership"
+  ],
+  "aliases": [
+    "École Noir et Blanc",
+    "Ecole Noir&Blanc"
+  ],
+  "note": "Rating note: Not a commercial sponsor — the club endowment fund's education programme, printed as the front-of-shirt mark with the 'SCO FONDS DE DOTATION' line."
 }

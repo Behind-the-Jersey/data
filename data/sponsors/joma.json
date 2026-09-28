@@ -3,10 +3,14 @@
   "name": "Joma",
   "ownerId": "joma-sport",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": ["Joma Sport"],
-  "note": "Kit supplier (technical sponsor) to Fiorentina from 2026-27."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Joma Sport, S.A., a Spanish family enterprise founded in 1965 and still family-run. Nothing found.",
+  "claimIds": [
+    "joma-sport-family-owned-record"
+  ],
+  "aliases": [
+    "Joma Sport"
+  ],
+  "note": "Kit supplier (technical sponsor) to Fiorentina from 2026-27 and to Real Sociedad from 2026-27 (replacing Macron), and to FC Lorient since 2025-26 (club announcement, 1 Jul 2025)."
 }

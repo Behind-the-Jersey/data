@@ -1,11 +1,17 @@
 {
   "id": "soprema",
   "name": "Soprema",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "soprema-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Groupe Soprema. Nothing found.",
+  "claimIds": [
+    "soprema-group-ownership"
+  ],
+  "aliases": [
+    "SOPREMA",
+    "Group Soprema"
+  ],
+  "note": "Rating note: Independent family group since 1908 (Crigel GmbH is président of the Strasbourg company). No state or state fund appears in the chain, so proposed none. Partner of the club since 2022, namer of the Racing Soprema Parc performance centre, on the club's Ligue 1 shirt."
 }

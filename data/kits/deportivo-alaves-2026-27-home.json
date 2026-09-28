@@ -14,7 +14,12 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Alavés has sports news platform MK TIYU News as main shirt sponsor, while featuring an Araba/Álava logo vertically lower down to promote the Basque region.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -24,6 +29,11 @@
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Alavés has sports news platform MK TIYU News as main shirt sponsor, while featuring an Araba/Álava logo vertically lower down to promote the Basque region.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
         "note": "second vertical logo on the shirt front (Araba/Alava), lower down"
       }
     },
@@ -33,7 +43,12 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "2026/27 La Liga sleeve sponsors Team Sleeve sponsor Industry Alavés EBpay Financial services – crypto platform",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -42,11 +57,31 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Kutxabank sponsors the back of Basque clubs Alavés and Real Sociedad, while already being a front-of-shirt sponsor for Basque rival Athletic.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "quote": "Macron continued with Levante and Osasuna, while adding a new Basque club Alavés (previously Puma).",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Macron-made home shirt with MK TIYU News on the front, an Araba/Álava logo lower down on the front, EBpay on the sleeve and Kutxabank on the back (Score and Change). Not marked complete: no cited source lists every placement on the shirt and shorts.",
   "change": null
 }

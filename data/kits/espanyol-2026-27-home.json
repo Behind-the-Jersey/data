@@ -12,13 +12,34 @@
       "sponsorId": "arctempus",
       "placement": "front",
       "source": {
-        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-        "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "name": "La Grada: 'ARCTEMPUS Capital será el nuevo patrocinador del Espanyol: qué es la firma y su conexión con el entorno de Alan Pace'",
+        "date": "2026-08-20",
+        "url": "https://lagrada.org/arctempus-capital-patrocinador-espanyol-alan-pace-iese/",
+        "quote": "El Espanyol ya tiene nuevo patrocinador principal. ARCTEMPUS Capital ocupará el frontal de la camiseta blanquiazul",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Score and Change's 2026/27 La Liga overview (updated 2026-09-06) lists the same front: 'Espanyol Arctempus Real estate'."
+      }
+    },
+    {
+      "sponsorId": "kelme",
+      "placement": "partner",
+      "source": {
+        "name": "La Grada: Kelme seguirá vistiendo al Espanyol en la temporada 2026-27: el club apuesta por la continuidad tras meses de negociaciones con la marca",
+        "date": "2026-03-26",
+        "url": "https://lagrada.org/kelme-espanyol-renovacion-equipacion-2026-2027/",
+        "quote": "Kelme continuará siendo el sponsor técnico del RCD Espanyol una temporada más",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense; the same article says Kelme 'seguirá encargándose del diseño y suministro de las equipaciones del primer equipo'. Score and Change's kit-maker table also lists 'Espanyol Kelme' for 2026/27."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Kelme-made home shirt with Arctempus on the front, announced 20 August 2026. The list is not marked complete: Score and Change lists no sleeve sponsor for Espanyol, but no cited source covers the back of the shirt, and the club's sponsors page shows its partners as logos only.",
   "change": null
 }
