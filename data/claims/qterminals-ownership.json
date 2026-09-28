@@ -5,11 +5,11 @@
     "qterminals",
     "mwani-qatar"
   ],
-  "text": "QTerminals is a terminal operating company jointly established by Qatar Ports Management Company (Mwani Qatar, 51 percent shareholding) and Qatar Navigation (Milaha, 49 percent shareholding). Mwani Qatar is the Qatari state's ports company, so a Qatari state body holds the majority of QTerminals. A state shareholding alone is not a rating.",
-  "short": "QTerminals: 51% Mwani Qatar (state ports company), 49% Milaha.",
+  "text": "QTerminals was set up by Qatar Ports Management Company (Mwani Qatar), which holds 51 percent, and Qatar Navigation (Milaha), which holds 49 percent. Ship Technology describes Mwani Qatar as state-owned, and when the agreement was signed in 2016 Qatar's Minister of Transport and Communications chaired Mwani Qatar.",
+  "short": "QTerminals is 51% owned by Mwani Qatar, Qatar's state-owned ports company, and 49% by Milaha.",
   "source": {
-    "name": "QTerminals, 'About Us'",
-    "date": "2026-09-28",
+    "name": "QTerminals: About Us",
+    "date": "2026",
     "url": "https://www.qterminals.com/about-us",
     "quote": "QTerminals is a terminal operating company jointly established by Qatar Ports Management Company (Mwani Qatar – 51% shareholding) and Qatar Navigation (Milaha – 49% shareholding)",
     "checked": {
@@ -17,5 +17,27 @@
       "by": "Schnitzel"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Ministry of Transport, Qatar: Mwani Qatar, Milaha Join Hands to Manage Hamad Port",
+      "date": "2016-11-29",
+      "url": "https://www.mot.gov.qa/en/news/mwani-qatar-milaha-join-hands-manage-hamad-port",
+      "quote": "HE Minister of Transport and Communications Jassim Saif Ahmed Al Sulaiti, Chairman of Qatar Ports Management Company (Mwani Qatar)",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Ship Technology: Mwani Qatar signs an agreement to construct Hobyo Port in Somalia (Wayback Machine capture)",
+      "date": "2019-08-20",
+      "url": "https://web.archive.org/web/20241113130450/https://www.ship-technology.com/news/mwani-qatar-hobyo-port-somalia/",
+      "quote": "State-owned Mwani Qatar manages seaports and shipping terminals.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
 }

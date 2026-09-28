@@ -2,16 +2,15 @@
   "id": "mediamarkt-ownership",
   "kind": "ownership",
   "ownerIds": [
-    "media-saturn-holding",
     "ceconomy"
   ],
-  "text": "MediaMarkt is a brand of Media-Saturn-Holding (MediaMarktSaturn Retail Group), headquartered in Ingolstadt, which bundles business under the MediaMarkt and Saturn brands and is part of Ceconomy AG. Ceconomy AG is a publicly traded company listed on the Frankfurt Stock Exchange (FWB: CEC, SDAX component); in July 2025 JD.com agreed to acquire Ceconomy for about 2.2 billion euros.",
-  "short": "MediaMarkt is a Media-Saturn brand; Media-Saturn is part of listed Ceconomy AG.",
+  "text": "CECONOMY AG runs brands such as MediaMarkt, MediaWorld and Saturn. JD.com secured about 59.8% of CECONOMY's shares in its takeover offer (announced 2 December 2025); on 30 June 2026 JD.com said it expected the offer to close in the second half of 2026, subject to further regulatory closing conditions.",
+  "short": "MediaMarkt is a brand of CECONOMY AG, which JD.com has agreed to take over.",
   "source": {
-    "name": "Wikipedia (en), 'Ceconomy'",
-    "date": "2026-04-25",
-    "url": "https://web.archive.org/web/20260425132112/https://en.wikipedia.org/wiki/Ceconomy",
-    "quote": "Media-Saturn-Holding (or MediaMarktSaturn Retail Group), headquartered in Ingolstadt, bundles business under the MediaMarkt and Saturn brands.",
+    "name": "EQS News: JD.com successfully secures 59.8% of CECONOMY as final result after end of additional acceptance period",
+    "date": "2025-12-02",
+    "url": "https://www.eqs-news.com/news/corporate/jd-com-successfully-secures-59-8-of-ceconomy-as-final-result-after-end-of-additional-acceptance-period/fb8514ab-acd5-4103-824f-25c92567e30a_en",
+    "quote": "The company is a leader for concepts and brands such as MediaMarkt, MediaWorld and Saturn in the consumer electronics sector in Europe.",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
@@ -19,10 +18,10 @@
   },
   "additionalSources": [
     {
-      "name": "Feyenoord, 'Feyenoord en MediaMarkt verlengen tot 2030' (Wayback capture of feyenoord.com)",
-      "date": "2026-04-02",
-      "url": "https://web.archive.org/web/20260601164558/https://www.feyenoord.com/nl/news/feyenoord-en-mediamarkt-verlengen-tot-2030-020426",
-      "quote": "Het in april 2024 afgesloten hoofdpartnerschap met de grootste elektronicaketen van Europa is tot medio 2030 verlengd.",
+      "name": "South China Morning Post: JD.com’s bid for Europe’s Ceconomy clears German hurdle but EU subsidy probe looms",
+      "date": "2026-06-30",
+      "url": "https://www.scmp.com/tech/policy/article/3358902/jdcoms-bid-europes-ceconomy-clears-german-hurdle-eu-subsidy-probe-looms",
+      "quote": "Subject to the fulfilment of further customary regulatory closing conditions, we expect the offer to be closed in the second half of 2026",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"

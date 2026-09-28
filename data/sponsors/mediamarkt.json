@@ -1,16 +1,16 @@
 {
   "id": "mediamarkt",
   "name": "MediaMarkt",
-  "ownerId": "media-saturn-holding",
+  "ownerId": "ceconomy",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "MediaMarkt is a brand of Media-Saturn-Holding, the retail group of listed Ceconomy AG (Frankfurt Stock Exchange, SDAX). Nothing found.",
+  "verdict": "A brand of CECONOMY AG, which JD.com has agreed to take over. Nothing found.",
   "claimIds": [
     "mediamarkt-ownership"
   ],
   "aliases": [
     "media markt"
   ],
-  "note": "Rating note: Listed German retail group, broad free float; JD.com agreed in July 2025 to acquire Ceconomy (about 2.2 billion euros), deal not closed at kit launch. No state or fund ownership in the chain. Feyenoord's front-of-shirt partner to mid-2030."
+  "note": "Rating note: Feyenoord's main partner (front of shirt) to mid-2030. CECONOMY's pending buyer JD.com is a private Chinese company; no state holds a stake that counts under METHOD.md in the sources, so 'none'. Revisit when the takeover closes."
 }
