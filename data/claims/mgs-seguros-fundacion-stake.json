@@ -1,0 +1,21 @@
+{
+  "id": "mgs-seguros-fundacion-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "mgs-seguros"
+  ],
+  "text": "MGS, Seguros y Reaseguros S.A. is an unlisted Spanish insurer: its shares trade on no organised market, and the Fundación Mutua General de Seguros holds a significant 19.01% of its capital at the close of 2025 (the foundation also acts as depositary of shares for shareholders who chose that); the company itself holds 5.99% of its own shares. No state body or state fund appears among its shareholders.",
+  "short": "Fundación Mutua General de Seguros holds 19.01% of unlisted MGS",
+  "source": {
+    "name": "MGS, Seguros y Reaseguros S.A., Informe Anual Individual 2025 (annual accounts, page 81 'Resumen Económico 2025', section a. Capital social)",
+    "date": "2026",
+    "url": "https://www.mgs.es/wps/documents/10158/103557/Informe+Anual+Individual+2025.pdf/76156c37-3048-cbcf-f7c3-ed9628c39e16",
+    "quote": "Todas las acciones confieren los mismos derechos políticos y económicos y no tienen cotización en mercado bursátil organizado. La Fundación Mutua General de Seguros tiene una participación significativa del 19,01% del capital al cierre del ejercicio 2025.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same section: 'la Fundación MGS es depositaria de las acciones pertenecientes a los socios que así lo decidieron' and 'MGS, Seguros y Reaseguros S.A. era tenedora, al cierre del ejercicio 2025 de un total de 2.397.611 acciones que representan el 5,99% del capital social de la Entidad'. The report names no state body or fund among the shareholders."
+  },
+  "reviewed": false
+}
