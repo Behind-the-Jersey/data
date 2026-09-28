@@ -5,7 +5,7 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "A private Turkish agritech platform founded in 2017. Nothing found.",
+  "verdict": "A Turkish agritech platform founded in 2017, backed by venture investors. Nothing found.",
   "claimIds": [
     "tarfin-ownership"
   ],
@@ -13,5 +13,5 @@
     "Tarfin Tarım Yatırım A.Ş.",
     "Fenerbahçe Tarfin"
   ],
-  "note": "Rating note: Tarfin is the name and chest sponsor of Fenerbahce's basketball teams from 2026/27. Its own press release describes it as a technology platform started in 2017 offering forward-purchase (vadeli) trading in agriculture; the club announcement names its board (chairman Ali Emre Balli, vice chairman Yigit Gozubuyuk) - private founders and investors, no state or fund ownership found. The reported 7.5m euro/year fee plus up to 2.5m in bonuses is in data/deals/fenerbahce-basketball-tarfin-front.json."
+  "note": "Rating note: name and chest sponsor of Fenerbahçe's basketball teams from 2026/27 (the men's team plays as Fenerbahçe Tarfin). Owned by its founders and venture investors (tarfin-ownership); the 2021 investors include Syngenta Group Ventures (Syngenta Group sits under China's Sinochem): its stake and any board seat are not in the sources, so this 'none' needs a maintainer's check. The reported fee is in data/deals/fenerbahce-basketball-tarfin-front.json."
 }

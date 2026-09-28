@@ -6,23 +6,16 @@
   "placement": "front",
   "from": "2026-27",
   "to": "2027-28",
-  "value": {
-    "amount": 7.5,
-    "currency": "EUR",
-    "unit": "m",
-    "per": "year",
-    "upTo": false,
-    "usdApprox": 8.8
-  },
+  "value": null,
   "source": {
-    "name": "BasketFaul - Fenerbahce'de Beko'nun yerine Tarfin (deal value: 7.5m euros per year plus up to 2.5m in success bonuses)",
+    "name": "BasketFaul: Fenerbahçe'de BEKO'nun Yerine Tarfin (Anlaşma 2 Yıl)",
     "date": "2026-08-16",
     "url": "https://basketfaul.com.tr/turkiye/bsl/fenerbahcede-bekonun-yerine-tarfin/",
-    "quote": "Anlaşmaya göre tarfin, Fenerbahçe'ye bonuslar dışında 7.5 milyon euro verecek.",
+    "quote": "Anlaşmaya göre tarfin, Fenerbahçe’ye bonuslar dışında 7.5 milyon euro verecek.",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"
     }
   },
-  "note": "Two-season name and chest sponsorship (2026/27 and 2027/28) replacing Beko. BasketFaul reports 7.5m euros per year excluding bonuses, with up to 2.5m euros more tied to success in the BSL, the Turkish Cup and the EuroLeague."
+  "note": "Two-season name and chest sponsorship (2026/27 and 2027/28) replacing Beko. BasketFaul reports Tarfin will pay 7.5m euros excluding bonuses, plus 2.5m euros in bonuses tied to success in the BSL, the Turkish Cup and the EuroLeague; it doesn't say whether the 7.5m is per season or for the whole two-year deal, so value is left null."
 }
