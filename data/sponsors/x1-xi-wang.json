@@ -1,11 +1,21 @@
 {
   "id": "x1-xi-wang",
   "name": "X1 Xi Wang Sports Nutrition Drink",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "org-technology",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "x1-brand-org-china-sports-ownership",
+    "x1-shanghai-xiwang-yuanlong-control",
+    "china-sports-industry-state-ownership",
+    "x1-aja-james-zhou-ownership"
+  ],
+  "aliases": [
+    "X1",
+    "犀旺",
+    "Xi Wang"
+  ],
+  "note": "Not rated: the Chinese state's share in X1 is unknown. The X1 (犀旺) brand site says the drink was jointly launched by China Sports Industry Group and ORG (claim x1-brand-org-china-sports-ownership). China Sports Industry Group's ultimate controller is the General Administration of Sport of China, whose units are its first, second and fourth largest shareholders (claim china-sports-industry-state-ownership), and China has a record on file (claim china-xinjiang-un-assessment). ORG calls 犀旺 its own brand; its 2025 annual report lists Shanghai Xiwang Beverage Co., Ltd. among the companies controlled by ORG's non-state controlling shareholder, Shanghai Yuanlong (Zhou Yunjie) (claim x1-shanghai-xiwang-yuanlong-control). AJA names James Zhou as ORG Packaging's owner and its board chairman (claim x1-aja-james-zhou-ownership). Missing: the shareholding of the business behind X1 (the joint venture, or Shanghai Xiwang Beverage): whether China Sports Industry Group holds a stake, how much, and whether it has a board seat. Under METHOD.md a state with a record counts if it controls the sponsor, holds 5% or more along the chain, or has a board seat; the tier is for a maintainer once that is sourced."
 }

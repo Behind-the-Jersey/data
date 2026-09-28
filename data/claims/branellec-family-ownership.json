@@ -1,0 +1,66 @@
+{
+  "id": "branellec-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sofibra",
+    "fbi"
+  ],
+  "text": "The Oceania Hotels website is published by SAS SOFIBRA (RCS Brest 997635123, 5 rue Colbert, Brest) and describes Oceania Hotels as a Breton family company founded in 1975. The company register lists F.B.I. (SIREN 343493318, SA, 5 rue Colbert, Brest) as Président de SAS of SOFIBRA, and lists on F.B.I.'s board Gwenola Deguerre (Branellec) as Présidente du conseil d'administration et directeur général, Gurvan Branellec and Rozenn Dumon (Branellec) as directeurs généraux délégués, and François Branellec as administrateur.",
+  "short": "Oceania Hotels is published by SOFIBRA, whose Président is F.B.I., a holding whose board is made up of Branellec family members.",
+  "source": {
+    "name": "Mentions Légales | Oceania Hotels",
+    "date": "2026",
+    "url": "https://www.oceaniahotels.com/mentions-legales",
+    "quote": "Editeur Oceania Hotels - SAS SOFIBRA 5 rue Colbert - CS 71803 29218 BREST Cedex 2",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same page: \"SAS au capital de 60 753 300 € - RCS Brest 997635123\"."
+  },
+  "additionalSources": [
+    {
+      "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SOFIBRA, SIREN 997635123",
+      "date": "2026-09-28",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=997635123&per_page=1",
+      "quote": "\"siren\":\"343493318\",\"denomination\":\"F.B.I.\",\"qualite\":\"Président de SAS\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), F.B.I., SIREN 343493318",
+      "date": "2026-09-28",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=343493318&per_page=1",
+      "quote": "\"dirigeants\":[{\"nom\":\"BRANELLEC\",\"prenoms\":\"FRANCOIS\",\"annee_de_naissance\":\"1937\",\"date_de_naissance\":\"1937-05\",\"qualite\":\"Administrateur\"",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same response: BRANELLEC Gurvan and DUMON (BRANELLEC) Rozenn (Directeur général délégué), DEGUERRE (BRANELLEC) Gwenola (Président du conseil d'administration et directeur général); nature juridique 5599 (SA), created 1987-12-26, siège 5 rue Colbert, Brest."
+    },
+    {
+      "name": "Oceania Hotels - Des hôtels 3 et 4 étoiles avec ce petit supplément d’âme",
+      "date": "2026",
+      "url": "https://www.oceaniahotels.com/",
+      "quote": "Oceania Hotels est une société familiale bretonne fondée en 1975",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Stade Brestois 29: Partenaire : Oceania Hotels",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/oceania-hotels/",
+      "quote": "Oceania Hotels, marque hôtelière d'origine bretonne",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page: \"5 rue Colbert - BP 41301 29213 Brest Cedex 1\"; it lists Branellec Gurvan as contact."
+    }
+  ],
+  "reviewed": false
+}

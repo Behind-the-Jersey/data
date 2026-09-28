@@ -1,0 +1,32 @@
+{
+  "id": "coop-nordland-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "coop-nordland"
+  ],
+  "text": "Coop Nordland SA is a Norwegian cooperative (samvirkeforetak, Brønnøysund 946231819) owned by its members; per its CEO the surplus of its operations is returned to the members and local communities through the cooperative model.",
+  "short": "Coop Nordland is a member-owned cooperative.",
+  "source": {
+    "name": "Brønnøysund Register Centre - entity record 946231819 COOP NORDLAND SA (open data API)",
+    "date": "2026",
+    "url": "https://data.brreg.no/enhetsregisteret/api/enheter/946231819",
+    "quote": "\"beskrivelse\":\"Samvirkeforetak\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bodø/Glimt - Coop på strømpene i 3 nye år (glimt.no, 22 Sep 2026)",
+      "date": "2026-09-22",
+      "url": "https://www.glimt.no/nyheter/coop-pa-strompene-i-3-nye-ar",
+      "quote": "overskuddet fra vår drift skal gjennom samvirkemodellen som kjent tilbakeføres medlemmene og lokalsamfunnene vi er del av",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

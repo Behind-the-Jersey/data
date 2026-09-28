@@ -1,0 +1,32 @@
+{
+  "id": "eurojackpot-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nederlandse-loterij"
+  ],
+  "text": "Feyenoord's announcement says Eurojackpot is part of Nederlandse Loterij. Nederlandse Loterij's shareholders are the Dutch state, represented by the Ministry of Finance, NOC*NSF and Stichting Aanwending Loterijgelden Nederland.",
+  "short": "Eurojackpot is part of Nederlandse Loterij, owned by the Dutch state, NOC*NSF and Stichting Aanwending Loterijgelden Nederland.",
+  "source": {
+    "name": "Nederlandse Loterij: Corporate Governance",
+    "date": "2026",
+    "url": "https://www.nederlandseloterij.nl/corporate-governance",
+    "quote": "Onze aandeelhouders zijn de Staat der Nederlanden, vertegenwoordigd door het ministerie van Financiën, alsmede NOC*NSF en Stichting Aanwending Loterijgelden Nederland",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Feyenoord: Eurojackpot nieuwe Premium Partner van Feyenoord (Wayback Machine capture)",
+      "date": "2026-06-30",
+      "url": "https://web.archive.org/web/20260630144159/https://www.feyenoord.com/nl/news/eurojackpot-nieuwe-premium-partner-van-feyenoord-300626",
+      "quote": "Nederlandse Loterij, waar Eurojackpot onderdeel van is,",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
