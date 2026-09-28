@@ -4,12 +4,13 @@
   "ownerIds": [
     "nike-inc"
   ],
-  "text": "NIKE, Inc. is a listed company: its Class B Common Stock is registered on the New York Stock Exchange under the ticker NKE, per the cover page of its annual report on Form 10-K for the fiscal year ended 31 May 2026.",
+  "text": "NIKE, Inc. registers its Class B Common Stock (symbol NKE) on the New York Stock Exchange under Section 12(b) of the Securities Exchange Act.",
+  "short": "NIKE, Inc. is a listed company (NYSE: NKE).",
   "source": {
-    "name": "NIKE, Inc. Form 10-K for the fiscal year ended May 31, 2026 (SEC EDGAR)",
-    "date": "2026-07-15",
+    "name": "NIKE, Inc. Form 10-K for fiscal year ended May 31, 2026 (SEC cover page)",
+    "date": "2026",
     "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm",
-    "quote": "Class B Common Stock NKE New York Stock Exchange (Title of each class)",
+    "quote": "SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: Class B Common Stock NKE New York Stock Exchange",
     "checked": {
       "on": "2026-09-28",
       "by": "Schnitzel"

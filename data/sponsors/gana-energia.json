@@ -1,11 +1,16 @@
 {
   "id": "gana-energia",
-  "name": "Gana Energia",
-  "ownerId": "gana-energia",
+  "name": "Gana Energía",
+  "ownerId": "gaolania-servicios-sl",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The Gana Energía brand belongs to Gaolania Servicios S.L., a private Valencia-based electricity trading company. Nothing found.",
+  "claimIds": [
+    "gana-energia-gaolania-ownership"
+  ],
+  "aliases": [
+    "gana energia"
+  ],
+  "note": "Sleeve sponsor of Levante UD (2026/27 home kit) per Score and Change; Gana Energía's own site lists Levante UD among its 'Patrocinador oficial' partners."
 }
