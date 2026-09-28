@@ -1,11 +1,16 @@
 {
   "id": "x1-xi-wang",
   "name": "X1 Xi Wang Sports Nutrition Drink",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "org-technology",
+  "ownership": "part-owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Energy-drink brand jointly launched by ORG (奥瑞金, a listed Chinese can maker) and China Sports Industry Group, a state-controlled listed company. Nothing found.",
+  "claimIds": [
+    "x1-brand-org-china-sports-ownership",
+    "china-sports-industry-state-ownership",
+    "x1-aja-james-zhou-ownership"
+  ],
+  "aliases": ["X1", "犀旺", "Xi Wang"],
+  "note": "Rating note: the state link runs China Sports Industry Group (actual controller: General Administration of Sport of China) -> X1 joint brand. State ownership alone is not a tier (METHOD.md), and no UN/HRW/Amnesty/court record claim was found against ORG or China Sports Industry itself. AJA's own article names James Zhou (ORG Packaging owner, AJA board chairman) as the driving force of the deal."
 }

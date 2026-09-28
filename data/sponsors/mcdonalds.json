@@ -1,12 +1,17 @@
 {
   "id": "mcdonalds",
   "name": "McDonald's",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Long-standing FIFA sponsor."
+  "ownerId": "mcdonalds-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "New York Stock Exchange-listed US company (MCD). Nothing found.",
+  "claimIds": [
+    "mcdonalds-nyse-listed-ownership"
+  ],
+  "aliases": [
+    "McDonald's",
+    "Ligue 1 McDonald's"
+  ],
+  "note": "Rating note: Long-standing FIFA sponsor and title sponsor of Ligue 1 (deal: ligue-1-mcdonalds-title). Its branding reaches AJA's sleeve via the official Ligue 1 McDonald's sleeve patch; not a direct AJA club deal."
 }

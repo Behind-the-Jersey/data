@@ -1,11 +1,12 @@
 {
   "id": "acadomia",
   "name": "Acadomia",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "domia-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French private-tutoring brand; its operating companies are subsidiaries of Domia Group SA (RCS Paris 349 367 557). Nothing found.",
+  "claimIds": ["acadomia-domia-ownership"],
+  "aliases": ["ACADOMIA"],
+  "note": "Rating note: Domia Group is a private Paris company (president Maxime Aiach per the company registry); no state or fund owner identified."
 }

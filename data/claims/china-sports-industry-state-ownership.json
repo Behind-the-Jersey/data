@@ -1,0 +1,24 @@
+{
+  "id": "china-sports-industry-state-ownership",
+  "kind": "ownership",
+  "ownerIds": ["china-sports-industry-group"],
+  "text": "China Sports Industry Group (SSE 600158) is controlled by the General Administration of Sport of China (国家体育总局), which is listed as its actual controller; the Administration's Sports Fund Management Centre holds 19.49% (2026-06-30).",
+  "short": "China Sports Industry Group is controlled by China's sport ministry",
+  "source": {
+    "name": "East Money F10 — ShareholderResearch SH600158 (actual controller: 国家体育总局)",
+    "date": "2026-06-30",
+    "url": "https://emweb.securities.eastmoney.com/PC_HSF10/ShareholderResearch/PageAjax?code=SH600158",
+    "quote": "{\"SECUCODE\": \"600158.SH\", \"SECURITY_CODE\": \"600158\", \"HOLDER_NAME\": \"国家体育总局\", \"HOLD_RATIO\": null}",
+    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+  },
+  "additionalSources": [
+    {
+      "name": "Chinese Wikipedia — 中体产业集团 (SSE 600158), company under 国家体育总局",
+      "date": "2023-09-18",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BD%93%E4%BA%A7%E4%B8%9A%E9%9B%86%E5%9B%A2",
+      "quote": "中體產業集團股份有限公司（上交所：600158）是國家體育總局旗下的公司，公司的主要業務為發展中國體育產業和體育主題地產開發。",
+      "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+    }
+  ],
+  "reviewed": false
+}

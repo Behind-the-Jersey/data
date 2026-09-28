@@ -1,0 +1,20 @@
+{
+  "id": "cichy-manutention-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "holding-cichy"
+  ],
+  "text": "SAS Cichy Manutention (SIREN 342442621, Monéteau) has as its president Holding Cichy (H.C., SIREN 426920187), whose directors are members of the Cichy family (Bernard, Brice and Sophie Cichy).",
+  "short": "Cichy Manutention is a SAS whose president is Holding Cichy",
+  "source": {
+    "name": "Annuaire des Entreprises API (Direction de l'Information Légale) — CICHY MANUTENTION 342442621 dirigeants",
+    "date": "2026",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=%22CICHY%20MANUTENTION%22&per_page=1",
+    "quote": "\"siren\":\"426920187\",\"denomination\":\"HOLDING CICHY\",\"qualite\":\"Président de SAS\",\"type_dirigeant\":\"personne morale\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

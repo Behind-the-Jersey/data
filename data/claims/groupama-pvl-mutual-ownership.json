@@ -1,0 +1,15 @@
+{
+  "id": "groupama-pvl-mutual-ownership",
+  "kind": "ownership",
+  "ownerIds": ["groupama-pvl-owner"],
+  "text": "Groupama Paris Val de Loire is a mutual: our mutuelle operates on the mutualist principles of democracy and participation, and each year the sociétaires (members) are convenied to the general meeting of their Caisse locale.",
+  "short": "Groupama Paris Val de Loire is a member-owned mutual",
+  "source": {
+    "name": "groupama.fr — Groupama Paris Val de Loire (Être sociétaire)",
+    "date": "2026",
+    "url": "https://www.groupama.fr/regions/paris-val-de-loire/",
+    "quote": "Notre mutuelle fonctionne sur les principes mutualistes de démocratie et de participation. Chaque année, les sociétaires sont conviés à l'Assemblée Générale de leur Caisse locale.",
+    "checked": { "on": "2026-09-28", "by": "Schnitzel" }
+  },
+  "reviewed": false
+}
