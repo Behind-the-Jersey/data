@@ -1,11 +1,16 @@
 {
   "id": "of-course-le-mans",
   "name": "Of course Le Mans",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "le-mans-metropole",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": ":Of course Le Mans is the place-brand of the Ville du Mans / Le Mans Métropole, a French commune and urban community. Nothing found.",
+  "claimIds": [
+    "le-mans-metropole-of-course-ownership"
+  ],
+  "aliases": [
+    ":Of course LE MANS"
+  ],
+  "note": "Rating note: Territory brand of the city and its urban community (public bodies); state ownership alone is not a tier (METHOD.md), and no sourced record against the Ville du Mans / Le Mans Métropole found → none."
 }
