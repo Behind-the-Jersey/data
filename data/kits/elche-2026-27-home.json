@@ -14,7 +14,13 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "Shirt-sponsor table lists Elche - Flexicar (Automotive); the article adds that Elche announced the deal after its first match.",
+        "quote": "Elche and Espanyol started the season without a principal partner, but both announced deals after their first match.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
@@ -23,11 +29,32 @@
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
-        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "Sleeve-sponsor table lists Elche - MGS Seguros (Financial services - insurance).",
+        "quote": "Three clubs – Elche and promoted sides Málaga and Racing Santander – have even agreed with the same company MGS Seguros.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "Kit-maker table lists Elche - Nike.",
+        "quote": "While they continued with Barcelona, Atlético de Madrid, and Elche.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Flexicar on the front, MGS Seguros on the sleeve, Nike as kit maker. No back-of-shirt or shorts sponsor for Elche is named in the overview or anywhere else we looked: the article names Elche only among the clubs without a named back sponsor.",
   "change": null
 }

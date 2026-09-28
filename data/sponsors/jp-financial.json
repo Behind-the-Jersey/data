@@ -3,9 +3,14 @@
   "name": "JP Financial",
   "ownerId": "jp-financial",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A Spanish financial-planning consultancy owned by its founders through JP FINANCIAL 2024, S.L. Nothing found.",
+  "claimIds": [
+    "jp-financial-2024-sl-ownership"
+  ],
+  "aliases": [
+    "JP FINANCIAL 2024, S.L."
+  ],
+  "note": "Rating note: Private Spanish consultancy (CIF B56792377, Madrid), founded by Javier Rumbo and Pedro Muñoz; no state or fund capital, no serious-abuse record found."
 }

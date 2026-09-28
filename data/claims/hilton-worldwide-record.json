@@ -1,0 +1,32 @@
+{
+  "id": "hilton-worldwide-record",
+  "ownerIds": [
+    "hilton-worldwide"
+  ],
+  "kind": "ownership",
+  "text": "Hilton's common stock began trading publicly on the NYSE under the symbol HLT on December 12, 2013, and Hilton Worldwide is listed on the New York Stock Exchange.",
+  "short": "Hilton has been listed on the NYSE (HLT) since December 2013.",
+  "source": {
+    "name": "Hilton Worldwide Holdings Inc. – Form 10-K for fiscal 2013 (SEC)",
+    "date": "2014-02-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568914000006/a2013hwh10-k.htm",
+    "quote": "Our common stock began trading publicly on the NYSE under the symbol \"HLT\" on December 12, 2013",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Hilton investor relations: FAQ",
+      "date": "2026",
+      "url": "https://ir.hilton.com/investor-resources/faq",
+      "quote": "Hilton Worldwide is listed on the New York Stock Exchange (NYSE).",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}
