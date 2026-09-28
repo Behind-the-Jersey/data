@@ -1,0 +1,33 @@
+{
+  "id": "xtb-sa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "xtb-sa"
+  ],
+  "text": "XTB S.A. has been listed on the Warsaw Stock Exchange since 2016. Its shareholder page (per current report 22/2026 of 7 September 2026) lists XX ZW Investment Group S.A. with 27.78% of shares and votes and other shareholders with 72.22%; XX ZW, seated in Luxembourg, is directly controlled by Jakub Zabłocki, who holds 81.97% of its capital and votes.",
+  "short": "XTB S.A. trades on the Warsaw Stock Exchange; its largest shareholder, XX ZW Investment Group S.A., holds 27.78%.",
+  "source": {
+    "name": "XTB serwis IR: Akcjonariat",
+    "date": "2026-09-07",
+    "url": "https://ir.xtb.com/xtb-na-gieldzie/akcjonariat/",
+    "quote": "XX ZW Investment Group S.A.1 32 661 789 1 633 089,45 27,78 Pozostali akcjonariusze 84 907 462 4 245 373,10 72,22",
+    "note": "Shareholder table ('Pozostali akcjonariusze' = other shareholders), 'Stan posiadania akcji zgodnie z raportem bieżącym nr 22/2026 z dnia 7 września 2026 roku'. Footnote 1: 'XX ZW Investment Group S.A. z siedzibą w Luksemburgu jest bezpośrednio kontrolowany przez Jakuba Zabłockiego, który posiada akcje reprezentujące 81,97% kapitału zakładowego oraz uprawniające do wykonywania 81,97% głosów na zgromadzeniu akcjonariuszy XX ZW.'",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "XTB: About XTB – Our Mission, Products & Story",
+      "date": "2026",
+      "url": "https://www.xtb.com/en/about-us",
+      "quote": "Since 2016, we have been proudly listed on the Warsaw Stock Exchange.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
