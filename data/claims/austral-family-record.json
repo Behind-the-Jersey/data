@@ -1,0 +1,43 @@
+{
+  "id": "austral-family-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "austral-sport"
+  ],
+  "text": "Austral is a family-owned Spanish sportswear maker: founded in 1976, it describes itself as an 'empresa familiar' that manufactures its garments entirely at its own Spanish facilities, and it supplies Racing Santander under a contract renewed in 2024 (club announcement: the deal runs to 30 June 2028).",
+  "short": "Austral is a family sportswear company founded in 1976",
+  "source": {
+    "name": "Austral Sport, 'Quiénes somos' (company website)",
+    "date": "2026",
+    "url": "https://australsport.es/quienes-somos/",
+    "quote": "Austral nació como un proyecto familiar con una idea clara: ofrecer equipaciones deportivas de calidad fabricadas en España.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same page: '+45 Años fabricando en España', '100% Producción nacional', 'manteniendo nuestra esencia como empresa familiar'. No state body or fund appears in the company's own description; no shareholder information is published."
+  },
+  "additionalSources": [
+    {
+      "name": "Modaes: 'El Real Racing Club de Santander se alía con Pompeii y Austral por su 113 aniversario'",
+      "date": "2026-02-24",
+      "url": "https://www.modaes.com/look/el-real-racing-club-de-santander-se-alia-con-pompeii-y-austral-por-su-113-aniversario",
+      "quote": "Des de su fundación en 1976, Austral ha consolidado una trayectoria industrial sólida y un fuerte vínculo con el Real Racing Club de Santander, al que después de renovar su contrato en 2024, seguirá vistiendo durante cuatro temporadas más.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Real Racing Club (official site): 'El Racing y Austral amplían su relación cuatro temporadas más'",
+      "date": "2024-03-07",
+      "url": "https://www.realracingclub.es/noticias/el-racing-y-austral-amplian-su-relacion-cuatro-temporadas-mas",
+      "quote": "El Racing y Austral han llegado a un acuerdo para prolongar su colaboración hasta el 30 de junio de 2028.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
