@@ -1,0 +1,31 @@
+{
+  "id": "ville-d-angers-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ville-d-angers"
+  ],
+  "text": "Angers.fr is the official site of the Ville d'Angers, the French commune (municipality) of Angers.",
+  "source": {
+    "name": "Angers.fr — Site officiel de la Ville d'Angers",
+    "date": "2026-09-28",
+    "url": "https://www.angers.fr/",
+    "quote": "Angers.fr, Site officiel de la Ville d'Angers",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Wikipédia — Angers",
+      "date": "2026-09-28",
+      "url": "https://fr.wikipedia.org/wiki/Angers",
+      "quote": "La mairie d'Angers édite depuis avril 1977 le journal municipal Vivre à Angers",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

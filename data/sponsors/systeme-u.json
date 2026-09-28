@@ -1,11 +1,18 @@
 {
   "id": "systeme-u",
   "name": "Système U",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "cooperative-u",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Governed by Coopérative U, a retail cooperative owned by its independent member traders. Nothing found.",
+  "claimIds": [
+    "cooperative-u-ownership"
+  ],
+  "aliases": [
+    "Coopérative U",
+    "Magasins U",
+    "U"
+  ],
+  "note": "Rating note: Cooperative of independent retailers (4th French food retailer); no state ownership."
 }

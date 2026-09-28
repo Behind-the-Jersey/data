@@ -1,12 +1,16 @@
 {
   "id": "nike",
   "name": "Nike",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+  "ownerId": "nike-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Nike, Inc., a listed US company (NYSE: NKE). Nothing found.",
+  "claimIds": [
+    "nike-inc-ownership"
+  ],
+  "aliases": [
+    "Nike, Inc."
+  ],
+  "note": "Rating note: Kit supplier (Angers SCO boutique: 'Vendeur : Nike')."
 }

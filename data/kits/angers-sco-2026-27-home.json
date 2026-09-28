@@ -11,28 +11,49 @@
     {
       "sponsorId": "ecole-noir-et-blanc",
       "placement": "front",
+      "side": "front",
       "source": {
         "name": "Angers SCO — Partenaires",
-        "date": "2026",
-        "url": "https://angers-sco.fr/club/partenaires/"
+        "date": "2026-09-28",
+        "url": "https://angers-sco.fr/club/partenaires/",
+        "quote": "Partenaires majeurs Partenaires officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Front mark on the 2026/27 home shirt: ÉCOLE NOIR ET BLANC block with 'SCO FONDS DE DOTATION' line (official kit-launch gallery, https://angers-sco.fr/le-nouveau-maillot-domicile-est-disponible/)."
       }
     },
     {
       "sponsorId": "maison-de-l-atoll",
       "placement": "front",
+      "side": "front",
       "source": {
         "name": "Angers SCO — Partenaires",
-        "date": "2026",
-        "url": "https://angers-sco.fr/club/partenaires/"
+        "date": "2026-09-28",
+        "url": "https://angers-sco.fr/club/partenaires/",
+        "quote": "Partenaires officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "l'atoll round gold chest mark on the right chest, visible in the club's kit-launch gallery."
       }
     },
     {
       "sponsorId": "ville-d-angers",
       "placement": "front",
+      "side": "front",
       "source": {
         "name": "Angers SCO — Partenaires",
-        "date": "2026",
-        "url": "https://angers-sco.fr/club/partenaires/"
+        "date": "2026-09-28",
+        "url": "https://angers-sco.fr/club/partenaires/",
+        "quote": "Partenaires officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Gold boxed 'A Angers' monogram with ANGERS wordmark near the collar (city logo), on the official boutique flat-lay of the home shirt (boutique.angers-sco.fr, product images)."
       }
     },
     {
@@ -40,12 +61,63 @@
       "placement": "shorts",
       "source": {
         "name": "Angers SCO — Partenaires",
-        "date": "2026",
-        "url": "https://angers-sco.fr/club/partenaires/"
+        "date": "2026-09-28",
+        "url": "https://angers-sco.fr/club/partenaires/",
+        "quote": "Partenaires officiels",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Gold U roundel on the shorts, visible in the club's on-pitch photos (boutique CDN GLV5724.jpg)."
+      }
+    },
+    {
+      "sponsorId": "mcdonalds",
+      "placement": "league-partner",
+      "source": {
+        "name": "LFP — 1TEAM hub",
+        "date": "2026-09-28",
+        "url": "https://www.lfp.fr/1-team-hub",
+        "quote": "À travers 1TEAM, la marque d’engagement du football professionnel français, la Ligue de Football Professionnel et les clubs de Ligue 1 McDonald’s et Ligue 2 BKT agissent ensemble",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "'LIGUE 1 McDonald's' sleeve patch on the 2026/27 home shirt (official kit-launch gallery)."
+      }
+    },
+    {
+      "sponsorId": "1team",
+      "placement": "patch",
+      "source": {
+        "name": "LFP — 1TEAM hub",
+        "date": "2026-09-28",
+        "url": "https://www.lfp.fr/1-team-hub",
+        "quote": "À travers 1TEAM, la marque d’engagement du football professionnel français, la Ligue de Football Professionnel et les clubs de Ligue 1 McDonald’s et Ligue 2 BKT agissent ensemble",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "1TEAM mark worn on the sleeve below the Ligue 1 McDonald's patch (official kit-launch gallery)."
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Angers SCO Boutique — Maillot domicile AD 26/27",
+        "date": "2026-09-28",
+        "url": "https://boutique.angers-sco.fr/products/maillot-domicile-ad-26-27",
+        "quote": "Vendeur : Nike",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Kit supplier; swoosh on the shirt."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Nike kit. École Noir&Blanc front, with Maison de l'Atoll and the city of Angers; Système U on the shorts.",
+  "sponsorsComplete": true,
+  "summary": "Nike kit (white/black/gold). École Noir&Blanc (SCO Fonds de Dotation) front centre with the l'atoll chest roundel and the Ville d'Angers collar mark; Système U on the shorts; Ligue 1 McDonald's patch and 1TEAM mark on the sleeve; no back sponsor. Viwone, Sorare and Groupe Actual are official partners without a shirt placement.",
   "change": null
 }

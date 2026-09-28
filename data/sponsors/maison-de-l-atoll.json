@@ -1,11 +1,17 @@
 {
   "id": "maison-de-l-atoll",
   "name": "Maison de l'Atoll",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "compagnie-de-phalsbourg",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Compagnie de Phalsbourg, a privately held French property group. Nothing found.",
+  "claimIds": [
+    "compagnie-de-phalsbourg-ownership"
+  ],
+  "aliases": [
+    "l'atoll",
+    "L'Atoll Angers"
+  ],
+  "note": "Rating note: Privately held French property developer (SARL, RCS Paris 349 545 103); no state stake, nothing passed the rating test."
 }
