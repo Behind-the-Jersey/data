@@ -14,21 +14,45 @@
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Der Bundesligist aus dem Norden Deutschlands erhält inzwischen von Matthäi  jährlich einen Betrag von bis zu 7 Millionen Euro.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "harald-pihl",
-      "placement": "sleeve",
-      "side": "front",
+      "placement": "stadium",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "SV Werder Bremen: 'Flutlichtpartnerschaft sichert den Namen Weserstadion' (werder.de, 6 Aug 2025; opened via Wayback snapshot of 8 Aug 2025)",
+        "date": "2025-08-06",
+        "url": "https://www.werder.de/aktuell/news/2025/2026/weserstadion-name-20250806/",
+        "note": "werder.de serves automated fetches a Vercel Security Checkpoint (HTTP 429); the club page was opened through the Internet Archive snapshot of 8 Aug 2025. Harald Pihl is a stadium (floodlight) partner, not a sleeve sponsor on the shirt.",
+        "quote": "Hauptsponsor MATTHÄI, Top-Partner HARALD PIHL GmbH und die Exklusiv-Partner WIESENHOF und GOLDSCHMAUS engagieren sich künftig zusätzlich als sogenannte Flutlichtpartner und tragen zur Namenssicherung bis 2030 bei.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "433FC, Bundesliga 2026/27 shirt sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/bundesliga-2026-27-shirt-sponsors/",
+        "quote": "Castore (Leverkusen), Joma (Hoffenheim), Hummel (Werder Bremen) and Mizuno (Augsburg) round out the field.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Matthäi on the chest (Hauptsponsor, since 2023/24), Harald Pihl as a floodlight/stadium partner (Weserstadion naming secured to 2030), hummel as kit maker.",
   "change": null
 }
