@@ -12,13 +12,62 @@
       "sponsorId": "lete",
       "placement": "front",
       "source": {
-        "name": "Atalanta BC",
+        "name": "Atalanta BC — Atalanta's shirt sponsors for the 2026/27 campaign",
         "date": "2026-07-16",
-        "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign"
+        "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign",
+        "quote": "Featuring prominently on the front of the jersey will be, once again, our Main Sponsor LETE, a market leader in carbonated natural mineral water.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "snaifun",
+      "placement": "front",
+      "source": {
+        "name": "Atalanta BC — Atalanta's shirt sponsors for the 2026/27 campaign",
+        "date": "2026-07-16",
+        "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign",
+        "quote": "The Second Shirt Sponsor will be SNAIFUN, the app created by Snai that rewards a passion for sport and culture through news, quizzes and predictions.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "The club page gives Snaifun the Second Shirt Sponsor role; Prima Bergamo (15 Dec 2025) places the logo on the abdomen, directly beneath the main sponsor Lete."
+      }
+    },
+    {
+      "sponsorId": "gewiss",
+      "placement": "back",
+      "source": {
+        "name": "Atalanta BC — Atalanta's shirt sponsors for the 2026/27 campaign",
+        "date": "2026-07-16",
+        "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign",
+        "quote": "Sporting its logo beneath the shirt number, our Back-of-shirt Sponsor GEWISS has renewed its support for Atalanta.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "new-balance",
+      "placement": "partner",
+      "source": {
+        "name": "Atalanta BC — Atalanta's shirt sponsors for the 2026/27 campaign",
+        "date": "2026-07-16",
+        "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign",
+        "quote": "In its second season in Nerazzurri colours, NEW BALANCE completes the lineup as Official Kit Sponsor.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, named by the club as part of the shirt lineup; not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Official club page names Lete as Main Sponsor and Snaifun as Second Shirt Sponsor, both front of shirt."
+  "summary": "New Balance home shirt: Lete on the front, Snaifun directly beneath it, Gewiss beneath the shirt number on the back. Lete is family-owned (SGAM), Snaifun is the Snai app (Snaitech, Flutter), Gewiss sits in the Bosatelli family's Polifin holding; no state owner found in any chain."
 }

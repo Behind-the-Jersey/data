@@ -1,0 +1,33 @@
+{
+  "id": "devk-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "devk"
+  ],
+  "text": "DEVK is a German insurance group organized as Versicherungsverein auf Gegenseitigkeit (mutual insurance association), originally founded by railway workers for railwaymen; its association members are co-owners of the company.",
+  "short": "DEVK is a German mutual insurance association; its members are co-owners.",
+  "source": {
+    "name": "DEVK: Das sind wir (company history and profile)",
+    "date": "2026-09",
+    "url": "https://www.devk.de/unternehmen/das-sind-wir",
+    "quote": "Die Vereinsmitglieder sind zugleich Miteigentümer:innen.",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "DEVK: Partnerschaft Deutsche Bahn",
+      "date": "2026-09",
+      "url": "https://www.devk.de/unternehmen/partnerschaft-deutsche-bahn",
+      "note": "Same publisher as the main source (devk.de), so not independent; it corroborates the railway origin and shows the Deutsche Bahn tie is a welfare-facility partnership ('betriebliche Sozialeinrichtung'), not a stake.",
+      "quote": "Gegründet von Eisenbahnern für die Eisenbahnfamilie, sind wir tief verwurzelt in der Verkehrsbranche. Bis heute sind wir betriebliche Sozialeinrichtung der Deutschen Bahn.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -12,9 +12,15 @@
       "sponsorId": "wwk",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-        "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "name": "FC Augsburg – Sponsoren und Partner (club website footer)",
+        "date": "2026-09-28",
+        "url": "https://fcaugsburg.de/",
+        "quote": "Sponsoren und Partner Hauptsponsor Ausrüster Namensgeber Ärmelsponsor",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "The club site's partner listing names WWK (wwk.de) as Hauptsponsor (main sponsor), Mizuno as Ausrüster (kit maker), WWK ARENA as Namensgeber, and Siegmund (siegmund.com) as Ärmelsponsor (sleeve sponsor). Front placement of WWK per Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026): 'Seit der Saison 2015/2016 ist die WWK-Versicherungsgruppe der Trikotsponsor des FC Augsburg.'"
       }
     },
     {
@@ -22,13 +28,19 @@
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "Siegmund (Bernd Siegmund GmbH) – Siegmund & FC Augsburg (sports sponsoring page)",
+        "date": "2026",
+        "url": "https://www.siegmund.com/eno/Company-Profile/Sports-sponsoring/FC-Augsburg",
+        "quote": "Since 2018, the Siegmund logo can be seen on the sleeves of footballers' jerseys.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "date precision: year; the page carries no publication date. The page also lists the 07/2018 news entry 'Siegmund becomes the new sleeve partner of the FCA'."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Mizuno home shirt: WWK on the front (shirt sponsor since 2015/16, deal reported at about EUR 4m a year through 2030), Siegmund on the sleeve since 2018. WWK is a Munich mutual insurer owned by its members; Siegmund is a family-run GmbH. No state owner in either chain.",
   "change": null
 }

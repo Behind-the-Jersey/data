@@ -4,13 +4,25 @@
   "orgName": null,
   "sponsorId": "barmenia",
   "placement": "front",
-  "from": "2026-27",
-  "to": null,
-  "value": null,
-  "source": {
-    "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-    "date": "2026-09-24",
-    "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+  "from": "2016",
+  "to": "2028",
+  "value": {
+    "amount": 9,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 10
   },
-  "note": "Value not disclosed."
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+    "quote": "Bayer Leverkusen durch Barmenia belaufen sich aktuell auf bis zu 9 Millionen Euro",
+    "checked": {
+      "on": "2026-09-27",
+      "by": "Schnitzel"
+    }
+  },
+  "note": "Main and shirt sponsor since 2016; contract runs to 2028 (ran.de/kicker: 'seit 2016, bis 2028', 9 Millionen Euro pro Jahr). New sponsor logo since 2025/26 after the Barmenia-Gothaer merger."
 }
