@@ -14,56 +14,86 @@
       "source": {
         "name": "Emirates, 'Emirates renews partnership with Olympique Lyonnais until 2030'",
         "date": "2025-04-25",
-        "url": "https://www.emirates.com/media-centre/emirates-renews-partnership-with-olympique-lyonnais-until-2030/"
+        "url": "https://www.emirates.com/media-centre/emirates-renews-partnership-with-olympique-lyonnais-until-2030/",
+        "quote": "Emirates will remain the shirt sponsor of Olympique Lyonnais with its signature “fly better” logo on all playing jerseys and training kits during the club’s matches, including Ligue 1 and European matches until June 30, 2030.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "winamax",
       "placement": "back",
       "source": {
-        "name": "Olympique Lyonnais — Partenaires",
-        "date": "2026",
-        "url": "https://www.ol.fr/fr/club/partenaires"
+        "name": "Newstank: Olympique Lyonnais - Winamax, paris sportifs, sponsor dos maillot trois saisons",
+        "date": "2026-08-14",
+        "url": "https://sport.newstank.fr/article/view/450570/olympique-lyonnais-winamax-paris-sportifs-sponsor-dos-maillot-trois-saisons.html",
+        "quote": "Winamax devient un partenaire majeur (2 e niveau) et un sponsor dos de maillot de l’Olympique Lyonnais (Ligue 1 McDonald’s) pour trois saisons (2026-2029)",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "xtb",
       "placement": "back",
       "source": {
-        "name": "Olympique Lyonnais — Partenaires",
-        "date": "2026",
-        "url": "https://www.ol.fr/fr/club/partenaires"
+        "name": "XTB (blog): XTB devient partenaire majeur de l'Olympique Lyonnais jusqu'en 2029",
+        "date": "2026-08-17",
+        "url": "https://www.xtb.com/fr/blog/xtb-devient-partenaire-majeur-de-l-olympique-lyonnais-jusqu-en-2029",
+        "quote": "la marque XTB sera déployée dès la reprise de la saison, sur le bas du dos du maillot des joueurs",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "mg-motor",
       "placement": "sleeve",
       "source": {
-        "name": "Olympique Lyonnais — Partenaires",
-        "date": "2026",
-        "url": "https://www.ol.fr/fr/club/partenaires"
+        "name": "MG Motor (news.mgmotor.eu): MG Motor France et l'Olympique Lyonnais renouvellent leur partenariat majeur pour trois ans",
+        "date": "2024-06-24",
+        "url": "https://news.mgmotor.eu/fr/press/mg-motor-france-et-lolympique-lyonnais-renouvellent-leur-partenariat-majeur-pour-trois-ans/",
+        "quote": "Le logo de MG apparaîtra sur les maillots de l’équipe au cours de la saison et deviendra le partenaire automobile exclusif",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "trainline",
       "placement": "shorts",
       "source": {
-        "name": "Olympique Lyonnais — Partenaires",
-        "date": "2026",
-        "url": "https://www.ol.fr/fr/club/partenaires"
+        "name": "Olympique Lyonnais content API — football-teams (masculin pro), Partenaires majeurs",
+        "date": "2026-09-28",
+        "url": "https://api-olfr-prd.ol.fr/content/football-teams?locale=fr&populate[sponsors][populate][sponsor_category][populate][sponsors][populate][sponsor][populate][logo][populate]=*&subscription-key=9a9a363226fc61ff9d747ee47",
+        "quote": "\"name\":\"Trainline\",\"link\":\"https://www.thetrainline.com/fr\"",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
       "sponsorId": "staffmatch",
       "placement": "shorts",
       "source": {
-        "name": "Olympique Lyonnais — Partenaires",
-        "date": "2026",
-        "url": "https://www.ol.fr/fr/club/partenaires"
+        "name": "Olympique Lyonnais content API — football-teams (masculin pro), Partenaires majeurs",
+        "date": "2026-09-28",
+        "url": "https://api-olfr-prd.ol.fr/content/football-teams?locale=fr&populate[sponsors][populate][sponsor_category][populate][sponsors][populate][sponsor][populate][logo][populate]=*&subscription-key=9a9a363226fc61ff9d747ee47",
+        "quote": "\"name\":\"Staffmatch\",\"link\":\"https://staffmatch.com/fr/sponsoring-ol/\"",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Adidas kit. Emirates (Dubai state-owned) on the front until 2030.",
+  "sponsorsComplete": true,
+  "summary": "Adidas kit. Emirates (Dubai state-owned) on the front until 2030. Winamax and XTB share the back; MG Motor (SAIC, Chinese state-controlled) on the sleeve; Trainline and Staffmatch on the shorts.",
   "change": null
 }

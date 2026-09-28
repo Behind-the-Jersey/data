@@ -1,11 +1,14 @@
 {
   "id": "winamax",
   "name": "Winamax",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "winamax-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Winamax SA, a private French company (SA) run by its co-founder Alexandre Roos. Nothing found.",
+  "claimIds": [
+    "winamax-rcs-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Online poker and sports betting (gambling). Owner chain checked: a private French SA whose beneficial-ownership data is restricted in the trade register; its president/DG is co-founder Alexandre Roos. No state or state-fund link found in the register data."
 }

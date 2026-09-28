@@ -1,11 +1,14 @@
 {
   "id": "xtb",
   "name": "XTB",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "xtb-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by XTB S.A., listed on the Warsaw Stock Exchange; largest holder 27.78% (founder-controlled XX ZW Investment Group). Nothing found.",
+  "claimIds": [
+    "xtb-wse-listing-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Online broker (financial services, not gambling). Owner chain checked: WSE-listed with a wide free float; the largest holder is the founder's Luxembourg vehicle. No state or state-fund link found."
 }
