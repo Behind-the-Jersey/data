@@ -12,23 +12,47 @@
       "sponsorId": "lbbw",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-        "date": "2026-08-04",
-        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        "name": "LBBW: 'LBBW ist Hauptsponsor des VfB Stuttgart'",
+        "date": "2026",
+        "url": "https://www.lbbw.de/konzern/lbbw/verantwortung/vfb-stuttgart/vfb-stuttgart_aiu5io3hsv_d.html",
+        "quote": "Das Hauptsponsoring der Profimannschaft läuft ab der Saison 2025/2026 für drei Jahre. Die LBBW ist auf dem markanten Brustring des Clubs aus Cannstatt präsent.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     },
     {
-      "sponsorId": "hep-solar",
+      "sponsorId": "greenox",
       "placement": "sleeve",
       "side": "front",
       "source": {
-        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
-        "date": "2025-26",
-        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+        "name": "VfB Stuttgart: 'Herzlich willkommen, GREENOX!' (club announcement)",
+        "date": "2026-08-28",
+        "url": "https://www.vfb.de/de/vfb/aktuell/neues/club/2026/herzlich-willkommen--greenox-/",
+        "quote": "Das Stuttgarter Unternehmen für Energieberatung und Gebäudesanierung engagiert sich ab sofort als Ärmelpartner und Premium-Partner beim VfB Stuttgart",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    },
+    {
+      "sponsorId": "jako",
+      "placement": "partner",
+      "source": {
+        "name": "VfB Stuttgart: 'Cannstatt Culture: Das neue Heimtrikot 2026/2027'",
+        "date": "2026-07-08",
+        "url": "https://www.vfb.de/de/vfb/aktuell/neues/fans/2026/cannstatt-culture--das-neue-heimtrikot-2026-2027/",
+        "quote": "Mit den Trikots für die Saison 2026/2027 würdigt der VfB seinen Heimatstadtteil Bad Cannstatt. Die Hommage entstand in enger Kooperation mit Ausrüster JAKO und Hauptsponsor LBBW.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "2026/27 home kit by JAKO: LBBW on the chest ring (front), GREENOX on the sleeve from 28 August 2026, taking over from hep solar (Footy Headlines, 7 Sep 2026). Not marked complete: no cited source lists every shirt placement (the club's partner page shows logos by partner level only).",
   "change": null
 }
