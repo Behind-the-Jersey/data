@@ -1,0 +1,20 @@
+{
+  "id": "ldlc-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ldlc-group"
+  ],
+  "text": "The LDLC / LDLC.com brand is run by Groupe LDLC, a French société anonyme à directoire et conseil de surveillance with a share capital of €1,110,919.68, registered in Lyon (RCS 403 554 181, Limonest).",
+  "short": "LDLC.com is run by Groupe LDLC, a French listed company (RCS Lyon 403 554 181).",
+  "source": {
+    "name": "LDLC.com: Informations légales",
+    "date": "2026",
+    "url": "https://www.ldlc.com/aide/53-informations-legales/",
+    "quote": "Forme de la société : société anonyme à Directoire et conseil de surveillance. Capital social : 1 110 919.68 €. RCS de Lyon : 403 554 181",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

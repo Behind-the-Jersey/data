@@ -7,8 +7,54 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "ldlc",
+      "placement": "front",
+      "source": {
+        "name": "LDLC.com: LDLC ASVEL, l'association gagnante !",
+        "date": "2026",
+        "url": "https://www.ldlc.com/n4720/ldlc-asvel",
+        "quote": "signent un nouveau partenariat jusqu'en 2028… L'ASVEL marie ainsi son patronyme à celui de son sponsor historique et devient LDLC ASVEL.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Naming partner since 2018, partnership announced until 2028. The 'LDLC ASVEL' name is the mark on the front of the 2026/27 shirt (official renders and photos)."
+      }
+    },
+    {
+      "sponsorId": "l-auxiliaire",
+      "placement": "front",
+      "source": {
+        "name": "L'Auxiliaire: press release, 'Partenaire Premium et sponsor maillot de LDLC ASVEL'",
+        "date": "2026-03-26",
+        "url": "https://www.auxiliaire.fr/static/6e5875f86cb42bb8cec4130e7b8bd07c/CP_26_03_2026_LDLC_ASVEL_Ancrage_Territorial_22fb3f72bf.pdf",
+        "quote": "Partenaire depuis 2022, L'Auxiliaire devient, à compter de ce dimanche 22 mars, Partenaire Premium et sponsor maillot de l'équipe professionnelle",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Jersey sponsor since 22 March 2026, with visibility in Betclic Élite games (the press release says 'visibilité maximale lors des rencontres de Betclic ELITE'). The club's social posts say the logo sits on the front ('face avant des maillots'); it is not on the EuroLeague version."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "EuroTeams Basketball: Patty Mills x LDLC ASVEL 2026-27 EuroLeague Jersey",
+        "date": "2026-08-25",
+        "url": "https://euroteams-basketball.com/en/produit/patty-mills-x-ldlc-asvel-2026-27-euroleague-jersey-mens/",
+        "quote": "Show your support for Villeurbanne with the official 2026–2027 home jersey designed by Adidas.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Kit maker. The club's own launch posts called the 2026/27 jerseys 'maillots Adidas', but ldlcasvel.com and its shop block automated access (403); this licensed retailer confirms the official 2026-27 home jersey is made by Adidas."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "LDLC's naming is on the front as the 'LDLC ASVEL' club mark (partnership announced until 2028); L'Auxiliaire is on the front in Betclic Élite games from 22 March 2026; adidas makes the kit. Not complete: no openable source lists every 2026/27 placement — back, sleeves and shorts of the Betclic Élite version are undocumented (the EuroLeague render shows no back sponsor), and the club site blocks scripts.",
   "change": null
 }

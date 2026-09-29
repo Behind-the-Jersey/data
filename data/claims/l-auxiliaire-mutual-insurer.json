@@ -1,0 +1,20 @@
+{
+  "id": "l-auxiliaire-mutual-insurer",
+  "kind": "ownership",
+  "ownerIds": [
+    "l-auxiliaire"
+  ],
+  "text": "L'Auxiliaire is a mutual insurance company for building and public-works professionals ('mutuelle d'assurance des professionnels du bâtiment et des travaux publics'), a mutualist firm governed by a board made up exclusively of BTP company executives, based in Lyon.",
+  "short": "L'Auxiliaire is a mutual insurer for BTP professionals governed by its member companies' executives.",
+  "source": {
+    "name": "L'Auxiliaire: 'L'Auxiliaire renforce son engagement aux côtés de LDLC ASVEL' (press release)",
+    "date": "2026-03-26",
+    "url": "https://www.auxiliaire.fr/static/6e5875f86cb42bb8cec4130e7b8bd07c/CP_26_03_2026_LDLC_ASVEL_Ancrage_Territorial_22fb3f72bf.pdf",
+    "quote": "Acteur mutualiste gouverné par un Conseil d'Administration composé exclusivement de chefs d'entreprises du BTP",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
