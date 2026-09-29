@@ -1,0 +1,19 @@
+{
+  "id": "molex-koch-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "koch-inc"
+  ],
+  "text": "Molex is a Koch company: Koch, Inc. presents Molex as one of its companies.",
+  "source": {
+    "name": "Koch, Inc. companies/careers page for Molex",
+    "date": "2026-09-29",
+    "url": "https://www.kochinc.com/career-opportunities/molex",
+    "quote": "Molex | A Koch company",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

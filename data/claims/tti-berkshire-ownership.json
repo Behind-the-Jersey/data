@@ -1,0 +1,20 @@
+{
+  "id": "tti-berkshire-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tti-inc",
+    "berkshire-hathaway"
+  ],
+  "text": "TTI, Inc. is a Berkshire Hathaway company, as TTI states on its own website.",
+  "source": {
+    "name": "TTI, Inc.: About TTI",
+    "date": "2026-09-29",
+    "url": "https://www.ttiinc.com/content/ttiinc/en/about.html",
+    "quote": "TTI, Inc. a Berkshire Hathaway company, is an authorized specialty distributor of interconnect, passive, electromechanical components",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

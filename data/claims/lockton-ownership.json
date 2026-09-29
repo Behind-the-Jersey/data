@@ -1,0 +1,19 @@
+{
+  "id": "lockton-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lockton-companies"
+  ],
+  "text": "Lockton is a privately held, family organisation: its own site describes its founder's 'fierce commitment to private ownership' and says it is not driven by the quarterly pressure of the financial markets.",
+  "source": {
+    "name": "Lockton: Our Story",
+    "date": "2026-09-29",
+    "url": "https://global.lockton.com/us/en/our-story",
+    "quote": "Jack Lockton believed that a fierce commitment to private ownership instills every employee with a single-minded focus on delivering results for clients.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

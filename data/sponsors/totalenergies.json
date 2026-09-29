@@ -1,14 +1,16 @@
 {
   "id": "totalenergies",
   "name": "TotalEnergies",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "totalenergies-se",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A listed company with widely held shares (95% free-float factor in the CAC 40).",
+  "claimIds": [
+    "totalenergies-ownership"
+  ],
   "aliases": [
     "total"
   ],
-  "note": "Existing normalized sponsor reused: series partner and title sponsor of the TotalEnergies 6 Hours of Spa-Francorchamps; Peugeot TotalEnergies carries the name as Hypercar team title sponsor. Listed company (Euronext Paris et al.), largest shareholder BlackRock, no state control."
+  "note": "DS Penske partner (Season 12, 2025/26) and WEC Peugeot TotalEnergies title sponsor. Listed on Euronext Paris/Brussels, LSE and NYSE; no state control."
 }
