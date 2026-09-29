@@ -7,8 +7,71 @@
   "periodFrom": "2025-26",
   "periodTo": "2025-26",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "twg-ai",
+      "placement": "front",
+      "source": {
+        "name": "FIA Formula E - Andretti unveil new livery and Primary Partner",
+        "date": "2026-01-28",
+        "url": "https://www.fiaformulae.com/en/news/races/andretti-unveil-new-livery-and-primary-partner",
+        "quote": "Andretti's new collaboration will see TWG AI serve as the primary partner of Andretti Global’s two-car Formula E program.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "quest-global",
+      "placement": "partner",
+      "source": {
+        "name": "Andretti Global - Quest Global Joins Andretti Formula E as Official Engineering Technology Sponsor",
+        "date": "2025-07-25",
+        "url": "https://andrettiglobal.com/news/2025/07/quest-global-andretti-formula-e-engineering-technology-sponsor",
+        "quote": "has entered a multi-year partnership with the Andretti Formula E team as its official Engineering Technology Sponsor",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "crowe-uk",
+      "placement": "partner",
+      "source": {
+        "name": "Andretti Global - Formula E team page, Partners section",
+        "date": "2026-09-29",
+        "url": "https://andrettiglobal.com/teams/formula-e",
+        "note": "Crowe logo (FE_S12_PartnerStack-Crowe.png) in the current Season 12 partner stack; the section is logos only, so no quotable text. Date is when the page was opened."
+      }
+    },
+    {
+      "sponsorId": "hrx",
+      "placement": "partner",
+      "source": {
+        "name": "Andretti Global - Andretti Formula E Partners with HRX North America in Multi-Year Deal",
+        "date": "2025-11-10",
+        "url": "https://andrettiglobal.com/news/2025/11/andretti-formula-e-partners-with-hrx",
+        "quote": "Andretti Formula E is proud to announce a multi-year partnership with HRX North America, the world’s fastest growing racewear manufacturer, continuing a collaboration into Season 12 and beyond.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "reflo",
+      "placement": "partner",
+      "source": {
+        "name": "Andretti Global - Formula E team page, Partners section",
+        "date": "2026-09-29",
+        "url": "https://andrettiglobal.com/teams/formula-e",
+        "note": "Reflo logo (FE_S12_PartnerStack-Reflo.png) in the current Season 12 partner stack; the section is logos only, so no quotable text. Reflo also lists an Andretti FE partner collection (reflo.com). Date is when the page was opened."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Season 12 (2025/26) Porsche 99X Electric customer programme. TWG AI is the primary partner (front); Quest Global, Crowe UK, HRX and Reflo are team partners per Andretti's Season 12 partner stack. Car-livery placements do not fit the schema; Porsche is a powertrain supplier, not a shirt-name sponsor.",
   "change": null
 }

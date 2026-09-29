@@ -1,0 +1,21 @@
+{
+  "id": "reflo-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "reflo-owner"
+  ],
+  "text": "The Reflo website (reflo.com) is operated by Reflo Sports Ltd.",
+  "short": "reflo.com is operated by Reflo Sports Ltd.",
+  "source": {
+    "name": "Reflo - Terms of Use",
+    "date": "2026-09-29",
+    "url": "https://reflo.com/pages/terms-of-use",
+    "note": "No date shown on the page; date is when the page was checked.",
+    "quote": "This website is operated by Reflo Sports Ltd.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

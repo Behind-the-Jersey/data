@@ -1,0 +1,20 @@
+{
+  "id": "quest-global-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "quest-global-owner"
+  ],
+  "text": "Quest Global is a privately held engineering services firm headquartered in Singapore. In August 2023 global investment firm Carlyle agreed to acquire a 'significant minority stake' in the company, through funds managed and advised by entities affiliated with Carlyle Asia Partners.",
+  "short": "Quest Global is a private Singapore engineering firm; Carlyle acquired a significant minority stake in 2023.",
+  "source": {
+    "name": "Quest Global press release - Carlyle and Quest Global Enter into a Strategic Partnership",
+    "date": "2023-08-08",
+    "url": "https://www.questglobal.com/news/press-releases/carlyle-and-quest-global-enter-into-a-strategic-partnership",
+    "quote": "Carlyle will be acquiring a significant minority stake in the company. Equity for this transaction will come from funds managed and advised by entities affiliated with Carlyle Asia Partners.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
