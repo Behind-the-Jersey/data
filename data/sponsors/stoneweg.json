@@ -1,12 +1,14 @@
 {
   "id": "stoneweg",
   "name": "Stoneweg",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "swi-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Geneva alternative-investment group, founded 2015 by Jaume Sabater; part of Euronext Amsterdam-listed SWI Group since the 2025 merger with Icona Capital. Nothing found.",
+  "claimIds": [
+    "stoneweg-swi-ownership"
+  ],
   "aliases": [],
-  "note": "Geneva-headquartered alternative investment group backing the NSN team."
+  "note": "Rating note: co-owner (with NSN) of the team and jersey backer. Its parent SWI Group is listed on Euronext Amsterdam; no state or state-fund capital identified, no serious-abuse record found, so the rating test is not met."
 }

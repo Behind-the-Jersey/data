@@ -1,0 +1,21 @@
+{
+  "id": "ekoi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ekoi"
+  ],
+  "text": "Ekoï is a French cycling-equipment company founded in 2001 by Jean-Christophe Rattel together with a friend; it moved to Fréjus in 2008 and Rattel remains its managing director.",
+  "short": "Ekoï is a French private company founded in 2001 by Jean-Christophe Rattel, based in Fréjus.",
+  "source": {
+    "name": "TOUR Magazin, 'Ekoi interview: Many brands will disappear' (interview with CEO Jean-Christophe Rattel)",
+    "date": "2026-09-27",
+    "url": "https://www.tour-magazin.de/en/professional-cycling/latest-news/ekoi-interview-many-brands-will-disappear",
+    "quote": "The French brand Ekoi was founded in Roubaix in 2001 and is now headquartered in Fréjus.",
+    "note": "The page's 'About the person' block states Rattel founded Ekoï in 2001 together with a friend; machine-translated English version of a German original.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

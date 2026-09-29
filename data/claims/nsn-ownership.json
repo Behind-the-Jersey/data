@@ -1,0 +1,32 @@
+{
+  "id": "nsn-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nsn-never-say-never"
+  ],
+  "text": "NSN (Never Say Never) is a global sports and entertainment company co-founded by Andrés Iniesta, with Joel Borràs as president and founder. In November 2025 Stoneweg became a shareholder of NSN as the two formed the joint venture behind the NSN Cycling Team.",
+  "short": "NSN is co-founded by Andrés Iniesta and led by founder-president Joel Borràs; Stoneweg took a stake in NSN in 2025.",
+  "source": {
+    "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+    "date": "2025-11-20",
+    "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+    "quote": "Stoneweg becomes a shareholder of NSN, with the aim of continuing to support major projects in the world of sport and entertainment",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "NSN Cycling Team, 'About'",
+      "date": "2026",
+      "url": "https://nsncyclingteam.com/about/",
+      "quote": "global sports and event company NSN (Never Say Never), co-founded by Spanish football legend Andrés Iniesta, and Swiss investment firm Stoneweg",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

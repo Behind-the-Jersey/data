@@ -1,0 +1,32 @@
+{
+  "id": "brainvest-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "brainvest"
+  ],
+  "text": "Brainvest Wealth Management is an independent wealth manager founded in Geneva in 2003, run as a partnership; its own site lists Dany Roizman as founder.",
+  "short": "Brainvest is an independent, partner-run wealth manager founded in Geneva in 2003.",
+  "source": {
+    "name": "Brainvest Wealth Management, 'Meet the Team'",
+    "date": "2026",
+    "url": "https://brainvest.com/meet-the-team",
+    "quote": "Dany Roizman Switzerland Founder",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "NSN Cycling Team, 'About' (partners section: Brainvest Wealth Management)",
+      "date": "2026",
+      "url": "https://nsncyclingteam.com/about/",
+      "quote": "Since 2003, Brainvest has built differentiated investment solutions with the highest level of governance and engagement",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

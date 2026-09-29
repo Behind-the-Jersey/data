@@ -12,31 +12,109 @@
       "sponsorId": "nsn",
       "placement": "front",
       "source": {
-        "name": "NSN Cycling Team — homepage / partner logos",
-        "date": "unknown",
-        "url": "https://nsncyclingteam.com/"
+        "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+        "date": "2025-11-20",
+        "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+        "quote": "the new WorldTour Team name is NSN Cycling Team, and the Conti Team name is NSN Development Team",
+        "note": "Title sponsor and team co-owner; the large NSN logo dominates the chest of the 2026 jersey and its upper back (club kit-reveal gallery, 9 Dec 2025, nsncyclingteam.com/gallery-nsn-cycling-team-reveals-stunning-2026-jersey).",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "stoneweg",
       "placement": "front",
       "source": {
-        "name": "NSN Cycling Team — homepage / partner logos",
-        "date": "unknown",
-        "url": "https://nsncyclingteam.com/"
+        "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+        "date": "2025-11-20",
+        "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+        "quote": "NSN (Never Say Never) and Stoneweg, a global investment platform based in Geneva, Switzerland, have entered into a joint venture in professional road cycling",
+        "note": "Team co-owner; STONEWEG sits directly under the NSN logo on the jersey front, and the SW/Stoneweg logos also appear on the sleeve cuffs and the rear of the shorts (club kit-reveal gallery, 9 Dec 2025).",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "cantini-fantini",
+      "placement": "front",
+      "source": {
+        "name": "NSN Cycling Team, 'About' (partners section: Cantini Fantini)",
+        "date": "2026",
+        "url": "https://nsncyclingteam.com/about/",
+        "quote": "Thanks to its detailed research in producing wines, the Fantini Farnese group has been awarded the best producer of wine in Italy on several occasions",
+        "note": "Listed under 'Our Partners' on the same page; the CANTINA FANTINI logo appears on the lower front of the 2026 jersey and on the thigh of the shorts (club kit-reveal gallery, 9 Dec 2025).",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "brainvest",
+      "placement": "sleeve",
+      "source": {
+        "name": "NSN Cycling Team, 'About' (partners section: Brainvest Wealth Management)",
+        "date": "2026",
+        "url": "https://nsncyclingteam.com/about/",
+        "quote": "Since 2003, Brainvest has built differentiated investment solutions with the highest level of governance and engagement",
+        "note": "Listed under 'Our Partners' on the same page; BRAINVEST runs along the shoulders of the 2026 jersey (club kit-reveal gallery, 9 Dec 2025).",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "peace-park-capital",
+      "placement": "sleeve",
+      "source": {
+        "name": "NSN Cycling Team, 'About' (partners section: Peace Park Capital)",
+        "date": "2026",
+        "url": "https://nsncyclingteam.com/about/",
+        "quote": "Peace Park generates attractive risk-adjusted returns through diversified exposure to and active management of collateralized loan obligation (CLO) securities",
+        "note": "Listed under 'Our Partners' on the same page; PEACE PARK CAPITAL runs vertically on the front of both sleeves of the 2026 jersey (club kit-reveal gallery, 9 Dec 2025).",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "scott",
+      "placement": "back",
+      "source": {
+        "name": "NSN Cycling Team, 'SCOTT announces multi-year partnership with NSN Cycling Team as official bike supplier'",
+        "date": "2025-12-03",
+        "url": "https://nsncyclingteam.com/scott-announces-multi-year-partnership-with-nsn-cycling-team-as-official-bike-supplier",
+        "quote": "SCOTT and NSN Cycling Team today announce a multi-year sponsorship deal.",
+        "note": "Official bike supplier; the SCOTT logo runs vertically on the rear side panels of the 2026 jersey, visible from behind (club kit-reveal gallery, 9 Dec 2025).",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ekoi",
       "placement": "partner",
       "source": {
-        "name": "NSN Cycling Team — homepage / partner logos",
-        "date": "unknown",
-        "url": "https://nsncyclingteam.com/"
+        "name": "NSN Cycling Team, 'Gallery: NSN Cycling Team reveals stunning 2026 jersey'",
+        "date": "2025-12-09",
+        "url": "https://nsncyclingteam.com/gallery-nsn-cycling-team-reveals-stunning-2026-jersey",
+        "quote": "Our jersey was designed by Stijn Dossche of stycle.design and produced by Ekoï.",
+        "note": "Kit manufacturer (its logo also appears on the jersey chest/back, helmets and shorts); listed as partner per the convention for kit suppliers.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026 UCI WorldTeam. NSN Cycling Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "sponsorsComplete": true,
+  "summary": "NSN and Stoneweg (the team's joint-venture owners) on the front, Cantini Fantini lower front and on the shorts, Peace Park Capital and Brainvest on the sleeves/shoulders, SCOTT on the rear side panels, kit made by Ekoï: read from the photos in the club's kit-reveal gallery (9 December 2025), with each partner confirmed by the team site or its own announcement.",
   "change": null
 }

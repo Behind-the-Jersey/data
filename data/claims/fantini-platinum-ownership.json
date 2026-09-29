@@ -1,0 +1,34 @@
+{
+  "id": "fantini-platinum-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "fantini-group",
+    "platinum-equity"
+  ],
+  "text": "Cantina Fantini is the wine brand of the Fantini Group of Ortona, Abruzzo (formerly Farnese Vini), which US private-equity firm Platinum Equity acquired from NB Renaissance Partners in March 2020.",
+  "short": "The Fantini Group (Cantina Fantini wines) is owned by US private-equity firm Platinum Equity.",
+  "source": {
+    "name": "Platinum Equity — portfolio: Fantini Group",
+    "date": "2026",
+    "url": "https://www.platinumequity.com/our-company/fantini-group",
+    "quote": "Fantini Group acquires grapes from local farmers, produces and markets wines under specialty labels to customers internationally",
+    "note": "Same page, 'Transaction Description': 'Acquired from NB Renaissance Partners in March 2020'.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "WineNews, 'Italian Vignerons conquering Spain: Fantini Wines takes over the former Venta la Vega winery'",
+      "date": "2025-06-12",
+      "url": "https://winenews.it/en/italian-vignerons-conquering-spain-fantini-wines-takes-over-the-former-venta-la-vega-winery_560412",
+      "quote": "the Ortona-based wine group and export leader from Southern Italy (owned by Platinum Equity, with a record Ebitda of 27.5% and a turnover of 84 million euros in 2024",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

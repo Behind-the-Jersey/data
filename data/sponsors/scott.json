@@ -1,14 +1,16 @@
 {
   "id": "scott",
   "name": "Scott",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "youngone-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Swiss bike brand of Scott Sports SA, controlled by South Korean manufacturer Youngone Corporation (~97% after a 2025 ICC arbitration ruling). Nothing found.",
+  "claimIds": [
+    "scott-youngone-ownership"
+  ],
   "aliases": [
     "scott sports"
   ],
-  "note": "Bicycle manufacturer; NSN bike supplier from 2026."
+  "note": "Rating note: bike supplier whose logo appears on the kit. Youngone is listed in Seoul (no state stake); South Korea has no qualifying serious-abuse record under the method, and no human-rights finding against Scott or Youngone was located (searched Youngone + Bangladesh factory-labour coverage), so the rating test is not met."
 }

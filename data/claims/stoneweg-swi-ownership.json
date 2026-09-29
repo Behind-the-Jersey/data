@@ -1,0 +1,32 @@
+{
+  "id": "stoneweg-swi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "swi-group"
+  ],
+  "text": "Stoneweg is a Geneva-headquartered global alternative-investment group founded in 2015 by Jaume Sabater. It is part of SWI Group, formed in 2025 by the merger of Stoneweg and Icona Capital and listed on Euronext Amsterdam.",
+  "short": "Stoneweg is part of SWI Group, the listed group formed by the 2025 merger of Stoneweg and Icona Capital.",
+  "source": {
+    "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+    "date": "2025-11-20",
+    "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+    "quote": "the Switzerland headquartered investment platform Stoneweg, founded 10 years ago by Jaume Sabater",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SWI Group — homepage",
+      "date": "2026",
+      "url": "https://swi.com/",
+      "quote": "Born from the merger of Stoneweg and Icona Capital, SWI Group is a Euronext Amsterdam-listed global investment group",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

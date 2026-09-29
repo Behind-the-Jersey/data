@@ -1,0 +1,32 @@
+{
+  "id": "peace-park-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "peace-park-capital"
+  ],
+  "text": "Peace Park Capital is a collateralized loan obligation (CLO) investment firm. Its site names Ron Baron and Gaurav Suri at the head of its investment team; Baron is a founder, executive director and the CIO of Livermore Investments Group.",
+  "short": "Peace Park Capital is a private CLO-investment firm; its team chief Ron Baron founded Livermore Investments Group.",
+  "source": {
+    "name": "Peace Park Capital, 'About us'",
+    "date": "2025",
+    "url": "https://www.peaceparkcapital.com/about-us/",
+    "quote": "Peace Park generates attractive risk-adjusted returns through diversified exposure to and active management of collateralized loan obligation (CLO) securities",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Peace Park Capital, 'Team' (Ron Baron)",
+      "date": "2025",
+      "url": "https://www.peaceparkcapital.com/team/team",
+      "quote": "Mr Baron is a Founder, Executive Director and CIO of Livermore Investments Group.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
