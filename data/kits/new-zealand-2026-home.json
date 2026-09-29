@@ -1,0 +1,31 @@
+{
+  "id": "new-zealand-2026-home",
+  "clubId": "new-zealand",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026–27",
+  "periodFrom": "2026",
+  "periodTo": "2027",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Ministry of Sport – 'Puma enters long-term partnership with New Zealand Football'",
+        "date": "2023-12-14",
+        "url": "https://ministryofsport.com/puma-enters-long-term-partnership-with-new-zealand-football/",
+        "quote": "Puma will take charge of designing and producing both home and away kits, along with training wear, for all 10 of New Zealand's national football teams.",
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. 2026 shirts verified sponsor-free against Puma launch photos (front, back, sleeves) and the 26 June 2026 World Cup match v Belgium.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Nothing on the shirt but the fern: the All Whites' 2026 home kit carries no commercial sponsors, only the New Zealand Football crest and kit-maker Puma's logo.",
+  "change": null,
+  "shortLine": "No sponsors on the shirt"
+}
