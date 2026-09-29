@@ -2,13 +2,16 @@
   "id": "alba",
   "name": "Alba (Aluminium Bahrain)",
   "ownerId": "mumtalakat",
-  "ownership": "part-owned",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "alba-mumtalakat-majority",
+    "wec-bapco-bahrain-record"
+  ],
   "aliases": [
     "aluminium bahrain"
   ],
-  "note": "Aluminium producer; Bahraini state funds hold a stake."
+  "note": "Aluminium smelter. Mumtalakat holds 69.38% and Saudi Arabia's Ma'aden 20.62% (Alba, AGBI)."
 }

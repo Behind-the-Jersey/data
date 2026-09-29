@@ -1,0 +1,32 @@
+{
+  "id": "bahrain-edb-government-agency",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-bahrain"
+  ],
+  "text": "Bahrain's Economic Development Board (EDB) is the Bahraini government's investment promotion agency, chaired by the Crown Prince of Bahrain.",
+  "short": "Bahrain EDB is a Bahraini government agency chaired by the Crown Prince",
+  "source": {
+    "name": "Bahrain EDB — Frequently asked questions (archived)",
+    "date": "2026",
+    "url": "https://web.archive.org/web/20260520222437/https://www.bahrainedb.com/about-us/faq",
+    "quote": "The EDB is an investment promotion agency, chaired by His Royal Highness the Crown Prince of Bahrain, with the overall responsibility for attracting investment into Bahrain",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Fortune — Amid the Gulf's increasingly competitive landscape, Bahrain is carving out a distinct investment strategy (Melissa Hancock)",
+      "date": "2026-07-14",
+      "url": "https://fortune.com/2026/07/14/amid-gulf-competitive-investment-landscape-bahrain-distinct-investment-strategy",
+      "quote": "according to the head of the government agency tasked with bringing investment into the kingdom",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

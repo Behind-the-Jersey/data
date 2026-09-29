@@ -1,14 +1,17 @@
 {
   "id": "national-bank-of-bahrain",
   "name": "National Bank of Bahrain",
-  "ownerId": "government-of-bahrain",
+  "ownerId": "mumtalakat",
   "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "nbb-government-stake",
+    "wec-bapco-bahrain-record"
+  ],
   "aliases": [
     "nbb"
   ],
-  "note": "Bahraini bank with significant state/Mumtalakat ownership."
+  "note": "Bahraini bank: Mumtalakat (wholly owned by the government) holds 44.06% and the Social Insurance Organisation 10.85% (NBB, December 2024); Bahrain Bourse lists Mumtalakat's stake 'on behalf of Bahrain Government'."
 }

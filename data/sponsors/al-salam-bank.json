@@ -1,12 +1,15 @@
 {
   "id": "al-salam-bank",
   "name": "Al Salam Bank",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "al-salam-bank-bsc",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "A Bahrain-listed bank whose largest shareholder is Bank Muscat (14.74%), in which Oman's Royal Court Affairs holds 27.31%; Bank Muscat's chairman chairs Al Salam Bank.",
+  "claimIds": [
+    "al-salam-bank-shareholdings",
+    "bank-muscat-shareholders"
+  ],
   "aliases": [],
-  "note": "Bahraini bank."
+  "note": "Rating note: on hold for a maintainer. Oman's stake along the chain: Royal Court Affairs 27.31% x 14.74% = 4.03%; with the Social Protection Fund (4.99%) 32.30% x 14.74% = 4.76%; if the Pension Funds Trust Accounts (19.55%) are state funds, 51.85% x 14.74% = 7.64%, and Omani state bodies would then hold a majority of Bank Muscat. Board: Al Salam's chairman Shaikh Khalid bin Mustahail Al Mashani chairs Bank Muscat, where he is listed as an independent, non-shareholder director (not a state official in the sources); Bank Muscat's deputy chairman is the Royal Court Affairs' Director General of Audit. Oman's record is recorded in oman-hrw-record-2021 (HRW, 2021). Muscat Overseas (8.43%) and Sayacorp (6.28%) owners aren't sourced."
 }

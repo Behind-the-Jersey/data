@@ -1,0 +1,32 @@
+{
+  "id": "bapco-energies-government-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-bahrain"
+  ],
+  "text": "Bapco Energies, Bahrain's national energy holding company, is fully owned by the government of the Kingdom of Bahrain.",
+  "short": "Bapco Energies is fully owned by the Bahraini government",
+  "source": {
+    "name": "Bapco Energies — Investors",
+    "date": "2026",
+    "url": "https://www.bapcoenergies.com/investors",
+    "quote": "Bapco Energies is fully owned by the Kingdom of Bahrain's government, and reports directly to The Higher Committee for Energy and Natural Resources.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Gulf Daily News (GDN Online) — Bahrain expected to issue $2-3 billion of international bonds in 2025",
+      "date": "2025-01-27",
+      "url": "https://www.gdnonline.com/Details/1343103",
+      "quote": "This follows a $1bn sukuk issued by state-owned Bapco Energies earlier this month.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
