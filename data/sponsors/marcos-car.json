@@ -3,14 +3,14 @@
   "name": "Marcos Car",
   "ownerId": "marcoscar-sa",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "The car-dealer brand of Marcoscar, S.A. (Barreiro). Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "marcoscar-ownership"
   ],
   "aliases": [
     "marcoscar"
   ],
-  "note": "Rating note: Portuguese car-dealer group; no shareholder information is published for Marcoscar, S.A. Nothing sourced passes the test."
+  "note": "Barreiro car dealer (Marcoscar, S.A.), on the Estrela da Amadora shirt in 2026-27. Not rated yet: who owns Marcoscar, S.A. isn't sourced."
 }
