@@ -1,0 +1,33 @@
+{
+  "id": "dnata-icd-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "investment-corporation-of-dubai",
+    "government-of-dubai"
+  ],
+  "text": "dnata is wholly owned by the Investment Corporation of Dubai (ICD), a Government of Dubai entity.",
+  "short": "dnata is wholly owned by the Investment Corporation of Dubai (Government of Dubai)",
+  "source": {
+    "name": "The Emirates Group: Annual Report 2025-26, dnata consolidated financial statements, note 1 (General information)",
+    "date": "2026-05",
+    "url": "https://c.ekstatic.net/ecl/documents/annual-report/2025-2026.pdf",
+    "quote": "dnata is wholly owned by the Investment Corporation of Dubai (' the parent company ' / 'Owner'), a Government of Dubai entity",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AGBI (Arabian Gulf Business Insight): Dnata, company profile",
+      "date": "2024-11",
+      "url": "https://www.agbi.com/companies/dnata",
+      "quote": "Ownership was passed by the government of Dubai to Investment Corporation of Dubai, the emirate's sovereign wealth fund, in 2007.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

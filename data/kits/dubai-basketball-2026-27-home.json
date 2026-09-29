@@ -9,27 +9,67 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "det-dubai",
-      "placement": "back",
-      "source": {
-        "name": "Dubai Media Office, Dubai Department of Economy and Tourism partners with Dubai Basketball",
-        "date": "2025-01-31",
-        "url": "https://mediaoffice.ae/en/news/2025/january/31-01/dubai-department-of-economy-and-tourism-partners-with-dubai-basketball",
-        "note": "Dubai logo and visitdubai.com on the back of the shirts"
-      }
-    },
-    {
       "sponsorId": "dnata",
       "placement": "front",
       "source": {
         "name": "dnata media centre, dnata nets three-year deal with Dubai Basketball as Founding Partner",
         "date": "2025-09-18",
         "url": "https://www.dnata.com/media-centre/dnata-nets-three-year-deal-with-dubai-basketball-as-founding-partner/",
-        "note": "dnata branding on official jerseys (3-year Founding Partner)"
+        "quote": "dnata's branding will appear on Dubai Basketball's official jerseys, across the Coca-Cola Arena home court",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Three-year Founding Partner (2025-26 to 2027-28). dnata wordmark front-centre on the 2026/27 home jersey in the club's kit-launch and official store photos."
+      }
+    },
+    {
+      "sponsorId": "mr-eight",
+      "placement": "patch",
+      "source": {
+        "name": "Dubai Basketball: Dubai Basketball and Mr. Eight Development Announce Three-Year Exclusive Partnership",
+        "date": "2026-09-11",
+        "url": "https://www.dubaibasketball.com/media-article/dubai-basketball-and-mr-eight-development-announce-three-year-exclusive-partnership",
+        "quote": "the Mr. Eight brand will feature on Dubai Basketball's game jerseys throughout the club's EuroLeague and ABA League campaigns",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "MR.EIGHT BRANDED RESIDENCES on the upper right chest of the 2026/27 home jersey in the club's kit-launch and official store photos."
+      }
+    },
+    {
+      "sponsorId": "equiti",
+      "placement": "back",
+      "source": {
+        "name": "Equiti: Equiti signs as founding partner of Dubai Basketball ahead of EuroLeague debut",
+        "date": "2025-09-24",
+        "url": "https://www.equiti.com/sc-en/media-room/media-releases/equiti-signs-as-founding-partner-of-dubai-basketball-ahead-of-euroleague-debut",
+        "quote": "Equiti will feature prominently on official jerseys and courtside at the Coca-Cola Arena",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Founding Partner and Official Digital Wealth Partner for three seasons from 2025-26. equiti logo on the back of the 2026/27 home jersey, between the player name and number, in the club's official store photos."
+      }
+    },
+    {
+      "sponsorId": "audi-al-nabooda",
+      "placement": "shorts",
+      "source": {
+        "name": "Dubai Basketball: Audi, Al Nabooda Automobiles Powers Dubai Basketball's Season with Strategic Partnership",
+        "date": "2025-09-01",
+        "url": "https://www.dubaibasketball.com/media-article/audi-al-nabooda-automobiles-powers-dubai-basketballs-season-with-strategic-partnership",
+        "quote": "Audi, Al Nabooda Automobiles proudly announces its strategic partnership with Dubai Basketball as the teams' Official Automotive Partner",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Three-season deal from 2025-26. Audi rings logo on the lower left leg of the shorts in the club's 2026/27 kit-launch and official store photos."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "2026/27 adidas home kit ('Made to Belong', unveiled 12 Sep 2026): dnata front; Mr. Eight Branded Residences upper-chest patch; Equiti on the back above the number; Audi (Al Nabooda) on the shorts. The upper-left chest carries the league-wide EuroLeague/Etihad partner mark (see the euroleague-etihad deal), not a club sponsor. DET/Visit Dubai, on the back in 2024-25 and 2025-26, no longer appears.",
   "change": null
 }
