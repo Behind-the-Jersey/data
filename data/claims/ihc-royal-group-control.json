@@ -1,0 +1,21 @@
+{
+  "id": "ihc-royal-group-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "royal-group"
+  ],
+  "text": "International Holding Company (IHC) is controlled by the Royal Group, the conglomerate of Sheikh Tahnoon bin Zayed Al Nahyan, Abu Dhabi's deputy ruler.",
+  "short": "IHC is controlled by Sheikh Tahnoon's Royal Group",
+  "source": {
+    "name": "International Investor Magazine: Abu Dhabi IHC adds stake in the main constructor in the United Arab Emirates with the latest agreement",
+    "date": "2021-04-13",
+    "url": "https://www.intinvestor.com/news/abu-dhabi-ihc-adds-stake-in-the-main-constructor-i",
+    "quote": "Ultimately, IHC is controlled by the Royal Group, a conglomerate that includes Sheikh Tahnoon Bin Zayed Al Nahyan as president",
+    "note": "Reuters (2024-01-02, 'Abu Dhabi's IHC forms new company...') reports Royal Group owns a 61% stake in IHC; the reuters.com page blocks scripts, so it was read via its published abstract only.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

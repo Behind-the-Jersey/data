@@ -1,14 +1,19 @@
 {
   "id": "analog",
   "name": "Analog",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "g42",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "analog-g42-venture",
+    "g42-mubadala-minority-stake",
+    "g42-board-abu-dhabi-officials",
+    "mubadala-uae-convictions-upheld"
+  ],
   "aliases": [
     "analog sports"
   ],
-  "note": "Adaptive intelligence/technology company; official technology sponsor of UAE Team ADQ/L'IMAD. The Inner Ring (2026-08-05) says Analog is owned by G42 (normalized sponsor id g42, Mubadala-backed)."
+  "note": "Abu Dhabi edge-computing company launched by G42 in January 2024; founder Alex Kipman says G42 is its biggest investor (claim analog-g42-venture). On the shoulders of the 2026 UAE Team Emirates XRG kit; also an official technology sponsor of UAE Team L'IMAD. The state link runs through G42: Mubadala (Abu Dhabi state fund) holds a minority stake there with a board seat."
 }

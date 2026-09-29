@@ -1,12 +1,14 @@
 {
   "id": "colnago",
   "name": "Colnago",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "chimera-investments",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Majority-owned by Abu Dhabi fund Chimera Investments since 2020. Nothing found.",
+  "claimIds": [
+    "colnago-chimera-majority"
+  ],
   "aliases": [],
-  "note": "Italian bicycle manufacturer; UAE Team Emirates bike sponsor (Inner Ring links it to Sheikh Tahnoun)."
+  "note": "Italian bicycle manufacturer; bike sponsor of UAE Team Emirates XRG (logo on the shorts and jersey shoulders of the 2026 kit). Chimera Investments is part of Sheikh Tahnoon bin Zayed's private Royal Group (Reuters, 2023); per the G42 rating review, Royal Group is a private holding, not the state, so no state link is claimed. No human-rights finding against Colnago as a company was found."
 }

@@ -1,0 +1,33 @@
+{
+  "id": "adnoc-abu-dhabi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "adnoc",
+    "government-of-abu-dhabi"
+  ],
+  "text": "ADNOC is a diversified energy group wholly owned by the Abu Dhabi Government.",
+  "short": "ADNOC is wholly owned by the Abu Dhabi Government",
+  "source": {
+    "name": "ADNOC: Our Heritage (undated page, opened 29 September 2026)",
+    "date": "2026-09",
+    "url": "https://adnoc.ae/en/our-story/our-heritage",
+    "quote": "Founded in 1971, ADNOC is a leading diversified energy group, wholly owned by the Abu Dhabi Government",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "ch-aviation: Etihad joins Abu Dhabi’s consolidated L'imad investment fund (Hilka Birns)",
+      "date": "2026-02-04",
+      "url": "https://www.ch-aviation.com/news/163363-etihad-joins-abu-dhabis-consolidated-limad-investment-fund",
+      "quote": "SCFEA oversees the principal sovereign investment funds of the Abu Dhabi government, namely the Abu Dhabi Investment Authority, Mubadala Investment Company, L'imad Holding Company, and the Abu Dhabi National Oil Company",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

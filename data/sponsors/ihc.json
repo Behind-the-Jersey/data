@@ -7,10 +7,12 @@
   "status": "unrated",
   "verdict": null,
   "claimIds": [
-    "ihc-record"
+    "ihc-record",
+    "ihc-royal-group-control",
+    "uae-mass-trial-2024"
   ],
   "aliases": [
     "international holding company"
   ],
-  "note": "Abu Dhabi listed holding company; main sponsor of UAE Team L'IMAD. Reuses normalized owner id international-holding-company."
+  "note": "Abu Dhabi listed conglomerate, on the shorts' seat of the 2026 UAE Team Emirates XRG kit; also a main sponsor of UAE Team L'IMAD. Controlled by Sheikh Tahnoon bin Zayed's private Royal Group (claim ihc-royal-group-control) and chaired by Tahnoon, who is Abu Dhabi's deputy ruler (claim ihc-record)."
 }

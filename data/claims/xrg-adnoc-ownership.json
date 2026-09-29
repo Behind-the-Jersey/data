@@ -1,0 +1,42 @@
+{
+  "id": "xrg-adnoc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "adnoc"
+  ],
+  "text": "XRG, an international energy and chemicals investment company headquartered in Abu Dhabi, is wholly owned by ADNOC, which launched it on 27 November 2024.",
+  "short": "XRG is wholly owned by ADNOC",
+  "source": {
+    "name": "ADNOC: ADNOC launches XRG: an $80+ billion lower-carbon energy and chemicals investment powerhouse",
+    "date": "2024-11-27",
+    "url": "https://www.adnoc.ae/en/news-and-media/press-releases/2024/adnoc-launches-xrg",
+    "quote": "ADNOC today announced the launch of XRG, a groundbreaking international lower-carbon energy and chemicals investment company, with an enterprise value of over $80 billion",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "bp: bp and XRG close deal to launch new natural gas platform – Arcius Energy",
+      "date": "2024-12-16",
+      "url": "https://www.bp.com/press-and-publications/press-releases/bp-and-xrg-close-deal-to-launch-new-natural-gas-platform-arcius-energy",
+      "quote": "XRG is a transformative international energy investment company, focused on lower-carbon energy and chemicals, and headquartered in Abu Dhabi. Wholly owned by ADNOC",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Occidental: Occidental and ADNOC’s XRG Agree to Evaluate Joint Venture to Develop South Texas Direct Air Capture Hub",
+      "date": "2025-05-16",
+      "url": "https://www.oxy.com/news/news-releases/occidental-and-adnocs-xrg-agree-to-evaluate-joint-venture-to-develop-south-texas-direct-air-capture-hub",
+      "quote": "Wholly owned by ADNOC, XRG has an enterprise value of over $80 billion",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
