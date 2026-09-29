@@ -1,0 +1,45 @@
+{
+  "id": "norway-2026-home",
+  "clubId": "norway",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Norway 2026 World Cup Home & Away Kits Released",
+        "date": "2026-03-20",
+        "url": "https://www.footyheadlines.com/2025/12/nike-norway-2026-world-cup-home-kit.html",
+        "note": "Kit maker, recorded as partner per existing convention. Match photos of the shirt (World Cup, June-July 2026) show no advertising on front, back, sleeves or shorts; NFF lists Nike as 'utstyrsleverandør' (equipment supplier) to all national teams.",
+        "quote": "This is the Norway 2026 home jersey, made by Nike",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "kiwi-norge",
+      "placement": "training-kit",
+      "source": {
+        "name": "KIWI: På banen i over 30 år",
+        "date": "2026-06-17",
+        "url": "https://kiwi.no/fotball/pa-banen-i-over-30-ar",
+        "note": "KIWI's own site says the men's national team wears the KIWI logo ('landslagsdrakta'); the match shirt itself carries no sponsor (World Cup match photos on footyheadlines.com), so the logo sits on team training/presentation wear.",
+        "quote": "I dag bærer David Møller Wolfe KIWI-logoen på landslagsdrakta",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Norway's national-team home shirt carries no commercial sponsors; Nike makes the kit. KIWI (grocery chain, NFF hovedsponsor with BAMA from 2026) is worn on team training/presentation wear, not on the match shirt.",
+  "change": null
+}
