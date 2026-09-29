@@ -1,0 +1,29 @@
+{
+  "id": "paraguay-2026-home",
+  "clubId": "paraguay",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "ABC Color (EFE), 'Paraguay presenta la camiseta que vestirá en el Mundial, que honra su historia'",
+        "date": "2026-03-18",
+        "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/03/18/paraguay-presenta-la-camiseta-que-vestira-en-el-mundial-que-honra-su-historia/",
+        "quote": "las rayas aparecen imitando trazos de tierra roja, un detalle ideado por el sponsor oficial de la selección paraguaya, Puma",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "2026 home kit (launched 18 March 2026 for the World Cup, still worn in September 2026 friendlies). No commercial sponsors: kit-launch photos and the 27 September 2026 friendly against Bolivia show only the Puma logo and the APF crest on the shirt, and plain blue shorts. APF federation partners that do not appear on the match shirt are not listed here (see the pull request).",
+  "change": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "panama-2026-home",
+  "clubId": "panama",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "reebok",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines, 'Panama 2026 World Cup Home, Away & Third Kits Released'",
+        "date": "2026-04-16",
+        "url": "https://www.footyheadlines.com/2026/04/reebok-panama-2026-world-cup-home-away-third-kits.html",
+        "quote": "Reebok has officially unveiled the new home, away, and third kits for the Panama national team ahead of the 2026 World Cup.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The full launch gallery shows no commercial sponsor, only the Reebok logo and the FEPAFUT crest."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "No commercial shirt sponsors on Panama's 2026 World Cup home shirt. The Reebok kit (unveiled 14-16 April 2026) carries only the Reebok logo and the FEPAFUT crest; Panama24News' description of the launch mentions only the 'canaleros' inscription on the back of the neck. Kit maker Reebok is listed as partner per dataset convention.",
+  "change": null
+}
