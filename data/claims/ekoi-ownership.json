@@ -4,8 +4,8 @@
   "ownerIds": [
     "ekoi"
   ],
-  "text": "Ekoï is a French cycling-equipment company founded in 2001 by Jean-Christophe Rattel together with a friend; it moved to Fréjus in 2008 and Rattel remains its managing director.",
-  "short": "Ekoï is a French private company founded in 2001 by Jean-Christophe Rattel, based in Fréjus.",
+  "text": "Ekoï is a French cycling-equipment company founded in Roubaix in 2001 by Jean-Christophe Rattel and headquartered in Fréjus. In 2019 its minority shareholders since 2014 (Amundi, Sofipaca and Jean-Fabrice Mathieu) sold their stakes to Rattel, so that JCR Ekoï is owned 100% by him.",
+  "short": "Ekoï is owned 100% by its founder Jean-Christophe Rattel (since 2019).",
   "source": {
     "name": "TOUR Magazin, 'Ekoi interview: Many brands will disappear' (interview with CEO Jean-Christophe Rattel)",
     "date": "2026-09-27",
@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Fusacq: Jean-Christophe RATTEL récupère la totalité d'EKOI",
+      "date": "2019-10-25",
+      "url": "https://www.fusacq.com/buzz/jean-christophe-rattel-recupere-la-totalite-d-ekoi-a188473_be_",
+      "quote": "Désormais, JCR Ekoï est détenue à 100% par Monsieur Rattel",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "Same article: the buy-back of 'des actionnaires minoritaires présents depuis 2014, à savoir, AMUNDI et SOFIPACA ... et Jean-Fabrice Mathieu à titre personnel'."
+    }
+  ]
 }

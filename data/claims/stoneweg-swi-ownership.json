@@ -4,8 +4,8 @@
   "ownerIds": [
     "swi-group"
   ],
-  "text": "Stoneweg is a Geneva-headquartered global alternative-investment group founded in 2015 by Jaume Sabater. It is part of SWI Group, formed in 2025 by the merger of Stoneweg and Icona Capital and listed on Euronext Amsterdam.",
-  "short": "Stoneweg is part of SWI Group, the listed group formed by the 2025 merger of Stoneweg and Icona Capital.",
+  "text": "Stoneweg is a Geneva-based investment platform founded about ten years ago by Jaume Sabater, and part of SWI Group, a Euronext Amsterdam-listed group born from the merger of Stoneweg and Icona Capital. In October 2025 the group's fully diluted stake in Stoneweg S.A. rose to 80.26%, giving it control; Max-Hervé George ultimately holds 95.242% of the voting rights in SWI Capital Holding.",
+  "short": "Stoneweg is 80.26% SWI Capital Holding, 95.242% controlled by Max-Hervé George.",
   "source": {
     "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
     "date": "2025-11-20",
@@ -26,6 +26,17 @@
         "on": "2026-09-29",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
+    },
+    {
+      "name": "SWI Capital Holding Ltd: Prospectus",
+      "date": "2026-02-16",
+      "url": "https://swi.com/wp-content/uploads/SWICH-Prospectus-final.pdf",
+      "quote": "Mr Max-Hervé George ultimately holds, directly and indirectly, 95.242% of the voting rights in the Company.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "Same prospectus, 'Recent developments': 'In October 2025, the Group increased its participation in Stoneweg S.A. As a result, the Group’s fully diluted shareholding in Stoneweg S.A. increased to 80.26% and control has been achieved'."
     }
   ],
   "reviewed": false
