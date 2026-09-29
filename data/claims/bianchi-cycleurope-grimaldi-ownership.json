@@ -4,7 +4,7 @@
   "ownerIds": [
     "grimaldi-industri"
   ],
-  "text": "Bianchi (F.I.V. Edoardo Bianchi SpA) is part of Cycleurope AB Group, a Swedish company owned by Grimaldi Industri AB.",
+  "text": "Bianchi (F.I.V. Edoardo Bianchi SpA) is part of Cycleurope AB Group, a Swedish company of Grimaldi Industri AB. BikeBiz (2000) called Cycleurope a wholly owned subsidiary of the Grimaldi Industri group and Salvatore Grimaldi the owner of Grimaldi Industri AB.",
   "short": "Bianchi is part of Cycleurope AB, of Sweden's Grimaldi Industri AB",
   "source": {
     "name": "Cycleurope — Our brands: Bianchi",
@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "BikeBiz: Goetzmann ousted from Cycleurope",
+      "date": "2000-04-20",
+      "url": "https://bikebiz.com/goetzmann-ousted-from-cycleurope/",
+      "quote": "Salvatore Grimaldi, chairman of the Cycleurope AB board and owner of Grimaldi Industri AB",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "Same article: 'The Cycleurope Group is a wholly-owned subsidiary within the Grimaldi Industri Group.'"
+    }
+  ]
 }

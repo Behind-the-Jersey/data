@@ -20,13 +20,14 @@
   "additionalSources": [
     {
       "name": "Bahrain Bourse — Major Shareholders, National Bank of Bahrain (NBB)",
-      "date": "unknown",
+      "date": "2019",
       "url": "https://bahrainbourse.com/sysimages/majorshareholder/NBB_MajorShareholder_12271126.pdf",
       "quote": "Bahrain Mumtalakat Holding Co (On behalf of Bahrain Government) Bahrain 44.18",
       "checked": {
         "on": "2026-09-29",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-      }
+      },
+      "note": "Undated one-page PDF; its file metadata gives 11 February 2019. Next line: 'Social Insurance Organization (GOSI,Civil Pension Fund & Military Pension Fund) Bahrain 10.88'."
     }
   ],
   "reviewed": false

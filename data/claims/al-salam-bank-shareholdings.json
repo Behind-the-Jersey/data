@@ -4,7 +4,7 @@
   "ownerIds": [
     "al-salam-bank-bsc"
   ],
-  "text": "Al Salam Bank is a public bank listed on Bahrain Bourse since 2006; its disclosed major shareholders are Bank Muscat SAOG (14.74%), Muscat Overseas Group (8.43%) and Sayacorp B.S.C Closed (6.28%).",
+  "text": "Al Salam Bank is a public bank listed on Bahrain Bourse; its major shareholders at 31 December 2025 were Bank Muscat S.A.O.G. (14.74%), Muscat Overseas Company L.L.C. (8.43%), both of Oman, and Sayacorp B.S.C. Closed (6.28%) of Bahrain. Its chairman, Shaikh Khalid bin Mustahail Al Mashani, is also chairman of Bank Muscat.",
   "short": "Al Salam Bank is a listed Bahraini bank; largest holder Bank Muscat at 14.74%",
   "source": {
     "name": "Mubasher — Al Salam Bank B.S.C (SALAM) company profile, ownership",
@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Al Salam Bank: Annual Report 2025",
+      "date": "2026",
+      "url": "https://bahrainbourse.com/Documents/05052026150455En/05052026150455En_File2.pdf",
+      "quote": "1 Bank Muscat (S.A.O.G) Sultanate of Oman 437,315,389 14.74",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "Same report, 'Major Shareholders as of 31 December 2025': '2 Muscat Overseas Company L.L.C. Sultanate of Oman 250,246,941 8.43' and '3 Sayacorp B.S.C Closed Kingdom of Bahrain 186,273,227 6.28'; no government shareholders are listed. Board: 'He is the Chairman of the Board of Directors of Al Salam Bank, the Solidarity Group Holding and Solidarity Bahrain in the Kingdom of Bahrain, as well as Chairman of Bank Muscat S.A.O.G.' Filed on Bahrain Bourse."
+    }
+  ]
 }
