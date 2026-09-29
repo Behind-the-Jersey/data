@@ -1,0 +1,31 @@
+{
+  "id": "uruguay-2026-home",
+  "clubId": "uruguay",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines, 'Uruguay 2026 World Cup Home & Away Kits Released'",
+        "date": "2026-03-21",
+        "url": "https://www.footyheadlines.com/2025/06/uruguay-2026-world-cup-home-away-kits.html",
+        "quote": "The Uruguay 2026 World Cup home kit, made by Nike, features the classic Celeste (sky blue) color with a white polo collar and navy accents.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The launch article's front and back photos of the home shirt show no commercial sponsor logos, only the Nike swoosh and the AUF crest. National-team playing kits carry no commercial sponsors."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "change": null,
+  "summary": "Kit made by Nike (released 23 March 2026 for the 2026 World Cup, per Footy Headlines). No commercial sponsors appear anywhere on the home shirt in the launch photos: only the manufacturer logo and the AUF crest.",
+  "shortLine": "No shirt sponsors, kit made by Nike"
+}
