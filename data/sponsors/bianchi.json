@@ -1,12 +1,14 @@
 {
   "id": "bianchi",
   "name": "Bianchi",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "grimaldi-industri",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Italian bicycle brand (F.I.V. Edoardo Bianchi SpA), part of Cycleurope AB, a Swedish company of Grimaldi Industri AB. Nothing found.",
+  "claimIds": [
+    "bianchi-cycleurope-grimaldi-ownership"
+  ],
   "aliases": [],
-  "note": "Italian bicycle manufacturer; Bahrain Victorious bike supplier from 2026."
+  "note": "Rating note: private industrial holding; no state ownership found, no human-rights finding found. Bahrain Victorious bike supplier from 2026."
 }

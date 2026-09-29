@@ -1,0 +1,33 @@
+{
+  "id": "nbb-government-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "mumtalakat",
+    "government-of-bahrain"
+  ],
+  "text": "National Bank of Bahrain is 44.06% owned by Bahrain Mumtalakat Holding Company, wholly owned by the Bahraini government, and 10.85% by the Social Insurance Organisation; Bahrain Bourse lists Mumtalakat as holding the stake \"on behalf of Bahrain Government\".",
+  "short": "State fund Mumtalakat holds ~44% of NBB \"on behalf of Bahrain Government\"",
+  "source": {
+    "name": "National Bank of Bahrain — Sustainable Finance Framework (December 2024)",
+    "date": "2024-12",
+    "url": "https://nbbonline.com/storage/2025/02/NBB_Sustainable-Finance-Framework-V4-1.pdf",
+    "quote": "owned 45.09% by private and institutional shareholders, 44.06% Bahrain Mumtalakat Holding Company, wholly-owned by the Government of the Kingdom of Bahrain, and 10.85% by the Social Insurance Organisation",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bahrain Bourse — Major Shareholders, National Bank of Bahrain (NBB)",
+      "date": "unknown",
+      "url": "https://bahrainbourse.com/sysimages/majorshareholder/NBB_MajorShareholder_12271126.pdf",
+      "quote": "Bahrain Mumtalakat Holding Co (On behalf of Bahrain Government) Bahrain 44.18",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -6,9 +6,13 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "bapco"
+  "claimIds": [
+    "bapco-energies-government-owned",
+    "wec-bapco-bahrain-record"
   ],
-  "note": "Bahrain national oil and gas company."
+  "aliases": [
+    "bapco",
+    "nogaholding"
+  ],
+  "note": "Bahrain national oil and gas holding company (formerly nogaholding), fully owned by the Bahraini government; its chairman is Shaikh Nasser bin Hamad Al Khalifa, the team's founder. Serious tier proposed in the covering pull request."
 }

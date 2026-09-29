@@ -6,9 +6,12 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "mumtalakat-sovereign-wealth-fund",
+    "wec-bapco-bahrain-record"
+  ],
   "aliases": [
     "bahrain mumtalakat holding company"
   ],
-  "note": "Bahrain's sovereign wealth fund; long-running team partner."
+  "note": "Bahrain's sovereign wealth fund, wholly owned by the Bahraini government; long-running team partner. Serious tier proposed in the covering pull request."
 }

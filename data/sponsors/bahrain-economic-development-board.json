@@ -6,9 +6,12 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "bahrain-edb-government-agency",
+    "wec-bapco-bahrain-record"
+  ],
   "aliases": [
     "bahrain edb"
   ],
-  "note": "Bahraini state investment promotion agency; long-running backer of the team."
+  "note": "Bahraini state investment promotion agency (chaired by the Crown Prince); long-running backer of the team. Serious tier proposed in the covering pull request."
 }

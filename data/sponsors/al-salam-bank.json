@@ -1,12 +1,14 @@
 {
   "id": "al-salam-bank",
   "name": "Al Salam Bank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "al-salam-bank-bsc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A listed Bahraini bank whose disclosed major shareholders are Bank Muscat (14.74%), Muscat Overseas Group (8.43%) and Sayacorp (6.28%); no Bahraini state owner found. Nothing found.",
+  "claimIds": [
+    "al-salam-bank-shareholdings"
+  ],
   "aliases": [],
-  "note": "Bahraini bank."
+  "note": "Rating note: published major-shareholder data shows no state or state-fund stake; no human-rights finding found."
 }
