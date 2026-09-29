@@ -1,0 +1,20 @@
+{
+  "id": "aktor-group-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "aktor-group"
+  ],
+  "text": "AKTOR Group's shares trade on the Athens Stock Exchange: a July 2026 capital increase was completed and the new shares were admitted to trading on the Athens Exchange.",
+  "short": "AKTOR Group shares trade on the Athens Exchange.",
+  "source": {
+    "name": "newmoney.gr, 'Aktor: Sto 33,41% to pososto tis Winex meta tin AMK' (Winex at 33.41% after the capital increase)",
+    "date": "2026-07-31",
+    "url": "https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/aktor-sto-3341-to-pososto-tis-winex-meta-tin-amk",
+    "quote": "εισήχθησαν προς διαπραγμάτευση οι νέες μετοχές στο Χρηματιστήριο Αθηνών",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
