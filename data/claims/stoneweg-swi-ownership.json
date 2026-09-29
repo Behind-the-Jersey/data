@@ -1,0 +1,43 @@
+{
+  "id": "stoneweg-swi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "swi-group"
+  ],
+  "text": "Stoneweg is a Geneva-based investment platform founded about ten years ago by Jaume Sabater, and part of SWI Group, a Euronext Amsterdam-listed group born from the merger of Stoneweg and Icona Capital. In October 2025 the group's fully diluted stake in Stoneweg S.A. rose to 80.26%, giving it control; Max-Hervé George ultimately holds 95.242% of the voting rights in SWI Capital Holding.",
+  "short": "Stoneweg is 80.26% SWI Capital Holding, 95.242% controlled by Max-Hervé George.",
+  "source": {
+    "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+    "date": "2025-11-20",
+    "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+    "quote": "the Switzerland headquartered investment platform Stoneweg, founded 10 years ago by Jaume Sabater",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SWI Group — homepage",
+      "date": "2026",
+      "url": "https://swi.com/",
+      "quote": "Born from the merger of Stoneweg and Icona Capital, SWI Group is a Euronext Amsterdam-listed global investment group",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "SWI Capital Holding Ltd: Prospectus",
+      "date": "2026-02-16",
+      "url": "https://swi.com/wp-content/uploads/SWICH-Prospectus-final.pdf",
+      "quote": "Mr Max-Hervé George ultimately holds, directly and indirectly, 95.242% of the voting rights in the Company.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "Same prospectus, 'Recent developments': 'In October 2025, the Group increased its participation in Stoneweg S.A. As a result, the Group’s fully diluted shareholding in Stoneweg S.A. increased to 80.26% and control has been achieved'."
+    }
+  ],
+  "reviewed": false
+}

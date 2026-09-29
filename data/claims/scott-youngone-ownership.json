@@ -1,0 +1,32 @@
+{
+  "id": "scott-youngone-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "youngone-corporation"
+  ],
+  "text": "Youngone Corporation of South Korea acquired 20% of Scott Sports in 2013 and 50.01% in 2015, taking the majority from Beat Zaugg; after a February 2025 International Chamber of Commerce arbitration ruling it is to hold 97% of Scott Sports and total control of the company.",
+  "short": "Youngone Corporation of South Korea controls Scott Sports, holding ~97% after a 2025 ICC ruling.",
+  "source": {
+    "name": "Brújula Bike, 'SCOTT Sports is acquired by the South Korean company Youngone'",
+    "date": "2025-02-14",
+    "url": "https://en.brujulabike.com/scott-sports-is-acquired-by-the-south-korean-company-youngone",
+    "quote": "With this decision, Youngone Corp will have 97% of the shares of Scott Sports and total control over all decisions of the company",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bicycle Retailer and Industry News, 'Scotts Sports owner Youngone loans company $176 million'",
+      "date": "2024-01-16",
+      "url": "https://www.bicycleretailer.com/international/2024/01/16/scotts-sports-owner-youngone-invests-additional-176-million",
+      "quote": "It acquired a 20% share in Scott in 2013 and expanded it to 50.01% in 2015, taking over the majority position from Beat Zaugg",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

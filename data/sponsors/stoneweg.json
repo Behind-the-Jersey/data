@@ -1,12 +1,14 @@
 {
   "id": "stoneweg",
   "name": "Stoneweg",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "swi-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Geneva investment platform founded by Jaume Sabater; since October 2025 80.26% owned by SWI Capital Holding, in which Max-Hervé George holds 95.242% of the votes. Nothing found.",
+  "claimIds": [
+    "stoneweg-swi-ownership"
+  ],
   "aliases": [],
-  "note": "Geneva-headquartered alternative investment group backing the NSN team."
+  "note": "Co-owner (with NSN) of the team and jersey sponsor. Rating note: SWI's prospectus (16 Feb 2026) lists its substantial shareholders: Max-Hervé George (80.25% directly, 95.242% of the votes in all), Philae Real Estate (4.76%, a Jaume Sabater company) and ICF SPC-BG (14.99%, voted by George; its sole investor is MSB Trust, which has no voting rights). No state or state fund among them."
 }
