@@ -4,14 +4,13 @@
   "ownerIds": [
     "emirates-investment-authority"
   ],
-  "text": "e& (Emirates Telecommunications Group, the rebranded Etisalat) is 60% owned by the Emirates Investment Authority (EIA), which a US securities filing describes as an integral part of the United Arab Emirates' Federal Government.",
+  "text": "e& (Emirates Telecommunications Group, the rebranded Etisalat) is 60% owned by the Emirates Investment Authority (EIA), the fund to which the UAE Federal Government transferred its holding and which is ultimately controlled by the Federal Government.",
   "short": "e& is 60% owned by the Emirates Investment Authority (UAE federal government)",
   "source": {
-    "name": "SEC Schedule 13D/A, Vodafone Group Plc, filed by Atlas 2022 Holdings Ltd, Emirates Telecommunications Group Company PJSC and the Emirates Investment Authority",
-    "date": "2023-05-11",
-    "url": "https://www.sec.gov/Archives/edgar/data/839923/000120864623000063/c120361.htm",
-    "quote": "Atlas Holdings is a wholly-owned subsidiary of e&, which in turn is 60% owned by EIA",
-    "note": "The same filing says: 'EIA is an integral part of the Federal Government and was established through Federal Decree Law No. 4 of 2007'.",
+    "name": "e& (Emirates Telecommunications Group Company PJSC): Integrated Annual Report 2022, notes to the consolidated financial statements",
+    "date": "2022",
+    "url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2022/integrated-report-en-2022-1.pdf",
+    "quote": "transferred its 60% holding in the Company to the Emirates Investment Authority with effect from 1 January 2008, which is ultimately controlled by the UAE Federal Government",
     "checked": {
       "on": "2026-09-29",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"

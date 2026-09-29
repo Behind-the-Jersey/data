@@ -1,0 +1,21 @@
+{
+  "id": "chimera-tahnoon-empire",
+  "kind": "ownership",
+  "ownerIds": [
+    "royal-group"
+  ],
+  "text": "Chimera Investment LLC, the Abu Dhabi fund that owns a majority of Colnago, is part of a business empire overseen by Abu Dhabi's Sheikh Tahnoon bin Zayed Al Nahyan.",
+  "short": "Chimera (Colnago's majority owner) is part of Sheikh Tahnoon's business empire",
+  "source": {
+    "name": "Bloomberg Law: Abu Dhabi Royal's Firm Sets Up $50 Billion Investing Force (Archana Narayanan)",
+    "date": "2023-09-15",
+    "url": "https://news.bloomberglaw.com/banking-law/abu-dhabi-royals-firm-sets-up-50-billion-investing-force-1",
+    "quote": "Chimera Investment LLC, part of a business empire overseen by Abu Dhabi's Sheikh Tahnoon bin Zayed Al Nahyan, set up a $50 billion fund",
+    "note": "Reuters (15 Sep 2023) puts it as: 'Chimera is part of Sheikh Tahnoun's private investment firm Royal Group' — reuters.com 403s scripts, so the Reuters page itself is not linked as a checked source.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -3,6 +3,6 @@
   "name": "G42 (Group 42 Holding Ltd, Abu Dhabi AI group)",
   "type": "private-company",
   "country": "United Arab Emirates",
-  "parentId": null,
-  "note": "Controlling shareholder on record is Royal Group, Sheikh Tahnoon bin Zayed's private holding (claim g42-royal-group-control). Abu Dhabi's state fund Mubadala holds a minority stake and its chief executive sits on the G42 board (claims g42-mubadala-minority-stake, g42-board-abu-dhabi-officials). G42 launched Analog (claim analog-g42-venture)."
+  "parentId": "royal-group",
+  "note": "Controlling shareholder on record is Royal Group, Sheikh Tahnoon bin Zayed's private holding (claim g42-royal-group-control: 'Royal Group is the majority shareholder of Group 42 Holding Ltd', 2022 SEC 13D). 2026 reporting still describes G42 as controlled by Sheikh Tahnoon. Abu Dhabi's state fund Mubadala holds a minority stake and its chief executive sits on the G42 board (claims g42-mubadala-minority-stake, g42-board-abu-dhabi-officials). G42 launched Analog (claim analog-g42-venture)."
 }
