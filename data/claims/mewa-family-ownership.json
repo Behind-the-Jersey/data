@@ -1,0 +1,20 @@
+{
+  "id": "mewa-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mewa-textil-service"
+  ],
+  "text": "MEWA is the Wiesbaden-based textile-services group MEWA Textil-Service SE & Co. Management OHG, which describes itself as a company that has been managed by the owning family for three generations.",
+  "short": "MEWA is family-managed (third generation).",
+  "source": {
+    "name": "Mewa — Unternehmen (Textil-Service mit Tradition)",
+    "date": "2026",
+    "url": "https://www.mewa.de/unternehmen",
+    "quote": "Wir sind ein seit drei Generationen von Familienhand geführtes Unternehmen.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

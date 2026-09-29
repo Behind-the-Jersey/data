@@ -1,12 +1,14 @@
 {
   "id": "specialized",
   "name": "Specialized",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "specialized-bicycle-components",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Specialized Bicycle Components is a private US company, founder-led; Taiwan's Merida holds an undisclosed minority share (since 2001). Nothing found.",
+  "claimIds": [
+    "specialized-merida-minority"
+  ],
   "aliases": [],
-  "note": "US bike manufacturer; premium partner of Team SD Worx-Protime (team partners page). Not state-linked."
+  "note": "US bike manufacturer; kit supplier of Red Bull-BORA-hansgrohe. Rating note (issue #603, 2026-09-29): private, founder-controlled, with a minority stake held by listed Taiwanese bike maker Merida — no control, no board role documented. No human-rights finding found."
 }
