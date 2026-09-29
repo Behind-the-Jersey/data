@@ -1,0 +1,32 @@
+{
+  "id": "japan-2026-home",
+  "clubId": "japan",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 (launched November 2025)",
+  "periodFrom": "2025-11",
+  "periodTo": null,
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines – 'Japan 2026 World Cup Home Kit Released'",
+        "date": "2025-11-05",
+        "url": "https://www.footyheadlines.com/2025/08/japan-2026-home-kit.html",
+        "note": "Kit maker. The 2026 home-kit launch article; its photos show no commercial logo anywhere on the shirt.",
+        "quote": "Adidas has officially unveiled Japan’s new 2026 home kit, featuring light blue curved lines symbolizing the Japanese horizon.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "The 2026 home shirt carries no commercial sponsor logos - front, back, sleeves and shorts were checked on the kit-launch photos and in the September 2026 match against Uruguay; only the JFA crest and the adidas maker mark appear. adidas is the kit maker.",
+  "change": null,
+  "headline": "The shirt is {level}: it carries no commercial sponsors. adidas makes the kit.",
+  "shortLine": "No shirt sponsors. adidas made."
+}

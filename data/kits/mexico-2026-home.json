@@ -1,0 +1,30 @@
+{
+  "id": "mexico-2026-home",
+  "clubId": "mexico",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 World Cup",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "miseleccion.mx (FMF) - La Selección Nacional de México presenta su jersey mundialista 2026",
+        "date": "2025-11-05",
+        "url": "https://miseleccion.mx/noticias/6207/La-Selecci%C3%B3n-Nacional-de-M%C3%A9xico-presenta-su-jersey-mundialista-2026",
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense. National team match shirts carry no commercial sponsors.",
+        "quote": "una indumentaria confeccionada por Adidas, patrocinador oficial del Tricolor, que será utilizada en la Copa del Mundo 2026",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "adidas 2026 World Cup home shirt with an Aztec-inspired design; Mexico's national team match shirt carries no commercial sponsors.",
+  "change": null
+}
