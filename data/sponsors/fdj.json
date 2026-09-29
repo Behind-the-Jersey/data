@@ -3,12 +3,14 @@
   "name": "FDJ United",
   "ownerId": "french-state",
   "ownership": "part-owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "FDJ United (the former La Française des Jeux) is listed on Euronext Paris; the French State holds 21.09% and keeps close control under the PACTE law. Nothing found.",
+  "claimIds": [
+    "fdj-united-french-state-control"
+  ],
   "aliases": [
     "francaise des jeux"
   ],
-  "note": "French national lottery, privatised in 2019 but the French state remains the largest shareholder."
+  "note": "Rating note: gambling sponsor. The French State (21.09%, PACTE-law control rights) is a link under METHOD.md, but no record claim about France is cited in the dataset, so no rating above none is possible; consistent with FDJ-owned ZEturf and Unibet, rated none the same way. State ownership alone is not a tier (METHOD.md)."
 }
