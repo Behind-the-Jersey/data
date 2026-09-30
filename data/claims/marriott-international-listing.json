@@ -1,0 +1,20 @@
+{
+  "id": "marriott-international-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "marriott-international"
+  ],
+  "text": "Marriott International, Inc.'s common stock trades on the Nasdaq Global Select Market under the trading symbol MAR.",
+  "short": "Marriott International is Nasdaq-listed (MAR)",
+  "source": {
+    "name": "Marriott International, Inc. Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2026-02-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm",
+    "quote": "Our common stock trades on the Nasdaq Global Select Market under the trading symbol MAR.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
