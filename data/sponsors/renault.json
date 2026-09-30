@@ -1,11 +1,14 @@
 {
   "id": "renault",
   "name": "Renault",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "renault-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Renault Group, a listed company in which the French State holds 15.01%. Nothing found.",
+  "claimIds": [
+    "renault-french-state-stake"
+  ],
+  "aliases": [],
+  "note": "The French State holds 15.01% of Renault's capital and 21.92% of theoretical voting rights (renault-french-state-stake). France doesn't count as a state with a record of serious abuses under METHOD.md (the maintainers' decision, 30 September 2026), so the stake isn't a link."
 }

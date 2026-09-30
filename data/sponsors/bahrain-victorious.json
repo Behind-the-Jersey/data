@@ -3,11 +3,25 @@
   "name": "Bahrain Victorious",
   "ownerId": "government-of-bahrain",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "serious",
+  "status": "rated",
+  "verdict": "Victorious Bahrain is the Kingdom of Bahrain's own brand, fronted by the King's representative, Shaikh Nasser bin Hamad Al Khalifa.",
+  "claimIds": [
+    "wec-bapco-bahrain-record",
+    "bahrain-victorious-ownership"
+  ],
   "aliases": [
     "victorious bahrain"
-  ]
+  ],
+  "why": {
+    "text": "'Victorious Bahrain' is the Kingdom of Bahrain's brand, fronted by Shaikh Nasser bin Hamad Al Khalifa, the King's representative, and Paris FC compete under it to promote the Kingdom's visibility, investment and tourism. Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that a detainee died in custody after being disappeared, and that twelve death row inmates remain at imminent risk of execution. A famous shirt makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+    "claimIds": [
+      "wec-bapco-bahrain-record",
+      "bahrain-victorious-ownership"
+    ],
+    "messageLine": "Human Rights Watch reports that Bahraini authorities arbitrarily arrested dozens of people in 2026 and that a detainee died in custody after being disappeared.",
+    "status": "draft"
+  },
+  "note": "Rated Serious by the maintainers on 30 September 2026: a brand of a state with a record, like Visit Saudi, Visit Qatar and Experience Abu Dhabi.",
+  "ownerVerb": "paid for by"
 }
