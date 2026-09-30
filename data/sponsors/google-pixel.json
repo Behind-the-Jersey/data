@@ -1,11 +1,14 @@
 {
   "id": "google-pixel",
   "name": "Google Pixel",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "alphabet-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Alphabet Inc. Nothing found.",
+  "claimIds": [
+    "alphabet-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Google Pixel is a Google (Alphabet) product line; reuses the checked Alphabet ownership claim."
 }

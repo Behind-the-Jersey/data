@@ -1,0 +1,32 @@
+{
+  "id": "renault-french-state-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "french-state"
+  ],
+  "text": "At 31 December 2025 the French State held 15.01% of Renault's share capital, corresponding to 21.92% of theoretical voting rights.",
+  "short": "The French State holds 15.01% of Renault.",
+  "source": {
+    "name": "Renault Group: 2025 Universal Registration Document",
+    "date": "2026-03-31",
+    "url": "https://assets.renaultgroup.com/uploads/2026/03/URD_2025_Comp_202603310753.pdf",
+    "quote": "the French State held 15.01% of the share capital, corresponding to 21.92% of theoretical voting rights and 22.24% of exercisable voting rights in Renault",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Agence des participations de l'État, Rapport relatif à l'État actionnaire (annex to the 2026 budget bill), Renault page",
+      "date": "2025-10-21",
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "quote": "L’État détient 15,01 % du capital, correspondant à 22,14 % des droits de vote de Renault.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
