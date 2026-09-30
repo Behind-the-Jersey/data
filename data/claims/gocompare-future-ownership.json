@@ -1,0 +1,34 @@
+{
+  "id": "gocompare-future-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "future-plc"
+  ],
+  "text": "Go.Compare, the WRU's back-of-shirt sponsor, is a brand of Future plc, which completed its acquisition of GoCo Group (the GoCompare owner) in February 2021.",
+  "short": "Go.Compare is a Future plc brand",
+  "source": {
+    "name": "Future plc: Our Brands",
+    "date": "2026-09-30",
+    "url": "https://futureplc.com/our-brands/",
+    "quote": "Go.Compare is the particularly picky comparison site. Helping you compare the cost and features of insurance policies, financial products, energy tariffs and more.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "Undated page; date is the day it was opened. Go.Compare appears in Future plc's 'Our Brands' portfolio list."
+  },
+  "additionalSources": [
+    {
+      "name": "Future plc: Future plc acquires GoCo Group plc",
+      "date": "2021-02-22",
+      "url": "https://futureplc.com/news/future-plc-acquires-goco-group-plc/",
+      "quote": "announces completion of the acquisition of GoCo Group plc (“GoCo”), a data-enabled and tech-led business focused on innovation",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Completion announcement; the same release names 'Lee Griffin (CEO of GoCompare)' among the GoCo team welcomed to Future."
+    }
+  ],
+  "reviewed": false
+}
