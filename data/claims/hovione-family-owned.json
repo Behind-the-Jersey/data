@@ -1,0 +1,21 @@
+{
+  "id": "hovione-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "hovione-holding-ag"
+  ],
+  "text": "Hovione Holding AG is a family-owned pharmaceutical group; its own press room describes Guy Villax as non-executive director and chairman of the family council, speaking for the company's principal shareholder.",
+  "short": "Hovione Holding AG is family-owned; the Villax family is the principal shareholder.",
+  "source": {
+    "name": "Hovione: 'Hovione nomeia Stefan Doboczky como Chief Executive Officer' (press release, hovione.pt press room)",
+    "date": "2026-09-08",
+    "url": "https://www.hovione.pt/press-room/press-release/hovione-e-o-novo-patrocinador-oficial-da-selecao-portuguesa-de-rugby-acordo-inclui-apoio-desenvolvimento-de-academia-para-jovens-talentos",
+    "note": "The page is the Hovione press room; below the January 2025 rugby-sponsorship release it carries the full text of the 8 September 2026 CEO-appointment release, which calls Hovione 'um grupo familiar' (a family group) and describes the family-council chairman as representing the principal shareholder.",
+    "quote": "Guy Villax, Administrador Não Executivo e Presidente do Conselho de Família, em representação do principal acionista da empresa",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

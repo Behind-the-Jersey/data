@@ -1,0 +1,91 @@
+{
+  "id": "rugby-portugal-2026-27-home",
+  "clubId": "rugby-portugal",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "santander",
+      "placement": "front",
+      "source": {
+        "name": "ECO (+M): Santander renova patrocínio às seleções nacionais de rugby pelos próximos três anos",
+        "date": "2024-11-08",
+        "url": "https://eco.sapo.pt/2024/11/08/santander-renova-patrocinio-as-selecoes-nacionais-de-rugby-pelos-proximos-tres-anos/",
+        "note": "The article says Santander's naming appears on the front of the Portuguese teams' jerseys and the deal runs three years from November 2024. The Santander wordmark is also visible across the chest of the red home shirt in Rugby Europe's official photo of Portugal v Romania (Estádio Nacional, Jamor, 22 February 2026) and of Portugal's Nations Cup shirts (July 2026 broadcast graphics on fpr.pt).",
+        "quote": "com o banco a ter o seu naming na frente das camisolas das equipas portuguesas",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "cartrack",
+      "placement": "back",
+      "source": {
+        "name": "ECO (+M): Apoio das marcas é \"absolutamente indispensável\" para a seleção de rugby",
+        "date": "2023-09-07",
+        "url": "https://eco.sapo.pt/2023/09/07/apoios-das-marcas-sao-absolutamente-indispensaveis-para-a-selecao-de-rugby/",
+        "note": "The article names Cartrack one of the main sponsors of the Federação Portuguesa de Rugby. Placement verified visually: 'CARTRACK SEMPRE EM CONTROLO' across the upper back, above the numbers, in Rugby Europe's official match photo of Portugal v Romania (Jamor, 22 February 2026), and in fpr.pt graphics of the REC 2026 semi-final v Spain (8 March 2026). Cartrack remains a partner in 2026 (FPR partners bar; 'Lusitanos Cartrack Portugal' naming; Supertaça Cartrack).",
+        "quote": "encontram-se a Cartrack, a Labrador e o Santander enquanto principais patrocinadores da Federação Portuguesa de Rugby",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "honda",
+      "placement": "sleeve",
+      "source": {
+        "name": "Federação Portuguesa de Rugby: Honda assina acordo de parceria com a Seleção Portuguesa de Rugby",
+        "date": "2024-07-10",
+        "url": "https://fpr.pt/noticias/detalhe/honda-assina-acordo-de-parceria-com-a-selecao-portuguesa-de-rugby",
+        "note": "FPR announcement of the Honda partnership. The white Honda 'H' and HONDA wordmark sit on the shirt sleeve in the fpr.pt broadcast graphics of the REC 2026 semi-final v Spain (Restelo, 8 March 2026) and in Nations Cup photos (Tonga v Portugal, Winnipeg, 18 July 2026; USA v Portugal, 4 July 2026). Honda is still on the FPR partners bar (fpr.pt, opened 30 September 2026).",
+        "quote": "A Honda é a viatura oficial dos Lobos, a Seleção Portuguesa de Rugby",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "hovione",
+      "placement": "shorts",
+      "source": {
+        "name": "Hovione: Hovione é o novo patrocinador oficial da Seleção Portuguesa de Rugby (press release)",
+        "date": "2025-01-20",
+        "url": "https://www.hovione.pt/press-room/press-release/hovione-e-o-novo-patrocinador-oficial-da-selecao-portuguesa-de-rugby-acordo-inclui-apoio-desenvolvimento-de-academia-para-jovens-talentos",
+        "note": "Three-year deal from January 2025 stating the Hovione name will feature on the national team's equipment. The white Hovione logotype is visible on the thigh of the match shorts in the match photo used by the FPR official store (loja.fpr.pt) for the 'Camisola Oficial Lobos' national-team shirt listing.",
+        "quote": "O naming da Hovione passará a constar nos equipamentos da equipa nacional",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "En Mode Rugby: Portugal home replica rugby shirt for men / Macron (2025/2026 product page)",
+        "date": "2026-09-30",
+        "url": "https://www.enmoderugby.com/en/boutique-portugal-rugby/2491-portugal-home-replica-rugby-shirt-for-men-macron.html",
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. Current home shirt is the Macron design sold as the 2025/2026 replica (Macron hero logo on the right chest of match shirts); FPR announced the renewal of its Macron supply contract on 4 January 2021 (fpr.pt). Date is the day the product page was opened. The shop page sits behind a bot check (Cloudflare), so neither the source check nor the maintainer could re-open it on 2026-09-30; the Portuguese federation's own site (fpr.pt) shows Macron's logo among its partners, linked to macron.com.",
+        "quote": "The home jersey of the Portugal National Rugby team, designed by Macron",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Santander (Banco Santander's Portuguese bank) across the front, Cartrack (Karooooo's vehicle-tracking brand) across the upper back and Honda on the sleeve of the Macron red home shirt, with family-owned pharma group Hovione on the shorts. Placements checked against Rugby Europe's official photos (Portugal v Romania, 22 Feb 2026; REC semi-final v Spain, 8 Mar 2026) and the federation's Nations Cup graphics (July 2026). Nothing found on any of them.",
+  "change": null,
+  "shortLine": "Santander on the front"
+}

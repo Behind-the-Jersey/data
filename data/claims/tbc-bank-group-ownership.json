@@ -1,0 +1,21 @@
+{
+  "id": "tbc-bank-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tbc-bank-group"
+  ],
+  "text": "TBC Bank (JSC TBC Bank) belongs to TBC Bank Group PLC, a United Kingdom-based parent company listed on the London Stock Exchange (TBCG).",
+  "short": "TBC Bank is owned by London Stock Exchange-listed TBC Bank Group PLC.",
+  "source": {
+    "name": "FT Markets: TBC Bank Group PLC (TBCG:LSE) - Summary, About the company",
+    "date": "2026-09-30",
+    "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=TBCG:LSE",
+    "quote": "TBC Bank Group PLC is a United Kingdom-based parent company of JSC TBC Bank (TBC Bank) and a group of companies that principally operate in Georgia in the financial sector.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "Undated live market-data page; date is the day it was opened. The listing ticker TBCG on the LSE appears on the same page ('TBCG:LSE')."
+  },
+  "reviewed": false
+}
