@@ -1,0 +1,29 @@
+{
+  "id": "bank-of-shanghai",
+  "name": "Bank of Shanghai",
+  "ownerId": "bank-of-shanghai",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Largest shareholder is Shanghai SASAC-controlled Alliance Investment (14.73%, with two nominated directors); the bank itself reports no controlling shareholder. China has a documented record of serious abuses in Xinjiang.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "bank-of-shanghai-shareholders"
+  ],
+  "aliases": [
+    "上海银行",
+    "Bank of Shanghai Co., Ltd.",
+    "BOSC",
+    "601229"
+  ],
+  "note": "Front-of-shirt sponsor of Shanghai Port FC for the 2026 Chinese Super League season (Jiefang Daily/Shangguan News, 2026-02-07). Rating note: proposed 'concern' — the Chinese state reaches the sponsor through Shanghai SASAC-controlled Alliance Investment's 14.73% stake (14.98% with affiliates and concert parties) and two nominated directors (no control: the bank reports no controlling shareholder and no actual controller), and China has a documented record of serious abuses; UN OHCHR Xinjiang assessment plus Human Rights Watch supply the record claim. Both ownership claim sources are the bank's own cninfo filings (2025 annual report; 2026 half-year abstract) — no independent second publisher found, same pattern as the saic-group-state-ownership claim. The same annual report names Shanghai SASAC as the actual controller of the second-largest shareholder too, Shanghai International Port (Group) (8.54%; 8.57% with its related parties), so Shanghai SASAC reaches about 23% through the two. ON HOLD: a proposed rating resting on state ownership with a record awaits a maintainer's review (like mg-motor).",
+  "why": {
+    "text": "The Chinese state is Bank of Shanghai's largest shareholder through Shanghai SASAC-controlled Alliance Investment, holding 14.73% (14.98% with concert parties) with two nominated directors, though the bank reports no controlling shareholder. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "bank-of-shanghai-shareholders"
+    ],
+    "messageLine": "Bank of Shanghai: the Shanghai city arm of the Chinese state is its largest shareholder (14.73%) despite the bank reporting no controlling shareholder; the UN has documented serious abuses in Xinjiang.",
+    "status": "draft"
+  }
+}

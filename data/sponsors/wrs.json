@@ -1,12 +1,14 @@
 {
   "id": "wrs",
   "name": "WRS",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "wrs-srl",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "wrs-ownership"
+  ],
   "aliases": [],
-  "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to wrs.it, stands under 'Technical partners' with the line 'Motorcycle Windscreens and Accessories' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to wrs.it, stands under 'Technical partners' with the line 'Motorcycle Windscreens and Accessories' (Wayback Machine captures of 23 May and 18 Sep 2026); also a MotoGP partner of Red Bull KTM (ktm.com partner logos). Left unrated: the brand belongs to WRS S.r.l. of Cattolica, Italy (wrs-ownership), but who holds the company isn't sourced."
 }

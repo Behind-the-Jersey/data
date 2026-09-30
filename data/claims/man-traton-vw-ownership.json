@@ -1,0 +1,34 @@
+{
+  "id": "man-traton-vw-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "man-truck-bus-se",
+    "traton-se",
+    "volkswagen-ag"
+  ],
+  "text": "MAN Truck & Bus is a company of the TRATON GROUP (MAN SE was merged into TRATON SE in 2021). TRATON SE's largest single shareholder is Volkswagen International Luxemburg S.A., a Volkswagen Group company, which held 87.52% of the share capital at 31 December 2025.",
+  "short": "MAN is a TRATON GROUP brand; Volkswagen holds 87.52% of TRATON.",
+  "source": {
+    "name": "MAN Truck & Bus – Strategy (MAN at a glance)",
+    "date": "2026",
+    "url": "https://www.man.eu/corporate/en/about-man/strategy/strategy.html",
+    "quote": "MAN Truck & Bus is a company of TRATON GROUP and employs some 32,000 people worldwide.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TRATON 2025 Annual Report: Supplemental Information (shareholder structure)",
+      "date": "2026",
+      "url": "https://annualreport.traton.com/2025/en/combined-management-report/supplemental-information-on-fiscal-year-2025/index.html",
+      "quote": "The largest single shareholder of TRATON SE is Volkswagen International Luxemburg S.A., Strassen, Luxembourg, a Volkswagen Group company, which held 87.52% of the share capital",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
