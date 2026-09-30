@@ -1,0 +1,21 @@
+{
+  "id": "eneos-holdings-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "eneos-holdings"
+  ],
+  "text": "ENEOS Holdings, Inc. is listed on the Tokyo Stock Exchange and the Nagoya Stock Exchange (securities code 5020).",
+  "short": "ENEOS Holdings is listed in Tokyo and Nagoya.",
+  "source": {
+    "name": "ENEOS Holdings: Corporate Data",
+    "date": "2026",
+    "url": "https://www.hd.eneos.co.jp/english/about/corporate_profile.html",
+    "note": "Page without a date; opened 2026-09-30.",
+    "quote": "Listed stock exchanges Tokyo Stock Exchange and Nagoya Stock Exchange",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

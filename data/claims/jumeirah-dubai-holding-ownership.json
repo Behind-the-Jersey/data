@@ -1,0 +1,31 @@
+{
+  "id": "jumeirah-dubai-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dubai-holding"
+  ],
+  "text": "Jumeirah, the luxury hotel group, is a member of Dubai Holding, which trade press describes as the parent company of the Jumeirah luxury hotel brand.",
+  "source": {
+    "name": "Jumeirah: About Jumeirah (undated corporate page, read 30 September 2026)",
+    "date": "2026-09",
+    "url": "https://www.jumeirah.com/en/jumeirah-group/about-jumeirah",
+    "quote": "Jumeirah, a global leader in luxury hospitality and a member of Dubai Holding, operates an exceptional portfolio of 29 properties across 11 countries",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TOPHOTELNEWS: Dubai Holding Buys Jumeirah Mallorca",
+      "date": "2026-02-12",
+      "url": "https://tophotel.news/dubai-holding-buys-jumeirah-mallorca",
+      "quote": "Dubai Holding, parent company of the Jumeirah luxury hotel brand, has acquired the group's hotel in Mallorca",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
