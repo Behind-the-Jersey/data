@@ -1,0 +1,24 @@
+{
+  "id": "vittoria-yafa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vittoria-assicurazioni-spa",
+    "yafa-holding-spa",
+    "yafa-spa",
+    "carlo-acutis"
+  ],
+  "text": "Vittoria Assicurazioni S.p.A. is part of the Vittoria Assicurazioni Group and subject to the direction and coordination of its parent Yafa S.p.A. The shareholder chart ('Gli Azionisti') on the same corporate-data page shows 98.34% of Vittoria Assicurazioni S.p.A. held by Yafa Holding S.p.A., 80.43% of Yafa Holding S.p.A. held by Yafa S.p.A. and 99.99% of Yafa S.p.A. held by Carlo Acutis.",
+  "short": "Vittoria Assicurazioni is controlled by Carlo Acutis through Yafa S.p.A. and Yafa Holding S.p.A.",
+  "source": {
+    "name": "Vittoria Assicurazioni: Struttura e Dati societari (Wayback Machine capture of 13 June 2026)",
+    "date": "2026-06-13",
+    "url": "https://web.archive.org/web/20260613001911/https://www.vittoriaassicurazioni.com/chi-siamo/struttura-e-dati-societari/",
+    "quote": "Soggetta all’attività di direzione e coordinamento della Capogruppo Yafa S.p.A.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "vittoriaassicurazioni.com answers scripts with a maintenance page; read via the Wayback capture. The direction-and-coordination sentence is in the page text; the 98.34% / 80.43% / 99.99% stakes are legible in the 'Gli Azionisti' chart image published on the same page."
+  },
+  "reviewed": false
+}
