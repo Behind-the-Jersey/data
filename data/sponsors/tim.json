@@ -5,7 +5,7 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by the Italian state through Poste Italiane: Poste holds 66.6% of TIM, and is in turn ~65% held by the Ministry of the Economy and Finance and CDP. Nothing found: no record claim for Italy in this dataset.",
+  "verdict": "Owned by the Italian state through Poste Italiane, which holds 66.6% of TIM. Nothing found.",
   "claimIds": [
     "tim-poste-ownership"
   ],
@@ -13,5 +13,5 @@
     "Telecom Italia",
     "TIM Group"
   ],
-  "note": "Listed on Ducati's 'Partner & Sponsor' page for the Ducati Lenovo Team (page archived 12 Dec 2025). (Main Partner, tim.it). Rating note: an Italian state-controlled sponsor; state ownership alone, without a sourced record of serious abuses by that state, is not a rating per METHOD.md."
+  "note": "Main Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to tim.it, stands under 'Main Partners' with the line 'Telecommunications operator' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Poste Italiane holds 66.627% of TIM's ordinary shares and is the only holder above 3% (TIM, 24 Sep 2026); Poste Italiane is about 65% held by Italy's Ministry of the Economy and Finance and Cassa Depositi e Prestiti (tim-poste-ownership). State ownership alone is not a tier, and this data has no record of serious abuses for Italy. No human-rights finding against the company by a court, regulator, UN body or major NGO was found."
 }

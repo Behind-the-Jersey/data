@@ -12,29 +12,14 @@
       "sponsorId": "lenovo",
       "placement": "front",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Title Partner\"; the entry's linked logo goes to lenovo.com. Lenovo is the team's title partner (team name 'Ducati Lenovo Team' through its 2026 launch, per MotoGP.com's livery reveal article).. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "Ducati's partner page names Lenovo as Title Partner, above the Main Partners. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Title Partner Lenovo Lenovo is a US$70 billion revenue global technology powerhouse",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-        }
-      }
-    },
-    {
-      "sponsorId": "audi",
-      "placement": "partner",
-      "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Main Partner\"; the entry's linked logo goes to audi.com/en/audisport.html. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Automotive / Performance cars",
-        "checked": {
-          "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -42,11 +27,11 @@
       "sponsorId": "monster-energy",
       "placement": "partner",
       "source": {
-        "name": "SPEEDWEEK.com: New and existing partnerships for 2027 - the title sponsors of the MotoGP manufacturers",
+        "name": "SPEEDWEEK.com: New and existing partnerships for 2027: The title sponsors of the MotoGP manufacturers",
         "date": "2026-07-23",
         "url": "https://www.speedweek.com/en/a/motogp/new-and-existing-partnerships-for-2027-the-title-sponsors-of-the-motogp-manufacturers",
         "quote": "IT giant Lenovo remains on board as the main financial backer, as does Monster Energy",
-        "note": "SPEEDWEEK interview with Ducati Corse commercial director Mauro Grassilli; confirms Monster Energy continues in 2026 and 2027.",
+        "note": "SPEEDWEEK interview with Ducati Corse's Mauro Grassilli. On Ducati's partner page the Monster Energy logo stands first under \"Main Partners\" with the line \"Beverage company\" (Wayback Machine captures of 23 May and 18 Sep 2026).",
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
@@ -57,14 +42,29 @@
       "sponsorId": "shell",
       "placement": "partner",
       "source": {
-        "name": "Ducati (Asia Pacific newsroom): Ducati and Shell extend partnership as MotoGP enters new era of more sustainable fuels",
+        "name": "Ducati Asia Pacific: Ducati and Shell extend partnership as MotoGP enters new era of more sustainable fuels",
         "date": "2023-03-21",
         "url": "https://ducatiasiapacific.com/ducati-and-shell-extend-partnership-as-motogp-enters-new-era-of-more-sustainable-fuels",
         "quote": "Ducati and Shell today announce a multi-year extension of their Technical Partnership with the Ducati Corse factory racing teams, up to 2027.",
-        "note": "Main Partner on Ducati's partner page (shell.com link). The technical partnership is confirmed up to 2027, covering the 2026 season.",
+        "note": "The partnership runs to 2027, so it covers the 2026 season. On Ducati's partner page the Shell logo stands under \"Main Partners\" with the line \"Lubes and Fuel Technical Partner\" (Wayback Machine captures of 23 May and 18 Sep 2026).",
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "audi",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Main Partners\", the logo that links to audi.com/en/audisport.html carries the line \"Automotive / Performance cars\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Automotive / Performance cars",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -72,14 +72,14 @@
       "sponsorId": "tim",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Main Partner\"; the entry's linked logo goes to tim.it. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Main Partners\", the logo that links to tim.it carries the line \"Telecommunications operator\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Telecommunications operator",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -87,29 +87,14 @@
       "sponsorId": "akrapovic",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Sponsors\"; the entry's linked logo goes to akrapovic.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Sponsors\", the logo that links to akrapovic.com carries the line \"Exhaust systems\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Exhaust systems",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-        }
-      }
-    },
-    {
-      "sponsorId": "elica",
-      "placement": "partner",
-      "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Sponsors\"; the entry's linked logo goes to elica.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Hoods, extractor hobs and cooking appliances",
-        "checked": {
-          "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -117,14 +102,14 @@
       "sponsorId": "netapp",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Sponsors\"; the entry's linked logo goes to netapp.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Sponsors\", the logo that links to netapp.com carries the line \"Data Management Solutions\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Data Management Solutions",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -132,11 +117,11 @@
       "sponsorId": "riello-ups",
       "placement": "partner",
       "source": {
-        "name": "Riello UPS – Ducati: The power of continuity (Riello UPS official site)",
+        "name": "Riello UPS: Riello UPS - Ducati: The power of continuity",
         "date": "2026",
         "url": "https://www.riello-ups.com/pages/240-riello-ups-ducati-the-power-of-continuity",
         "quote": "It is there that Riello UPS has been alongside Ducati Corse for over twenty years.",
-        "note": "Riello UPS's own page documenting 20 years of partnership with Ducati Corse, leading into its 20th-anniversary book covering 2006–2026.",
+        "note": "Riello UPS's own page on its partnership with Ducati Corse. On Ducati's partner page the Riello UPS logo stands under \"Official Sponsors\" with the line \"Power Supply\" (Wayback Machine captures of 23 May and 18 Sep 2026).",
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
@@ -147,14 +132,14 @@
       "sponsorId": "unipolsai",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Sponsors\"; the entry's linked logo goes to unipolsai.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Sponsors\", the logo that links to unipolsai.com carries the line \"Insurance\". The quote joins this line to the one next to it on the page, because the line alone is too short to check. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Power Supply Insurance",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -162,14 +147,14 @@
       "sponsorId": "aruba",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to arubaracing.it. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to aruba.it carries the line \"Hosting, Domains, PEC, Digital Signatures, Data Center and Cloud\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Hosting, Domains, PEC, Digital Signatures, Data Center and Cloud",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -177,14 +162,14 @@
       "sponsorId": "autogrill",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to autogrill.it. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to autogrill.it carries the line \"Food and Beverage services for people on the move\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Food and Beverage services for people on the move",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -192,14 +177,29 @@
       "sponsorId": "bosch",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to bosch-pt.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to bosch-pt.co.uk/professional carries the line \"Professional power tools\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Professional power tools",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "carlo-barbera",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to carlobarbera.it carries the line \"Carlo Barbera\". The quote joins this line to the one next to it on the page, because the line alone is too short to check. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Professional power tools Carlo Barbera",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -207,14 +207,14 @@
       "sponsorId": "carrera-eyewear",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to the Carrera-brand section on ducati.com (carrera-ducati-collection). The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to carreraworld.com carries the line \"Sunglasses and optical frames since 1956\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Sunglasses and optical frames since 1956",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -222,29 +222,14 @@
       "sponsorId": "contadi-castaldi",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to contadicastaldi.it. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to contadicastaldi.it carries the line \"Franciacorta wines\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Franciacorta wines",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-        }
-      }
-    },
-    {
-      "sponsorId": "daiko",
-      "placement": "partner",
-      "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to daikowelding.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Special alloys welding products",
-        "checked": {
-          "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -252,14 +237,14 @@
       "sponsorId": "diadora",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to diadora.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to diadora.com carries the line \"Sportswear & Sport Performance\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Sportswear & Sport Performance",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -267,14 +252,44 @@
       "sponsorId": "eataly",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to eataly.eu. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to eataly.co.uk carries the line \"Italian food retail and catering in the world\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Italian food retail and catering in the world",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "estrella-galicia",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to estrellagalicia.com carries the line \"Independent Brewers\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Independent Brewers",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "eternoo",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to eternoo.it carries the line \"Building Materials\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Building Materials",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -282,14 +297,29 @@
       "sponsorId": "flex-box",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to flex-box.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to flex-box.com carries the line \"Shipping container development and manufacturing\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Shipping container development and manufacturing",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "frecciarossa",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to trenitalia.com carries the line \"High speed travel\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "High speed travel",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -297,44 +327,74 @@
       "sponsorId": "givi",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to givimoto.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to givimoto.com carries the line \"Motorbike accessories\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Motorbike accessories",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
     {
-      "sponsorId": "melinda",
+      "sponsorId": "isokinetic",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to melinda.it. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Fresh Fruit & Processed Fruit",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to isokinetic.com carries the line \"Sports Medicine and Orthopedic Rehabilitation\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Sports Medicine and Orthopedic Rehabilitation",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
     {
-      "sponsorId": "amaro-montenegro",
+      "sponsorId": "ita-airways",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to amaromontenegro.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Iconic Italian Liqueur",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to ita-airways.com carries the line \"Flag carrier airline\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Flag carrier airline",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "limolane",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to limolane.com carries the line \"Digital platform redefining the premium luxury Chauffeur Drive Service\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Digital platform redefining the premium luxury Chauffeur Drive Service",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "madonna-di-campiglio",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to campigliodolomiti.it carries the line \"Madonna di Campiglio\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Madonna di Campiglio",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -342,14 +402,29 @@
       "sponsorId": "motorola-mobility",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to motorola.com (Motorola Mobility's phone business, Lenovo-owned). The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to motorola.com carries the line \"Mobile phones\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Mobile phones",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "new-era",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to neweracap.co.uk carries the line \"Caps and Sportswear\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Caps and Sportswear",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -357,14 +432,14 @@
       "sponsorId": "parmacotto",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to parmacottogroup.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to parmacottogroup.com carries the line \"Producer of cured meats\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Producer of cured meats",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -372,14 +447,14 @@
       "sponsorId": "philip-morris-international",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to no link on the page; named in the text of the Official Partners list. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to pmi.com/markets/italy carries the line \"Phillip Morris International\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Phillip Morris International",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -387,29 +462,44 @@
       "sponsorId": "randstad",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to randstad.it. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to randstad.it carries the line \"HR Services\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "HR Services",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
     {
-      "sponsorId": "vmoto",
+      "sponsorId": "sap",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Official Partners\"; the entry's linked logo goes to vmotosoco.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Urban Electric Mobility",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to sap.com/italy carries the line \"Enterprise application software\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Enterprise application software",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "silence",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to silence.eco carries the line \"Electric Motorcycles\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Electric Motorcycles",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -417,44 +507,14 @@
       "sponsorId": "beta-tools",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to beta-tools.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Tools Engineering-automotive components",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to beta-tools.com carries the line \"Tools\". The quote joins this line to the one next to it on the page, because the line alone is too short to check. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Technical partners Tools",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-        }
-      }
-    },
-    {
-      "sponsorId": "brembo",
-      "placement": "partner",
-      "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to brembo.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Engineering-automotive components",
-        "checked": {
-          "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-        }
-      }
-    },
-    {
-      "sponsorId": "cobo",
-      "placement": "partner",
-      "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to cobogroup.net. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
-        "quote": "Dashboards",
-        "checked": {
-          "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -462,14 +522,14 @@
       "sponsorId": "did",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to didchain.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to didchain.com carries the line \"Chains\". The quote joins this line to the one next to it on the page, because the line alone is too short to check. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Chains Motorcycle throttle controls",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -477,14 +537,14 @@
       "sponsorId": "domino-group",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to domino-group.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to domino-group.com carries the line \"Motorcycle throttle controls\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Motorcycle throttle controls",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -492,14 +552,14 @@
       "sponsorId": "mahle",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to mahle.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to mahle.com carries the line \"Engine components\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Engine components",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -507,14 +567,14 @@
       "sponsorId": "marelli",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to marelli.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to magnetimarelli.com carries the line \"Data acquisition systems\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Data acquisition systems",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -522,14 +582,14 @@
       "sponsorId": "ngk",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to ngksparkplugs.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to ngk.de carries the line \"Spark Plugs\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Spark Plugs",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -537,14 +597,14 @@
       "sponsorId": "reflexallen",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to reflexallen.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to reflexallen.com carries the line \"Carbon structural components\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Carbon structural components",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -552,14 +612,59 @@
       "sponsorId": "siemens",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to siemens.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to siemens.com carries the line \"Engineering project software\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Engineering project software",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "skf",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to skf.com carries the line \"Bearings and mechanical engineering solutions\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Bearings and mechanical engineering solutions",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "streparava",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to streparava.com carries the line \"Powertrain and chassis components\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Powertrain and chassis components",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tecnoelettra",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to tecnoelettra.net carries the line \"Development of technical projects\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Development of technical projects",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -567,14 +672,14 @@
       "sponsorId": "thermal-technology",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to thermaltechrace.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to thermaltechrace.com carries the line \"Tyrewarmers\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Tyrewarmers",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -582,14 +687,14 @@
       "sponsorId": "var-group",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to vargroup.it. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to linktr.ee/vargroup carries the line \"Digital Soul: Business digital solutions\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Digital Soul: Business digital solutions",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     },
@@ -597,19 +702,34 @@
       "sponsorId": "wd-40",
       "placement": "partner",
       "source": {
-        "name": "Ducati: Ducati Lenovo Team – Partner & Sponsor (page archived by the Wayback Machine, 12 Dec 2025)",
-        "date": "2025-12-12",
-        "url": "http://web.archive.org/web/20251212212424/https://www.ducati.com/us/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
-        "note": "Ducati's partners page lists this under \"Technical partners\"; the entry's linked logo goes to wd40.com. The live ducati.com page blocks scripted access, so the latest full archived copy (12 Dec 2025) is cited.",
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to wd40.com carries the line \"Lubricants, Degreasers and Cleaners\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
         "quote": "Lubricants, Degreasers and Cleaners",
         "checked": {
           "on": "2026-09-30",
-          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "wrs",
+      "placement": "partner",
+      "source": {
+        "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+        "date": "2026-05-23",
+        "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+        "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to wrs.it carries the line \"Motorcycle Windscreens and Accessories\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+        "quote": "Motorcycle Windscreens and Accessories",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
         }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "2026 Ducati Lenovo Team (Marc Marquez, Francesco Bagnaia; Desmosedici GP, Rosso Centenario livery). Lenovo is title partner (front). From Ducati's own partner page (archived 12 Dec 2025): Audi, Monster Energy, Shell and TIM are Main Partners; Akrapovic, Elica, NetApp, Riello UPS and UnipolSai are Official Sponsors; Aruba, Autogrill, Bosch, Carrera, Contadi Castaldi, Daiko, Diadora, Eataly, Flex-Box, Givi, Melinda, Amaro Montenegro, Motorola, Parmacotto, Philip Morris International, Randstad and Vmoto are Official Partners; Beta, Brembo, Cobo, DID, Domino, Mahle, Marelli, NGK, Reflexallen, Siemens, Thermal Technology, Var Group and WD-40 are technical partners. Four slots on the page are presented without a company name (two Official Partners, two technical partners). Michelin is MotoGP's league-wide tyre supplier.",
+  "summary": "2026 Ducati Lenovo Team (Marc Marquez, Francesco Bagnaia). Lenovo is the title partner (front). Ducati's own partner page, as archived on 23 May and 18 Sep 2026, lists 47 more partners, all recorded here: Monster Energy, Shell, Audi and TIM as Main Partners; Akrapovič, NetApp, Riello UPS and Unipol as Official Sponsors; Aruba, Autogrill, Bosch, Carlo Barbera, Carrera, Contadi Castaldi, Diadora, Eataly, Estrella Galicia, Eternoo, Flex-Box, Frecciarossa, Givi, Isokinetic, ITA Airways, Limolane, Madonna di Campiglio, Motorola, New Era, Parmacotto, Philip Morris International, Randstad, SAP and Silence as Official Partners; and Beta, DID, Domino, Mahle, Marelli, NGK, Reflexallen, Siemens, SKF, Streparava, Tecnoelettra, Thermal Technology, Var Group, WD-40 and WRS as technical partners. The page shows most partners as a logo with a link, not by name in its text. Elica, Daiko, Melinda, Amaro Montenegro, Vmoto, Brembo and Cobo, on Ducati's US partner page in December 2025, are not on the 2026 list.",
   "change": null
 }

@@ -4,10 +4,10 @@
   "ownerIds": [
     "avolta-ag"
   ],
-  "text": "In 2023 Dufry acquired Autogrill: by 1 July 2023 Dufry held 96.3858% of Autogrill's share capital and could proceed with the squeeze-out and the delisting of Autogrill. The Dufry group now operates as Avolta AG, which still runs the Autogrill brand in Italy.",
-  "short": "Autogrill was fully acquired and delisted by Dufry (now Avolta) in 2023.",
+  "text": "In 2023 Dufry acquired Autogrill: on 1 July 2023 Dufry said it would hold 96.3858% of Autogrill's share capital and could start the squeeze-out, which would leave it holding all of Autogrill's shares, and delist Autogrill. Dufry AG has since been renamed Avolta AG, and Autogrill is one of Avolta's dining brands.",
+  "short": "Autogrill was acquired and delisted by Dufry, now Avolta AG, in 2023.",
   "source": {
-    "name": "Avolta: Combination between Dufry and Autogrill - threshold of 95% crossed (press release)",
+    "name": "Avolta: Combination between Dufry and Autogrill – Threshold of 95% of Autogrill’s share capital for the purposes of the squeeze-out has been crossed.",
     "date": "2023-07-01",
     "url": "https://www.avoltaworld.com/en/press_release/2023-07-01/combination-between-dufry-and-autogrill-threshold-95-autogrills-share",
     "quote": "which will result in Dufry holding all of Autogrill's shares, and delisting Autogrill",
@@ -19,13 +19,23 @@
   "reviewed": false,
   "additionalSources": [
     {
-      "name": "Club Avolta: our partners - Autogrill",
+      "name": "Club Avolta: Autogrill",
       "date": "2026",
       "url": "https://www.clubavolta.com/our-partners/dining/autogrill",
       "quote": "Autogrill transforms your travel stops into memorable experiences with dozens of unique restaurants and bars in airports, highways, stations and city centers",
       "checked": {
         "on": "2026-09-30",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Avolta: Corporate Governance Report 2025",
+      "date": "2026-03-11",
+      "url": "https://www.avoltaworld.com/system/files/2026-03/Corporate%20Governance.pdf",
+      "quote": "Avolta AG (formerly named Dufry AG) and Autogrill S.p.A. (“Autogrill”) combined their businesses in 2023.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
       }
     }
   ]

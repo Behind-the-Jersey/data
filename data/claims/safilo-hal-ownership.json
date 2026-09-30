@@ -4,8 +4,8 @@
   "ownerIds": [
     "safilo-group"
   ],
-  "text": "Safilo Group S.p.A. is listed on the Milan stock exchange; Multibrands Italy B.V., a subsidiary of HAL Holding N.V., is its reference shareholder, with 49.8% of the share capital.",
-  "short": "Safilo is listed in Milan; HAL Holding's Multibrands Italy holds 49.8%.",
+  "text": "Carrera is one of Safilo Group's home brands. Multibrands Italy B.V., a subsidiary of HAL Holding N.V., is the reference shareholder of Safilo Group S.p.A., with 49.8% of the share capital since January 2019.",
+  "short": "Carrera is a Safilo brand; HAL Holding's Multibrands Italy holds 49.8% of Safilo.",
   "source": {
     "name": "Safilo Group: Shareholding",
     "date": "2025-12-31",
@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Safilo Group: Press Release - Publication of the new Articles of Association",
+      "date": "2026-08-06",
+      "url": "https://assets.ctfassets.net/cmstik7jzbvm/2I7rPXFOxpoOXF6jCLiwIm/373022e8fab74d350212b0e3cef5cb3c/20260806_Publication_of_the_new_Articles_of_Association.pdf",
+      "note": "Linked from the press releases page of safilogroup.com.",
+      "quote": "Safilo Group’s portfolio encompasses home brands - Carrera, Polaroid, Smith, SPY+, Serengeti, Blenders, Privé Revaux and Seventh Street.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
 }
