@@ -1,0 +1,21 @@
+{
+  "id": "posco-posco-holdings",
+  "kind": "ownership",
+  "ownerIds": [
+    "posco-co",
+    "posco-holdings"
+  ],
+  "text": "The steel business company created in POSCO's 2022 group split runs steel production and sales as a non-listed company that is a 100% subsidiary of POSCO Holdings, and keeps the name POSCO.",
+  "short": "POSCO (the steel company) is a 100% subsidiary of POSCO Holdings.",
+  "source": {
+    "name": "POSCO Group Newsroom: POSCO Confirms Conversion to Holding Company Structure",
+    "date": "2022-02-11",
+    "url": "https://newsroom.posco.com/en/posco-confirms-conversion-to-holding-company-structure/",
+    "quote": "a non-listed company that is a 100% subsidiary of the holding company, and retain the company name POSCO",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

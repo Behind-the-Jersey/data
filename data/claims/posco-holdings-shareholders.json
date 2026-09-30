@@ -1,0 +1,20 @@
+{
+  "id": "posco-holdings-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "posco-holdings"
+  ],
+  "text": "South Korea's National Pension Service (국민연금) held 6,576,661 shares of POSCO Holdings, an 8.30% stake, as of 18 June 2026, per its disclosure reported by Newsis.",
+  "short": "National Pension Service held 8.30% of POSCO Holdings (18 June 2026).",
+  "source": {
+    "name": "뉴시스 (Newsis): 국민연금, 포스코홀딩스 '단순투자→일반투자' 전환, 이유는? [NPS switches POSCO Holdings holding to 'general investment', why?]",
+    "date": "2026-06-24",
+    "url": "https://mobile.newsis.com/view/NISX20260624_0003681586",
+    "quote": "국민연금은 지난 18일 기준 포스코홀딩스 주식 657만6661주(지분율 8.30%)에 대한 보유 목적을 '일반투자'로 변경했다고 공시했다",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
