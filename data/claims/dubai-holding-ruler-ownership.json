@@ -1,0 +1,32 @@
+{
+  "id": "dubai-holding-ruler-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dubai-holding",
+    "government-of-dubai"
+  ],
+  "text": "Dubai Holding is a global investment holding company owned by Dubai's ruler, Sheikh Mohammed bin Rashid Al Maktoum.",
+  "source": {
+    "name": "AGBI (Arabian Gulf Business Insight): Dubai Holding becomes Emaar's largest stakeholder",
+    "date": "2026-05-12",
+    "url": "https://www.agbi.com/real-estate/2026/05/dubai-holding-becomes-emaars-largest-stakeholder",
+    "quote": "Dubai Holding is a global investment holding company owned by Dubai ruler Sheikh Mohammed bin Rashid Al Maktoum.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Business Times (Bloomberg): Dubai ruler tightens grip on Emaar in US$6.5 billion reshuffle",
+      "date": "2026-05-12",
+      "url": "https://www.businesstimes.com.sg/property/dubai-ruler-tightens-grip-emaar-us6-5-billion-reshuffle",
+      "quote": "Owned by the emirate's ruler, Sheikh Mohammed bin Rashid Al Maktoum, the conglomerate has investments in more than 30 countries",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

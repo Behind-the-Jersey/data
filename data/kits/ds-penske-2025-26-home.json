@@ -12,13 +12,183 @@
       "sponsorId": "ds-automobiles",
       "placement": "front",
       "source": {
-        "name": "FIA Formula E - DS Penske team page (DS in team name)",
-        "date": "2026-09-25",
-        "url": "https://www.fiaformulae.com/en/teams/ds-penske"
+        "name": "ABB FIA Formula E World Championship: DS PENSKE (team page)",
+        "date": "2026",
+        "url": "https://www.fiaformulae.com/en/teams/ds-penske",
+        "quote": "DS Automobiles, one of Formula E’s most successful marques, began a new chapter as a partner of PENSKE AUTOSPORT, with the newly christened DS PENSKE",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "totalenergies",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "TotalEnergies is a global multi-energy company that produces and markets energies",
+        "note": "Partner profile in the Partners section of the team site.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "penske-media-corporation",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "Penske Media Corporation (PMC) is a leading global media and information services company whose award-winning content attracts a passionate audience",
+        "note": "Partner profile in the Partners section of the team site; PMC lists the DS Penske team among its own brands.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mouser-electronics",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "Mouser Electronics, a Berkshire Hathaway company, is an authorized semiconductor and electronic component distributor",
+        "note": "Partner profile in the Partners section of the team site.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "molex",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "Molex Inc. is a manufacturer of electronic, electrical and fiber optic interconnection systems",
+        "note": "Partner profile in the Partners section of the team site.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "kyocera-avx",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "KYOCERA AVX Corporation is an American technology leader in the manufacture of passive electronic components",
+        "note": "Partner profile in the Partners section of the team site. KYOCERA AVX's own Formula E page (kyocera-avx.com/formula-e) confirms the DS Penske partnership with the 2025/26 drivers.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tti-inc",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "TTI, Inc., a Berkshire Hathaway company based in Fort Worth, Texas, USA, is an authorized, specialty distributor",
+        "note": "Partner profile in the Partners section of the team site.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "syensqo",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "Syensqo is a science company developing groundbreaking solutions",
+        "note": "Partner profile in the Partners section of the team site; Syensqo also lists the partnership on its own site (syensqo.com, 'Partnership in Formula E').",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "yahoo",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "Our media, technology and business platforms connect hundreds of millions of people around the world",
+        "note": "'YAHOO!' partner profile in the Partners section of the team site.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "neom",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section ('NEOM-SRMG' partner block)",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "Since Season 4, the continued partnership with our racing team underscores NEOM’s commitment to innovation, teamwork and sustainability.",
+        "note": "Team site presents a joint 'NEOM-SRMG' partner block; the NEOM paragraph is quoted. Season 12 press kit (dspenske.com, Dec 2025) names the partner as SRMG.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "srmg",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section ('NEOM-SRMG' partner block)",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "SRMG aims to be at the forefront of a new media landscape.",
+        "note": "Team site presents a joint 'NEOM-SRMG' partner block. Season 12 global press kit (dspenske.com, 'S12-GLOBAL-PRESS-KIT-PARTNERS-ONLY.pdf', Dec 2025) lists SRMG as the partner.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "lockton",
+      "placement": "partner",
+      "source": {
+        "name": "DS PENSKE: team website, Partners section",
+        "date": "2026",
+        "url": "https://dspenske.com/",
+        "quote": "Lockton is the world’s largest privately held insurance brokerage firm",
+        "note": "Partner profile in the Partners section of the team site.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Stellantis marque DS Automobiles is the title partner (team name). Ten further partners per the club's own Season 12 partner roster on dspenske.com (cross-checked against its Season 12 partners press kit, Dec 2025): TotalEnergies, PMC, Mouser, Molex, KYOCERA AVX, TTI, Syensqo, Yahoo, NEOM-SRMG, Lockton.",
   "change": null
 }

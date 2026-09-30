@@ -1,0 +1,20 @@
+{
+  "id": "ftmo-oanda-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ftmo"
+  ],
+  "text": "FTMO owns OANDA Global Corporation: it completed the acquisition of OANDA from CVC Asia Fund IV on 1 December 2025, after sign-off from five regulators, and plans to keep the OANDA group as a standalone business.",
+  "short": "FTMO bought OANDA from CVC and closed the deal on 1 December 2025.",
+  "source": {
+    "name": "OANDA press release – 'FTMO Building Global Trading Powerhouse – Completes Acquisition of OANDA from CVC'",
+    "date": "2025-12-02",
+    "url": "https://www.oanda.com/group/press-release/oanda-acquired-by-ftmo",
+    "quote": "FTMO, the global leader in modern prop trading, has completed the acquisition of OANDA Global Corporation",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

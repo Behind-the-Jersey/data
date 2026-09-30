@@ -21,9 +21,41 @@
           "by": "claude-review-282"
         }
       }
+    },
+    {
+      "sponsorId": "deel",
+      "placement": "sleeve",
+      "source": {
+        "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+        "date": "2026-05-14",
+        "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM",
+        "note": "Club-wide sleeve partnership. Arsenal Women wear the same home shirt: the official women's 26/27 home shirt on Arsenal Direct (product WKB9946) shows the Deel logo on the left sleeve, checked visually 2026-09-30.",
+        "quote": "Deel's logo will appear on the left sleeve of our home, away and third shirts from the start of next season",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Arsenal FC – 'The inspiration and features behind our 2026/27 home kit'",
+        "date": "2026-05-15",
+        "url": "https://www.arsenal.com/news/the-inspiration-and-features-behind-our-202627-home-kit-a84jJ7T0sFDo",
+        "note": "Kit maker. The club's 2026/27 home-kit launch covers both teams; Alessia Russo of Arsenal Women features in the launch.",
+        "quote": "adidas and Arsenal have revealed our new home kit for the 2026/27 season, celebrating 20 years of Emirates Stadium as our home",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Dubai's government pays for the front of the Arsenal Women shirt through Emirates.",
-  "change": null
+  "sponsorsComplete": true,
+  "summary": "Dubai's government pays for the front of the Arsenal Women shirt through Emirates, Deel takes the sleeve, and adidas makes the kit.",
+  "change": null,
+  "headline": "The shirt is {level}: the front sponsor, Emirates, is owned by the Government of Dubai.",
+  "shortLine": "Emirates on the front, Deel on the sleeve"
 }

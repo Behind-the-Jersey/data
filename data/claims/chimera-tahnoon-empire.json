@@ -1,0 +1,20 @@
+{
+  "id": "chimera-tahnoon-empire",
+  "kind": "ownership",
+  "ownerIds": [
+    "chimera-investments"
+  ],
+  "text": "Chimera Investment LLC is part of a business empire overseen by Abu Dhabi's Sheikh Tahnoon bin Zayed Al Nahyan (Bloomberg, September 2023).",
+  "short": "Chimera is part of a business empire overseen by Sheikh Tahnoon bin Zayed",
+  "source": {
+    "name": "Bloomberg Law: Abu Dhabi Royal’s Firm Sets Up $50 Billion Investing Force (2)",
+    "date": "2023-09-15",
+    "url": "https://news.bloomberglaw.com/banking-law/abu-dhabi-royals-firm-sets-up-50-billion-investing-force-1",
+    "quote": "Chimera Investment LLC, part of a business empire overseen by Abu Dhabi's Sheikh Tahnoon bin Zayed Al Nahyan, set up a $50 billion fund",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

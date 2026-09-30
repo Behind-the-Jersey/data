@@ -7,8 +7,24 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "siegmund",
+      "placement": "front",
+      "source": {
+        "name": "EuroLeague: Bayern unveils its new jersey for the 2026-27 season",
+        "date": "2026-06-12",
+        "url": "https://www.euroleaguebasketball.net/en/euroleague/news/bayern-unveils-its-new-jersey-for-the-2026-27-season/",
+        "quote": "the club crest sitting cleanly above the Siegmund sponsor logo on the chest",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "Schnitzel"
+        },
+        "note": "Opened in a browser (the site blocks scripts). Siegmund's own sponsoring page (https://www.siegmund.com/en-us/Company-Profile/Sports-sponsoring/FC-Bayern-Basketball) says it is the main sponsor with its logo on the chest since 2022/23."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Siegmund (Bernd Siegmund GmbH, a family-run welding-table maker) is the main sponsor of FC Bayern's basketball team and has been its jersey sponsor, with the logo on the chest, since 2022/23 (Siegmund's sponsoring page). Not marked complete: no cited source shows the 2026/27 home kit itself, so the back and the shorts aren't recorded yet.",
   "change": null
 }

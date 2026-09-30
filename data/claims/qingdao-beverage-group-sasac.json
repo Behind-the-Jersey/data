@@ -1,0 +1,35 @@
+{
+  "id": "qingdao-beverage-group-sasac",
+  "kind": "ownership",
+  "ownerIds": [
+    "qingdao-beverage-group",
+    "qingdao-municipal-government"
+  ],
+  "text": "Qingdao Beverage Group Co., Ltd. is wholly owned by the Qingdao Municipal State-owned Assets Supervision and Administration Commission (Qingdao SASAC); the same applies to Tsingtao Brewery Group, under which the beverage group was being merged in 2025.",
+  "short": "Qingdao Beverage Group is wholly owned by the Qingdao municipal SASAC.",
+  "source": {
+    "name": "山东商报·速豹新闻网 (Shandong Business Journal, Subao News): 青岛饮料集团将被划归青岛啤酒集团",
+    "date": "2025-03-27",
+    "url": "https://sd.subaoxw.com/zj/2025/0327/203840.html",
+    "quote": "青岛饮料集团与青岛啤酒集团均为青岛市国资委全资控股企业",
+    "note": "Translation: 'Both Qingdao Beverage Group and Tsingtao Brewery Group are enterprises wholly owned and controlled by the Qingdao Municipal SASAC.' The article also reports Qingdao SASAC confirmed the two groups' strategic merger (gratis transfer of the beverage group into the brewery group).",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Sohu (九五体育sport95): 三大行业，成为中超球队胸前广告的赞助商 (The three industries sponsoring CSL clubs' shirt fronts)",
+      "date": "2026-03-18",
+      "url": "https://www.sohu.com/a/997759959_120299310",
+      "quote": "崂山可乐由青岛饮料集团有限公司运营，而该集团是青岛市属国有企业",
+      "note": "Translation: 'Laoshan Cola is operated by Qingdao Beverage Group Co., Ltd., and that group is a Qingdao municipal state-owned enterprise.' Written in March 2026, after the 2025 merger announcement.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

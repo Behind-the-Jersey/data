@@ -1,0 +1,36 @@
+{
+  "id": "tsingtao-brewery-group-sasac",
+  "kind": "ownership",
+  "ownerIds": [
+    "tsingtao-brewery",
+    "tsingtao-brewery-group",
+    "qingdao-municipal-government"
+  ],
+  "text": "Tsingtao Brewery Co., Ltd.'s controlling shareholder is Tsingtao Brewery Group Co., Ltd. (青啤集团), which holds 32.51% of its shares, and the Qingdao Municipal State-owned Assets Supervision and Administration Commission is the group's sole shareholder and actual controller; the company states its ultimate controller is the Qingdao Municipal SASAC.",
+  "short": "Tsingtao Brewery is controlled by the Qingdao municipal SASAC through Tsingtao Brewery Group (32.51%).",
+  "source": {
+    "name": "Tsingtao Brewery Co., Ltd.: 2025 Annual Report (cninfo filing, SSE: 600600)",
+    "date": "2026-03-27",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-03-27/1225036286.PDF",
+    "quote": "青岛市国资委为青啤集团的唯一股东和实际控制人。",
+    "note": "Translation: 'The Qingdao Municipal SASAC is the sole shareholder and actual controller of Tsingtao Brewery Group.' The report defines 青啤集团 as 青岛啤酒集团有限公司 (Tsingtao Brewery Group Co., Ltd.), names that group in its controlling-shareholder section, and its top-shareholder table gives the group 443,467,655 shares (32.51%, state-owned legal person). Quote checked in the full PDF with pypdf.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Tsingtao Brewery Co., Ltd.: 2025 Semi-annual Report (cninfo filing, SSE: 600600)",
+      "date": "2025-08-27",
+      "url": "http://static.cninfo.com.cn/finalpage/2025-08-27/1224581043.PDF",
+      "quote": "本公司最终控制方系青岛市人民政府国有资产监督管理委员会，主要经营地在青岛。",
+      "note": "Translation: 'The Company's ultimate controller is the Qingdao Municipal People's Government State-owned Assets Supervision and Administration Commission, based in Qingdao.' Same note lists the parent company Tsingtao Brewery Group Co., Ltd. with a 32.51% holding and 32.51% of voting rights. Quote checked in the PDF with pypdf.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
