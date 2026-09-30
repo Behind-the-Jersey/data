@@ -1,0 +1,19 @@
+{
+  "id": "hyundai-motor-securities",
+  "name": "Hyundai Motor Securities",
+  "ownerId": "hyundai-motor-securities",
+  "ownership": "part-owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "hyundai-motor-securities-largest-shareholder",
+    "hyundai-owner-record"
+  ],
+  "aliases": [
+    "현대차증권",
+    "HMS",
+    "Hyundai Securities"
+  ],
+  "note": "New Jeonbuk Hyundai uniform partner for 2026 (club announcement, 2026-02-09). Left unrated for a maintainer, with the other Hyundai Motor Group marks on this shirt: the owner is sourced (hyundai-motor-securities-largest-shareholder: Hyundai Motor and its related parties hold 39.94%, the largest shareholder), and the state link doesn't count (South Korea's National Pension Service holds about 7.8% of Hyundai Motor, hyundai-owner-record, and South Korea has no record in this data), but the company test on Hyundai Motor isn't settled. A US Department of Labor Wage and Hour Division investigation found that a 13-year-old worked 50 to 60 hours a week on an assembly line at SMART Alabama, a Hyundai subsidiary, in 2021-22; on 30 May 2024 the department sued Hyundai Motor Manufacturing Alabama, SMART Alabama and a staffing firm in the US District Court for the Middle District of Alabama (AP in Alabama Daily News, 2024-05-31, https://aldailynews.com/us-labor-department-sues-hyundai-suppliers-over-alleged-child-employment/; CBS News, 2024-05-30, https://www.cbsnews.com/news/hyundai-alabama-child-labor-act-labor-deparment/). Korea Daily reported on 2025-11-14 that the court had found Hyundai Motor Manufacturing Alabama 'could be held liable as a joint employer' (https://en.koreadaily.com/hyundai-kia-labor-lawsuit/); no final judgment was found. If a maintainer counts this as a human-rights finding against Hyundai Motor, it reaches this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if not, this sponsor is `none`, as `hyundai` is on main. No record claim is written yet."
+}
