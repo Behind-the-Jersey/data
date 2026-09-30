@@ -1,0 +1,32 @@
+{
+  "id": "innovasport-acquired-marathon-sports",
+  "kind": "ownership",
+  "ownerIds": [
+    "innovasport"
+  ],
+  "text": "Marathon Sports is owned by Innovasport: the Monterrey-based sportswear retailer announced the purchase of the Ecuadorian Marathon chain in April 2025, price undisclosed. Innovasport is a private family company chaired by Francisco Martín Bringas, operated by his sons Francisco and Juan Carlos Martín, and not listed on the stock exchange.",
+  "short": "Innovasport announced it had bought Marathon Sports (Ecuador).",
+  "source": {
+    "name": "El Financiero: Adquiere Innovasport a ecuatoriana Marathon y rompe fronteras",
+    "date": "2025-04-14",
+    "url": "https://www.elfinanciero.com.mx/monterrey/2025/04/14/adquiere-innovasport-a-ecuatoriana-marathon-y-rompe-fronteras/",
+    "quote": "Innovasport —la tienda de ropa deportiva originaria de Monterrey— anunció la compra de Marathon, un negocio similar con sede en Ecuador y presencia en Sudamérica, por una cifra no revelada.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Vistazo: ¿Quién es Innovasport, la compañía mexicana que compró Marathon Sports?",
+      "date": "2025-05-02",
+      "url": "https://www.vistazo.com/actualidad/nacional/2025-05-02-innovasport-mexicana-compro-empresa-marathon-sports-ecuador-YK9268331",
+      "quote": "Al anunciar la adquisición de Marathon Sports, la cadena ecuatoriana de ropa deportiva fundada en 1981 por Rodrigo Ribadeneira, la compañía mexicana Innovasport rompe las fronteras de su país",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
+}
