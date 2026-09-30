@@ -1,0 +1,35 @@
+{
+  "id": "trenitalia-italian-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "trenitalia",
+    "ferrovie-dello-stato-italiane",
+    "italian-ministry-of-economy-finance"
+  ],
+  "text": "Trenitalia S.p.A. describes itself as a company of the FS Italiane Group. The FS Group's 2024 Annual Report states that the parent, Ferrovie dello Stato Italiane S.p.A., is wholly owned by the Italian State through the sole shareholder, the Ministry of Economy and Finance (MEF).",
+  "short": "Trenitalia (FS Italiane Group) is wholly owned by the Italian state via the Ministry of Economy and Finance.",
+  "source": {
+    "name": "Trenitalia: Chi siamo (Who we are)",
+    "date": "2026",
+    "url": "https://www.trenitalia.com/it/chi-siamo.html",
+    "quote": "Trenitalia, società del Gruppo FS Italiane, offre servizi di trasporto per soddisfare le esigenze di mobilità in Italia e in Europa",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Ferrovie dello Stato Italiane Group: Annual Report 2024 (The Group)",
+      "date": "2025",
+      "url": "https://www.fsitaliane.it/content/dam/fsitaliane/en/Documents/investor-relations/annual_report_2024_eng.pdf",
+      "quote": "FS SpA is wholly owned by the State through the sole shareholder, the “MEF”, which exercises its ownership powers jointly with the Ministry of Infrastructure and Transport",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Same passage (printed page 50): the MEF exercises its ownership powers jointly with the Ministry of Infrastructure and Transport."
+    }
+  ],
+  "reviewed": false
+}
