@@ -1,0 +1,36 @@
+{
+  "id": "bank-of-shanghai-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "bank-of-shanghai",
+    "shanghai-alliance-investment",
+    "government-of-china"
+  ],
+  "text": "Bank of Shanghai states in its 2025 annual report that it has no controlling shareholder and no actual controller. Its largest shareholder is Shanghai Alliance Investment Co., Ltd., a 'state-owned legal person' (国有法人) with 2,092,800,328 shares (14.73%), rising to 14.98% with affiliates and concert parties. Alliance Investment's controlling shareholder and actual controller is the Shanghai Municipality's State-owned Assets Supervision and Administration Commission (Shanghai SASAC), and it nominated two of the bank's directors (Ye Jun and Ying Xiaoming).",
+  "short": "Shanghai SASAC-controlled Alliance Investment is Bank of Shanghai's largest shareholder with 14.73%; the bank reports no controlling shareholder.",
+  "source": {
+    "name": "Bank of Shanghai Co., Ltd. — 2025 Annual Report (cninfo filing, Chinese), top-10 shareholders table and 'shareholders holding 5%+' notes",
+    "date": "2026-04-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225173739.PDF",
+    "quote": "上海联和投资有限公司 7,700,000 2,092,800,328 14.73% - - 国有法人 人民币普通股",
+    "note": "Top-10 ordinary-shareholder table (report period end = 31 December 2025). The same section states '本公司无控股股东和实际控制人' (the bank has no controlling shareholder and no actual controller), that Shanghai Alliance Investment and its affiliates/concert parties together hold 14.98%, that '上海联和投资有限公司的控股股东及实际控制人为上海市国有资产监督管理委员会' (Alliance Investment's controlling shareholder and actual controller is the Shanghai SASAC), and that Alliance nominated Ye Jun and Ying Xiaoming as bank directors. Second with 8.54% is Shanghai International Port (Group) Co., Ltd.; the report names Shanghai SASAC as its actual controller too.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bank of Shanghai Co., Ltd. — 2026 Half-year Report abstract (cninfo filing, Chinese), top-10 shareholders table",
+      "date": "2026-08-28",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520626.PDF",
+      "quote": "上海联和投资有限公司 - 2,092,800,328 14.73% - - 国有法人 人民币普通股",
+      "note": "Top-10 ordinary-shareholder table as at 30 June 2026: Alliance Investment unchanged at 2,092,800,328 shares, 14.73%, 'state-owned legal person'; Shanghai International Port (Group) second with 1,213,781,943 shares, 8.54%, also 'state-owned legal person'.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -6,12 +6,24 @@
   "placement": "front",
   "from": "2026-27",
   "to": null,
-  "value": null,
+  "value": {
+    "amount": 3,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 4
+  },
   "source": {
-    "name": "London City Lionesses, official announcement",
+    "name": "City AM: Nike becomes London City Lionesses sponsor as well as kit partner in world record deal",
     "date": "2026-09-03",
-    "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
-    "note": "Multi-year front-of-shirt partnership; no value disclosed. Owner Michele Kang separately called it worth more than some Premier League shirt deals."
+    "url": "https://www.cityam.com/nike-becomes-london-city-lionesses-sponsor-as-well-as-kit-partner-for-new-wsl-season",
+    "note": "Reported only as 'over £3m'; City AM does not state whether annual or total. Recorded per year, as owner Michele Kang told the BBC it beats 'some of the men's Premier League front-of-shirt deals' (annual figures). Multi-year deal announced by the club on 3 Sep 2026.",
+    "quote": "club's front-of-shirt sponsor as well as kit maker for a world record fee of over £3m",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
   },
   "note": "Nike's first front-of-shirt sponsorship of a women's team in the UK per coverage."
 }

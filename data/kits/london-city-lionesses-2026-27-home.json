@@ -14,12 +14,48 @@
       "source": {
         "name": "London City Lionesses, official announcement",
         "date": "2026-09-03",
-        "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal"
+        "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
+        "note": "The club's own announcement of the front-of-shirt deal. No sleeve, back or shorts sponsor is announced anywhere by the club or named press.",
+        "quote": "today announce a landmark multi-year front-of-shirt partnership with Nike",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "London City Lionesses, official announcement",
+        "date": "2026-09-03",
+        "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
+        "note": "Nike is the club's kit supplier; the announcement confirms an existing technical partnership, extended by four years from 2027-28.",
+        "quote": "London City and Nike have also agreed to a four-year extension of their existing technical partnership",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mastercard",
+      "placement": "partner",
+      "source": {
+        "name": "London City Lionesses, official announcement",
+        "date": "2025-12-05",
+        "url": "https://www.londoncitylionesses.com/post/mastercard-named-new-london-city-lionesses-partner",
+        "note": "Official club partner and naming partner of the Sister Clubs programme; no shirt placement is stated in the announcement.",
+        "quote": "As an official partner of our club, Mastercard will offer cardholders and our supporters a range of Priceless Experiences",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Nike put its swoosh on the front of the London City Lionesses shirt in what owner Michele Kang calls a record women's shirt deal.",
+  "sponsorsComplete": true,
+  "summary": "Nike put its swoosh on the front of the London City Lionesses shirt in what owner Michele Kang calls a record women's shirt deal. Mastercard is an official club partner, off the shirt.",
   "change": {
     "kind": "better",
     "text": "New to the WSL: promoted as WSL2 champions with Nike on the front",

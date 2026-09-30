@@ -3,9 +3,9 @@
   "name": "RK",
   "ownerId": "rk-japan",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "RK is the chain brand of RK Japan Co., Ltd. (RK Takasago Chain group). Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "rk-ownership"
   ],
@@ -13,5 +13,5 @@
     "RK Takasago Chain",
     "RK Europe"
   ],
-  "note": "Rating note: private Japanese chain maker (stockholders RK South Asia Sdn. Bhd. and Takasago Tekko Co., Ltd. per RK Excel America's corporate page); no state in the chain, so none."
+  "note": "MotoGP partner of Red Bull KTM (ktm.com partner logos; the logo links to RK Europe). Left unrated: RK Europe is a subsidiary of the Japanese chain maker RK Takasago Chain (rk-ownership), but who holds RK Japan isn't sourced by a checked source."
 }

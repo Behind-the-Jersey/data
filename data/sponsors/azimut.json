@@ -1,14 +1,17 @@
 {
   "id": "azimut",
   "name": "Azimut",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "Azimut Yachts"
+  "ownerId": "azimut-holding-spa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The asset and wealth management group Azimut Holding S.p.A., listed in Milan; its named shareholders are Timone Fiduciaria (21.15%) and Helikon Investments (5.82%), the rest is free float. Nothing found.",
+  "claimIds": [
+    "azimut-holding-shareholders"
   ],
-  "note": "Italian luxury yacht builder; Global Partner of Red Bull Italy (sailgp.com team page, fetched 2026-09-25)."
+  "aliases": [
+    "Azimut Investments",
+    "Azimut Group"
+  ],
+  "note": "Global Partner of Red Bull Italy SailGP Team for the 2026 season. This is the asset and wealth management group, not the yacht builder Azimut|Benetti (Azimut Yachts): the team's announcement calls Azimut an 'independent global group in asset and wealth management' and says the Azimut Investments logo is on the hull of the Italian F50 (pressmare.it, 2026-01-15), and SailGP's team page links the partner to azimut-group.com."
 }

@@ -1,0 +1,20 @@
+{
+  "id": "aflac-inc-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "aflac-inc"
+  ],
+  "text": "Aflac Incorporated's 2026 proxy statement lists the holders of more than 5% of its common stock as of 24 February 2026: The Vanguard Group (11.1% of the shares, 4.4% of the votes), J&A Alliance Holdings Corporation as trustee of J&A Alliance Trust (10.2% of the shares, 20.0% of the votes) and BlackRock, Inc. (8.2% of the shares, 3.3% of the votes). Japan Post Holdings is the trust's sole settlor and beneficiary; the shareholders agreement limits the trustee's voting rights to no more than 20%, and the proxy says Japan Post Holdings will have no board seat and no rights to control, manage or intervene in the management of the company.",
+  "short": "Aflac Incorporated's 5% holders are Vanguard (11.1%), a trust for Japan Post Holdings (10.2%, no board seat) and BlackRock (8.2%).",
+  "source": {
+    "name": "Aflac Incorporated: 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+    "date": "2026-03-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026019621/afl-20260319.htm",
+    "quote": "Japan Post Holdings will not have a Board seat on the Company's Board of Directors and will not have rights to control, manage or intervene in the management of the Company",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

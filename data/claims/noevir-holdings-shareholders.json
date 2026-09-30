@@ -1,0 +1,20 @@
+{
+  "id": "noevir-holdings-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "noevir-holdings"
+  ],
+  "text": "Noevir Holdings Co., Ltd. (Tokyo-listed, securities code 4928) reported in its securities report for the year ended September 2025 that its largest shareholders were 株式会社エヌ・アイ・アイ (36.25%), 大倉俊 (10.83%) and 日本マスタートラスト信託銀行株式会社 / The Master Trust Bank of Japan (trust account, 6.14%); no state or sovereign shareholder is listed.",
+  "short": "Noevir Holdings' largest shareholder is N.I.I. Co. (36.25%); no state shareholder.",
+  "source": {
+    "name": "Noevir Holdings Co., Ltd.: 2025年9月期 有価証券報告書, 大株主の状況 (major shareholders, as of 30 September 2025)",
+    "date": "2025-09",
+    "url": "https://www.noevirholdings.co.jp/ir/library/security-reports/pdf/2025/yuho15.pdf",
+    "quote": "株式会社エヌ・アイ・アイ 東京都港区北青山1-2-3 12,382 36.25",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

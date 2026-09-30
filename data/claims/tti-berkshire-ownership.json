@@ -1,0 +1,20 @@
+{
+  "id": "tti-berkshire-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tti-inc",
+    "berkshire-hathaway"
+  ],
+  "text": "TTI, Inc. is a Berkshire Hathaway company: Berkshire Hathaway's annual report for 2025 counts TTI, a distributor of electronics components, in its service group.",
+  "source": {
+    "name": "Berkshire Hathaway Inc.: Form 10-K for the year ended December 31, 2025 (SEC)",
+    "date": "2026-03-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+    "quote": "Our service group includes NetJets and FlightSafety (aviation services), which offer shared ownership programs for general aviation aircraft and high technology training products and services to operators of aircraft, and TTI, a distributor of electronics components.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false
+}

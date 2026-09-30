@@ -1,0 +1,32 @@
+{
+  "id": "lola-cars-bechtolsheimer",
+  "kind": "ownership",
+  "ownerIds": [
+    "lola-cars"
+  ],
+  "text": "Lola Cars is owned by UK-native, US-based Till Bechtolsheimer.",
+  "short": "Lola Cars is owned by investor Till Bechtolsheimer.",
+  "source": {
+    "name": "Performance Racing Industry: Lola Cars Under New Ownership",
+    "date": "2022-06-29",
+    "url": "https://www.performanceracing.com/magazine/industry-news/06-29-2022/lola-cars-under-new-ownership",
+    "quote": "Lola Cars is now owned by UK-native and US-based Till Bechtolsheimer.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Race: Everything you need to know as Lola splits from Abt in Formula E",
+      "date": "2026-01-27",
+      "url": "https://www.the-race.com/formula-e/lola-to-split-from-abt-formula-e",
+      "quote": "Owner Till Bechtolsheimer has ambitions to launch further Lola projects off the back of the Formula E programme",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fergana-hokimlik-sponsor",
+  "kind": "ownership",
+  "ownerIds": [
+    "fergana-region-administration",
+    "government-of-uzbekistan"
+  ],
+  "text": "Neftchi Fergana's official website lists the 'Fergana Region Administration' (Farg'ona viloyati hokimligi) — Uzbekistan's regional state administration, which issues local government decisions — among the club's main sponsors.",
+  "short": "Neftchi lists the Fergana regional government (hokimlik) as a main sponsor.",
+  "source": {
+    "name": "PFK Neftchi — official website, homepage ('Our main sponsors' section)",
+    "date": "2026-09-30",
+    "url": "https://fcneftchi.uz/en",
+    "quote": "Fergana Region Administration",
+    "note": "The name appears under the homepage's 'Our main sponsors' section.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Farg'ona Invest Kompaniyasi AJ: Uzbekistan Republic, Fergana region hokim's decision 163-11-0-Q/26 (charter annexe)",
+      "date": "2026-03-31",
+      "url": "https://fargonainvestkompaniya.uz/wp-content/uploads/2026/06/%D0%92%D0%A5-163-%D1%81%D0%BE%D0%BD%D0%BB%D0%B8-%D0%BA%D0%B0%D1%80%D0%BE%D1%80%D0%B8-1.pdf",
+      "note": "Decision of the Fergana region hokim establishing the region's investment company, showing the hokimlik acting as a regional government body.",
+      "quote": "Farg‘ona viloyati hokimligi muassisligida tadbirkorlik subyektlari va davlat organlari o‘rtasida “ko‘prik” vazifasini bajaruvchi “Farg‘ona invest kompaniyasi” aksiyadorlik jamiyati (keyingi o‘rinlarda —Kompaniya) tashkil etilsin.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

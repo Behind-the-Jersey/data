@@ -1,0 +1,44 @@
+{
+  "id": "e-and-eia-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "emirates-investment-authority"
+  ],
+  "text": "e& (Emirates Telecommunications Group Company PJSC, formerly Etisalat) is 60% owned by the Emirates Investment Authority (EIA), which a filing signed by both calls an integral part of the UAE's Federal Government. e&'s corporate governance report for 2019 calls EIA the Government Shareholder, with the right to appoint seven of the eleven board members.",
+  "short": "e& is 60% owned by the Emirates Investment Authority, part of the UAE's federal government",
+  "source": {
+    "name": "SEC: Schedule 13D/A, Vodafone Group Plc, filed by Atlas 2022 Holdings, Emirates Telecommunications Group Company PJSC and Emirates Investment Authority",
+    "date": "2023-05-11",
+    "url": "https://www.sec.gov/Archives/edgar/data/839923/000120864623000063/c120361.htm",
+    "quote": "Atlas Holdings is a wholly-owned subsidiary of e&, which in turn is 60% owned by EIA",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "Schnitzel"
+    },
+    "note": "The filing also says: 'EIA is an integral part of the Federal Government and was established through Federal Decree Law No. 4 of 2007'. sec.gov blocks the source checker; read with the SEC's requested User-Agent."
+  },
+  "additionalSources": [
+    {
+      "name": "e& (Etisalat Group): Corporate Governance Report 2019",
+      "date": "2019",
+      "url": "https://www.eand.com/content/dam/eand/assets/pdf/governance-report-2019-english.pdf",
+      "quote": "The Government Shareholder (Emirates Investment Authority “EIA” or any other body constituted as government representative in the Company by virtue of a Cabinet Resolution) has the right to appoint 7 Board Members",
+      "note": "Section 15.2 of the same report (shareholders holding 5% and above of Etisalat shares at the end of 2019) lists Emirates Investment Authority (EIA) with 60%, 5,218,052,400 shares.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "AGBI: Etisalat / e& News and Company Profile",
+      "date": "2026",
+      "url": "https://www.agbi.com/companies/etisalat-by-e/",
+      "quote": "The ownership structure changed in 1983 when the UAE government held a 60% share. The remainder is publicly traded",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

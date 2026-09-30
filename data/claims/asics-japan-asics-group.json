@@ -1,0 +1,21 @@
+{
+  "id": "asics-japan-asics-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "asics-corporation"
+  ],
+  "text": "ASICS Corporation's site lists ASICS Japan Corporation (アシックスジャパン株式会社, headquartered at JP Tower, Chiyoda-ku, Tokyo) among its group ('related') companies in Japan.",
+  "short": "ASICS Japan Corporation is an ASICS Corporation group company.",
+  "source": {
+    "name": "株式会社アシックス: 拠点情報 関係会社 (ASICS group locations / related companies)",
+    "date": "2026",
+    "url": "https://corp.asics.com/jp/about_asics/location",
+    "note": "Page undated; opened 2026-09-30.",
+    "quote": "関係会社 アシックスジャパン株式会社",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

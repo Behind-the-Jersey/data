@@ -1,0 +1,61 @@
+{
+  "id": "rugby-wales-2026-27-home",
+  "clubId": "rugby-wales",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "vodafone",
+      "placement": "front",
+      "source": {
+        "name": "Vodafone UK: Rugby Sponsorships & Partnerships",
+        "date": "2026-09-30",
+        "url": "https://www.vodafone.co.uk/mobile/partnerships/rugby",
+        "quote": "Vodafone is the Principal Partner of men’s, women’s, and pathway (U20s and U18s) rugby in Wales, alongside front-of-shirt and back-of-shorts sponsorship.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Undated live partnerships page, opened 2026-09-30; confirms the current deal (WRU/Vodafone announced the multi-year extension in June 2023). The Vodafone wordmark and swoosh fill the centre chest of the official 2026/27 replica home front product photos (WRU store / rugby-heaven.com). The page also claims back-of-shorts rights, but the official 2026/27 replica home shorts product photos (rugby-heaven.com, all five views) show only the WRU crest and Macron branding — no Vodafone mark on the replica shorts; match-worn shorts not verified."
+      }
+    },
+    {
+      "sponsorId": "go-compare",
+      "placement": "back",
+      "source": {
+        "name": "Welsh Rugby Union: Go.Compare backs Wales teams",
+        "date": "2023-07",
+        "url": "https://www.wru.wales/2023/07/go-compare-backs-wales-teams",
+        "quote": "which will see its logo feature on the back of all of the WRU’s senior international and pathway teams in both the men’s and the women’s game with immediate effect",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "WRU announcement of the multi-year deal (page undated; July 2023 from the URL and the 'debut August 5th' sentence). Still current: the GO.COMPARE wordmark sits across the upper back in the official 2026/27 replica home back product photos (WRU store / rugby-heaven.com), and Go Compare remains in the 'Principal Partners' footer of the WRU's August 2026 kit-launch page."
+      }
+    },
+    {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "Welsh Rugby Union: WRU unveils new home and alternate kits inspired by the land and legend of Wales",
+        "date": "2026-08",
+        "url": "https://www.wru.wales/2026/08/wru-unveils-new-home-and-alternate-kits-inspired-by-the-land-and-legend-of-wales/",
+        "quote": "The Welsh Rugby Union (WRU) and official kit supplier Macron have today unveiled the new home and alternate kits for the senior national teams",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. Page undated; August 2026 from the URL and its launch-day wording (kits on sale 6 August)."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Vodafone across the front and Go.Compare across the upper back of the red Macron home shirt, both under multi-year deals from 2023 confirmed as current by Vodafone's live partnerships page and the official 2026/27 replica product photos. Sleeves, lower back and the white shorts carry only tonal dragon artwork, the WRU crest and Macron branding — checked against all eleven official replica product photos of the shirt and shorts.",
+  "change": null,
+  "shortLine": "Vodafone on the front"
+}

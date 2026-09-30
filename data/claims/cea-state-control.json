@@ -1,0 +1,36 @@
+{
+  "id": "cea-state-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "china-eastern-airlines",
+    "china-eastern-air-holding",
+    "government-of-china"
+  ],
+  "text": "China Eastern Airlines' controlling shareholder is state-owned China Eastern Air Holding, which held 55.80% of the airline after a May 2026 increase, and whose controlling shareholder with 68.42% is the State-owned Assets Supervision and Administration Commission of the State Council (SASAC); the company's own filing names the State Council SASAC as the airline's actual controller.",
+  "short": "China's State Council SASAC is China Eastern Airlines' actual controller, through China Eastern Air Holding (55.80%; SASAC 68.42%).",
+  "source": {
+    "name": "China Eastern Airlines Co., Ltd. — HKEX overseas regulatory announcement: legal opinion by Commerce & Finance Law Offices on the controlling shareholder's share increase",
+    "date": "2026-05-21",
+    "url": "https://www.ceair.com/global/static/AboutChinaEasternAirlines/intoEasternAirlines/InvestorRelations/announcement/HongKongStockExchange/hkExcReleased2026/202605/P020260522331047038458.pdf",
+    "quote": "中国东航集团为公司的控股股东，国务院国资委为公司的实际控制人",
+    "note": "Translation: 'China Eastern Air Holding is the company's controlling shareholder; the State Council SASAC is the company's actual controller.' The filing states the group held 54.76% before the increase and 55.80% after (as at 21 May 2026), directly and via wholly owned subsidiaries CEA Jin Kong and CEA International Holding (Hong Kong).",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Dagong Global Credit Rating (via Sina Finance): 中国东航 2026年度信用评级报告 (China Eastern 2026 credit rating report)",
+      "date": "2026-06-24",
+      "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-6/2026-06-24/12406790.PDF",
+      "quote": "东航集团为公司控股股东，共计持有公司总股本的54.76%（直接持有40.11%，间接持有14.65%），东航集团控股股东为国务院国有资产监督管理委员会",
+      "note": "Continues: '（以下简称“国务院国资委”），持股68.42%，因此公司实际控制人为国务院国资委' — SASAC holds 68.42% of China Eastern Air Holding, so SASAC is the company's actual controller. Also lists China Eastern Air Holding's minority shareholders (国寿投资 11.21%, 上海久事 10.19%, 中国旅游集团 5.09%, 中国国新 5.09%).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

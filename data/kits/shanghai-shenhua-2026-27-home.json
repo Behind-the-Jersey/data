@@ -1,0 +1,60 @@
+{
+  "id": "shanghai-shenhua-2026-27-home",
+  "clubId": "shanghai-shenhua",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "bank-of-communications",
+      "placement": "front",
+      "source": {
+        "name": "腾讯新闻·九五体育：三大行业，成为中超球队胸前广告的赞助商 (Tencent News: the three industries behind CSL clubs' chest sponsors)",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "note": "Named press reports the '交通银行' (Bank of Communications) wordmark is Shanghai Shenhua's front-of-shirt sponsor for the 2026 CSL season, after the bank's Shanghai branch ran a publicity-services tender with the club as intended supplier.",
+        "quote": "“交通银行”4个大字已经成为上海申花足球俱乐部的胸前广告",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "china-eastern-airlines",
+      "placement": "sleeve",
+      "source": {
+        "name": "中国日报网：中国东方航空与上海申花足球俱乐部达成新一轮合作 (China Daily: China Eastern reaches new round of cooperation with Shanghai Shenhua FC)",
+        "date": "2024-10-21",
+        "url": "https://gd.chinadaily.com.cn/a/202410/21/WS6715fedba310b59111d9efef.html",
+        "note": "China Eastern announced as a 'CSL Shanghai Shenhua FC senior partner' whose brand logo appears on Shenhua's CSL jersey; the logo sits on the sleeve (left arm) of the match shirt. Chinese Wikipedia lists it as the first-half-of-season sleeve sponsor.",
+        "quote": "东航的品牌标识也将出现在申花主场比赛的球场内外和申花的中超球衣上",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "note": "Kit supplier for all 16 CSL clubs in 2026, including Shanghai Shenhua (bespoke home design).",
+        "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 CSL home kit by Nike. Match-worn shirt carries Bank of Communications on the front and China Eastern Airlines on the sleeve. Not complete: the official launch render shows no printed sponsors; the back, shorts, league sleeve badge, and any mid-season or AFC Champions League Two variant (reported 'Shanghai Pass' front and 'Modu Brothers' sleeve branding) could not be verified from openable sources.",
+  "change": null
+}

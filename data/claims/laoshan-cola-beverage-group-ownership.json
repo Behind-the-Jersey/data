@@ -1,0 +1,45 @@
+{
+  "id": "laoshan-cola-beverage-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "qingdao-beverage-group"
+  ],
+  "text": "Laoshan Cola (崂山可乐) is operated by Qingdao Beverage Group Co., Ltd., a Qingdao municipal state-owned enterprise. The group's Laoshan Mineral Water subsidiary produces and markets Laoshan Cola, and the subsidiary's 'Laoshan' brand signed the Qingdao Hainiu shirt sponsorship.",
+  "short": "Laoshan Cola is a brand of state-owned Qingdao Beverage Group.",
+  "source": {
+    "name": "Sohu (九五体育sport95): 三大行业，成为中超球队胸前广告的赞助商 (The three industries sponsoring CSL clubs' shirt fronts)",
+    "date": "2026-03-18",
+    "url": "https://www.sohu.com/a/997759959_120299310",
+    "quote": "崂山可乐由青岛饮料集团有限公司运营，而该集团是青岛市属国有企业",
+    "note": "Translation: 'Laoshan Cola is operated by Qingdao Beverage Group Co., Ltd., and that group is a Qingdao municipal state-owned enterprise.'",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "青岛政务网 (Qingdao Municipal Government portal, source 青岛日报/Qingdao Daily): 青岛饮料集团持续做强品牌影响力 10款产品焕新上市",
+      "date": "2024-10-04",
+      "url": "http://www.qingdao.gov.cn/ywdt/zwyw/202410/t20241004_8356880.shtml",
+      "quote": "青岛饮料集团旗下崂矿公司生产线从2日开始又恢复了往常的忙碌。崂山可乐、崂山白花蛇草水、瓶装水、桶装水等产品有序地从一条条生产线上下线",
+      "note": "Translation: 'Production lines at Qingdao Beverage Group's Laoshan Mineral Water subsidiary resumed on the 2nd. Laoshan Cola, Laoshan Baihua Snake Grass Water, bottled water and other products rolled off the lines' — i.e. the group's subsidiary makes Laoshan Cola.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "青岛日报社/观海新闻 (Qingdao Daily / dailyqd.com): 百年匠心致敬绿茵，崂山可乐携手青岛海牛足球俱乐部共启2026新赛季",
+      "date": "2026-03-05",
+      "url": "https://www.dailyqd.com/guanhai/439032_1.html",
+      "quote": "青岛崂山矿泉水有限公司与俱乐部正式签署赞助协议，旗下“崂山”品牌将成为球队新赛季官方赞助商",
+      "note": "Translation: 'Qingdao Laoshan Mineral Water Co., Ltd. formally signed the sponsorship agreement with the club; its Laoshan brand will become the team's official sponsor for the new season.'",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

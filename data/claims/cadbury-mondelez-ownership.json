@@ -1,0 +1,33 @@
+{
+  "id": "cadbury-mondelez-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mondelez-international"
+  ],
+  "text": "Cadbury, principal partner of the Wallabies, is a brand owned by US-listed snacks company Mondelez International.",
+  "short": "Cadbury is owned by Mondelez International",
+  "source": {
+    "name": "Sportcal: 'Cadbury extends Wallabies partnership through 2029'",
+    "date": "2024-07-05",
+    "url": "https://www.sportcal.com/sponsorship/cadbury-extends-wallabies-partnership-through-2029/",
+    "quote": "The brand, owned by USA-based snack company Mondelez International, will additionally collaborate with the Wallabies and Wallaroos",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Rugby Australia: 'Cadbury renews Wallabies major sponsorship until end of 2029' (Wayback Machine capture)",
+      "date": "2024-07-04",
+      "url": "https://web.archive.org/web/20260116185519/https://australia.rugby/news/cadbury-renews-wallabies-major-sponsorship-until-end-of-2029-202474",
+      "quote": "Darren O'Brien, President of Mondelēz International in Australia, New Zealand and Japan and custodians of Cadbury",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "The live page rate-limits scripted access (HTTP 429); this Wayback capture of 16 Jan 2026 was opened."
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "asics-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "asics-corporation"
+  ],
+  "text": "ASICS Corporation's principal shareholders as of 30 June 2026 were The Master Trust Bank of Japan, Ltd. (Trust Account, 16.13%), Custody Bank of Japan, Ltd. (Trust Account, 8.57%), THE CHASE MANHATTAN BANK, N.A. LONDON SECS LENDING OMNIBUS ACCOUNT (2.73%) and Nippon Life Insurance Company (2.56%); GOVERNMENT OF NORWAY held 2.13% and GIC PRIVATE LIMITED 1.39% — no state or sovereign shareholder is listed as controlling the company.",
+  "short": "ASICS Corporation's top holders are trust banks and institutions; no state control.",
+  "source": {
+    "name": "ASICS Corporation: Shareholding Structure (as of June 30, 2026)",
+    "date": "2026-06-30",
+    "url": "https://corp.asics.com/en/investor_relations/stock_info/shareholder_structure",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 114,374 16.13",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
