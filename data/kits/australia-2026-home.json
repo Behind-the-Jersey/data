@@ -1,0 +1,32 @@
+{
+  "id": "australia-2026-home",
+  "clubId": "australia",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Football Australia: 'Nike and Football Australia unveil the 2026 National Team Collection, a celebration of two decades on the world stage'",
+        "date": "2026-03-23",
+        "url": "https://footballaustralia.com.au/news/nike-and-football-australia-unveil-2026-national-team-collection-a-celebration-two-decades",
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. No commercial sponsor on any placement: the launch photos on this page (Hrustic and Bos wearing the shirt front, crest and shorts detail) show a plain yellow front and plain gradient-green shorts, and Footy Headlines' launch article (23 March 2026, footyheadlines.com/2026/01/australia-2026-home-kit.html) shows the official flat and worn retail images - front, back, sleeves and hem - with only the Nike swoosh and the Australia crest and nothing else.",
+        "quote": "Nike and Football Australia today unveil the 2026 National Team Collection, setting a new benchmark in national team kit design.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "The 2026 home shirt carries no commercial sponsor logos - front, back, sleeves and shorts were checked on the Football Australia launch photos and on Footy Headlines' official flat and worn images from the 23 March 2026 release; only the Australia crest and the Nike maker mark appear. Nike is the kit maker.",
+  "change": null,
+  "headline": "The shirt is {level}: it carries no commercial sponsors. Nike makes the kit.",
+  "shortLine": "No shirt sponsors. Nike made."
+}
