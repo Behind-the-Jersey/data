@@ -1,0 +1,19 @@
+{
+  "id": "leag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lausitz-energie-bergbau-ag"
+  ],
+  "text": "Die Lausitz Energie Bergbau AG ist eine im Handelsregister des Amtsgerichts Cottbus (HRB 3326) eingetragene Aktiengesellschaft mit Sitz in Cottbus.",
+  "source": {
+    "name": "LEAG: Impressum",
+    "date": "2026",
+    "url": "https://www.leag.de/de/service/impressum/",
+    "quote": "Diensteanbieter im Sinne des § 5 Digitale-Dienste-Gesetz ist die Lausitz Energie Bergbau AG Leagplatz 1 03050 Cottbus",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

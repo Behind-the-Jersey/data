@@ -1,0 +1,19 @@
+{
+  "id": "heise-medien-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "heise-medien-gmbh-co-kg"
+  ],
+  "text": "Die Heise Medien GmbH & Co. KG ist eine in Hannover ansässige Medien-Kommanditgesellschaft.",
+  "source": {
+    "name": "heise online: Impressum",
+    "date": "2026",
+    "url": "https://www.heise.de/impressum.html",
+    "quote": "Heise Medien GmbH & Co. KG Karl-Wiechert-Allee 10 30625 Hannover",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,15 @@
+{
+  "clubId": "energie-cottbus",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.fcenergie.de/",
+      "source": {
+        "name": "Vereinswebsite: Kontaktseite",
+        "url": "https://www.fcenergie.de/",
+        "date": "2026-10-01"
+      }
+    }
+  ],
+  "lastChecked": "2026-10-01"
+}

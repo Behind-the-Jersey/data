@@ -1,0 +1,19 @@
+{
+  "id": "loewen-entertainment-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "loewen-entertainment-gmbh"
+  ],
+  "text": "Die LÖWEN ENTERTAINMENT GmbH ist eine im Handelsregister des Amtsgerichts Mainz (HRB 23327) eingetragene Gesellschaft mit Sitz in Bingen.",
+  "source": {
+    "name": "LÖWEN ENTERTAINMENT GmbH: Impressum",
+    "date": "2026",
+    "url": "https://www.loewen.de/gruppe/impressum/",
+    "quote": "LÖWEN ENTERTAINMENT GmbH Saarlandstraße 240 55411 Bingen",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

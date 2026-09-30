@@ -1,0 +1,29 @@
+{
+  "id": "vfl-bochum-2026-27-home",
+  "clubId": "vfl-bochum",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "vonovia",
+      "placement": "front",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Seit dem Jahr 2016 ist Vonovia ein wichtiger Partner beim VfL Bochum, und seit der Saison 2021/2022 hat das Unternehmen die Position des Trikotsponsors übernommen.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}

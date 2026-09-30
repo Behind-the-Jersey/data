@@ -1,0 +1,19 @@
+{
+  "id": "toolcraft-ag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "toolcraft-ag"
+  ],
+  "text": "Die toolcraft AG ist eine im Handelsregister des Amtsgerichts Nürnberg (HRB 38176) eingetragene Aktiengesellschaft mit Sitz in Georgensgmünd.",
+  "source": {
+    "name": "toolcraft AG: Impressum",
+    "date": "2026",
+    "url": "https://www.toolcraft.de/impressum/",
+    "quote": "Handelsregister: AG Nürnberg. HRB 38176",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

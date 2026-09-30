@@ -1,0 +1,19 @@
+{
+  "id": "i-k-hofmann-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "i-k-hofmann-gmbh"
+  ],
+  "text": "Die I. K. Hofmann GmbH ist eine im Handelsregister des Amtsgerichts Nürnberg (HRB 6852) eingetragene Gesellschaft mit Sitz in Nürnberg.",
+  "source": {
+    "name": "I. K. Hofmann GmbH: Impressum",
+    "date": "2026",
+    "url": "https://www.hofmann.info/impressum/",
+    "quote": "I. K. Hofmann GmbH Lina-Ammon-Str. 19 90471 Nürnberg",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

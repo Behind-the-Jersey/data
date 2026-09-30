@@ -1,0 +1,19 @@
+{
+  "id": "schueco-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "schueco-international-kg"
+  ],
+  "text": "Die Schüco International KG ist eine im Handelsregister des Amtsgerichts Bielefeld (HRA 8135) eingetragene Kommanditgesellschaft mit Sitz in Bielefeld.",
+  "source": {
+    "name": "Schüco International KG: Impressum",
+    "date": "2026",
+    "url": "https://www.schueco.com/de/allgemein/impressum",
+    "quote": "Schüco International KG Karolinenstraße 1–15 33609 Bielefeld",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

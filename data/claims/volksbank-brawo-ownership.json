@@ -1,0 +1,19 @@
+{
+  "id": "volksbank-brawo-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "volksbank-brawo-eg"
+  ],
+  "text": "Die Volksbank BRAWO eG ist eine Genossenschaftsbank mit Sitz in Wolfsburg.",
+  "source": {
+    "name": "Volksbank BRAWO eG / BRAWO GROUP: Impressum",
+    "date": "2026",
+    "url": "https://www.brawogroup.de/impressum",
+    "quote": "Volksbank BRAWO eG Am Mühlengraben 1 38440 Wolfsburg",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

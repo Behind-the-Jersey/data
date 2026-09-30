@@ -2,10 +2,29 @@
   "id": "volkswagen",
   "name": "Volkswagen",
   "ownerId": "volkswagen-ag",
-  "ownership": "part-owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Marke der Volkswagen AG. Qatar Holding LLC hält 10,4 Prozent des Kapitals und 17,0 Prozent der Stimmrechte an Volkswagen.",
+  "claimIds": [
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership",
+    "qatar-migrant-worker-abuse-2025"
+  ],
+  "aliases": [
+    "vw"
+  ],
+  "note": "Hauptpartner und Trikotsponsor des VfL Wolfsburg; Volkswagen AG ist alleiniger Eigentümer der VfL Wolfsburg Fußball-GmbH. Der Sponsor ist der Volkswagen-Konzern selbst.",
+  "why": {
+    "text": "Volkswagen ist die Marke der Volkswagen AG. Qatar Holding LLC – Teil des katarischen Staatsfonds Qatar Investment Authority – hält 10,4 Prozent des Kapitals und 17,0 Prozent der Stimmrechte an Volkswagen und überschreitet damit die 5-Prozent-Schwelle. In Katar leiden Arbeitsmigranten dokumentiert unter dem Kafala-System; damit sitzt Staatsgeld mit einem Rekord hinter dem Sponsor.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International und Human Rights Watch berichten, dass Arbeitsmigranten in Katar weiter unter dem Kafala-System leiden.",
+    "status": "draft"
+  }
 }

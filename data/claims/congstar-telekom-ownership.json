@@ -1,0 +1,19 @@
+{
+  "id": "congstar-telekom-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "telekom-deutschland-gmbh"
+  ],
+  "text": "congstar ist eine Marke der Telekom Deutschland GmbH.",
+  "source": {
+    "name": "congstar: Impressum",
+    "date": "2026",
+    "url": "https://www.congstar.de/impressum/",
+    "quote": "congstar – eine Marke der Telekom Deutschland GmbH",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

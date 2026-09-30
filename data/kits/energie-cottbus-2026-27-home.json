@@ -1,0 +1,29 @@
+{
+  "id": "energie-cottbus-2026-27-home",
+  "clubId": "energie-cottbus",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "leag",
+      "placement": "front",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Das Energieunternehmen LEAG ist langjähriger Partner des FC Energie Cottbus und seit der Saison 2023/24 auch Trikotsponsor der ersten Mannschaft.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}

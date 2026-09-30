@@ -1,0 +1,19 @@
+{
+  "id": "bartels-langness-famila-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bartels-langness-gmbh-co-kg"
+  ],
+  "text": "Die Supermarktkette famila gehört zur in Kiel ansässigen Bartels-Langness-Gruppe.",
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+    "quote": "Das Unternehmen gehört zur in Kiel ansässigen Bartels-Langness-Gruppe",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

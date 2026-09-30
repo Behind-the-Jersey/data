@@ -1,0 +1,19 @@
+{
+  "id": "vonovia-se-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vonovia-se"
+  ],
+  "text": "Die Vonovia SE ist eine börsennotierte Aktiengesellschaft mit Sitz in Bochum (Amtsgericht Bochum, HRB 16879).",
+  "source": {
+    "name": "Vonovia SE: Impressum",
+    "date": "2026",
+    "url": "https://www.vonovia.com/impressum",
+    "quote": "Sitz der Gesellschaft: Bochum Registergericht: Amtsgericht Bochum Registernummer: HRB 16879",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

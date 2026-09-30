@@ -1,0 +1,29 @@
+{
+  "id": "hannover-96-2026-27-home",
+  "clubId": "hannover-96",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "heise",
+      "placement": "front",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Seit der Saison 2024/25 ist das Medienunternehmen Heise neuer Hauptsponsor von Hannover 96.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}

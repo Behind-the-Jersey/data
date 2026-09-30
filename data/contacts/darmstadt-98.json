@@ -1,0 +1,24 @@
+{
+  "clubId": "darmstadt-98",
+  "channels": [
+    {
+      "type": "email",
+      "value": "info@sv98.de",
+      "source": {
+        "name": "Vereinswebsite: Kontaktseite",
+        "url": "https://www.sv98.de/",
+        "date": "2026-10-01"
+      }
+    },
+    {
+      "type": "website",
+      "value": "https://www.sv98.de/",
+      "source": {
+        "name": "Vereinswebsite: Kontaktseite",
+        "url": "https://www.sv98.de/",
+        "date": "2026-10-01"
+      }
+    }
+  ],
+  "lastChecked": "2026-10-01"
+}

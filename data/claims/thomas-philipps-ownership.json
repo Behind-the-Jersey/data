@@ -1,0 +1,19 @@
+{
+  "id": "thomas-philipps-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "thomas-philipps-gmbh-co-kg"
+  ],
+  "text": "Die Thomas Philipps GmbH & Co. KG ist eine im Handelsregister des Amtsgerichts Osnabrück (HRA 5016) eingetragene Kommanditgesellschaft mit Sitz in Bissendorf.",
+  "source": {
+    "name": "Thomas Philipps GmbH & Co. KG: Impressum",
+    "date": "2026",
+    "url": "https://www.thomas-philipps.de/impressum",
+    "quote": "Registergericht: Osnabrück Registernummer: HRA 5016",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

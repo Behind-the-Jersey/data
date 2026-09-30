@@ -1,0 +1,19 @@
+{
+  "id": "humanas-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "humanas-pflege-gmbh-co-kg"
+  ],
+  "text": "Die Humanas Pflege GmbH & Co. KG ist eine im Handelsregister des Amtsgerichts Stendal (HRA 5861) eingetragene Kommanditgesellschaft mit Sitz in Colbitz.",
+  "source": {
+    "name": "Humanas Pflege GmbH & Co. KG: Impressum",
+    "date": "2026",
+    "url": "https://www.humanas.de/impressum/",
+    "quote": "Humanas Pflege GmbH & Co. KG Südstraße 1 39326 Colbitz",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
