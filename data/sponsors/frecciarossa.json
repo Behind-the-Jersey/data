@@ -1,14 +1,17 @@
 {
   "id": "frecciarossa",
   "name": "Frecciarossa",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "trenitalia",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by the Italian state: Frecciarossa is Trenitalia's brand, Trenitalia is a company of the FS Italiane Group, and parent Ferrovie dello Stato Italiane is wholly owned by the Ministry of Economy and Finance. Nothing found.",
+  "claimIds": [
+    "frecciarossa-trenitalia-ownership",
+    "trenitalia-italian-state-ownership"
+  ],
   "aliases": [
     "Trenitalia"
   ],
-  "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to trenitalia.com, stands under 'Official Partners' with the line 'High speed travel' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  "note": "Also an Official Partner of the Ducati Lenovo Team: on Ducati's partner page the Frecciarossa logo, linking to trenitalia.com, stands under 'Official Partners' with the line 'High speed travel' (Wayback Machine captures of 23 May and 18 Sep 2026). Sponsor of the FIR national teams since February 2023; partnership confirmed for the autumn 2025 internationals (FS News, 10 Oct 2025); the Frecciarossa wordmark is on the back of the 2026/27 home shirt. Rating note (2026-09-30): full state-ownership chain sourced (frecciarossa-trenitalia-ownership, trenitalia-italian-state-ownership), but state ownership alone is not a tier and this dataset has no record of serious abuses for Italy (METHOD.md). No court, regulator, UN or major-NGO human-rights finding against Trenitalia or Ferrovie dello Stato found; the 2023 European Commission State-aid decision against Trenitalia mentioned in the FS 2023 annual report is financial, not a human-rights record."
 }
