@@ -4,11 +4,22 @@
   "ownerId": "mubadala",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "status": "being-rated",
+  "verdict": "Abu Dhabi's sovereign wealth fund; its own site says its sole shareholder is the government of Abu Dhabi.",
   "claimIds": [
-    "moeve-mubadala-record"
+    "uae-mass-trial-2024",
+    "mubadala-abu-dhabi-ownership"
   ],
   "aliases": [],
-  "note": "Abu Dhabi sovereign fund; sole title sponsor of the Mubadala DC Open (ATP/WTA 500, Washington DC, 2026-2030) and host sponsor of the Rio Open (rioopen.com); title sponsor of the Mubadala Abu Dhabi Open (WTA)."
+  "ownerVerb": "owned by",
+  "why": {
+    "text": "Mubadala Investment Company is wholly owned by the Government of Abu Dhabi: its own site describes the government as its sole shareholder. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair. The fund's name and money behind Brazil's boat make the country look good to fans while that goes on. That's called sportswashing.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "mubadala-abu-dhabi-ownership"
+    ],
+    "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+    "status": "draft"
+  },
+  "note": "Rating note: propose 'serious'. The link: Mubadala Investment Company is wholly owned by the Government of Abu Dhabi (claim mubadala-abu-dhabi-ownership: Mubadala's own board page names the government its 'sole shareholder'; SEC Schedule 13D confirms 'wholly owned by the Government of Abu Dhabi'). The record: uae-mass-trial-2024 (HRW + UN experts; July 2024 mass-trial life sentences against human rights defenders), ownerIds include government-of-abu-dhabi and uae, both reached via the mubadala owner chain. Abu Dhabi government with a sourced serious-abuse record controls the sponsor -> 'serious'. ON HOLD: proposed 'serious' in PR, pending maintainer review.\n\nAbu Dhabi sovereign fund; sole title sponsor of the Mubadala DC Open (ATP/WTA 500, Washington DC, 2026-2030) and host sponsor of the Rio Open (rioopen.com); title sponsor of the Mubadala Abu Dhabi Open (WTA)."
 }
