@@ -1,0 +1,31 @@
+{
+  "id": "canada-2026-home",
+  "clubId": "canada",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 World Cup",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Canada Soccer Pressroom - Canada Soccer, NIKE release new CANMNT 2026 kits",
+        "date": "2026-03-16",
+        "url": "https://news.canadasoccer.com/canada-soccer-nike-release-new-canmnt-2026-kits",
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense. Footy Headlines' official launch coverage (2026-03-16, footyheadlines.com/2025/11/nike-canada-2026-world-cup-home-kit.html) describes every mark on the home shirt — a tonal maple leaf pattern, a white Swoosh, black detailing on the sleeve cuffs and sides, and a small octagonal patch reading 'FROM COAST TO COAST TO COAST' — and its launch photos show the shirt front, back and shorts: no commercial sponsor on any placement.",
+        "quote": "Canada Soccer and Nike today unveiled the new Canada Men’s National Team kits for 2026",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "No sponsors on the shirt: Nike's 2026 World Cup home shirt (red with a tonal maple leaf pattern) carries only the white Swoosh, the Canada crest and a small patch with the bilingual motto 'From coast to coast to coast'; the launch release and Footy Headlines' description and photos show no commercial sponsor on any placement.",
+  "change": null,
+  "shortLine": "No sponsors on the shirt"
+}
