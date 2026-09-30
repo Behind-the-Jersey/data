@@ -4,7 +4,7 @@
   "ownerIds": [
     "lola-cars"
   ],
-  "text": "Lola Cars, the UK race-car engineering company behind the Lola Yamaha ABT Formula E team, is owned by UK-native, US-based investor Till Bechtolsheimer.",
+  "text": "Lola Cars is owned by UK-native, US-based Till Bechtolsheimer.",
   "short": "Lola Cars is owned by investor Till Bechtolsheimer.",
   "source": {
     "name": "Performance Racing Industry: Lola Cars Under New Ownership",
@@ -16,7 +16,6 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false,
   "additionalSources": [
     {
       "name": "The Race: Everything you need to know as Lola splits from Abt in Formula E",
@@ -28,5 +27,6 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     }
-  ]
+  ],
+  "reviewed": false
 }

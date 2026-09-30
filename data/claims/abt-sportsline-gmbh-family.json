@@ -4,17 +4,18 @@
   "ownerIds": [
     "abt-sportsline-gmbh"
   ],
-  "text": "ABT Sportsline describes itself as an owner-managed company run by the Abt family in its fifth generation.",
+  "text": "ABT Sportsline describes itself as an owner-managed company in its fifth generation, with family cohesion anchored in its corporate DNA.",
   "short": "ABT Sportsline is an owner-managed family company.",
   "source": {
-    "name": "ABT Sportsline: About ABT (company page)",
-    "date": "2026-09-30",
+    "name": "ABT Sportsline: Company",
+    "date": "2026",
     "url": "https://www.abt-sportsline.com/company",
     "quote": "As an owner-managed company in the 5th generation, family cohesion is firmly anchored in our corporate DNA.",
     "checked": {
       "on": "2026-09-30",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-    }
+    },
+    "note": "Page without a date; opened 2026-09-30."
   },
   "reviewed": false
 }
