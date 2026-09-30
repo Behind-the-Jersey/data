@@ -12,24 +12,64 @@
       "sponsorId": "aia",
       "placement": "front",
       "source": {
-        "name": "Tottenham Hotspur, Kraken partnership announcement (AIA front carried over)",
-        "date": "2024-07-16",
-        "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
-        "note": "The Kraken article names AIA only implicitly via the existing shirt deal; AIA as front sponsor across the club is carried from the men's 2026/27 kit in normalized. Women's-specific front confirmation not restated."
+        "name": "Footy Headlines: Tottenham & AIA End of Front-of-Shirt Era",
+        "date": "2025-11-04",
+        "url": "https://www.footyheadlines.com/2025/11/tottenham-aia-end-of-front-of-shirt-era.html",
+        "note": "Club-wide front-of-shirt deal runs through 2026/27 (also reported by Sportcal, 4 Nov 2025, which blocks scripts). The club's Women's Team Partners page (checked 2026-09-30) lists AIA as Global Principal Partner, and the club's 19 Jun 2026 kit gallery describes 'the home shirt our teams will wear for the 2026/27 season'.",
+        "quote": "this means that AIA's front-of-shirt sponsorship will end after the 2026-27 season",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "kraken",
       "placement": "sleeve",
       "source": {
-        "name": "Tottenham Hotspur, official announcement",
+        "name": "Tottenham Hotspur – 'Tottenham Hotspur partners with Crypto Platform Kraken'",
         "date": "2024-07-16",
         "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
-        "note": "Kraken became the club's first Official Crypto and Web3 Partner and the Official Sleeve Partner for the club's Men's and Women's teams from 2024/25."
+        "note": "Club-wide sleeve deal from 2024/25; the club's Women's Team Partners page (checked 2026-09-30) still lists Kraken as Official Sleeve Partner.",
+        "quote": "the Official Sleeve Partner for our Men's and Women's teams",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "elf-cosmetics",
+      "placement": "back",
+      "source": {
+        "name": "Tottenham Hotspur – 'Tottenham Hotspur Women Announces Partnership with e.l.f. Cosmetics'",
+        "date": "2025-09-04",
+        "url": "https://www.tottenhamhotspur.com/news/984446/tottenham-hotspur-women-announces-partnership-with-elf-cosmetics",
+        "note": "Announced ahead of the 2025/26 WSL season; the club's Women's Team Partners page (checked 2026-09-30) still lists e.l.f. ('Eyes. Lips. Face') as Official Back of Shirt Partner, confirming it continues in 2026/27.",
+        "quote": "sees the brand become the new Official Back of Shirt Partner of Tottenham Hotspur Women",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Tottenham Hotspur – 'Gallery: New Nike 2026/27 Home Kit up close'",
+        "date": "2026-06-19",
+        "url": "https://www.tottenhamhotspur.com/news/1074148/gallery-new-nike-202627-home-kit-up-close",
+        "note": "Club kit launch for 2026/27 covering both teams ('our teams'); the Women's Team Partners page lists Nike as Official Kit Provider.",
+        "quote": "Here's a closer look at the home shirt our teams will wear for the 2026/27 season. Classic Lilywhite, our Nike Home shirt is our nod to our heritage",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "AIA fronts the Tottenham Women shirt with crypto platform Kraken on the sleeve.",
+  "sponsorsComplete": true,
+  "summary": "2026/27 home shirt: Nike kit (partner), AIA front-of-shirt, Kraken sleeve, e.l.f. Cosmetics back-of-shirt. No shorts sponsor documented (Wikipedia's 2026–27 WSL kits table lists none).",
   "change": null
 }

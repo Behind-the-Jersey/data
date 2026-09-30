@@ -1,12 +1,14 @@
 {
   "id": "specialized",
   "name": "Specialized",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "specialized-bicycle-components",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Specialized Bicycle Components is controlled by its founder Mike Sinyard; the listed Taiwanese bicycle maker Merida owns 35%. Nothing found.",
+  "claimIds": [
+    "specialized-merida-minority"
+  ],
   "aliases": [],
-  "note": "US bike manufacturer; premium partner of Team SD Worx-Protime (team partners page). Not state-linked."
+  "note": "US bike manufacturer; premium partner of Team SD Worx-Protime (team partners page) and kit supplier of Red Bull-BORA-hansgrohe. Rating note (issue #603, 2026-09-29): founder-controlled, with 35% held by the listed Taiwanese bicycle maker Merida; Merida's own shareholders weren't checked (a state would need about 14.3% of Merida to reach 5% of Specialized). No human-rights finding found."
 }

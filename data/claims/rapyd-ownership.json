@@ -1,0 +1,32 @@
+{
+  "id": "rapyd-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rapyd"
+  ],
+  "text": "Rapyd is a fintech-as-a-service company led by co-founder and CEO Arik Shtilman. In August 2021 it announced a $300 million Series E round led by Target Global, joined by new investors including funds managed by Fidelity Management and Research Company, Altimeter Capital, Whale Rock Capital, BlackRock Funds and Dragoneer, with participation from existing investors General Catalyst, Latitude, Durable Capital Partners, Tal Capital, Avid Ventures and Spark Capital.",
+  "short": "Rapyd is a payments fintech led by co-founder and CEO Arik Shtilman and backed by venture investors.",
+  "source": {
+    "name": "Rapyd: Rapyd Raises $300 Million Series E to Further Enhance Its Fintech as a Service Offering",
+    "date": "2021-08-03",
+    "url": "https://www.rapyd.net/company/news/press-releases/rapyd-raises-300-million-in-series-e-funding",
+    "quote": "announced a $300 million Series E funding round led by Target Global. Joining the round are several new investors including funds managed by Fidelity Management and Research Company",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Sport5: \"אם נצטרך לפתוח עוד את הכיס, נעשה זאת\"",
+      "date": "2025-07-17",
+      "url": "https://www.sport5.co.il/articles.aspx?FolderID=274&docID=512842",
+      "quote": "אריק שטילמן, מנכ״ל ומייסד ראפיד, מספר על שיתוף הפעולה עם מכבי תל אביב",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
