@@ -1,14 +1,16 @@
 {
   "id": "apex-group",
   "name": "Apex Group",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "genstar-capital",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Majority-owned by the US private-equity firm Genstar Capital. Nothing found.",
+  "claimIds": [
+    "apex-group-genstar-ownership"
+  ],
   "aliases": [
     "Apex"
   ],
-  "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team (sailgp.com partners overview, US team page and 2026 calendar, fetched 2026-09-25)."
+  "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team. Rating note (2026-09-30): Abu Dhabi's sovereign fund Mubadala holds a minority stake in Apex (its own site calls it a 'strategic minority stake', since 2022); the size is not public, so the 5%-or-control link test cannot be met, and control rests with Genstar Capital. Rated none."
 }

@@ -1,0 +1,32 @@
+{
+  "id": "apex-group-genstar-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "genstar-capital"
+  ],
+  "text": "Apex Group Ltd. is majority-owned by the US private-equity firm Genstar Capital; Mubadala Investment Company, Abu Dhabi's sovereign investor, holds a minority stake alongside Carlyle.",
+  "short": "Genstar Capital is Apex Group's majority owner; Mubadala holds a minority stake",
+  "source": {
+    "name": "Apex Group: Apex secures equity investment from Carlyle & Mubadala",
+    "date": "2021-07-15",
+    "url": "https://www.apexgroup.com/insights/apex-group-secures-additional-equity-investment-from-carlyle-and-mubadala/",
+    "quote": "We are proud to now have the equity backing of three highly reputable institutions, including our majority owner Genstar, and now joined by Mubadala.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Genstar Capital: TA Associates Announces Strategic Growth Investment in Apex Group",
+      "date": "2021-06-17",
+      "url": "https://www.gencap.com/ta-associates-announces-strategic-growth-investment-in-apex-group-in-partnership-with-genstar-capital-and-peter-hughes",
+      "quote": "Apex is majority-owned by Genstar Capital",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

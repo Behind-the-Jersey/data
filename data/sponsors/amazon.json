@@ -3,9 +3,12 @@
   "name": "Amazon",
   "ownerId": "amazon-com-inc",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Amazon.com, Inc. (Nasdaq: AMZN). Nothing found.",
+  "claimIds": [
+    "amazon-com-inc-listing"
+  ],
+  "aliases": [],
+  "note": "Rated 2026-09-30: Amazon.com Inc. is Nasdaq-listed (own 10-K); no state or state-fund holder. OSHA citations and NLRB complaints were considered and do not pass the record test in METHOD.md (fines and labour-law findings, no qualifying human-rights finding cited here)."
 }
