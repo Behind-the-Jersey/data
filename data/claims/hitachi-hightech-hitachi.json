@@ -4,25 +4,26 @@
   "ownerIds": [
     "hitachi-ltd"
   ],
-  "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 (157th business term) lists Hitachi High-Tech Corporation among its principal consolidated subsidiaries, with Hitachi holding 100.0% of the voting rights.",
+  "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi High-Tech Corporation among its principal subsidiaries, with 100.0% of the voting rights.",
   "short": "Hitachi High-Tech Corporation is a wholly owned subsidiary of Hitachi, Ltd.",
   "source": {
-    "name": "Hitachi, Ltd.: Annual Securities Report for the fiscal year ended March 31, 2026, Note 27 'Principal Subsidiaries'",
-    "date": "2026-03-31",
+    "name": "Hitachi, Ltd.: Annual Securities Report (The 157th Business Term), April 1, 2025 to March 31, 2026, Note 27 'Principal Subsidiaries'",
+    "date": "2026-06-22",
     "url": "https://www.hitachi.com/content/dam/hitachi/global/en/ir/media/library/stock/hit_sr_fy2025_2_en.pdf",
     "quote": "Hitachi High-Tech Corporation Minato-ku, Tokyo 100.0",
     "checked": {
       "on": "2026-09-30",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-    }
+    },
+    "note": "English translation of the report filed on June 22, 2026; a 51 MB PDF, so the source check can't read it. Note 27 starts on page F-71."
   },
   "reviewed": false,
   "additionalSources": [
     {
-      "name": "Hitachi, Ltd.: List of Group Companies (data behind hitachi.com/en/about/group/)",
-      "date": "2026",
+      "name": "Hitachi, Ltd.: List of Group Companies (the data file behind hitachi.com/en/about/group/)",
+      "date": "2026-07-29",
       "url": "https://www.hitachi.com/content/dam/hitachi/global/en/corporate/js/group/group_global_en.json",
-      "note": "Directory marks Hitachi High-Tech Corporation as a consolidated subsidiary; page undated, opened 2026-09-30.",
+      "note": "The directory marks Hitachi High-Tech Corporation as a consolidated subsidiary; the file says 'Updated: July 29, 2026'.",
       "quote": "\"allocation\":\"consolidated\",\"name\":\"HITACHI HIGH-TECH CORPORATION\",\"url\":\"https://www.hitachi-hightech.com/global/en/\"",
       "checked": {
         "on": "2026-09-30",

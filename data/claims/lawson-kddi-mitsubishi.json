@@ -5,10 +5,10 @@
     "kddi-corporation",
     "mitsubishi-corporation"
   ],
-  "text": "Lawson, Inc. (株式会社ローソン) announced on 6 February 2024 a capital and business alliance under which Mitsubishi Corporation and KDDI Corporation each hold 50% of Lawson's voting rights following its privatisation (takeover bid and squeeze-out, completed in 2024).",
+  "text": "Mitsubishi Corporation, KDDI Corporation and Lawson, Inc. announced a capital and business alliance on 6 February 2024: KDDI would make a tender offer to take Lawson private, after which Mitsubishi Corporation and KDDI would each hold 50% of Lawson's voting rights. KDDI said on 20 August 2024 that the squeeze-out was complete and that KDDI and Mitsubishi Corporation had each obtained a 50% share of Lawson's voting rights.",
   "short": "Lawson is held 50/50 by Mitsubishi Corporation and KDDI Corporation.",
   "source": {
-    "name": "株式会社ローソン: 三菱商事・KDDI・ローソン、資本業務提携契約を締結 (capital alliance announcement)",
+    "name": "ローソン: 三菱商事・KDDI・ローソン、資本業務提携契約を締結",
     "date": "2024-02-06",
     "url": "https://www.lawson.co.jp/company/news/detail/1480843_2504.html",
     "quote": "本取引の完了後、三菱商事とKDDIは、ローソンの議決権を50%ずつ保有し",
@@ -17,5 +17,17 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "KDDI Corporation: (Progress of matters for disclosure) Notice Regarding the Squeeze-Out Procedure of Lawson, Inc.",
+      "date": "2024-08-20",
+      "url": "https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf",
+      "quote": "Then KDDI and MC each have obtained a 50% share of Lawson's voting rights.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
 }

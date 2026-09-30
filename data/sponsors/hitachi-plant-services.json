@@ -3,9 +3,9 @@
   "name": "Hitachi Plant Services Co., Ltd.",
   "ownerId": "hitachi-ltd",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Hitachi Plant Services Co., Ltd., a wholly owned subsidiary of Tokyo-listed Hitachi, Ltd. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "hitachi-plant-services-hitachi",
     "hitachi-ltd-shareholders"
@@ -14,5 +14,5 @@
     "株式会社日立プラントサービス",
     "日立プラントサービス"
   ],
-  "note": "Kit sponsor (left sleeve) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Rating note: 100% consolidated subsidiary of Hitachi, Ltd., whose shareholders are institutional; no state control."
+  "note": "Kit sponsor (left sleeve) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Left unrated for a maintainer, together with `hitachi`: the owner is sourced (hitachi-plant-services-hitachi: Hitachi, Ltd. holds 100.0% of the voting rights; hitachi-ltd-shareholders: no state holder), but the company test on that owner isn't settled. The Takaoka Labour Standards Inspection Office recognised in January 2018 that a Hitachi employee seconded to Hitachi Plant Services developed a mental illness because of a supervisor's conduct and more than 100 hours of overtime a month in 2015-16 (Nikkei, 2018-11-06, https://www.nikkei.com/article/DGXMZO37435230W8A101C1CR8000/). On 6 September 2019 Japan's Immigration Services Agency issued Hitachi, Ltd. an improvement order under the Technical Intern Training Act for making foreign technical interns at its Kasado works (Kudamatsu, Yamaguchi) do work outside their training plan; after the July 2018 inspection no new training plans were approved there, and many interns who could not renew their residence status were dismissed (Nikkei, 2019-09-06, https://www.nikkei.com/article/DGXMZO49509660W9A900C1CR8000/). Hitachi and 10 group companies (12 sites) had already received improvement recommendations or guidance from the Organization for Technical Intern Training for breaches of the same act between April and September 2018 (Nikkei, 2019-03-05, https://www.nikkei.com/article/DGXMZO42034490V00C19A3CC0000/; the article names Hitachi's Omika works and Hitachi Metals, not the other companies). If a maintainer counts this as a human-rights finding against Hitachi, Ltd., it reaches this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if not, this sponsor is `none`. No record claim is written yet."
 }

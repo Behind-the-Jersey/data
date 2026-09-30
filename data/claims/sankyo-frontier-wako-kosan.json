@@ -1,0 +1,35 @@
+{
+  "id": "sankyo-frontier-wako-kosan",
+  "kind": "ownership",
+  "ownerIds": [
+    "sankyo-frontier-co",
+    "wako-kosan"
+  ],
+  "text": "Sankyo Frontier Co., Ltd.'s securities report for the year ended 31 March 2026 (57th term) names the unlisted 有限会社和幸興産 (Wako Kosan Co., Ltd.), a real-estate management company in Kashiwa, Chiba, as its parent company and largest shareholder with 50.54% of the shares, and says that 和幸興産's voting rights are 100% owned by 長妻和男, 長妻貴嗣 (Sankyo Frontier's president) and their close relatives. The next largest holders are 長妻貴嗣 (14.93%) and 長妻和男 (2.92%); governments and local public bodies hold no shares.",
+  "short": "Sankyo Frontier's parent is the unlisted Wako Kosan (50.54%), which is wholly owned by the Nagatsuma family.",
+  "source": {
+    "name": "三協フロンテア株式会社: 有価証券報告書 第57期 (2025年4月1日〜2026年3月31日)",
+    "date": "2026-06-18",
+    "url": "https://www.sankyofrontier.com/ir/material/pdf/yuka_shoken/26_q4.pdf",
+    "quote": "㈲和幸興産 千葉県柏市北柏１丁目１ 11,233 50.54",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "The PDF is encrypted, so the source check can't read it. The quote is in （６）【大株主の状況】; the 100% family ownership of 和幸興産 is in the 関連当事者情報 note."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "有限会社和幸興産: 親会社等状況報告書 第39期 (EDINET)",
+      "date": "2021-05-12",
+      "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100LAZ6.pdf",
+      "note": "The parent's own filing gives its English name and names 三協フロンテア株式会社 as its subsidiary; its three shareholders are all individuals.",
+      "quote": "【英訳名】 Wako Kosan Co,.Ltd.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
+}
