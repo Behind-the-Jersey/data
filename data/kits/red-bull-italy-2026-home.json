@@ -21,13 +21,19 @@
       "sponsorId": "azimut",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - Red Bull Italy (Global Partners)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/red-bull-italy/"
+        "name": "Pressmare: Red Bull Italy SailGP welcomes Azimut as Global Partner",
+        "date": "2026-01-15",
+        "url": "https://www.pressmare.it/en/team/red-bull-ita-sailgp-team/2026-01-15/red-bull-italy-sailgp-welcomes-azimut-as-global-partner-87770",
+        "quote": "joins the team as Global Partner for the upcoming 2026 Rolex SailGP Championship",
+        "note": "The team's own announcement ('By Red Bull Ita SailGP Team'). SailGP's team page (sailgp.com/teams/red-bull-italy/) lists Azimut as the team's only Global Partner.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-871 (Claude Code, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Red Bull is in the team's name itself rather than a bought placement; Azimut (Azimut Investments) is the team's Global Partner. Red Bull also became a SailGP league global partner in January 2026.",
+  "summary": "Red Bull is in the team's name itself rather than a bought placement; Azimut, the asset and wealth management group, is the team's Global Partner, with the Azimut Investments logo on the hull of the F50. Red Bull also became a SailGP league global partner in January 2026. Not marked complete: only the title sponsor and the Global Partner were checked.",
   "change": null
 }
