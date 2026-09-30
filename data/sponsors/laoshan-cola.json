@@ -1,0 +1,29 @@
+{
+  "id": "laoshan-cola",
+  "name": "Laoshan Cola",
+  "ownerId": "qingdao-beverage-group",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Laoshan Cola is a brand of Qingdao Beverage Group, an enterprise wholly owned by the Qingdao municipal SASAC; new front sponsor of Qingdao Hainiu for the 2026 CSL season.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "laoshan-cola-beverage-group-ownership",
+    "qingdao-beverage-group-sasac"
+  ],
+  "aliases": [
+    "崂山可乐",
+    "Laoshan Cola Co."
+  ],
+  "why": {
+    "text": "Laoshan Cola is a brand of Qingdao Beverage Group, which is wholly owned by the Qingdao municipal state-assets commission. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Laoshan Cola is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "laoshan-cola-beverage-group-ownership",
+      "qingdao-beverage-group-sasac"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims laoshan-cola-beverage-group-ownership + qingdao-beverage-group-sasac: Laoshan Cola is a Qingdao Beverage Group brand, and the group is wholly owned by Qingdao SASAC; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment: UN OHCHR 2022 Xinjiang assessment plus Human Rights Watch 2026) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers)."
+}
