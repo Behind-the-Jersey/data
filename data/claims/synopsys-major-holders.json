@@ -1,0 +1,20 @@
+{
+  "id": "synopsys-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "synopsys-inc"
+  ],
+  "text": "Synopsys, Inc. is a Delaware corporation listed on the Nasdaq Global Market. Its 2026 proxy statement names two owners of more than 5% of its common stock: entities associated with The Vanguard Group, Inc. (7.1%) and entities associated with BlackRock, Inc. (6.2%).",
+  "short": "Synopsys is Nasdaq-listed; Vanguard (7.1%) and BlackRock (6.2%) are its only disclosed >5% holders.",
+  "source": {
+    "name": "Synopsys, Inc.: 2026 Proxy Statement (DEF 14A), 'Security Ownership of Certain Beneficial Owners and Management' (SEC EDGAR)",
+    "date": "2026-02-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324126000007/snps-20260219.htm",
+    "quote": "Entities associated with The Vanguard Group, Inc. 100 Vanguard Blvd. Malvern, PA 19355 13,551,037 7.1",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
