@@ -1,0 +1,19 @@
+{
+  "id": "yahoo-apollo-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "apollo-global-management"
+  ],
+  "text": "Yahoo operates as a standalone company owned by funds managed by affiliates of Apollo Global Management, which completed its acquisition of Yahoo (formerly Verizon Media) in September 2021; Verizon retained a 10% stake.",
+  "source": {
+    "name": "Apollo Global Management: Apollo Funds Complete Acquisition of Yahoo",
+    "date": "2021-09-01",
+    "url": "https://www.apollo.com/insights-news/pressreleases/2021/09/apollo-funds-complete-acquisition-of-yahoo-161530593",
+    "quote": "funds managed by its affiliates (the “Apollo Funds”) have completed the acquisition of Yahoo - formerly Verizon Media",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

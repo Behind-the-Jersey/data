@@ -1,0 +1,34 @@
+{
+  "id": "neom-pif-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "neom",
+    "saudi-pif",
+    "government-of-saudi-arabia"
+  ],
+  "text": "NEOM is a closed joint-stock company fully owned by the Public Investment Fund (PIF), Saudi Arabia's sovereign wealth fund; Human Rights Watch describes NEOM as a PIF-funded giga-project.",
+  "short": "NEOM is fully owned by Saudi Arabia's sovereign wealth fund, PIF.",
+  "source": {
+    "name": "Saudi Press Agency: NEOM Established as a Closed Joint-Stock Company Owned by Saudi Sovereign Wealth Fund (archived copy)",
+    "date": "2019-01-29",
+    "url": "http://web.archive.org/web/20191108061820/https://www.spa.gov.sa/1879719",
+    "quote": "The newly-established entity is fully owned by the Public Investment Fund, the sovereign wealth fund of Saudi Arabia",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
+      "date": "2024-12-04",
+      "url": "https://www.hrw.org/report/2024/12/04/die-first-and-ill-pay-you-later/saudi-arabias-giga-projects-built-widespread",
+      "quote": "PIF-funded businesses and projects are among those exploiting and abusing migrant workers, including in NEOM, a PIF-funded giga-project",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
