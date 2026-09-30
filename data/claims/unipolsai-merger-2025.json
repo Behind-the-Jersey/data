@@ -1,0 +1,32 @@
+{
+  "id": "unipolsai-merger-2025",
+  "kind": "ownership",
+  "ownerIds": [
+    "unipol-assicurazioni"
+  ],
+  "text": "Effective 31 December 2024, UnipolSai Assicurazioni S.p.A. was merged by incorporation into Unipol Gruppo S.p.A., which at the same time changed its legal denomination to Unipol Assicurazioni S.p.A. Unipol Assicurazioni's shares are listed on the Milan stock exchange; its main shareholders include companies of the Italian cooperative movement.",
+  "short": "UnipolSai merged into Unipol Assicurazioni S.p.A. (Milan-listed) in December 2024.",
+  "source": {
+    "name": "Morningstar DBRS: Morningstar DBRS Upgrades Issuer Rating of Unipol Assicurazioni S.p.A. (formerly Unipol Gruppo S.p.A.)",
+    "date": "2025-01-15",
+    "url": "https://dbrs.morningstar.com/research/445861/morningstar-dbrs-upgrades-issuer-rating-of-unipol-assicurazioni-spa-formerly-unipol-gruppo-spa-to-a-high-and-removes-it-from-under-review-with-positive-implications-trend-reverts-to-stable",
+    "quote": "Effective 31 December 2024, Unipol completed the merger by incorporation of the insurance operating entity UnipolSai with the former holding company Unipol Gruppo S.p.A.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Gruppo Unipol: Corporate Profile",
+      "date": "2025-12-31",
+      "url": "https://www.unipol.com/en/our-identity/corporate-profile",
+      "quote": "The ordinary shares of the parent company, Unipol Assicurazioni S.p.A., have been listed on the Italian Stock Exchange (Borsa Italiana) since 1990",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
+}

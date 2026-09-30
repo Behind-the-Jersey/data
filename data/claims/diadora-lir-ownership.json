@@ -1,0 +1,33 @@
+{
+  "id": "diadora-lir-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "diadora",
+    "lir-srl"
+  ],
+  "text": "Diadora is owned by Lir, the Moretti Polegato family's holding company. Lir S.r.l. belongs entirely to Mario Moretti Polegato (85%) and Enrico Moretti Polegato (15%) and controls Geox S.p.A. with 71.16%; Geox's half-year 2026 report lists Diadora S.p.A. among the group's affiliated companies.",
+  "short": "Diadora is owned by Lir S.r.l., the Moretti Polegato family's holding company.",
+  "source": {
+    "name": "Geox S.p.A.: 2026 Half-Year Financial Report",
+    "date": "2026",
+    "url": "https://www.geox.biz/static/upload/hal/half-year-financial-report-30-06-2026.pdf",
+    "quote": "The Group has dealings with the ultimate parent company (LIR S.r.l.), with affiliated companies (mainly Diadora S.p.A. for the portion related to revenues on royalties",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "LaConceria: After Geox, Diadora cuts jobs too, but Moretti Polegato invests",
+      "date": "2026-02-12",
+      "url": "https://www.laconceria.it/en/news/after-geox-diadora-cuts-jobs-too-but-moretti-polegato-invests/",
+      "quote": "Diadora, owned by the Moretti Polegato family’s Lir, has announced 27 redundancies out of a total of 199 employees.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

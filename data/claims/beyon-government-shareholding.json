@@ -1,0 +1,34 @@
+{
+  "id": "beyon-government-shareholding",
+  "kind": "ownership",
+  "ownerIds": [
+    "mumtalakat",
+    "government-of-bahrain"
+  ],
+  "text": "Beyon (Batelco Group) is 56.98% held by Bahraini state bodies its 2025 annual report classifies as \"Government\" shareholders: the state fund Mumtalakat (36.67%) and the Social Insurance Organization (20.31%).",
+  "short": "Bahraini state bodies hold 56.98% of Beyon (Mumtalakat 36.67%, Social Insurance Organization 20.31%)",
+  "source": {
+    "name": "Beyon — Annual Report 2025 (Corporate Governance, Ownership Structure)",
+    "date": "2026-03",
+    "url": "https://beyon.com/wp-content/uploads/2026/03/Beyon_AR2025_English.pdf",
+    "quote": "1. Mumtalakat Holding Company 609,840,000 36.67% Government Local 2. Amber Holding Company 332,640,000 20% Organization Foreign 3. Social Insurance Organization 337,835,705 20.31% Government Local",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Mubasher — Beyon B.S.C (BEYON) company profile, ownership",
+      "date": "2026-09-29",
+      "url": "https://english.mubasher.info/markets/BB/stocks/BEYON/profile",
+      "quote": "Ownership Bahrain Mumtalakat Holding Co (36.67%) Amber Holding Limited (20.00%) Social Insurance Organization (10.58%)",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Mubasher also lists Social Insurance Organisation pension funds at 6.11% and 3.62%."
+    }
+  ],
+  "reviewed": false
+}

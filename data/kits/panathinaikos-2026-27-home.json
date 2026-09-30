@@ -7,8 +7,54 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "pame-stoixima",
+      "placement": "front",
+      "source": {
+        "name": "gazzetta.gr: Η adidas και ο Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση για τη σεζόν 2026/27",
+        "date": "2026-09-15",
+        "url": "https://www.gazzetta.gr/plus/2569336/i-adidas-kai-o-panathinaikos-aktor-paroysiazoyn-ti-nea-entos-edras-emfanisi-gia-ti",
+        "quote": "Η adidas και η ΚΑΕ Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση της ομάδας για τη σεζόν 2026/27",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "The club's kit-launch press release as published by gazzetta.gr, with the launch photo: the pame stoixima logo sits large on the front of the 2026/27 home jersey, below the number. OPAP's sponsorship page (corporate.opap.gr/en/company/sponsorships, archived 17 Apr 2026) names Pame Stoixima as the Grand Sponsor of Panathinaikos BC."
+      }
+    },
+    {
+      "sponsorId": "bp",
+      "placement": "shorts",
+      "source": {
+        "name": "gazzetta.gr: Η adidas και ο Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση για τη σεζόν 2026/27",
+        "date": "2026-09-15",
+        "url": "https://www.gazzetta.gr/plus/2569336/i-adidas-kai-o-panathinaikos-aktor-paroysiazoyn-ti-nea-entos-edras-emfanisi-gia-ti",
+        "quote": "Η adidas και η ΚΑΕ Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση της ομάδας για τη σεζόν 2026/27",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "The club's kit-launch press release as published by gazzetta.gr, with the launch photo: the bp Helios logo is on the lower front of one leg of the shorts. The club's own launch page (paobc.gr, 13 Sep 2026) carries the same photo but can't be opened by a script."
+      }
+    },
+    {
+      "sponsorId": "aktor",
+      "placement": "partner",
+      "source": {
+        "name": "newmoney.gr: O Όμιλος AKTOR επεκτείνει την συνεργασία του με την ΚΑΕ Παναθηναϊκός – AKTOR",
+        "date": "2024-11-05",
+        "url": "https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/o-omilos-aktor-epektini-tin-sinergasia-tou-me-tin-kae-panathinaikos-aktor/",
+        "quote": "ανανέωσε τη χορηγία ονοματοδοσίας και, ταυτόχρονα, παρέδωσε στην ομάδα ένα γήπεδο",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "AKTOR Group's press release of 5 Nov 2024 as published by newmoney.gr: the naming sponsorship was extended for three more seasons, to 2028-29, so the team plays as Panathinaikos AKTOR. Naming partner only: the AKTOR wordmark is not on the front of the 2026/27 home jersey or on the shorts in the launch photo; no photo of the back was found."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Pame Stoixima (OPAP's betting brand) is on the front of the jersey below the number; bp is on the lower front of one leg of the shorts; AKTOR is the naming partner (the team plays as Panathinaikos AKTOR). The EuroLeague badge with the Etihad wordmark on the chest and the shorts is the competition's own badge, not counted as a sponsor, as on other EuroLeague kits. adidas is the kit maker. Not marked complete: no cited source shows the back of the 2026/27 home jersey, so a sponsor above or below the back number can't be ruled out.",
   "change": null
 }

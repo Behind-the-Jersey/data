@@ -1,0 +1,32 @@
+{
+  "id": "peace-park-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "peace-park-capital"
+  ],
+  "text": "Peace Park Capital invests in collateralized loan obligation (CLO) securities. Its team page lists Ron Baron, a founder, executive director and CIO of Livermore Investments Group.",
+  "short": "Peace Park Capital is a CLO investor; its team includes Livermore's Ron Baron.",
+  "source": {
+    "name": "Peace Park Capital, 'About us'",
+    "date": "2025",
+    "url": "https://www.peaceparkcapital.com/about-us/",
+    "quote": "Peace Park generates attractive risk-adjusted returns through diversified exposure to and active management of collateralized loan obligation (CLO) securities",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Peace Park Capital, 'Team' (Ron Baron)",
+      "date": "2025",
+      "url": "https://www.peaceparkcapital.com/team/team",
+      "quote": "Mr Baron is a Founder, Executive Director and CIO of Livermore Investments Group.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

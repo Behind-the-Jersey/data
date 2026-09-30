@@ -1,11 +1,16 @@
 {
   "id": "norelem",
   "name": "Norelem",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "norelem-sas",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French standard-components distributor run by NORELEM SAS, a single-shareholder private company. Nothing found.",
+  "claimIds": [
+    "norelem-sas-record"
+  ],
+  "aliases": [
+    "NORELEM SAS"
+  ],
+  "note": "Rating note: NORELEM SAS is a SASU (RCS Troyes 432 505 741); the register does not disclose its shareholder, and no state or fund ownership appears in any source opened. Nothing passes the test."
 }

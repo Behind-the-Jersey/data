@@ -3,13 +3,16 @@
   "name": "Sagres",
   "ownerId": "sociedade-central-cervejas",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Sociedade Central de Cervejas e Bebidas, taken over 100% by Heineken in 2008. Nothing found.",
+  "claimIds": [
+    "scc-heineken-ownership",
+    "heineken-nv-shareholders"
+  ],
   "aliases": [
     "cerveja sagres",
     "scc"
   ],
-  "note": "Portuguese beer brand of Sociedade Central de Cervejas e Bebidas (100% Heineken since 2008). Back-of-shirt sponsor at Benfica in 2026-27."
+  "note": "Portuguese beer brand of Sociedade Central de Cervejas e Bebidas; back-of-shirt sponsor at Benfica in 2026-27. Rating note: SCC has been 100% controlled by the Heineken Group since 2008 (scc-heineken-ownership); Heineken N.V.'s only notified substantial shareholder is Mrs. C.L. de Carvalho-Heineken, indirectly 50.005% through Heineken Holding N.V. (heineken-nv-shareholders). No state or state fund appears in the chain, so nothing passes the rating test."
 }

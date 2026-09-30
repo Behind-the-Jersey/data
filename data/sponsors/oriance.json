@@ -1,11 +1,17 @@
 {
   "id": "oriance",
   "name": "Oriance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "ad-invest",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Breton window-maker (A-D Oriance, based at Guipavas; created in 2004 in Brest per the club) whose Président is the holding AD Invest, with gérants Stéphane Abgrall and Bruno Delanoë. Nothing found.",
+  "claimIds": [
+    "abgrall-delanoe-ownership"
+  ],
+  "aliases": [
+    "A-D Oriance",
+    "Oriance fenêtres"
+  ],
+  "note": "Rating note: the company register lists AD INVEST (gérants Abgrall and Delanoë) as Président of ABGRALL-DELANOE (SIREN 480426758), whose Siret matches Oriance's mentions légales. AD Invest's shareholders are not in the cited sources. No state or fund stake found → none."
 }

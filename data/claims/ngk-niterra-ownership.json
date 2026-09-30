@@ -1,0 +1,20 @@
+{
+  "id": "ngk-niterra-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "niterra-co"
+  ],
+  "text": "NGK spark plugs are made by Niterra Co., Ltd., the company founded in 1936 as NGK SPARK PLUG CO., LTD., which has since changed its English name to Niterra. It is listed on both the Tokyo and Nagoya stock exchanges.",
+  "short": "NGK is Niterra Co., Ltd., listed in Tokyo and Nagoya.",
+  "source": {
+    "name": "Niterra Co., Ltd.: A History of Niterra Co., Ltd.",
+    "date": "2026",
+    "url": "https://www.niterragroup.com/english/corporate/history/",
+    "quote": "Listed on both Tokyo and Nagoya stock exchanges",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

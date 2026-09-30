@@ -1,0 +1,21 @@
+{
+  "id": "masco-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "masco-corporation"
+  ],
+  "text": "Masco Corporation's proxy statement for its 2026 annual meeting lists three beneficial owners of more than five percent of its common stock, as of 31 December 2025: The Vanguard Group (12.8%), BlackRock, Inc. (7.4%) and Harris Associates LP (5.5%).",
+  "short": "Masco's holders above 5% are Vanguard (12.8%), BlackRock (7.4%) and Harris Associates (5.5%).",
+  "source": {
+    "name": "Masco Corporation: Proxy Statement for the 2026 Annual Meeting (DEF 14A)",
+    "date": "2026-04-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/62996/000119312526151241/d44594ddef14a.htm",
+    "quote": "all persons whom we know to be beneficial owners of more than five percent of our common stock",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "Schnitzel"
+    },
+    "note": "The table that follows lists BlackRock, Inc. (7.4%), Harris Associates LP (5.5%) and The Vanguard Group (12.8%), as of 31 December 2025."
+  },
+  "reviewed": false
+}

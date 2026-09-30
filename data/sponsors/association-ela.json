@@ -1,11 +1,17 @@
 {
   "id": "association-ela",
   "name": "Association ELA",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "association-ela",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Association Européenne contre les Leucodystrophies: a French patients' association founded by Guy Alba in 1992 and recognised of public utility since 1996. Nothing found.",
+  "claimIds": [
+    "ela-nonprofit-association"
+  ],
+  "aliases": [
+    "ELA",
+    "Association Européenne contre les Leucodystrophies"
+  ],
+  "note": "Non-profit association, recorded as its own owner (as for DEVK, Bon Secours Mercy Health and Highmark). No state or state fund appears in the sources."
 }

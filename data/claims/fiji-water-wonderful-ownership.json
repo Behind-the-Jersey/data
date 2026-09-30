@@ -1,0 +1,34 @@
+{
+  "id": "fiji-water-wonderful-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "the-wonderful-company"
+  ],
+  "text": "FIJI Water is one of the brands of The Wonderful Company LLC of Los Angeles, which describes itself as a privately held $6 billion company.",
+  "short": "FIJI Water is a The Wonderful Company brand; Wonderful is privately held.",
+  "source": {
+    "name": "The Wonderful Company: FIJI Water (official brand page, listed under 'Our Brands')",
+    "date": "2026-09-30",
+    "url": "https://www.wonderful.com/brands/fiji",
+    "quote": "Our Brands FIJI Water JUSTIN Wines Landmark Wines Lewis Cellars POM Wonderful",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "Undated corporate brand page; date is the day it was opened. The page is The Wonderful Company's own brand page for FIJI Water, and its 'Our Brands' menu lists FIJI Water alongside the company's other brands."
+  },
+  "additionalSources": [
+    {
+      "name": "The Wonderful Company Careers: Manager, Consumer PR, FIJI Water (job posting)",
+      "date": "2026-09-30",
+      "url": "https://careers.wonderful.com/jobs/744000107837686",
+      "quote": "The Wonderful Company is a privately held $6 billion company committed to providing high-quality, healthy brands",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Undated careers page; date is the day it was opened. The posting is for 'Manager, Consumer Public Relations for FIJI Water' at 'The Wonderful Company, Los Angeles, CA', tying the brand to the company."
+    }
+  ],
+  "reviewed": false
+}

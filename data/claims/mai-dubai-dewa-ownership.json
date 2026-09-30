@@ -1,0 +1,33 @@
+{
+  "id": "mai-dubai-dewa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dewa"
+  ],
+  "text": "Mai Dubai, the bottled-water company, is fully owned by Dubai Electricity and Water Authority (DEWA).",
+  "short": "Mai Dubai is fully owned by DEWA.",
+  "source": {
+    "name": "Mai Dubai (carrying DEWA's press release): 'Mai Dubai launches fastest bottled water production line in the region'",
+    "date": "2021-09-20",
+    "url": "https://www.maidubaiwater.com/whatson/mai-dubai-launches-fastest-bottled-water-production-line-in-the-region",
+    "quote": "Mai Dubai, the leading bottled water company fully owned by Dubai Electricity and Water Authority (DEWA)",
+    "note": "Company website carrying DEWA's press release (the dewa.gov.ae original 403s from datacenter IPs).",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The National: 'Mai Dubai to double up on bottled water production'",
+      "date": "2017-04-16",
+      "url": "https://www.thenationalnews.com/business/mai-dubai-to-double-up-on-bottled-water-production-1.31044",
+      "quote": "Mai Dubai, which is owned by the Dubai Electricity and Water Authority (Dewa), on Sunday said it will more than double its current production capacity next year",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

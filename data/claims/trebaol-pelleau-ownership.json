@@ -1,0 +1,34 @@
+{
+  "id": "trebaol-pelleau-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sofipel"
+  ],
+  "text": "The club's partner page for J.Bervas Automobiles (business.sb29.bzh/partenaire/sofipel/) gives 175 rue de Gouesnou, Brest. The company register lists SOFIPEL (SIREN 440978062, SAS) at angle Bd de l'Europe / 175 rue de Gouesnou, Brest, with Marc Yvon Philippe Trébaol-Pelleau as Président de SAS.",
+  "short": "The club's J.Bervas Automobiles partner page and the company SOFIPEL share a Brest address.",
+  "source": {
+    "name": "Annuaire des entreprises (recherche-entreprises.api.gouv.fr), SOFIPEL, SIREN 440978062",
+    "date": "2026-09-28",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=440978062&per_page=1",
+    "quote": "\"dirigeants\":[{\"nom\":\"TREBAOL-PELLEAU\",\"prenoms\":\"MARC YVON PHILILPPE\",\"annee_de_naissance\":\"1963\",\"date_de_naissance\":\"1963-02\",\"qualite\":\"Président de SAS\"",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    },
+    "note": "Same response: nature juridique 5710 (SAS), siège angle Bd de l'Europe / 175 rue de Gouesnou, 29200 Brest."
+  },
+  "additionalSources": [
+    {
+      "name": "Stade Brestois 29: Partenaire : J.Bervas Automobiles",
+      "date": "2026",
+      "url": "https://business.sb29.bzh/partenaire/sofipel/",
+      "quote": "PARTENAIRE Officiel J.Bervas Automobiles 175 rue de Gouesnou 29200 Brest",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The page lists Pelleau Antoine as contact."
+    }
+  ],
+  "reviewed": false
+}

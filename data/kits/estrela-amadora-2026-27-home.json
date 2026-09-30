@@ -11,14 +11,67 @@
     {
       "sponsorId": "lebull",
       "placement": "front",
+      "side": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Estrela da Amadora: PRE-SALE: Camisola Principal 26/27",
+        "date": "2026-08-06",
+        "url": "https://estrelamadora.pt/produto/pre-sale-principal-26-27/",
+        "quote": "Devido à elevada procura, podes reservar já a tua camisola com 5% de desconto até à chegada do novo stock. Pré-venda da Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "The product photo (https://estrelamadora.pt/wp-content/uploads/2026/08/Camisolas-1.png) shows 'Lebull' across the front of the 2026-27 home shirt. Footy Headlines' third-kit article (28 Aug 2026) calls Lebull the 'front sponsor', and Cabine Desportiva (X, 1 Aug 2026): \"Estrela da Amadora passa a ter como patrocinador principal a Lebull\"."
+      }
+    },
+    {
+      "sponsorId": "marcos-car",
+      "placement": "front",
+      "side": "front",
+      "source": {
+        "name": "Estrela da Amadora: PRE-SALE: Camisola Principal 26/27",
+        "date": "2026-08-06",
+        "url": "https://estrelamadora.pt/produto/pre-sale-principal-26-27/",
+        "quote": "Devido à elevada procura, podes reservar já a tua camisola com 5% de desconto até à chegada do novo stock. Pré-venda da Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "The product photo (https://estrelamadora.pt/wp-content/uploads/2026/08/Camisolas-1.png) shows 'MARCOS CAR' on the chest above the adidas logo."
+      }
+    },
+    {
+      "sponsorId": "hospital-da-luz",
+      "placement": "sleeve",
+      "source": {
+        "name": "Estrela da Amadora: PRE-SALE: Camisola Principal 26/27",
+        "date": "2026-08-06",
+        "url": "https://estrelamadora.pt/produto/pre-sale-principal-26-27/",
+        "quote": "Devido à elevada procura, podes reservar já a tua camisola com 5% de desconto até à chegada do novo stock. Pré-venda da Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "The product photo (https://estrelamadora.pt/wp-content/uploads/2026/08/Camisolas-1.png) shows 'HOSPITAL DA LUZ' on the sleeve."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Adidas Estrela da Amadora 26-27 Home & Away Kits Released - No More Umbro",
+        "date": "2026-07-31",
+        "url": "https://www.footyheadlines.com/1747733699/adidas-estrela-da-amadora-26-27-home-away-kits-released-no-more-umbro.html",
+        "quote": "Portuguese Primeira Liga club CF Estrela da Amadora has officially launched its 26-27 home and away kits, marking the beginning of a new partnership with Adidas after three seasons with Umbro.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull.",
+  "summary": "adidas home shirt with Lebull (Southern Stingray, S.A.) as the main front sponsor, Marcos Car on the chest and Hospital da Luz on the sleeve, as the club's shop photo shows. Not marked complete: the back and shorts sponsors (Centro de Reciclagem da Amadora, Solfaestofo and RE/MAX Yes in the 2026-27 kit table) have no source yet that shows them on this shirt.",
   "change": null
 }

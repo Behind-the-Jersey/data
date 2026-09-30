@@ -1,0 +1,33 @@
+{
+  "id": "banco-santander-totta-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "banco-santander-sa"
+  ],
+  "text": "The 'Santander' name on Portugal's rugby shirt is Santander Portugal, the trading name of Banco Santander Totta, S.A., of which Banco Santander, S.A. owns 1,383,690,177 shares, per Banco Santander's 2025 annual report filed with the SEC.",
+  "short": "Santander Portugal is Banco Santander Totta, S.A., owned by Banco Santander, S.A.",
+  "source": {
+    "name": "Banco Santander, S.A. Form 20-F 2025 (SEC EDGAR) - Consolidated annual report, Appendix on Banco Santander Totta",
+    "date": "2026-02-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000030/san-20251231.htm",
+    "quote": "Banco Santander, S.A. owns 1,383,690,177 shares of Banco Santander Totta, S.A.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Banco Santander Totta, S.A.: Institutional Presentation H1'26 (santander.pt investor relations)",
+      "date": "2026-08",
+      "url": "https://www.santander.pt/pdfs/investor-relations/santander-totta-sa/apresentacoes/2026/SAN_PT-Institutional_1H26.pdf",
+      "note": "The presentation opens: 'Banco Santander Totta, S.A. (\"Santander Portugal\")', tying the Santander Portugal name to Banco Santander Totta, S.A.",
+      "quote": "Banco Santander Totta, S.A. (\"Santander Portugal\")",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

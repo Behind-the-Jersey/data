@@ -1,0 +1,34 @@
+{
+  "id": "diez-icd-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "investment-corporation-of-dubai"
+  ],
+  "text": "The Dubai Integrated Economic Zones Authority (DIEZ) is wholly owned by the Investment Corporation of Dubai (ICD).",
+  "short": "DIEZ is wholly owned by the Investment Corporation of Dubai.",
+  "source": {
+    "name": "Dubai Legislation Portal (Supreme Legislation Committee): Law No. (16) of 2021 Establishing the Dubai Integrated Economic Zones Authority, Article 3",
+    "date": "2021-09-14",
+    "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2021/Law%20No.%20(16)%20of%202021.html",
+    "quote": "DIEZA will have legal personality, financial and administrative autonomy, and the legal capacity required to undertake all acts and dispositions required for the achievement of its objectives. DIEZA will be wholly owned by the ICD.",
+    "note": "Article 2 of the law defines ICD as the Investment Corporation of Dubai.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Investment Corporation of Dubai: Consolidated financial statements for the period ended 30 June 2023 (Euronext RIS filing)",
+      "date": "2023",
+      "url": "https://direct.euronext.com/api/PublicAnnouncements/RISDocument/ICD%20Consolidated%20Financial%20Statements%2030.06.2023.pdf?id=254383c4-f177-43f8-b012-c678a69d91f2",
+      "quote": "DIEZ is wholly owned by ICD and effective 1 January 2022, all assets and liabilities of DSO and DAFZA were transferred to DIEZ in accordance with the Law.",
+      "note": "Page 31 of the PDF (notes to the financial statements).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

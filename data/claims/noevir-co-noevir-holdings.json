@@ -1,0 +1,20 @@
+{
+  "id": "noevir-co-noevir-holdings",
+  "kind": "ownership",
+  "ownerIds": [
+    "noevir-holdings"
+  ],
+  "text": "Noevir Holdings Co., Ltd.'s securities report for the year ended September 2025 lists Noevir Co., Ltd. (㈱ノエビア, Kobe) among its consolidated subsidiaries, with Noevir Holdings holding 100.00% of the voting rights.",
+  "short": "Noevir Co., Ltd. is a wholly owned subsidiary of Noevir Holdings.",
+  "source": {
+    "name": "Noevir Holdings Co., Ltd.: 2025年9月期 有価証券報告書 (annual securities report, consolidated subsidiaries and major shareholders sections)",
+    "date": "2025-09",
+    "url": "https://www.noevirholdings.co.jp/ir/library/security-reports/pdf/2025/yuho15.pdf",
+    "quote": "㈱ノエビア (注)4、5 神戸市中央区 7,319百万円 化粧品事業 医薬・食品事業 その他の事業 100.00",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

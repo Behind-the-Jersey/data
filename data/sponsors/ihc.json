@@ -4,13 +4,14 @@
   "ownerId": "international-holding-company",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "status": "being-rated",
+  "verdict": "IHC is controlled by Royal Group, a conglomerate whose president is Sheikh Tahnoon bin Zayed Al Nahyan.",
   "claimIds": [
-    "ihc-record"
+    "ihc-record",
+    "ihc-royal-group-control"
   ],
   "aliases": [
     "international holding company"
   ],
-  "note": "Abu Dhabi listed holding company; main sponsor of UAE Team L'IMAD. Reuses normalized owner id international-holding-company."
+  "note": "Abu Dhabi listed holding company; on the seat of the shorts of the 2026 UAE Team Emirates XRG kit and a main sponsor of UAE Team L'IMAD. Reuses normalized owner id international-holding-company. Rating note: on hold for a maintainer. Royal Group is Sheikh Tahnoon's private holding (the G42 review of 2026-09-27 treated it as private, not the state); Sheikh Tahnoon is Deputy Ruler of Abu Dhabi (claim g42-board-abu-dhabi-officials). ihc-record has no checked quote yet, and ihc-royal-group-control rests on one 2021 source. The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
 }

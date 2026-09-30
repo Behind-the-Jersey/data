@@ -1,0 +1,32 @@
+{
+  "id": "marcoscar-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "marcoscar-sa"
+  ],
+  "text": "Marcos Car is the brand of Marcoscar, S.A., a Barreiro car-dealer company (NIF 508842778, Sociedade Anónima, share capital 1,250,000 euros).",
+  "short": "Marcos Car is the brand of Marcoscar, S.A. (Barreiro).",
+  "source": {
+    "name": "Racius: Marcoscar, S.A. company profile",
+    "date": "2026-09-28",
+    "url": "https://www.racius.com/marcoscar-s-a/",
+    "quote": "Forma Jurídica Sociedade Anónima Capital Social € 1.250.000,00",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "marcoscar.com.pt (footer)",
+      "date": "2026",
+      "url": "https://www.marcoscar.com.pt/",
+      "quote": "NIF: 508842778",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

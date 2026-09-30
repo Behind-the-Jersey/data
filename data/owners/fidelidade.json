@@ -2,5 +2,8 @@
   "id": "fidelidade",
   "name": "Fidelidade - Companhia de Seguros",
   "type": "private-company",
-  "parentId": null
+  "country": "Portugal",
+  "via": "Fosun Group (through Millennium Gain Limited)",
+  "note": "Portuguese insurer. Its shareholders page lists Fosun Group (through Millennium Gain Limited) with 84.9892% and Caixa Geral de Depósitos (CGD), a bank owned by the Portuguese State, with 15%. It keeps 60% of Luz Saúde (Hospital da Luz) after selling 40% to Macquarie European Infrastructure Fund 7; the sale was completed on 29 January 2026, with Fidelidade keeping a controlling position (ECO).",
+  "parentId": "fosun"
 }

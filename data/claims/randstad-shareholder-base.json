@@ -1,0 +1,20 @@
+{
+  "id": "randstad-shareholder-base",
+  "kind": "ownership",
+  "ownerIds": [
+    "randstad-nv"
+  ],
+  "text": "Randstad N.V. is listed on Euronext Amsterdam; the largest holder disclosed under Dutch major-holdings rules is Stichting Stad en Lant, a foundation, with a 33% nominal stake and 33% of voting rights.",
+  "short": "Randstad is listed in Amsterdam; largest disclosed holder is a Dutch foundation (33%).",
+  "source": {
+    "name": "Randstad: Shareholder base (investor relations)",
+    "date": "2025-12-31",
+    "url": "https://www.randstad.com/investor-relations/randstad-share/shareholder-base",
+    "quote": "Stichting Stad en Lant 33% 33%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

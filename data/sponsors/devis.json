@@ -1,12 +1,18 @@
 {
   "id": "devis",
-  "name": "Devis Co., Ltd., new uniform partner from the 2026/27 season.",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  "name": "Debs",
+  "ownerId": "debs-co",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Debs Co., Ltd. (Debs Corporation), a private Osaka textile and lifestyle company led by president Hani Debs. Nothing found.",
+  "claimIds": [
+    "debs-co-private"
+  ],
+  "aliases": [
+    "デビス株式会社",
+    "Debs Co., Ltd.",
+    "Debs Corporation"
+  ],
+  "note": "Kit sponsor (front, left collarbone) of Vissel Kobe 2026-27, new uniform partner per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: private company, no state or fund involvement found."
 }

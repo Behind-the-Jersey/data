@@ -7,8 +7,54 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "rapyd",
+      "placement": "front",
+      "source": {
+        "name": "Rapyd: A New Era in Israeli Basketball: Maccabi Tel Aviv and Rapyd Sign Groundbreaking 7-Year Sponsorship Agreement",
+        "date": "2025-07-15",
+        "url": "https://www.rapyd.net/company/news/press-releases/rapyd-maccabi-sponsorship",
+        "quote": "and Rapyd’s logo will proudly appear on the front of the players’ jerseys",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Title/main sponsor since July 2025: the team plays as Maccabi Rapyd Tel Aviv. The Rapyd wordmark sits under the chest number on the 2026/27 home jersey in the club's launch photos (23 Sep 2026) and EuroLeague/cup game photos (24 and 27 Sep 2026)."
+      }
+    },
+    {
+      "sponsorId": "rapyd",
+      "placement": "shorts",
+      "source": {
+        "name": "Maccabi Tel Aviv B.C.: משחקים בשביל הסמל: המדים הצהובים החדשים",
+        "date": "2026-09-23",
+        "url": "https://maccabi.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%99%d7%9c-%d7%94%d7%a1%d7%9e%d7%9c-%d7%94%d7%9e%d7%93%d7%99%d7%9d-%d7%94%d7%a6%d7%94%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%97%d7%93%d7%a9%d7%99/",
+        "quote": "מכבי Rapyd תל אביב חושפת עם adidas את סט המדים המוביל",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "The Rapyd wordmark sits on the lower front of one leg of the shorts, next to the adidas mark, in the club's launch photos for this kit on this page (23 Sep 2026)."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Maccabi Tel Aviv B.C.: משחקים בשביל הסמל: המדים הצהובים החדשים",
+        "date": "2026-09-23",
+        "url": "https://maccabi.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%99%d7%9c-%d7%94%d7%a1%d7%9e%d7%9c-%d7%94%d7%9e%d7%93%d7%99%d7%9d-%d7%94%d7%a6%d7%94%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%97%d7%93%d7%a9%d7%99/",
+        "quote": "מכבי Rapyd תל אביב חושפת עם adidas את סט המדים המוביל",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Kit maker: adidas mark on the chest of the jersey and on the shorts, three stripes down the sides of both. The same article says: 'שלושת הפסים המפורסמים של adidas מעטרים את צדי הגוף'."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Rapyd is on the front of the 2026/27 home jersey (under the chest number) and on the front of the shorts; adidas is the kit maker. Not marked complete: no cited source shows the back of the jersey (the club's launch photos and the game photos consulted show fronts only), so a back sponsor can't be ruled out. The EuroLeague/Etihad patch (EuroLeague games) and the 'ליגת Winner' patch (domestic games) are competition marks, not club sponsors.",
   "change": null
 }

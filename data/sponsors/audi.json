@@ -1,0 +1,17 @@
+{
+  "id": "audi",
+  "name": "Audi",
+  "ownerId": "audi-ag",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Audi is a fully owned Volkswagen AG subsidiary; Qatar Holding LLC holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights.",
+  "claimIds": [
+    "audi-vw-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
+  ],
+  "aliases": [],
+  "note": "Main Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to audi.com/en/audisport.html, stands under 'Main Partners' with the line 'Automotive / Performance cars' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note: on hold for a maintainer, like das-weltauto and skoda: AUDI AG is a fully owned subsidiary of Volkswagen AG (audi-vw-ownership), and Qatar Holding LLC, part of the Qatar Investment Authority, holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); Qatar's record is recorded (qatar-migrant-worker-abuse-2025). That passes the 5% test, so 'none' can't stand."
+}

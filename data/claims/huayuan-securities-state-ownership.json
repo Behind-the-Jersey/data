@@ -1,0 +1,56 @@
+{
+  "id": "huayuan-securities-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "wuhan-financial-holdings",
+    "wuhan-municipal-government"
+  ],
+  "text": "Huayuan Securities' own website lists Wuhan Financial Holdings (Group) Co., Ltd. as holding 50% of the company and being its actual controller. The group's own site describes it as a wholly state-owned enterprise of Wuhan city and the city's only first-level state financial platform; Chutian Metropolis Daily reported in 2023 that Wuhan state entities together hold 72.5% of Huayuan Securities, with the group as controlling shareholder.",
+  "short": "Wuhan Financial Holdings Group, wholly owned by the Wuhan city government, holds 50% of Huayuan Securities and is its actual controller.",
+  "source": {
+    "name": "华源证券 (Huayuan Securities): 股东介绍 (shareholders page)",
+    "date": "",
+    "url": "https://www.huayuanstock.com/aboutus/aboutus_gudong/index.shtml",
+    "quote": "武汉金融控股（集团）有限公司控股50%，为实际控制人",
+    "note": "Undated corporate shareholder page. Also lists 武汉开发投资有限公司持股50% (the group's wholly-owned vehicle), with other Wuhan state platforms holding the bulk of the rest.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "武汉市商务局 (Wuhan Municipal Bureau of Commerce, from 楚天都市报 / Chutian Metropolis Daily): 华源证券正式揭牌 武汉新增一家券商总部",
+      "date": "2023-10-20",
+      "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202310/t20231020_2283231.shtml",
+      "quote": "武汉金控集团持股50%，是控股股东和实际控制人",
+      "note": "The same article also states 华源证券实际控制人武汉金融控股集团为武汉市属国有独资企业 (the group is a wholly state-owned enterprise of Wuhan city). The page opened and the quote was verified on 2026-09-30; the checker's plain fetch gets too little text to confirm automatically.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "武汉金融控股（集团）有限公司 (Wuhan Financial Holdings Group): 集团简介 (group profile)",
+      "date": "",
+      "url": "https://www.whfhg.com/list/2.html",
+      "quote": "为武汉市属国有独资企业，是武汉唯一的一级金融国资平台",
+      "note": "Undated corporate profile page.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+      "date": "2026-03-17",
+      "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+      "quote": "华源证券是由武汉金融控股（集团）有限公司实际控制",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

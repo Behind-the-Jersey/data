@@ -1,14 +1,17 @@
 {
   "id": "ds-automobiles",
   "name": "DS Automobiles",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "stellantis-nv",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "ds-automobiles-stellantis-ownership",
+    "stellantis-nv-record"
+  ],
   "aliases": [
     "DS"
   ],
-  "note": "French Stellantis marque; Title Partner of the France team (sailgp.com team page, fetched 2026-09-25). Stellantis ownership per Wikipedia lead, not verified to a primary source."
+  "note": "French Stellantis marque; title partner of DS Penske in Formula E (2025/26) and of the France SailGP team. Left unrated for a maintainer: the owner is sourced (ds-automobiles-stellantis-ownership, stellantis-nv-record: largest holders Etablissements Peugeot Frères 7.72% and Bpifrance Participations 6.64%; France has no record in this data), but the company test isn't settled. A Georgia jury found in 2015 that Chrysler Group (now FCA US, a Stellantis company) acted with reckless or wanton disregard for human life in the design or sale of the Jeep Grand Cherokee, in the 2012 death of a four-year-old; the Georgia Court of Appeals affirmed in 2016 (https://caselaw.findlaw.com/court/ga-court-of-appeals/1754342.html). A maintainer decides whether a finding against another Stellantis company counts for DS Automobiles."
 }

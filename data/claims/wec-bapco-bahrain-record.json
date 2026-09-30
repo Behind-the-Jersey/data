@@ -16,5 +16,17 @@
       "by": "claude-review-282"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Amnesty International — Bahrain 2025 (annual report)",
+      "date": "2025",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/bahrain/report-bahrain/",
+      "quote": "The government continued to suppress the rights to freedom of expression, association and peaceful assembly, including through arbitrary detention and prosecutions.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }

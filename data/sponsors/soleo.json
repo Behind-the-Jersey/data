@@ -1,12 +1,16 @@
 {
   "id": "soleo",
   "name": "Soleo",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "r-p-industries",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor per https://www.scbraga.pt/pt/sponsors"
+  "claimIds": [
+    "soleo-rp-industries-ownership"
+  ],
+  "aliases": [
+    "Soleo Piscinas"
+  ],
+  "note": "Swimming-pool brand of R.P. Industries, S.A. (Braga), an SC Braga sponsor since 2023. The club shop's photo of the 2026-27 home shirt (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) shows soleo on the front, but no page text names it for 2026-27, so it isn't on the kit record. Who owns R.P. Industries isn't sourced, so it isn't rated yet."
 }

@@ -1,12 +1,16 @@
 {
   "id": "itm",
   "name": "ITM",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "New Zealand building-supplies co-operative; Official Partner of the Black Foils and title partner of the ITM New Zealand Sail Grand Prix since 2022 (SailGP press release, 7 Dec 2022; team page fetched 2026-09-25)."
+  "ownerId": "independent-timber-merchants-cooperative",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "New Zealand building-supplies co-operative owned by its member stores, more than 90 of them. Nothing found.",
+  "claimIds": [
+    "itm-ownership"
+  ],
+  "aliases": [
+    "Independent Timber Merchants"
+  ],
+  "note": "Rating note: Official Partner of the Black Foils and title partner of the ITM New Zealand Sail Grand Prix since 2022 (SailGP press release, 7 Dec 2022; team page fetched 2026-09-30). The co-operative's shares are held by its member stores' companies (Companies Register, largest parcel 8.20%); no state or state fund among them, and no court, regulator, UN-body or major-NGO human-rights finding against the co-operative found."
 }

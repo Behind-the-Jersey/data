@@ -1,11 +1,18 @@
 {
   "id": "electricite-de-strasbourg",
   "name": "Électricité de Strasbourg",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "edf-holding",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by EDF Holding; EDF is 100% French state. Nothing found.",
+  "claimIds": [
+    "edf-holding-ownership"
+  ],
+  "aliases": [
+    "ES",
+    "Groupe ES",
+    "Électricité de Strasbourg (ES)"
+  ],
+  "note": "Rating note: 88.64% held by EDF Holding, and the French state holds 100% of EDF. State ownership alone is not a rating under METHOD.md; no serious-abuse record against the French state sourced, so tier none."
 }

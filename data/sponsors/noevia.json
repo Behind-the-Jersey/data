@@ -1,12 +1,18 @@
 {
   "id": "noevia",
   "name": "Noevir",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  "ownerId": "noevir-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Noevir Co., Ltd., a wholly owned subsidiary of Tokyo-listed Noevir Holdings. Nothing found.",
+  "claimIds": [
+    "noevir-co-noevir-holdings",
+    "noevir-holdings-shareholders"
+  ],
+  "aliases": [
+    "株式会社ノエビア",
+    "Noevir Co., Ltd."
+  ],
+  "note": "Kit sponsor (left sleeve) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ ; also holds the Noevir Stadium Kobe naming rights. Rating note: 100% subsidiary of Noevir Holdings; Noevir Holdings' largest shareholder is the private N.I.I. Co. (36.25%), no state stake."
 }

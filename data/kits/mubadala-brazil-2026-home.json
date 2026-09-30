@@ -12,22 +12,64 @@
       "sponsorId": "mubadala",
       "placement": "front",
       "source": {
-        "name": "SailGP team page - Mubadala Brazil (Title Partner)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+        "name": "SailGP team page - Mubadala Brazil (Title Partner group)",
+        "date": "2026-09-30",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Title Partner: Mubadala)."
       }
     },
     {
       "sponsorId": "enel",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - Mubadala Brazil (Official Partner)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+        "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+        "date": "2026-09-30",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+      }
+    },
+    {
+      "sponsorId": "atvos",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+        "date": "2026-09-30",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+      }
+    },
+    {
+      "sponsorId": "oakberry",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+        "date": "2026-09-30",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+      }
+    },
+    {
+      "sponsorId": "ballena",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+        "date": "2026-09-30",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+      }
+    },
+    {
+      "sponsorId": "mattos-filho",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+        "date": "2026-09-30",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Abu Dhabi's sovereign fund pays for the name on Brazil's F50: Mubadala Capital owns the team and Mubadala is its Title Partner.",
+  "sponsorsComplete": true,
+  "summary": "Abu Dhabi's sovereign fund pays for the name on Brazil's F50: Mubadala Capital owns the team and Mubadala is its Title Partner, and biofuel sponsor Atvos is also controlled by Mubadala Capital.",
   "change": null
 }

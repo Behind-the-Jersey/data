@@ -1,0 +1,32 @@
+{
+  "id": "das-weltauto-volkswagen-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "volkswagen-ag"
+  ],
+  "text": "Das WeltAuto is the used-car brand of the Volkswagen Group; in Portugal it is a brand of the SIVA|PHS group, specialised in certified used cars from the VW group.",
+  "short": "Das WeltAuto is Volkswagen Group's used-car brand",
+  "source": {
+    "name": "Das WeltAuto: Home Page",
+    "date": "2026-09",
+    "url": "https://www.dasweltauto.pt/",
+    "quote": "Das WeltAuto – A marca de Carros Usados do Grupo Volkswagen.",
+    "checked": {
+      "on": "2026-09-28",
+      "by": "Schnitzel"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Fleet Magazine: Das WeltAuto vai assegurar a mobilidade da FC Alverca - Futebol SAD",
+      "date": "2026-08-04",
+      "url": "https://fleetmagazine.pt/das-weltauto-alverca/",
+      "quote": "A Das WeltAuto, marca do grupo SIVA|PHS especializada no comércio de usados certificados do grupo VW, é a nova parceira oficial da FC Alverca – Futebol SAD.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

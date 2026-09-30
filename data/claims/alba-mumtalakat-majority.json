@@ -1,0 +1,32 @@
+{
+  "id": "alba-mumtalakat-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "mumtalakat"
+  ],
+  "text": "Bahrain's sovereign wealth fund Mumtalakat holds 69.38% of Aluminium Bahrain (Alba); Saudi Arabian Mining Company (Ma'aden) holds 20.62%.",
+  "short": "Mumtalakat holds 69.38% of Alba",
+  "source": {
+    "name": "Aluminium Bahrain (Alba) — Corporate Profile",
+    "date": "2026",
+    "url": "https://www.albasmelter.com/en/category/corporate-profile",
+    "quote": "its shareholders are Bahrain Mumtalakat Holding Company B.S.C. © (69.38%), Saudi Arabian Mining Company (Ma'aden) (20.62%) and General Public (10%)",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Arabian Gulf Business Insight (AGBI) — Alba's total dividend for 2025 reaches $203m",
+      "date": "2026-03-13",
+      "url": "https://www.agbi.com/finance/2026/03/albas-total-dividend-for-2025-reaches-203m/",
+      "quote": "Bahrain Mumtalakat Holding Company owns 69.38 percent of Alba, while Saudi Arabian Mining Company (Maaden) owns 20.62 percent.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

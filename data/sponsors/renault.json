@@ -1,24 +1,14 @@
 {
   "id": "renault",
   "name": "Renault",
-  "ownerId": "french-state",
-  "ownership": "part-owned",
-  "tier": "unrated",
-  "status": "being-rated",
-  "verdict": "Renault Group (French State via APE: 15.01%)",
+  "ownerId": "renault-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Renault Group, a listed company in which the French State holds 15.01%. Nothing found.",
   "claimIds": [
-    "france-hrw-record",
     "renault-french-state-stake"
   ],
   "aliases": [],
-  "why": {
-    "text": "The French State holds 15.01% of Renault, a stake held through the state holding company APE, and France's civic space is rated 'obstructed': Human Rights Watch records that police repression of protests restricted freedoms of expression and association, the UN Committee Against Torture flagged excessive force by law enforcement disproportionately affecting people of African and Arab descent and non-nationals, and the European Court of Human Rights condemned France for racial profiling by police.",
-    "claimIds": [
-      "france-hrw-record",
-      "renault-french-state-stake"
-    ],
-    "messageLine": "Renault is 15.01% owned by the French State, whose police repression of protests and documented racial profiling Human Rights Watch and UN bodies have recorded.",
-    "status": "draft"
-  },
-  "note": "Rating note: PROPOSED TIER concern. A minority state stake (15.01% of capital, 21.92% of voting rights) reaches the concern band (5% or more, no control) under METHOD.md; state ownership alone is not a tier, so the rating rests on the sourced France record too. ON HOLD for a maintainer to set the tier."
+  "note": "The French State holds 15.01% of Renault's capital and 21.92% of theoretical voting rights (renault-french-state-stake). France doesn't count as a state with a record of serious abuses under METHOD.md (the maintainers' decision, 30 September 2026), so the stake isn't a link."
 }

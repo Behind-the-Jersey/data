@@ -1,0 +1,21 @@
+{
+  "id": "debs-co-private",
+  "kind": "ownership",
+  "ownerIds": [
+    "debs-co"
+  ],
+  "text": "Debs Co., Ltd. (デビス株式会社, 'Debs Corporation') is a Japanese textiles and lifestyle company; its corporate overview describes a family trading history in Kobe going back to 1917 and names Hani Debs as President & CEO.",
+  "short": "Debs Corporation is a private Japanese textile company, President & CEO Hani Debs.",
+  "source": {
+    "name": "Debs Corporation: Overview (company page)",
+    "date": "2026",
+    "url": "https://www.debscorp.com/en/overview",
+    "note": "Page undated; opened 2026-09-30.",
+    "quote": "Hani Debs President & CEO",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

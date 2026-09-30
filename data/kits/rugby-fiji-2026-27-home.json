@@ -1,0 +1,91 @@
+{
+  "id": "rugby-fiji-2026-27-home",
+  "clubId": "rugby-fiji",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "fiji-water",
+      "placement": "front",
+      "source": {
+        "name": "Fiji Rugby Union: Our Sponsors (FIJI Water profile)",
+        "date": "2026-09-30",
+        "url": "https://www.fijirugby.com/corporate/our-sponsors",
+        "quote": "has led to the 15s rugby team being named the “FIJI WATER FLYING FIJIANS’’. This continued sponsorship aims to strengthen and support Fiji Rugby’s endeavors to the 2027 Rugby World Cup",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Undated club sponsors page; date is the day it was opened. Front placement: the large blue FIJI WATER logo across the chest is visible on the official Umbro replica home shirt (identical design sold as 'Fiji 25/26 Replica Home Jersey by Umbro' on worldrugbyshop.com and 'Umbro Fiji Home Replica Rugby Shirt 2026/27' on rugbystuff.com) and on the home shirt in Nations Championship match photos (Fiji v Wales, 4 July 2026, Cardiff). fijivillage (14 April 2023) reported that 'the Fiji Water logo will appear on the Flying Fijians kit and jersey'; fijivillage's June 2026 squad announcement still calls the team the 'FIJI Water Flying Fijians' for the 2026 Nations Championship."
+      }
+    },
+    {
+      "sponsorId": "fiji-airways",
+      "placement": "back",
+      "source": {
+        "name": "fijivillage: Fiji Rugby and Fiji Airways renew partnership for next two years",
+        "date": "2025-12-02",
+        "url": "https://www.fijivillage.com/news/Fiji-Rugby-and-Fiji-Airways-renew-partnership-for-next-two-years-fr58x4",
+        "quote": "Fiji Rugby and Fiji Airways renewed their partnership for the next two years, extending the airline’s role as Principal Partner of the Fiji Rugby Union (FRU) through to May 2027.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Back placement: the 'FIJI AIRWAYS' logo and tanoa mark across the upper back are visible on the official Umbro replica home shirt product photos (worldrugbyshop.com / rugbystuff.com, 2026/27 listing) and on the number-5 home shirt in Nations Championship match photos (Fiji v Wales, 4 July 2026)."
+      }
+    },
+    {
+      "sponsorId": "umbro",
+      "placement": "partner",
+      "source": {
+        "name": "Fiji Rugby Union: Our Sponsors (Umbro profile)",
+        "date": "2026-09-30",
+        "url": "https://www.fijirugby.com/corporate/our-sponsors",
+        "quote": "In January 2025, Umbro became Fiji Rakavi Unions Official technical partner for all national rugby teams.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Undated club sponsors page; date is the day it was opened. Kit maker, listed as partner per the convention for kit suppliers."
+      }
+    },
+    {
+      "sponsorId": "tappoo",
+      "placement": "shorts",
+      "source": {
+        "name": "Fiji Rugby Union: Tappoo Joins Forces with Fiji Rugby Union in Exciting Sponsorship Agreement",
+        "date": "2025-02-06",
+        "url": "https://www.fijirugby.com/tappoo-joins-forces-with-fiji-rugby-union-in-exciting-sponsorship-agreement",
+        "quote": "Also under this sponsorship agreement, the Tappoo Logo will appear on the FIJI Water Flying Fijians shorts.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Four-year agreement from February 2025 (also covering the 7s teams), so current. The circular Tappoo logo is visible on one thigh of the black match shorts in Nations Championship match photos (Fiji v Wales, 4 July 2026)."
+      }
+    },
+    {
+      "sponsorId": "vision-motors",
+      "placement": "shorts",
+      "source": {
+        "name": "Fiji Rugby Union: Our Sponsors (Vision Motors profile)",
+        "date": "2026-09-30",
+        "url": "https://www.fijirugby.com/corporate/our-sponsors",
+        "quote": "Their partnership with Fiji Rugby is to ensure that ground transportation is available to support teams at grass root level, local and international",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Undated club sponsors page; date is the day it was opened; it lists Vision Motors as a current Fiji Rugby partner (vehicle supplier deal announced July 2023, fijivillage). Shorts placement: the white 'VISION MOTORS' wordmark is visible on the other thigh of the black match shorts in Nations Championship match photos (Fiji v Wales, 4 July 2026, Cardiff — Getty/Nations Championship image in the Guardian's match report). No text source for the placement found."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "FIJI Water across the front and FIJI Airways at the top of the back of the white Umbro home shirt; Tappoo and Vision Motors logos on the black match shorts. The sleeves carry only the Fijian flag and Umbro's masi-art trim - no sleeve sponsor. Every placement checked against the official Umbro replica product photos and against Nations Championship match photos (Fiji v Wales, 4 July 2026).",
+  "change": null,
+  "shortLine": "Fiji Water on the front"
+}

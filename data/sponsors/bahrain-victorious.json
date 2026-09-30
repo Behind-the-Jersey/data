@@ -3,24 +3,25 @@
   "name": "Bahrain Victorious",
   "ownerId": "government-of-bahrain",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "being-rated",
-  "verdict": "Government of Bahrain",
+  "tier": "serious",
+  "status": "rated",
+  "verdict": "Victorious Bahrain is the Kingdom of Bahrain's own brand, fronted by the King's representative, Shaikh Nasser bin Hamad Al Khalifa.",
   "claimIds": [
-    "bahrain-hrw-record",
+    "wec-bapco-bahrain-record",
     "bahrain-victorious-ownership"
   ],
   "aliases": [
     "victorious bahrain"
   ],
   "why": {
-    "text": "'Victorious Bahrain' is the Kingdom of Bahrain's brand, fronted by Shaikh Nasser bin Hamad Al Khalifa, the King's representative, and Paris FC compete under it to promote the Kingdom's visibility, investment and tourism. Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people for exercising their right to freedom of expression, that Mohammed Almosawi died in custody after being forcibly disappeared with signs of torture on his body, and that 67 people were stripped of citizenship while rights defenders including Abdulhadi al-Khawaja remain arbitrarily detained. A famous shirt makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+    "text": "'Victorious Bahrain' is the Kingdom of Bahrain's brand, fronted by Shaikh Nasser bin Hamad Al Khalifa, the King's representative, and Paris FC compete under it to promote the Kingdom's visibility, investment and tourism. Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that a detainee died in custody after being disappeared, and that twelve death row inmates remain at imminent risk of execution. A famous shirt makes the country look good to millions of fans while that goes on. That's called sportswashing.",
     "claimIds": [
-      "bahrain-hrw-record",
+      "wec-bapco-bahrain-record",
       "bahrain-victorious-ownership"
     ],
-    "messageLine": "Paris FC's front-shirt 'Bahrain Victorious' banner is the Kingdom of Bahrain's own brand, and Human Rights Watch documents Bahrain's arbitrary arrests, a death in custody and citizenship-stripping.",
+    "messageLine": "Human Rights Watch reports that Bahraini authorities arbitrarily arrested dozens of people in 2026 and that a detainee died in custody after being disappeared.",
     "status": "draft"
   },
-  "note": "Rating note: PROPOSED TIER serious. The sponsor is a state brand of the Kingdom of Bahrain fronted by the King's representative, and the record claim documents serious abuses by that state. ON HOLD for a maintainer to set the tier."
+  "note": "Rated Serious by the maintainers on 30 September 2026: a brand of a state with a record, like Visit Saudi, Visit Qatar and Experience Abu Dhabi.",
+  "ownerVerb": "paid for by"
 }
