@@ -4,16 +4,15 @@
   "ownerId": "g42",
   "ownership": "part-owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "status": "being-rated",
+  "verdict": "Analog was launched by G42 in January 2024; its founder says G42 is its biggest investor.",
   "claimIds": [
     "analog-g42-venture",
     "g42-mubadala-minority-stake",
-    "g42-board-abu-dhabi-officials",
-    "mubadala-uae-convictions-upheld"
+    "g42-board-abu-dhabi-officials"
   ],
   "aliases": [
     "analog sports"
   ],
-  "note": "Abu Dhabi edge-computing company launched by G42 in January 2024; founder Alex Kipman says G42 is its biggest investor (claim analog-g42-venture). On the shoulders of the 2026 UAE Team Emirates XRG kit; also an official technology sponsor of UAE Team L'IMAD. The state link runs through G42: Mubadala (Abu Dhabi state fund) holds a minority stake there with a board seat."
+  "note": "Abu Dhabi edge-computing company; on the shoulders of the 2026 UAE Team Emirates XRG kit and an official technology sponsor of UAE Team L'IMAD. Rating note: on hold for a maintainer. G42's stake in Analog isn't disclosed. The state link sits one step up, at G42: Abu Dhabi's state fund Mubadala holds a minority stake there and its chief executive sits on G42's board (G42 is rated on main). The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
 }

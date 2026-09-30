@@ -1,18 +1,17 @@
 {
   "id": "xrg",
   "name": "XRG",
-  "ownerId": "government-of-abu-dhabi",
+  "ownerId": "adnoc",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "status": "being-rated",
+  "verdict": "XRG is wholly owned by ADNOC, which is wholly owned by the Abu Dhabi Government.",
   "claimIds": [
     "xrg-adnoc-ownership",
-    "adnoc-abu-dhabi-ownership",
-    "uae-mass-trial-2024"
+    "adnoc-abu-dhabi-ownership"
   ],
   "aliases": [
     "xrg energy"
   ],
-  "note": "International energy and chemicals investment company wholly owned by ADNOC, itself wholly owned by the Abu Dhabi Government; co-title and official energy partner of UAE Team Emirates XRG from 2025 on a six-year deal."
+  "note": "International energy and chemicals investment company; co-title and official energy partner of UAE Team Emirates XRG from 2025 on a six-year deal. Rating note: on hold for a maintainer. The Abu Dhabi Government controls XRG through ADNOC (both claims have a second source). The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
 }
