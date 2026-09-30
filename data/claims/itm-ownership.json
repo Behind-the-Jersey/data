@@ -1,0 +1,32 @@
+{
+  "id": "itm-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "independent-timber-merchants-cooperative"
+  ],
+  "text": "ITM's website, published by Independent Timber Merchants Cooperative Ltd, describes ITM as a co-operative of over 90 independently owned stores whose members are shareholders. The New Zealand Companies Register lists Independent Timber Merchants Co-operative Limited's 13,020,315 shares in parcels held by building-supplies companies, the largest 8.20%.",
+  "short": "ITM is a co-operative owned by its member stores.",
+  "source": {
+    "name": "ITM: Join ITM",
+    "date": "2026",
+    "url": "https://www.itm.co.nz/about-us/join-itm/",
+    "quote": "All ITM stores are independently owned and operated but work together for the greater good. From day one, ITM has always been about teamwork and cooperation. ITM members are equal shareholders",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "New Zealand Companies Office: INDEPENDENT TIMBER MERCHANTS CO-OPERATIVE LIMITED (1283902), Shareholdings",
+      "date": "2026-09-18",
+      "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1283902/shareholdings",
+      "quote": "1067052 (8.20%) SOUTHERN LAKES BUILDING LIMITED",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

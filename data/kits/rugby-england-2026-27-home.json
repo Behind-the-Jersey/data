@@ -1,0 +1,46 @@
+{
+  "id": "rugby-england-2026-27-home",
+  "clubId": "rugby-england",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27 (launched May 2026)",
+  "periodFrom": "2026-05",
+  "periodTo": null,
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "o2",
+      "placement": "front",
+      "source": {
+        "name": "Rugby Football Union: England Rugby and O2 announce renewed five-year partnership",
+        "date": "2025-11-20",
+        "url": "https://www.englandrugby.com/follow/news-and-media/england-rugby-and-o2-announce-renewed-five-year-partnership",
+        "quote": "Our customers and colleagues love seeing the O2 logo on the front of the players’ kit, an iconic sponsorship that goes from strength to strength.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "RFU announcement of the five-year renewal (to at least 2031), quoting Virgin Media O2's sponsorship director on the O2 logo on the front of the players' kit. Sportcal (20 Nov 2025) spells it out: 'the main front-of-shirt sponsor for the men's and women's England national rugby union teams'. The large centre-chest O2 logo is visible on the official 2026/27 product photos."
+      }
+    },
+    {
+      "sponsorId": "castore",
+      "placement": "partner",
+      "source": {
+        "name": "Sports News Blitz: Castore and England Rugby Unveil New Home, Training and Travel Collections for 2026/27 Season",
+        "date": "2026-05-25",
+        "url": "https://www.thesportsnewsblitz.com/news/castore-and-england-rugby-unveil-new-home-training-and-travel-collections-for-202627-season",
+        "quote": "Castore and England Rugby today unveil the new Home, Training and Travel collections for the 2026/27 season",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. The RFU's own launch page ('England Rugby kit revealed for 2026/27 season') carries no readable article text. Official Castore product imagery of the 2026/27 men's home replica, pro and classic shirts, and of the home shorts (via authorised retailer Rugbystuff.com), shows the O2 front logo, the Castore wings on the right chest and an 'authentic product' hem label, plain sleeves, a plain back (St George's cross at the collar) and shorts with only the rose crest and Castore wings: no other commercial marks on any placement."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "O2 returns to the front of the white 2026/27 home shirt under its November 2025 five-year renewal with the RFU; Castore is the kit maker. Launch coverage and the official product photos show plain sleeves, a plain back and shorts carrying only the England rose and Castore wings - no other sponsors on any placement.",
+  "change": null,
+  "shortLine": "O2 on the front"
+}

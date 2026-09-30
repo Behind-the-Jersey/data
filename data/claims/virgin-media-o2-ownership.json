@@ -1,0 +1,34 @@
+{
+  "id": "virgin-media-o2-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "virgin-media-o2"
+  ],
+  "text": "O2 is the consumer mobile brand of Virgin Media O2 (VMED O2 UK Limited), which describes itself as the corporate brand of the 50:50 joint venture between Liberty Global and Telefónica S.A.",
+  "short": "O2 = Virgin Media O2, a 50:50 Liberty Global / Telefónica joint venture.",
+  "source": {
+    "name": "Virgin Media O2: About us",
+    "date": "2026-09-30",
+    "url": "https://news.virginmediao2.co.uk/about-us",
+    "quote": "We are the corporate brand of the 50:50 joint venture between Liberty Global and Telefónica SA, and are one of the UK’s largest businesses.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "Undated corporate page; date is the day it was opened. The footer gives the registered entity: VMED O2 UK Limited, registered in England and Wales, no. 12580944."
+  },
+  "additionalSources": [
+    {
+      "name": "Rugby Football Union: England Rugby and O2 announce renewed five-year partnership",
+      "date": "2025-11-20",
+      "url": "https://www.englandrugby.com/follow/news-and-media/england-rugby-and-o2-announce-renewed-five-year-partnership",
+      "quote": "Gareth Griffiths, Director, Partnerships and Sponsorships at Virgin Media O2, said",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "The O2 sponsorship of England Rugby is signed and spoken for by Virgin Media O2 staff, tying the O2 brand to VMED O2 UK Limited."
+    }
+  ],
+  "reviewed": false
+}

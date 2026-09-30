@@ -1,0 +1,20 @@
+{
+  "id": "profile-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "profile-group"
+  ],
+  "text": "The New Zealand Companies Register lists Profile Group Limited's 1,000 shares in four parcels. Mitchell Stephen Plaw is a holder of each one: alone (1 share), and jointly with co-holders, among them Kay-marie Plaw (334, 333 and 332 shares).",
+  "short": "Profile Group's shares are held by Mitchell Plaw and co-holders.",
+  "source": {
+    "name": "New Zealand Companies Office: PROFILE GROUP LIMITED (341647), Shareholdings",
+    "date": "2026-08-11",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/341647/shareholdings",
+    "quote": "1 (0.10%) Mitchell Stephen PLAW",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

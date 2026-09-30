@@ -1,0 +1,20 @@
+{
+  "id": "skycity-entertainment-group-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "skycity-entertainment-group"
+  ],
+  "text": "SkyCity Entertainment Group's shares are quoted on the NZX Main Board and the ASX. Its 2026 annual report lists three substantial product holders as at 30 June 2026: Allan Gray Group (12.55%), Accident Compensation Corporation (11.84%) and AustralianSuper Pty Ltd (8.32%).",
+  "short": "SkyCity is listed; its substantial holders are Allan Gray, ACC and AustralianSuper.",
+  "source": {
+    "name": "SkyCity Entertainment Group: Annual Report 2026 (Substantial product holders)",
+    "date": "2026-08-20",
+    "url": "https://www.skycityentertainmentgroup.com/media/wombx0ml/skycity-annual-report-2026.pdf",
+    "quote": "Allan Gray Group 23 September 2025 138,488,118 12.55% AustralianSuper Pty Ltd 19 June 2026 91,721,751 8.32% Accident Compensation Corporation 28 August 2025 123,087,684 11.84%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

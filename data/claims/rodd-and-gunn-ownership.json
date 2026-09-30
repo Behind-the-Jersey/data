@@ -1,0 +1,32 @@
+{
+  "id": "rodd-and-gunn-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rodd-and-gunn-new-zealand"
+  ],
+  "text": "The New Zealand Companies Register lists Winona R&G, LLC, of Chicago, with 126,651,805 of Rodd & Gunn New Zealand Limited's 221,017,780 shares (57.30%). BusinessDesk reported in April 2018 that Winona Capital, a Chicago-based private equity firm, had lifted its holding to about 55 percent of the company.",
+  "short": "Winona R&G, LLC holds 57.3% of Rodd & Gunn New Zealand.",
+  "source": {
+    "name": "New Zealand Companies Office: RODD & GUNN NEW ZEALAND LIMITED (1820324), Shareholdings",
+    "date": "2026-03-30",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1820324/shareholdings",
+    "quote": "126651805 (57.30%) Winona R&G, LLC",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "ShareChat (BusinessDesk): Winona Capital ups Rodd & Gunn investment as retailer targets North America",
+      "date": "2018-04-04",
+      "url": "http://www.sharechat.co.nz/article/5777875f/winona-capital-ups-rodd-gunn-investment-as-retailer-targets-north-america.html",
+      "quote": "Winona bought an additional 16.4 million shares in Rodd & Gunn last July, lifting its holding to about 102.2 million shares, or 55 percent of the company.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
