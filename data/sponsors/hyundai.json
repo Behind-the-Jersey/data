@@ -3,12 +3,12 @@
   "name": "Hyundai (Hyundai Motor America)",
   "ownerId": "hyundai-motor-group",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
+  "tier": "unrated",
+  "status": "being-rated",
   "verdict": "Hyundai Motor Company is listed and family-controlled; South Korea's National Pension Service holds about 7.8%.",
   "claimIds": [
     "hyundai-owner-record"
   ],
   "aliases": [],
-  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. South Korea's pension fund holds 7.8%, but no claim ties South Korea to serious abuses."
+  "note": "Rating note: on hold. The state link doesn't count: South Korea's National Pension Service holds about 7.8% of Hyundai Motor (hyundai-owner-record), and South Korea has no record in this data (re-rated from concern on 2026-09-27, docs/rating-review-2026-09-27.md). The company test isn't settled. A US Department of Labor Wage and Hour Division investigation found that a 13-year-old worked 50 to 60 hours a week on an assembly line at SMART Alabama, a Hyundai subsidiary, in 2021-22; on 30 May 2024 the department sued Hyundai Motor Manufacturing Alabama, SMART Alabama and a staffing firm in the US District Court for the Middle District of Alabama (AP in Alabama Daily News, 2024-05-31, https://aldailynews.com/us-labor-department-sues-hyundai-suppliers-over-alleged-child-employment/; CBS News, 2024-05-30, https://www.cbsnews.com/news/hyundai-alabama-child-labor-act-labor-deparment/). Korea Daily reported on 2025-11-14 that the court had found Hyundai Motor Manufacturing Alabama 'could be held liable as a joint employer' (https://en.koreadaily.com/hyundai-kia-labor-lawsuit/); no final judgment was found. Held as not rated yet until that case ends (maintainer decision, 2026-09-30): if it ends with a finding against Hyundai, the rating is set from it and a record claim is written; if not, this sponsor is `none`. No record claim is written yet."
 }
