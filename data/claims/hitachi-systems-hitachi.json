@@ -1,0 +1,34 @@
+{
+  "id": "hitachi-systems-hitachi",
+  "kind": "ownership",
+  "ownerIds": [
+    "hitachi-ltd"
+  ],
+  "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi Systems, Ltd. among its principal subsidiaries, with 100.0% of the voting rights.",
+  "short": "Hitachi Systems, Ltd. is a wholly owned subsidiary of Hitachi, Ltd.",
+  "source": {
+    "name": "Hitachi, Ltd.: Annual Securities Report (The 157th Business Term), April 1, 2025 to March 31, 2026, Note 27 'Principal Subsidiaries'",
+    "date": "2026-06-22",
+    "url": "https://www.hitachi.com/content/dam/hitachi/global/en/ir/media/library/stock/hit_sr_fy2025_2_en.pdf",
+    "quote": "Hitachi Systems, Ltd. Shinagawa-ku, Tokyo 100.0",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "English translation of the report filed on June 22, 2026; a 51 MB PDF, so the source check can't read it. Note 27 starts on page F-71."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Hitachi, Ltd.: List of Group Companies (the data file behind hitachi.com/en/about/group/)",
+      "date": "2026-07-29",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/corporate/js/group/group_global_en.json",
+      "note": "The directory marks Hitachi Systems, Ltd. as a consolidated subsidiary; the file says 'Updated: July 29, 2026'.",
+      "quote": "\"allocation\":\"consolidated\",\"name\":\"HITACHI SYSTEMS,LTD.\",\"url\":\"https://www.hitachi-systems.com/\"",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
+}

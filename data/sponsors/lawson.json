@@ -1,0 +1,23 @@
+{
+  "id": "lawson",
+  "name": "Lawson",
+  "ownerId": "lawson-inc",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "lawson-kddi-mitsubishi",
+    "kddi-corporation-shareholders",
+    "mitsubishi-corporation-shareholders"
+  ],
+  "aliases": [
+    "株式会社ローソン",
+    "Lawson, Inc.",
+    "ローチケ",
+    "L-tike",
+    "株式会社ローソンエンタテインメント",
+    "Lawson Entertainment"
+  ],
+  "note": "Kit sponsor (front of the shorts, Lawson Ticket / ローチケ mark) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html , whose sponsor image names 株式会社ローソン. Left unrated for a maintainer: the owners are sourced (lawson-kddi-mitsubishi: Mitsubishi Corporation and KDDI hold 50% each; both are Tokyo-listed, with trust banks, Kyocera and Toyota as the largest holders and national and local governments at 0.00% of KDDI), but one point about the 50% owner KDDI is open. Norway's Council on Ethics recommended on 29 June 2023 that the Government Pension Fund Global exclude KDDI for 'an unacceptable risk that the company is contributing to serious violation of the rights of individuals in situations of war and conflict', through its joint operation with Myanmar's state telecom operator MPT; Norges Bank placed KDDI under observation on 18 December 2023 (https://etikkradet.no/kddi-corp-2/). The Council says KDDI 'plays no direct role in the surveillance'. This is a state fund's risk assessment of one of two owners, not a court, regulator, UN or NGO finding of abuse, so on a strict reading of METHOD.md Lawson is `none`; a maintainer decides. No finding against Lawson or Mitsubishi Corporation themselves was found in a quick check (2026-09-30). No record claim is written yet."
+}
