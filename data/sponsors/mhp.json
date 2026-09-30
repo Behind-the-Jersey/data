@@ -8,6 +8,7 @@
   "verdict": "Tochter der Porsche AG; Porsche hat 2026 den Verkauf an Tata Consultancy Services unterschrieben. Porsche gehört zum Volkswagen-Konzern, an dem Qatar Holding gut 10 Prozent hält.",
   "claimIds": [
     "mhp-porsche-ownership",
+    "porsche-vw-ownership",
     "qatar-holding-vw-stake",
     "qatar-holding-qia-ownership",
     "qia-government-of-qatar-ownership",
@@ -16,10 +17,11 @@
   "aliases": [],
   "note": "Haupt- und Trikotsponsor des 1. FC Heidenheim. Hinweis: Der Verkauf an TCS war im August 2026 unterschrieben; schließt er ab, verliert die Kette den Qatar-Bezug. Der Vorschlag hängt davon ab.",
   "why": {
-    "text": "MHP gehört zur Porsche AG, die Teil des Volkswagen-Konzerns ist. Qatar Holding LLC – Teil des katarischen Staatsfonds – hält 10,4 Prozent des Kapitals und 17,0 Prozent der Stimmrechte an Volkswagen; das überschreitet die 5-Prozent-Schwelle. In Katar leiden Arbeitsmigranten dokumentiert unter dem Kafala-System.",
+    "text": "MHP gehört zur Porsche AG, die zum Volkswagen-Konzern gehört: Volkswagen AG hält ihre Porsche-Aktien mittelbar über die Porsche Holding Stuttgart GmbH. Qatar Holding LLC – Teil des katarischen Staatsfonds – hält 10,4 Prozent des Kapitals und 17,0 Prozent der Stimmrechte an Volkswagen; das überschreitet die 5-Prozent-Schwelle. In Katar leiden Arbeitsmigranten dokumentiert unter dem Kafala-System.",
     "claimIds": [
       "qatar-migrant-worker-abuse-2025",
       "mhp-porsche-ownership",
+      "porsche-vw-ownership",
       "qatar-holding-vw-stake",
       "qatar-holding-qia-ownership",
       "qia-government-of-qatar-ownership"

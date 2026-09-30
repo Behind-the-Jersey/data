@@ -1,0 +1,33 @@
+{
+  "id": "porsche-vw-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "porsche-ag",
+    "volkswagen-ag"
+  ],
+  "text": "Volkswagen AG hält seine Aktien an der Dr. Ing. h.c. F. Porsche AG mittelbar über die Porsche Holding Stuttgart GmbH; Porsche AG gibt an, dass die Stammaktien mittelbar von Volkswagen AG und Porsche SE gehalten werden und die Mehrheit der Vorzugsaktien mittelbar von Volkswagen AG. Der Volkswagen-Konzern zählt Porsche AG zu den Unternehmen, an denen Volkswagen AG direkt oder indirekt beteiligt ist.",
+  "short": "Volkswagen AG hält Porsche AG mittelbar; Porsche AG gehört zum Volkswagen-Konzern.",
+  "source": {
+    "name": "Dr. Ing. h.c. F. Porsche AG, Investor Relations: Shareholder Structure",
+    "date": "2026",
+    "url": "https://investorrelations.porsche.com/en/the-share/shareholder-structure",
+    "quote": "Volkswagen AG indirectly holds its shares via Porsche Holding Stuttgart GmbH",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Volkswagen Group Annual Report 2025: Structure and Business Activities",
+      "date": "2026-03-10",
+      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/structure-and-business-activities.html",
+      "quote": "Volkswagen AG holds direct or indirect interests in AUDI AG, SEAT S.A., Škoda Auto a.s., Dr. Ing. h.c. F. Porsche AG",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
