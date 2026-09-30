@@ -1,0 +1,21 @@
+{
+  "id": "anritsu-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "anritsu"
+  ],
+  "text": "Anritsu Corporation is listed on the Tokyo Stock Exchange Prime Market (code 6754); its largest named shareholders are Japanese trust-bank nominee accounts.",
+  "short": "Anritsu is TSE-Prime listed (code 6754).",
+  "source": {
+    "name": "Anritsu: Stocks, Bonds, and Ratings (stock information as at 31 March 2023, Wayback Machine snapshot)",
+    "date": "2023-03-31",
+    "url": "http://web.archive.org/web/20240502192514/https://www.anritsu.com/en-US/about-anritsu/investor-relations/stock-bond-info/stock-information-bond-rating",
+    "note": "Live anritsu.com pages block scripts (HTTP 403); Wayback snapshot of 2024-05-02 opened instead.",
+    "quote": "Stock Listing: TSE Prime Market (TSE code: 6754)",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

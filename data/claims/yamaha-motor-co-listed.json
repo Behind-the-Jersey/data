@@ -1,0 +1,20 @@
+{
+  "id": "yamaha-motor-co-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "yamaha-motor-co"
+  ],
+  "text": "Yamaha Motor Co., Ltd. is listed on the Tokyo Stock Exchange Prime Market (code 7272), and its shareholder-by-type table shows national and local governments holding 0.0% of its shares.",
+  "short": "Yamaha Motor is TSE-Prime listed; no government shareholding (0.0%).",
+  "source": {
+    "name": "Yamaha Motor Co., Ltd.: Share Information (shareholder data as of June 30, 2026)",
+    "date": "2026-06-30",
+    "url": "https://global.yamaha-motor.com/ir/stock/stock-info",
+    "quote": "National and local governments 0 0 0.0",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

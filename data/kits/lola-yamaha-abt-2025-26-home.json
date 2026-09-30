@@ -7,8 +7,79 @@
   "periodFrom": "2025-26",
   "periodTo": "2025-26",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsors": [
+    {
+      "sponsorId": "lola",
+      "placement": "front",
+      "source": {
+        "name": "FIA Formula E: Lola Yamaha ABT Formula E Team page (brand in team name)",
+        "date": "2026-09-30",
+        "url": "https://www.fiaformulae.com/en/teams/lola-yamaha-abt-formula-e-team",
+        "quote": "LOLA YAMAHA ABT FORMULA E TEAM",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "yamaha-motor",
+      "placement": "front",
+      "source": {
+        "name": "FIA Formula E: Lola Yamaha ABT Formula E Team page (brand in team name)",
+        "date": "2026-09-30",
+        "url": "https://www.fiaformulae.com/en/teams/lola-yamaha-abt-formula-e-team",
+        "quote": "LOLA YAMAHA ABT FORMULA E TEAM",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "abt-sportsline",
+      "placement": "front",
+      "source": {
+        "name": "FIA Formula E: Lola Yamaha ABT Formula E Team page (brand in team name)",
+        "date": "2026-09-30",
+        "url": "https://www.fiaformulae.com/en/teams/lola-yamaha-abt-formula-e-team",
+        "quote": "LOLA YAMAHA ABT FORMULA E TEAM",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "paceteq",
+      "placement": "partner",
+      "source": {
+        "name": "Lola Yamaha ABT: Our partners (team website)",
+        "date": "2026-09-30",
+        "url": "https://lola-fe.com/partners",
+        "quote": "PACETEQ is the go-to expert for motorsport software and data solutions",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "takasago",
+      "placement": "partner",
+      "source": {
+        "name": "Lola Yamaha ABT: Our partners (team website)",
+        "date": "2026-09-30",
+        "url": "https://lola-fe.com/partners",
+        "quote": "Takasago, Ltd. a group company of Anritsu is a cutting-edge industrial power supply manufacturer",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Team-name partners Lola, Yamaha and ABT on the front; the team's partners page (PACETEQ, Takasago) covers the remaining partners.",
   "change": null
 }
