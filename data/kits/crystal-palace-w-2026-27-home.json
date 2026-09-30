@@ -7,8 +7,37 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
+  "sponsors": [
+    {
+      "sponsorId": "temporal",
+      "placement": "front",
+      "source": {
+        "name": "Crystal Palace FC: Temporal expands Crystal Palace partnership to become front-of-shirt partner of Palace Women",
+        "date": "2026-09-09",
+        "url": "https://www.cpfc.co.uk/news/announcement/temporal-expands-crystal-palace-partnership-to-become-front-of-shirt-partner-of-palace-women",
+        "quote": "Crystal Palace Football Club are delighted to announce that Temporal will expand its partnership with the Club to become the new front-of-shirt partner of Crystal Palace Women.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ten-ltd",
+      "placement": "sleeve",
+      "source": {
+        "name": "Crystal Palace FC: Crystal Palace Women announce TEN Ltd as new shirt sleeve sponsor",
+        "date": "2026-09-16",
+        "url": "https://www.cpfc.co.uk/news/partner-news/crystal-palace-women-announce-ten-ltd-as-new-shirt-sleeve-sponsor",
+        "quote": "TST Foundation and its affiliated NYSE-listed energy transport company TEN Ltd will continue their partnership with the Club, with TEN becoming the team’s official shirt sleeve sponsor.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
   "summary": null,
   "change": null
 }
