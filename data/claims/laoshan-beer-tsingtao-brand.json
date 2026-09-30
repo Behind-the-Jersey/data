@@ -4,14 +4,14 @@
   "ownerIds": [
     "tsingtao-brewery"
   ],
-  "text": "Laoshan Beer (崂山啤酒) is a brand of Tsingtao Brewery Co., Ltd.; the company describes Laoshan Beer as one of its own brands and as its 'national second brand', and Tsingtao Brewery's Laoshan Beer is the sleeve-badge sponsor of Qingdao Hainiu's shirt.",
+  "text": "Laoshan Beer (崂山啤酒) is a brand of Tsingtao Brewery Co., Ltd.; the company describes Laoshan Beer as its 'national second brand' and as one of its own brands, and Tsingtao Brewery's Laoshan Beer is the sleeve-badge sponsor of Qingdao Hainiu's shirt.",
   "short": "Laoshan Beer is a Tsingtao Brewery brand.",
   "source": {
-    "name": "Tsingtao Brewery official website (tsingtao.com.cn): 青岛啤酒品牌价值2803.55亿元，蝉联中国啤酒品牌榜首",
-    "date": "2025-06-19",
-    "url": "https://www.tsingtao.com.cn/MT/news/215c95f2-77f8-4b21-a0c8-9673808e5f95.html",
-    "quote": "青岛啤酒公司旗下的崂山啤酒（品牌价值776.35亿元）",
-    "note": "Translation: 'Tsingtao Brewery Company's own (旗下) Laoshan Beer (brand value RMB 77.635bn)'. From a company news post about the 2025 China 500 Most Valuable Brands list.",
+    "name": "Tsingtao Brewery Co., Ltd.: 2025 Annual Report summary (cninfo filing)",
+    "date": "2026-03-27",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-03-27/1225036268.PDF",
+    "quote": "公司坚持“青岛啤酒主品牌+崂山啤酒全国性第二品牌”品牌战略",
+    "note": "Translation: 'The Company adheres to the brand strategy of “Tsingtao Beer main brand + Laoshan Beer national second brand”.' 'The Company' is Tsingtao Brewery Co., Ltd. Quote checked in the PDF with pypdf.",
     "checked": {
       "on": "2026-09-30",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
@@ -19,22 +19,22 @@
   },
   "additionalSources": [
     {
-      "name": "网易 (NetEase, 易瞰青岛): 青岛信仰·青春力量 青岛海牛足球俱乐部2026赛季出征仪式圆满举行",
-      "date": "2026-03-04",
-      "url": "https://c.m.163.com/news/a/KN73SLM105148U2B.html",
-      "quote": "青岛啤酒股份有限公司的崂山啤酒将继续为球队球衣的臂章广告",
-      "note": "Translation: 'Tsingtao Brewery Co., Ltd.'s Laoshan Beer will continue as the sleeve-badge advertisement on the team's shirt.'",
+      "name": "Tsingtao Brewery official website (tsingtao.com.cn): 青岛啤酒品牌价值2803.55亿元，蝉联中国啤酒品牌榜首",
+      "date": "2025-06-19",
+      "url": "https://www.tsingtao.com.cn/MT/news/215c95f2-77f8-4b21-a0c8-9673808e5f95.html",
+      "quote": "青岛啤酒公司旗下的崂山啤酒（品牌价值776.35亿元）",
+      "note": "Translation: 'Tsingtao Brewery Company's own (旗下) Laoshan Beer (brand value RMB 77.635bn)'. From a company news post about the 2025 China 500 Most Valuable Brands list.",
       "checked": {
         "on": "2026-09-30",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     {
-      "name": "Tsingtao Brewery Co., Ltd.: 2025 Annual Report summary (cninfo filing)",
-      "date": "2026-03-27",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-03-27/1225036268.PDF",
-      "quote": "公司坚持“青岛啤酒主品牌+崂山啤酒全国性第二品牌”品牌战略",
-      "note": "Translation: 'The Company adheres to the brand strategy of “Tsingtao Beer main brand + Laoshan Beer national second brand”.' Quote checked in the PDF with pypdf.",
+      "name": "网易 (NetEase, 易瞰青岛): 青岛信仰·青春力量 青岛海牛足球俱乐部2026赛季出征仪式圆满举行",
+      "date": "2026-03-04",
+      "url": "https://c.m.163.com/news/a/KN73SLM105148U2B.html",
+      "quote": "青岛啤酒股份有限公司的崂山啤酒将继续为球队球衣的臂章广告",
+      "note": "Translation: 'Tsingtao Brewery Co., Ltd.'s Laoshan Beer will continue as the sleeve-badge advertisement on the team's shirt.'",
       "checked": {
         "on": "2026-09-30",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
