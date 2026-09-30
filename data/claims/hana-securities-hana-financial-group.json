@@ -1,0 +1,22 @@
+{
+  "id": "hana-securities-hana-financial-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "hana-securities-co",
+    "hana-financial-group"
+  ],
+  "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나증권 (Hana Securities) as '하나증권(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+  "short": "Hana Financial Group holds 100% of Hana Securities.",
+  "source": {
+    "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+    "date": "2026-06-30",
+    "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+    "note": "The affiliate map shows '하나금융그룹 하나증권(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+    "quote": "하나증권(100%)",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
