@@ -4,8 +4,8 @@
   "ownerId": "kumho-tire",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "status": "being-rated",
+  "verdict": "Kumho Tire is a controlled subsidiary of Shenzhen-listed Qingdao Doublestar, which indirectly holds 45%; Qingdao Doublestar's controlling shareholder is Doublestar Group and its actual controller is the Qingdao city government's state-assets commission (Qingdao SASAC).",
   "claimIds": [
     "kumho-tire-doublestar-control",
     "qingdao-doublestar-sasac"
@@ -14,5 +14,5 @@
     "금호타이어",
     "kumho"
   ],
-  "note": "Sleeve partner of Jeonbuk Hyundai for 2026 (CEO Score Daily, 2026-03-03). Controlled by Shenzhen-listed Qingdao Doublestar (45%, consolidation completed April 2026) whose actual controller is the Qingdao Municipal SASAC; proposed tier per PR on issue #533 (state with a documented record controls the sponsor)."
+  "note": "Sleeve partner of Jeonbuk Hyundai for 2026 (CEO Score Daily, 2026-03-03). Rating note: on hold for a maintainer. Proposed 'serious' in the pull request for issue #533: a Chinese state body controls the sponsor (the link, claims kumho-tire-doublestar-control and qingdao-doublestar-sasac, each with a second publisher; owner chain kumho-tire, qingdao-doublestar, doublestar-group, qingdao-municipal-government, government-of-china), and China's record is on main (china-xinjiang-un-assessment). Korean creditor banks, among them Korea Development Bank (7.43%), hold about 14% (thebell, 2026-09-07). No `why` is written yet."
 }
