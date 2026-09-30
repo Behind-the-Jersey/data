@@ -4,8 +4,8 @@
   "ownerIds": [
     "tsakos-energy-navigation"
   ],
-  "text": "TEN Ltd is Tsakos Energy Navigation Limited, an energy shipping company incorporated in Bermuda and listed on the New York Stock Exchange. Its 2026 AGM proxy statement reports, as of 30 March 2026: Tsakos Holdings Foundation 10.7% of common shares, its subsidiaries First Tsakos Investments 8.2% and Redmont Trading 2.4%, and entities affiliated with founder CEO Nikolas Tsakos: Sea Consolidation 1,550,000 shares, Intermed Champion 893,500, Methoni Shipping 1,448,702, Tsakos Energy Management 1,075,000, Panayotis Tsakos 2,317,202 and Nikolas Tsakos 5,023,802.",
-  "short": "TEN Ltd = NYSE-listed Tsakos Energy Navigation; Tsakos Holdings Foundation and Tsakos family entities are the biggest disclosed holders.",
+  "text": "TEN Ltd is Tsakos Energy Navigation Limited, a Bermuda company quoted on the New York Stock Exchange. Its 2026 proxy statement lists, as of 30 March 2026, the holders it knows to own 5% or more of its common shares: Tsakos Holdings Foundation (3,223,003 shares, 10.7%), a Liechtenstein foundation that is the sole owner of First Tsakos Investments (2,485,002 shares, 8.2%) and Redmont Trading (738,001 shares, 2.4%), and four companies controlled by chief executive Nikolas Tsakos, alone or with his father Panayotis Tsakos: Sea Consolidation (5.1%), Methoni Shipping (4.8%), Tsakos Energy Management (3.6%) and Intermed Champion (3.0%). It says Nikolas Tsakos beneficially owns 5,023,802 shares and Panayotis Tsakos 2,317,202.",
+  "short": "TEN Ltd is NYSE-listed Tsakos Energy Navigation; its proxy statement lists the Tsakos Holdings Foundation and companies of the Tsakos family as its holders of 5% or more.",
   "source": {
     "name": "Tsakos Energy Navigation Limited: 2026 Annual General Meeting, Notice and Proxy Statement (Security Ownership of Certain Beneficial Owners and Management)",
     "date": "2026-04-17",
@@ -26,7 +26,7 @@
         "on": "2026-09-30",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       },
-      "note": "The club's own announcement confirms TEN Ltd is NYSE-listed and affiliated with the Tsakos (TST) foundation, independently of the proxy statement."
+      "note": "The club's own announcement calls TEN Ltd NYSE-listed and affiliated with the TST Foundation."
     }
   ],
   "reviewed": false
