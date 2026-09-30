@@ -1,0 +1,20 @@
+{
+  "id": "wrs-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "wrs-srl"
+  ],
+  "text": "The WRS motorcycle-parts brand belongs to WRS S.r.l. of Cattolica (RN), Italy, per the footer of its own site; no shareholding disclosure found.",
+  "short": "WRS is the brand of WRS S.r.l. (Italy).",
+  "source": {
+    "name": "WRS – wrs.it site footer (company identity)",
+    "date": "2026",
+    "url": "https://www.wrs.it/en/",
+    "quote": "WRS S.r.l. Via O. Respighi, 56 int. 1 - 47841 Cattolica (RN) - Italy",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

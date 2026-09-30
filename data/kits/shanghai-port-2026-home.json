@@ -1,0 +1,60 @@
+{
+  "id": "shanghai-port-2026-home",
+  "clubId": "shanghai-port",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "bank-of-shanghai",
+      "placement": "front",
+      "source": {
+        "name": "解放日报·上观新闻 (Jiefang Daily / Shangguan News): 前有上海银行、后拥上汽集团，中超三连冠海港携两大合作方出征新赛季中超",
+        "date": "2026-02-07",
+        "url": "https://www.jfdaily.com/wx/detail.do?id=1064465",
+        "note": "Translation: 'Bank of Shanghai in front, SAIC Group behind — triple-champion Port marches into the new CSL season with its two partners.' The article reports the 6 February 2026 signing ceremony at Pudong Football Stadium and states the 2026 shirt's front placement is '上海银行' (Bank of Shanghai). The club's own announcement via Xinmin Evening News (signed 6 Feb 2026) says the same for the front.",
+        "quote": "2026赛季，作为中超四冠王、三连冠的上海海港队战袍迎来“新赞助”：胸前广告位“上海银行”",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "saic-motor",
+      "placement": "back",
+      "source": {
+        "name": "解放日报·上观新闻 (Jiefang Daily / Shangguan News): 前有上海银行、后拥上汽集团，中超三连冠海港携两大合作方出征新赛季中超",
+        "date": "2026-02-07",
+        "url": "https://www.jfdaily.com/wx/detail.do?id=1064465",
+        "note": "The same sentence states the back placement continues the '上汽集团' (SAIC Motor, 'SAIC Group') partnership: '背后广告位延续“上汽集团”合作'. In 2025 the front carried its passenger-car brand 上汽荣威 (SAIC Roewe), replaced by Bank of Shanghai for 2026 (Sina News).",
+        "quote": "背后广告位延续“上汽集团”合作",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "note": "Kit supplier for all 16 CSL clubs in 2026; Shanghai Port has its own section (bespoke home design, signal-flag 'SHANGHAI' motif). Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The club's own launch (via Dongqiudi/Tencent News, 2026-01-28) confirms the design.",
+        "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 CSL home kit by Nike (launched 28 January 2026). Front sponsor Bank of Shanghai (上海银行), announced at a signing ceremony on 6 February 2026; back sponsor SAIC Motor (上汽集团), continuation of its deal. Sleeve, shorts and any AFC Champions League Elite badge variant for 2026 could not be verified from sources we could open (footballkitarchive.com returns 403 to scripts; no 2026 sleeve sponsor named in press), so the list is not marked complete.",
+  "change": null
+}
