@@ -1,12 +1,18 @@
 {
   "id": "kawasaki-heavy-industries",
   "name": "Kawasaki Heavy Industries",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  "ownerId": "kawasaki-heavy-industries-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Kawasaki Heavy Industries, Ltd., listed on the TSE Prime Market with institutional trust-bank shareholders. Nothing found.",
+  "claimIds": [
+    "khi-listed-shareholders"
+  ],
+  "aliases": [
+    "川崎重工業株式会社",
+    "Kawasaki Heavy Industries, Ltd.",
+    "KHI"
+  ],
+  "note": "Kit sponsor (back) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: TSE Prime listing and shareholder register show no government stake; no human-rights finding against the company was found."
 }

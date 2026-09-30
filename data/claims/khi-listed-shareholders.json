@@ -1,0 +1,20 @@
+{
+  "id": "khi-listed-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "kawasaki-heavy-industries-ltd"
+  ],
+  "text": "Kawasaki Heavy Industries, Ltd. is listed on the Tokyo Stock Exchange (TSE Prime Market), code 7012. Per the Kawasaki Report 2025 (stock information as of 31 March 2025) its largest shareholders were The Master Trust Bank of Japan, Ltd. (Trust Account, 15.01%), Custody Bank of Japan, Ltd. (Trust Account, 8.09%), Nippon Life Insurance Company (3.42%) and the Kawasaki Heavy Industries Employee Stock Ownership Association (2.84%); no state or sovereign shareholder is listed.",
+  "short": "Kawasaki Heavy Industries is TSE-Prime listed (code 7012); institutional holders, no state shareholder.",
+  "source": {
+    "name": "Kawasaki Heavy Industries: Kawasaki Report 2025, 'Corporate Profile / Stock Information (As of March 31, 2025)'",
+    "date": "2025-03-31",
+    "url": "https://global.kawasaki.com/en/corp/sustainability/report/2025/pdf/25_houkokusyo_25.pdf",
+    "quote": "Tokyo Stock Exchange (TSE Prime Market)",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
