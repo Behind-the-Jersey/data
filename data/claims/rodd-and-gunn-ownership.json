@@ -1,0 +1,20 @@
+{
+  "id": "rodd-and-gunn-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rodd-and-gunn-new-zealand"
+  ],
+  "text": "New Zealand company-register share parcels for Rodd & Gunn New Zealand Limited (company 1820324) list Winona R&G, LLC holding 126,651,805 shares; total shares shown are 221,017,780.",
+  "short": "Winona R&G, LLC holds 126.7m of 221.0m Rodd & Gunn New Zealand shares.",
+  "source": {
+    "name": "OpenCorporates - RODD & GUNN NEW ZEALAND LIMITED (New Zealand Companies Register data)",
+    "date": "2026",
+    "url": "https://opencorporates.com/companies/nz/1820324",
+    "quote": "Winona R&G, LLC 126651805",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "agp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "profile-group"
+  ],
+  "text": "AGP (Architectural Glass Products) is part of the Profile Group, New Zealand's window-and-door systems group.",
+  "short": "AGP is part of Profile Group.",
+  "source": {
+    "name": "AGP (agpl.co.nz) homepage, 'About AGP' (Wayback Machine capture of 1 May 2026; live page blocks scripts)",
+    "date": "2026-05-01",
+    "url": "https://web.archive.org/web/20260501182501/https://agpl.co.nz/",
+    "quote": "AGP is part of the Profile Group, the market leader of window and door systems in New Zealand.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

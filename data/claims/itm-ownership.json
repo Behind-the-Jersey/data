@@ -1,0 +1,20 @@
+{
+  "id": "itm-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "independent-timber-merchants-cooperative"
+  ],
+  "text": "The ITM website (itm.co.nz) is published by Independent Timber Merchants Cooperative Ltd; its about page describes ITM as 90+ locally owned stores, nationally backed since 1991.",
+  "short": "ITM is Independent Timber Merchants Cooperative Ltd.",
+  "source": {
+    "name": "ITM (itm.co.nz) - About Us",
+    "date": "2026",
+    "url": "https://www.itm.co.nz/about-us/",
+    "quote": "© 2026 Independent Timber Merchants Cooperative Ltd. All Rights Reserved",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
