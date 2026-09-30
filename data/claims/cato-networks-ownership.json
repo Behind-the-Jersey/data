@@ -4,10 +4,10 @@
   "ownerIds": [
     "cato-networks"
   ],
-  "text": "Cato Networks is a private Israeli cybersecurity company co-founded in 2015 by Shlomo Kramer and Gur Shatz. It has raised more than $1 billion in venture funding; its June 2025 Series G round ($359 million at a $4.8 billion valuation) was led by Vitruvian Partners and ION Crossover Partners, with existing backers Lightspeed Venture Partners, Acrew Capital and Adams Street Partners.",
-  "short": "Cato Networks is a private, venture-capital-backed Israeli cybersecurity company.",
+  "text": "Cato Networks is an Israeli cybersecurity company co-founded in 2015 by Shlomo Kramer and Gur Shatz. It has raised more than $1 billion; its June 2025 Series G round ($359 million at a $4.8 billion valuation) was led by Vitruvian Partners and ION Crossover Partners, with existing backers Lightspeed Venture Partners, Acrew Capital and Adams Street Partners. Its September 2023 round was led by Lightspeed Venture Partners with Adams Street Partners, SoftBank Vision Fund 2, Sixty Degree Capital and Singtel Innov8.",
+  "short": "Cato Networks is a venture-capital-backed Israeli cybersecurity company; its investors include SoftBank Vision Fund 2 and Singtel Innov8.",
   "source": {
-    "name": "CTech (Calcalist): 'Cato Networks raises $359 million at $4.8 billion valuation, keeps IPO on ice'",
+    "name": "CTech (Calcalist): Cato Networks raises $359 million at $4.8 billion valuation, keeps IPO on ice",
     "date": "2025-06-30",
     "url": "https://www.calcalistech.com/ctechnews/article/pmald8ywg",
     "quote": "The round was led by new investors, including Vitruvian Partners and ION Crossover Partners, alongside existing backers such as Lightspeed Venture Partners",
@@ -16,5 +16,17 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Cato Networks: Cato Networks Raises $238M in Equity Investment at Over $3B Valuation",
+      "date": "2023-09-19",
+      "url": "https://www.catonetworks.com/news/cato-networks-raises-238m-in-equity-investment-at-over-3b-valuation/",
+      "quote": "The largest financing round to date was led by LightSpeed Venture Partners with the participation of Adams Street Partners, Softbank Vision Fund 2, Sixty Degree Capital, and Singtel Innov8.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }
