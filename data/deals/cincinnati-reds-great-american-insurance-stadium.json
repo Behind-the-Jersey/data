@@ -8,9 +8,14 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "Ballparks of Baseball",
+    "name": "Ballparks of Baseball – 'Great American Ball Park'",
     "date": "2023-01-01",
-    "url": "https://ballparksofbaseball.com/ballparks/great-american-ball-park"
+    "url": "https://ballparksofbaseball.com/ballparks/great-american-ball-park",
+    "quote": "Great American Insurance purchased the naming rights to the new stadium for $75 million over 30 years, giving it the name Great American Ball Park.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Arena naming rights: Great American Ball Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-01."
 }
