@@ -11,21 +11,22 @@
     "name": "The Emirates Group: Annual Report 2025-26, dnata consolidated financial statements, note 1 (General information)",
     "date": "2026-05",
     "url": "https://c.ekstatic.net/ecl/documents/annual-report/2025-2026.pdf",
-    "quote": "dnata is wholly owned by the Investment Corporation of Dubai (' the parent company ' / 'Owner'), a Government of Dubai entity",
+    "quote": "dnata is wholly owned by the Investment Corporation of Dubai",
     "checked": {
-      "on": "2026-09-29",
-      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-    }
+      "on": "2026-09-30",
+      "by": "Schnitzel"
+    },
+    "note": "Page 107 of the PDF (22 MB, too large for the source checker). The sentence goes on: '(‘the parent company’ / ‘Owner’), a Government of Dubai entity.'"
   },
   "additionalSources": [
     {
-      "name": "AGBI (Arabian Gulf Business Insight): Dnata, company profile",
-      "date": "2024-11",
+      "name": "AGBI: Dnata News and Company Profile",
+      "date": "2024-12-03",
       "url": "https://www.agbi.com/companies/dnata",
       "quote": "Ownership was passed by the government of Dubai to Investment Corporation of Dubai, the emirate's sovereign wealth fund, in 2007.",
       "checked": {
-        "on": "2026-09-29",
-        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        "on": "2026-09-30",
+        "by": "Schnitzel"
       }
     }
   ],

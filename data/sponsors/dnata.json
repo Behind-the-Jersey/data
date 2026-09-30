@@ -4,12 +4,12 @@
   "ownerId": "government-of-dubai",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "status": "being-rated",
+  "verdict": "dnata is wholly owned by the Investment Corporation of Dubai, a Government of Dubai entity.",
   "claimIds": [
-    "uae-mass-trial-2024",
     "dnata-icd-ownership"
   ],
   "aliases": [],
-  "ownerVerb": "owned by"
+  "ownerVerb": "owned by",
+  "note": "Rating note: on hold for a maintainer. Same owner as Emirates, which is rated on main: the Investment Corporation of Dubai controls dnata (claim dnata-icd-ownership, two sources). The UAE's record is on main (uae-mass-trial-2024)."
 }
