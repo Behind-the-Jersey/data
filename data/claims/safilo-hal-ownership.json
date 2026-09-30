@@ -1,0 +1,20 @@
+{
+  "id": "safilo-hal-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "safilo-group"
+  ],
+  "text": "Safilo Group S.p.A. is listed on the Milan stock exchange; Multibrands Italy B.V., a subsidiary of HAL Holding N.V., is its reference shareholder, with 49.8% of the share capital.",
+  "short": "Safilo is listed in Milan; HAL Holding's Multibrands Italy holds 49.8%.",
+  "source": {
+    "name": "Safilo Group: Shareholding",
+    "date": "2025-12-31",
+    "url": "https://www.safilogroup.com/en/investors/share-information-coverage/Shareholding",
+    "quote": "Multibrands Italy B.V.'s stake in the share capital of Safilo increased to 49.8%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

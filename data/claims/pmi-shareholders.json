@@ -1,0 +1,20 @@
+{
+  "id": "pmi-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "philip-morris-international"
+  ],
+  "text": "Philip Morris International Inc. is a Virginia corporation listed on the New York Stock Exchange (PM); per its 2026 proxy statement its largest disclosed shareholders are The Vanguard Group (8.57%), Capital World Investors (8.17%), Capital International Investors (6.61%) and BlackRock, Inc. (6.22%); no state or sovereign-fund holder is listed among them.",
+  "short": "PMI is NYSE-listed; largest disclosed holders are index/asset managers - no state holder.",
+  "source": {
+    "name": "Philip Morris International Inc., 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+    "date": "2026-03-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm",
+    "quote": "The following table sets forth information regarding persons or groups known to the Company to be beneficial owners of more than 5% of the outstanding common stock as of March 13, 2026",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

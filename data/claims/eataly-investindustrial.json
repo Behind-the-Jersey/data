@@ -1,0 +1,21 @@
+{
+  "id": "eataly-investindustrial",
+  "kind": "ownership",
+  "ownerIds": [
+    "eataly-spa",
+    "investindustrial"
+  ],
+  "text": "With the closing of the transaction advised on in September 2022, Investindustrial became Eataly's majority shareholder, owning 52%.",
+  "short": "Investindustrial owns 52% of Eataly (majority shareholder).",
+  "source": {
+    "name": "Cozen O'Connor: Investindustrial's Agreement to Purchase Majority Stake of Eataly S.p.A",
+    "date": "2022-10-17",
+    "url": "https://www.cozen.com/news-resources/news/2022/investindustrial-s-agreement-to-purchase-majority-stake-of-eataly-s-p-a-",
+    "quote": "will result in the fund owning 52% of Eataly.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "brembo-nuova-fourb-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "brembo-nv"
+  ],
+  "text": "Brembo N.V. is listed on Euronext Milan; Nuova Fourb S.r.l. (Bombassei family) is the majority shareholder with 53.56% of ordinary shares and 81.06% of voting rights (shareholding structure as of 24 April 2026).",
+  "short": "Brembo is listed in Milan; majority held by Nuova Fourb S.r.l. (Bombassei family).",
+  "source": {
+    "name": "Brembo Corporate: Stock Information",
+    "date": "2026-04-24",
+    "url": "https://www.brembogroup.com/en/investors/stock-information",
+    "quote": "NUOVA FOURB SRL 178,859,605 53.56%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

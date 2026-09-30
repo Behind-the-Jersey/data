@@ -1,0 +1,32 @@
+{
+  "id": "autogrill-avolta-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "avolta-ag"
+  ],
+  "text": "In 2023 Dufry acquired Autogrill: by 1 July 2023 Dufry held 96.3858% of Autogrill's share capital and could proceed with the squeeze-out and the delisting of Autogrill. The Dufry group now operates as Avolta AG, which still runs the Autogrill brand in Italy.",
+  "short": "Autogrill was fully acquired and delisted by Dufry (now Avolta) in 2023.",
+  "source": {
+    "name": "Avolta: Combination between Dufry and Autogrill - threshold of 95% crossed (press release)",
+    "date": "2023-07-01",
+    "url": "https://www.avoltaworld.com/en/press_release/2023-07-01/combination-between-dufry-and-autogrill-threshold-95-autogrills-share",
+    "quote": "which will result in Dufry holding all of Autogrill's shares, and delisting Autogrill",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Club Avolta: our partners - Autogrill",
+      "date": "2026",
+      "url": "https://www.clubavolta.com/our-partners/dining/autogrill",
+      "quote": "Autogrill transforms your travel stops into memorable experiences with dozens of unique restaurants and bars in airports, highways, stations and city centers",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
+}

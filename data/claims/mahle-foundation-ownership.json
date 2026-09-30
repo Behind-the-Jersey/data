@@ -1,0 +1,20 @@
+{
+  "id": "mahle-foundation-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mahle-gmbh"
+  ],
+  "text": "In 1964, company founders Hermann and Dr. Ernst Mahle transferred 99.9 percent of their ownership of the company to the MAHLE Foundation.",
+  "short": "MAHLE is 99.9% owned by the charitable MAHLE Foundation.",
+  "source": {
+    "name": "MAHLE Group: MAHLE Foundation",
+    "date": "2026",
+    "url": "https://www.mahle.com/en/sustainability/mahle-foundation",
+    "quote": "transferred 99.9 percent of their ownership of the Company to the MAHLE Foundation",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

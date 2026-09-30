@@ -1,0 +1,20 @@
+{
+  "id": "elica-fan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "elica-spa"
+  ],
+  "text": "Elica S.p.A. is listed on Euronext STAR Milan; its majority shareholder is F.A.N. S.r.l. with 52.81%, which Elica's investor page marks as a company attributable to the Casoli family (update of 22 December 2025).",
+  "short": "Elica is listed in Milan; 52.81% held by the Casoli family's F.A.N. S.r.l.",
+  "source": {
+    "name": "Elica S.p.A. Investors: Share Information",
+    "date": "2025-12-22",
+    "url": "https://investors.elica.com/en/share-information",
+    "quote": "F.A.N. S.r.l.* 33,440,445 52.81%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tim-poste-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tim-spa",
+    "poste-italiane",
+    "government-of-italy"
+  ],
+  "text": "Poste Italiane S.p.A. directly holds 66.627% of TIM's ordinary shares. Poste Italiane is in turn about 65% held by Italy's Ministry of the Economy and Finance (29.26%) and Cassa Depositi e Prestiti (35%), a company in turn controlled by the Ministry of Economy and Finance.",
+  "short": "TIM is majority-held (66.6%) by the state-controlled Poste Italiane.",
+  "source": {
+    "name": "TIM Group: Details of the significant shareholdings",
+    "date": "2026-09-24",
+    "url": "https://www.gruppotim.it/en/investors/shares/significant_shareholdings/details-significant-shareholdings.html",
+    "quote": "Poste Italiane S.p.A. Direct 1,422,960,312 66.627%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Poste Italiane: Company Profile (English)",
+      "date": "2026",
+      "url": "https://www.media.poste.it/16c7df9b-8cd2-4ba2-b120-f519946f7a93/file/company-profile-eng",
+      "quote": "Poste Italiane has a free float of approximately 35% while the remaining 65% of shares are held by the Ministry of the Economy and Finance (29.26%) and Cassa Depositi e Prestiti (35%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
+}
