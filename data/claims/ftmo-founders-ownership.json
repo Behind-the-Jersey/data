@@ -1,0 +1,21 @@
+{
+  "id": "ftmo-founders-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ftmo"
+  ],
+  "text": "FTMO is a Czech company with two owners: its co-founders Otakar Šuffner (co-owner and CEO) and Marek Vašíček (co-owner and CTO). Neither owner is a state or state fund.",
+  "short": "FTMO is co-owned by its Czech founders Šuffner and Vašíček.",
+  "source": {
+    "name": "Forbes (Czech edition), republished by FTMO.com – 'Forbes: The FTMO Cover Story'",
+    "date": "2026-03",
+    "url": "https://ftmo.com/en/blog/forbes-the-ftmo-cover-story",
+    "quote": "FTMO is also one of the 50 largest taxpayers in the Czech Republic, and its two owners are among the most generous young Czech philanthropists",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "The profile names Otakar Šuffner as 'the co-owner and CEO of FTMO' and Marek Vašíček as 'co-owner and CTO' immediately before this passage; they are the two owners referred to."
+  },
+  "reviewed": false
+}

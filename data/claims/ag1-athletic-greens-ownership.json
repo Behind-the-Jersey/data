@@ -1,0 +1,20 @@
+{
+  "id": "ag1-athletic-greens-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "athletic-greens"
+  ],
+  "text": "AG1 was created by Athletic Greens, a New York-based company founded in 2010 by Chris Ashenden.",
+  "short": "AG1 is the brand of the private company Athletic Greens",
+  "source": {
+    "name": "TechCrunch: Athletic Greens valued at $1.2B after bagging $115M to expand nutrition drink footprint",
+    "date": "2022-01-25",
+    "url": "https://techcrunch.com/2022/01/25/athletic-greens-valued-at-1-2b-nutrition-drink/",
+    "quote": "Athletic Greens, which created AG1, a powdered beverage designed to provide daily nutrition",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
