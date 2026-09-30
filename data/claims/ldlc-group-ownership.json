@@ -4,17 +4,31 @@
   "ownerIds": [
     "ldlc-group"
   ],
-  "text": "The LDLC / LDLC.com brand is run by Groupe LDLC, a French société anonyme à directoire et conseil de surveillance with a share capital of €1,110,919.68, registered in Lyon (RCS 403 554 181, Limonest).",
-  "short": "LDLC.com is run by Groupe LDLC, a French listed company (RCS Lyon 403 554 181).",
+  "text": "LDLC.com is the website of Groupe LDLC, a French société anonyme (RCS Lyon 403 554 181) whose shares are traded on Euronext Growth. At 31 March 2026 the only shareholders above 5% of the capital or the voting rights were members of the founding de la Clergerie family: Laurent Villemonte de la Clergerie with 17.80% of the capital (21.94% of the voting rights), Olivier with 10.35% (12.05%), Caroline with 9.46% (11.95%) and Suzanne with 0.15% (5.36%). Other shareholders held 61.14% of the capital and the company 1.10% of its own shares.",
+  "short": "LDLC.com belongs to Groupe LDLC, listed on Euronext Growth; the founding de la Clergerie family holds about 38% of the capital and a majority of the votes.",
   "source": {
-    "name": "LDLC.com: Informations légales",
-    "date": "2026",
-    "url": "https://www.ldlc.com/aide/53-informations-legales/",
-    "quote": "Forme de la société : société anonyme à Directoire et conseil de surveillance. Capital social : 1 110 919.68 €. RCS de Lyon : 403 554 181",
+    "name": "Groupe LDLC: Rapport Annuel 2025-2026",
+    "date": "2026-07",
+    "url": "https://www.groupe-ldlc.com/wp-content/uploads/2026/07/GROUPE-LDLC-RA-2025-2026-VDEF.pdf",
+    "quote": "incluant les actionnaires détenant, directement ou indirectement, seul ou de concert, plus de 5 % du capital social ou des droits de vote",
     "checked": {
-      "on": "2026-09-29",
-      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-    }
+      "on": "2026-09-30",
+      "by": "Schnitzel"
+    },
+    "note": "Management report, section 3.1 (page 105 of the PDF): the table that follows gives the holdings at 31 March 2026. The report says it follows the Euronext Growth market rules."
   },
+  "additionalSources": [
+    {
+      "name": "LDLC.com: Informations légales",
+      "date": "2026",
+      "url": "https://www.ldlc.com/aide/53-informations-legales/",
+      "quote": "Hébergeur du site : Groupe LDLC",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "The same page gives the company's form, capital and registration: 'société anonyme à Directoire et conseil de surveillance', 'RCS de Lyon : 403 554 181'."
+    }
+  ],
   "reviewed": false
 }
