@@ -1,0 +1,32 @@
+{
+  "id": "quest-global-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "quest-global-owner"
+  ],
+  "text": "Quest Global is an engineering services firm headquartered in Singapore. In August 2023 Carlyle agreed to acquire a 'significant minority stake' in the company, through funds managed and advised by entities affiliated with Carlyle Asia Partners; the investors Bain Capital and Advent International were to exit.",
+  "short": "Quest Global is a Singapore engineering firm; Carlyle agreed to take a significant minority stake in 2023.",
+  "source": {
+    "name": "Quest Global: Carlyle and Quest Global Enter into a Strategic Partnership",
+    "date": "2023-08-08",
+    "url": "https://www.questglobal.com/news/press-releases/carlyle-and-quest-global-enter-into-a-strategic-partnership",
+    "quote": "Carlyle will be acquiring a significant minority stake in the company. Equity for this transaction will come from funds managed and advised by entities affiliated with Carlyle Asia Partners.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Nikkei Asia (DealStreetAsia): Carlyle buys stake in Singapore's Quest Global as Bain, Advent exit",
+      "date": "2023-08-09",
+      "url": "https://asia.nikkei.com/spotlight/dealstreetasia/carlyle-buys-stake-in-singapore-s-quest-global-as-bain-advent-exit",
+      "quote": "Private equity giant Carlyle is acquiring a minority stake in Quest Global, while existing investors Bain Capital and Advent International will exit the Singapore-based engineering company.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
