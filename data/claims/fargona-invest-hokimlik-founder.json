@@ -1,0 +1,34 @@
+{
+  "id": "fargona-invest-hokimlik-founder",
+  "kind": "ownership",
+  "ownerIds": [
+    "fargona-invest",
+    "fergana-region-administration"
+  ],
+  "text": "'Farg'ona Invest Kompaniyasi' AJ was founded by the Fergana region administration (hokimlik).",
+  "short": "Farg'ona Invest was founded by, and is solely owned by, the Fergana regional government.",
+  "source": {
+    "name": "Farg'ona Invest Kompaniyasi AJ: Uzbekistan Republic, Fergana region hokim's decision 163-11-0-Q/26 (charter annexe)",
+    "date": "2026-03-31",
+    "url": "https://fargonainvestkompaniya.uz/wp-content/uploads/2026/06/%D0%92%D0%A5-163-%D1%81%D0%BE%D0%BD%D0%BB%D0%B8-%D0%BA%D0%B0%D1%80%D0%BE%D1%80%D0%B8-1.pdf",
+    "quote": "Farg‘ona viloyati hokimligi muassisligida tadbirkorlik subyektlari va davlat organlari o‘rtasida “ko‘prik” vazifasini bajaruvchi “Farg‘ona invest kompaniyasi” aksiyadorlik jamiyati (keyingi o‘rinlarda —Kompaniya) tashkil etilsin.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Lex.uz: Presidential decree PF-29 of 24.02.2026 (On measures to accelerate housing provision)",
+      "date": "2026-02-24",
+      "url": "https://lex.uz/ru/docs/-8072219",
+      "quote": "viloyatlar hokimliklari bir oy muddatda “Toshkent Invest kompaniyasi” AJ va “Samarqand Invest kompaniyasi” AJ tajribasi asosida aksiyadorlik jamiyati shaklida",
+      "note": "Clause 6 orders the regional hokimliks to establish the investment companies as joint-stock companies; appendix 6 lists them as founded by the administrations.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
