@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Hitachi, Ltd.: List of Group Companies (data behind hitachi.com/en/about/group/)",
+      "date": "2026",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/corporate/js/group/group_global_en.json",
+      "note": "Directory marks Hitachi Systems, Ltd. as a consolidated subsidiary; page undated, opened 2026-09-30.",
+      "quote": "\"allocation\":\"consolidated\",\"name\":\"HITACHI SYSTEMS,LTD.\",\"url\":\"https://www.hitachi-systems.com/\"",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
 }
