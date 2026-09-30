@@ -6,29 +6,30 @@
     "ferrovie-dello-stato-italiane",
     "italian-ministry-of-economy-finance"
   ],
-  "text": "Trenitalia S.p.A. describes itself as a company of the FS Italiane Group. The FS Group's 2024 Annual Report states that the parent, Ferrovie dello Stato Italiane S.p.A., is wholly owned by the Italian State through the sole shareholder, the Ministry of Economy and Finance (MEF).",
-  "short": "Trenitalia (FS Italiane Group) is wholly owned by the Italian state via the Ministry of Economy and Finance.",
+  "text": "Trenitalia is a subsidiary of Ferrovie dello Stato Italiane S.p.A. (FS), the holding company of the Italian FS railway group, and the Italian State is FS's sole shareholder via the Ministry of Economy and Finance (MEF): the FS EMTN base prospectus lists the railway undertaking Trenitalia among the subsidiaries FS controls, and describes the Italian State as FS's sole shareholder, appointing its Board of Directors and overseeing its strategy.",
+  "short": "Trenitalia is a subsidiary of FS, whose sole shareholder is the Italian state via the Ministry of Economy and Finance.",
   "source": {
-    "name": "Trenitalia: Chi siamo (Who we are)",
-    "date": "2026",
-    "url": "https://www.trenitalia.com/it/chi-siamo.html",
-    "quote": "Trenitalia, società del Gruppo FS Italiane, offre servizi di trasporto per soddisfare le esigenze di mobilità in Italia e in Europa",
+    "name": "Ferrovie dello Stato Italiane S.p.A.: EMTN Programme Update 2025, Base Prospectus (Description of the Issuer; Regulation and supervision)",
+    "date": "2025",
+    "url": "https://www.fsitaliane.it/content/dam/fsitaliane/Documents/investor-relations/Ferrovie_EMTN_Update_2025_Base_Prospectus.pdf",
+    "quote": "As sole shareholder, the Italian State: (i) appoints the Board of Directors; (ii) oversees FS' strategy via its board representation",
     "checked": {
       "on": "2026-09-30",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-    }
+    },
+    "note": "Same prospectus, printed page 127: 'FS controls the railway infrastructure manager RFI, the road infrastructure manager Anas as well as the railway undertaking Trenitalia, which are subsidiaries of FS', and 'On 12 August 1992, FS became a joint-stock company which was wholly owned by the State via the MEF'."
   },
   "additionalSources": [
     {
-      "name": "Ferrovie dello Stato Italiane Group: Annual Report 2024 (The Group)",
-      "date": "2025",
-      "url": "https://www.fsitaliane.it/content/dam/fsitaliane/en/Documents/investor-relations/annual_report_2024_eng.pdf",
-      "quote": "FS SpA is wholly owned by the State through the sole shareholder, the “MEF”, which exercises its ownership powers jointly with the Ministry of Infrastructure and Transport",
+      "name": "Trenitalia: Chi siamo (Who we are)",
+      "date": "2026",
+      "url": "https://www.trenitalia.com/it/chi-siamo.html",
+      "quote": "Trenitalia, società del Gruppo FS Italiane, offre servizi di trasporto per soddisfare le esigenze di mobilità in Italia e in Europa",
       "checked": {
         "on": "2026-09-30",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       },
-      "note": "Same passage (printed page 50): the MEF exercises its ownership powers jointly with the Ministry of Infrastructure and Transport."
+      "note": "Trenitalia's own site describes Trenitalia as a company of the FS Italiane Group."
     }
   ],
   "reviewed": false
