@@ -4,10 +4,10 @@
   "ownerIds": [
     "zhik-pty-ltd"
   ],
-  "text": "Zhik is a Sydney-based sailing-apparel company; its 2023 crowdfunding raise was backed by Zhik's existing investors, including long-time backer Nightingale Partners, according to Inside Small Business.",
-  "short": "Zhik is a private Sydney company backed by private investors.",
+  "text": "Zhik is a Sydney-based sailing-apparel company. Its 2023 equity crowdfunding raise was backed by its existing investors, including long-time backer Nightingale Partners, according to Inside Small Business; Marine Business News describes Nightingale Partners as a Sydney-based private equity group that led the existing shareholders' commitment.",
+  "short": "Zhik is a Sydney company whose shareholders include Nightingale Partners.",
   "source": {
-    "name": "Inside Small Business - Sailing apparel Zhik launches first crowdfunding campaign",
+    "name": "Inside Small Business: Sailing apparel Zhik launches first crowdfunding campaign",
     "date": "2023-03-16",
     "url": "https://insidesmallbusiness.com.au/finance/funding/sailing-apparel-zhik-launches-first-crowdfunding-campaign",
     "quote": "the Sydney-based company has partnered with crowdfunding platform Equitise and is backed by Zhik’s existing investors",
@@ -16,5 +16,17 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Marine Business News: Zhik sails strong into 2023 with $4 million Equity Crowdfunding raise backed by Nightingale Partners",
+      "date": "2023-02-15",
+      "url": "https://www.marinebusinessnews.com.au/2023/02/zhik-sails-strong-into-2023-with-4-million-equity-crowdfunding-raise-backed-by-nightingale-partners/",
+      "quote": "Existing shareholders, led by Nightingale Partners a Sydney-based Private Equity group, have committed to investing $800,000 in this round",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
