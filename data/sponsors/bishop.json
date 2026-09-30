@@ -1,12 +1,18 @@
 {
   "id": "bishop",
-  "name": "Bishop Retail Co.",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  "name": "Bishop (BSHOP)",
+  "ownerId": "bishop-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Bishop Inc. (Bshop), a private Kobe clothing and household-goods retailer led by president Takeshi Mori. Nothing found.",
+  "claimIds": [
+    "bishop-inc-private"
+  ],
+  "aliases": [
+    "株式会社ビショップ",
+    "BSHOP INC.",
+    "Bishop Retail Co."
+  ],
+  "note": "Kit sponsor (front, right collarbone) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: private company; corporate profile gives no shareholding beyond the founding family business and no state or fund involvement was found."
 }

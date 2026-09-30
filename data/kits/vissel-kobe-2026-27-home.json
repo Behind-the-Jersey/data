@@ -13,9 +13,14 @@
       "placement": "front",
       "source": {
         "name": "Vissel Kobe - uniform partners (2026/27)",
-        "date": "2026-09-25",
+        "date": "2026",
         "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-        "note": "Front (chest): Rakuten Group, Inc."
+        "note": "Front (chest): Rakuten Group, Inc. Page undated; content labelled 2026/27.",
+        "quote": "前面［胸部分］ 楽天グループ株式会社",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,9 +29,14 @@
       "side": "front",
       "source": {
         "name": "Vissel Kobe - uniform partners (2026/27)",
-        "date": "2026-09-25",
+        "date": "2026",
         "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-        "note": "Front (right collarbone): Bishop Retail Co. (4th season on the shirt)."
+        "note": "Front (right collarbone): Bishop Inc. (Bshop), 4th season on the shirt. Page undated; content labelled 2026/27.",
+        "quote": "前面［右鎖骨部分］ 株式会社ビショップ",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -34,9 +44,14 @@
       "placement": "front",
       "source": {
         "name": "Vissel Kobe - uniform partners (2026/27)",
-        "date": "2026-09-25",
+        "date": "2026",
         "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-        "note": "Front (left collarbone): Devis Co., Ltd., new uniform partner from the 2026/27 season."
+        "note": "Front (left collarbone): Debs Co., Ltd. (デビス株式会社), new uniform partner from the 2026/27 season. Page undated; content labelled 2026/27.",
+        "quote": "前面［左鎖骨部分］ デビス株式会社",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -44,19 +59,29 @@
       "placement": "back",
       "source": {
         "name": "Vissel Kobe - uniform partners (2026/27)",
-        "date": "2026-09-25",
+        "date": "2026",
         "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-        "note": "Back: Kawasaki Heavy Industries (25th season; back placement since 2025)."
+        "note": "Back: Kawasaki Heavy Industries (25th season; back placement since 2025). Page undated; content labelled 2026/27.",
+        "quote": "後面［背中部分］ 川崎重工業株式会社",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "shuzet-holdings",
-      "placement": "shorts",
+      "placement": "back",
       "source": {
         "name": "Vissel Kobe - uniform partners (2026/27)",
-        "date": "2026-09-25",
+        "date": "2026",
         "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-        "note": "Below the back number / shorts front: Shuzet Holdings (12th season)."
+        "note": "Back, below the number (hem): Suzette Holdings (12th season). Page undated; content labelled 2026/27.",
+        "quote": "後面［背番号下裾部分］ 株式会社シュゼット・ホールディングス",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -64,15 +89,50 @@
       "placement": "sleeve",
       "source": {
         "name": "Vissel Kobe - uniform partners (2026/27)",
-        "date": "2026-09-25",
+        "date": "2026",
         "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-        "note": "Left sleeve: Noevir (also names the home stadium)."
+        "note": "Left sleeve: Noevir (also holds the Noevir Stadium Kobe naming rights since 2013). Page undated; content labelled 2026/27.",
+        "quote": "側面［左袖部分］ 株式会社ノエビア",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "digiara-holdings",
+      "placement": "shorts",
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Shorts (front): Digiara Holdings Co., Ltd. (6th season; sponsor's own site announced the 2026-27 uniform partnership on 2026-07-16). Page undated; content labelled 2026/27.",
+        "quote": "パンツ［前面部分］ 株式会社デジアラホールディングス",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "asics-japan",
+      "placement": "partner",
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Uniform supplier: Asics Japan Co., Ltd. (29th season). Page undated; content labelled 2026/27.",
+        "quote": "ユニフォームサプライヤー アシックスジャパン株式会社",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
   "change": null,
-  "summary": "Vissel Kobe 2026/27 home shirt: Rakuten front, Bishop and Devis on the collarbones, Kawasaki Heavy Industries on the back, Shuzet Holdings below the number, Noevir on the left sleeve, Asics Japan as kitmaker. All from the club's own uniform-partners page, which is labelled 2026/27 and shows a 2026/27 kit special site.",
+  "summary": "Vissel Kobe 2026/27 home shirt: Rakuten front, Bishop (right collarbone) and Debs (left collarbone), Kawasaki Heavy Industries on the back, Suzette Holdings below the back number, Noevir on the left sleeve, Digiara Holdings on the front of the shorts, and Asics Japan as kit supplier. All placements confirmed on the club's uniform-partners page (2026/27).",
   "headline": "Rakuten pays for the front of Vissel Kobe's shirt",
   "shortLine": "Rakuten front, Noevir sleeve, Kawasaki back"
 }
