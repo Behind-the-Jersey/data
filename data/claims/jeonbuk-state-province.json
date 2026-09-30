@@ -1,0 +1,34 @@
+{
+  "id": "jeonbuk-state-province",
+  "kind": "ownership",
+  "ownerIds": [
+    "jeonbuk-state"
+  ],
+  "text": "Jeonbuk State is Jeonbuk Special Self-Governing Province, the provincial-level local government of South Korea based in Jeonju; it is one of Jeonbuk Hyundai's 2026 uniform partners.",
+  "short": "Jeonbuk State is South Korea's Jeonbuk Special Self-Governing Province.",
+  "source": {
+    "name": "Jeonbuk State official English website (JEONBUK STATE, Provincial Government section)",
+    "date": "unknown",
+    "url": "https://www.jeonbuk.go.kr/eng/index.do",
+    "quote": "the Governor of Jeonbuk State, Lee Won-taeg",
+    "note": "The site's navigation reads 'About Jeonbuk State' and 'Provincial Government'; the Korean homepage styles itself '전북특별자치도 대표 누리집' (official website of Jeonbuk Special Self-Governing Province) with the footer 'ⓒ 2024 JEONBUK STATE', address 225 Hyoja-ro, Wansan-gu, Jeonju. Page undated.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "전북일보 (Jeonbuk Ilbo): 전북현대 유니폼 '빼곡'⋯로보틱스랩 모베드 파트너십 체결",
+      "date": "2026-02-09",
+      "url": "https://www.jjan.kr/article/20260209500117",
+      "quote": "세계식량계획(WFP), 금호타이어, 현대차 증권, 네이버 치지직, 전북특별자치도에 '모베드(MobED)'까지 추가됐다",
+      "note": "Lists Jeonbuk Special Self-Governing Province (전북특별자치도) among the club's 2026 uniform partners.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

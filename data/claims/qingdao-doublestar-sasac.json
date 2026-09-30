@@ -1,0 +1,36 @@
+{
+  "id": "qingdao-doublestar-sasac",
+  "kind": "ownership",
+  "ownerIds": [
+    "qingdao-doublestar",
+    "doublestar-group",
+    "qingdao-municipal-government"
+  ],
+  "text": "Qingdao Doublestar's controlling shareholder is Doublestar Group Co., Ltd. and its actual controller is the Qingdao Municipal State-owned Assets Supervision and Administration Commission (Qingdao SASAC), both before and after the Kumho Tire consolidation, which Qingdao SASAC approved. Korean financial press describes Kumho Tire's chain as de facto state ownership tracing up to China's state asset management body.",
+  "short": "Qingdao Doublestar's controlling shareholder is Doublestar Group; its actual controller is the Qingdao SASAC.",
+  "source": {
+    "name": "Qingdao Doublestar Co., Ltd.: Listing announcement, issuance of shares and cash payment for asset acquisition and raising of supporting funds (cninfo filing, SZSE: 000599), pp. 34-35",
+    "date": "2026-06-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-17/1225373619.PDF",
+    "quote": "本次交易前，上市公司控股股东为双星集团，实际控制人为青岛市国资委。本次交易后，上市公司控股股东仍为双星集团，实际控制人仍为青岛市国资委",
+    "note": "Translation: 'Before this transaction, the listed company's controlling shareholder was Doublestar Group and its actual controller was the Qingdao Municipal SASAC. After this transaction, the controlling shareholder remains Doublestar Group and the actual controller remains the Qingdao Municipal SASAC.' The document also states the transaction was approved by the Qingdao SASAC (本次交易已取得青岛市国资委批准). Quote checked in the full PDF with pypdf.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "thebell: [Peer Match Up | 한국 vs 금호 vs 넥센] 오너vs국유기업, 지배구조 달라도 전문경영인 '중용' [Korea vs Kumho vs Nexen — owner vs state-run governance]",
+      "date": "2026-09-07",
+      "url": "https://www.thebell.co.kr/front/newsview.asp?key=202609071439196000102138",
+      "quote": "지배구조는 칭다오시 국유자산감독관리위원회→칭다오더블스타그룹→더블스타 타이어→싱웨이코리아(SPC)→금호타이어로 이어진다",
+      "note": "Translation: 'The governance chain runs Qingdao Municipal SASAC -> Qingdao Doublestar Group -> Doublestar Tire -> Xingwei Korea (SPC) -> Kumho Tire.' The same paragraph calls Kumho Tire '사실상 국영기업' (de facto state-run) after its 2018 takeover by China's Doublestar Group.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hyundai-motor-securities-largest-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "hyundai-motor-securities"
+  ],
+  "text": "Hyundai Motor Company and its related parties (including Hyundai Mobis and Kia) are the largest shareholders of KOSPI-listed Hyundai Motor Securities, holding 39.94% (Hyundai Motor 22.17%, Hyundai Mobis 13.70%, Kia 3.95%), per a disclosure reported in August 2026.",
+  "short": "Hyundai Motor side is Hyundai Motor Securities' largest shareholder with 39.94%.",
+  "source": {
+    "name": "디지털투데이 (DigitalToday): 현대차증권, 최대주주 현대자동차 측 주식등 보유 비율 0.03%p 증가 [Hyundai Motor Securities: largest shareholder Hyundai Motor side raises stake to 39.94%]",
+    "date": "2026-08-06",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690396",
+    "quote": "현대차증권(001500)의 최대주주 현대자동차 측은 주식등 보유 비율이 39.94%로 증가했다고 5일 공시했다",
+    "note": "Article reproduces the bulk-ownership report: Hyundai Motor 22.17%, Hyundai Mobis 13.70%, Kia 3.95%. 'Hyundai Motor side' = Hyundai Motor plus six named related parties.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
