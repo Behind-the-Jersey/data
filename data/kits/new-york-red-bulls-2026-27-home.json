@@ -12,14 +12,48 @@
       "sponsorId": "red-bull",
       "placement": "front",
       "source": {
-        "name": "newyorkredbulls.com",
+        "name": "FOR SOCCER",
         "date": "2026-02-17",
-        "url": null,
-        "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.newyorkredbulls.com/club/partners"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "New York Red Bulls Red Bull Consumer Products",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Front-of-jersey table of For Soccer's 2026 MLS jersey sponsor survey. The club is owned by Red Bull GmbH and named after it. Earlier club partners-page link 404s (removed 2026-09-25)."
+      }
+    },
+    {
+      "sponsorId": "oanda",
+      "placement": "sleeve",
+      "source": {
+        "name": "OANDA press release – 'New York Red Bulls And OANDA Extend Partnership'",
+        "date": "2025-02-17",
+        "url": "https://www.oanda.com/group/press-release/new-york-red-bulls-and-oanda-extend-partnership/",
+        "quote": "the partnership will continue to see OANDA’s logo proudly displayed on RBNY’s first team apparel including the jersey sleeve patch",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Right sleeve; extended 'for years to come'. For Soccer's 2026 MLS jersey sponsor survey confirms OANDA on NYRB's right sleeve for the 2026 season: https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Red Bull fronts the jersey — the club is owned by Red Bull — with OANDA on the right sleeve."
 }
