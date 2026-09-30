@@ -1,0 +1,20 @@
+{
+  "id": "luxury-group-marriott-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "marriott-international"
+  ],
+  "text": "Luxury Group is the luxury brand portfolio of Marriott International, Inc.",
+  "short": "Luxury Group is Marriott International's luxury portfolio",
+  "source": {
+    "name": "Marriott: Discover the Luxury Group by Marriott Bonvoy",
+    "date": "2026",
+    "url": "https://www.marriott.com/luxury/about-us",
+    "quote": "We are the Luxury Group at Marriott International",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

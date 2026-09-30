@@ -1,0 +1,20 @@
+{
+  "id": "ciroc-diageo-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "diageo-plc"
+  ],
+  "text": "CÎROC is listed among Diageo plc's brands on the drinks group's own website.",
+  "short": "CÎROC is a Diageo brand",
+  "source": {
+    "name": "Diageo: Explore Our 200+ Premium Brands",
+    "date": "2026",
+    "url": "https://www.diageo.com/en/our-brands",
+    "quote": "Ciroc Crafted in 2003 by Master Distiller Jean-Sébastien Robicquet, this modern luxury vodka is distilled five times from fine French grapes.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
