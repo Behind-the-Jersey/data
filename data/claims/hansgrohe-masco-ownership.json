@@ -4,21 +4,32 @@
   "ownerIds": [
     "masco-corporation"
   ],
-  "text": "hansgrohe is a brand of Hansgrohe SE (Schiltach, Germany), the Hansgrohe Group. Its majority shareholder is the US-listed Masco Corporation (Livonia, Michigan), which holds 68 percent of Hansgrohe SE; the Klaus Grohe family holds 32 percent via its holding company Syngroh.",
-  "short": "Hansgrohe SE is 68%-owned by US-listed Masco Corporation; 32% with the Grohe family.",
+  "text": "hansgrohe is a brand of Hansgrohe SE. Masco Corporation (Livonia, Michigan; NYSE: MAS) owned 68 percent of Hansgrohe SE at 31 December 2025; the Klaus Grohe family of Schiltach holds 32 percent through its holding company Syngroh.",
+  "short": "Hansgrohe SE is 68% owned by US-listed Masco Corporation; 32% is with the Klaus Grohe family.",
   "source": {
-    "name": "Hansgrohe Group — Supervisory and Executive Board",
-    "date": "2026",
-    "url": "https://www.hansgrohe-group.com/en/about-us/group/supervisory-and-executive-board",
-    "quote": "The majority shareholder is the Masco Corporation, headquartered in Livonia, Michigan. The corporation currently holds a 68 percent share of Hansgrohe SE. With more than 20 subsidiary companies",
+    "name": "Masco Corporation: Form 10-K for the fiscal year ended December 31, 2025",
+    "date": "2026-02-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000005/mas-20251231.htm",
+    "quote": "We owned 68 percent of Hansgrohe SE at both December 31, 2025 and 2024.",
     "checked": {
       "on": "2026-09-29",
-      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      "by": "Schnitzel"
     }
   },
   "additionalSources": [
     {
-      "name": "DutchNews.nl (Business Wire) — Masco to acquire majority stake in Easy Sanitary Solutions",
+      "name": "Hansgrohe Group: Supervisory and Executive Board",
+      "date": "2026",
+      "url": "https://www.hansgrohe-group.com/en/about-us/group/supervisory-and-executive-board",
+      "quote": "The Klaus Grohe family of Schiltach has 32 percent share of Hansgrohe SE with its administrative and holding GmbH, Syngroh.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "The site blocks scripts; read in the Wayback Machine copy of 12 June 2026 (https://web.archive.org/web/20260612140206/https://www.hansgrohe-group.com/en/about-us/group/supervisory-and-executive-board), which also says: 'The majority shareholder is the Masco Corporation, headquartered in Livonia, Michigan. The corporation currently holds a 68 percent share of Hansgrohe SE.'"
+    },
+    {
+      "name": "DutchNews.nl (Business Wire): Masco Corporation Enters Into an Agreement to Acquire Majority Stake in Easy Sanitary Solutions B.V.",
       "date": "2020-11-10",
       "url": "https://www.dutchnews.nl/businesswire/masco-corporation-enters-into-an-agreement-to-acquire-majority-stake-in-easy-sanitary-solutions-b-v",
       "quote": "its majority-owned subsidiary Hansgrohe SE has entered into an agreement to purchase a majority stake in the Dutch company",

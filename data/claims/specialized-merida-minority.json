@@ -4,17 +4,29 @@
   "ownerIds": [
     "specialized-bicycle-components"
   ],
-  "text": "Specialized Bicycle Components is a private US company headquartered in Morgan Hill, California, founded and long led by Mike Sinyard. Merida, the Taiwan-based bicycle manufacturer, acquired a minority share of Specialized in 2001; the percentage was not revealed.",
-  "short": "Specialized is a private US company; Taiwan's Merida holds an undisclosed minority share (2001).",
+  "text": "Specialized Bicycle Components was wholly owned by its founder Mike Sinyard until June 2001, when the Taiwanese bicycle maker Merida took a minority stake; Sinyard kept control as the majority shareholder. Merida Industry Co. owned 35% of Specialized in March 2025.",
+  "short": "Specialized is controlled by its founder Mike Sinyard; Taiwan's Merida owns 35%.",
   "source": {
-    "name": "Encyclopedia.com (Gale, International Directory of Company Histories) — Specialized Bicycle Components Inc.",
-    "date": "2019",
-    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/specialized-bicycle-components-inc",
-    "quote": "A minority share in the company was acquired by Merida, the Taiwan-based bicycle manufacturer in 2001.",
+    "name": "Bicycle Retailer and Industry News: Merida writes down $105 million impairment related to Specialized investment",
+    "date": "2025-03-14",
+    "url": "https://www.bicycleretailer.com/international/2025/03/14/merida-writes-down-105-million-impairment-related-specialized-investment",
+    "quote": "Taiwanese manufacturer Merida Industry Co., which owns 35% of Specialized Bicycle Company",
     "checked": {
       "on": "2026-09-29",
-      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "BikeBiz: Merida takes stake in Specialized",
+      "date": "2001-06-19",
+      "url": "https://bikebiz.com/merida-takes-stake-in-specialized/",
+      "quote": "He retains full control over the company as the majority shareholder and president/CEO.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }

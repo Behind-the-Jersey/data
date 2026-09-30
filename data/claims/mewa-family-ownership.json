@@ -4,17 +4,29 @@
   "ownerIds": [
     "mewa-textil-service"
   ],
-  "text": "MEWA is the Wiesbaden-based textile-services group MEWA Textil-Service SE & Co. Management OHG, which describes itself as a company that has been managed by the owning family for three generations.",
-  "short": "MEWA is family-managed (third generation).",
+  "text": "MEWA Textil-Service SE & Co. Management OHG (Wiesbaden) names its general partners in its imprint: MEWA Textil-Service SE and the Gabriele Gebauer MEWA Stiftung (a foundation), both in Wiesbaden. Die Deutsche Wirtschaft's register of family businesses names the Gebauer family as the owner.",
+  "short": "MEWA is owned by the Gebauer family.",
   "source": {
-    "name": "Mewa — Unternehmen (Textil-Service mit Tradition)",
+    "name": "Mewa: Impressum",
     "date": "2026",
-    "url": "https://www.mewa.de/unternehmen",
-    "quote": "Wir sind ein seit drei Generationen von Familienhand geführtes Unternehmen.",
+    "url": "https://www.mewa.de/impressum/",
+    "quote": "Persönlich haftende Gesellschafterin: Gabriele Gebauer MEWA Stiftung, Wiesbaden",
     "checked": {
       "on": "2026-09-29",
-      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      "by": "Schnitzel"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Die Deutsche Wirtschaft: Gebauer, Familie (MEWA Textil-Service AG & Co. Management OHG, Wiesbaden), Inhaber",
+      "date": "2024-01-26",
+      "url": "https://die-deutsche-wirtschaft.de/familienunternehmen/gebauer-familie-mewa-textil-service-ag-co-management-ohg-wiesbaden-inhaber/",
+      "quote": "Eigentümer ist die Unternehmerfamilie Gebauer.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }

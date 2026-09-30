@@ -4,10 +4,10 @@
   "ownerIds": [
     "bora-lueftungstechnik"
   ],
-  "text": "BORA is the brand of Bora Lüftungstechnik GmbH of Raubling, Upper Bavaria, a private German company founded in 2007 by Willi Bruckbauer, who remains its CEO.",
-  "short": "BORA is the brand of Bora Lüftungstechnik GmbH, founded by Willi Bruckbauer, who remains CEO.",
+  "text": "BORA is the brand of Bora Lüftungstechnik GmbH of Raubling, Upper Bavaria, founded in 2007 by Willi Bruckbauer, who remains its CEO. The design magazine md calls Bruckbauer the sole owner (Alleininhaber) of Bora.",
+  "short": "BORA is the brand of Bora Lüftungstechnik GmbH, founded, led and solely owned by Willi Bruckbauer.",
   "source": {
-    "name": "kbb Focus — Bora CEO Willi Bruckbauer on the power of being a niche brand",
+    "name": "KBBFocus: Bora CEO Willi Bruckbauer on the power of being a niche brand",
     "date": "2020-12-03",
     "url": "https://kbbfocus.com/news/236-bora-ceo-willi-bruckbauer-on-the-power-of-being-a-niche-brand-feature",
     "quote": "Bora Lüftungstechnik GmbH was founded in 2007 in Raubling, Upper Bavaria, by Willi Bruckbauer, 53, who remains the CEO.",
@@ -16,5 +16,17 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "md: Willi Bruckbauer, Gründer des Unternehmens Bora im md-Portrait",
+      "date": "2020-06-15",
+      "url": "https://www.md-mag.com/personen/unternehmer/willi-bruckbauer/",
+      "quote": "Bruckbauer, Alleininhaber von Bora",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }
