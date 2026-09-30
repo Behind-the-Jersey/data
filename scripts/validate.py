@@ -203,10 +203,17 @@ for k, x in R['kits'].items():
         h = p.get('hotspot')
         if h and not all(0 <= h[a] <= 1 for a in 'xywh'):
             err(w, f'hotspot for "{p["sponsorId"]}" must use fractions between 0 and 1')
+    # A kit's period is written like its season: seasons for a season kit (both ends set: the website sorts on them),
+    # years for a calendar-year kit. A launch month such as 2026-05 is not a season.
     if SEASON.match(x.get('season') or ''):
         for f in ('periodFrom', 'periodTo'):
-            if x.get(f) and not SEASON.match(x[f]):
-                err(w, f'{f} "{x[f]}" must be written like the season ({x["season"]}), e.g. 2026-27')
+            v = x.get(f)
+            if not (isinstance(v, str) and SEASON.match(v) and int(v[5:]) == (int(v[:4]) + 1) % 100):
+                err(w, f'{f} {v!r} must be a season like the kit\'s ({x["season"]}), e.g. 2026-27')
+    elif re.match(r'^\d{4}$', x.get('season') or ''):
+        for f in ('periodFrom', 'periodTo'):
+            if x.get(f) is not None and not re.match(r'^\d{4}$', x[f]):
+                err(w, f'{f} "{x[f]}" must be a year like the kit\'s season ({x["season"]})')
     if x.get('periodFrom') and x.get('periodTo') and x['periodFrom'] > x['periodTo']:
         err(w, 'periodFrom is after periodTo')
 for t in ['changes', 'dropped']:
