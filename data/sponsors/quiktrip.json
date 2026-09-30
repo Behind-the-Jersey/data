@@ -1,12 +1,14 @@
 {
   "id": "quiktrip",
   "name": "QuikTrip",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "quiktrip-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "quiktrip-cadieux-ownership"
+  ],
   "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: Proposed tier none (see #98). Privately held US company, majority-owned by the Cadieux family per Forbes; no state or state fund in the ownership chain and no human-rights finding against the company identified. Previous rating removed 2026-09-25: its only claim was an invented ownership record (#279); replaced with a checked claim."
 }
