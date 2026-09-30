@@ -1,0 +1,44 @@
+{
+  "id": "rugby-australia-2026-27-home",
+  "clubId": "rugby-australia",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "cadbury",
+      "placement": "front",
+      "source": {
+        "name": "Sportcal: 'Cadbury extends Wallabies partnership through 2029'",
+        "date": "2024-07-05",
+        "url": "https://www.sportcal.com/sponsorship/cadbury-extends-wallabies-partnership-through-2029/",
+        "quote": "the partnership through 2029, sees Cadbury continue as the principal partner of the team, with its branding remaining on the front of Wallabies shirts",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "castore",
+      "placement": "partner",
+      "source": {
+        "name": "Rugby Australia: 'Rugby Australia and Castore announce new landmark partnership'",
+        "date": "2026-01-23",
+        "url": "https://www.rugby.com.au/news/rugby-australia-and-castore-announce-new-landmark-partnership-2026123",
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers.",
+        "quote": "the Wallabies, Wallaroos, Australian Men’s and Women’s Sevens teams and Australian Pathways teams proudly wearing Castore-issued sportswear from January 2026",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Cadbury (owned by US-listed Mondelez International) on the front; Castore makes the kit. Nothing found on either.",
+  "change": null
+}
