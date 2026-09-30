@@ -1,0 +1,29 @@
+{
+  "id": "huayuan-securities",
+  "name": "Huayuan Securities",
+  "ownerId": "wuhan-financial-holdings",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": "Huayuan Securities, a Chinese brokerage controlled by the Wuhan municipal government through its state financial holding group. Front-of-shirt sponsor of Wuhan Three Towns (2026).",
+  "claimIds": [
+    "huayuan-securities-state-ownership",
+    "china-xinjiang-un-assessment"
+  ],
+  "aliases": [
+    "华源证券",
+    "Huayuan Stock",
+    "Jiuzhou Securities",
+    "九州证券"
+  ],
+  "why": {
+    "text": "Huayuan Securities is controlled by the Wuhan city government: Wuhan Financial Holdings Group, which the city wholly owns as its only first-level state financial platform, holds 50% of Huayuan Securities and is its actual controller. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Huayuan Securities is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "huayuan-securities-state-ownership"
+    ],
+    "messageLine": "The UN human rights office found that China's large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "The link (claim huayuan-securities-state-ownership): Huayuan Securities' shareholder page names Wuhan Financial Holdings (Group) as 50% holder and actual controller; the group's own profile says it is a wholly state-owned enterprise of Wuhan city; the chain is wuhan-financial-holdings, wuhan-municipal-government, government-of-china, so the Chinese state controls the sponsor through its city government. The record (claim china-xinjiang-un-assessment): the UN OHCHR 2022 Xinjiang assessment and Human Rights Watch (2026). The tier is for a maintainer to set (METHOD.md 'Sponsor tiers': a state with a record that controls the sponsor)."
+}

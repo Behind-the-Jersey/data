@@ -1,0 +1,19 @@
+{
+  "id": "howden-employee-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "howden-group-holdings"
+  ],
+  "text": "Howden Group Holdings' largest shareholder group is its employees, 5,300 of whom hold approximately 30% of the group's shares; external minority investors are General Atlantic, La Caisse and Hg, and the Howden Foundation is also a shareholder.",
+  "source": {
+    "name": "Howden Group Holdings: Our shareholders (undated corporate page, read 30 September 2026)",
+    "date": "2026-09",
+    "url": "https://www.howdengroupholdings.com/about-us/our-shareholders",
+    "quote": "The first and largest group comprises our employees. 5,300 of us currently hold approximately 30% of the shares in the group.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

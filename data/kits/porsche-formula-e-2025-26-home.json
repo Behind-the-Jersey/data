@@ -7,8 +7,121 @@
   "periodFrom": "2025-26",
   "periodTo": "2025-26",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsors": [
+    {
+      "sponsorId": "mobil-1",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tdk",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "The Japanese company TDK Corporation is joining as a new on-car partner.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "loctite",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tag-heuer",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "The previous title and timing partner will continue to support the Formula E factory team but with a reduced presence",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "synopsys",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "netapp",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "cato-networks",
+      "placement": "partner",
+      "source": {
+        "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+        "date": "2025-10-08",
+        "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+        "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Season 12 (2025/26) Porsche 99X Electric, team renamed Porsche Formula E Team: TAG Heuer stepped back from title partner to timing partner, so no front sponsor. Porsche lists eight partners - Mobil 1, TDK, LOCTITE, TAG Heuer, PUMA (teamwear), Synopsys (formerly Ansys), NetApp, Cato Networks - all recorded as partner.",
   "change": null
 }
