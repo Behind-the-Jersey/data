@@ -1,0 +1,46 @@
+{
+  "id": "rugby-georgia-2026-27-home",
+  "clubId": "rugby-georgia",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "tbc-bank",
+      "placement": "back",
+      "source": {
+        "name": "Hubs.ge, official Georgian Rugby Union fan shop: Georgia national rugby team replica jersey",
+        "date": "2026-09-30",
+        "url": "https://hubs.ge/product/ragbis-erovnuli-nakrebis-replika-maisuri",
+        "quote": "საქართველოს რაგბის ეროვნული ნაკრების რეპლიკა მაისური",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Undated product listing on the GRU's official fan shop (linked from rugby.ge as 'shop'); date is the day it was opened. The quote is the product title ('Georgia national rugby team replica jersey'). The official product photos of the current home shirt on that page show the TBC sword logo and 'TBC' lettering on the upper back, in white. The deal is current: Sportall reported the GRU-TBC cooperation was extended by another four years, to 2027 (agreement signed 25 November 2022): https://sportall.ge/article/160290-sakartvelos-ragbis-kavshirisa-da-tibisis-tanamshromloba-kidev-4-clit-gagrzelda/"
+      }
+    },
+    {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "boutique-rugby.com: Georgia Rugby Home Jersey 2025/2026 - Macron",
+        "date": "2026-09-30",
+        "url": "https://en.boutique-rugby.com/gru-m25-matchday-home-body-shirt-ss-macron-tek.html",
+        "quote": "Official Georgia home jersey for the 2025/2026 season. Comfort, style, and national pride by Macron.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. Undated retail listing; date is the day it was opened. Macron-GRU imagery: the official 2025/26 home shirt product image carries the Macron hero on the right chest and sleeve; July 2026 Nations Cup match photos (World Rugby/Getty, Uruguay v Georgia, 4 July 2026, Montevideo) show the same. Macron's own announcement page (about.macron.com, 'MACRON TECHNICAL PARTNER OF GEORGIA RUGBY UNION') is Cloudflare-blocked from this network; see PR notes."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Georgia's current home shirt (Macron, worn in the Rugby Europe Championship 2026 and the Nations Cup July 2026) carries TBC Bank - the Georgian Rugby Union's general sponsor, renewed to 2027 - on the upper back of the replica sold in the GRU's official shop. The front is plain (Macron chest logo and GRU crest only, per the official product image on boutique-rugby.com and the GRU shop), the sleeves carry only the Macron hero and a Georgian cross design motif, and the back below the TBC mark and the shorts show no commercial sponsor in Nations Cup match photos (Uruguay v Georgia, 4 July 2026).",
+  "change": null,
+  "shortLine": "TBC Bank on the back, plain front"
+}
