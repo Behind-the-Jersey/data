@@ -1,0 +1,20 @@
+{
+  "id": "motorex-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "motorex-bucher-group-ag"
+  ],
+  "text": "The Motorex lubricants brand belongs to the MOTOREX-BUCHER GROUP AG of Langenthal, Switzerland, which describes itself as an independent family business with MOTOREX AG as parent company of its operating subsidiaries.",
+  "short": "Motorex is an independent Swiss family business (MOTOREX-BUCHER GROUP).",
+  "source": {
+    "name": "MOTOREX: Company",
+    "date": "2026",
+    "url": "https://motorex.com/en-us/Company",
+    "quote": "The MOTOREX-BUCHER GROUP AG continues to operate as an independent family business",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

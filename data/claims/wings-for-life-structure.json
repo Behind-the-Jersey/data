@@ -1,0 +1,21 @@
+{
+  "id": "wings-for-life-structure",
+  "kind": "ownership",
+  "ownerIds": [
+    "wings-for-life"
+  ],
+  "text": "Wings for Life is a non-profit spinal-cord research foundation founded in 2004 by Heinz Kinigadner and Dietrich Mateschitz, based in Salzburg, Austria; Red Bull bears its administrative costs.",
+  "short": "Wings for Life is a non-profit research foundation in Salzburg, founded in 2004; Red Bull bears its administrative costs.",
+  "source": {
+    "name": "Our mission - Wings for Life",
+    "date": "2026",
+    "url": "https://www.wingsforlife.com/uk/about-us/",
+    "quote": "In 2004 they founded Wings for Life. A non-profit research foundation with the goal of curing spinal cord injury.",
+    "note": "The same page says 'Red Bull bears the administrative costs of the foundation.' and its footer names 'Wings for Life – International Spinal Cord Research Foundation Fürstenallee 4 5020 Salzburg FN 251592p'. The page renders in a browser; the earlier legal-notice URL now redirects to a Terms of Use page for the US foundation.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-916 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "akrapovic-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "akrapovic-dd"
+  ],
+  "text": "The Akrapovič exhaust brand belongs to Akrapovič d.d. of Ivančna Gorica, Slovenia, per the company's own legal notice; the unlisted company's deeper shareholding is not documented in an accessible primary source.",
+  "short": "Akrapovič brand belongs to Akrapovič d.d. (Slovenia).",
+  "source": {
+    "name": "Akrapovič – Legal notice",
+    "date": "2026",
+    "url": "https://www.akrapovic.com/en/legal-notice",
+    "quote": "This website is the official website of the company Akrapovič d.d., Malo Hudo 8a, 1295 Ivančna Gorica, Slovenia, EU",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
