@@ -1,0 +1,21 @@
+{
+  "id": "tdk-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "tdk-corporation"
+  ],
+  "text": "TDK Corporation is listed on the Tokyo Stock Exchange. Its principal shareholders as of 31 March 2026 were custodial trust accounts: The Master Trust Bank of Japan (trust account) 27.01% and Custody Bank of Japan (trust account) 11.73%; the Government of Norway held 1.29%, below 5%.",
+  "short": "TDK is listed in Tokyo; its largest disclosed holders are custodial trust accounts.",
+  "source": {
+    "name": "TDK: Stock Information (principal shareholders, as of 31 March 2026) via Wayback Machine",
+    "date": "2026-03-31",
+    "url": "https://web.archive.org/web/20260726123711/https://www.tdk.com/en/ir/stock_and_corporate_bonds/stock/index.html",
+    "quote": "The Master Trust Bank of Japan, Ltd.(Trust account) 512,652 27.01",
+    "note": "Wayback capture of 2026-07-26 (the live tdk.com page answers our requests with 403); shareholder table is dated 31 March 2026 on the page.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "henkel-family-share-pool",
+  "kind": "ownership",
+  "ownerIds": [
+    "henkel"
+  ],
+  "text": "Henkel AG & Co. KGaA's shares are traded on German stock exchanges. Members of the Henkel family share-pooling agreement held 61.85 percent of the ordinary shares as of 19 March 2026; the latest voting-right notifications Henkel lists are BlackRock at 3.03% and Silchester at 3.01%.",
+  "short": "The Henkel family share-pooling agreement holds 61.85% of Henkel's ordinary (voting) shares.",
+  "source": {
+    "name": "Henkel: Shares (shareholder structure)",
+    "date": "2026-09-30",
+    "url": "https://www.henkel.com/investors-and-analysts/shares",
+    "quote": "61.85 percent of our ordinary shares (as of March 19, 2026) are held by members of the Henkel family share-pooling agreement.",
+    "note": "Corporate page, no date shown; opened 2026-09-30.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
