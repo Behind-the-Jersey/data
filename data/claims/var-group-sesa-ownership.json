@@ -1,0 +1,20 @@
+{
+  "id": "var-group-sesa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sesa-spa"
+  ],
+  "text": "Var Group is part of the Sesa Group; SeSa S.p.A. is listed on the Euronext STAR market in Milan.",
+  "short": "Var Group is part of SeSa S.p.A., listed on Euronext STAR Milan.",
+  "source": {
+    "name": "Var Group: We are",
+    "date": "2026-04-30",
+    "url": "https://www.vargroup.com/We-are",
+    "quote": "Var Group is part of the Sesa Group, Italy's leading provider of technological innovation and IT and digital solutions",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
