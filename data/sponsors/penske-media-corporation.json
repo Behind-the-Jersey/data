@@ -3,14 +3,15 @@
   "name": "Penske Media Corporation (PMC)",
   "ownerId": "penske-media-corporation",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "A private US media company; a $200m investment stake from the Saudi state-backed SRMG (2018) is on record, with the stake size undisclosed.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
-    "pmc-srmg-investment"
+    "pmc-srmg-investment",
+    "srmg-state-ownership"
   ],
   "aliases": [
     "PMC"
   ],
-  "note": "DS Penske partner; PMC lists the team among its brands (founder Jay Penske owns the Penske Autosport operation). Rating note: whether SRMG's minority stake reaches 5% or carries a board seat could not be sourced, so no tier (METHOD.md)."
+  "note": "DS Penske partner; PMC lists the team among its brands (founder Jay Penske owns the Penske Autosport operation). Left unrated: Saudi Research and Media Group (SRMG) invested $200 million in PMC in February 2018 (pmc-srmg-investment); PMC called it minority funding, and neither the size of the stake nor any board seat is published. SRMG's controlling ownership runs through state-linked funds to Saudi Arabia's PIF (srmg-state-ownership), so a stake of 5% or more, or a board seat, would be a link to the Saudi state."
 }

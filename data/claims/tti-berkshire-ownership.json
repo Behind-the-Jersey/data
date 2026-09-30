@@ -5,15 +5,15 @@
     "tti-inc",
     "berkshire-hathaway"
   ],
-  "text": "TTI, Inc. is a Berkshire Hathaway company, as TTI states on its own website.",
+  "text": "TTI, Inc. is a Berkshire Hathaway company: Berkshire Hathaway's annual report for 2025 counts TTI, a distributor of electronics components, in its service group.",
   "source": {
-    "name": "TTI, Inc.: About TTI",
-    "date": "2026-09-29",
-    "url": "https://www.ttiinc.com/content/ttiinc/en/about.html",
-    "quote": "TTI, Inc. a Berkshire Hathaway company, is an authorized specialty distributor of interconnect, passive, electromechanical components",
+    "name": "Berkshire Hathaway Inc.: Form 10-K for the year ended December 31, 2025 (SEC)",
+    "date": "2026-03-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+    "quote": "Our service group includes NetJets and FlightSafety (aviation services), which offer shared ownership programs for general aviation aircraft and high technology training products and services to operators of aircraft, and TTI, a distributor of electronics components.",
     "checked": {
       "on": "2026-09-29",
-      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      "by": "Schnitzel"
     }
   },
   "reviewed": false

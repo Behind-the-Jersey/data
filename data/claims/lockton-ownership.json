@@ -4,16 +4,17 @@
   "ownerIds": [
     "lockton-companies"
   ],
-  "text": "Lockton is a privately held, family organisation: its own site describes its founder's 'fierce commitment to private ownership' and says it is not driven by the quarterly pressure of the financial markets.",
+  "text": "Lockton describes itself as a family organisation that is not driven by the quarterly pressure of the financial markets, and cites its founder's 'fierce commitment to private ownership'.",
   "source": {
-    "name": "Lockton: Our Story",
-    "date": "2026-09-29",
+    "name": "Lockton: Our Story (page title: About Lockton MENA | Insurance Broker & Advisor)",
+    "date": "2026",
     "url": "https://global.lockton.com/us/en/our-story",
     "quote": "Jack Lockton believed that a fierce commitment to private ownership instills every employee with a single-minded focus on delivering results for clients.",
     "checked": {
       "on": "2026-09-29",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-    }
+    },
+    "note": "Page without a date; opened 2026-09-29."
   },
   "reviewed": false
 }

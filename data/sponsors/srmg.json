@@ -5,7 +5,7 @@
   "ownership": "owned",
   "tier": "unrated",
   "status": "being-rated",
-  "verdict": "Proposed: serious. Media researchers say SRMG's controlling ownership runs through state-linked financial institutions to PIF; press reports describe it as majority-owned by the Saudi government via al-Ahli funds.",
+  "verdict": "A listed Saudi media group whose controlling ownership runs through state-linked funds to Saudi Arabia's Public Investment Fund.",
   "claimIds": [
     "saudi-executions-2025",
     "srmg-state-ownership"
@@ -16,9 +16,9 @@
     "Saudi Research and Marketing Group",
     "Saudi Media Group"
   ],
-  "note": "DS Penske partner in the joint 'NEOM-SRMG' block on the team site; the club's Season 12 partners press kit (Dec 2025) names the partner as SRMG. Rating note: on hold for a maintainer. Serious case: the link is srmg-state-ownership (MJRC + TheWrap); the record is saudi-executions-2025 (HRW + Amnesty).",
+  "note": "DS Penske partner in the joint 'NEOM-SRMG' block on the team site; the club's Season 12 partners press kit (Dec 2025) names the partner as SRMG. Rating note: on hold for a maintainer; the pull request proposes serious. The link is srmg-state-ownership (State Media Monitor + TheWrap); control is indirect (PIF is the ultimate controlling party of SNB, whose Al Ahli Capital funds hold the controlling stake). The record is saudi-executions-2025 (HRW + Amnesty).",
   "why": {
-    "text": "Saudi Research and Media Group, the kingdom's biggest media group, has its controlling ownership running through state-linked funds to Saudi Arabia's Public Investment Fund. Saudi Arabia executed at least 356 people in 2025, a record. The state sits behind the SRMG logo on DS Penske's Formula E entry. That's called sportswashing.",
+    "text": "Saudi Research and Media Group is a listed Saudi media company whose controlling ownership runs through state-linked funds to Saudi Arabia's Public Investment Fund. Saudi Arabia executed at least 356 people in 2025, a record. The state sits behind the SRMG logo on DS Penske's Formula E entry. That's called sportswashing.",
     "claimIds": [
       "saudi-executions-2025",
       "srmg-state-ownership"

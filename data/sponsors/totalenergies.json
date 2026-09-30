@@ -3,14 +3,14 @@
   "name": "TotalEnergies",
   "ownerId": "totalenergies-se",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "A listed company with widely held shares (95% free-float factor in the CAC 40).",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "totalenergies-ownership"
   ],
   "aliases": [
     "total"
   ],
-  "note": "DS Penske partner (Season 12, 2025/26) and WEC Peugeot TotalEnergies title sponsor. Listed on Euronext Paris/Brussels, LSE and NYSE; no state control."
+  "note": "DS Penske partner (Season 12, 2025/26) and WEC Peugeot TotalEnergies title sponsor. Left unrated for a maintainer: the owner is sourced (totalenergies-ownership: listed, 95% free-float factor), but the company test isn't settled. Human Rights Watch's report 'Our Trust is Broken' (2023-07-10, https://www.hrw.org/report/2023/07/10/our-trust-broken/loss-land-and-livelihoods-oil-development-uganda) found that the land acquisition for TotalEnergies' East African Crude Oil Pipeline project 'has devastated thousands of people's livelihoods in Uganda', with delayed and inadequate compensation. French prosecutors opened a manslaughter investigation in March 2025 over the 2021 attack near its Mozambique LNG site (an investigation, not a finding)."
 }

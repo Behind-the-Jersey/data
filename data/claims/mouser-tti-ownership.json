@@ -4,15 +4,15 @@
   "ownerIds": [
     "tti-inc"
   ],
-  "text": "Mouser Electronics is part of TTI, Inc.'s group: TTI lists Mouser Electronics in its 'TTI Family of Specialists', the group of companies it says is made up of TTI, Mouser Electronics, Sager Electronics and the Exponential Technology Group.",
+  "text": "Mouser Electronics is a subsidiary of TTI, Inc.: Berkshire Hathaway's annual report for 2025 describes TTI's business and refers to 'its Mouser subsidiary'.",
   "source": {
-    "name": "TTI, Inc.: Family of Specialists",
-    "date": "2026-09-29",
-    "url": "https://www.ttiinc.com/content/ttiinc/en/about/family-of-specialists.html",
-    "quote": "The TTI Family of Specialists made up of TTI, Mouser Electronics, Sager Electronics, and the Exponential Technology Group",
+    "name": "Berkshire Hathaway Inc.: Form 10-K for the year ended December 31, 2025 (SEC)",
+    "date": "2026-03-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+    "quote": "Its Mouser subsidiary supports a broader base of customers with lower volume purchases through internet-based marketing",
     "checked": {
       "on": "2026-09-29",
-      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      "by": "Schnitzel"
     }
   },
   "reviewed": false

@@ -6,7 +6,7 @@
     "saudi-pif",
     "government-of-saudi-arabia"
   ],
-  "text": "NEOM is a closed joint-stock company fully owned by the Public Investment Fund (PIF), Saudi Arabia's sovereign wealth fund; PIF lists NEOM among its giga-projects and Human Rights Watch describes NEOM as a PIF-funded giga-project.",
+  "text": "NEOM is a closed joint-stock company fully owned by the Public Investment Fund (PIF), Saudi Arabia's sovereign wealth fund; Human Rights Watch describes NEOM as a PIF-funded giga-project.",
   "short": "NEOM is fully owned by Saudi Arabia's sovereign wealth fund, PIF.",
   "source": {
     "name": "Saudi Press Agency: NEOM Established as a Closed Joint-Stock Company Owned by Saudi Sovereign Wealth Fund (archived copy)",
@@ -18,7 +18,6 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false,
   "additionalSources": [
     {
       "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
@@ -30,5 +29,6 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     }
-  ]
+  ],
+  "reviewed": false
 }
