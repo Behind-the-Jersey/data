@@ -3,9 +3,9 @@
   "name": "O2",
   "ownerId": "virgin-media-o2",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "O2 is the consumer mobile brand of Virgin Media O2, a 50:50 joint venture between Liberty Global and Telefónica; neither JV parent is state-controlled. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": null,
   "claimIds": [
     "virgin-media-o2-ownership",
     "telefonica-significant-shareholders-2025",
@@ -14,5 +14,5 @@
   "aliases": [
     "telefonica o2 uk"
   ],
-  "note": "Rating note: proposed none for issue #714 (2026-09-30). Chain: Saudi Arabia's PIF holds 9.97% of Telefónica voting rights indirectly (Green Bridge / stc), so its effective holding in the 50:50 JV Virgin Media O2 is ~4.99% - under the 5% threshold, and the stc-nominated proprietary director sits on Telefónica's board, not the sponsor's. SEPI (Spain) 10.00% x 50% = 5.0%, but Spain has no sourced serious-abuse record, and state ownership alone is not a tier (METHOD.md). Liberty Global is NASDAQ-listed with no state in the chain. Front-of-shirt sponsor of England Rugby (men and women) to 2031 per the RFU's 20 Nov 2025 announcement."
+  "note": "O2 is a brand of Virgin Media O2, a 50/50 joint venture of Telefónica and Liberty Global. Telefónica's significant shareholders include stc (Saudi Arabia, 9.97%), which has a director on Telefónica's board, SEPI (Spain, 10.00%) and CriteriaCaixa (see the cited ownership claims). Along the chain stc's share of O2 is about 4.99%, just under the 5% test; whether a board seat at the 50% parent counts as a board seat under METHOD.md is for a maintainer. Until then the rating is on hold."
 }
