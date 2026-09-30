@@ -1,0 +1,34 @@
+{
+  "id": "rakhsh-khodro-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "daric-investment-group"
+  ],
+  "text": "Rakhsh Khodro Diesel is a subsidiary of the Daric Investment Development Group; the company says all of its shares were transferred from the previous shareholders to Daric Investment in 2018 (1397).",
+  "short": "All of Rakhsh Khodro Diesel's shares were transferred to Daric Investment in 2018.",
+  "source": {
+    "name": "Rakhsh Khodro Diesel: About us (archived by the Wayback Machine)",
+    "date": "2026-06-17",
+    "url": "https://web.archive.org/web/20260617191136/https://rakhshkhodro.com/fa/%D8%B5%D9%81%D8%AD%D9%87/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7",
+    "quote": "تمام سهام این شرکت در سال ۱۳۹۷ از سهامداران قبلی به شرکت سرمایه گذاری دریک واگذار شده است",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The live site (rakhshkhodro.com) was unreachable from the research server; the archived capture carries the same About us text. Persian: all shares transferred to Daric Investment in 1397 (2018)."
+  },
+  "additionalSources": [
+    {
+      "name": "Varzesh3: خسارت گسترده به زیرمجموعه‌های مالک تراکتور (Heavy losses for the Tractor owner's subsidiaries)",
+      "date": "2026-04-05",
+      "url": "https://www.varzesh3.com/news/2352480/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DA%A9-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1",
+      "quote": "سهامدار و مالک چندین شرکت تولیدی و خدماتی مانند هواپیمایی آتا، شرکت رخش خودرو دیزل",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Varzesh3 describes Mohammad Reza Zonouzi as owner of Tractor club and shareholder/owner of companies including ATA Airlines and Rakhsh Khodro Diesel."
+    }
+  ],
+  "reviewed": false
+}
