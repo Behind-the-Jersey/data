@@ -3,9 +3,9 @@
   "name": "CNCITY Energy",
   "ownerId": "cncity-energy-co",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "CNCITY Energy, an unlisted Daejeon city-gas and district-energy company; 48% is held by Macquarie Korea Infrastructure Fund, a listed Korean infrastructure fund. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "cncity-energy-mkif-shareholding"
   ],
@@ -13,5 +13,5 @@
     "씨엔씨티에너지",
     "CNCITY에너지"
   ],
-  "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Rating note: the only disclosed shareholding is MKIF's 48% (claimed from MKIF's own asset page); the remaining ownership is not publicly documented. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against the company found."
+  "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Left unrated: the only sourced shareholding is Macquarie Korea Infrastructure Fund's 48% (cncity-energy-mkif-shareholding); who holds the other 52%, and so who controls the company, isn't sourced. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against the company found."
 }
