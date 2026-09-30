@@ -4,9 +4,22 @@
   "ownerId": "neom",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "NEOM is fully owned by Saudi Arabia's Public Investment Fund, the state's sovereign wealth fund.",
+  "claimIds": [
+    "saudi-executions-2025",
+    "pif-giga-labour-abuses",
+    "neom-pif-ownership"
+  ],
   "aliases": [],
-  "note": "Owner of NEOM SC."
+  "note": "DS Penske partner in the joint 'NEOM-SRMG' block on the team site (Season 12, 2025/26); NEOM also owns NEOM SC. Rating note: on hold for a maintainer; the pull request proposes serious. The link is neom-pif-ownership (SPA 2019: NEOM 'fully owned by the Public Investment Fund'; HRW 2024 calls NEOM a PIF-funded giga-project); the record is saudi-executions-2025 (HRW + Amnesty) and pif-giga-labour-abuses (HRW, NEOM named; one source).",
+  "why": {
+    "text": "NEOM is fully owned by Saudi Arabia's Public Investment Fund, the state's sovereign wealth fund. Saudi Arabia executed at least 356 people in 2025, a record. The logo on DS Penske's Formula E entry is that state's money. That's called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2025",
+      "neom-pif-ownership"
+    ],
+    "messageLine": "Saudi Arabia executed at least 356 people in 2025, a new record.",
+    "status": "draft"
+  }
 }
