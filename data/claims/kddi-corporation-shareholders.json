@@ -1,0 +1,20 @@
+{
+  "id": "kddi-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "kddi-corporation"
+  ],
+  "text": "KDDI Corporation's major shareholders as of 31 March 2026 were The Master Trust Bank of Japan, Ltd. (Trust Account, 15.77%), KYOCERA Corporation (14.75%), TOYOTA MOTOR CORPORATION (9.54%) and Custody Bank of Japan, Ltd. (Trust Account, 6.63%); national and local governments hold 0.00% of its shares and no state or sovereign shareholder is listed as controlling the company. It is listed on the Tokyo Stock Exchange (code 9433).",
+  "short": "KDDI is Tokyo-listed; top holders are trust banks and industrial companies, no state control.",
+  "source": {
+    "name": "KDDI Corporation: Stock Information (as of March 31, 2026)",
+    "date": "2026-03-31",
+    "url": "https://www.kddi.com/english/corporate/ir/stock-rating/stock/",
+    "quote": "KYOCERA Corporation 562,133,600 14.75",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

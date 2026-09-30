@@ -1,0 +1,21 @@
+{
+  "id": "sankyo-frontier-kazuyuki-kosan",
+  "kind": "ownership",
+  "ownerIds": [
+    "sankyo-frontier-co",
+    "kazuyuki-kosan"
+  ],
+  "text": "Sankyo Frontier Co., Ltd.'s securities report for the year ended 31 March 2026 (57th term) names the non-listed Kazuyuki Kosan K.K. (㈲和幸興産, a Kashiwa real-estate company) as its parent company and largest shareholder with 50.54% of the shares, and notes that Kazuyuki Kosan's voting rights are 100% owned by Kazuo Nagatsuma, president Takatsugu Nagatsuma and their close relatives.",
+  "short": "Sankyo Frontier's majority owner is the unlisted Nagatsuma-family vehicle Kazuyuki Kosan (50.54%).",
+  "source": {
+    "name": "三協フロンテア株式会社: 第57期 有価証券報告書 (FY2026, 大株主の状況 and 関連当事者情報 sections; filed 2026-06-18)",
+    "date": "2026-06-18",
+    "url": "https://www.sankyofrontier.com/ir/material/pdf/yuka_shoken/26_q4.pdf",
+    "quote": "㈲和幸興産 千葉県柏市北柏１丁目１ 11,233 50.54",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

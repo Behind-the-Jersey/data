@@ -1,0 +1,20 @@
+{
+  "id": "hitachi-ltd-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "hitachi-ltd"
+  ],
+  "text": "Hitachi, Ltd. is listed on the Tokyo and Nagoya stock exchanges (code 6501). Its 10 largest shareholders as of 30 June 2026 were led by The Master Trust Bank of Japan, Ltd. (Trust Account, 16.21%) and Custody Bank of Japan, Ltd. (Trust Account, 5.22%), with GOVERNMENT OF NORWAY at 1.69% and the Hitachi Employees' Shareholding Association at 1.61%; no state or sovereign shareholder is listed as controlling the company.",
+  "short": "Hitachi is Tokyo-listed; top holders are trust banks and custody accounts, no state control.",
+  "source": {
+    "name": "Hitachi, Ltd.: Stock Information (as of June 30, 2026)",
+    "date": "2026-06-30",
+    "url": "https://www.hitachi.com/en/ir/stock/information/",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 727,058,500 shares 16.21%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "aflac-inc-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "aflac-inc"
+  ],
+  "text": "Aflac Incorporated registers its Common Stock (symbol AFL) on the New York Stock Exchange. Its 2026 proxy statement lists the holders of more than 5% of its common stock as The Vanguard Group (11.1%), J&A Alliance Holdings Corporation as trustee of J&A Alliance Trust (10.2% of shares; the trust's sole settlor and beneficiary is Japan Post Holdings, its voting is capped at 20% and the proxy states Japan Post Holdings has no board seat and no rights to control, manage or intervene in the company) and BlackRock, Inc. (8.2%).",
+  "short": "Aflac Incorporated is NYSE-listed (AFL); largest holders are asset managers and the Japan Post-alliance trust, with no board seat or control rights.",
+  "source": {
+    "name": "Aflac Incorporated: 2026 Proxy Statement (DEF 14A, beneficial ownership of more than 5% of common stock; SEC EDGAR, filed 2026-03-19)",
+    "date": "2026-03-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026019621/afl-20260319.htm",
+    "quote": "Japan Post Holdings will not have a Board seat on the Company's Board of Directors and will not have rights to control, manage or intervene in the management of the Company",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

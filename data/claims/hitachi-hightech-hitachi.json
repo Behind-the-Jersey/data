@@ -1,0 +1,20 @@
+{
+  "id": "hitachi-hightech-hitachi",
+  "kind": "ownership",
+  "ownerIds": [
+    "hitachi-ltd"
+  ],
+  "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 (157th business term) lists Hitachi High-Tech Corporation among its principal consolidated subsidiaries, with Hitachi holding 100.0% of the voting rights.",
+  "short": "Hitachi High-Tech Corporation is a wholly owned subsidiary of Hitachi, Ltd.",
+  "source": {
+    "name": "Hitachi, Ltd.: Annual Securities Report for the fiscal year ended March 31, 2026, Note 27 'Principal Subsidiaries'",
+    "date": "2026-03-31",
+    "url": "https://www.hitachi.com/content/dam/hitachi/global/en/ir/media/library/stock/hit_sr_fy2025_2_en.pdf",
+    "quote": "Hitachi High-Tech Corporation Minato-ku, Tokyo 100.0",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
