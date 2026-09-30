@@ -1,0 +1,33 @@
+{
+  "id": "fnqiz-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "fnqiz",
+    "government-of-uzbekistan"
+  ],
+  "text": "Uzbekistan's State Assets Management Agency (Davaktiv) is the sole founder of 'Farg'ona neftni qayta ishlash zavodi' LLC (FNQIZ, the Fergana Oil Refinery), which returned to full state control in June 2026.",
+  "short": "Uzbek state agency Davaktiv is the sole founder of the Fergana Oil Refinery (FNQIZ).",
+  "source": {
+    "name": "Gazeta.uz: Davlat yana Farg'ona neftni qayta ishlash zavodining yagona egasiga aylandi",
+    "date": "2026-06-08",
+    "url": "https://www.gazeta.uz/oz/2026/06/08/fnqiz/",
+    "quote": "Farg‘ona neftni qayta ishlash zavodi MCHJning yagona ta’sischisi sifatida Davlat aktivlarini boshqarish agentligi ko‘rsatilgan.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Spot.uz: Farg'ona NQIZ xususiylashtirilgandan to'rt yil o'tib davlat mulkiga qaytarildi",
+      "date": "2026-06-08",
+      "url": "https://www.spot.uz/oz/2026/06/08/ferghana-refinery/",
+      "quote": "Reyestr ma’lumotlariga ko‘ra, Farg‘ona neftni qayta ishlash zavodi kompaniyasining yagona ta’sischisi Davlat aktivlarini boshqarish agentligi hisoblanadi. Unga 124,54 mlrd so‘mlik ustav fondining 100%i tegishli.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
