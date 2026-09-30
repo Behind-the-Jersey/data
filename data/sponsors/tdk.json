@@ -1,12 +1,14 @@
 {
   "id": "tdk",
   "name": "TDK",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "tdk-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "TDK Corporation of Japan, listed on the Tokyo Stock Exchange; its largest disclosed holders are custodial trust accounts. Nothing found.",
+  "claimIds": [
+    "tdk-major-holders"
+  ],
   "aliases": [],
-  "note": "Official Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  "note": "Also an Official Partner of Formula E itself (fiaformulae.com/en/partners, fetched 2026-09-25) and new on-car partner of the Porsche Formula E Team from Season 12 (2025/26). Rating note: no state or state-fund holder at 5% or more (Government of Norway 1.29%) and no human-rights finding against TDK located."
 }

@@ -1,0 +1,42 @@
+{
+  "id": "atvos-mubadala-capital-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mubadala-capital"
+  ],
+  "text": "Mubadala Capital, the asset-management subsidiary of Abu Dhabi's Mubadala Investment Company, became the controlling shareholder of Brazilian biofuel producer Atvos through its MC Green Energy investment fund, and lists Atvos as a current Brazil portfolio investment.",
+  "short": "Atvos controlled by Mubadala Capital funds",
+  "source": {
+    "name": "Valor International (O Globo): Mubadala to take over Atvos after agreement with creditors",
+    "date": "2022-12-12",
+    "url": "https://valorinternational.globo.com/business/news/2022/12/12/mubadala-to-take-over-atvos-after-agreement-with-creditors.ghtml",
+    "quote": "Mubadala will become the controlling shareholder through the MC Green Energy fund, and there is another vehicle, Agroenergia FIP Multiestratégia, which will hold a 5% stake.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Mubadala Capital: Special Opportunities – Brazil (portfolio page)",
+      "date": "2026",
+      "url": "https://www.mubadalacapital.ae/brazil",
+      "quote": "We acquired a significant stake in sugarcane-to-ethanol business Atvos, the 2nd largest ethanol player in Brazil, from creditors, combined with a debt restructuring.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Latin Lawyer: Novonor exits Atvos with Mubadala sale",
+      "date": "2023-11-09",
+      "url": "https://latinlawyer.com/article/novonor-exits-atvos-mubadala-sale",
+      "quote": "Mubadala Capital acquire the remaining 10% stake that Brazilian conglomerate Novonor held in local ethanol producer Atvos",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

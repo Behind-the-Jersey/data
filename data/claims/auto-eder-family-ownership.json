@@ -1,0 +1,20 @@
+{
+  "id": "auto-eder-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "auto-eder"
+  ],
+  "text": "Auto Eder GmbH (Kolbermoor, Bavaria) describes itself as a family-led company (familiengeführtes Traditionsunternehmen); its managing partners (geschäftsführende Gesellschafter) are Peter Eder and Josef Eder.",
+  "short": "Auto Eder is family-led; its managing partners are Peter Eder and Josef Eder.",
+  "source": {
+    "name": "Auto Eder Gruppe: Philosophie und Werte",
+    "date": "2026",
+    "url": "https://auto-eder.de/gruppe/unternehmen/ueber-uns/philosophie-und-werte",
+    "quote": "Peter Eder & Josef Eder - Geschäftsführende Gesellschafter",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

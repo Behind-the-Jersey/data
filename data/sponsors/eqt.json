@@ -1,12 +1,14 @@
 {
   "id": "eqt",
   "name": "EQT",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "eqt-ab",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A listed company; its published top-25 shareholder table is led by Investor at 14.0% of share capital and votes.",
+  "claimIds": [
+    "eqt-top-shareholders-2026"
+  ],
   "aliases": [],
-  "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25)."
+  "note": "Official private markets partner of Emirates Great Britain SailGP Team from July 2026, running through 2030 (EQT newsroom, 22 July 2026). Largest holder is the Swedish Wallenberg sphere's Investor ('Investor', 14.0%); no state owner in the chain."
 }

@@ -1,0 +1,21 @@
+{
+  "id": "crowe-uk-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "crowe-uk-owner"
+  ],
+  "text": "Crowe UK is Crowe U.K. LLP (company number OC307043), a UK limited liability partnership incorporated on 24 February 2004.",
+  "short": "Crowe UK is Crowe U.K. LLP (OC307043), a UK limited liability partnership.",
+  "source": {
+    "name": "Companies House: CROWE U.K. LLP overview",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/OC307043",
+    "note": "Register page without a date; opened 2026-09-29.",
+    "quote": "Company type Limited liability partnership Incorporated on 24 February 2004",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

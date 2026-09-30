@@ -1,0 +1,19 @@
+{
+  "id": "ds-automobiles-stellantis-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "stellantis-nv"
+  ],
+  "text": "DS Automobiles is one of Stellantis N.V.'s brands: Stellantis lists it in its brand portfolio on its own site.",
+  "source": {
+    "name": "Stellantis: Company (archived copy; stellantis.com blocks scripts)",
+    "date": "2026-06-12",
+    "url": "http://web.archive.org/web/20260612113836/https://www.stellantis.com/en/company",
+    "quote": "Its unique portfolio of iconic and innovative brands includes Abarth, Alfa Romeo, Chrysler, Citroën, Dodge, DS Automobiles",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

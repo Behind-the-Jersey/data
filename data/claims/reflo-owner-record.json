@@ -1,0 +1,34 @@
+{
+  "id": "reflo-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "reflo-owner"
+  ],
+  "text": "The Reflo website (reflo.com) is operated by Reflo Sports Ltd. Companies House lists two individuals as the persons with significant control of Reflo Sports Ltd (company number 13131817).",
+  "short": "reflo.com is operated by Reflo Sports Ltd.",
+  "source": {
+    "name": "Reflo: Terms of Use",
+    "date": "2026",
+    "url": "https://reflo.com/pages/terms-of-use",
+    "note": "Page without a date; opened 2026-09-29.",
+    "quote": "This website is operated by Reflo Sports Ltd.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Companies House: REFLO SPORTS LTD persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/13131817/persons-with-significant-control",
+      "note": "Register page without a date; opened 2026-09-29.",
+      "quote": "Persons with significant control: 2 active persons with significant control / 0 active statements",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}
