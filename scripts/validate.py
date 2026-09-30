@@ -206,10 +206,10 @@ for k, x in R['kits'].items():
     # A kit's period is written like its season: seasons for a season kit (both ends set: the website sorts on them),
     # years for a calendar-year kit. A launch month such as 2026-05 is not a season.
     if SEASON.match(x.get('season') or ''):
-        for f in ('periodFrom', 'periodTo'):
+        for f in ('season', 'periodFrom', 'periodTo'):
             v = x.get(f)
             if not (isinstance(v, str) and SEASON.match(v) and int(v[5:]) == (int(v[:4]) + 1) % 100):
-                err(w, f'{f} {v!r} must be a season like the kit\'s ({x["season"]}), e.g. 2026-27')
+                err(w, f'{f} {v!r} must be one season, e.g. 2026-27 (a kit worn for several seasons says so in periodFrom/periodTo)')
     elif re.match(r'^\d{4}$', x.get('season') or ''):
         for f in ('periodFrom', 'periodTo'):
             if x.get(f) is not None and not re.match(r'^\d{4}$', x[f]):
