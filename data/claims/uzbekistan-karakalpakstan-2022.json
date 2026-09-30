@@ -1,0 +1,42 @@
+{
+  "id": "uzbekistan-karakalpakstan-2022",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-uzbekistan"
+  ],
+  "text": "In July 2022 Uzbek security forces used unjustifiably lethal and other excessive force to disperse mainly peaceful protesters in Karakalpakstan, where at least 18 protesters died; the UN human rights chief called for a prompt, independent investigation into the deaths.",
+  "short": "Karakalpakstan, July 2022: lethal force against mainly peaceful protesters; at least 18 dead.",
+  "source": {
+    "name": "Human Rights Watch: Uzbekistan - Police Abuses in Autonomous Region Protests",
+    "date": "2022-11-07",
+    "url": "https://www.hrw.org/news/2022/11/07/uzbekistan-police-abuses-autonomous-region-protests",
+    "quote": "Uzbek security forces unjustifiably used lethal force and other excessive responses to disperse mainly peaceful demonstrators on July 1 and 2, 2022 in Karakalpakstan",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International: Uzbekistan - End use of unlawful force against Karakalpakstan protesters",
+      "date": "2022-07-04",
+      "url": "https://www.amnesty.org/en/latest/news/2022/07/uzbekistan-end-use-of-unlawful-force-against-karakalpakstan-protesters/",
+      "quote": "Reports of use of unlawful force in Nukus, which left at least 18 protesters dead following a demonstration against a proposed amendment to the Constitution",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "UN News: Bachelet calls for impartial, 'transparent investigation' into Uzbekistan protest deaths",
+      "date": "2022-07-05",
+      "url": "https://news.un.org/en/story/2022/07/1122012",
+      "quote": "prompt, impartial and \u201ctransparent investigation\u201d into the deaths of at least 18 people during clashes at protests in the Uzbek region of Karakalpakstan",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

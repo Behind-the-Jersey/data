@@ -1,0 +1,60 @@
+{
+  "id": "neftchi-2026-home",
+  "clubId": "neftchi",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "fnqiz",
+      "placement": "front",
+      "source": {
+        "name": "FNQIZ press service (fnpz.uz): '«Neftchi» — O'zbekiston Superkubogi sohibi'",
+        "date": "2026-03-16",
+        "url": "https://www.fnpz.uz/uz/matbuot-markazi/yangiliklar/1204-neftchi-o-zbekiston-superkubogi-sohibi",
+        "quote": "Jamoaning asosiy homiysi va ishonchli hamkori Farg‘ona neftni qayta ishlash zavodi hisoblanadi.",
+        "note": "The refinery's press service calls FNQIZ Neftchi's 'main sponsor and reliable partner' for the 2026 season. Football Kit Archive (footballkitarchive.com/fc-neftchi-fergana-2026-home-kit-464232/) describes the 2026 home shirt 'with FNQIZ as the sponsor' but is Cloudflare-blocked to scripts (HTTP 403).",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fergana-region-administration",
+      "placement": "partner",
+      "source": {
+        "name": "PFK Neftchi — official website, homepage ('Our main sponsors' section)",
+        "date": "2026-09-30",
+        "url": "https://fcneftchi.uz/en",
+        "quote": "Fergana Region Administration",
+        "note": "Listed under the homepage's 'Our main sponsors' section; shirt placement (if any) not confirmed.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fargona-invest",
+      "placement": "partner",
+      "source": {
+        "name": "PFK Neftchi — official website, homepage ('Our main sponsors' section)",
+        "date": "2026-09-30",
+        "url": "https://fcneftchi.uz/en",
+        "quote": "FARG'ONA INVEST",
+        "note": "Listed under the homepage's 'Our main sponsors' section; shirt placement (if any) not confirmed.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "FNQIZ (the Fergana Oil Refinery) is Neftchi's 2026 main sponsor per the refinery's own press service; Football Kit Archive shows 'FNQIZ' on the home shirt front but blocks scripts. The club site also lists 'Fergana Region Administration' and 'Farg'ona Invest' under 'Our main sponsors' (shirt placement unknown). Back/sleeve/shorts and kit maker unverified: Football Kit Archive says adidas, a supporter reel OCR reads 'JAKO'.",
+  "change": null
+}
