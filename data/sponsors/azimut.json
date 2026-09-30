@@ -1,14 +1,15 @@
 {
   "id": "azimut",
   "name": "Azimut",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "azimut-holding-spa",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
   "claimIds": [],
   "aliases": [
-    "Azimut Yachts"
+    "Azimut Investments",
+    "Azimut Group"
   ],
-  "note": "Italian luxury yacht builder; Global Partner of Red Bull Italy (sailgp.com team page, fetched 2026-09-25)."
+  "note": "Azimut Investments S.A. is the Luxembourg asset manager within Azimut Group, whose parent Azimut Holding S.p.A. is listed on the Milan Stock Exchange (AZM.MI). Global Partner of Red Bull Italy SailGP Team (pressmare.it, 2026-01-15)."
 }
