@@ -1,0 +1,21 @@
+{
+  "id": "telefonica-stc-board-seat",
+  "kind": "ownership",
+  "ownerIds": [
+    "telefonica"
+  ],
+  "text": "Olayan M. Alwetaid, the CEO of stc Group, was appointed to Telefónica's board as a proprietary director on 26 February 2025, on the proposal of significant shareholder Green Bridge Investment Company SCS / Stc Group.",
+  "short": "stc's CEO sits on Telefónica's board as a proprietary director at stc's proposal.",
+  "source": {
+    "name": "Telefónica: Annual Report on Corporate Governance 2025 (PDF), board appointments section and 'positions of Directors with significant shareholders' table",
+    "date": "2026-02",
+    "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/02/Annual-Report-Corporate-Gobernance-2025.pdf",
+    "quote": "the appointment by co-optation, on February 26, 2025, of Mr. Olayan M. Alwetaid as Proprietary Director, upon proposal of the significant shareholder Green Bridge Investment Company SCS / Stc Group",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "The same report's related-party table describes Mr. Alwetaid as 'CEO of Saudi Telecom Company (STC)' and his board biography says 'Currently, he is the CEO of the stc Group since 2021'."
+  },
+  "reviewed": false
+}

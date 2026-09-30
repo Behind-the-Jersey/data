@@ -1,0 +1,21 @@
+{
+  "id": "telefonica-significant-shareholders-2025",
+  "kind": "ownership",
+  "ownerIds": [
+    "telefonica"
+  ],
+  "text": "At 31 December 2025 the Public Investment Fund of Saudi Arabia held 9.97% of Telefónica's voting rights, indirectly through Green Bridge Investment Company SCS, which is controlled by Saudi Telecom Company (stc), itself controlled by PIF; the same report lists SEPI (Spanish state holding company) at 10.00% and says no person or entity exercises control over Telefónica.",
+  "short": "PIF holds 9.97% of Telefónica indirectly via Green Bridge / stc; SEPI 10%; no controlling shareholder.",
+  "source": {
+    "name": "Telefónica: Annual Report on Corporate Governance 2025 (PDF), section 4.2.2 Significant Shareholders",
+    "date": "2026-02",
+    "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/02/Annual-Report-Corporate-Gobernance-2025.pdf",
+    "quote": "The indirect stake is hold through Green Bridge Investment Company SCS (a company controlled by Saudi Telecom Company which in turn is controlled by Public Investment Fund).",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "PDF pp. 12 and 75 (printed)/A.2 table: 'Sociedad Estatal de Participaciones Industriales (SEPI) 10.00' and 'Public Investment Fund 0.00 9.97 0.00 0.00 9.97'; section 4.2.2 states there is no individual or legal entity that exercises or may exercise control over Telefónica."
+  },
+  "reviewed": false
+}
