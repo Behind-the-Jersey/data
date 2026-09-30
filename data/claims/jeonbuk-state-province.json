@@ -1,0 +1,45 @@
+{
+  "id": "jeonbuk-state-province",
+  "kind": "ownership",
+  "ownerIds": [
+    "jeonbuk-state"
+  ],
+  "text": "Jeonbuk State (전북특별자치도) is a provincial government in South Korea, led by a governor, with its office in Jeonju; the province is one of Jeonbuk Hyundai's 2026 uniform partners.",
+  "short": "Jeonbuk State (전북특별자치도) is a South Korean provincial government.",
+  "source": {
+    "name": "Jeonbuk State: JEONBUK STATE (official English website, home page)",
+    "date": "2026",
+    "url": "https://www.jeonbuk.go.kr/eng/index.do",
+    "quote": "the Governor of Jeonbuk State, Lee Won-taeg",
+    "note": "The home page's menu has a 'Provincial Government' section (organization, provincial office, governor), and its footer gives the address 225 Hyoja-ro, Wansan-gu, Jeonju-si, Jeonbuk-do and '© 2024 JEONBUK STATE'. The page is undated.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-905 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "전북일보 (Jeonbuk Ilbo): 전북현대 유니폼 ‘빼곡’⋯로보틱스랩 모베드 파트너십 체결",
+      "date": "2026-02-09",
+      "url": "https://www.jjan.kr/article/20260209500117",
+      "quote": "세계식량계획(WFP), 금호타이어, 현대차 증권, 네이버 치지직, 전북특별자치도에 ‘모베드(MobED)’까지 추가됐다",
+      "note": "Lists Jeonbuk Special Self-Governing Province (전북특별자치도) among the club's 2026 uniform partners.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-905 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "전북특별자치도 (Jeonbuk State): official Korean website, home page",
+      "date": "2026",
+      "url": "https://www.jeonbuk.go.kr/index.jeonbuk",
+      "quote": "이 누리집은 대한민국 공식 전자정부 누리집입니다",
+      "note": "'This website is an official e-government website of the Republic of Korea.' The same site's Korean home page is titled 전북특별자치도 and its footer reads '전북특별자치도 전주시 완산구 효자로 225' and '© 2024 JEONBUK STATE': Jeonbuk State is the English name of 전북특별자치도. The page is undated.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-905 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
