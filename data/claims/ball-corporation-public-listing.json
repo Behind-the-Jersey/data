@@ -1,0 +1,20 @@
+{
+  "id": "ball-corporation-public-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "ball-corporation-owner"
+  ],
+  "text": "Ball Corporation's common stock is registered under the trading symbol BALL on the New York Stock Exchange.",
+  "short": "Ball Corporation trades on the NYSE under BALL.",
+  "source": {
+    "name": "Ball Corporation Form 10-K for fiscal year 2025 (SEC EDGAR, filed 2026-02-19)",
+    "date": "2026-02-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/9389/000110465926017410/ball-20251231x10k.htm",
+    "quote": "Common Stock, without par value BALL New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

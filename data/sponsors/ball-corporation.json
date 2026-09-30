@@ -1,12 +1,14 @@
 {
   "id": "ball-corporation",
   "name": "Ball Corporation",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "ball-corporation-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "ball-corporation-public-listing"
+  ],
   "aliases": [],
-  "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: Ball Corporation, a Colorado-based aluminum packaging company; its Form 10-K (FY2025) registers its common stock on the NYSE under BALL. Holds the naming rights to the Nuggets' arena. A previous rating was removed 2026-09-25 because its only claim was an invented ownership record (#279)."
 }
