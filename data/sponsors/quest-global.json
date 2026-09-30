@@ -3,14 +3,15 @@
   "name": "Quest Global",
   "ownerId": "quest-global-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Owned by Quest Global. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
-    "quest-global-owner-record"
+    "quest-global-owner-record",
+    "quest-global-gic-stake"
   ],
   "aliases": [
     "QuEST Global"
   ],
-  "note": "Rating note: Private engineering services firm; Carlyle holds a significant minority stake (2023, via Carlyle Asia Partners), founder-led. No state control or 5%+ state stake identified. No human-rights finding against the company identified."
+  "note": "Left unrated: whether Singapore's state fund GIC is still a shareholder, and with what stake, isn't sourced. GIC bought a minority stake with Bain Capital and Advent International in 2016 (US$350 million in total, split not published) and was reported as still invested in August 2021. Quest Global's August 2023 release says Bain Capital and Advent International exit as Carlyle comes in and doesn't mention GIC; DealStreetAsia (Nikkei Asia, 2023-08-09) still listed GIC among the investors. An Economic Times report republished by M&A Critique (2025-12-25, https://mnacritique.mergersindia.com/news/hillhouse-joins-temasek-in-race-for-up-to-6-stake-in-quest-global/) says Carlyle and the founder's holding company bought the 40% stake held by Advent, Bain Capital and GIC in 2023, and names Carlyle (23%), Ajit Prabhu (47%), ChrysCapital, True North, Onyx, Ocorian Singapore, JTC Trust and Sanaka Growth as shareholders, without GIC; no company document confirms GIC's exit. Singapore counts as a state with a record in this data (executions for drug offences), so a GIC stake of 5% or more, or a board seat, would be Concern. No human-rights finding against the company identified."
 }
