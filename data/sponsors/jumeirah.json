@@ -1,12 +1,27 @@
 {
   "id": "jumeirah",
   "name": "Jumeirah",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "dubai-holding",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "verdict": "A luxury hotel group owned by Dubai's ruler through Dubai Holding.",
+  "claimIds": [
+    "uae-mass-trial-2024",
+    "jumeirah-dubai-holding-ownership",
+    "dubai-holding-ruler-ownership"
+  ],
   "aliases": [],
-  "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25). Dubai state link: Jumeirah has been part of Dubai Holding (owned by Sheikh Mohammed bin Rashid Al Maktoum) since 2004, per Wikipedia lead only; ownerId left null pending a primary source."
+  "ownerVerb": "owned by",
+  "note": "Global Partner of Emirates Great Britain SailGP Team (three-season deal announced 12 February 2026, Jumeirah media hub). Ownership chain sourced 2026-09-30; a serious tier is proposed in the pull request.",
+  "why": {
+    "text": "Jumeirah is a member of Dubai Holding, the global investment holding company owned by Dubai's ruler, Sheikh Mohammed bin Rashid Al Maktoum. Dubai is part of the United Arab Emirates, where in July 2024 a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair. A famous boat makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "jumeirah-dubai-holding-ownership",
+      "dubai-holding-ruler-ownership"
+    ],
+    "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+    "status": "draft"
+  }
 }
