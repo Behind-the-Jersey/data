@@ -4,13 +4,25 @@
   "orgName": "Lucas Oil Products",
   "sponsorId": "lucas-oil-products",
   "placement": "stadium",
-  "from": null,
+  "from": "2006-02",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "Encyclopedia of Indianapolis",
-    "date": "2006-02-28",
-    "url": "https://indyencyclopedia.org/lucas-oil-stadium/"
+  "value": {
+    "amount": 122,
+    "currency": "USD",
+    "unit": "m",
+    "per": "total",
+    "upTo": false,
+    "usdApprox": 122
   },
-  "note": "Arena naming rights: Lucas Oil Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2006-02-28."
+  "source": {
+    "name": "Encyclopedia of Indianapolis: Lucas Oil Stadium",
+    "date": "2021-07",
+    "url": "https://indyencyclopedia.org/lucas-oil-stadium/",
+    "quote": "Naming rights were announced on February 28, 2006. Lucas Oil Products, a California-based manufacturer and distributor of automotive oil, additives, and lubricants, secured the sponsorship for $122 million over 20 years.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Stadium naming rights: Lucas Oil Stadium. A 20-year term from February 2006 would run to 2026; no source for an extension or the deal's end, so 'to' is left null."
 }
