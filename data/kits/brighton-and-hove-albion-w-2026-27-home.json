@@ -12,25 +12,26 @@
       "sponsorId": "american-express",
       "placement": "front",
       "source": {
-        "name": "Brighton & Hove Albion: American Express - Main Club Partner",
+        "name": "Brighton & Hove Albion: American Express - Main Club Partner of Brighton & Hove Albion Football Club",
         "date": "2026",
         "url": "https://www.brightonandhovealbion.com/american-express-partnership",
-        "quote": "sponsorship of the men's, women's and disability teams' shirts since 2013, and in 2021 we announced a long term extension",
+        "quote": "sponsorship of the men’s, women’s and disability teams’ shirts since 2013, and in 2021 we announced a long term extension",
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-        }
+        },
+        "note": "The club's current partner page, undated. Its partners page (https://www.brightonandhovealbion.com/partner-and-sponsors) lists American Express as 'Stadium Naming Rights and Shirt Partner'."
       }
     },
     {
       "sponsorId": "experience-kissimmee",
       "placement": "sleeve",
       "source": {
-        "name": "Brighton & Hove Albion: Experience Kissimmee announces partnership with Albion (archived 11 June 2024)",
+        "name": "Brighton & Hove Albion: Experience Kissimmee announces partnership with Albion",
         "date": "2024-06-11",
         "url": "https://web.archive.org/web/20240611174801/https://www.brightonandhovealbion.com/news/4036436/experience-kissimmee-announces-partnership-with-albion",
-        "note": "Three-year sleeve partnership announced 11 June 2024, running into 2026/27; the club's current partner page (https://www.brightonandhovealbion.com/partner-and-sponsors) still lists Experience Kissimmee as 'Official Sleeve Sponsor'.",
-        "quote": "Experience Kissimmee has secured promotional rights as a sleeve partner on the men's, women's and academy shirts",
+        "note": "Archived copy of the club's announcement of 11 June 2024, in which the club calls it 'a new three-year sleeve partnership', so it covers 2024/25 to 2026/27. The club's current partners page (https://www.brightonandhovealbion.com/partner-and-sponsors) still shows Experience Kissimmee under 'Official Sleeve Sponsor'.",
+        "quote": "Experience Kissimmee has secured promotional rights as a sleeve partner on the men’s, women’s and academy shirts",
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
@@ -44,15 +45,16 @@
         "name": "Brighton & Hove Albion: Pinterest and Brighton & Hove Albion Women partner to bring inspiration to every game",
         "date": "2026-08-04",
         "url": "https://www.brightonandhovealbion.com/media-article/pinterest-and-brighton-and-hove-albion-women-partner-to-bring-inspiration-to-every-game",
-        "quote": "will see Pinterest become the first solo sponsor of our women's team with their branding to appear on the back of our shirts",
+        "quote": "will see Pinterest become the first solo sponsor of our women’s team with their branding to appear on the back of our shirts",
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-        }
+        },
+        "note": "The announcement's picture shows the blue-and-white home shirt from behind, with the Pinterest logo under the number, and shorts without a sponsor."
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "American Express on the front, Experience Kissimmee on the sleeve, and Pinterest - the women's team's first solo sponsor - on the back.",
+  "summary": "American Express on the front, Experience Kissimmee on the sleeve, and Pinterest - the women's team's first solo sponsor - on the back, under the number. The picture with the club's Pinterest announcement shows no sponsor on the shorts.",
   "change": null
 }
