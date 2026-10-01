@@ -2,8 +2,8 @@
   "id": "seminole-tribe-of-florida",
   "name": "Seminole Tribe of Florida",
   "type": "state",
-  "country": "USA",
-  "via": "a federally recognized Native American tribal government; Hard Rock says it acquired the Hard Rock brand in 2007",
-  "note": "Sovereign tribal government (federally recognized). Classified as 'state' per the owner type enum; no UN, Human Rights Watch, Amnesty or court record of serious human-rights abuses found this pass.",
+  "country": "United States",
+  "via": "Hard Rock says it acquired the Hard Rock brand in 2007 (claim seminole-tribe-of-florida-record)",
+  "note": "Federally recognized tribal government (semtribe.com: \"We are a Federally Recognized Indian Tribe\"); classified as 'state' because the owner type enum has no 'tribe' value.",
   "parentId": null
 }
