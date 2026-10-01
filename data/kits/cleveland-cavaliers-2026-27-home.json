@@ -14,7 +14,13 @@
       "source": {
         "name": "Cleveland Cavaliers (NBA.com)",
         "date": "2022-03-29",
-        "url": "https://www.nba.com/cavaliers/releases/cliffs-release-220329"
+        "url": "http://web.archive.org/web/20240207232908/https://www.nba.com/cavaliers/releases/cliffs-release-220329",
+        "note": "Archived capture of the club's release at https://www.nba.com/cavaliers/releases/cliffs-release-220329 (the live page renders its text only with JavaScript).",
+        "quote": "announced an expansion of their existing multi-year marketing agreement to put the Cliffs logo on the Cavs player uniforms beginning with the 2022-23 season",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

@@ -3,13 +3,21 @@
   "provider": {
     "gateway": {
       "npm": "@ai-sdk/openai-compatible",
-      "name": "GLM gateway",
+      "name": "Model gateway",
       "options": {
         "baseURL": "{env:GLM_BASE_URL}",
         "apiKey": "{env:GLM_API_KEY}"
       },
       "models": {
-        "glm-5.3-flash-uncensored-fp8": { "name": "GLM 5.3 Flash" }
+        "glm-5.3-flash-uncensored-fp8": {
+          "name": "GLM 5.3 Flash"
+        },
+        "deepseek-v4.1-flash-uncensored-fp8": {
+          "name": "DeepSeek V4.1 Flash"
+        },
+        "mimo-v2.6-flash-rl-uncensored-fp8": {
+          "name": "MiMo V2.6 Flash"
+        }
       }
     }
   },
