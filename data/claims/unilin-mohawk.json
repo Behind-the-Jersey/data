@@ -1,0 +1,22 @@
+{
+  "id": "unilin-mohawk",
+  "kind": "ownership",
+  "ownerIds": [
+    "unilin",
+    "mohawk-industries"
+  ],
+  "text": "Unilin is part of the American publicly listed company Mohawk Industries Inc.",
+  "short": "Unilin is part of the listed Mohawk Industries Inc.",
+  "source": {
+    "name": "Unilin: We are Unilin",
+    "date": "2026",
+    "url": "https://www.unilin.com/en/about",
+    "quote": "Unilin is part of the American publicly listed company Mohawk Industries Inc., the world’s largest flooring company.",
+    "note": "Page without a date; section 'Proud to be part of Mohawk Industries'. Opened 2026-10-01.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

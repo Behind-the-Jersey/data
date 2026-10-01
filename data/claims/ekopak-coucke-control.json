@@ -1,0 +1,21 @@
+{
+  "id": "ekopak-coucke-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "ekopak-nv"
+  ],
+  "text": "Ekopak NV is listed on Euronext Brussels; its 22 May 2025 transparency notification shows Marc Coucke controlling 57.64% of the voting rights through Alychlo NV and Mylecke Management, Art & Invest NV.",
+  "short": "Ekopak (Euronext): Marc Coucke controls 57.64% via Alychlo NV.",
+  "source": {
+    "name": "Ekopak NV: Transparantiekennisgevingen 22 mei 2025 (Pilovan – Alychlo) (regulated information, PDF)",
+    "date": "2025-05-22",
+    "url": "https://ekopakwater.com/app/uploads/2025/05/Ekopak-Transparantiekennisgevingen-PILOVAN-en-ALYCHLO_NL.pdf",
+    "quote": "Marc Coucke controleert Alychlo NV en Mylecke Management, Art & Invest NV",
+    "note": "The notification's table shows a total of 10,089,536 voting rights = 57.64% after the transaction of 16/05/2025; Ekopak's share page lists Euronext Brussels, ISIN BE0974380124. A separate notification of 24 Nov 2025 shows Pilovan BV (controlled by Pieter Loose) at 25.29%.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

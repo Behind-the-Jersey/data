@@ -12,22 +12,109 @@
       "sponsorId": "soudal",
       "placement": "front",
       "source": {
-        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "Soudal Quick-Step: Soudal Quick-Step reveal 2026 race kit, featuring enhanced visibility",
+        "date": "2025-12-16",
+        "url": "https://old.soudal-quickstepteam.com/en/news/7311/soudal-quick-step-reveal-2026-race-kit-featuring-enhanced-visibility",
+        "quote": "sitting just under the logos of our title sponsors Soudal and Quick-Step",
+        "note": "Title sponsor. The large SOUDAL mark fills the front of the jersey, the upper sleeve and the upper back, and runs down the rear legs of the shorts (kit photo in the article: /images/news_article/c_c/1420x800/2026-soudal-quick-step-jersey_1765872498.jpg; official webshop product photos: thewolfpack.shop/products/soudal-quick-step-jersey-2026).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "quick-step",
       "placement": "front",
       "source": {
-        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "Soudal Quick-Step: Soudal Quick-Step reveal 2026 race kit, featuring enhanced visibility",
+        "date": "2025-12-16",
+        "url": "https://old.soudal-quickstepteam.com/en/news/7311/soudal-quick-step-reveal-2026-race-kit-featuring-enhanced-visibility",
+        "quote": "sitting just under the logos of our title sponsors Soudal and Quick-Step",
+        "note": "Title sponsor. QUICK-STEP sits under SOUDAL on the chest and upper back; QUICK-STEP FLOORS runs down the rear legs of the shorts (same photos as the entry above).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ekopak",
+      "placement": "front",
+      "source": {
+        "name": "The Wolfpack Webshop: Cycling Jersey Men I Soudal Quick-Step",
+        "date": "2026",
+        "url": "https://thewolfpack.shop/products/soudal-quick-step-jersey-2026",
+        "quote": "The iconic Wolfpack blue gets a next-level update.",
+        "note": "Club webshop product page for the 2026 jersey (no date). Its front-view photo (cdn/shop/files/TEST-1757.jpg) shows the 'Ekopak' wordmark on the upper right chest and on the shorts leg cuffs; the two-rider photo (TEST-1898.jpg) also shows Ekopak on the leg bands.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "specialized",
+      "placement": "front",
+      "source": {
+        "name": "The Wolfpack Webshop: Cycling Jersey Men I Soudal Quick-Step",
+        "date": "2026",
+        "url": "https://thewolfpack.shop/products/soudal-quick-step-jersey-2026",
+        "quote": "The iconic Wolfpack blue gets a next-level update.",
+        "note": "Club webshop product page for the 2026 jersey (no date). Its front photo (TEST-1757.jpg) shows the Specialized 'S' mark on the chest (beside UCI World Team) and on both shorts thighs; the back photo (TEST-1770.jpg) shows it on the shoulders and lower back. Specialized is a listed main sponsor on the team's partners page.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "klein-constantia",
+      "placement": "sleeve",
+      "source": {
+        "name": "The Wolfpack Webshop: Cycling Jersey Men I Soudal Quick-Step",
+        "date": "2026",
+        "url": "https://thewolfpack.shop/products/soudal-quick-step-jersey-2026",
+        "quote": "The iconic Wolfpack blue gets a next-level update.",
+        "note": "Club webshop product page for the 2026 jersey (no date). The photos (TEST-1757.jpg, TEST-1898.jpg) show 'KLEIN CONSTANTIA 1685' running vertically down both sleeves, under a small Soudal patch. Klein Constantia is a listed main sponsor on the team's partners page.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "safety-jogger",
+      "placement": "shorts",
+      "source": {
+        "name": "Soudal Quick-Step: Safety Jogger strengthens partnership with Soudal Quick-Step with expanded visibility on 2026 race kit",
+        "date": "2025-12-16",
+        "url": "https://old.soudal-quickstepteam.com/en/news/7312/safety-jogger-strengthens-partnership-with-soudal-quick-step-with-expanded-visibility-on-2026-race-kit",
+        "quote": "with the logo now appearing on the bib shorts in addition to the existing placements on the shoulders and socks",
+        "note": "Three placements per the announcement: SAFETY JOGGER WORKWEAR patches on both shoulders, a large SAFETY JOGGER panel on the back of the bib shorts, and marks on the socks (visible in the article photos and the webshop back photo, TEST-1770.jpg).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "castelli",
+      "placement": "partner",
+      "source": {
+        "name": "Soudal Quick-Step: Soudal Quick-Step reveal 2026 race kit, featuring enhanced visibility",
+        "date": "2025-12-16",
+        "url": "https://old.soudal-quickstepteam.com/en/news/7311/soudal-quick-step-reveal-2026-race-kit-featuring-enhanced-visibility",
+        "quote": "Designed with our partners Castelli, the new design incorporates a vivid electric-lime element",
+        "note": "Kit manufacturer; its scorpion logo appears on the jersey collar, lower back, thighs and socks of the 2026 kit (webshop photos). Listed as partner per the convention for kit suppliers.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026 UCI WorldTeam. Soudal Quick-Step's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "sponsorsComplete": true,
+  "summary": "2026 UCI WorldTeam. Title sponsors Soudal and Quick-Step on chest, upper back, sleeves and rear of shorts; Ekopak on the chest and shorts cuffs; Specialized S on chest, shoulders and shorts; Klein Constantia on the sleeves; Safety Jogger on shoulders, back of bib shorts and socks; kit by Castelli (scorpion marks). Read from the team's kit-launch and Safety Jogger pages of 16 Dec 2025 and the official webshop's 2026 product photos, which show no other commercial marks.",
   "change": null
 }

@@ -1,14 +1,18 @@
 {
   "id": "quick-step",
   "name": "Quick-Step",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "unilin"
+  "ownerId": "unilin",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Quick-Step is an Unilin flooring brand; Unilin is part of the US-listed Mohawk Industries Inc. Nothing found.",
+  "claimIds": [
+    "quick-step-unilin-brand",
+    "unilin-mohawk"
   ],
-  "note": "Flooring brand; part of the Unilin Group."
+  "aliases": [
+    "unilin",
+    "quick-step floors"
+  ],
+  "note": "Flooring brand on the Quick-Step jerseys since 2003 (team history); Mohawk Industries shareholders not drilled down (widely held listed company)."
 }

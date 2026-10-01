@@ -1,0 +1,21 @@
+{
+  "id": "soudal-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "soudal-group"
+  ],
+  "text": "Soudal says it is 100% family owned: established in 1966 by founder Vic Swerts, with Soudal Industry managed by the Soudal Group of Turnhout, Belgium.",
+  "short": "Soudal is 100% family owned (founder Vic Swerts).",
+  "source": {
+    "name": "Soudal Industry: About Soudal",
+    "date": "2026",
+    "url": "https://www.soudal-industry.com/about-soudal",
+    "quote": "The company, established in 1966 by Mr Vic Swerts, is 100% family owned.",
+    "note": "Page without a date; footer names SOUDAL NV, Turnhout, and says Soudal Industry is managed by the Soudal Group. Opened 2026-10-01.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
