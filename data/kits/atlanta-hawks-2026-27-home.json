@@ -12,9 +12,14 @@
       "sponsorId": "paze",
       "placement": "patch",
       "source": {
-        "name": "Sports Business Journal",
+        "name": "PR Newswire: Paze from Early Warning and the Atlanta Hawks announce multi-year jersey patch partnership",
         "date": "2025-09-29",
-        "url": "https://www.sportsbusinessjournal.com/Articles/2025/09/29/hawks-select-digital-wallet-paze-as-jersey-patch-sponsor"
+        "url": "https://www.prnewswire.com/news-releases/paze-from-early-warning-and-the-atlanta-hawks-announce-multi-year-jersey-patch-partnership-302569055.html",
+        "quote": "an online checkout solution developed by Early Warning Services and offered by participating banks and credit unions, will become the Official Jersey Patch Partner of the Atlanta Hawks",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

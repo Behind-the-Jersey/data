@@ -1,0 +1,32 @@
+{
+  "id": "ball-corporation-public-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "ball-corporation-owner"
+  ],
+  "text": "Ball Corporation's common stock is registered under the trading symbol BALL on the New York Stock Exchange.",
+  "short": "Ball Corporation trades on the NYSE under BALL.",
+  "source": {
+    "name": "Ball Corporation Form 10-K for fiscal year 2025 (SEC EDGAR, filed 2026-02-19)",
+    "date": "2026-02-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/9389/000110465926017410/ball-20251231x10k.htm",
+    "quote": "Common Stock, without par value BALL New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Can giant Ball Corp. saw sales crack $3.6B in first quarter – BizWest",
+      "date": "2026-05-05",
+      "url": "https://bizwest.com/2026/05/05/can-giant-ball-corp-saw-sales-crack-3-6b-in-first-quarter/",
+      "quote": "Can-manufacturing giant Ball Corp. (NYSE: BALL) posted first-quarter 2026 sales that cracked $3.6 billion",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-935 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
+}
