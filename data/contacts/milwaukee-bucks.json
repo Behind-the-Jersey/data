@@ -4,31 +4,48 @@
     {
       "type": "email",
       "value": "tickets@bucks.com",
+      "label": "Ticket Information",
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/bucks/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Ticket Information: tickets@bucks.com Webmaster: webmaster@bucks.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "email",
       "value": "webmaster@bucks.com",
+      "label": "Webmaster",
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/bucks/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Ticket Information: tickets@bucks.com Webmaster: webmaster@bucks.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
-      "type": "contact-form",
+      "type": "website",
       "value": "https://www.nba.com/bucks/contact",
-      "label": "Contact form",
+      "label": "Contact page (Contact Details)",
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/bucks/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Thanks for visiting Bucks.com. If you can't find what you're looking for, please let us know and we'll follow up as quickly as possible.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
