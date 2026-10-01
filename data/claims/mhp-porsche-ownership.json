@@ -4,7 +4,7 @@
   "ownerIds": [
     "porsche-ag"
   ],
-  "text": "MHP ist eine Tochtergesellschaft der Dr. Ing. h.c. F. Porsche AG; Porsche unterzeichnete 2026 einen Vertrag über den Verkauf von MHP an Tata Consultancy Services.",
+  "text": "MHP is a subsidiary of Dr. Ing. h.c. F. Porsche AG. On 24 August 2026 Porsche signed an agreement to sell MHP to Tata Consultancy Services (TCS).",
   "source": {
     "name": "Porsche Newsroom: Porsche verkauft MHP an Tata Consultancy Services",
     "date": "2026-08-24",
@@ -13,9 +13,9 @@
     "checked": {
       "on": "2026-10-01",
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-    }
+    },
+    "note": "Translation: 'Porsche and Tata Consultancy Services (TCS) today signed an agreement providing for the sale of the management and IT consultancy MHP to TCS.' The release also says the takeover is subject to regulatory and antitrust approvals and is expected to close in the coming months."
   },
-  "reviewed": false,
   "additionalSources": [
     {
       "name": "heise online: Porsche verkauft IT-Beratungstochter MHP an Tata Group",
@@ -25,7 +25,9 @@
       "checked": {
         "on": "2026-10-01",
         "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-      }
+      },
+      "note": "Translation: 'Porsche sells IT consulting subsidiary MHP to Tata Group' (the headline). The article says MHP 'ist bislang eine 100-prozentige Porsche-Tochter' (has so far been a wholly owned Porsche subsidiary) and that the authorities still have to approve the takeover."
     }
-  ]
+  ],
+  "reviewed": false
 }

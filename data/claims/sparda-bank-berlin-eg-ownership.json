@@ -4,7 +4,7 @@
   "ownerIds": [
     "sparda-bank-berlin-eg"
   ],
-  "text": "Die Sparda-Bank Berlin eG ist eine eingetragene Genossenschaft mit Sitz in Berlin (Amtsgericht Berlin-Charlottenburg, Genossenschaftsregister-Nr. 446 B).",
+  "text": "Sparda-Bank Berlin eG is a registered cooperative (eingetragene Genossenschaft) based in Berlin (Berlin-Charlottenburg Local Court, cooperative register no. 446 B).",
   "source": {
     "name": "Sparda-Bank Berlin eG: Impressum",
     "date": "2026",
@@ -13,7 +13,8 @@
     "checked": {
       "on": "2026-10-01",
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-    }
+    },
+    "note": "Translation: 'Registry court: Berlin-Charlottenburg Local Court, cooperative register no. 446 B'."
   },
   "reviewed": false
 }

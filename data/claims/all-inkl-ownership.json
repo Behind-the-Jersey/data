@@ -4,7 +4,7 @@
   "ownerIds": [
     "all-inkl-com-neue-medien-muennich"
   ],
-  "text": "ALL-INKL.COM wird betrieben von ALL-INKL.COM - Neue Medien Münnich, Inhaber René Münnich, Friedersdorf.",
+  "text": "ALL-INKL.COM is run by ALL-INKL.COM - Neue Medien Münnich of Friedersdorf, whose owner (Inhaber) is René Münnich.",
   "source": {
     "name": "ALL-INKL.COM: Impressum",
     "date": "2026",
@@ -13,7 +13,8 @@
     "checked": {
       "on": "2026-10-01",
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-    }
+    },
+    "note": "Translation: 'ALL-INKL.COM - Neue Medien Münnich, owner: René Münnich, Hauptstraße 68, D-02742 Friedersdorf'."
   },
   "reviewed": false
 }

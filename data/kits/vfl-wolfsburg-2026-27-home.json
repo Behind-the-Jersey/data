@@ -12,14 +12,15 @@
       "sponsorId": "volkswagen",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
         "quote": "Die Volkswagen AG ist Hauptpartner und zugleich alleiniger Eigentümer der VfL Wolfsburgs Fußball-GmbH. Der Automobilkonzern begleitet den Verein seit dessen Anfangsjahren und ist seit dem Aufstieg in die 2. Bundesliga in der Saison 1992/93 auch als Trikotsponsor präsent.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "Translation: 'Volkswagen AG is main partner and at the same time sole owner of VfL Wolfsburg's football company (Fußball-GmbH). The carmaker has supported the club since its early years and has also been on the shirt as sponsor since promotion to the 2. Bundesliga in the 1992/93 season.'"
       }
     }
   ],

@@ -12,14 +12,15 @@
       "sponsorId": "sweg",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
         "quote": "Die Südwestdeutsche Landesverkehrs-GmbH (SWEG) ist seit Juli 2024 als Hauptsponsor des Karlsruher SC tätig und zahlt dem Zweitligisten dafür knapp über eine Million Euro jährlich.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "Translation: 'Südwestdeutsche Landesverkehrs-GmbH (SWEG) has been main sponsor of Karlsruher SC since July 2024 and pays the second-division club just over one million euros a year for it.'"
       }
     }
   ],

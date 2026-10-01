@@ -4,7 +4,7 @@
   "ownerIds": [
     "volksbank-brawo-eg"
   ],
-  "text": "Die Volksbank BRAWO eG ist eine Genossenschaftsbank mit Sitz in Wolfsburg.",
+  "text": "Volksbank BRAWO eG is a cooperative bank based in Wolfsburg. The legal notice of the BRAWO GROUP website names it as the site’s provider.",
   "source": {
     "name": "Volksbank BRAWO eG / BRAWO GROUP: Impressum",
     "date": "2026",
@@ -13,7 +13,8 @@
     "checked": {
       "on": "2026-10-01",
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-    }
+    },
+    "note": "The page is the legal notice (Impressum) of brawogroup.de. It names Volksbank BRAWO eG as the provider ('Anbieter') and gives its legal form as 'Eingetragene Genossenschaft' (registered cooperative)."
   },
   "reviewed": false
 }

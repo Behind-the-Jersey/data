@@ -12,14 +12,15 @@
       "sponsorId": "toolcraft",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
         "quote": "Seit Juli 2025 ist die toolcraft AG Haupt- und Trikotsponsor des 1. FC Nürnberg.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "Translation: 'Since July 2025, toolcraft AG has been main and shirt sponsor of 1. FC Nürnberg.'"
       }
     }
   ],

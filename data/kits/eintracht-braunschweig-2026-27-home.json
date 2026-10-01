@@ -12,14 +12,15 @@
       "sponsorId": "brawo-group",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
         "quote": "Eintracht Braunschweig hat mit der Brawo Group, der Unternehmensgruppe der Volksbank Brawo, einen neuen Hauptsponsor für die nächsten vier Jahre gewonnen.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "Translation: 'Eintracht Braunschweig has won the Brawo Group, the group of companies of Volksbank Brawo, as its new main sponsor for the next four years.'"
       }
     }
   ],

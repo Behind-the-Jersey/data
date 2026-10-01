@@ -5,7 +5,7 @@
   "ownership": "owned",
   "tier": "concern",
   "status": "rated",
-  "verdict": "Tochter der Porsche AG; Porsche hat 2026 den Verkauf an Tata Consultancy Services unterschrieben. Porsche gehört zum Volkswagen-Konzern, an dem Qatar Holding gut 10 Prozent hält.",
+  "verdict": "Management and IT consultancy owned by Porsche AG, of which Volkswagen AG indirectly holds 75.4%; Qatar Holding LLC holds 10.4% of Volkswagen AG’s capital and 17.0% of its voting rights. Porsche signed the sale of MHP to Tata Consultancy Services in August 2026.",
   "claimIds": [
     "mhp-porsche-ownership",
     "porsche-vw-ownership",
@@ -15,9 +15,9 @@
     "qatar-migrant-worker-abuse-2025"
   ],
   "aliases": [],
-  "note": "Haupt- und Trikotsponsor des 1. FC Heidenheim. Hinweis: Der Verkauf an TCS war im August 2026 unterschrieben; schließt er ab, verliert die Kette den Qatar-Bezug. Der Vorschlag hängt davon ab.",
+  "note": "Main and shirt sponsor of 1. FC Heidenheim. Rating note: concern, rated by today’s owner. The link: MHP is a subsidiary of Porsche AG (mhp-porsche-ownership); Volkswagen AG indirectly holds 75.4% of Porsche AG’s share capital (porsche-vw-ownership); Qatar Holding LLC, a wholly owned subsidiary of the Qatar Investment Authority, the State of Qatar’s sovereign wealth fund, holds 10.4% of Volkswagen AG’s capital and 17.0% of its voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership). Multiplied along the chain, that is about 7.8% of Porsche AG (10.4% × 75.4%): 5% or more, without control. The record: Amnesty International and Human Rights Watch on migrant workers under Qatar’s kafala system (qatar-migrant-worker-abuse-2025). Porsche signed the sale of MHP to Tata Consultancy Services on 24 August 2026; the sale, subject to regulatory and antitrust approvals, had not closed when this was rated. When it closes, MHP gets re-rated by its new owner. Rated concern on 2026-10-01 (maintainer decision).",
   "why": {
-    "text": "MHP gehört zur Porsche AG, die zum Volkswagen-Konzern gehört: Volkswagen AG hält ihre Porsche-Aktien mittelbar über die Porsche Holding Stuttgart GmbH. Qatar Holding LLC – Teil des katarischen Staatsfonds – hält 10,4 Prozent des Kapitals und 17,0 Prozent der Stimmrechte an Volkswagen; das überschreitet die 5-Prozent-Schwelle. In Katar leiden Arbeitsmigranten dokumentiert unter dem Kafala-System.",
+    "text": "MHP is a subsidiary of Porsche AG, which signed an agreement on 24 August 2026 to sell it to Tata Consultancy Services. Volkswagen AG indirectly holds 75.4% of Porsche AG’s share capital, and Qatar Holding LLC, a wholly owned subsidiary of the Qatar Investment Authority, the State of Qatar’s sovereign wealth fund, holds 10.4% of Volkswagen AG’s subscribed capital and 17.0% of its voting rights. Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses and exploitation under the kafala sponsorship system in 2025, despite reforms.",
     "claimIds": [
       "qatar-migrant-worker-abuse-2025",
       "mhp-porsche-ownership",
@@ -26,7 +26,7 @@
       "qatar-holding-qia-ownership",
       "qia-government-of-qatar-ownership"
     ],
-    "messageLine": "Amnesty International und Human Rights Watch berichten, dass Arbeitsmigranten in Katar weiter unter dem Kafala-System leiden.",
+    "messageLine": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses under the kafala sponsorship system.",
     "status": "draft"
   }
 }

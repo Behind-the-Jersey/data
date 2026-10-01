@@ -12,14 +12,15 @@
       "sponsorId": "loewen-entertainment",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
         "quote": "Der 1. FC Kaiserslautern wird ab der Saison 2024/25 mit Löwen Entertainment als neuem Hauptsponsor auflaufen, dessen Marke Novoline die Trikotbrust zieren wird.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "Translation: 'From the 2024/25 season, 1. FC Kaiserslautern will play with Löwen Entertainment as its new main sponsor, whose brand Novoline will adorn the front of the shirt.'"
       }
     }
   ],

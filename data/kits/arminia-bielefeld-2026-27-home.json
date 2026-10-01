@@ -12,14 +12,15 @@
       "sponsorId": "schuco",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
         "quote": "Schüco International KG ist seit 2016 ununterbrochen Haupt- und Trikotsponsor des frischen Zweitligisten DSC Arminia Bielefeld und hat den Vertrag zuletzt bis Juni 2028 verlängert.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "Translation: 'Schüco International KG has been main and shirt sponsor of newly promoted second-division club DSC Arminia Bielefeld without a break since 2016 and most recently extended the contract until June 2028.'"
       }
     }
   ],

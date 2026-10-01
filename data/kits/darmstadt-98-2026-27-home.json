@@ -12,14 +12,15 @@
       "sponsorId": "haix",
       "placement": "front",
       "source": {
-        "name": "Deutsches Institut fuer Marketing, Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (Stand 4. August 2026)",
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
         "quote": "Der SV Darmstadt 98 hat seine Partnerschaft mit Haix, einem bayerischen Unternehmen für Funktionsschuhe und -bekleidung, bis 2027 verlängert.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "Translation: 'SV Darmstadt 98 has extended its partnership with Haix, a Bavarian company for functional footwear and clothing, until 2027.'"
       }
     }
   ],
