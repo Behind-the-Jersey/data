@@ -3,14 +3,15 @@
   "name": "İyi Finans",
   "ownerId": "iyi-finans",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "being-rated",
-  "verdict": "The savings-finance (tasarruf finansmanı) brand of Adil Tasarruf Finansman A.Ş.",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The savings-finance (tasarruf finansmanı) brand of Adil Tasarruf Finansman A.Ş., wholly owned by its chairman Ali Emre Ballı.",
   "claimIds": [
-    "iyi-finans-ownership"
+    "iyi-finans-ownership",
+    "iyi-finans-balli-ownership"
   ],
   "aliases": [
     "Adil Tasarruf Finansman A.Ş."
   ],
-  "note": "Rating note: below the back number on Fenerbahçe Tarfin's league shirts in 2026/27 (FenerMedia, 18 September 2026). Brand of Adil Tasarruf Finansman A.Ş. (iyi-finans-ownership); who owns that company was not found. ON HOLD: proposed 'none', waiting on an ownership source."
+  "note": "Rating note: 100% of Adil Tasarruf Finansman A.Ş. belongs to Ali Emre Ballı, per the company's 2025 activity report (iyi-finans-balli-ownership); private Turkish company, no state stake and no human-rights finding found. Below the back number on Fenerbahçe Tarfin's league shirts (FenerMedia, 18 September 2026) and on Beşiktaş's men's basketball shirt until the end of 2026-27 (club statement, 21 September 2026)."
 }
