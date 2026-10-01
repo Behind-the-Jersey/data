@@ -1,0 +1,34 @@
+{
+  "id": "posco-myanmar-mehl-joint-ventures",
+  "kind": "record",
+  "ownerIds": [
+    "posco-holdings"
+  ],
+  "text": "The UN Independent International Fact-Finding Mission on Myanmar (2019) found that any foreign business activity involving the Myanmar military and its conglomerates MEHL and MEC poses a high risk of contributing to, or being linked to, violations of international human rights and humanitarian law, and that at a minimum these foreign companies contribute to supporting the military's financial capacity. It names POSCO companies' 70% stakes in two joint ventures with MEHL, Myanmar Posco Steel and Myanmar Posco C&C. Amnesty International (2020) named POSCO among MEHL's foreign partners.",
+  "short": "A UN fact-finding mission named POSCO's joint ventures with MEHL, the Myanmar military's conglomerate, among foreign business ties that help fund the military.",
+  "source": {
+    "name": "The economic interests of the Myanmar military (A/HRC/42/CRP.3), Independent International Fact-Finding Mission on Myanmar",
+    "date": "2019-09-16",
+    "url": "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/FFM-Myanmar/EconomicInterestsMyanmarMilitary/A_HRC_42_CRP_3.pdf",
+    "quote": "Some joint ventures between foreign companies and Tatmadaw conglomerates are transparent, such as the 70 per cent stake of Posco Steel Co., Ltd., a South Korean steel company, in Myanmar Posco Steel Company Ltd., a MEHL company.",
+    "note": "Paragraph 143. Paragraph 145 (legal and policy findings): 'The Mission finds that any foreign business activity involving the Tatmadaw and its conglomerates MEHL and MEC poses a high risk of contributing to, or being linked to, violations of human rights law and international humanitarian law. At a minimum, these foreign companies are contributing to supporting the Tatmadaw’s financial capacity.' Its annex of joint ventures lists 'Myanmar Posco C&C Company Ltd MEHL 70% by Posco Coated and Color Steel Co, Ltd.' and 'Myanmar Posco Steel Company Ltd MEHL 70% by Posco Steel Co. Ltd.'",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Myanmar: Leaked documents reveal global business ties to military crimes - Amnesty International",
+      "date": "2020-09-10",
+      "url": "https://www.amnesty.org/en/latest/press-release/2020/09/mehl-military-links-to-global-businesses/",
+      "quote": "MEHL has partnerships with a range of local and foreign businesses including Japanese beer multinational Kirin and South Korean steel giant POSCO.",
+      "note": "The same release quotes Amnesty's Mark Dummett: 'The perpetrators of some of the worst human rights violations in Myanmar’s recent history are among those who benefit from MEHL’s business activities', and lists POSCO among eight companies 'who operate jointly with MEHL in Myanmar'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
