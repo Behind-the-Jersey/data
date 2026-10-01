@@ -1,0 +1,34 @@
+{
+  "id": "ball-container-ofccp-hiring-discrimination",
+  "kind": "record",
+  "ownerIds": [
+    "ball-corporation-owner"
+  ],
+  "text": "A routine compliance review by the US Department of Labor's Office of Federal Contract Compliance Programs found that from 1 February 2020 to 31 January 2021 Ball Container LLC, a subsidiary of Ball Corp., discriminated against 192 Black applicants for production technician positions at its beverage plant in Rome, Georgia. The department determined this violated Executive Order 11246; in a conciliation agreement Ball Container agreed to pay $309,000 in back wages and interest.",
+  "short": "The US Labor Department found that a Ball subsidiary discriminated against 192 Black job applicants at a Georgia plant in 2020-21.",
+  "source": {
+    "name": "Ball Corp. subsidiary to pay $309K to settle hiring discrimination of Black applicants at Georgia facility | U.S. Department of Labor",
+    "date": "2024-10-07",
+    "url": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20241007",
+    "quote": "A routine compliance review by the department’s Office of Federal Contract Compliance Programs found that, from Feb. 1, 2020, through Jan. 31, 2021, the employer discriminated against 192 Black applicants for production technician positions at the facility.",
+    "note": "The same release names the employer as 'Ball Container LLC, a subsidiary of Ball Corp.' and says 'The agency determined Ball Container’s actions violated Executive Order 11246'. dol.gov blocks scripts; opened in a browser.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "claude-maint-935 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Colorado's Ball Corp. subsidiary settles race-based hiring discrimination suit",
+      "date": "2024-10-15",
+      "url": "https://coloradosun.com/2024/10/15/ball-corp-subsidiary-hiring-discrimination-suit-georgia/",
+      "quote": "Ball Container, a subsidiary of the Westminster federal contractor known for making aluminum beverage containers, agreed to settle a case involving 192 Black applicants for a technician job.",
+      "note": "The Colorado Sun (Tamara Chuang). It also quotes the department's finding of 'statistically significant differences in the hiring rates of Black applicants for Production Technician positions when compared to White applicants'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-935 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
