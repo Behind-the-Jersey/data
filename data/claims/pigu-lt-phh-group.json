@@ -1,0 +1,33 @@
+{
+  "id": "pigu-lt-phh-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "phh-group"
+  ],
+  "text": "Pigu.lt belongs to PHH Group, the Baltic e-commerce group formed by merging Pigu.lt with Finland's Hobby Hall; PHH Group's shareholders are led by Mid Europa Partners.",
+  "source": {
+    "name": "Žalgiris (club site): „Pigu.lt“ pradeda partnerystę su Kauno „Žalgirio“ krepšinio klubu",
+    "date": "2026-08-27",
+    "url": "https://zalgiris.lt/naujienos/kauno-zalgirio-partneriu-gretas-papilde-vienas-zinomiausiu-salies-prekes-zenklu",
+    "quote": "„Pigu.lt“ priklauso didžiausiai Baltijos šalyse e. prekybos bendrovei „PHH Group“",
+    "note": "Lithuanian. Translation: 'Pigu.lt belongs to the largest Baltic e-commerce company PHH Group'. Club's announcement of the Pigu.lt partnership.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "15min.lt: Akcininkai į „Pigu Hobby Hall Group“ augimą investuos daugiau nei 20 mln. eurų",
+      "date": "2022-04-01",
+      "url": "https://www.15min.lt/verslas/naujiena/bendroves/akcininkai-i-pigu-hobby-hall-group-augima-investuos-daugiau-nei-20-mln-euru-663-1661570",
+      "quote": "akcininkai, vedini kompanijos „MidEuropa“",
+      "note": "Lithuanian. Translation: 'shareholders, led by the company MidEuropa'. States PHH Group's shareholders are led by Mid Europa Partners and that Pigu.lt belongs to PHH Group.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

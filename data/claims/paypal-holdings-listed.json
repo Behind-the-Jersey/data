@@ -1,0 +1,19 @@
+{
+  "id": "paypal-holdings-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "paypal-owner"
+  ],
+  "text": "The PayPal brand belongs to PayPal Holdings, Inc., whose common stock is quoted on the Nasdaq Global Select Market under the ticker symbol PYPL (FY2025 Form 10-K).",
+  "source": {
+    "name": "PayPal Holdings, Inc. Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm",
+    "quote": "PayPal common stock is quoted on the Nasdaq Global Select Market under the ticker symbol “PYPL.”",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
