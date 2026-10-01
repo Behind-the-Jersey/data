@@ -1,0 +1,21 @@
+{
+  "id": "eneos-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "eneos-corporation",
+    "eneos-holdings"
+  ],
+  "text": "ENEOS Corporation's Company Overview states that its capital is 30 billion yen, a 100% investment of ENEOS Holdings, Inc., and that it refines and markets petroleum products.",
+  "short": "ENEOS Corporation is 100% owned by ENEOS Holdings, Inc.",
+  "source": {
+    "name": "ENEOS Corporation: Company Overview",
+    "date": "2026",
+    "url": "https://www.eneos.co.jp/english/company/outline.html",
+    "quote": "Capital 30 billion yen(100% investment of ENEOS Holdings, Inc.)",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,12 +1,17 @@
 {
   "id": "hansgrohe",
-  "name": "Hansgrohe",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "German sanitary fittings manufacturer."
+  "name": "hansgrohe",
+  "ownerId": "masco-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Hansgrohe SE is 68% owned by the US-listed Masco Corporation; the Klaus Grohe family holds 32%. Nothing found.",
+  "claimIds": [
+    "hansgrohe-masco-ownership",
+    "masco-shareholders"
+  ],
+  "aliases": [
+    "Hansgrohe"
+  ],
+  "note": "German sanitary-fittings manufacturer. Rating note (issue #603, 2026-09-29): Masco is NYSE-listed and the holders above 5% in its 2026 proxy statement are US fund managers (Vanguard, BlackRock, Harris Associates); no state in the chain, and no human-rights finding against Hansgrohe or Masco found."
 }

@@ -1,0 +1,20 @@
+{
+  "id": "grenke-ag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "grenke-ag"
+  ],
+  "text": "grenke is the brand of grenke AG, an SDAX-listed company. Its major shareholder, Grenke Beteiligung GmbH & Co. KG, owned by Anneliese Grenke, company founder Wolfgang Grenke and their three sons, held 40.84 percent of the shares at 31 December 2024; the GRENKE Foundation held 3.03 percent and grenke AG 4.98 percent of its own shares. The other shareholders above 3 percent were ACATIS Investment Kapitalverwaltungsgesellschaft mbH (5.02 percent), GANÉ Investment AG (3.04 percent) and Universal Investment Gesellschaft mbH (5.03 percent). The free float was 59.16 percent.",
+  "short": "grenke AG is SDAX-listed; the founding family's holding company has 40.84%, free float 59.16%.",
+  "source": {
+    "name": "grenke AG: Annual Report 2024 - To our shareholders",
+    "date": "2024",
+    "url": "https://www.grenke.com/en/investor-relations/annual-report-2024/to-our-shareholders",
+    "quote": "As of December 31, 2024, Grenke Beteiligung GmbH & Co. KG held 40.84 percent of the Company’s shares, while the GRENKE Foundation owned 3.03 percent.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

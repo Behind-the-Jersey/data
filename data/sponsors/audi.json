@@ -1,0 +1,30 @@
+{
+  "id": "audi",
+  "name": "Audi",
+  "ownerId": "audi-ag",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Audi is a fully owned Volkswagen AG subsidiary; Qatar Holding LLC holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights.",
+  "claimIds": [
+    "qatar-migrant-worker-abuse-2025",
+    "audi-vw-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
+  ],
+  "aliases": [],
+  "note": "Main Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to audi.com/en/audisport.html, stands under 'Main Partners' with the line 'Automotive / Performance cars' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note: concern: AUDI AG is a fully owned subsidiary of Volkswagen AG (audi-vw-ownership), and Qatar Holding LLC, part of the Qatar Investment Authority, holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); Qatar's record is recorded (qatar-migrant-worker-abuse-2025). It passes the 5% test. Rated concern on 2026-10-01 (maintainer decision): Qatar's stake in Volkswagen AG is a link without control.",
+  "why": {
+    "text": "AUDI AG is a fully owned subsidiary of Volkswagen AG, and Qatar Holding LLC, the investment arm of Qatar's sovereign wealth fund, the Qatar Investment Authority, holds 10.4% of Volkswagen's subscribed capital and 17.0% of its voting rights. So the Qatari state's money is behind Audi. Amnesty International and Human Rights Watch both report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "audi-vw-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International reports that migrant workers in Qatar continued to face labour abuses, including an exploitative kafala sponsorship system, despite recent legal reforms.",
+    "status": "draft"
+  }
+}

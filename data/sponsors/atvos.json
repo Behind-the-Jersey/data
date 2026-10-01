@@ -1,0 +1,27 @@
+{
+  "id": "atvos",
+  "name": "Atvos",
+  "ownerId": "mubadala-capital",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Brazilian biofuel producer controlled by Mubadala Capital, the asset-management subsidiary of Abu Dhabi's sovereign wealth fund, through its MC Green Energy fund.",
+  "claimIds": [
+    "uae-mass-trial-2024",
+    "atvos-mubadala-capital-ownership"
+  ],
+  "aliases": [
+    "Atvos Bioenergia",
+    "Atvos Agroindustrial"
+  ],
+  "why": {
+    "text": "Atvos is controlled by Mubadala Capital, the asset-management subsidiary of Abu Dhabi's sovereign wealth fund; Mubadala itself is wholly owned by the Government of Abu Dhabi. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair. Sponsorship on Brazil's boat makes the UAE's money look good to fans while that goes on.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "atvos-mubadala-capital-ownership"
+    ],
+    "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+    "status": "draft"
+  },
+  "note": "Rating note: propose 'serious'. The link: Valor (12 Dec 2022) reported Mubadala 'will become the controlling shareholder through the MC Green Energy fund', the change of control completed in January 2023, Mubadala Capital raised its stake again in October-November 2023 when Novonor exited (Latin Lawyer), and Mubadala Capital's own site still lists Atvos as a Brazil portfolio investment (claim atvos-mubadala-capital-ownership). Mubadala Capital is the wholly-owned asset-management subsidiary of Mubadala Investment Company, itself wholly owned by the Government of Abu Dhabi (owners mubadala-capital -> mubadala -> government-of-abu-dhabi). The record: uae-mass-trial-2024. A state fund with a sourced serious-abuse record controls the sponsor -> 'serious'. ON HOLD: proposed 'serious' in PR, pending maintainer review."
+}

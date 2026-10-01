@@ -1,0 +1,32 @@
+{
+  "id": "foundation-building-materials-lowes-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lowes-companies"
+  ],
+  "text": "American Securities and CD&R completed the sale of Foundation Building Materials, Inc. to Lowe's Companies, Inc. (NYSE: LOW) in October 2025, in a transaction valued at approximately $8.8 billion.",
+  "short": "FBM has been owned by Lowe's Companies since October 2025.",
+  "source": {
+    "name": "American Securities LLC: American Securities and CD&R Complete $8.8 Billion Foundation Building Materials Sale",
+    "date": "2025-10-09",
+    "url": "https://www.american-securities.com/news/press-release/american-securities-and-cdr-complete-88b-foundation-building-materials-sale/",
+    "quote": "announced they completed the sale of Foundation Building Materials, Inc. (“FBM” or the “Company”), a leading building materials and construction products distribution company, to Lowe’s Companies, Inc. (“Lowe’s”) (NYSE: LOW), in a transaction valued at approximately $8.8 billion",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Sports Business Journal: Oak View Group set to sell Angels' new jersey patch sponsorship",
+      "date": "2026-03-09",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/03/09/oak-view-group-set-to-sell-angels-new-jersey-patch-sponsorship/",
+      "quote": "that 380+ location building materials distributor was acquired by Lowe’s last year for $8.8B",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

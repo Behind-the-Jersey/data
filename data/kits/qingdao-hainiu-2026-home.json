@@ -1,0 +1,60 @@
+{
+  "id": "qingdao-hainiu-2026-home",
+  "clubId": "qingdao-hainiu",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "laoshan-cola",
+      "placement": "front",
+      "source": {
+        "name": "青岛日报社/观海新闻 (Qingdao Daily / dailyqd.com): 百年匠心致敬绿茵，崂山可乐携手青岛海牛足球俱乐部共启2026新赛季",
+        "date": "2026-03-05",
+        "url": "https://www.dailyqd.com/guanhai/439032_1.html",
+        "quote": "青岛崂山矿泉水有限公司与俱乐部正式签署赞助协议，旗下“崂山”品牌将成为球队新赛季官方赞助商，“崂山可乐”将出现在海牛队新赛季主客场球衣胸前",
+        "note": "Translation: 'Qingdao Laoshan Mineral Water Co., Ltd. formally signed the sponsorship agreement; its Laoshan brand will be the team's official sponsor, and Laoshan Cola will appear on the front of the team's home and away shirts this season.'",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "laoshan-beer",
+      "placement": "sleeve",
+      "source": {
+        "name": "网易 (NetEase, 易瞰青岛): 青岛信仰·青春力量 青岛海牛足球俱乐部2026赛季出征仪式圆满举行",
+        "date": "2026-03-04",
+        "url": "https://c.m.163.com/news/a/KN73SLM105148U2B.html",
+        "quote": "青岛啤酒股份有限公司的崂山啤酒将继续为球队球衣的臂章广告",
+        "note": "Translation: 'Tsingtao Brewery Co., Ltd.'s Laoshan Beer will continue as the team's shirt sleeve-badge (臂章) advertisement.' Same arrangement reported by Sohu and by Dongqiudi's reprint of the club's own announcement.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Nike Inc. China (nikeinc.com.cn): 城市即主场，耐克发布中超俱乐部新赛季全新装备 (Nike releases CSL clubs' new-season kits)",
+        "date": "2026-01-27",
+        "url": "https://www.nikeinc.com.cn/html/page-4276.html",
+        "quote": "新赛季青岛海牛主场球衣通过由队徽向外延展的光影纹样呈现球队的速度与活力。亮橙色辅以深蓝色点缀相互呼应",
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The Qingdao Hainiu home-kit description sits inside Nike's own release of the CSL clubs' new-season kits. The club's own launch text (via Dongqiudi, 2026-01-28, https://m.dongqiudi.com/article/5635999.html) also says the club will sell the Nike fan version of the home shirt.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Nike home kit (orange with deep blue, launched 28 Jan 2026). Laoshan Cola (Qingdao Beverage Group) debuted as front sponsor and Laoshan Beer (Tsingtao Brewery) continues as sleeve badge, per the club's 4 March 2026 season-launch ceremony. Back of shirt and shorts sponsors not documented in the available sources, so the list is not marked complete. Qingdao Bank and Qingdao Rural Commercial Bank are club strategic partners with no stated shirt placement.",
+  "change": null
+}

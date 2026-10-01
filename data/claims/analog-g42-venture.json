@@ -1,0 +1,32 @@
+{
+  "id": "analog-g42-venture",
+  "kind": "ownership",
+  "ownerIds": [
+    "g42"
+  ],
+  "text": "Analog is an edge-computing company launched by G42 in January 2024; G42 announced an investment in it, and Analog's founder said G42 is its biggest investor.",
+  "short": "Analog is a G42 venture; G42 is its biggest investor",
+  "source": {
+    "name": "G42: G42 Launches Analog, a New Venture to Advance AI Capabilities in Edge Computing",
+    "date": "2024-01-18",
+    "url": "https://www.g42.ai/resources/news/g42-launches-analog-new-venture-advance-ai-capabilities-edge-computing",
+    "quote": "G42, the leading UAE-based technology group, today announced its investment in a new edge computing company called Analog",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The National: Abu Dhabi's G42 invests in edge computing and AI start-up Analog at WEF launch (Alkesh Sharma)",
+      "date": "2024-01-18",
+      "url": "https://www.thenationalnews.com/business/technology/2024/01/18/abu-dhabis-g42-invests-in-edge-computing-and-ai-start-up-analog-at-wef-launch",
+      "quote": "Without disclosing other investors, Mr Kipman said G42 is the biggest investor in the start-up",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vision-motors-vil-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vision-investments-ltd"
+  ],
+  "text": "Vision Motors is a trading division of Vision Investments Limited (VIL), which describes itself as a public listed company on the Fiji stock exchange.",
+  "short": "Vision Motors is a trading division of listed Vision Investments Limited.",
+  "source": {
+    "name": "Vision Investments Limited: Vision Motors (company's own service page)",
+    "date": "2026-09-30",
+    "url": "https://vil.com.fj/service/vision-motors",
+    "quote": "Vision Motors is a trading division of Vision Investments Limited (VIL) which is undoubtedly one of the largest private sector entrepreneurs in Fiji",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "Undated company page; date is the day it was opened. The same page's footer describes VIL as 'A public listed company and amongst the first three largest companies on the Fiji Stock Exchange.' The ticker VIL trades on the South Pacific Stock Exchange (marketreports.spx.com.fj)."
+  },
+  "reviewed": false
+}

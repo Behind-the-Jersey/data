@@ -1,0 +1,20 @@
+{
+  "id": "enel-italy-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "italian-ministry-of-economy-finance"
+  ],
+  "text": "Enel's shareholder-structure page, with data as of 31 December 2025, lists Italy's Ministry of Economy and Finance holding 23.6% of Enel's shares; institutional investors hold 58.6% and retail investors 17.8%.",
+  "short": "Italian Ministry of Economy and Finance holds 23.6% of Enel",
+  "source": {
+    "name": "Enel Group: Shareholders (investor relations)",
+    "date": "2025-12-31",
+    "url": "https://www.enel.com/investors/investing/shareholders",
+    "quote": "Ministry of Economy and Finance 23.60 Institutional Investors 58.60 Retail Investors 17.80",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

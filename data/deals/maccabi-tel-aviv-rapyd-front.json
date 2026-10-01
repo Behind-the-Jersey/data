@@ -1,0 +1,28 @@
+{
+  "id": "maccabi-tel-aviv-rapyd-front",
+  "clubId": "maccabi-tel-aviv",
+  "orgName": null,
+  "sponsorId": "rapyd",
+  "placement": "front",
+  "from": "2025",
+  "to": "2032",
+  "value": {
+    "amount": 3,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 3
+  },
+  "source": {
+    "name": "Sport5: \"אם נצטרך לפתוח עוד את הכיס, נעשה זאת\"",
+    "date": "2025-07-17",
+    "url": "https://www.sport5.co.il/articles.aspx?FolderID=274&docID=512842",
+    "quote": "נחתמה עסקה בין הקבוצה לבין החברה בסכום של 3 מיליון דולר לשנה, מה שיכניס לקופה של מכבי תל אביב כ-70 מיליון ש״ח ב-7 השנים הקרובות",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "note": "Seven-year title and main sponsorship signed July 2025 (team renamed Maccabi Rapyd Tel Aviv, Rapyd logo on the front of the jerseys; also on the front of the shorts). Sport5 reports $3m a year, about ₪70m over the term. A follow-on from the 2020 five-year agreement; Sport5's figure is a press report, not a club filing."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bocom-mof-controlling-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "bank-of-communications",
+    "government-of-china"
+  ],
+  "text": "As at 31 December 2025 the controlling shareholder of Bank of Communications was China's Ministry of Finance, which held 30,942,772,271 A and H shares, 35.02% of the bank, according to the bank's 2025 annual report. The National Council for Social Security Fund, an entity under the management of the Ministry of Finance, held another 13.75%.",
+  "short": "China's Ministry of Finance is Bank of Communications' controlling shareholder, with 35.02%.",
+  "source": {
+    "name": "Bank of Communications Co., Ltd. — Annual Report 2025 (English, H-share edition), Corporate Governance: Controlling Shareholders",
+    "date": "2026-04-27",
+    "url": "http://www.bankcomm.com/BankCommSite/file/fileDownload.html?fileId=17075f452dbd43eeaf9d02d2f6864ac0",
+    "quote": "As at the end of the Reporting Period, the controlling shareholder of the Bank was Ministry of Finance.",
+    "note": "Same section: 'Ministry of Finance held a total of 30,942,772,271 A shares and H shares of the Bank, representing a shareholding of 35.02% of the Bank'; SSF (the National Council for Social Security Fund) is 'the third largest shareholder of the Bank', 'an independent legal entity under the management of Ministry of Finance', holding 13.75%. Listed on the bank's 'Annual Report' investor page, dated 27 April 2026.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bank of Communications Co., Ltd. — 2025 Reduced Resolution Plan, Section 165(d) filing with the US Federal Reserve and FDIC",
+      "date": "2025-07-01",
+      "url": "https://www.federalreserve.gov/supervisionreg/resolution-plans/bk-of-communications-3g-20250701.pdf",
+      "quote": "The top three institutional shareholders of BoCom are Ministry of Finance (23.88%)",
+      "note": "Mid-2025 figure, before the Ministry of Finance's 2025 top-up; full sentence also names HSBC (19.03%) and the National Council for Social Security Fund (16.39%).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

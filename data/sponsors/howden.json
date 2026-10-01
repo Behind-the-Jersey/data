@@ -1,12 +1,14 @@
 {
   "id": "howden",
   "name": "Howden",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "howden-group-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "An employee-owned insurance group: employees are the largest shareholder group, with long-term minority outside investors.",
+  "claimIds": [
+    "howden-employee-ownership"
+  ],
   "aliases": [],
-  "note": "UK insurance broker, employee-owned ('our business is grounded in employee ownership', howdengroup.com); presenter of the Neom Turf Cup and the Red Sea Turf Handicap presenter is Longines. Entry exists (SailGP); this adds the Saudi Cup presenter role."
+  "note": "UK insurance broker. Tier 2 Global Partner of Emirates Great Britain SailGP Team (Howden news, 25 February 2026); presenter of the Neom Turf Cup and the Red Sea Turf Handicap presenter is Longines. Ownership per its own 'Our shareholders' page: employees are the largest shareholder group (~30%); minority investors General Atlantic, La Caisse (formerly CDPQ, a Quebec public pension fund) and Hg; the Howden Foundation also holds shares."
 }

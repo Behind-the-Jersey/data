@@ -1,0 +1,21 @@
+{
+  "id": "yonex-co-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "yonex-co"
+  ],
+  "text": "Yonex Co., Ltd.'s securities report for the year ended 31 March 2026 lists its largest shareholders as the foundation 公益財団法人ヨネックススポーツ振興財団 (11.06%), NATIONAL FINANCIAL SERVICES LLC (6.77%), 米山修一 (4.93%) and the foundation 公益財団法人新潟県スポーツ振興米山稔財団 (4.66%); the ten largest hold 44.88% together, and governments and local public bodies hold no shares. Its shares are listed on the Tokyo Stock Exchange Standard Market.",
+  "short": "Yonex is Tokyo-listed; its largest shareholder is the Yonex sports foundation (11.06%), and no holder has more than 12%.",
+  "source": {
+    "name": "ヨネックス株式会社: 有価証券報告書 第69期 (2025年4月1日〜2026年3月31日)",
+    "date": "2026-06-17",
+    "url": "https://ssl4.eir-parts.net/doc/7906/yuho_pdf/S100YCTQ/00.pdf",
+    "note": "Linked from yonex.co.jp/ir/library/yuho/ as 2026年3月期 有価証券報告書. The quote is in （６）【大株主の状況】 on page 28.",
+    "quote": "公益財団法人ヨネックススポーツ振興財団 東京都文京区湯島三丁目23番13号 9,486 11.06",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

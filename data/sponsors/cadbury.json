@@ -1,0 +1,16 @@
+{
+  "id": "cadbury",
+  "name": "Cadbury",
+  "ownerId": "mondelez-international",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "cadbury-mondelez-ownership"
+  ],
+  "aliases": [
+    "Cadbury Australia"
+  ],
+  "note": "Ownership is sourced (Mondelēz International, cadbury-mondelez-ownership). The company test (findings on child labour in the cocoa supply chain) hasn't been done, so the sponsor stays unrated, like `mondelez`."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "riello-elettronica-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "riello-elettronica"
+  ],
+  "text": "Riello UPS is the UPS brand of the Riello Elettronica Group; Riello Elettronica S.p.A. is the group's holding company, founded in 1986 by Pierantonio Riello, who has led the company ever since.",
+  "short": "Riello UPS belongs to the founder-led Riello Elettronica group.",
+  "source": {
+    "name": "Riello Elettronica Group: About Us",
+    "date": "2026",
+    "url": "https://www.riello-elettronica.com/about-us",
+    "quote": "Founded in 1986 by Cav. Lav. Pierantonio Riello, who has successfully led the company ever since",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

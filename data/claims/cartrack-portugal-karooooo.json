@@ -1,0 +1,20 @@
+{
+  "id": "cartrack-portugal-karooooo",
+  "kind": "ownership",
+  "ownerIds": [
+    "karooooo-ltd"
+  ],
+  "text": "Cartrack trades in Portugal as Cartrack Portugal S.A., which Karooooo Ltd's FY2026 Form 20-F group-structure table lists as held 100% by Cartrack Ireland Limited; that table chains every layer of the group (Cartrack Ireland, Cartrack Technologies Pte. Ltd., Cartrack Holdings) at 100% up to Karooooo Ltd.",
+  "short": "Cartrack Portugal S.A. is wholly inside the Karooooo Ltd group.",
+  "source": {
+    "name": "Karooooo Ltd Form 20-F for fiscal year ended February 28, 2026 (SEC EDGAR) - Organizational structure table",
+    "date": "2026-06-09",
+    "url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026066795/ea0293645-20f_karooooo.htm",
+    "quote": "Cartrack Portugal S.A. Cartrack Ireland Limited Portugal 100.0 100.0",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

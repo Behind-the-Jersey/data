@@ -1,0 +1,20 @@
+{
+  "id": "rk-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rk-japan"
+  ],
+  "text": "The RK chain brand belongs to RK Japan Co., Ltd. (RK Takasago Chain), a Japanese motorcycle-chain maker; RK Europe SAS of Houplines, France (the site KTM links to) is described as its subsidiary. RK Japan's stockholders are named as RK South Asia Sdn. Bhd. and Takasago Tekko Co., Ltd.",
+  "short": "RK is the brand of RK Japan Co., Ltd. (Takasago chain group).",
+  "source": {
+    "name": "RK Excel America – Corporate",
+    "date": "2026",
+    "url": "https://rkexcelamerica.com/corporate",
+    "quote": "RK Europe is a subsidiary company of the Japanese famous motorcycle drive chain maker: RK Takasago Chain",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

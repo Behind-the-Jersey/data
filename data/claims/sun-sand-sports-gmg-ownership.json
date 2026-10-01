@@ -1,0 +1,34 @@
+{
+  "id": "sun-sand-sports-gmg-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gmg"
+  ],
+  "text": "Sun & Sand Sports is a homegrown sports-retail brand of Gulf Marketing Group (GMG), a holding company owned and managed by the Baker family.",
+  "short": "Sun & Sand Sports is a GMG brand; GMG is owned by the Baker family.",
+  "source": {
+    "name": "GMG (Gulf Marketing Group): 'GMG pursues aggressive global expansion in sports retail with RSH acquisition'",
+    "date": "2020-12-16",
+    "url": "https://www.gmg.com/gmg-pursues-aggressive-global-expansion-in-sports-retail-with-rsh-acquisition",
+    "quote": "The GMG Sports portfolio includes homegrown brands such as Sun and Sand Sports",
+    "note": "Same page, 'About Gulf Marketing Group (GMG)': 'Under the ownership and management of the Baker family, it has become one of the Middle East's leading family-owned holding companies.'",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SGB Media (SGB Executive): 'Sports Direct to Roll Out Stores in Gulf States and Egypt Via GMG Partnership'",
+      "date": "2025-03-03",
+      "url": "https://sgbonline.com/exec-sports-direct-to-roll-out-stores-in-gulf-states-and-egypt-via-gmg-partnership",
+      "quote": "GMG has been owned and managed by the Baker family for over 47 years.",
+      "note": "The same article calls Sun & Sand Sports GMG's 'home-grown multi-brand sports retailer'.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
