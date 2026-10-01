@@ -1,12 +1,14 @@
 {
   "id": "jayco",
   "name": "Jayco",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "jayco-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Australian family-owned RV maker; nothing found.",
+  "claimIds": [
+    "jayco-family-owned-ownership"
+  ],
   "aliases": [],
-  "note": "Australian caravan/RV maker; team backer Gerry Ryan (private, not state-linked)."
+  "note": "Australian caravan and motorhome manufacturer (Jayco Corporation, Dandenong South, Victoria); title sponsor of Team Jayco AlUla. No state ownership and no human-rights finding found that passes the METHOD.md test."
 }

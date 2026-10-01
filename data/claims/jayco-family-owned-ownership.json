@@ -1,0 +1,19 @@
+{
+  "id": "jayco-family-owned-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "jayco-corporation"
+  ],
+  "text": "Jayco Corporation is Australian owned and operated, and continues to operate as a locally owned family business.",
+  "source": {
+    "name": "Jayco Australia: About Us",
+    "date": "2026",
+    "url": "https://www.jayco.com.au/about",
+    "quote": "Australian owned and operated, Jayco continues to operate as a locally owned family business employing more than 1,100 employees.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

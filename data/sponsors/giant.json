@@ -1,12 +1,15 @@
 {
   "id": "giant",
   "name": "Giant",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "giant-manufacturing",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Bicycle brand of Giant Group, a Taiwan-listed company; nothing found.",
+  "claimIds": [
+    "giant-group-brand-ownership",
+    "giant-group-tpe-listing"
+  ],
   "aliases": [],
-  "note": "Taiwanese bicycle manufacturer; bike supplier."
+  "note": "Taiwanese bicycle manufacturer; bike supplier of Team Jayco AlUla, and its name is on the 2026 jersey (upper chest and both sleeves). No state stake and no human-rights finding found that passes the METHOD.md test."
 }

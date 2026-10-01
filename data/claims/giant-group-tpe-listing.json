@@ -1,0 +1,19 @@
+{
+  "id": "giant-group-tpe-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "giant-manufacturing"
+  ],
+  "text": "Giant Group trades on the Taiwan stock exchange under ticker 9921 (TPE: 9921).",
+  "source": {
+    "name": "Giant Group corporate website: GIANT GROUP (header share price line)",
+    "date": "2026",
+    "url": "https://www.giantgroup-cycling.com/en-US",
+    "quote": "Giant Group (TPE: 9921) 91.60 TWD",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
