@@ -4,13 +4,18 @@
   "orgName": "Ibotta",
   "sponsorId": "ibotta",
   "placement": "patch",
-  "from": "2023",
+  "from": "2023-10",
   "to": null,
   "value": null,
   "source": {
-    "name": "Sportcal",
+    "name": "Sportcal - Ibotta extends as Nuggets' jersey patch partner",
     "date": "2026-04-17",
-    "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+    "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner",
+    "quote": "The original multi-year tie-up between the Nuggets and Ibotta – headquartered in Denver – dates back to October 2023",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch. Original deal announced 2023-10-24 (Ibotta press release); extended on a multi-year deal in April 2026."
 }
