@@ -10,16 +10,81 @@
   "sponsors": [
     {
       "sponsorId": "meridianbet",
+      "placement": "front",
+      "source": {
+        "name": "GlobeNewswire: Meridianbet (GMGI) Extends Title Sponsorship with EuroLeague's Crvena Zvezda Through 2030",
+        "date": "2025-12-29",
+        "url": "https://www.globenewswire.com/news-release/2025/12/29/3211209/0/en/Meridianbet-GMGI-Extends-Title-Sponsorship-with-EuroLeague-s-Crvena-Zvezda-Through-2030.html",
+        "quote": "with Meridianbet branding prominently featured on team jerseys and throughout Belgrade Arena home matches",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Title sponsor since January 2023, extended through 2030; the 'meridian' wordmark sits on the front of the home shirt below the number. The 2024 emblem-integration deal put the Meridianbet logo into the club crest."
+      }
+    },
+    {
+      "sponsorId": "mts",
+      "placement": "front",
+      "source": {
+        "name": "KK Crvena zvezda: Prvi dres KK Crvena zvezda za sezonu 2026-2027 (official home-kit launch)",
+        "date": "2026-09-08",
+        "url": "https://kkcrvenazvezda.rs/news/prvi-dres-kk-crvena-zvezda-za-sezonu-2026-2027-gledajuci-u-buducnost-verni-nasoj-proslosti",
+        "quote": "Ove godine prva garnitura dresova, uključujući i šorts, biće u dominantno crvenoj boji, sa zlatnim detaljima.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The 'mts' wordmark (Telekom Srbija's brand) sits on the front below 'meridian' in the article's official kit photos. No separate mts sponsorship announcement found (searched 2026-10-01)."
+      }
+    },
+    {
+      "sponsorId": "wd-concord-west",
+      "placement": "front",
+      "source": {
+        "name": "KK Crvena zvezda: Prvi dres KK Crvena zvezda za sezonu 2026-2027 (official home-kit launch)",
+        "date": "2026-09-08",
+        "url": "https://kkcrvenazvezda.rs/news/prvi-dres-kk-crvena-zvezda-za-sezonu-2026-2027-gledajuci-u-buducnost-verni-nasoj-proslosti",
+        "quote": "Košarkaši Crvene zvezde i u novoj takmičarskoj 2026-2027 neće odstupiti od tradicije – kao prvu garnituru i prvi dres nosiće crveno belu kombinaciju",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The 'W.D. Concord West Belgrade' logo sits on the upper right chest (below the adidas mark) in the article's official kit photos."
+      }
+    },
+    {
+      "sponsorId": "alta-banka",
+      "placement": "back",
+      "source": {
+        "name": "KK Crvena zvezda: Prvi dres KK Crvena zvezda za sezonu 2026-2027 (official home-kit launch)",
+        "date": "2026-09-08",
+        "url": "https://kkcrvenazvezda.rs/news/prvi-dres-kk-crvena-zvezda-za-sezonu-2026-2027-gledajuci-u-buducnost-verni-nasoj-proslosti",
+        "quote": "odlučili smo se da po prvi put u poslednjih 20-ak godina predstavimo dres koji i na leđima ima prepoznatljive pruge Crvene zvezde",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The 'ALTA BANKA' logo sits below the back number in the article's official kit photos. ALTA banka's own channels (Instagram @altabanka, 24 Sep 2026) say the partnership with KK Crvena zvezda continues this season; the bank's site first announced the sponsorship in August 2024."
+      }
+    },
+    {
+      "sponsorId": "adidas",
       "placement": "partner",
       "source": {
-        "name": "GlobeNewswire, Meridianbet emblem-integration deal with BC Crvena Zvezda (Wayback snapshot 14 Jan 2026)",
-        "date": "2024-11-21",
-        "url": "https://web.archive.org/web/20260114162714/https://www.globenewswire.com/news-release/2024/11/21/2984929/0/en/Meridianbet-Redefines-Sports-Sponsorship-with-Europe-s-First-Emblem-Integration-Deal-with-BC-Crvena-Zvezda.html",
-        "note": "Naming sponsor Crvena zvezda Meridianbet since 2023; logo integrated in club emblem"
+        "name": "KK Crvena zvezda: Prvi dres KK Crvena zvezda za sezonu 2026-2027 (official home-kit launch)",
+        "date": "2026-09-08",
+        "url": "https://kkcrvenazvezda.rs/news/prvi-dres-kk-crvena-zvezda-za-sezonu-2026-2027-gledajuci-u-buducnost-verni-nasoj-proslosti",
+        "quote": "koji garantuje naš partner „adidas“",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Technical sponsor/kit manufacturer (sixth consecutive season with the club, per the launch article); adidas marks on the chest and shorts."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "summary": null,
   "change": null
 }

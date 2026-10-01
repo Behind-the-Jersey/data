@@ -1,0 +1,21 @@
+{
+  "id": "alta-banka-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "alta-group"
+  ],
+  "text": "Alta banka a.d. Beograd's sole shareholder is Alta Pay Group d.o.o. Beograd (renamed Alta Group d.o.o. Beograd in April 2025); press reports identify Serbian businessman Davor Macura as its owner.",
+  "short": "Alta banka's sole shareholder is Alta Group d.o.o. Beograd (formerly Alta Pay Group).",
+  "source": {
+    "name": "Nova ekonomija: Alta banka emisijom akcija uvećala kapital za 27 miliona evra",
+    "date": "2024-08-06",
+    "url": "https://novaekonomija.rs/vesti-iz-zemlje/alta-banka-emisijom-akcija-uvecala-kapital-za-27-miliona-evra",
+    "quote": "sve novoizdate akcije kupio je jedini akcionar Alta banke, Alta Pay Group",
+    "note": "The same article states Alta Pay is owned by Serbian businessman Davor Macura. The bank's audited 2025 annual report (altabanka.rs, April 2026) records the shareholder's April 2025 name change from Alta Pay Group d.o.o. to Alta Group d.o.o.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
