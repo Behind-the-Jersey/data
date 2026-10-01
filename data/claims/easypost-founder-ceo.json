@@ -1,0 +1,21 @@
+{
+  "id": "easypost-founder-ceo",
+  "kind": "ownership",
+  "ownerIds": [
+    "easypost"
+  ],
+  "text": "EasyPost is a US shipping-software company founded in 2012 by Jarrett Streebin, who leads it as CEO, according to the company's own about page.",
+  "short": "EasyPost was founded by Jarrett Streebin, who is its CEO.",
+  "source": {
+    "name": "EasyPost: About Us",
+    "date": "2026",
+    "url": "https://www.easypost.com/about",
+    "quote": "Jarrett founded EasyPost to help online retailers achieve Amazon-level shipping capabilities with the first RESTful API for shipping.",
+    "note": "Same page: 'It all started with a simple idea back in 2012 ... That's when EasyPost came to life' and the Leadership section lists Jarrett Streebin as CEO.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

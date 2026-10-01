@@ -1,14 +1,16 @@
 {
   "id": "ef-education-first",
   "name": "EF Education First",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "ef-education-first",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Family-owned Swiss education company (founded by Bertil Hult, per its own site). Nothing found.",
+  "claimIds": [
+    "ef-education-first-family-owned"
+  ],
   "aliases": [
     "ef education"
   ],
-  "note": "Swiss-based, Swedish-founded education company (Hult family)."
+  "note": "Rating note: Zurich-based private education group (footer entity Signum International AG); its own site calls EF 'a family-owned independent company'. No state or fund capital found, no qualifying human-rights record."
 }

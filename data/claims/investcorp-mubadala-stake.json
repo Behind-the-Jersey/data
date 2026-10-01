@@ -1,0 +1,34 @@
+{
+  "id": "investcorp-mubadala-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "investcorp",
+    "mubadala"
+  ],
+  "text": "Investcorp's March 2026 corporate presentation (shareholder figures as of 31 December 2025) lists Mubadala, Abu Dhabi's sovereign wealth fund, with 20% of Investcorp's shares; the same presentation's board page lists Yasir Aqil Badri, Mubadala's vice president of financial services, as a member of Investcorp's board of directors.",
+  "short": "Mubadala (Abu Dhabi's sovereign fund) holds 20% of Investcorp and a seat on its board.",
+  "source": {
+    "name": "Investcorp Corporate Presentation, March 2026 (PDF on investcorp.com)",
+    "date": "2026-03",
+    "url": "https://www.investcorp.com/wp-content/uploads/2026/03/InvestcorpPresentation-March-2026.pdf",
+    "quote": "Investcorp Employees1 29% Mubadala 20% Other GCC Sovereign Entities2 33% GCC Merchant Families 18%",
+    "note": "Ownership table on the slide headed 'Investcorp Ownership' (figures 'As of December 31, 2025'; footnote 2 notes three GCC sovereign shareholders). The next slide ('Supported by an effective, strategic, and accountable Board of Directors') lists Yasir Aqil Badri, 'Vice President, Financial Services, Mubadala', as a board member.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Khaleej Times: Mubadala to acquire 20% take in Investcorp",
+      "date": "2016-07-28",
+      "url": "https://www.khaleejtimes.com/business/mubadala-to-acquire-20-take-in-investcorp",
+      "quote": "Mubadala, Abu Dhabi state investment fund, will acquire a 20 per cent stake in Investcorp, a Bahrain-based alternative investment firm.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

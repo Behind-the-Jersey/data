@@ -1,0 +1,33 @@
+{
+  "id": "poc-investcorp-acquisition",
+  "kind": "ownership",
+  "ownerIds": [
+    "investcorp"
+  ],
+  "text": "POC, the Swedish helmet and apparel maker, is in the portfolio of Investcorp, the Bahrain-based alternative investment firm, which acquired POC in 2015 and still lists it as a portfolio company.",
+  "short": "POC is owned by Investcorp (acquired 2015, still in its portfolio).",
+  "source": {
+    "name": "Investcorp portfolio: POC",
+    "date": "2026",
+    "url": "https://www.investcorp.com/portfolio/poc/",
+    "quote": "Established in 2005 in Stockholm, Sweden, POC is a leading manufacturer of premium skiing and cycling helmets, apparel, and accessories.",
+    "note": "Investcorp's own portfolio section lists POC with the tag 'Acquired' (page shows 'Stockholm, Sweden', the acquisition block, and links poc.com), meaning POC remains in its portfolio in 2026.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Pedal Magazine: Investcorp Acquires POC",
+      "date": "2015-10-08",
+      "url": "https://pedalmag.com/investcorp-acquires-poc/",
+      "quote": "POC, a leading manufacturer of skiing and cycling helmets, apparel and accessories, has today been bought by Investcorp.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

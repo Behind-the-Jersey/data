@@ -1,12 +1,26 @@
 {
   "id": "oatly",
   "name": "Oatly",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "nativus-company-limited",
+  "ownership": "part-owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Swedish oat-drink maker listed on the New York Stock Exchange; co-title sponsor of EF Education-Oatly (Cyclist, 2026-07-14; EF partner page)."
+  "status": "being-rated",
+  "verdict": "Oatly's largest shareholder (~43.5% of the vote) is Nativus Company Limited, wholly owned by a 50/50 China Resources–Verlinvest joint venture; the Chinese state supervises China Resources via SASAC. The UN and Human Rights Watch document serious abuses in Xinjiang.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "oatly-nativus-china-resources-stake"
+  ],
+  "aliases": [
+    "Oatly Group AB"
+  ],
+  "note": "Swedish oat-drink maker listed on Nasdaq (OTLY); on both shoulders of the men's 2026 jersey and title sponsor of EF Education-Oatly. Rating note: proposed 'concern' — the Chinese state performs the investor duty over China Resources, whose Blossom Key holds 50% of CRVV, whose wholly owned Nativus holds ~43.5% of Oatly's voting power (effective state-linked stake ≈ 22%), and CRVV's CEO Yawen Wu sits on Oatly's board (Oatly Form 20-F, 2026-03-13); above the 5%/board-seat threshold without control. The record is on main (china-xinjiang-un-assessment). ON HOLD: a proposed 'concern' rating awaits a maintainer's review.",
+  "why": {
+    "text": "Oatly's largest shareholder is Nativus Company Limited, with about 43.5% of the vote; Nativus belongs to a 50/50 joint venture of Verlinvest and China's state-owned China Resources, and the joint venture's CEO sits on Oatly's board. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, and Human Rights Watch reported in 2026 that hundreds of thousands remain in prison.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "oatly-nativus-china-resources-stake"
+    ],
+    "messageLine": "Oatly: China's state-owned China Resources sits behind Oatly's largest shareholder (43.5% of votes); the UN documented abuses in Xinjiang that may be crimes against humanity.",
+    "status": "draft"
+  }
 }

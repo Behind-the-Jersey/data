@@ -1,12 +1,14 @@
 {
   "id": "easypost",
   "name": "EasyPost",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "easypost",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "US shipping-software company founded by Jarrett Streebin, who is its CEO (its own about page). Private; no state or fund owner found. Nothing found.",
+  "claimIds": [
+    "easypost-founder-ceo"
+  ],
   "aliases": [],
-  "note": "US e-commerce shipping software company."
+  "note": "Rating note: Lehi/San Francisco shipping-API company, private and founder-led; seed/venture backers only (Y Combinator et al.), no acquisition or controlling owner disclosed anywhere it publishes. No qualifying record."
 }
