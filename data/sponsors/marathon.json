@@ -3,12 +3,12 @@
   "name": "Marathon",
   "ownerId": "marathon-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Retail brand of Marathon Petroleum Corporation, a listed US company. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "marathon-owner-record"
   ],
   "aliases": [],
-  "note": "Rating note: Marathon is the retail brand of Marathon Petroleum Corporation (MPC), a US listed company. MPC's largest holders are institutional investors (DEF 14A 2026: The Vanguard Group 13.2%). No state stake or human-rights record against MPC was identified."
+  "note": "Rating note: held for a person. Marathon is the retail brand of Marathon Petroleum Corporation (MPC), a US listed company (claim marathon-owner-record); its largest holders are institutional investors (DEF 14A 2026: The Vanguard Group 13.2%). Found in review, not rated: the Guardian with Forensic Architecture (2024-09-09) investigated the August 2023 fire at MPC's Garyville, Louisiana refinery, one of the largest accidental releases of flammable chemicals in the EPA's records — an EPA inspection report noted company deficiencies in failing to properly inspect the tank or to repair cracks in its floor, about 2,800 people were evacuated and two hospitals treated 18 and 11 patients in relation to the fire; an explosion at the same refinery in 2022 injured six workers. Whether any of this is a finding of the kind METHOD.md counts (deaths or injuries, abuse of communities) is a maintainer decision."
 }

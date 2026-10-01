@@ -7,7 +7,7 @@
   "text": "Marathon, the brand on the Cleveland Guardians' jersey patch, is the retail brand of Marathon Petroleum Corporation (MPC).",
   "short": "Marathon is the retail brand of Marathon Petroleum Corporation.",
   "source": {
-    "name": "106.3 The Fox (release from Marathon Petroleum)",
+    "name": "106.3 The Fox: Marathon stays on Guardians jerseys as sponsorship grows beyond the ballpark",
     "date": "2026-09-25",
     "url": "https://1063thefox.com/local-news/marathon-stays-on-guardians-jerseys-as-sponsorship-grows-beyond-the-ballpark/",
     "quote": "Marathon, the retail brand of Marathon Petroleum Corp. (MPC) and the Official Fuel of the Cleveland Guardians, is extending its jersey patch sponsorship with the team through a new multiyear agreement.",
@@ -25,6 +25,16 @@
       "checked": {
         "on": "2026-10-01",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Marathon Petroleum Corp DEF 14A 2026 (SEC)",
+      "date": "2026-03-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm",
+      "quote": "The Vanguard Group(2) 100 Vanguard Blvd. Malvern, PA 19355 38,865,857 13.2%",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-scout (review of #984, run by @Schnitzel)"
       }
     }
   ],
