@@ -4,17 +4,29 @@
   "ownerIds": [
     "marathon-owner"
   ],
-  "text": "Marathon Petroleum Corporation is owned by Marathon. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "Marathon Petroleum Corporation is owned by Marathon.",
+  "text": "Marathon, the brand on the Cleveland Guardians' jersey patch, is the retail brand of Marathon Petroleum Corporation (MPC).",
+  "short": "Marathon is the retail brand of Marathon Petroleum Corporation.",
   "source": {
-    "name": "Marathon Petroleum Corp DEF 14A 2026 (SEC)",
-    "date": "2026-03-16",
-    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm",
-    "quote": "The Vanguard Group(2) 100 Vanguard Blvd. Malvern, PA 19355 38,865,857 13.2%",
+    "name": "106.3 The Fox (release from Marathon Petroleum)",
+    "date": "2026-09-25",
+    "url": "https://1063thefox.com/local-news/marathon-stays-on-guardians-jerseys-as-sponsorship-grows-beyond-the-ballpark/",
+    "quote": "Marathon, the retail brand of Marathon Petroleum Corp. (MPC) and the Official Fuel of the Cleveland Guardians, is extending its jersey patch sponsorship with the team through a new multiyear agreement.",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "MLB.com: Guardians become 12th MLB team with jersey patch, partnering with Marathon (archived)",
+      "date": "2023-06-30",
+      "url": "https://web.archive.org/web/20260419050140/https://www.mlb.com/news/guardians-add-marathon-as-jersey-patch-sponsor",
+      "quote": "The Cleveland Guardians and Marathon, the retail brand of Ohio-based Marathon Petroleum Corporation (MPC), announced Friday a new jersey patch",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
