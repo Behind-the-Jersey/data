@@ -1,0 +1,20 @@
+{
+  "id": "woori-financial-group-privatized",
+  "kind": "ownership",
+  "ownerIds": [
+    "woori-financial-group"
+  ],
+  "text": "Woori Financial Group has been fully privatised: the Korea Deposit Insurance Corporation's remaining stake was fully cancelled in 2024, and Maeil Business News reports foreign investors have increased their stakes since.",
+  "short": "Woori Financial Group is fully privatised; KDIC's last stake was cancelled in 2024.",
+  "source": {
+    "name": "매일경제 (Maeil Business News): 정부가 대주주던 우리금융 … 외국인 지분 50% 넘어섰다 [Government-majority Woori Financial: foreign stake now above 50%]",
+    "date": "2026-09-07",
+    "url": "https://www.mk.co.kr/news/economy/12146334",
+    "quote": "외국인투자자들은 2024년 예금보험공사의 잔여 지분이 완전히 소각된 이후 꾸준히 우리금융 지분을 늘려오고 있다",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
