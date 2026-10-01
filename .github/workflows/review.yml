@@ -17,8 +17,13 @@ permissions:
   pull-requests: write
   issues: write
 
+# Only real reviews share a group. Every other comment starts a run whose job is skipped; in the
+# same group it would cancel the review in progress, and that review would never finish.
 concurrency:
-  group: review-${{ github.event.pull_request.number || github.event.issue.number }}
+  group: >-
+    ${{ (github.event_name == 'pull_request' || startsWith(github.event.comment.body, '/review'))
+    && format('review-{0}', github.event.pull_request.number || github.event.issue.number)
+    || format('comment-{0}', github.run_id) }}
   cancel-in-progress: true
 
 jobs:
@@ -30,6 +35,8 @@ jobs:
        startsWith(github.event.comment.body, '/review') &&
        contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association))
     runs-on: ubuntu-latest
+    # A review takes minutes; one stuck on the model gateway would otherwise hold the check for hours.
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v7
         with:
