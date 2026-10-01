@@ -12,9 +12,15 @@
       "sponsorId": "iren",
       "placement": "patch",
       "source": {
-        "name": "Silicon Valley / Bay Area News Group",
+        "name": "Silicon Valley / Bay Area News Group – 'Warriors announce AI data center company as jersey sponsor'",
         "date": "2026-06-27",
-        "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+        "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor",
+        "note": "Left-side jersey patch; the article reports the deal was announced the day before the rookies posed in the new jerseys.",
+        "quote": "a bright green IREN patch was already stitched across the left side of both garments.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
