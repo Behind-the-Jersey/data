@@ -1,12 +1,16 @@
 {
   "id": "limak-hotels",
   "name": "Limak Hotels",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Front-of-shorts sponsor of Fenerbahçe Tarfin for 2026/27 (Anasponsor, 31 Aug-6 Sep 2026). Owner not researched yet."
+  "ownerId": "limak-holding",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Limak Hotels is the hotel arm of Limak Holding, the group founded by Nihat Özdemir and Sezai Bacaksız and now run by their second generation. Nothing found.",
+  "claimIds": [
+    "limak-hotels-ownership"
+  ],
+  "aliases": [
+    "Limak Turizm"
+  ],
+  "note": "Rated none 2026-10-01. Front-of-shorts sponsor of Fenerbahçe Tarfin for 2026/27 (Anasponsor, 31 Aug-6 Sep 2026). The worker deaths documented at Istanbul Airport's construction (52 per a CİMER answer reported by Halk TV/T24, 2019; Amnesty Türkiye documents the prosecution of protesting workers) concerned the IGA consortium of five builders, with no court, regulator, UN or NGO finding of fault against Limak itself, so they do not pass the METHOD.md record test; press-reported accidents (e.g. the Kuwait airport landslide) are not findings either."
 }

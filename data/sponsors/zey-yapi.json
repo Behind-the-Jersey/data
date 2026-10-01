@@ -1,12 +1,17 @@
 {
   "id": "zey-yapi",
   "name": "Zey Yapı",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Back-of-shorts sponsor of Fenerbahçe's men's basketball team for 2026/27 (Anasponsor, 10-16 Aug 2026). Owner not researched yet."
+  "ownerId": "zey-yapi",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Zey Yapı, a Turkish construction contractor set up in 2001, is owned by Mehmet Zeki Peker. Nothing found.",
+  "claimIds": [
+    "zey-yapi-ownership"
+  ],
+  "aliases": [
+    "Zey Yapı Sanayi Madencilik Enerji Müş. Tic. A.Ş.",
+    "Zey Yapı İnşaat"
+  ],
+  "note": "Rated none 2026-10-01. Back-of-shorts sponsor of Fenerbahçe's men's basketball team for 2026/27 (Anasponsor, 10-16 Aug 2026); the club's announcement via 12 Numara describes the sponsor as founded in 2001, matching this company (zeyyapi.com.tr), not the separate Hakkari firm of the same name. ABC Gazetesi reports owner Mehmet Zeki Peker stood as an AKP candidate in 2015 and 2018 and the company won over 14 billion TL of public tenders: winning public tenders is not a human-rights record under METHOD.md, and no record that passes the test was found."
 }

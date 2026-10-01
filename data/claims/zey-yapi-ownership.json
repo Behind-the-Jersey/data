@@ -1,0 +1,34 @@
+{
+  "id": "zey-yapi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zey-yapi"
+  ],
+  "text": "Zey Yapı (Zey Yapı Sanayi Madencilik Enerji Müş. Tic. A.Ş.) is owned by Mehmet Zeki Peker, who stood as an AKP parliamentary candidate in 2015 and 2018, ABC Gazetesi reported while covering the company's large public hospital tenders. Its own site describes it as a construction and contracting business set up in 2001 and carries a chairman's message signed Emre Peker.",
+  "short": "Zey Yapı is owned by Mehmet Zeki Peker; its site describes a 2001 contractor, chaired by Emre Peker.",
+  "source": {
+    "name": "ABC Gazetesi: AKP'li Mehmet Zeki Peker'in şirketi Zey Yapı'dan 14 milyar TL'lik kamu ihalesi!",
+    "date": "2025-02-11",
+    "url": "https://abcgazetesi.com.tr/akpli-mehmet-zeki-pekerin-sirketi-zey-yapidan-14-milyar-tllik-kamu-ihalesi-791837",
+    "quote": "Mehmet Zeki Peker'in sahibi olduğu Zey Yapı, son yıllarda aldığı dev kamu ihaleleriyle dikkat çekiyor.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The hospital tenders the article lists (Aydın 950-bed, Sivas Numune, Çankırı, Akhisar) match the projects Zey Yapı lists on its own site, confirming this is the same Zey Yapı that sponsors Fenerbahçe's basketball shorts."
+  },
+  "additionalSources": [
+    {
+      "name": "Zey Yapı: Kurumsal (About)",
+      "date": "2019-12-27",
+      "url": "https://zeyyapi.com.tr/kurumsal/",
+      "quote": "Zey Yapı 2001 yılında inşaat ve müteahhitlik hizmetleri verme amacıyla yola çıkmış bir girişimdir.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Founded 22 June 2001 per the trade registry gazette cited on the page; the 'Başkanın Mesajı' (chairman's message) is signed 'Saygılarımla.. Emre Peker'."
+    }
+  ],
+  "reviewed": false
+}
