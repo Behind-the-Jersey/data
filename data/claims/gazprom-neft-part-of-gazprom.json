@@ -1,0 +1,34 @@
+{
+  "id": "gazprom-neft-part-of-gazprom",
+  "kind": "ownership",
+  "ownerIds": [
+    "gazprom-neft",
+    "gazprom"
+  ],
+  "text": "Gazprom Neft is part of the Gazprom Group; the group owns about 96% of Gazprom Neft's shares.",
+  "short": "Gazprom Group owns about 96% of Gazprom Neft.",
+  "source": {
+    "name": "AK&M Information Agency: Hungarian MOL and Serbian government sign NIS agreement",
+    "date": "2026-10-01",
+    "url": "https://www.akm.ru/eng/news/hungarian-mol-and-serbian-government-sign-nis-agreement/",
+    "quote": "The company is part of the Gazprom Group, which owns about 96% of the shares",
+    "note": "The sentence refers to Gazprom Neft PJSC in the article's profile paragraph. The same AK&M piece reports Gazprom Neft is a subsidiary of NIS's parent chain and was sanctioned in 2025.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Global Banking & Finance Review (carrying a Reuters dispatch): Russia's Gazprom Neft provisionally agrees to sell NIS stake to Hungary's MOL",
+      "date": "2026-01-19",
+      "url": "https://www.globalbankingandfinance.com/russias-gazprom-neft-reaches-provisional-agreement-sell-nis/",
+      "quote": "Russia's Gazprom holds an 11.3% stake in NIS, while its sanctioned oil unit Gazprom Neft owns 44.9%",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aikbank-mv-investments-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "bdd-mv-investments"
+  ],
+  "text": "BDD M&V Investments a.d. Beograd is the sole owner (100%) of AikBank a.d. Beograd.",
+  "short": "BDD M&V Investments is the sole owner of AikBank.",
+  "source": {
+    "name": "CompanyWall Business (Serbian Business Register data): AikBank ad Beograd - Vlasni\u010dka struktura",
+    "date": "2026-09-22",
+    "url": "https://www.companywall.rs/firma/aikbank-ad-beograd/MMQX8A0D/osobe-i-vlasnistvo",
+    "quote": "Podaci o vlasni\u0161tvu na dan22.9.2026. Ukupno vlasnika1 BDD M&V INVESTMENTS AD BEOGRAD 100.00 %",
+    "note": "Register data as of 22 September 2026: one owner, BDD M&V Investments ad Beograd, 100%.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

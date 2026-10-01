@@ -7,8 +7,79 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsors": [
+    {
+      "sponsorId": "mozzart",
+      "placement": "front",
+      "source": {
+        "name": "RTS: Kompanija \"Mozzart\" novi generalni sponzor KK Partizan",
+        "date": "2022-10-01",
+        "url": "https://www.rts.rs/lat/sport/kosarka/4970238/kompanija-mozzart-novi-generalni-sponzor-kk-partizan.html",
+        "quote": "Kompanija \"Mozzart\" novi je generalni i naslovni sponzor Ko\u0161arka\u0161kog kluba Partizan, pa \u0107e klub iz Humske od danas zvani\u010dno nositi ime \"Partizan Mozzart Bet\".",
+        "note": "General and naming sponsor since October 2022; still current in 2026/27: the club plays as Partizan Mozzart Bet and lists Mozzart as 'Generalni sponzor'. The MOZZART wordmark sits mid-front on the 2026/27 home jersey, under the club name and number (official club store product photos, kkpartizanshop.com).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nis",
+      "placement": "front",
+      "source": {
+        "name": "NIS: Nastavak saradnje NIS-a i Ko\u0161arka\u0161kog kluba \u201ePartizan\u201c",
+        "date": "2022-10-26",
+        "url": "https://www.nis.rs/news/nastavak-saradnje-nis-a-i-kosarkaskog-kluba-partizan/",
+        "quote": "Kompanija NIS i Ko\u0161arka\u0161ki klub \u201ePartizan\u201c nastavili su danas vi\u0161egodi\u0161nje partnerstvo potpisivanjem novog ugovora o sponzorstvu.",
+        "note": "Multi-year sponsorship contract; still listed by the club as a 'ponosni sponzor' in 2026/27. The NIS logo sits on the front of the 2026/27 home jersey, under Mozzart (official club store product photos, kkpartizanshop.com).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "aikbank",
+      "placement": "front",
+      "source": {
+        "name": "KK Partizan official store: Dres \"KK Partizan 2026/27\", beli (product photos)",
+        "date": "2026-10-01",
+        "url": "https://kkpartizanshop.com/products/dres-kk-partizan-2026-27-beli",
+        "note": "Image-only evidence: the AikBank logo appears on the right chest of the 2026/27 home jersey in the club store's product photos. AikBank is also listed on the club's sponsors page under 'Ponosni sponzori'. No text announcement of the placement found; nothing to quote on the page."
+      }
+    },
+    {
+      "sponsorId": "changan",
+      "placement": "back",
+      "source": {
+        "name": "Volim Partizan (reprinting the KK Partizan announcement): KK Partizan i Changan zajedno u predstoje\u0107oj sezoni",
+        "date": "2025-09-04",
+        "url": "https://volimpartizan.rs/kk-partizan-i-changan-zajedno-u-predstojecoj-sezoni-195808/",
+        "quote": "Changan logo su navija\u010di ve\u0107 mogli da primete na pole\u0111ini dresova koje \u0107e crno-beli nositi u Evroligi!",
+        "note": "The 2025 club announcement said the Changan logo is on the back of the jersey; the same CHANGAN lettering is above the back number on the 2026/27 jersey in the club store's product photos and in match photos from Round 1 of the EuroLeague (v Olimpija Milano, 25 September 2026).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "MaxBet Sport (max-sport.rs): Da li ste primetili? Novi dres Partizan krije poruku",
+        "date": "2026-09-10",
+        "url": "https://www.max-sport.rs/da-li-ste-primetili-novi-dres-partizana-krije-poruku-resena-je-misterija-sa-drustvenih-mreza-751020/",
+        "quote": "Partizan je predstavio i nove dresove u proizvodnji presti\u017ene sportske opreme \u201eNajk\u201c.",
+        "note": "Nike manufactures the 2026/27 playing kit (swoosh right chest) and is listed as the club's 'Tehni\u010dki sponzor'; the Nike deal started in 2025/26 (Sportal, 28 August 2025).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Partizan's 2026/27 home shirt (Nike) carries the club name across the chest (new EuroLeague rule freeing the front from sponsor lettering), with the AikBank logo on the right chest, MOZZART and NIS stacked below the number, and CHANGAN above the number on the back. Shorts carry no sponsor (EuroLeague competition patch and Nike swoosh only); the hem patch quotes the fan anthem 'Nek' ne igra ko se lomi'. Sponsors checked against every placement on the club store's 2026/27 product photos and match photos from Round 1 of the 2026/27 EuroLeague.",
   "change": null
 }
