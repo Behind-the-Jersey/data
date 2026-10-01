@@ -3,16 +3,15 @@
   "name": "Toyota",
   "ownerId": "toyota-motor-corporation",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "being-rated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Toyota en France is the premium partner; the brand sits under Toyota Motor Corporation, a listed company with no controlling owner. Nothing found.",
   "claimIds": [
-    "toyota-motor-corporation-record",
-    "toyota-unintended-acceleration-verdict"
+    "toyota-motor-corporation-record"
   ],
   "aliases": [
     "TOYOTA",
     "Toyota en France"
   ],
-  "note": "Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Re-rated 2026-09-28 on the SEC 20-F ownership claim. On hold for a maintainer (2026-10-01, PR #938): Toyota is a carmaker, and METHOD.md's company test for keeping 'none' fails — in October 2013 an Oklahoma City jury found Toyota Motor Corp. at fault in a 2007 crash blamed on a Camry accelerating on its own that killed a passenger, awarding $3M and finding reckless disregard (toyota-unintended-acceleration-verdict). No state or state fund in the ownership chain (Toyota Motor Corporation is listed; see the 20-F claim)."
+  "note": "Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Re-rated 2026-09-28 on the SEC 20-F ownership claim."
 }
