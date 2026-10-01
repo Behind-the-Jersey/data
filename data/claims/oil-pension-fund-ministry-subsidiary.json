@@ -1,0 +1,22 @@
+{
+  "id": "oil-pension-fund-ministry-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "oil-industry-pension-fund",
+    "government-of-iran"
+  ],
+  "text": "The chairman of Iran's Oil Industry Pension Fund, Abdol Hossein Bayat, describes the fund as a subsidiary of Iran's Ministry of Petroleum, while saying it depends on neither the government nor the state budget.",
+  "short": "The Oil Industry Pension Fund describes itself as a Petroleum Ministry subsidiary.",
+  "source": {
+    "name": "ana.ir (Azad News Agency): Iran's Oil Industry Pension Fund Implementing 19 Projects",
+    "date": "2024-08-14",
+    "url": "https://ana.ir/en/news/6775/irans-oil-industry-pension-fund-implementing-19-projects",
+    "quote": "The Oil Industry Pension Fund is a Petroleum Ministry subsidiary, dependent on neither the government nor the state budget",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Report of Bayat's speech at the opening of the 15th Iran Petrochemical Forum, Tehran. Only one publisher found for this statement; a second independent source for the fund's ministry affiliation is noted as missing in the pull request."
+  },
+  "reviewed": false
+}
