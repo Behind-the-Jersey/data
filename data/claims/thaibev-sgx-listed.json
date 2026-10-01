@@ -1,0 +1,19 @@
+{
+  "id": "thaibev-sgx-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "thai-beverage"
+  ],
+  "text": "Thai Beverage Public Company Limited is listed on the Singapore Exchange (SGX-ST) mainboard under ticker Y92.",
+  "source": {
+    "name": "Thai Beverage PCL: Annual Report 2025 (SGX filing 871645), 'Investor Information' page",
+    "date": "",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XJHFB16NSXYU79R3/871645_THBEV_Annual_Report_2025_EN.pdf",
+    "quote": "Thai Beverage Pubilc Company Limited is listed on the Singapore Exchange (SGX-ST) mainboard",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -3,10 +3,13 @@
   "name": "Coca-Cola",
   "ownerId": "coca-cola-company",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Coca-Cola logo low on Port FC's 2026-27 home shirt; the named club sponsor is Thai bottler ThaiNamthip Corporation (SET-listed) - the brand belongs to The Coca-Cola Company, NYSE-listed, whose largest holders are Berkshire Hathaway, Vanguard and BlackRock. Nothing found.",
+  "claimIds": [
+    "coca-cola-company-nyse",
+    "coca-cola-company-shareholders"
+  ],
   "aliases": [],
   "note": "FIFA partner since 1974; sponsor of the FIFA/Coca-Cola World Ranking."
 }

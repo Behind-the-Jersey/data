@@ -1,0 +1,19 @@
+{
+  "id": "coca-cola-company-nyse",
+  "kind": "ownership",
+  "ownerIds": [
+    "coca-cola-company"
+  ],
+  "text": "The Coca-Cola Company's common stock (ticker KO) is registered on the New York Stock Exchange.",
+  "source": {
+    "name": "The Coca-Cola Company: Form 10-K for FY2025, cover page (SEC EDGAR)",
+    "date": "2026-02-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+    "quote": "Common Stock, $0.25 Par Value KO New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

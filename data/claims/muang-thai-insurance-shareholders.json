@@ -1,0 +1,20 @@
+{
+  "id": "muang-thai-insurance-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "muang-thai-insurance"
+  ],
+  "text": "Muang Thai Insurance's Form 56-1 One Report lists its top shareholders as at 30 December 2025: Muang Thai Group Holding Co., Ltd. (20.00%), Nualphan Lamsam (13.25%) and Ageas Insurance International N.V. (12.20%).",
+  "source": {
+    "name": "Muang Thai Insurance PCL: Form 56-1 One Report 2025 (Thai), section 1.3.2 'รายชื่อผู้ถือหุ้นใหญ่' (top shareholders)",
+    "date": "2026-03-23",
+    "url": "https://mticonnect-resources.muangthaiinsurance.com/financial-info-document/files_03-2026_1773974531296.pdf",
+    "quote": "1. บริษัท เมืองไทย กรุ๊ป โฮลดิ้ง จำ�กัด 117,999,990 20.000 2. น�งนวลพรรณ ล่ำ�ซำ� 78,195,650 13.254 3. AGEAS INSURANCE INTERNATIONAL N.V. 72,001,130 12.204",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Thai filing (2025 accounting year, received by the SEC on 23 March 2026). 'เมืองไทย กรุ๊ป โฮลดิ้ง จำกัด' = Muang Thai Group Holding Co., Ltd.; 'นางนวลพรรณ ล่ำซำ' = Nualphan Lamsam."
+  },
+  "reviewed": false
+}

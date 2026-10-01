@@ -1,0 +1,20 @@
+{
+  "id": "thaibev-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "thai-beverage"
+  ],
+  "text": "Thai Beverage's FY2025 annual report ('Statistics of Shareholders', as at 11 December 2025) shows Siriwana Co., Ltd. with a 45.24% direct holding plus a deemed 20.60% through wholly-owned Siriwanan Co., Ltd.; Siriwana is owned by Sirivadhanabhakdi family companies and their discretionary trust.",
+  "source": {
+    "name": "Thai Beverage PCL: Annual Report 2025 (SGX filing 871645), 'Statistics of Shareholders'",
+    "date": "",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XJHFB16NSXYU79R3/871645_THBEV_Annual_Report_2025_EN.pdf",
+    "quote": "Siriwana Co., Ltd.(1) 11,368,060,000 45.24 5,176,627,762 20.60 Siriwanan Co., Ltd.(1) 5,176,627,762 20.60",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Direct interest shown for Siriwana (45.24%) and Siriwanan (20.60%); the same table shows members of the Sirivadhanabhakdi family deemed interested in 65.84%."
+  },
+  "reviewed": false
+}

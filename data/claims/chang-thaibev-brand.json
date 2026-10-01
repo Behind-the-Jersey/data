@@ -1,0 +1,19 @@
+{
+  "id": "chang-thaibev-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "thai-beverage"
+  ],
+  "text": "Chang is Thai Beverage Public Company Limited's flagship beer brand.",
+  "source": {
+    "name": "Thai Beverage PCL: Annual Report 2025 (SGX filing 871645), beer business review, Thailand section",
+    "date": "",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XJHFB16NSXYU79R3/871645_THBEV_Annual_Report_2025_EN.pdf",
+    "quote": "As our flagship brand and the No. 1 beer in Thailand, Chang has strengthened its market position",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
