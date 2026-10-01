@@ -1,0 +1,21 @@
+{
+  "id": "mitsubishi-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "mitsubishi-corporation"
+  ],
+  "text": "Mitsubishi Corporation is listed in Tokyo (securities code 8058). Its principal shareholders as of 31 March 2026 were led by The Master Trust Bank of Japan, Ltd. (Trust Account, 16.65%), STATE STREET BANK AND TRUST COMPANY 505104 (10.91%), Custody Bank of Japan, Ltd. (Trust Account, 5.28%) and Meiji Yasuda Life Insurance Company (3.41%); none of the other six listed holds more than 3%.",
+  "short": "Mitsubishi Corporation is Tokyo-listed; its largest holders are Master Trust (16.65%), a State Street account (10.91%) and Custody Bank (5.28%).",
+  "source": {
+    "name": "Mitsubishi Corporation: Stock Information, 'Principal Shareholders' (as of March 31, 2026; archived copy)",
+    "date": "2026-03-31",
+    "url": "https://web.archive.org/web/20260612113750/https://www.mitsubishicorp.com/jp/en/ir/shareholder/stock/",
+    "note": "Live mitsubishicorp.com blocks scripted access (HTTP 403); Wayback snapshot of 2026-06-12 opened instead.",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 614,262 16.65",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

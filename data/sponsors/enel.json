@@ -1,14 +1,16 @@
 {
   "id": "enel",
   "name": "Enel",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "italian-ministry-of-economy-finance",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "enel-italy-ownership"
+  ],
   "aliases": [
     "ENEL"
   ],
-  "note": "Official partner of Mubadala Brazil and title partner of the Enel Rio Sail Grand Prix (sailgp.com team page and 2026 calendar, fetched 2026-09-25)."
+  "note": "Ownership is checked: Italy's Ministry of Economy and Finance holds 23.6% (enel-italy-ownership), and Italy has no sourced record of serious abuses in this dataset, so the state stake isn't a link. The company test (a court, regulator, UN or major-NGO finding against Enel or its subsidiaries in the last 20 years) hasn't been done yet, so the sponsor stays unrated."
 }

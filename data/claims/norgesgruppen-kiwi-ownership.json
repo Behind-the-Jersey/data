@@ -1,0 +1,20 @@
+{
+  "id": "norgesgruppen-kiwi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "norgesgruppen"
+  ],
+  "text": "Norgesgruppen owns KIWI, along with Meny, Joker and Spar.",
+  "short": "Norgesgruppen owns KIWI.",
+  "source": {
+    "name": "Nettavisen: Massive prisøkninger: Kiwi-eier håver inn",
+    "date": "2025-03-19",
+    "url": "https://www.nettavisen.no/okonomi/norgesgruppen-tjente-4-9-milliarder-i-fjor/s/5-95-2340983",
+    "quote": "Norgesgruppen eier blant annet Kiwi, Meny, Joker og Spar og er Norges klart største dagligvare-aktør",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

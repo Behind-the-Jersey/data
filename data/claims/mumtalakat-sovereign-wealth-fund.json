@@ -1,0 +1,32 @@
+{
+  "id": "mumtalakat-sovereign-wealth-fund",
+  "kind": "ownership",
+  "ownerIds": [
+    "mumtalakat"
+  ],
+  "text": "Bahrain Mumtalakat Holding Company is the sovereign wealth fund of the Kingdom of Bahrain, wholly owned by the Bahraini government.",
+  "short": "Mumtalakat is Bahrain's sovereign wealth fund, wholly government-owned",
+  "source": {
+    "name": "Bahrain Mumtalakat Holding Company — About Us",
+    "date": "2026",
+    "url": "https://www.mumtalakat.bh/who-we-are/about-us",
+    "quote": "Established in 2006, Mumtalakat is the Sovereign Wealth Fund of Bahrain.",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "National Bank of Bahrain — Sustainable Finance Framework (December 2024)",
+      "date": "2024-12",
+      "url": "https://nbbonline.com/storage/2025/02/NBB_Sustainable-Finance-Framework-V4-1.pdf",
+      "quote": "44.06% Bahrain Mumtalakat Holding Company, wholly-owned by the Government of the Kingdom of Bahrain",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

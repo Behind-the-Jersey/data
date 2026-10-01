@@ -1,12 +1,17 @@
 {
   "id": "nsn",
   "name": "NSN (Never Say Never)",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Catalan sports and entertainment agency co-founded by Andrés Iniesta; team title. Not state-linked."
+  "ownerId": "nsn-never-say-never",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Barcelona sports and entertainment company co-founded by Andrés Iniesta, one of its main shareholders, and led by founder-president Joel Borràs; Stoneweg became a shareholder in 2025. Nothing found.",
+  "claimIds": [
+    "nsn-ownership"
+  ],
+  "aliases": [
+    "Never Say Never",
+    "wearensn"
+  ],
+  "note": "Title sponsor of the team it co-owns. Rating note: its known shareholders are Andrés Iniesta and Stoneweg (stake not disclosed), which SWI Capital Holding controls (Max-Hervé George, 95.242% of the votes); no state or state fund is sourced in the chain."
 }

@@ -1,0 +1,28 @@
+{
+  "id": "laoshan-beer",
+  "name": "Laoshan Beer",
+  "ownerId": "tsingtao-brewery",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Laoshan Beer is the national second brand of Tsingtao Brewery Co., Ltd., whose controlling shareholder Tsingtao Brewery Group (32.51%) is solely owned by the Qingdao municipal SASAC; continuing sleeve sponsor of Qingdao Hainiu.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "laoshan-beer-tsingtao-brand",
+    "tsingtao-brewery-group-sasac"
+  ],
+  "aliases": [
+    "崂山啤酒"
+  ],
+  "why": {
+    "text": "Laoshan Beer is a brand of Tsingtao Brewery Co., Ltd., whose controlling shareholder is Tsingtao Brewery Group (32.51%); the Qingdao municipal state-assets commission is that group's sole shareholder and the company's ultimate controller. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Laoshan Beer is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "laoshan-beer-tsingtao-brand",
+      "tsingtao-brewery-group-sasac"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims laoshan-beer-tsingtao-brand + tsingtao-brewery-group-sasac: Laoshan Beer is Tsingtao Brewery Co.'s brand; the listed company's controlling shareholder Tsingtao Brewery Group (32.51%) is wholly owned by the Qingdao municipal SASAC, its stated ultimate controller) and the record (claim china-xinjiang-un-assessment) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers). The existing sponsor record 'tsingtao' (CSL league partner) has ownerId null: the owners tsingtao-brewery and tsingtao-brewery-group added here would serve it too — left untouched as outside this issue."
+}

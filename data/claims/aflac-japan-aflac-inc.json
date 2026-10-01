@@ -1,0 +1,33 @@
+{
+  "id": "aflac-japan-aflac-inc",
+  "kind": "ownership",
+  "ownerIds": [
+    "aflac-inc"
+  ],
+  "text": "Aflac Incorporated's Form 10-K for 2025 names Aflac Life Insurance Japan Ltd. (ALIJ) as the primary insurance subsidiary of its Aflac Japan segment, and says Aflac Incorporated's common stock is registered on the New York Stock Exchange (symbol AFL). Exhibit 21 of the 10-K lists Aflac Life Insurance Japan Ltd. as a subsidiary of Aflac Holdings LLC (Nebraska), which is a subsidiary of Aflac Incorporated.",
+  "short": "Aflac Life Insurance Japan Ltd. is a subsidiary of NYSE-listed Aflac Incorporated (through Aflac Holdings LLC).",
+  "source": {
+    "name": "Aflac Incorporated: Form 10-K for the fiscal year ended December 31, 2025 (SEC EDGAR)",
+    "date": "2026-02-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026011402/afl-20251231.htm",
+    "quote": "The primary insurance subsidiary in the Aflac Japan segment is Aflac Life Insurance Japan Ltd. (ALIJ)",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Aflac Incorporated: 2025 Form 10-K, Exhibit 21 'Subsidiaries' (SEC EDGAR)",
+      "date": "2026-02-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026011402/afl123125ex21.htm",
+      "note": "Footnote (4) on Aflac Life Insurance Japan Ltd. reads 'Subsidiary of Aflac Holdings LLC'. Same filing as the main source.",
+      "quote": "Aflac Holdings LLC Nebraska Aflac Life Insurance Japan Ltd. (4) Japan",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
+}

@@ -1,12 +1,19 @@
 {
   "id": "shuzet-holdings",
-  "name": "Shuzet Holdings",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  "name": "Suzette Holdings",
+  "ownerId": "suzette-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Suzette Holdings, a private Nishinomiya confectionery holding company (Henri Charpentier and other brands). Nothing found.",
+  "claimIds": [
+    "suzette-holdings-private"
+  ],
+  "aliases": [
+    "株式会社シュゼット・ホールディングス",
+    "Henri Charpentier",
+    "アンリ・シャルパンティエ",
+    "Shuzet Holdings"
+  ],
+  "note": "Kit sponsor (back, below the number) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: private company, no state or fund involvement found."
 }

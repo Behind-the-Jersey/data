@@ -1,0 +1,20 @@
+{
+  "id": "bosch-stiftung-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "robert-bosch-gmbh"
+  ],
+  "text": "The not-for-profit foundation Robert Bosch Stiftung GmbH holds roughly 94 percent of the share capital of Robert Bosch GmbH; about 93 percent of voting rights are held by Robert Bosch Industrietreuhand KG.",
+  "short": "Bosch is 94% owned by the charitable Robert Bosch Stiftung.",
+  "source": {
+    "name": "Bosch Global: Company overview (ownership structure and organization)",
+    "date": "2026",
+    "url": "https://www.bosch.com/company",
+    "quote": "The not-for-profit foundation Robert Bosch Stiftung GmbH holds roughly 94 percent of the share capital of Robert Bosch GmbH",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

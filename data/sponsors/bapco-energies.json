@@ -6,9 +6,13 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "bapco"
+  "claimIds": [
+    "bapco-energies-government-owned",
+    "wec-bapco-bahrain-record"
   ],
-  "note": "Bahrain national oil and gas company."
+  "aliases": [
+    "bapco",
+    "nogaholding"
+  ],
+  "note": "Bahrain's national energy holding company, fully owned by the Bahraini government; its chairman is His Highness Shaikh Nasser bin Hamad Al Khalifa (Bapco Energies, About us), who founded the team in 2016 (team About page)."
 }

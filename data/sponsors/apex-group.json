@@ -1,14 +1,16 @@
 {
   "id": "apex-group",
   "name": "Apex Group",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "genstar-capital",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "apex-group-genstar-ownership"
+  ],
   "aliases": [
     "Apex"
   ],
-  "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team (sailgp.com partners overview, US team page and 2026 calendar, fetched 2026-09-25)."
+  "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team (ussailgpteam.com, 24 Oct 2024). Left unrated: Apex Group's release of 15 July 2021 says Carlyle and the sovereign investor Mubadala Investment Company took minority stakes, investing in the ordinary share capital alongside founder Peter Hughes, majority investor Genstar Capital and TA Associates (claim apex-group-genstar-ownership). Neither the size of Mubadala's stake nor whether it has a board seat is published, and no later source on the shareholders was found. Mubadala is wholly owned by the Government of Abu Dhabi, and the UAE has a record in this data (uae-mass-trial-2024, mubadala-uae-convictions-upheld), so a Mubadala stake of 5% or more, or a board seat, would be Concern. No human-rights finding against the company found."
 }

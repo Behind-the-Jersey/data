@@ -1,0 +1,33 @@
+{
+  "id": "audi-vw-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "audi-ag",
+    "volkswagen-ag"
+  ],
+  "text": "AUDI AG is a fully owned subsidiary of Volkswagen AG.",
+  "short": "AUDI AG is a fully owned subsidiary of Volkswagen AG (Audi's own regulatory statement).",
+  "source": {
+    "name": "AUDI AG Slavery and Human Trafficking Statement (fiscal year 2024)",
+    "date": "2024",
+    "url": "https://media.audi.com/is/content/audi/microsites/audi-com/assets/downloads/reportings/SHTS_AUDI_AG_FY2024_en.pdf",
+    "quote": "AUDI AG is a fully owned subsidiary of Volkswagen AG.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Volkswagen Group: Group (about us page)",
+      "date": "2026",
+      "url": "https://www.volkswagen-group.com/en/group-15765",
+      "quote": "The Group comprises ten brands from five European countries: Volkswagen, Volkswagen Commercial Vehicles, ŠKODA, SEAT, CUPRA, Audi, Lamborghini, Bentley, Porsche and Ducati.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
+}

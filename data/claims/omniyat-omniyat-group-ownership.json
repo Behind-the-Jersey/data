@@ -1,0 +1,32 @@
+{
+  "id": "omniyat-omniyat-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "omniyat-group"
+  ],
+  "text": "OMNIYAT is the flagship of OMNIYAT Group, founded and chaired by Mahdi Amjad; LuxHabitat describes the developer as owned by Mahdi Amjad.",
+  "short": "OMNIYAT is the flagship of OMNIYAT GROUP, founded by Mahdi Amjad",
+  "source": {
+    "name": "Team Bahrain Victorious — OMNIYAT supports Team Bahrain Victorious in 2026 WorldTour Cycling season",
+    "date": "2025-11-24",
+    "url": "https://bahraincyclingteam.com/omniyat-supports-team-bahrain-victorious-in-2026-worldtour-cycling-season/",
+    "quote": "Mahdi Amjad, Founder and Executive Chairman of OMNIYAT Group, a diversified multi-brand portfolio, including OMNIYAT",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "LuxHabitat: Omniyat | Luxury Projects & Properties in Dubai",
+      "date": "2026",
+      "url": "https://www.luxhabitat.ae/developers/omniyat/",
+      "quote": "Omniyat is the UAE’s leading real estate and property development company since 2005. The organization, owned by Mahdi Amjad",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    }
+  ]
+}

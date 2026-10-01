@@ -6,9 +6,12 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "beyon-government-shareholding",
+    "wec-bapco-bahrain-record"
+  ],
   "aliases": [
     "batelco"
   ],
-  "note": "Bahraini telecoms group (formerly Batelco); majority state-linked."
+  "note": "Bahraini telecoms group (formerly Batelco). Its 2025 annual report lists Mumtalakat (36.67%) and the Social Insurance Organization (20.31%) as 'Government' shareholders, 56.98% together; several directors are appointed by Mumtalakat."
 }

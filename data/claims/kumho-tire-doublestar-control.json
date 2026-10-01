@@ -1,0 +1,45 @@
+{
+  "id": "kumho-tire-doublestar-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "kumho-tire",
+    "qingdao-doublestar"
+  ],
+  "text": "In April 2026 Shenzhen-listed Qingdao Doublestar completed the consolidation of South Korean tyre maker Kumho Tire: it now indirectly owns 45% of Kumho Tire, which became a controlled subsidiary of the Chinese company.",
+  "short": "Qingdao Doublestar controls Kumho Tire with 45%.",
+  "source": {
+    "name": "Tyrepress: Share listing completes Doublestar's Kumho Tire consolidation",
+    "date": "2026-04-13",
+    "url": "https://www.tyrepress.com/2026/04/share-listing-completes-doublestars-kumho-tire-consolidation/",
+    "quote": "Qingdao Doublestar has formally completed its long-running transaction to consolidate control of South Korean tyre manufacturer Kumho Tire",
+    "note": "The article's picture caption adds: 'Doublestar now indirectly owns 45% of equity in Kumho Tire.'",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "European Rubber Journal: Doublestar completes acquisition of Kumho Tire",
+      "date": "2026-04-17",
+      "url": "https://www.european-rubber-journal.com/article/2099072/doublestar-completes-acquisition-of-kumho-tire",
+      "quote": "With the completion of the acquisition, Doublestar said it now indirectly holds 45% of the shares of Korean tire major",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "FilingReader: Qingdao Doublestar completes CNY 4.9bn acquisition of Kumho Tire (summary of Shenzhen Stock Exchange disclosures)",
+      "date": "2026-04-12",
+      "url": "https://filingreader.com/news-wire/shenzhen/2026-04-12/qingdao-doublestar-completes-cny-49bn-acquisition-of-kumho-tire",
+      "quote": "the company now holds a 45% stake in Kumho Tire, which has officially become a controlled subsidiary",
+      "note": "Wire summary of Qingdao Doublestar's own regulatory filings; AI-generated summary flagged on the page.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

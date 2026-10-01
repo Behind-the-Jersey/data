@@ -1,14 +1,18 @@
 {
   "id": "o2",
   "name": "O2",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "virgin-media-o2",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
+  "status": "being-rated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "virgin-media-o2-ownership",
+    "telefonica-significant-shareholders-2025",
+    "telefonica-stc-board-seat"
+  ],
   "aliases": [
     "telefonica o2 uk"
   ],
-  "note": "Sponsor logo shown in the englandrugby.com header ('header-sponsor-logo'); shirt placement not stated on the pages opened this pass - see unsourced."
+  "note": "O2 is a brand of Virgin Media O2, a 50/50 joint venture of Telefónica and Liberty Global. Telefónica's significant shareholders include stc (Saudi Arabia, 9.97%), which has a director on Telefónica's board, SEPI (Spain, 10.00%) and CriteriaCaixa (see the cited ownership claims). Along the chain stc's share of O2 is about 4.99%, just under the 5% test; whether a board seat at the 50% parent counts as a board seat under METHOD.md is for a maintainer. Until then the rating is on hold."
 }

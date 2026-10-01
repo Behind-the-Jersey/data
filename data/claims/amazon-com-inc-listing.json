@@ -1,0 +1,20 @@
+{
+  "id": "amazon-com-inc-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "amazon-com-inc"
+  ],
+  "text": "Amazon.com, Inc.'s common stock is traded on the Nasdaq Global Select Market under the symbol AMZN.",
+  "short": "Amazon.com, Inc. is Nasdaq-listed (AMZN)",
+  "source": {
+    "name": "Amazon.com, Inc. Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2026-02-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+    "quote": "Our common stock is traded on the Nasdaq Global Select Market under the symbol \u201cAMZN.\u201d",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

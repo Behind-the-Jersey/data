@@ -1,0 +1,43 @@
+{
+  "id": "quest-global-gic-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "quest-global-owner",
+    "gic"
+  ],
+  "text": "In February 2016 Bain Capital, GIC and Advent International invested about US$350 million in total to buy minority stakes in Quest Global. In August 2021 Business Standard reported that Bain Capital, Advent and GIC remained invested, and in August 2023 DealStreetAsia wrote that Quest Global's investors include GIC, Singapore's sovereign wealth fund.",
+  "short": "GIC, Singapore's state fund, bought a minority stake in Quest Global in 2016; its size is not published.",
+  "source": {
+    "name": "Quest Global: Global Investors Acquire Minority Stake in Quest Global",
+    "date": "2016-02-18",
+    "url": "https://www.questglobal.com/news/press-releases/leading-global-investors-become-minority-stake-holders-in-quest-global/",
+    "quote": "Leading global investors Bain Capital, GIC and Advent International have invested a total of approximately US $350 million to purchase minority stakes in Quest Global",
+    "checked": {
+      "on": "2026-09-29",
+      "by": "Schnitzel"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Business Standard: ChrysCapital, True North Managers and others invest $150 mn in QuEST Global",
+      "date": "2021-08-23",
+      "url": "https://www.business-standard.com/article/companies/chryscapital-true-north-managers-and-others-invest-150-mn-in-quest-global-121082300386_1.html",
+      "quote": "The existing investors - Bain Capital, Advent, and GIC, continue to remain invested.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    {
+      "name": "Nikkei Asia (DealStreetAsia): Carlyle buys stake in Singapore's Quest Global as Bain, Advent exit",
+      "date": "2023-08-09",
+      "url": "https://asia.nikkei.com/spotlight/dealstreetasia/carlyle-buys-stake-in-singapore-s-quest-global-as-bain-advent-exit",
+      "quote": "Quest Global's investors include Singapore's sovereign wealth fund GIC and True North.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    }
+  ],
+  "reviewed": false
+}

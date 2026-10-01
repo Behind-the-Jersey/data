@@ -1,0 +1,21 @@
+{
+  "id": "kyeryong-largest-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "kyeryong-construction-co"
+  ],
+  "text": "Kyeryong Construction Industrial Co., Ltd. (계룡건설산업) is listed on the KOSPI market. Its large-shareholding report of 5 June 2026 (published by DigitalToday) names chairman Lee Seung-chan (이승찬) as the largest shareholder with 2,069,144 shares (23.17%), or 38.49% including related parties (relatives and the Kyeryong Scholarship Foundation).",
+  "short": "KOSPI-listed; chairman Lee Seung-chan is the largest shareholder (38.49% with related parties).",
+  "source": {
+    "name": "디지털투데이 (DigitalToday): 계룡건설산업 최대주주 이승찬, 계룡건설산업 주식등의 수 1만8600주 감소…총 지분율 38.49%",
+    "date": "2026-06-05",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672418",
+    "note": "The article reproduces the company's large-shareholding report (주식등의대량보유상황보고서) filed to the Financial Services Commission and the Korea Exchange, including the related-party list.",
+    "quote": "이승찬 회장은 계룡건설산업의 최대주주로, 이번 보고서에서 주식등의 수를 1만8600주 줄였다고 보고했다. 보유 비율은 38.49%로 나타났다.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

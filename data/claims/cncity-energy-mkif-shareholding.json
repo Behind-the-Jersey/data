@@ -1,0 +1,20 @@
+{
+  "id": "cncity-energy-mkif-shareholding",
+  "kind": "ownership",
+  "ownerIds": [
+    "cncity-energy-co"
+  ],
+  "text": "Macquarie Korea Infrastructure Fund (MKIF, a listed Korean infrastructure fund) says it agreed on 2 June 2023 to acquire a 48% stake in CNCITY Energy Co., Ltd. (씨엔씨티에너지), a Daejeon city-gas retailer founded in 1985, and after financial close 'MKIF는 씨엔씨티에너지(주)의 48% 주주이고' — MKIF is a 48% shareholder of CNCITY Energy, with a total investment of about 183.2 billion won.",
+  "short": "Macquarie Korea Infrastructure Fund (MKIF) holds 48% of CNCITY Energy.",
+  "source": {
+    "name": "MKIF (Macquarie Korea Infrastructure Fund): 씨엔씨티에너지(주) asset page",
+    "date": "2026-06-30",
+    "url": "https://www.mkif.com/ko/assets/cncity-energy-co-ltd.html",
+    "quote": "금융 종결 후 MKIF는 씨엔씨티에너지(주)의 48% 주주이고",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

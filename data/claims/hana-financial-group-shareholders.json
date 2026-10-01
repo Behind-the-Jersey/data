@@ -1,0 +1,21 @@
+{
+  "id": "hana-financial-group-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "hana-financial-group"
+  ],
+  "text": "Hana Financial Group's governance page lists its shareholders holding 1% or more of the common stock as of 31 March 2026. The largest is Korea's National Pension Service (국민연금공단) with 8.69%, then BlackRock Fund Advisors (7.11%) and Capital Research and Management Company (5.55%); all other listed holders are below 4%.",
+  "short": "Hana Financial Group's largest holder is South Korea's National Pension Service at 8.69% (31 March 2026).",
+  "source": {
+    "name": "Hana Financial Group: 주주구성 (Shareholder composition)",
+    "date": "2026-03-31",
+    "url": "https://www.hanafn.com/governance/shareholder/composition.do",
+    "note": "The table heads the section '1%이상 주주 현황 2026년 03월 31일 기준' (shareholders at 1% or more, as of 31 March 2026).",
+    "quote": "국민연금공단 24,195,963 8.69%",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "mubadala-abu-dhabi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mubadala"
+  ],
+  "text": "Mubadala Investment Company is a state-owned enterprise wholly owned by the Government of Abu Dhabi; its own site describes the government of Abu Dhabi as its sole shareholder.",
+  "short": "Wholly owned by the Government of Abu Dhabi",
+  "source": {
+    "name": "Mubadala: Board of Directors (Shareholder Support)",
+    "date": "2026",
+    "url": "https://www.mubadala.com/en/who-we-are/board-of-directors",
+    "quote": "Mubadala benefits from the long-term support of its sole shareholder, the government of Abu Dhabi.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SEC Schedule 13D filed by Mubadala Investment Company PJSC (Item 2, Recursion Pharmaceuticals)",
+      "date": "2021-04-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/1601830/000138713121004924/mubadala-sc13d_042621.htm",
+      "quote": "which is wholly owned by Mubadala, which is wholly owned by the Government of Abu Dhabi.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

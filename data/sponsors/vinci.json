@@ -1,11 +1,14 @@
 {
   "id": "vinci",
   "name": "Vinci",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "vinci-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Vinci SA. Nothing found.",
+  "claimIds": [
+    "vinci-sa-ownership"
+  ],
+  "aliases": [],
+  "note": "Rating note: Vinci SA is the listed French concession and construction group itself; its shareholder page lists individual shareholders (11.6%), employees and about 1,000 institutional investors, and no state or state fund appears among its disclosed shareholders, so proposed none."
 }

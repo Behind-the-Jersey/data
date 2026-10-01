@@ -1,0 +1,32 @@
+{
+  "id": "man",
+  "name": "MAN",
+  "ownerId": "man-truck-bus-se",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "MAN Truck & Bus is a company of the TRATON GROUP; Volkswagen Group holds 87.52% of TRATON SE, and Qatar Holding LLC — a wholly-owned subsidiary of Qatar's sovereign wealth fund — holds 10.4% of Volkswagen AG's subscribed capital (17.0% of voting rights).",
+  "claimIds": [
+    "qatar-migrant-worker-abuse-2025",
+    "man-traton-vw-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
+  ],
+  "aliases": [
+    "MAN Truck & Bus"
+  ],
+  "why": {
+    "text": "MAN Truck & Bus is a company of the TRATON GROUP, and Volkswagen International Luxemburg S.A. — a Volkswagen Group company — holds 87.52% of TRATON SE's share capital. Qatar Holding LLC, the investment arm of Qatar's sovereign wealth fund, the Qatar Investment Authority, holds 10.4% of Volkswagen's subscribed capital and 17.0% of its voting rights, making it the third-largest shareholder. That stake clears the 5% METHOD.md threshold, so the Qatari state's money is behind MAN. Amnesty International and Human Rights Watch both report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "man-traton-vw-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International reports that migrant workers in Qatar continued to face labour abuses, including an exploitative kafala sponsorship system, despite recent legal reforms.",
+    "status": "draft"
+  },
+  "note": "Rating note: propose 'concern'. The link: MAN Truck & Bus is a company of TRATON GROUP per MAN's own site (claim man-traton-vw-ownership); TRATON SE's 2025 annual report names Volkswagen International Luxemburg S.A. as its largest single shareholder with 87.52% (same claim, second source); Volkswagen AG's Annual Report 2025 shows Qatar Holding LLC with 10.4% of subscribed capital and 17.0% of voting rights (existing claim qatar-holding-vw-stake), with Qatar Holding LLC a wholly-owned QIA subsidiary and QIA the sovereign wealth fund of the State of Qatar (existing claims qatar-holding-qia-ownership, qia-government-of-qatar-ownership). The record: Amnesty International's Qatar 2025 country entry and HRW's World Report 2026 Qatar chapter (existing claim qatar-migrant-worker-abuse-2025). Same chain and same judgement as skoda (issue #653): Qatar's stake sits two levels above MAN and is ~10.4% — a genuine link, not control — so 'concern' rather than 'serious'; a maintainer decides. ON HOLD pending maintainer review."
+}

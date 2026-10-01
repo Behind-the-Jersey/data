@@ -1,0 +1,33 @@
+{
+  "id": "dewa-government-of-dubai-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dewa",
+    "government-of-dubai"
+  ],
+  "text": "When Dubai Electricity and Water Authority (DEWA) listed on the Dubai Financial Market in April 2022, selling 18% of its share capital, the Government of Dubai continued to own 82%.",
+  "short": "The Government of Dubai owns 82% of DEWA.",
+  "source": {
+    "name": "The National: 'IPO of Dubai's Dewa set to raise $6.1bn in second largest ever listing in Middle East'",
+    "date": "2022-04-06",
+    "url": "https://www.thenationalnews.com/business/markets/2022/04/06/ipo-of-dubais-dewa-set-to-raise-61bn-in-second-largest-ever-listing-in-middle-east",
+    "quote": "Following completion of the IPO, the Dubai Government will continue to own 82 per cent of Dewa's share capital.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Dubai One (Dubai Media Incorporated, carrying WAM): 'DEWA Starts Trading on Dubai Financial Market'",
+      "date": "2022-04-12",
+      "url": "https://www.dubaione.ae/content/dubaione/en-ae/programs/181/DEWAonDFM.html",
+      "quote": "The Government of Dubai continues to own 82 percent of DEWA's share capital.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

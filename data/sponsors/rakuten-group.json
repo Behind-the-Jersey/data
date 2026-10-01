@@ -1,12 +1,16 @@
 {
   "id": "rakuten-group",
   "name": "Rakuten Group, Inc.",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  "ownerId": "rakuten-group-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Rakuten Group, Inc., a Tokyo-listed internet conglomerate with dispersed ownership. Nothing found.",
+  "claimIds": [
+    "rakuten-group-shareholders"
+  ],
+  "aliases": [
+    "楽天グループ株式会社"
+  ],
+  "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: largest holders are trust banks, the Mikitani family's Crimson Group and founder Hiroshi Mikitani; JAPAN POST HOLDINGS holds 6.04% but the Japanese government's residual stake in Japan Post Holdings keeps any indirect state holding in Rakuten Group below 5% and there is no control or board seat."
 }

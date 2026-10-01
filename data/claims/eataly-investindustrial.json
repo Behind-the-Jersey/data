@@ -1,0 +1,33 @@
+{
+  "id": "eataly-investindustrial",
+  "kind": "ownership",
+  "ownerIds": [
+    "eataly-spa",
+    "investindustrial"
+  ],
+  "text": "In September 2022 an investment company of Investindustrial VII L.P. and Eataly S.p.A. signed an agreement under which, at closing, Investindustrial holds 52% of Eataly and the existing shareholders Eatinvest (Farinetti family), the Baffigo/Miroglio family and Clubitaly (Tamburi Investment Partners) own the remaining 48%.",
+  "short": "Investindustrial holds 52% of Eataly under its 2022 investment agreement.",
+  "source": {
+    "name": "Investindustrial: Investindustrial invests in Eataly, a global Italian heritage restaurant and food retail group, to strengthen international expansion",
+    "date": "2022-09-21",
+    "url": "https://www.investindustrial.com/dam/Investindustrial/web/news/Investindustrial-invests-in-Eataly1/Investindustrial%20invests%20in%20Eataly.pdf",
+    "quote": "at closing, Investindustrial will hold 52% of the Company, with the existing shareholders Eatinvest (Farinetti family), the Baffigo / Miroglio family and Clubitaly (Tamburi Investment Partners) owning the remaining 48% of the Company",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Cozen O’Connor: Investindustrial’s Agreement to Purchase Majority Stake of Eataly S.p.A",
+      "date": "2022-10-17",
+      "url": "https://www.cozen.com/news-resources/news/2022/investindustrial-s-agreement-to-purchase-majority-stake-of-eataly-s-p-a-",
+      "quote": "will result in the fund owning 52% of Eataly.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ]
+}

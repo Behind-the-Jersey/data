@@ -1,0 +1,21 @@
+{
+  "id": "fiji-airways-fiji-government-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-fiji"
+  ],
+  "text": "The Fijian Government holds 51 percent of the shares in Fiji Airways, ahead of the Fiji National Provident Fund, which bought 30.02 percent in July 2022 and became the second largest shareholder.",
+  "short": "The Fijian government owns 51% of Fiji Airways.",
+  "source": {
+    "name": "fijivillage: FNPF and Unit Trust now new shareholders in Fiji Airways",
+    "date": "2022-07-08",
+    "url": "https://www.fijivillage.com/news/-FNPF-and-Unit-Trust-now-new-shareholders-in-Fiji-Airways-r548xf",
+    "quote": "Fiji National Provident Fund is now the second largest shareholder, holding 30.02 percent of shares in Fiji Airways after the Fijian Government which holds 51 percent of shares",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "The statement is attributed to Fiji Airways Managing Director and CEO Andre Viljoen. The same article reports the earlier 74.56% figure stated in parliament in October 2021 and questions about the transaction from opposition parties; 51% is the figure given by the airline's CEO in July 2022."
+  },
+  "reviewed": false
+}

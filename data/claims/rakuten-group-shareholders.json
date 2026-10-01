@@ -1,0 +1,20 @@
+{
+  "id": "rakuten-group-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "rakuten-group-inc"
+  ],
+  "text": "Rakuten Group, Inc.'s main shareholders as of 31 December 2025 were The Master Trust Bank of Japan, Ltd. (Trust Account, 10.84%), Crimson Group, LLC. (10.43%), Hiroshi Mikitani (8.14%), JAPAN POST HOLDINGS Co., Ltd. (6.04%) and Haruko Mikitani (5.19%); no state or sovereign shareholder is listed as controlling the company.",
+  "short": "Rakuten Group's top holders are trust banks and founder-linked entities; no state control.",
+  "source": {
+    "name": "Rakuten Group, Inc.: State of Stock and Shareholders (as of December 31, 2025)",
+    "date": "2025-12-31",
+    "url": "https://global.rakuten.com/corp/investors/stock/overview.html",
+    "quote": "Crimson Group, LLC. 226,419,000 10.43 Hiroshi Mikitani 176,703,400 8.14",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

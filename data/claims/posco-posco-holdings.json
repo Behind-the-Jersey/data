@@ -1,0 +1,34 @@
+{
+  "id": "posco-posco-holdings",
+  "kind": "ownership",
+  "ownerIds": [
+    "posco-co",
+    "posco-holdings"
+  ],
+  "text": "The steel business company created in POSCO's 2022 group split runs steel production and sales as a non-listed company that is a 100% subsidiary of POSCO Holdings, and keeps the name POSCO.",
+  "short": "POSCO (the steel company) is a 100% subsidiary of POSCO Holdings.",
+  "source": {
+    "name": "POSCO Group Newsroom: POSCO Confirms Conversion to Holding Company Structure",
+    "date": "2022-02-11",
+    "url": "https://newsroom.posco.com/en/posco-confirms-conversion-to-holding-company-structure/",
+    "quote": "a non-listed company that is a 100% subsidiary of the holding company, and retain the company name POSCO",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "POSCO HOLDINGS INC. (Formerly, POSCO) and Subsidiaries: Consolidated Financial Statements, December 31, 2021 and 2020 (Form 6-K exhibit 99.1, SEC EDGAR)",
+      "date": "2022-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/889132/000119312522076916/d281877dex991.htm",
+      "quote": "Upon completion of the spin-off, the surviving company was renamed as POSCO HOLDINGS INC., and a new subsidiary, POSCO, was established.",
+      "note": "Independent auditors' report (emphasis of matter on the spin-off of 1 March 2022).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
+}

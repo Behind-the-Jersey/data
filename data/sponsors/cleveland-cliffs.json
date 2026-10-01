@@ -1,12 +1,14 @@
 {
   "id": "cleveland-cliffs",
   "name": "Cleveland-Cliffs",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "cleveland-cliffs-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "cleveland-cliffs-ownership"
+  ],
   "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Ownership traced 2026-10-01 from SEC filings: NYSE-listed (Form 10-K FY2025); the only holder above five percent named in the 2026 proxy statement is BlackRock, Inc. at 7.73%. Tier proposal: none (see pull request)."
 }
