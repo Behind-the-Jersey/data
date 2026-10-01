@@ -4,40 +4,37 @@
     {
       "type": "email",
       "value": "Webmaster@Bengals.nfl.net",
+      "label": "General inquiries",
       "source": {
-        "name": "Club website contact page",
+        "name": "Cincinnati Bengals: Contact Us (club website)",
         "url": "https://www.bengals.com/fans/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "GENERAL INQUIRIES Webmaster@Bengals.nfl.net 1 Paycor Stadium | Cincinnati, Ohio 45202",
+        "checked": {"on": "2026-10-01", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"}
       }
     },
     {
       "type": "contact-form",
       "value": "https://www.bengals.com/fans/contact",
-      "label": "Contact form",
+      "label": "Contact page",
       "source": {
-        "name": "Club website contact page",
+        "name": "Cincinnati Bengals: Contact Us (club website)",
         "url": "https://www.bengals.com/fans/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "GENERAL INQUIRIES Webmaster@Bengals.nfl.net 1 Paycor Stadium | Cincinnati, Ohio 45202",
+        "checked": {"on": "2026-10-01", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"}
       }
     },
     {
       "type": "x",
-      "value": "@GeoffHobsonCin",
+      "value": "@Bengals",
+      "label": "Official club account on X",
       "source": {
-        "name": "Club website contact page",
+        "name": "Cincinnati Bengals club website (footer X link)",
         "url": "https://www.bengals.com/",
-        "date": "2026-09-24"
-      }
-    },
-    {
-      "type": "instagram",
-      "value": "@bengals",
-      "source": {
-        "name": "Club website contact page",
-        "url": "https://www.bengals.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01"
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
