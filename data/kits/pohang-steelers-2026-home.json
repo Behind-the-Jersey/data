@@ -1,0 +1,92 @@
+{
+  "id": "pohang-steelers-2026-home",
+  "clubId": "pohang-steelers",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "posco",
+      "placement": "front",
+      "source": {
+        "name": "포항 스틸러스 공식쇼핑몰: 2026 스틸러스 홈 유니폼",
+        "date": "2026",
+        "url": "https://fcphshop.com/goods/goods_view.php?goodsNo=1000000472",
+        "note": "Front (main chest): POSCO. The product's uniform-shot images show the chest block 'posco' over 'FANTASTEEL' (POSCO's ad campaign) over '환동해중심 포항'; the same block is on the players' chests in the K League's 2026-02-10 kit-launch photo ('FC POHANG STEELERS 2026 League Kits', https://www.kleague.com/news_view.do?seq=94323&orderBy=seq). The placement is in the pages' images, not in their text.",
+        "quote": "2026 스틸러스 홈 유니폼",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "woori-bank",
+      "placement": "back",
+      "source": {
+        "name": "포항 스틸러스 공식쇼핑몰: 2026 스틸러스 홈 유니폼",
+        "date": "2026",
+        "url": "https://fcphshop.com/goods/goods_view.php?goodsNo=1000000472",
+        "note": "Back (above the number): Woori Bank. The product's full-marking render and its on-pitch player photo show '우리은행' (Woori Bank) above the player's name and number. The placement is in the pages' images, not in their text.",
+        "quote": "2026 스틸러스 홈 유니폼",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "woori-bank",
+      "placement": "sleeve",
+      "source": {
+        "name": "K League: [포항] '전통과 정체성 표현'…포항스틸러스 2026시즌 유니폼 공개 [Pohang Steelers unveil 2026 kits]",
+        "date": "2026-02-10",
+        "url": "https://www.kleague.com/news_view.do?seq=94323&orderBy=seq",
+        "note": "Right sleeve (sponsor patch): Woori Bank's new '우리은행 WON' (Woori Bank WON) patch. The club store's '2026 리그 패치 SET' product image shows the patch set contains the WON mark.",
+        "quote": "오른쪽 소매에는 후원사 우리은행의",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pohang-city-promotion",
+      "placement": "sleeve",
+      "source": {
+        "name": "K League: [포항] '전통과 정체성 표현'…포항스틸러스 2026시즌 유니폼 공개 [Pohang Steelers unveil 2026 kits]",
+        "date": "2026-02-10",
+        "url": "https://www.kleague.com/news_view.do?seq=94323&orderBy=seq",
+        "note": "Right sleeve: Pohang city patch ('포항시 패치', the hometown patch) together with the sponsor patch. The club store's '2026 리그 패치 SET' product image shows the POHANG hometown patch alongside the WON sponsor patch.",
+        "quote": "신규 패치와 포항시 패치가 함께 부착된다",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "K League: [포항] '전통과 정체성 표현'…포항스틸러스 2026시즌 유니폼 공개 [Pohang Steelers unveil 2026 kits]",
+        "date": "2026-02-10",
+        "url": "https://www.kleague.com/news_view.do?seq=94323&orderBy=seq",
+        "note": "Kit supplier: the 2026 home, away and goalkeeper kits were made with kit supplier PUMA; the club store's product page names Puma Korea as the maker (제조사 푸마코리아).",
+        "quote": "용품 후원사 ‘푸마(PUMA)’와 함께 구단의 전통성과 정체성을 담아 제작했다",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "change": null,
+  "summary": "Pohang Steelers 2026 home shirt (PUMA): posco over FANTASTEEL (POSCO's ad campaign) across the main chest with '환동해중심 포항' underneath, PUMA at the right chest and the club crest at the left; '우리은행' (Woori Bank) above the back number; the right sleeve carries Woori Bank's new '우리은행 WON' sponsor patch together with Pohang City's hometown patch; the left sleeve carries the 2026 Hana Bank K League 1 patch — a league patch, not a club sponsor. The list is complete: the K League's kit-launch article (2026-02-10) enumerates the shirt's distinguishing marks (chest design, STEELERS at the top of the back, right-sleeve sponsor and city patches), the club store's 2026 home-shirt product renders show the posco/FANTASTEEL front block and the Woori Bank back mark, and its '2026 리그 패치 SET' product shows the patch set is exactly the WON sponsor patch, the hometown patch and the league patch. The store sells the shirt only; shorts are not part of the product and carry no commercial marks in any image reviewed.",
+  "headline": "POSCO pays for the front of Pohang Steelers' shirt",
+  "shortLine": "POSCO front, Woori Bank back and sleeve, Puma supplier"
+}

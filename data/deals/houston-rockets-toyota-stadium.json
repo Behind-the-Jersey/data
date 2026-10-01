@@ -4,13 +4,25 @@
   "orgName": "Toyota",
   "sponsorId": "toyota",
   "placement": "stadium",
-  "from": "2026",
+  "from": "2003",
   "to": null,
-  "value": null,
+  "value": {
+    "amount": 7,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 7
+  },
   "source": {
     "name": "Sports Business Journal",
     "date": "2025-05-12",
-    "url": "https://www.sportsbusinessjournal.com/Articles/2025/05/12/report-rockets-toyota-sign-five-year-arena-naming-rights-extension/"
+    "url": "https://www.sportsbusinessjournal.com/Articles/2025/05/12/report-rockets-toyota-sign-five-year-arena-naming-rights-extension/",
+    "quote": "The Rockets and Toyota signed a five-year “extension of their naming rights deal for the team’s downtown Houston arena”",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Toyota Center."
+  "note": "Arena naming rights: Toyota Center. Original 20-year, $100M deal signed 2003; five-year extension reported May 2025, estimated at $7M or more annually."
 }
