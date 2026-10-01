@@ -1,0 +1,43 @@
+{
+  "id": "superbet-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "superbet-owner"
+  ],
+  "text": "Superbet Group is a private gambling company founded in 2008 by Sacha Dragic, its chief executive, who returned to sole leadership of the Group in 2026. In May 2019 funds managed or advised by Blackstone's Tactical Opportunities business made a €175m strategic minority equity investment in Superbet; in February 2025 that Blackstone strategic investment was refinanced with HPS Investment Partners.",
+  "short": "Superbet is private: founded and led by Sacha Dragic, with a Blackstone minority stake since 2019.",
+  "source": {
+    "name": "Blackstone press release: Superbet Announces €175m Strategic Minority Equity Investment from Blackstone",
+    "date": "2019-05-08",
+    "url": "https://www.blackstone.com/news/press/superbet-announces-175m-strategic-minority-equity-investment-from-blackstone/",
+    "quote": "announce a €175m strategic minority equity investment in Superbet by funds managed or advised by Blackstone's Tactical Opportunities business",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The same release's About Superbet section reads: 'Founded in 2008 by CEO Sacha Dragic'."
+  },
+  "additionalSources": [
+    {
+      "name": "Simpson Thacher: Blackstone Signs €1.3 Billion Refinancing of Superbet Group",
+      "date": "2025-02-11",
+      "url": "https://www.stblaw.com/about-us/news/view/2025/02/11/blackstone-signs-1.3-billion-refinancing-of-superbet-group",
+      "quote": "funds managed by Blackstone Tactical Opportunities with the announced €1.3 billion refinancing of their existing strategic investment in Superbet Group",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "iGaming Business: Superbet founder Dragic to become sole CEO in management reshuffle",
+      "date": "2025-10-31",
+      "url": "https://igamingbusiness.com/people/people-moves/superbet-dragic-sole-ceo-management-reshuffle/",
+      "quote": "with Sacha Dragic to become sole CEO of the online gambling operator. Dragic founded the company",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

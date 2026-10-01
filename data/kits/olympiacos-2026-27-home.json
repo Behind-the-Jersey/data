@@ -15,11 +15,31 @@
         "name": "Sport24, 'Superbet kai Olympiakos mazi mechri to 2032' (Superbet and Olympiacos together until 2032)",
         "date": "2026-07-03",
         "url": "https://www.sport24.gr/basket/superbet-kai-olimpiakos-mazi-mexri-to-2032/",
-        "note": "Superbet is the 'Great Sponsor' until 2032; deal reportedly worth EUR 55m including bonuses"
+        "quote": "η οποία θα αποτελέσει τον Μεγάλο Χορηγό της ομάδας έως το 2032",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Sport24 publishes the club's announcement: Superbet will be the 'Great Sponsor' (Μεγάλο Χορηγό) until 2032; deal reportedly worth EUR 55m including bonuses. News24/7 (8 July 2026, olympiacos-i-nea-fanela-...-superbet) says the new 2026-27 kit carries the Superbet logo on the front of the jersey; the club store's photos of the 26/27 home jersey show SUPERBET across the chest."
+      }
+    },
+    {
+      "sponsorId": "arrena",
+      "placement": "patch",
+      "source": {
+        "name": "Gazzetta: Το ιδιαίτερο σημείο που μπήκε η χορηγία του ΑρρένΑ στην φανέλα του Ολυμπιακού (The particular spot where ArrenA's sponsorship goes on Olympiacos' jersey)",
+        "date": "2025-07-09",
+        "url": "https://www.gazzetta.gr/basketball/basket-league/2457731/idiaitero-simeio-poy-mpike-i-horigia-toy-arrena-stin-fanela-toy",
+        "quote": "το λογότυπο της εταιρίας σας, της ΑρρένΑ θα βρίσκεται στην φανέλα της αγαπημένης σας ομάδας, κάτω από τον δαφνοστεφανομένο έφηβο",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Translation: 'your company's logo, ArrenA, will be on your favourite team's jersey, under the laurelled youth (the club crest).' Three-year deal presented 9 July 2025, so covering 2026-27. The club store's home-jersey photos (olympiacosbc.shop, August 2026) show the small 'ArrènA Natural Mineral Water' logo on the upper right chest, next to the crest."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Superbet front-of-shirt from 2026, deal to 2032.",
+  "sponsorsComplete": true,
+  "summary": "Superbet across the front (first season, deal to 2032) and Tsakos-family water brand Arrena as a small chest logo. Official club store photos show the back printing 'PIRAEUS' and the shorts carrying only the club crest, so the list is complete.",
   "change": null
 }
