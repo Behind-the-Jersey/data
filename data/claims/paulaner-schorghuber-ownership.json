@@ -1,0 +1,20 @@
+{
+  "id": "paulaner-schorghuber-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "schorghuber-unternehmensgruppe"
+  ],
+  "text": "In 1979 the Schörghuber family took over the majority of Paulaner Brewery and maintains that majority to this day.",
+  "short": "Paulaner is majority-owned by the Schörghuber family.",
+  "source": {
+    "name": "Paulaner – Company history",
+    "date": "2026-10-01",
+    "url": "https://www.paulaner.com/en/company/",
+    "quote": "Schörghuber family takes over the majority of Paulaner Brewery and the entrepreneurial family maintains that majority to this day",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
