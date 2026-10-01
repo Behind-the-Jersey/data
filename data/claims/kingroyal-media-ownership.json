@@ -1,0 +1,31 @@
+{
+  "id": "kingroyal-media-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kingroyal-media-ltd"
+  ],
+  "text": "The Kingroyal Media website says Kingroyal Media is operated by Kingroyal Media Company LTD, based in Cyprus; its terms and conditions name 'Kingroyal Media Company LTD, Cyprus' as the company behind the site.",
+  "source": {
+    "name": "Kingroyal Media: About Us",
+    "date": "2026",
+    "url": "https://kingroyal.media/about-us/",
+    "quote": "Kingroyal Media is operated by Kingroyal Media Company LTD, based in Cyprus",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Kingroyal Media: Terms and Conditions",
+      "date": "2026",
+      "url": "https://kingroyal.media/terms-and-conditions/",
+      "quote": "Company (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to Kingroyal Media Company LTD, Cyprus.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
