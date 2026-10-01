@@ -1,0 +1,32 @@
+{
+  "id": "autogestio-sanitaria-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "autogestio-sanitaria"
+  ],
+  "text": "Autogestió Sanitària, a cooperative founded by the doctors and dentists of the Col·legi de Metges de Barcelona (Barcelona Medical Association), holds 78% of the health insurer Assistència Sanitària.",
+  "source": {
+    "name": "Crónica Global: Assistència Sanitària ingressa 238 milions d'euros i guanya 7,8 milions",
+    "date": "2026-09-09",
+    "url": "https://www.cronicaglobal.cat/business/confident-vip/20260909/assistencia-sanitaria-ingressa-milions-deuros-guanya/1003742792850_0.html",
+    "quote": "El 1978 el gruix del capital va passar a la cooperativa Autogestió Sanitària, fundada pels metges i odontòlegs del Col·legi. Avui aquesta entitat posseeix el 78% d'Assistència Sanitària.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Fundació Espriu: La nostra història",
+      "date": "2026",
+      "url": "https://www.fundacionespriu.coop/ca/qui-som/la-nostra-historia",
+      "quote": "Es crea la cooperativa Autogestió Sanitària, de la qual són socis els metges propietaris d'Assistència Sanitària.",
+      "note": "Page undated; the timeline places Autogestió Sanitària's creation in 1978.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
