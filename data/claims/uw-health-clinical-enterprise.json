@@ -1,0 +1,21 @@
+{
+  "id": "uw-health-clinical-enterprise",
+  "kind": "ownership",
+  "ownerIds": [
+    "uw-health-owner"
+  ],
+  "text": "UW Health is the combined clinical enterprise of the University of Wisconsin Hospitals and Clinics Authority (UWHCA), University of Wisconsin Medical Foundation, Inc., and their respective or jointly wholly-owned subsidiaries.",
+  "short": "UW Health is the combined clinical enterprise of UWHCA and UW Medical Foundation",
+  "source": {
+    "name": "UWHCA Board of Directors Policy Manual (UW Health)",
+    "date": "2021-09",
+    "url": "https://web.archive.org/web/20241229051719id_/https://bynder.uwhealth.org/m/2287d10aeb264e5/original/UWHCA-Board-of-Directors-Policy-Manual.pdf",
+    "note": "Live document: https://bynder.uwhealth.org/m/2287d10aeb264e5/original/UWHCA-Board-of-Directors-Policy-Manual.pdf (linked from uwhealth.org/about-us/uw-health-corporate-governance); read via the Wayback Machine.",
+    "quote": "“UW Health” means the combined clinical enterprise of UWHCA, University of Wisconsin Medical Foundation, Inc., and their respective or jointly wholly-owned subsidiaries.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
