@@ -1,14 +1,16 @@
 {
   "id": "wtw",
   "name": "WTW",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "wtw-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A Nasdaq-listed company whose proxy names only US asset managers above 5% (Vanguard, BlackRock, Massachusetts Financial Services).",
+  "claimIds": [
+    "wtw-5pc-holders"
+  ],
   "aliases": [
     "willis towers watson"
   ],
-  "note": "Listed insurance broker; WSL major partner per wslfootball.com (site blocked verification of details)."
+  "note": "Insurance and advisory group; Netcompany INEOS's exclusive global insurance partner — 'wtw' is on the left sleeve of the 2026 kit."
 }

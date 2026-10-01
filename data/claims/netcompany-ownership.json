@@ -1,0 +1,19 @@
+{
+  "id": "netcompany-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "netcompany-group-a-s"
+  ],
+  "text": "Netcompany says its shareholders holding more than 5% of the shares or voting rights are AC NC Holding ApS — the joint holding company of founders André Rogaczewski and Claus Jørgensen — plus Arbejdsmarkedets Tillægspension and Danske Bank A/S, and that holdings below 5% are anonymous under Danish law.",
+  "source": {
+    "name": "Netcompany investor relations: 'The share — Ownership'",
+    "date": "2026",
+    "url": "https://netcompany.com/investor/the-share/",
+    "quote": "Shareholders holding more than 5% of the shares or voting rights are: AC NC Holding ApS, the joint holding company of André Rogaczewski and Claus Jørgensen. Arbejdsmarkedet Tillægspension Danske Bank A/S",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

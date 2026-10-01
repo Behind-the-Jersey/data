@@ -1,0 +1,19 @@
+{
+  "id": "pinarello-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pinarello-holding"
+  ],
+  "text": "In June 2023 the investment firm L Catterton announced it had sold Pinarello to a private family office, with founder Fausto Pinarello retaining an interest in the company and the role of Chairman.",
+  "source": {
+    "name": "PR Newswire / L Catterton & Pinarello: 'L Catterton Sells its stake in Cicli Pinarello'",
+    "date": "2023-06-30",
+    "url": "https://www.prnewswire.com/news-releases/l-catterton-sells-its-stake-in-cicli-pinarello-301867973.html",
+    "quote": "it has sold Pinarello, an iconic Italian cycling brand synonymous with world-class performance, luxury, elite racing, and speed, to a private family office",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

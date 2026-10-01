@@ -1,12 +1,16 @@
 {
   "id": "ineos",
   "name": "INEOS",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "UK petrochemicals group owned by Jim Ratcliffe."
+  "ownerId": "ineos-group-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The brand of INEOS Group, privately owned by founder Sir Jim Ratcliffe and co-owners Andy Currie and John Reece.",
+  "claimIds": [
+    "ineos-group-limited-record"
+  ],
+  "aliases": [
+    "INEOS Grenadier"
+  ],
+  "note": "UK chemicals and energy group. INEOS has owned the team outright since 2019 (Tour Racing Limited); co-title sponsor of Netcompany INEOS, with INEOS on the chest, back, sleeves and shorts of the 2026 kit and 'GRENADIER' (the INEOS Grenadier 4x4 brand) on the leg hems."
 }
