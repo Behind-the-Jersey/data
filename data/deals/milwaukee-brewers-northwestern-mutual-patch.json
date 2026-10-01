@@ -4,13 +4,18 @@
   "orgName": "Northwestern Mutual",
   "sponsorId": "northwestern-mutual",
   "placement": "patch",
-  "from": "2024",
+  "from": "2023",
   "to": null,
   "value": null,
   "source": {
-    "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
-    "date": "2026-04-20",
-    "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+    "name": "Northwestern Mutual news release: Northwestern Mutual Becomes Official Financial Planning Partner of the Milwaukee Brewers",
+    "date": "2023-09-15",
+    "url": "https://news.northwesternmutual.com/2023-09-15-Northwestern-Mutual-Becomes-Official-Financial-Planning-Partner-of-the-Milwaukee-Brewers-TM",
+    "quote": "Fans will see the custom Northwestern Mutual branded patch debut on the sleeve of authentic Brewers player jerseys during tonight's home game",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch; announced 2023-09-15, debuted that night. No deal value publicly reported."
 }

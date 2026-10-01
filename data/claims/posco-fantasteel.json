@@ -1,0 +1,33 @@
+{
+  "id": "posco-fantasteel",
+  "kind": "ownership",
+  "ownerIds": [
+    "posco-co"
+  ],
+  "text": "FANTASTEEL is POSCO's advertising campaign; Posco produced it with Nexon in celebration of the 50th anniversary of its first steel mill, and it won the Grand Prix at the 2023 Korea Digital Advertising Festival.",
+  "short": "FANTASTEEL is POSCO's brand campaign.",
+  "source": {
+    "name": "The Korea Herald: Posco's 'Fantasteel' ad campaign nabs awards",
+    "date": "2023-12-25",
+    "url": "https://www.koreaherald.com/article/3289670",
+    "quote": "In celebration, the company joined hands with gaming giant Nexon to produce the \"Fantasteel\" campaign",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "POSCO and Nexon Collaboration Video... 1.1 Million Views in Two Days - The Asia Business Daily",
+      "date": "2023-08-16",
+      "url": "https://www.asiae.co.kr/en/article/2023081610074551402",
+      "quote": "POSCO teamed up with game company Nexon to launch an online advertisement video targeting the younger generation.",
+      "note": "The same article: 'The advertisement slogan \"Fantasteel\" is a compound word combining fantasy and steel.'",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
+}
