@@ -4,21 +4,33 @@
     {
       "type": "email",
       "value": "memberships@suns.com",
+      "label": "Ticket memberships",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.nba.com/suns/",
-        "date": "2026-09-24"
+        "name": "Phoenix Suns: Contact",
+        "url": "https://www.nba.com/suns/contact",
+        "date": "2026-10-01",
+        "quote": "EMAIL: MEMBERSHIPS@SUNS.COM",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "phone",
       "value": "6023792000",
+      "label": "Ticket memberships",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.nba.com/suns/",
-        "date": "2026-09-24"
+        "name": "Phoenix Suns: Contact",
+        "url": "https://www.nba.com/suns/contact",
+        "date": "2026-10-01",
+        "quote": "CALL: 602-379-2000",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
