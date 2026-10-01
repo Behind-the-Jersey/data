@@ -1,0 +1,22 @@
+{
+  "id": "foodbrand-porcu",
+  "kind": "ownership",
+  "ownerIds": [
+    "foodbrand-spa",
+    "giovanni-porcu"
+  ],
+  "text": "Giovanni Porcu is the sole shareholder, president and CEO of the Doppio Malto chain.",
+  "short": "Giovanni Porcu is the sole shareholder, president and CEO of the Doppio Malto chain.",
+  "source": {
+    "name": "Tottus in Pari, 'Ha fondato la catena Doppio Malto: Giovanni Porcu…'",
+    "date": "2023-01-18",
+    "url": "https://www.tottusinpari.it/2023/01/18/ha-fondato-la-catena-doppio-malto-giovanni-porcu-nuorese-di-42-anni-vive-a-milano-e-il-significato-di-leadership/",
+    "quote": "socio unico, presidente e amministratore delegato della catena Doppio Malto",
+    "note": "Italian. 'Socio unico' means sole shareholder.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

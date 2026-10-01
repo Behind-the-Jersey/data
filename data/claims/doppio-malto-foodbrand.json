@@ -1,0 +1,20 @@
+{
+  "id": "doppio-malto-foodbrand",
+  "kind": "ownership",
+  "ownerIds": [
+    "foodbrand-spa"
+  ],
+  "text": "Doppio Malto is a brand of FoodBrand S.p.A.",
+  "short": "Doppio Malto is a brand of FoodBrand S.p.A.",
+  "source": {
+    "name": "Doppio Malto, site footer",
+    "date": "2026",
+    "url": "https://www.doppiomalto.com/news/2024/07/",
+    "quote": "Doppio Malto - FoodBrand S.p.A.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

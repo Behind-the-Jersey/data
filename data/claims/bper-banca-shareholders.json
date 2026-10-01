@@ -1,0 +1,20 @@
+{
+  "id": "bper-banca-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "bper-banca"
+  ],
+  "text": "BPER Banca's shareholders page lists Unipol Assicurazioni S.p.A. as a 19.9% shareholder.",
+  "short": "BPER Banca's shareholders page lists Unipol Assicurazioni S.p.A. as a 19.9% shareholder.",
+  "source": {
+    "name": "BPER Banca, 'Shareholders'",
+    "date": "2026-09-18",
+    "url": "https://group.bper.it/en/investor-relations/shareholders",
+    "quote": "19.9% Unipol Assicurazioni S.p.A.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

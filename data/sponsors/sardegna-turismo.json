@@ -1,14 +1,26 @@
 {
   "id": "sardegna-turismo",
-  "name": "Sardegna Turismo / Doppio Malto",
+  "name": "Sardegna Turismo",
   "ownerId": "regione-autonoma-della-sardegna",
   "ownership": "owned",
   "tier": "unrated",
   "status": "being-rated",
   "verdict": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department….",
   "claimIds": [
-    "regione-autonoma-della-sardegna-record"
+    "regione-autonoma-della-sardegna-record",
+    "italy-migration-abuse-record"
   ],
-  "aliases": [],
-  "note": "Rating note: Sponsor is a hybrid: regional state tourism body plus private brewery, and Cagliari has rotated sponsors (Banco di Sardegna, Moby). Call is driven by the state-side branding; if the exposure is judged to be Doppio Malto alone the tier would drop to 'none'. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs."
+  "aliases": [
+    "Sardegna",
+    "SardegnaTurismo"
+  ],
+  "note": "Proposed rating: serious. The link is the region's tourism department; the record is Italy's migration-control abuses. Needs a maintainer to set the tier and review the why. The Autonomous Region of Sardinia is typed 'state' and linked to the Italian state (italian-republic) as its parent, the state the region belongs to. Doppio Malto was split out into its own record on the 2026-27 kit.",
+  "why": {
+    "text": "The 'Sardegna' front brand is the tourism promotion of the Autonomous Region of Sardinia. The region is a public body of the Italian state, whose migration-control model has unlawfully detained migrants and asylum seekers and obstructed rescues at sea.",
+    "claimIds": [
+      "italy-migration-abuse-record",
+      "regione-autonoma-della-sardegna-record"
+    ],
+    "status": "draft"
+  }
 }

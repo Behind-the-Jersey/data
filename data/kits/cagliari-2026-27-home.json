@@ -3,7 +3,7 @@
   "clubId": "cagliari",
   "season": "2026-27",
   "kitType": "home",
-  "periodLabel": "2026-27",
+  "periodLabel": "2026/27",
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
@@ -11,14 +11,84 @@
     {
       "sponsorId": "sardegna-turismo",
       "placement": "front",
+      "side": "front",
       "source": {
-        "name": "Calcio e Finanza",
+        "name": "Calcio e Finanza, 'I ricavi da sponsor di maglia in Serie A: il Napoli vola al quinto posto, Milan in vetta'",
         "date": "2026-07-07",
-        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/",
+        "quote": "10 – Cagliari – Regione Sardegna e Doppio Malto: 3,6 milioni di euro a stagione",
+        "note": "Italian. The main-sponsor ranking puts the two Cagliari front brands together at EUR 3.6m a season.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "doppio-malto",
+      "placement": "front",
+      "side": "front",
+      "source": {
+        "name": "Sporteconomy, 'Doppio Malto sul fronte maglia del Cagliari calcio nella stagione 2025/26'",
+        "date": "2025-08-01",
+        "url": "https://www.sporteconomy.it/doppio-malto-sul-fronte-maglia-del-cagliari-calcio-nella-stagione-2025-26/",
+        "quote": "Prosegue la partnership di \"Doppio Malto\", a supporto del Cagliari Calcio, come Jersey Sponsor (sul fronte maglia dopo la prima esperienza nel ruolo di back)",
+        "note": "Italian. Four-year deal to 2027/28; front-of-shirt from 2025/26, so still front in 2026/27. The club's own July 2024 announcement ('Partnership with Doppio Malto', 24/07/2024) calls it Jersey Sponsor from 2024/2025.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "banco-di-sardegna",
+      "placement": "back",
+      "side": "back",
+      "source": {
+        "name": "Banco di Sardegna (istituzionale), 'La partnership con il Cagliari Calcio: il Banco di Sardegna e Back Jersey Sponsor'",
+        "date": "2026",
+        "url": "https://istituzionale.bancosardegna.it/sostenibilita/il-nostro-impegno/sport/sponsor-cagliari-calcio",
+        "quote": "Nell'estate 2025 la collaborazione ha compiuto un passo importante: il Banco di Sardegna è diventato Back Jersey Sponsor ufficiale della prima squadra per due stagioni",
+        "note": "Italian. Bank's own page; the logo sits on the back of the match shirts.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "bet365-scores",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "AGIMEG, 'Calcio: Bet365 Scores rafforza la presenza in Serie A, nuovo accordo con il Cagliari…'",
+        "date": "2025-08-22",
+        "url": "https://www.agimeg.it/calcio-bet365-scores-amplia-la-rete-di-sponsorizzazioni-dopo-pisa-torino-udinese-e-napoli-arriva-anche-laccordo-con-il-cagliari-come-nuovo-sleeve-sponsor/",
+        "quote": "Il Cagliari Calcio ha ufficializzato la nuova collaborazione con Bet365 Scores, che sarà sleeve sponsor per la stagione in corso. Il logo della piattaforma comparirà sulla manica della maglia rossoblù",
+        "note": "Italian. The club also lists bet365scores.it among its partners; the kit photos show the 'bet365 Scores' mark on the sleeve.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "eye-sport",
+      "placement": "partner",
+      "source": {
+        "name": "Cagliari Calcio, 'Shapes of Legacy | Home Kit 2026/2027'",
+        "date": "2026-07-25",
+        "url": "https://cagliaricalcio.com/en/news/shapes-of-legacy-home-kit-2026-2027/",
+        "quote": "Cagliari Calcio presents the new 2026/27 Home jersey created by EYE Sport",
+        "note": "Kit maker. The launch says the club crest is on the heart side and the EYE Sport logo opposite, both in silicone.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Sardegna Turismo is the main shirt sponsor; Doppio Malto is the front-of-shirt on the kit (club announcement). Both reported as one front deal."
+  "summary": "EYE Sport home shirt: 'Sardegna' (Regione Sardegna tourism) and Doppio Malto on the front, Banco di Sardegna on the back, bet365 Scores on the sleeve. The club's kit launch names EYE Sport as maker and no other shirt sponsor; the shorts carry only the crest and EYE Sport. Photos of the store jersey (front, back, sleeve detail) checked."
 }

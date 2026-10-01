@@ -1,0 +1,20 @@
+{
+  "id": "banco-di-sardegna-bper",
+  "kind": "ownership",
+  "ownerIds": [
+    "bper-banca"
+  ],
+  "text": "Banco di Sardegna is part of the BPER Banca group.",
+  "short": "Banco di Sardegna is part of the BPER Banca group.",
+  "source": {
+    "name": "Banco di Sardegna (istituzionale), navigation and footer",
+    "date": "2026",
+    "url": "https://istituzionale.bancosardegna.it/sostenibilita/il-nostro-impegno/sport/sponsor-cagliari-calcio",
+    "quote": "Il Banco nel Gruppo BPER Banca",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
