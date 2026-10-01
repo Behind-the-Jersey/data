@@ -1,0 +1,32 @@
+{
+  "id": "acqua-di-gio-armani-beauty-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "armani"
+  ],
+  "text": "Acqua di Giò is a fragrance brand of Giorgio Armani, sold through Armani Beauty.",
+  "source": {
+    "name": "Armani Beauty (armanibeauty.it), Wayback snapshot 8 June 2026",
+    "date": "2026",
+    "url": "https://web.archive.org/web/20260608014451/https://www.armanibeauty.it/",
+    "quote": "con un esclusivo telo mare firmato Armani e l'iconica fragranza Acqua di Giò",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "armanibeauty.it blocks script access (HTTP 403); the brand's own shop describes Acqua di Giò as its iconic fragrance. Undated page; snapshot opened 1 October 2026."
+  },
+  "additionalSources": [
+    {
+      "name": "Fragrantica: Acqua di Giò Parfum Giorgio Armani for men",
+      "date": "2026",
+      "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Parfum-81508.html",
+      "quote": "Acqua di Giò Parfum by Giorgio Armani is a Woody Aquatic fragrance for men.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

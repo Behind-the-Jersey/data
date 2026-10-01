@@ -1,0 +1,20 @@
+{
+  "id": "teamsystem-hellman-friedman-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "hellman-friedman"
+  ],
+  "text": "US private equity firm Hellman & Friedman is TeamSystem's controlling shareholder, holding a 69% stake as of July 2026, per a corporate filing reported by Reuters; it retained control while selling minority stakes to Francisco Partners and KKR in September 2026.",
+  "source": {
+    "name": "Reuters (republished by Global Banking & Finance Review): Francisco Partners, KKR to buy minority stakes in Italy's TeamSystem, sources say",
+    "date": "2026-09-11",
+    "url": "https://www.globalbankingandfinance.com/exclusive-francisco-partners-kkr-buy-minority-stakes-italys/",
+    "quote": "H&F, which first invested in TeamSystem in 2016, held a 69% stake in the company as of July, according to a corporate filing.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Reuters article by Elvira Pollina and Amy-Jo Crowley; reuters.com copy not directly fetchable for scripts, republished here in full. Same article: H&F 'sell a stake of around 10%' to Francisco Partners and ~5% to others including KKR, 'transferring its remaining stake to another fund managed by the private equity firm'."
+  },
+  "reviewed": false
+}
