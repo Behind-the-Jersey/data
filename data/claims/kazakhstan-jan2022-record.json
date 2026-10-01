@@ -1,0 +1,34 @@
+{
+  "id": "kazakhstan-jan2022-record",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-kazakhstan"
+  ],
+  "text": "Human Rights Watch reports that there was minimal accountability for the rights violations committed by Kazakh law enforcement during and immediately after the deadly January 2022 anti-government protests, with only a handful of officials prosecuted for torture and ill-treatment of detainees; Kazakh authorities also routinely violate the rights to peaceful assembly, freedom of expression and freedom of association, and courts have imprisoned government critics and journalists on overbroad extremism and false-information charges.",
+  "short": "Minimal accountability for killings and torture around Kazakhstan's deadly January 2022 protests; critics and journalists imprisoned.",
+  "source": {
+    "name": "Human Rights Watch, World Report 2025: Kazakhstan (events of 2024)",
+    "date": "2025-01",
+    "url": "https://www.hrw.org/world-report/2025/country-chapters/kazakhstan",
+    "quote": "There continued to be minimal accountability for law enforcement officials for rights violations perpetrated during and immediately after deadly 2022 anti-government protests.",
+    "note": "Same chapter: 'A handful of law enforcement officials were prosecuted in 2024 for torture and ill-treatment of detainees'; the keynote opens 'Authorities in Kazakhstan routinely violate the rights to peaceful assembly, freedom of expression, and freedom of association'.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International, Report 2025/26 — Kazakhstan",
+      "date": "2026",
+      "url": "https://www.amnesty.org/en/location/europe-and-central-asia/eastern-europe-and-central-asia/kazakhstan/report-kazakhstan/",
+      "quote": "Impunity persisted for the majority of serious human rights violations committed during the January 2022 protests.",
+      "note": "Same report: at least 39 people imprisoned on politically motivated charges during the year; the OSCE/ODIHR noted a 'stark disparity between the high number of civilian deaths, widespread allegations of torture and ill-treatment and the low number of prosecutions for these killings'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

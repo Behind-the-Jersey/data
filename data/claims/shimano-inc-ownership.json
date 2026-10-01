@@ -1,0 +1,21 @@
+{
+  "id": "shimano-inc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "shimano-inc"
+  ],
+  "text": "Shimano Inc. is a Japanese manufacturer of bicycle components, fishing tackle and rowing equipment, head office in Sakai, Osaka, whose shares are listed on the Prime Market of the Tokyo Stock Exchange.",
+  "short": "Shimano Inc. is listed on the Tokyo Stock Exchange (Prime Market).",
+  "source": {
+    "name": "Shimano Inc. corporate site — Company Profile (archived 2026-06-10)",
+    "date": "2026-06-10",
+    "url": "http://web.archive.org/web/20260610072143/https://www.shimano.com/en/company/profile.html",
+    "quote": "Stock Exchange Listings: The Prime Market of the Tokyo Stock Exchange",
+    "note": "shimano.com blocks scripted access (HTTP 403); the company profile page was opened via the Internet Archive's capture of 10 June 2026.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
