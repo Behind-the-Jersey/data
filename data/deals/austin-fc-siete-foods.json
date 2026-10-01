@@ -1,0 +1,29 @@
+{
+  "id": "austin-fc-siete-foods",
+  "clubId": "austin-fc",
+  "orgName": null,
+  "sponsorId": "siete-foods",
+  "placement": "sleeve",
+  "from": "2025",
+  "to": null,
+  "value": {
+    "amount": 2,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 2
+  },
+  "source": {
+    "name": "Sports Business Journal – 'Siete Foods seizes Austin FC sleeve space following PepsiCo acquisition'",
+    "date": "2025-01-28",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2025/01/28/austin-fc-siete-foods-pepsico/",
+    "short": "SBJ",
+    "quote": "Financial terms of the partnership were not disclosed, but industry sources pegged the value of MLS sleeve sponsorships at $1M-$2M per season.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Siete's logo went on the right sleeve from 2025. The $1M-$2M is SBJ's industry estimate for MLS sleeve deals, not Siete's disclosed terms."
+}
