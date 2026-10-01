@@ -3,12 +3,12 @@
   "name": "LEAG",
   "ownerId": "lausitz-energie-bergbau-ag",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Lausitzer Energieunternehmen. Nichts gefunden.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "leag-ownership"
   ],
   "aliases": [],
-  "note": "Trikotsponsor von Energie Cottbus seit 2023/24. Eigentümerstruktur (EPH) nicht in diesem Durchgang belegt."
+  "note": "Trikotsponsor von Energie Cottbus seit 2023/24. Die Ownership-Claim belegt nur die Lausitz Energie Bergbau AG als AG. Laut leag.de (https://www.leag.de/de/unternehmen/, geöffnet 2026-10-01) ist die Lausitz Energie Verwaltungs GmbH die gemeinsame Sub-Holding und Mehrheitseigentümerin der Lausitz Energie Bergbau AG und die LEAG-Gruppe Teil der international tätigen EP Group (epgroup.eu). Die Eigentümer der EP Group wurden nicht primär belegt; solange der Inhaber der kontrollierenden Beteiligung nicht in den Claims identifiziert ist, bleibt der Sponsor unrated."
 }
