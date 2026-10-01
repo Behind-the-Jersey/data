@@ -1,0 +1,20 @@
+{
+  "id": "stifel-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "stifel-owner"
+  ],
+  "text": "Stifel Financial Corp. is a publicly traded company: its common stock is registered on the New York Stock Exchange under the trading symbol \"SF\".",
+  "short": "Stifel Financial Corp. trades on the NYSE under \"SF\".",
+  "source": {
+    "name": "Stifel Financial Corp. – Form 10-K for the fiscal year ended 31 December 2025 (SEC)",
+    "date": "2026-02-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/720672/000119312526067130/sf-20251231.htm",
+    "quote": "Common Stock, $0.15 par value per share ( SF ) New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

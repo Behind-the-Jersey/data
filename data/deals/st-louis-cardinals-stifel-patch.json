@@ -8,9 +8,15 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "MLB.com press release",
+    "name": "MLB.com press release – Cardinals announce Stifel as club's first jersey patch sponsor",
     "date": "2023-05-02",
-    "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+    "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor",
+    "note": "The club's own announcement of a seven-year agreement starting with the 2023 season. 'to' left null: the term is stated but no reported end year is given. The live page blocks scripted access (403); the quote was verified on the Wayback Machine capture of 7 March 2026.",
+    "quote": "The St. Louis Cardinals today announced that St. Louis-based financial institution Stifel will serve as the club's first-ever official jersey patch partner.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch, worn on the sleeve."
 }
