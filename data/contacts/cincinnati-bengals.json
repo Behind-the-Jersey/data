@@ -10,7 +10,10 @@
         "url": "https://www.bengals.com/fans/contact",
         "date": "2026-10-01",
         "quote": "GENERAL INQUIRIES Webmaster@Bengals.nfl.net 1 Paycor Stadium | Cincinnati, Ohio 45202",
-        "checked": {"on": "2026-10-01", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"}
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -22,7 +25,10 @@
         "url": "https://www.bengals.com/fans/contact",
         "date": "2026-10-01",
         "quote": "GENERAL INQUIRIES Webmaster@Bengals.nfl.net 1 Paycor Stadium | Cincinnati, Ohio 45202",
-        "checked": {"on": "2026-10-01", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"}
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -30,9 +36,29 @@
       "value": "@Bengals",
       "label": "Official club account on X",
       "source": {
-        "name": "Cincinnati Bengals club website (footer X link)",
+        "name": "Cincinnati Bengals club website (footer social links)",
         "url": "https://www.bengals.com/",
-        "date": "2026-10-01"
+        "date": "2026-10-01",
+        "quote": "email E-Mail x Bengals",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-scout"
+        }
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@bengals",
+      "label": "Official club account on Instagram",
+      "source": {
+        "name": "Cincinnati Bengals club website (footer social links)",
+        "url": "https://www.bengals.com/",
+        "date": "2026-10-01",
+        "quote": "facebook Bengals instagram Bengals snapchat",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-scout"
+        }
       }
     }
   ],
