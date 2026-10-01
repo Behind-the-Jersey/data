@@ -12,9 +12,15 @@
       "sponsorId": "occidental-petroleum",
       "placement": "patch",
       "source": {
-        "name": "Sports Business Journal",
-        "date": "2023-02-10",
-        "url": "https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/10/houston-astros-sign-jersey-patch-deal"
+        "name": "Houston Astros press release: Oxy Named the Official Jersey Partner of the Houston Astros",
+        "date": "2023-02-09",
+        "url": "https://web.archive.org/web/20260412121221/https://www.mlb.com/press-release/press-release-oxy-named-the-official-jersey-partner-of-the-houston-astros",
+        "note": "Club announcement, read via the Wayback Machine capture of 2026-04-12 because the live mlb.com page blocks scripts. Patch still on the 2026 jersey: Blinkfire's 2026 MLB jersey-patch list (2026-04-20, https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/).",
+        "quote": "Oxy will become the team’s official jersey partner for the next seven seasons. The Oxy logo will be featured on the Astros jersey sleeve",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
