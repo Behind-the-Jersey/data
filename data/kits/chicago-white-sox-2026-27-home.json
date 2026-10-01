@@ -12,9 +12,14 @@
       "sponsorId": "cme-group",
       "placement": "patch",
       "source": {
-        "name": "Sports Business Journal",
+        "name": "PR Newswire: CME Group Named as First-Ever Chicago White Sox Jersey Patch Sponsor",
         "date": "2026-01-28",
-        "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+        "url": "https://www.prnewswire.com/news-releases/cme-group-named-as-first-ever-chicago-white-sox-jersey-patch-sponsor-302672310.html",
+        "quote": "The Chicago White Sox today announced a multiyear agreement establishing CME Group, the world's leading derivatives marketplace, as the team's inaugural jersey patch sponsor and Official Global Exchange Partner.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
