@@ -3,9 +3,9 @@
   "name": "POSCO",
   "ownerId": "posco-co",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "POSCO, the steel company owned 100% by Korea Exchange-listed POSCO Holdings, whose largest shareholder is South Korea's National Pension Service (8.30%). Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "POSCO, the steel company owned 100% by Korea Exchange-listed POSCO Holdings; the National Pension Service held 8.30% of POSCO Holdings in June 2026.",
   "claimIds": [
     "posco-posco-holdings",
     "posco-fantasteel",
@@ -16,5 +16,5 @@
     "FANTASTEEL",
     "판타스틸"
   ],
-  "note": "Front (chest) sponsor of Pohang Steelers' 2026 home kit: the chest block reads posco over FANTASTEEL, POSCO's ad campaign (The Korea Herald, 2023-12-25), with '환동해중심 포항' underneath — all in the club store's 2026 home-shirt product renders and the K League's 2026-02-10 kit-launch photo ('FC POHANG STEELERS 2026 League Kits'). Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against POSCO or POSCO Holdings found."
+  "note": "Front (chest) sponsor of Pohang Steelers' 2026 home kit: the chest block reads posco over FANTASTEEL, POSCO's ad campaign (The Korea Herald, 2023-12-25), with '환동해중심 포항' underneath — all in the club store's 2026 home-shirt product renders and the K League's 2026-02-10 kit-launch photo ('FC POHANG STEELERS 2026 League Kits'). Rating note: on hold for a maintainer. Ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse, so NPS's 8.30% does not rate. Company test: Amnesty International's 5 July 2013 press release documents families 'forcibly evicted in Jagatsinghpur district for a project proposed by South Korean steel company POSCO' and a police baton charge on protestors 'injuring at least 20 people' over land acquisition for the POSCO-India steel project in Odisha (https://www.amnesty.org/en/latest/press-release/2013/07/india-victims-forced-evictions-odisha-must-receive-effective-remedy-and-rep/), and an NYU Law human-rights clinic / ESCR-Net report ('The Price of Steel: Human Rights and Forced Evictions in the POSCO-India Project') documents abuses around the same project. Within 20 years and published by a major human-rights NGO, so 'none' cannot apply; needs a maintainer to decide whether it passes the company test and to add a sourced record claim."
 }
