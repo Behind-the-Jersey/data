@@ -4,19 +4,31 @@
     {
       "type": "email",
       "value": "talkback@pirates.com",
+      "label": "General feedback and customer service",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/pirates/official-information/contact",
-        "date": "2026-09-24"
+        "name": "Pittsburgh Pirates contact page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260920221318/https://www.mlb.com/pirates/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "General Feedback and Customer Service",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "email",
       "value": "ticketservices@pirates.com",
+      "label": "Ticket services",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/pirates/official-information/contact",
-        "date": "2026-09-24"
+        "name": "Pittsburgh Pirates contact page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260920221318/https://www.mlb.com/pirates/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "Ticket Services",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +36,46 @@
       "value": "https://www.mlb.com/pirates/official-information/contact",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/pirates/official-information/contact",
-        "date": "2026-09-24"
+        "name": "Pittsburgh Pirates contact page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260920221318/https://www.mlb.com/pirates/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "CONTACT THE PIRATES",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@Pirates",
+      "label": "Pirates on X",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/pirates",
-        "date": "2026-09-24"
+        "name": "Pittsburgh Pirates social page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260711203432/https://www.mlb.com/pirates/social",
+        "date": "2026-10-01",
+        "quote": "The Official Accounts of the Pirates",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@pittsburghpirates",
+      "label": "Pirates on Instagram",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/pirates",
-        "date": "2026-09-24"
+        "name": "Pittsburgh Pirates social page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260711203432/https://www.mlb.com/pirates/social",
+        "date": "2026-10-01",
+        "quote": "The Official Accounts of the Pirates",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

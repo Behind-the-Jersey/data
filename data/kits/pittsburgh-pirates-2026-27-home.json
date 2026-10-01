@@ -12,13 +12,19 @@
       "sponsorId": "sheetz",
       "placement": "patch",
       "source": {
-        "name": "Pittsburgh Pirates / MLB.com press release",
+        "name": "Pittsburgh Pirates / MLB.com: Pirates and Sheetz Announce Jersey Patch Partnership",
         "date": "2024-06-21",
-        "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+        "url": "http://web.archive.org/web/20260412120246/https://www.mlb.com/pirates/fans/jersey-patch",
+        "note": "Club jersey-patch page, read via the Wayback Machine capture of 2026-04-12 because the live mlb.com page blocks scripts. Still the 2026 patch: Blinkfire Analytics' 2026 MLB jersey-patch list (2026-04-20) lists \"Pittsburgh Pirates - Sheetz\".",
+        "quote": "the Pennsylvania-based retailer will have its logo featured on the sleeves of Pittsburgh Pirates home and away jerseys",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Jersey patch: Sheetz.",
+  "summary": "Jersey patch: Sheetz (sleeves).",
   "change": null
 }

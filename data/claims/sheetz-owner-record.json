@@ -4,16 +4,16 @@
   "ownerIds": [
     "sheetz-owner"
   ],
-  "text": "Sheetz is a family-owned convenience store chain (Sheetz family) with no state ownership or control.",
-  "short": "Sheetz is a family-owned convenience store chain (Sheetz family) with no state ownership or control.",
+  "text": "Sheetz is a family-owned convenience store chain.",
+  "short": "Sheetz is a family-owned convenience store chain.",
   "source": {
     "name": "Sheetz Family Leadership page",
     "date": "2026-09-24",
     "url": "https://www.sheetz.com/family",
     "quote": "Sheetz is still family owned, and this is the core of the company.",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
   "reviewed": false
