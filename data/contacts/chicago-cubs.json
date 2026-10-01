@@ -21,6 +21,16 @@
       }
     },
     {
+      "type": "phone",
+      "value": "+1-800-843-2827",
+      "label": "Cubs Customer Service: 800-THE-CUBS",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/cubs/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
       "type": "x",
       "value": "@Cubs",
       "source": {
@@ -39,5 +49,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
