@@ -1,7 +1,9 @@
 {
   "id": "seminole-tribe-of-florida",
-  "name": "Seminole Tribe of Florida (Hard Rock International)",
-  "type": "private-company",
-  "parentId": null,
-  "country": "United States"
+  "name": "Seminole Tribe of Florida",
+  "type": "state",
+  "country": "USA",
+  "via": "a federally recognized Native American tribal government; Hard Rock says it acquired the Hard Rock brand in 2007",
+  "note": "Sovereign tribal government (federally recognized). Classified as 'state' per the owner type enum; no UN, Human Rights Watch, Amnesty or court record of serious human-rights abuses found this pass.",
+  "parentId": null
 }
