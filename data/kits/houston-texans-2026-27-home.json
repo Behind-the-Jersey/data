@@ -14,11 +14,30 @@
       "source": {
         "name": "Zoomph (2026 NFL practice jersey patch guide)",
         "date": "2026-09-01",
-        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+        "quote": "The Houston Texans have multiple patches: their training center sponsor Houston Methodist and longtime telecommunications partner Xfinity.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "houston-methodist",
+      "placement": "training-kit",
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+        "quote": "The Houston Texans have multiple patches: their training center sponsor Houston Methodist and longtime telecommunications partner Xfinity.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Practice-jersey patch: Xfinity (also Houston Methodist on some jerseys).",
+  "summary": "Practice-jersey patches: Xfinity and Houston Methodist.",
   "change": null
 }
