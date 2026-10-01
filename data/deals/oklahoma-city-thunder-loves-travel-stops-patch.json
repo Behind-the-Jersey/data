@@ -8,9 +8,15 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "ESPN",
+    "name": "Oklahoma City Thunder (nba.com): The Heart of OKC: Thunder, Love's Expand Partnership to Include Prominent Placement on Thunder Jersey",
     "date": "2019-03-15",
-    "url": "https://www.espn.com/espn/print?id=26262269"
+    "url": "https://www.nba.com/thunder/news/release-loves-190315",
+    "quote": "a significant multi-year expansion of their partnership to include the placement of the Love's heart logo on the Thunder jersey for all games",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page body is JavaScript-rendered, so scripts/check_sources.py cannot read the quote."
   },
   "note": "Jersey patch."
 }
