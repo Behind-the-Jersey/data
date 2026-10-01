@@ -3,12 +3,13 @@
   "name": "Kroger",
   "ownerId": "kroger-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "A listed company whose largest holders are investment firms.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
-    "kroger-major-holders-2026"
+    "kroger-major-holders-2026",
+    "kroger-injury-verdict-2025"
   ],
   "aliases": [],
-  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
+  "note": "On hold for a maintainer: in June 2025 a Michigan jury ordered Kroger to pay more than $75m to a technician left partly handless by a refrigerant explosion at a Kroger store (kroger-injury-verdict-2025); Kroger has appealed. Whether that jury verdict counts as a company finding under METHOD.md is a person's call, so the September 2026 'none' is held back. Earlier: re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
 }

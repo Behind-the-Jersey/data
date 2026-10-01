@@ -5,8 +5,15 @@
   "sponsorId": "great-american-insurance",
   "placement": "stadium",
   "from": null,
-  "to": null,
-  "value": null,
+  "to": "2033",
+  "value": {
+    "amount": 75,
+    "currency": "USD",
+    "unit": "m",
+    "per": "30 years",
+    "upTo": false,
+    "usdApprox": 75
+  },
   "source": {
     "name": "Ballparks of Baseball – 'Great American Ball Park'",
     "date": "2023-01-01",
@@ -17,5 +24,5 @@
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "note": "Arena naming rights: Great American Ball Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-01."
+  "note": "Arena naming rights: Great American Ball Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-01. The same page's facts panel gives the current terms: 'Naming Rights: Great American Insurance, $2.5 million/year through 2033'."
 }
