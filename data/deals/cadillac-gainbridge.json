@@ -1,9 +1,9 @@
 {
-  "id": "cadillac-twg-ai",
+  "id": "cadillac-gainbridge",
   "clubId": "cadillac",
   "orgName": null,
-  "sponsorId": "twg-ai",
-  "placement": "sleeve",
+  "sponsorId": "gainbridge",
+  "placement": "front",
   "from": "2026",
   "to": null,
   "value": null,
@@ -11,12 +11,12 @@
     "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
     "date": "2026-02-15",
     "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
-    "quote": "Its artificial intelligence arm, TWG AI, appears on the side of the race car, dominating the black-and-white paint scheme.",
+    "quote": "The logo for Gainbridge is positioned right below the tricolor Tommy Hilfiger crest.",
     "checked": {
       "on": "2026-10-01",
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
     },
-    "note": "TWG AI on the side of the car; 'sleeve' used for the side."
+    "note": "Logo below the Tommy Hilfiger crest on the nose; not on the team's own partners page."
   },
-  "note": "Cadillac Formula 1 Team sleeve partner on the 2026 car."
+  "note": "Logo on the nose per GM Authority; not on the team's own partners page."
 }
