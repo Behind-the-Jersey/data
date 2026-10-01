@@ -12,9 +12,14 @@
       "sponsorId": "childrens-hospital-colorado",
       "placement": "training-kit",
       "source": {
-        "name": "Denver Broncos",
+        "name": "Denver Broncos: Broncos renew and expand partnership with Children's Hospital Colorado",
         "date": "2024-07-24",
-        "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado"
+        "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado",
+        "quote": "A patch with the Children's Colorado logo will be prominently displayed on the front upper-left side of all Broncos practice jerseys.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
