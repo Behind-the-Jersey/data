@@ -1,0 +1,20 @@
+{
+  "id": "pohang-city-patch",
+  "kind": "ownership",
+  "ownerIds": [
+    "pohang-city"
+  ],
+  "text": "The Pohang Steelers' 2026 kit carries a Pohang City patch ('포항시 패치', the hometown patch) on the right sleeve, together with the sponsor patch.",
+  "short": "The right sleeve carries Pohang City's hometown patch.",
+  "source": {
+    "name": "K League: [포항] '전통과 정체성 표현'…포항스틸러스 2026시즌 유니폼 공개 [Pohang Steelers unveil 2026 kits]",
+    "date": "2026-02-10",
+    "url": "https://www.kleague.com/news_view.do?seq=94323&orderBy=seq",
+    "quote": "신규 패치와 포항시 패치가 함께 부착된다",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
