@@ -4,14 +4,14 @@
   "ownerIds": [
     "bdd-mv-investments"
   ],
-  "text": "BDD M&V Investments a.d. Beograd is the sole owner (100%) of AikBank a.d. Beograd.",
-  "short": "BDD M&V Investments is the sole owner of AikBank.",
+  "text": "BDD M&V Investments a.d. Beograd is the parent company (mati\u010dno dru\u0161tvo) of AikBank a.d. Beograd; its audited consolidated group statements name AikBank as its subsidiary.",
+  "short": "BDD M&V Investments is the parent company of AikBank.",
   "source": {
-    "name": "CompanyWall Business (Serbian Business Register data): AikBank ad Beograd - Vlasni\u010dka struktura",
-    "date": "2026-09-22",
-    "url": "https://www.companywall.rs/firma/aikbank-ad-beograd/MMQX8A0D/osobe-i-vlasnistvo",
-    "quote": "BDD M&V INVESTMENTS AD BEOGRAD 100.00 %",
-    "note": "Register data as of 22 September 2026: one owner, BDD M&V Investments ad Beograd, 100%.",
+    "name": "M&V Investments a.d.: Consolidated financial statements of the banking group for 2025 with the independent auditor's report (aikbank.rs, PDF)",
+    "date": "2026-05-20",
+    "url": "https://www.aikbank.rs/media/finansijski-izvestaji/2026/izvestaj-sa-misljenjem-revizora-za-2025-godinu-za-bankarsku-grupu.pdf",
+    "quote": "\u0418\u0437\u0432\u0440\u0448\u0438\u043b\u0438 \u0441\u043c\u043e \u0440\u0435\u0432\u0438\u0437\u0438\u0458\u0443 \u043a\u043e\u043d\u0441\u043e\u043b\u0438\u0434\u043e\u0432\u0430\u043d\u0438\u0445 \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0458\u0441\u043a\u0438\u0445 \u0438\u0437\u0432\u0435\u0448\u0442\u0430\u0458\u0430 \u0411\u0440\u043e\u043a\u0435\u0440\u0441\u043a\u043e - \u0434\u0438\u043b\u0435\u0440\u0441\u043a\u043e\u0433 \u0434\u0440\u0443\u0448\u0442\u0432\u0430 \u201cM&V INVESTMENTS\u201d \u0430.\u0434. \u0411\u0435\u043e\u0433\u0440\u0430\u0434 (\u201c \u041c\u0430\u0442\u0438\u0447\u043d\u043e \u0434\u0440\u0443\u0448\u0442\u0432\u043e\u201d) \u0438 \u045a\u0435\u0433\u043e\u0432\u0438\u0445 \u0437\u0430\u0432\u0438\u0441\u043d\u0438\u0445 \u043f\u0440\u0430\u0432\u043d\u0438\u0445 \u043b\u0438\u0446\u0430 AikBank \u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434",
+    "note": "Independent auditor's report on the 2025 consolidated group statements: the broker-dealer M&V Investments a.d. Beograd is the parent company ('Mati\u010dno dru\u0161tvo') whose dependent legal persons are AikBank a.d. Beograd and AIK Leasing d.o.o. Beograd. Register detail: CompanyWall's ownership page for AikBank (opened 2026-10-01) showed a single shareholder, BDD M&V Investments ad Beograd, 100%, data as of 22 September 2026; it now serves scripts a stub page, so the register text is not quoted here.",
     "checked": {
       "on": "2026-10-01",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
