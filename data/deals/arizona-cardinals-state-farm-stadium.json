@@ -4,13 +4,18 @@
   "orgName": "State Farm",
   "sponsorId": "state-farm",
   "placement": "stadium",
-  "from": null,
+  "from": "2018",
   "to": null,
   "value": null,
   "source": {
-    "name": "State Farm Newsroom",
+    "name": "State Farm Newsroom – Cardinals Reach Naming Rights Agreement with State Farm; Iconic Arizona Venue to be Known as State Farm Stadium",
     "date": "2018-09-04",
-    "url": "https://newsroom.statefarm.com/state-farm-stadium-announcement-phoenix/"
+    "url": "https://newsroom.statefarm.com/state-farm-stadium-announcement-phoenix/",
+    "quote": "reached agreement on an 18-year naming rights commitment that results in the team’s home venue becoming State Farm Stadium.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: State Farm Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-09-04."
+  "note": "Arena naming rights: State Farm Stadium, announced 2018-09-04 (18-year commitment)."
 }
