@@ -1,0 +1,21 @@
+{
+  "id": "vfl-wolfsburg-volkswagen-front",
+  "clubId": "vfl-wolfsburg",
+  "orgName": null,
+  "sponsorId": "volkswagen",
+  "placement": "front",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "VfL Wolfsburg - Partners: VfL's primary partner",
+    "date": "2026",
+    "url": "https://www.vfl-wolfsburg.de/en/vfl/business/partners/vfl-partners",
+    "quote": "Volkswagen AG is Europe's largest car manufacturer as well as the primary sponsor and owner of VfL Wolfsburg Fußball-GmbH.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Long-standing front-of-shirt sponsor and owner. Reported values disagree and mix the shirt with the stadium deal: Sky Sport (18 Mar 2026) reports more than €70m a year for the wider Volkswagen support including shirt sponsorship and stadium naming rights; IHK Lüneburg-Wolfsburg (2026) reports €80m for shirt and stadium sponsorship in the previous season; Lente Desportiva (10 Jul 2025) put the main-shirt deal alone at €70m a year. Value left null - see PR."
+}

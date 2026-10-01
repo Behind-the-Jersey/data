@@ -1,0 +1,20 @@
+{
+  "id": "intel-mobileye-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "intel"
+  ],
+  "text": "Intel Corporation directly or indirectly holds all of Mobileye Global Inc.'s Class B common stock and 50,000,000 Class A shares, together about 77.1% of Mobileye's outstanding common stock and 96.9% of its voting power as of 27 June 2026.",
+  "short": "Intel holds about 77.1% of Mobileye and 96.9% of its votes.",
+  "source": {
+    "name": "Mobileye Global Inc., Form 10-Q for the quarter ended June 27, 2026, Note 1 - General (SEC EDGAR)",
+    "date": "2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1910139/000110465926086264/mbly-20260627x10q.htm",
+    "quote": "Intel Corporation (“Intel” or the “Parent”) directly or indirectly holds all of the Class B common stock of Mobileye as well as 50,000,000 shares of Class A common stock, which as of June 27, 2026, together represent approximately 77.1%",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

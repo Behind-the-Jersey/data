@@ -1,0 +1,59 @@
+{
+  "id": "vfl-wolfsburg-2026-27-home",
+  "clubId": "vfl-wolfsburg",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "volkswagen",
+      "placement": "front",
+      "side": "front",
+      "source": {
+        "name": "VfL Wolfsburg Wölfeshop - Heimtrikot 2026/27 (product page)",
+        "date": "2026",
+        "url": "https://shop.vfl-wolfsburg.de/en/heimtrikot-2026-27/26010101-01",
+        "quote": "The chest features the tonal VfL Wolfsburg crest, the white Nike Swoosh, and the VW logo.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mobileye",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "VfL Wolfsburg - Automotive Technology Meets Team Spirit - A Vision for the Future",
+        "date": "2025-06-30",
+        "url": "https://www.vfl-wolfsburg.de/en/newsdetails/news-detail/detail/news/automotive-technology-meets-team-spirit-a-vision-for-the-future",
+        "quote": "the Mobileye logo will feature on the left sleeve of VfL Wolfsburg’s kits starting with the 2025/2026 season",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "VfL Wolfsburg - Zukunft trägt Zinne (kit launch)",
+        "date": "2026-07-09",
+        "url": "https://www.vfl-wolfsburg.de/newsdetails/news-detail/detail/news/zukunft-traegt-zinne-1",
+        "quote": "konnte mit unserem Ausrüster Nike umgesetzt werden",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Nike home shirt launched 9 July 2026: Volkswagen on the front (the pro teams wore the new all-electric VW ID. Polo lettering on the chest at the start of the season) and Mobileye on the left sleeve (sleeve partner since 2025/26). The club shop product page names only these two shirt sponsors plus the Nike swoosh; no back or shorts sponsor is named.",
+  "change": null
+}

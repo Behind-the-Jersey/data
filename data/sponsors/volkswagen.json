@@ -3,9 +3,26 @@
   "name": "Volkswagen",
   "ownerId": "volkswagen-ag",
   "ownership": "part-owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "The Volkswagen brand of Volkswagen AG, which owns and is the primary sponsor of VfL Wolfsburg; Qatar Holding LLC, part of the Qatar Investment Authority, holds 10.4% of Volkswagen AG's subscribed capital and 17.0% of its voting rights.",
+  "claimIds": [
+    "qatar-migrant-worker-abuse-2025",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
+  ],
+  "aliases": [],
+  "why": {
+    "text": "Volkswagen AG owns and is the primary sponsor of VfL Wolfsburg, and Qatar Holding LLC — the investment arm of Qatar's sovereign wealth fund, the Qatar Investment Authority — holds 10.4% of Volkswagen AG's subscribed capital and 17.0% of its voting rights, making it the third-largest shareholder. So the Qatari state's money is behind Volkswagen. Amnesty International and Human Rights Watch both report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International reports that migrant workers in Qatar continued to face labour abuses, including an exploitative kafala sponsorship system, despite recent legal reforms.",
+    "status": "draft"
+  },
+  "note": "Rating note (proposed, concern): The link: Volkswagen AG is the owner and primary sponsor of VfL Wolfsburg Fußball-GmbH, and Volkswagen AG's Annual Report 2025 shows Qatar Holding LLC with 10.4% of subscribed capital and 17.0% of voting rights, the third-largest shareholder (qatar-holding-vw-stake); two SEC filings by different issuers establish Qatar Holding LLC as a wholly-owned subsidiary of the Qatar Investment Authority (qatar-holding-qia-ownership); QIA's own About page names it the sovereign wealth fund of the State of Qatar (qia-government-of-qatar-ownership). The record: Amnesty International's Qatar 2025 country entry and HRW's World Report 2026 Qatar chapter (qatar-migrant-worker-abuse-2025). Judgement call: Qatar's stake in Volkswagen AG is a link, not control — 'concern' rather than 'serious', matching the sibling Volkswagen Group brands rated on 2026-10-01. Front-of-shirt sponsor of VfL Wolfsburg 2026/27."
 }
