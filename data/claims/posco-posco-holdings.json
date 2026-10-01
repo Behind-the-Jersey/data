@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "POSCO HOLDINGS INC. (Formerly, POSCO) and Subsidiaries: Consolidated Financial Statements, December 31, 2021 and 2020 (Form 6-K exhibit 99.1, SEC EDGAR)",
+      "date": "2022-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/889132/000119312522076916/d281877dex991.htm",
+      "quote": "Upon completion of the spin-off, the surviving company was renamed as POSCO HOLDINGS INC., and a new subsidiary, POSCO, was established.",
+      "note": "Independent auditors' report (emphasis of matter on the spin-off of 1 March 2022).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
 }

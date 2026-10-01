@@ -4,8 +4,8 @@
   "ownerIds": [
     "posco-holdings"
   ],
-  "text": "South Korea's National Pension Service (국민연금) held 6,576,661 shares of POSCO Holdings, an 8.30% stake, as of 18 June 2026, per its disclosure reported by Newsis.",
-  "short": "National Pension Service held 8.30% of POSCO Holdings (18 June 2026).",
+  "text": "South Korea's National Pension Service (국민연금) held 8.30% of POSCO Holdings in June 2026: 6,576,661 shares as of 18 June, per its disclosure reported by Newsis. Financial Consumer News reports the pension service as the largest shareholder, with BlackRock second (5.2% at the end of 2025).",
+  "short": "South Korea's National Pension Service, POSCO Holdings' largest shareholder, held 8.30% in June 2026.",
   "source": {
     "name": "뉴시스 (Newsis): 국민연금, 포스코홀딩스 '단순투자→일반투자' 전환, 이유는? [NPS switches POSCO Holdings holding to 'general investment', why?]",
     "date": "2026-06-24",
@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "국민연금, 포스코홀딩스-한화오션-CJ제일제당 투자목적 '일반투자'로 변경 - 금융소비자뉴스",
+      "date": "2026-06-24",
+      "url": "https://www.newsfc.co.kr/news/articleView.html?idxno=79490",
+      "quote": "국민연금의 포스코홀딩스 지분율은 작년 말 7.96%에서 지난 3월 말 8.34%로 늘었다가 지난 23일 기준으로는 8.30%로 다시 줄었다.",
+      "note": "Translation: 'The NPS's stake in POSCO Holdings rose from 7.96% at the end of last year to 8.34% at the end of March, then fell back to 8.30% as of the 23rd.' The same article: '포스코그룹 지주사인 포스코홀딩스의 경우 지난 3월 말 기준 국민연금 지분율은 8.34%로 최대주주다. 2대주주는 글로벌 사모펀드인 블랙록(2025년말 기준 5.2%)이고' (the NPS is the largest shareholder; the second is BlackRock, 5.2% at the end of 2025).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
 }

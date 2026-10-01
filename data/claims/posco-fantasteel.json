@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "POSCO and Nexon Collaboration Video... 1.1 Million Views in Two Days - The Asia Business Daily",
+      "date": "2023-08-16",
+      "url": "https://www.asiae.co.kr/en/article/2023081610074551402",
+      "quote": "POSCO teamed up with game company Nexon to launch an online advertisement video targeting the younger generation.",
+      "note": "The same article: 'The advertisement slogan \"Fantasteel\" is a compound word combining fantasy and steel.'",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ]
 }
