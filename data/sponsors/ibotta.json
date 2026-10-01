@@ -1,12 +1,14 @@
 {
   "id": "ibotta",
   "name": "Ibotta",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "ibotta-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "ibotta-public-listing"
+  ],
   "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: Ibotta, Inc., a Denver-based performance-marketing platform; its IR FAQ says its stock trades on the NYSE under IBTA. Jersey patch partner of the Nuggets since October 2023, extended April 2026. A previous rating was removed 2026-09-25 because its only claim was an invented ownership record (#279)."
 }

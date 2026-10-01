@@ -1,0 +1,34 @@
+{
+  "id": "posco-holdings-myanmar-subsidiaries",
+  "kind": "ownership",
+  "ownerIds": [
+    "posco-holdings"
+  ],
+  "text": "POSCO HOLDINGS INC. (formerly POSCO) lists POSCO COATED & COLOR STEEL Co., Ltd. (56.87%) and Myanmar POSCO C&C Company, Limited (70.00%, held through subsidiaries) among its subsidiaries in its 2021 consolidated financial statements. The Korea Herald (April 2021) calls Posco C&C an affiliate of Posco that owns 70% of its joint venture with MEHL, Myanmar Posco C&C, and reports it said it would buy MEHL's 30% to end the partnership.",
+  "short": "POSCO Holdings' group owns 70% of Myanmar POSCO C&C, its joint venture with MEHL.",
+  "source": {
+    "name": "POSCO HOLDINGS INC. (Formerly, POSCO) and Subsidiaries: Consolidated Financial Statements, December 31, 2021 and 2020 (Form 6-K exhibit 99.1, SEC EDGAR)",
+    "date": "2022-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/889132/000119312522076916/d281877dex991.htm",
+    "quote": "Myanmar POSCO C&C Company,Limited. Steel manufacturing and sales",
+    "note": "The subsidiaries table gives Myanmar POSCO C&C 70.00% held through subsidiaries (country Myanmar) and 'POSCO COATED & COLOR STEEL Co., Ltd. Coated steel manufacturing 56.87' (Pohang). sec.gov blocks scripts without a declared User-Agent; opened with one.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "[Newsmaker] Posco C&C severs ties with Myanmar’s military conglomerate MEHL - The Korea Herald",
+      "date": "2021-04-16",
+      "url": "https://www.koreaherald.com/article/2598577",
+      "quote": "The affiliate of South Korea’s steel giant Posco said it will end its partnership with MEHL by purchasing all the stakes MEHL has in their joint venture, Myanmar Posco C&C Co.",
+      "note": "The same article: 'The steel product manufacturer owns a 70 percent of stake in the joint venture, and it will purchase the remaining 30 percent held by MEHL'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
