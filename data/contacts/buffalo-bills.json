@@ -2,23 +2,48 @@
   "clubId": "buffalo-bills",
   "channels": [
     {
+      "type": "contact-form",
+      "value": "https://www.buffalobills.com/about-us/contact-us",
+      "label": "Contact Us",
+      "source": {
+        "name": "Buffalo Bills – Contact Us page",
+        "url": "https://www.buffalobills.com/about-us/contact-us",
+        "date": "2026-10-01",
+        "quote": "Contact Us",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@buffalobills",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.buffalobills.com/",
-        "date": "2026-09-24"
+        "name": "Buffalo Bills – Fans page (Connect with us)",
+        "url": "https://www.buffalobills.com/fans/",
+        "date": "2026-10-01",
+        "quote": "x buffalobills",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@buffalobills",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.buffalobills.com/",
-        "date": "2026-09-24"
+        "name": "Buffalo Bills – Fans page (Connect with us)",
+        "url": "https://www.buffalobills.com/fans/",
+        "date": "2026-10-01",
+        "quote": "instagram buffalobills",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

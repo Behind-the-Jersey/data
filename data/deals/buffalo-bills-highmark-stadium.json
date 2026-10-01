@@ -10,7 +10,12 @@
   "source": {
     "name": "Buffalo Bills",
     "date": "2023-06-05",
-    "url": "https://www.buffalobills.com/news/the-future-is-bright-bills-and-highmark-announce-naming-rights-deal-for-new-bill"
+    "url": "https://www.buffalobills.com/news/the-future-is-bright-bills-and-highmark-announce-naming-rights-deal-for-new-bill",
+    "quote": "the franchise has finalized a new naming rights deal with Highmark Blue Cross Blue Shield of Western New York to continue their partnership at the new stadium",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Arena naming rights: Highmark Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-06-05."
 }
