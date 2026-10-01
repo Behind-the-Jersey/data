@@ -3,12 +3,12 @@
   "name": "QuikTrip",
   "ownerId": "quiktrip-owner",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "QuikTrip Corporation, a privately held convenience-store chain based in Tulsa, majority-owned by the Cadieux family. Nothing found.",
   "claimIds": [
     "quiktrip-cadieux-ownership"
   ],
   "aliases": [],
-  "note": "Rating note: tier proposed none (see #98), pending a maintainer call on a 2010 DOJ consent decree over store accessibility (United States v. QuikTrip Corporation, D. Neb., 8:10-cv-262, archive.ada.gov/quiktrip_consent.htm) — QuikTrip denies the allegations and the decree is expressly not an admission of liability, so whether it counts as a finding under METHOD.md is unresolved. Privately held US company, majority-owned by the Cadieux family per Forbes; no state or state fund in the ownership chain. Previous rating removed 2026-09-25: its only claim was an invented ownership record (#279); replaced with a checked claim."
+  "note": "Rating note: none (maintainer decision, 1 Oct 2026, #945). Privately held US company, majority-owned by the Cadieux family per Forbes (quiktrip-cadieux-ownership); no state or state fund in the ownership chain. A 2010 DOJ consent decree over store accessibility (United States v. QuikTrip Corporation, D. Neb., 8:10-cv-262) says it isn't an admission of liability, so it isn't a finding under METHOD.md. Previous rating removed 2026-09-25: its only claim was an invented ownership record (#279); replaced with a checked claim."
 }
