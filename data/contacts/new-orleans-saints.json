@@ -5,20 +5,34 @@
       "type": "x",
       "value": "@Saints",
       "source": {
-        "name": "Club website contact page",
+        "name": "New Orleans Saints website footer (Follow Us)",
         "url": "https://www.neworleanssaints.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01"
       }
     },
     {
       "type": "instagram",
       "value": "@saints",
       "source": {
-        "name": "Club website contact page",
+        "name": "New Orleans Saints website footer (Follow Us)",
         "url": "https://www.neworleanssaints.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01"
+      }
+    },
+    {
+      "type": "facebook",
+      "value": "NewOrleansSaints",
+      "source": {
+        "name": "New Orleans Saints website footer (Follow Us)",
+        "url": "https://www.neworleanssaints.com/",
+        "date": "2026-10-01",
+        "quote": "Follow Us facebook NewOrleansSaints instagram Saints snapchat Saints youtube NewOrleansSaints tiktok TikTok",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
