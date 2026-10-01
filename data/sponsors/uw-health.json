@@ -5,10 +5,11 @@
   "ownership": "owned",
   "tier": "unrated",
   "status": "being-rated",
-  "verdict": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
+  "verdict": "UW Health is the combined clinical enterprise of the University of Wisconsin Hospitals and Clinics Authority, a public body corporate and politic created by Wisconsin statute.",
   "claimIds": [
+    "uw-health-clinical-enterprise",
     "uw-health-owner-record"
   ],
   "aliases": [],
-  "note": "Rating note: UW Health is a public hospital system (state agency) created by Wisconsin statute; the state is the ultimate owner. No evidence of ongoing armed conflict or conflict minerals at the state level, so 'serious' not 'severe'. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs."
+  "note": "Rating note: the owner is a Wisconsin public authority created by Wis. Stat. §233.02(1); per METHOD.md, a public owner in a US state is not a link to abuse, whatever its stake. On hold for a maintainer."
 }
