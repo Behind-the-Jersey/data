@@ -1,0 +1,33 @@
+{
+  "id": "cleveland-cliffs-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "cleveland-cliffs-owner"
+  ],
+  "text": "Cleveland-Cliffs Inc. is a listed company: its common shares are registered under the symbol CLF on the New York Stock Exchange. Its 2026 proxy statement names BlackRock, Inc., with 44,103,832 common shares (7.73% of the class), in its table of persons known to the company to beneficially own more than five percent of its outstanding common shares.",
+  "source": {
+    "name": "Cleveland-Cliffs Inc. Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-02-09",
+    "url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000025/clf-20251231.htm",
+    "note": "Cover page, Securities registered pursuant to Section 12(b) of the Act.",
+    "quote": "Common Shares, par value $0.125 per share CLF New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cleveland-Cliffs Inc. 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+      "date": "2026-04-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000054/clf-20260402.htm",
+      "note": "Beneficial-ownership table of holders above five percent; BlackRock reported its holding on Amendment No. 5 to Schedule 13G filed April 17, 2025.",
+      "quote": "BlackRock, Inc. (3) 50 Hudson Yards New York, NY 10001 44,103,832 44,103,832 — 43,104,639 — 7.73",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

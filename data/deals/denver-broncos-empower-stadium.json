@@ -4,13 +4,25 @@
   "orgName": "Empower",
   "sponsorId": "empower",
   "placement": "stadium",
-  "from": null,
-  "to": null,
-  "value": null,
-  "source": {
-    "name": "Metropolitan Football Stadium District (mfsd.com)",
-    "date": "2019-09-06",
-    "url": "https://mfsd.com/empower-field-at-mile-high-name-change"
+  "from": "2019",
+  "to": "2040",
+  "value": {
+    "amount": 3,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 3
   },
-  "note": "Arena naming rights: Empower Field at Mile High. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2019-09-06."
+  "source": {
+    "name": "Metropolitan Football Stadium District: \"Empower Field at Mile High\" Name Change",
+    "date": "2019-09-06",
+    "url": "https://mfsd.com/empower-field-at-mile-high-name-change",
+    "quote": "Today the Metropolitan Football Stadium District (MFSD) entered into a twenty-one year Naming Rights Agreement with Empower Retirement to name the home of the Denver Broncos",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Arena naming rights: Empower Field at Mile High. Announced 2019-09-06, a twenty-one year agreement; the release says Empower Retirement will pay an average of $3 million annually, so the value is the reported annual average."
 }
