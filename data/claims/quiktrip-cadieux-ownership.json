@@ -1,0 +1,20 @@
+{
+  "id": "quiktrip-cadieux-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "quiktrip-owner"
+  ],
+  "text": "QuikTrip Corporation is a privately held convenience store and gasoline service station chain headquartered in Tulsa, Oklahoma, majority-owned by the Cadieux family.",
+  "short": "Cadieux family majority owner",
+  "source": {
+    "name": "Forbes: QuikTrip | Company Overview & News",
+    "date": "2026-08-13",
+    "url": "https://www.forbes.com/companies/quiktrip/",
+    "quote": "The company remains majority-owned by the Cadieux family, with about 20% of ownership held through an employee stock ownership plan (ESOP), reflecting its commitment to employee investment and long-term growth.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
