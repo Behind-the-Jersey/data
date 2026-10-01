@@ -1,0 +1,20 @@
+{
+  "id": "sweg-baden-wuerttemberg-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "land-baden-wuerttemberg"
+  ],
+  "text": "Südwestdeutsche Landesverkehrs-GmbH (SWEG) is 95% owned by the State of Baden-Württemberg.",
+  "source": {
+    "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+    "quote": "Das Verkehrsunternehmen, das zu 95 Prozent dem Land Baden-Württemberg gehört, löste damit den vorherigen Hauptsponsor CG Elementum ab",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'The transport company, 95 per cent of which belongs to the State of Baden-Württemberg, thereby replaced the previous main sponsor CG Elementum'."
+  },
+  "reviewed": false
+}

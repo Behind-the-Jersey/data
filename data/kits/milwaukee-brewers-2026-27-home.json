@@ -12,9 +12,15 @@
       "sponsorId": "northwestern-mutual",
       "placement": "patch",
       "source": {
-        "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
-        "date": "2026-04-20",
-        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+        "name": "Northwestern Mutual news release: Northwestern Mutual Becomes Official Financial Planning Partner of the Milwaukee Brewers",
+        "date": "2023-09-15",
+        "url": "https://news.northwesternmutual.com/2023-09-15-Northwestern-Mutual-Becomes-Official-Financial-Planning-Partner-of-the-Milwaukee-Brewers-TM",
+        "quote": "announced today its expanded multi-year partnership with the Milwaukee Brewers, becoming the team's official financial planning and first-ever jersey patch partner",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Continues in 2026: Blinkfire's 2026 MLB jersey patch list (https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball) names 'Milwaukee Brewers - Northwestern Mutual Life'."
       }
     }
   ],

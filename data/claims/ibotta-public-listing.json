@@ -1,0 +1,20 @@
+{
+  "id": "ibotta-public-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "ibotta-owner"
+  ],
+  "text": "Ibotta, Inc. is a listed company: its stock trades on the New York Stock Exchange under the symbol IBTA.",
+  "short": "Ibotta, Inc. trades on the NYSE under IBTA.",
+  "source": {
+    "name": "Ibotta, Inc. investor relations: FAQ",
+    "date": "2026",
+    "url": "https://investors.ibotta.com/company-information/faq",
+    "quote": "Our stock is traded on the NYSE under the symbol IBTA.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

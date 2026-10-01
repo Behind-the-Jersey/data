@@ -12,6 +12,21 @@
       }
     },
     {
+      "type": "phone",
+      "value": "+17185078499",
+      "label": "General Information",
+      "source": {
+        "name": "Club website contact page (Contact the Mets)",
+        "url": "https://www.mlb.com/mets/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "General Information: (718) 507-8499",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@mets",
       "source": {
@@ -30,5 +45,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

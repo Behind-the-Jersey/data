@@ -1,0 +1,45 @@
+{
+  "id": "tractor-2026-27-home",
+  "clubId": "tractor",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "ata-airlines",
+      "placement": "front",
+      "source": {
+        "name": "Varzesh3: نمایش کیت جدید تراکتور: میلان در تبریز (Tractor's new kit unveiled)",
+        "date": "2026-08-13",
+        "url": "https://www.varzesh3.com/news/2411369/%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%DA%A9%DB%8C%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D9%85%DB%8C%D9%84%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+        "quote": "شرکت هواپیمایی آتا به عنوان اسپانسر اصلی روی قسمت جلوی پیراهن حضور دارد",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Persian: ATA Airlines, as the main sponsor, is on the front of the shirt. The club's own kit article (tractor-club.com) says the same but its body text is only in the page's JavaScript payload."
+      }
+    },
+    {
+      "sponsorId": "rakhsh-khodro",
+      "placement": "back",
+      "source": {
+        "name": "Varzesh3: نمایش کیت جدید تراکتور: میلان در تبریز (Tractor's new kit unveiled)",
+        "date": "2026-08-13",
+        "url": "https://www.varzesh3.com/news/2411369/%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%DA%A9%DB%8C%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D9%85%DB%8C%D9%84%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+        "quote": "رخش خودرو نیز اسپانسر دوم تراکتور است که نام آن در قسمت پشت لباس قرار گرفته است",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Persian: Rakhsh Khodro is Tractor's second sponsor, with its name on the back of the shirt."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Start home kit. ATA Airlines on the front, Rakhsh Khodro on the back, per Varzesh3's kit-launch coverage and the club's own kit article. Sleeve and shorts placements not verified.",
+  "change": null
+}
