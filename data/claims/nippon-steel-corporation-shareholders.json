@@ -1,0 +1,21 @@
+{
+  "id": "nippon-steel-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "nippon-steel-corporation"
+  ],
+  "text": "Nippon Steel Corporation publishes its top-10 shareholders as of 31 March 2026 on its Capital & Stock Data page: The Master Trust Bank of Japan, Ltd. (Trust Account) 13.9%, Custody Bank of Japan, Ltd. (Trust Account) 4.0%, then custodial accounts (Chase Manhattan, JP Morgan, State Street), Nippon Life Insurance (1.8%), the Nippon Steel Group Employees Shareholding Association (1.3%), Meiji Yasuda Life Insurance (1.3%) and Mizuho Bank (1.1%).",
+  "short": "Nippon Steel's top-10 holders as of 31 March 2026 are led by trust-bank accounts (Master Trust 13.9%, Custody Bank 4.0%).",
+  "source": {
+    "name": "Nippon Steel Corporation: Capital & Stock Data (Top 10 Shareholders, as of March 31, 2026)",
+    "date": "2026-03-31",
+    "url": "https://www.nipponsteel.com/en/ir/stock/overview.html",
+    "note": "The Top 10 Shareholders table is published as an image (stock_overview_im02.webp) under this heading; the figures in this claim are read from that image.",
+    "quote": "Top 10 Shareholders (as of March 31, 2026)",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
