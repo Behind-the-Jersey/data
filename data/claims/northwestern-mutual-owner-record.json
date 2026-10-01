@@ -4,15 +4,15 @@
   "ownerIds": [
     "northwestern-mutual-owner"
   ],
-  "text": "Northwestern Mutual is a mutual insurance company owned by its policyowners, with no publicly traded stock and no state shareholder; the sponsorship money comes from a policyowner-owned mutual, not from public investor capital.",
+  "text": "Northwestern Mutual is a mutual company that shares its success in the form of dividends with its policyowners.",
   "source": {
     "name": "Northwestern Mutual (via PR Newswire): Northwestern Mutual Announces Historic $9.2 Billion Dividend Payout in 2026",
     "date": "2025-10-28",
     "url": "https://news.northwesternmutual.com/2025-10-28-Northwestern-Mutual-Announces-Historic-9-2-Billion-Dividend-Payout-in-2026-A-Powerful-Demonstration-of-Companys-Enduring-Commitment-to-Policyowners",
     "quote": "As a proud mutual company, we're committed to sharing our success in the form of dividends with our policyowners at such an extraordinary scale.",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
   "reviewed": false
