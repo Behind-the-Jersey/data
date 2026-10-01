@@ -14,7 +14,12 @@
       "source": {
         "name": "Green Bay Packers (packers.com)",
         "date": "2026-04-16",
-        "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+        "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026",
+        "quote": "Lambeau Field's UW Health Gate will be unveiled on the north side of the stadium in May, and fans will also see a UW Health logo patch on the Packers' practice jerseys.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
