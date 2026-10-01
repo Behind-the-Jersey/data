@@ -4,19 +4,31 @@
     {
       "type": "email",
       "value": "PolicysPerspective@packers.com",
+      "label": "Email Ed (Policy's Perspective)",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.packers.com/",
-        "date": "2026-09-24"
+        "name": "Packers.com: Policy's Perspective",
+        "url": "https://www.packers.com/news/policys-perspective",
+        "date": "2026-10-01",
+        "quote": "Fans are encouraged to email Ed with their name and hometown at: PolicysPerspective@packers.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "phone",
       "value": "19205697500",
+      "label": "General information (M-F, 8 a.m. - 5 p.m.)",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.packers.com/",
-        "date": "2026-09-24"
+        "name": "Packers.com: Contact Us",
+        "url": "https://www.packers.com/lambeau-field/contact-us",
+        "date": "2026-10-01",
+        "quote": "General Information (M-F, 8 a.m. - 5 p.m.) (920) 569-7500",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +36,46 @@
       "value": "https://www.packers.com/lambeau-field/contact-us",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "Packers.com: Contact Us",
         "url": "https://www.packers.com/lambeau-field/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Green Bay Packers Contact Us",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@packers",
+      "label": "Follow The Packers",
       "source": {
-        "name": "Club website contact page",
+        "name": "Packers.com home: Follow The Packers",
         "url": "https://www.packers.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Email Newsletter x packers",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@packers",
+      "label": "Follow The Packers",
       "source": {
-        "name": "Club website contact page",
+        "name": "Packers.com home: Follow The Packers",
         "url": "https://www.packers.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "facebook packers instagram packers",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

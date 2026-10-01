@@ -4,10 +4,16 @@
     {
       "type": "phone",
       "value": "18007243377",
+      "label": "1-800-RAIDERS",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.raiders.com/",
-        "date": "2026-09-24"
+        "name": "Las Vegas Raiders - Contact Us",
+        "url": "https://www.raiders.com/about/contact-us",
+        "date": "2026-10-01",
+        "quote": "Phone Number: 1-800-RAIDERS",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -15,29 +21,46 @@
       "value": "https://www.raiders.com/about/contact-us",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "Las Vegas Raiders - Contact Us",
         "url": "https://www.raiders.com/about/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Contact Us: PHONE 1-800-RAIDERS",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@raiders",
+      "label": "Raiders on X",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.raiders.com/",
-        "date": "2026-09-24"
+        "name": "Las Vegas Raiders - Connect With Us",
+        "url": "https://www.raiders.com/fans/connect-with-us",
+        "date": "2026-10-01",
+        "quote": "Follow Us Raiders",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@raiders",
+      "label": "Raiders on Instagram",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.raiders.com/",
-        "date": "2026-09-24"
+        "name": "Las Vegas Raiders - Connect With Us",
+        "url": "https://www.raiders.com/fans/connect-with-us",
+        "date": "2026-10-01",
+        "quote": "Follow Us Raiders",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
