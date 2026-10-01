@@ -12,9 +12,14 @@
       "sponsorId": "meijer",
       "placement": "patch",
       "source": {
-        "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+        "name": "Blinkfire Analytics: MLB 2026 Jersey Patches – Brands Buying into Baseball",
         "date": "2026-04-20",
-        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball",
+        "quote": "Detroit Tigers – Meijer",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

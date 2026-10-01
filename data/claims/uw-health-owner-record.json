@@ -4,12 +4,18 @@
   "ownerIds": [
     "uw-health-owner"
   ],
-  "text": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
-  "short": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
+  "text": "Wisconsin law creates the University of Wisconsin Hospitals and Clinics Authority as “a public body corporate and politic”.",
+  "short": "The University of Wisconsin Hospitals and Clinics Authority is a Wisconsin public body corporate and politic",
   "source": {
-    "name": "Wisconsin Statutes 233.04(7)(e)",
-    "date": "2019-01-01",
-    "url": "https://docs.legis.wisconsin.gov/document/statutes/2019/233.04(7)(e)"
+    "name": "Wisconsin Statutes §233.02(1) (docs.legis.wisconsin.gov, via Wayback Machine)",
+    "date": "2025",
+    "url": "http://web.archive.org/web/20250207024114/https://docs.legis.wisconsin.gov/statutes/statutes/233/01",
+    "note": "Live page: https://docs.legis.wisconsin.gov/statutes/statutes/233/02 — docs.legis.wisconsin.gov did not answer from the research environment, so the statute was read via the Wayback Machine.",
+    "quote": "There is created a public body corporate and politic to be known as the “University of Wisconsin Hospitals and Clinics Authority”.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "reviewed": false
 }
