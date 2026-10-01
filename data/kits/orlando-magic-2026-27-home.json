@@ -14,11 +14,16 @@
       "source": {
         "name": "Orlando Magic (nba.com/magic)",
         "date": "2022-10-26",
-        "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+        "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026",
+        "quote": "The Disney name will continue to appear on the front left of the jersey and measure about 2½ by 2½ inches.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": true,
+  "sponsorsComplete": false,
   "summary": "Jersey patch: Walt Disney World Resort.",
   "change": null
 }
