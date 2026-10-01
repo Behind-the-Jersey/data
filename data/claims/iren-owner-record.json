@@ -17,18 +17,5 @@
     },
     "note": "The table lists every person or group known to own more than 5% of the ordinary or B Class shares; the only row under 'Principal Shareholders' is 'None'."
   },
-  "additionalSources": [
-    {
-      "name": "MarketScreener – 'IREN Limited: Shareholders, Shareholding Structure'",
-      "date": "2026-09-24",
-      "url": "https://www.marketscreener.com/quote/stock/IREN-LIMITED-129472358/company-shareholders",
-      "quote": "Governments 0.48%",
-      "checked": {
-        "on": "2026-10-01",
-        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
-      },
-      "note": "Secondary source for the state element: governments are 0.48% of the shareholder base, under the 5% threshold."
-    }
-  ],
   "reviewed": false
 }
