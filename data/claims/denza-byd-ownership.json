@@ -1,0 +1,32 @@
+{
+  "id": "denza-byd-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "byd"
+  ],
+  "text": "DENZA was a joint venture between BYD and Mercedes-Benz; after Mercedes-Benz sold its remaining 10% stake in September 2024, BYD fully owns the DENZA brand.",
+  "short": "DENZA is wholly owned by BYD.",
+  "source": {
+    "name": "paultan.org: BYD now fully owns Denza after Mercedes-Benz sells off remaining 10% stake in NEV brand joint venture",
+    "date": "2024-09-18",
+    "url": "https://paultan.org/2024/09/18/byd-now-fully-owns-denza-after-mercedes-benz-sells-off-remaining-10-stake-in-nev-brand-joint-venture",
+    "quote": "Mercedes-Benz has withdrawn from its Denza joint venture with BYD in China after selling off its remaining 10% equity",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "BitAuto: Denza Becomes a Wholly-Owned Enterprise",
+      "date": "2024",
+      "url": "https://www.bitauto.com/ph/news/100194501270.html",
+      "quote": "Denza Becomes a Wholly-Owned Enterprise. Mercedes-Benz Fully Withdraws from Denza",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

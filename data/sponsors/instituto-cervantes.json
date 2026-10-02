@@ -1,0 +1,26 @@
+{
+  "id": "instituto-cervantes",
+  "name": "Instituto Cervantes",
+  "ownerId": "government-of-spain",
+  "ownership": "owned",
+  "tier": "serious",
+  "status": "rated",
+  "verdict": "A Spanish public entity controlled by the Government of Spain, which a UN working group found arbitrarily detained Catalan leaders.",
+  "claimIds": [
+    "instituto-cervantes-spain-ownership",
+    "spain-catalan-leaders-detention"
+  ],
+  "aliases": [
+    "Cervantes Institute"
+  ],
+  "note": "Listed as a partner of Los Gallos on the SailGP team page (opened 2026-10-02). Rating note: propose 'serious'. The link: Instituto Cervantes is a public-law entity created by the Spanish government and attached to its foreign ministry; the state controls it (instituto-cervantes-spain-ownership). The record: in June 2019 the UN Working Group on Arbitrary Detention said Spain's pre-trial detention of three Catalan leaders violated their rights, and Spain's Supreme Court convicted nine of them of sedition for non-violent acts (spain-catalan-leaders-detention). State control plus a documented record gives serious. A maintainer sets the tier.",
+  "why": {
+    "text": "Instituto Cervantes is a public entity created by the Government of Spain and attached to its foreign ministry. In June 2019, the UN Working Group on Arbitrary Detention said Spain's detention of three Catalan pro-independence leaders during their trial violated their rights; Spain's Supreme Court then convicted nine of them of sedition for non-violent acts around the 2017 referendum.",
+    "claimIds": [
+      "spain-catalan-leaders-detention",
+      "instituto-cervantes-spain-ownership"
+    ],
+    "messageLine": "UN experts found that Spain arbitrarily detained Catalan pro-independence leaders during their trial.",
+    "status": "draft"
+  }
+}
