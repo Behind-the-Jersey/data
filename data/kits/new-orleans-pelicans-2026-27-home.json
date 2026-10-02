@@ -12,9 +12,15 @@
       "sponsorId": "newage-products",
       "placement": "patch",
       "source": {
-        "name": "Sports Business Journal",
+        "name": "Sports Business Journal — Pelicans sign NewAge Products as patch partner",
         "date": "2024-09-30",
-        "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+        "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products",
+        "quote": "NewAge Products, a Toronto-based DTC seller of modular storage systems and outdoor kitchens, is the Pelicans new ad patch sponsor.",
+        "note": "Zoomph's NBA patch guide (updated 2026-08-11) lists NewAge Products as the Pelicans' 2026/27 patch partner: https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

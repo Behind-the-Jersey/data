@@ -4,13 +4,18 @@
   "orgName": "Lumen Technologies",
   "sponsorId": "lumen-technologies",
   "placement": "stadium",
-  "from": null,
-  "to": null,
+  "from": "2020-11",
+  "to": "2033",
   "value": null,
   "source": {
-    "name": "Seattle Seahawks",
+    "name": "Seattle Seahawks: 'CenturyLink Field To Become Lumen Field'",
     "date": "2020-11-19",
-    "url": "https://www.seahawks.com/news/centurylink-field-to-become-lumen-field"
+    "url": "https://www.seahawks.com/news/centurylink-field-to-become-lumen-field",
+    "quote": "the Seahawks and Lumen announced today that the Seattle stadium will be renamed Lumen Field",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Lumen Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-11-19."
+  "note": "Stadium naming rights: Lumen Field. The Lumen name took effect with the 2020-11-19 announcement, under the stadium's existing naming-rights agreement; the same article says a 2017 agreement extended the naming rights through the 2033 season, so 'to' is 2033."
 }

@@ -15,5 +15,29 @@
       "by": "rating-review-2026-09-27"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Business Quant: Kroger Co (KR) Institutional Ownership",
+      "date": "2026-06-30",
+      "url": "https://businessquant.com/stocks/kr/institutional-ownership",
+      "note": "Independent aggregator; its 13F figures and dates differ from the proxy's record date, but name the same three holders among Kroger's largest.",
+      "quote": "Kroger's 10 largest shareholders as of June 2026 include BlackRock, Inc. (54.33Mn), Berkshire Hathaway Inc (39.0Mn), VANGUARD CAPITAL MANAGEMENT LLC (35.52Mn), VANGUARD PORTFOLIO MANAGEMENT LLC (30.96Mn), State Street Corp (29.23Mn)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "MarketBeat: The Kroger Co. (KR) Institutional Ownership",
+      "date": "2026-10-01",
+      "url": "https://www.marketbeat.com/stocks/NYSE/KR/institutional-ownership/",
+      "note": "Live page; its latest 13F table carries a 9/15/2026 position date.",
+      "quote": "The most heavily invested institutionals were Vanguard Group Inc. ($4.82B), BlackRock Inc. ($3.02B), Berkshire Hathaway Inc ($2.17B), State Street Corp ($1.62B)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }

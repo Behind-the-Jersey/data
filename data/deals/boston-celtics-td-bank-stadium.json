@@ -4,13 +4,18 @@
   "orgName": "TD Bank",
   "sponsorId": "td-bank",
   "placement": "stadium",
-  "from": null,
-  "to": null,
+  "from": "2005-07",
+  "to": "2045",
   "value": null,
   "source": {
-    "name": "TD Bank / Delaware North (stories.td.com)",
+    "name": "TD Bank / Delaware North (stories.td.com): TD Bank and Delaware North Extend TD Garden Naming Rights Through 2045",
     "date": "2023-01-12",
-    "url": "https://stories.td.com/us/en/article/td-bank-and-delaware-north-extend-td-garden-naming-rights-through-2045"
+    "url": "https://stories.td.com/us/en/article/td-bank-and-delaware-north-extend-td-garden-naming-rights-through-2045",
+    "quote": "today announced a historic 20-year naming rights extension that keeps the beloved landmark and arena name as \"TD Garden” through 2045",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: TD Garden. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-12."
+  "note": "Arena naming rights: TD Garden. The source states TD Bank has been the exclusive naming rights partner of the arena since July 1, 2005; financial terms not disclosed."
 }

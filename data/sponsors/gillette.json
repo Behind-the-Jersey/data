@@ -3,11 +3,20 @@
   "name": "Gillette",
   "ownerId": "procter-and-gamble",
   "ownership": "owned",
-  "tier": "none",
+  "tier": "concern",
   "status": "rated",
-  "verdict": "Owned by The Procter & Gamble Company. Nothing found.",
+  "verdict": "Owned by The Procter & Gamble Company. Amnesty International's 2016 investigation found child and forced labour in Indonesian palm-oil plantations it traced to P&G's supply chain.",
   "claimIds": [
-    "procter-and-gamble-record"
+    "procter-and-gamble-record",
+    "procter-and-gamble-palm-oil-forced-labour-2016"
   ],
-  "aliases": []
+  "aliases": [],
+  "why": {
+    "text": "Gillette is owned by The Procter & Gamble Company. An Amnesty International investigation found child and forced labour on Indonesian palm-oil plantations that P&G is highly likely to source from.",
+    "claimIds": [
+      "procter-and-gamble-palm-oil-forced-labour-2016",
+      "procter-and-gamble-record"
+    ],
+    "status": "draft"
+  }
 }
