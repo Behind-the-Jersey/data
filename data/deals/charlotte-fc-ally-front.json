@@ -1,0 +1,30 @@
+{
+  "id": "charlotte-fc-ally-front",
+  "clubId": "charlotte-fc",
+  "orgName": null,
+  "sponsorId": "ally",
+  "placement": "front",
+  "from": "2022",
+  "to": null,
+  "value": {
+    "amount": 8,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 8000000
+  },
+  "source": {
+    "name": "Sports Business Journal: 'Charlotte FC, Ally Financial weighing sponsorship extension'",
+    "date": "2026-09-29",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/29/charlotte-fc-ally-financial-weighing-sponsorship-extension",
+    "quote": "The bank pays an average of $8M for its Charlotte FC sponsorship, excluding additional investments in promotions, advertising and related programs.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "short": "SBJ",
+    "note": "Average annual figure reported by SBJ citing the Charlotte Business Journal; it covers Ally's whole Charlotte FC sponsorship, not the front-of-kit fee alone. The same article says the deal is within two years of expiring, so no end year is recorded."
+  },
+  "note": "Ally has been the front-of-kit sponsor on every kit in the club's history; the first primary kit, unveiled 2021-12-09 with Ally as lead front-of-jersey sponsor, was worn from the inaugural 2022 MLS season (club announcements of 2021-12-09 and 2026-02-10)."
+}
