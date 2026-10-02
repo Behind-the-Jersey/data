@@ -12,9 +12,15 @@
       "sponsorId": "robinhood",
       "placement": "patch",
       "source": {
-        "name": "Sports Business Journal",
+        "name": "Memphis Grizzlies announce partnership with Robinhood (NBA.com/Grizzlies)",
         "date": "2024-09-19",
-        "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+        "url": "https://www.nba.com/grizzlies/news/memphis-grizzlies-announce-partnership-with-robinhood",
+        "quote": "announced a multi-year partnership with financial services company Robinhood Markets, Inc. as the official investing and jersey patch partner of the Grizzlies",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The release continues: 'The Robinhood logo will be featured on the upper left chest of all Grizzlies uniforms beginning with the 2024-25 season.' The page renders its body with JavaScript; the quoted words sit in the page's embedded article data and description meta tag."
       }
     }
   ],

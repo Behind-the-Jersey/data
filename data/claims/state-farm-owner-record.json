@@ -4,12 +4,30 @@
   "ownerIds": [
     "state-farm-owner"
   ],
-  "text": "State Farm Mutual Automobile Insurance Company is owned by State Farm. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "State Farm Mutual Automobile Insurance Company is owned by State Farm.",
+  "text": "State Farm Mutual Automobile Insurance Company is the parent of the State Farm family of companies, and is a mutual company whose annual report is addressed to its policyholders.",
+  "short": "State Farm Mutual, a mutual company, is the parent of the State Farm companies.",
   "source": {
-    "name": "State Farm Company Overview page",
-    "date": "2026-09-24",
-    "url": "https://www.statefarm.com/about-us/company-overview"
+    "name": "State Farm Newsroom – Cardinals Reach Naming Rights Agreement with State Farm; Iconic Arizona Venue to be Known as State Farm Stadium",
+    "date": "2018-09-04",
+    "url": "https://newsroom.statefarm.com/state-farm-stadium-announcement-phoenix/",
+    "quote": "State Farm Mutual Automobile Insurance Company is the parent of the State Farm family of companies.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-scout (PR #923 review)"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "State Farm – 2025 Annual Report (PDF)",
+      "date": "2025",
+      "url": "https://www.statefarm.com/content/dam/sf-library/en-us/secure/legacy/pdf/2025-annual-report.pdf",
+      "note": "State Farm's annual report for 2025, addressed to State Farm Mutual policyholders.",
+      "quote": "2025 ANNUAL REPORT TO STATE FARM® MUTUAL POLICYHOLDERS At State Farm, our mutual structure makes us unique.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-scout (PR #923 review)"
+      }
+    }
+  ],
   "reviewed": false
 }

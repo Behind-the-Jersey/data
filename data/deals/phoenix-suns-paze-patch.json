@@ -1,0 +1,21 @@
+{
+  "id": "phoenix-suns-paze-patch",
+  "clubId": "phoenix-suns",
+  "orgName": "Paze (Early Warning Services)",
+  "sponsorId": "paze",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "PR Newswire / Early Warning Services, LLC: Phoenix Suns and Arizona-based Early Warning Services announce multi-year agreement to feature Paze on all Suns jerseys",
+    "date": "2026-09-28",
+    "url": "https://www.prnewswire.com/news-releases/phoenix-suns-and-arizona-based-early-warning-services-announce-multi-year-agreement-to-feature-paze-on-all-suns-jerseys-succeeding-paypal-as-the-teams-official-jersey-partner-302890739.html",
+    "quote": "Paze will succeed PayPal as the team's Official Jersey Patch Partner. Beginning with the 2026-27 NBA season, the multi-year partnership will bring the Paze logo to the upper left side of all Suns uniforms.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Jersey patch."
+}

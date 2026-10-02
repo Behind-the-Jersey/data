@@ -1,0 +1,30 @@
+{
+  "id": "vfl-osnabruck-2026-27-home",
+  "clubId": "vfl-osnabruck",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "thomas-philipps",
+      "placement": "front",
+      "source": {
+        "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+        "quote": "Der Heim- und Gartendiscounter Thomas Philipps ist seit Juli 2026 neuer Haupt- und Trikotpartner des VfL Osnabrück.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Translation: 'The home and garden discounter Thomas Philipps has been VfL Osnabrück's new main and shirt partner since July 2026.'"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026-27 home kit. Only the front sponsor is listed, from the DIM sponsor overview (marketinginstitut.biz, 4 August 2026); other placements (sleeve, back, shorts) are not checked yet, so the list is not marked complete.",
+  "change": null
+}

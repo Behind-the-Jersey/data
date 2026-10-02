@@ -1,0 +1,32 @@
+{
+  "id": "saeta-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saeta-international-sports-wear"
+  ],
+  "text": "Saeta is the brand of Saeta International Sports Wear S.A.S., a private Colombian sportswear company founded in Bogotá in 1982 by Pedro Aníbal Carrero, who remains its owner, with members of the Carrero family still in strategic roles.",
+  "short": "Saeta is a private Colombian sportswear company founded and owned by Pedro Aníbal Carrero.",
+  "source": {
+    "name": "Las2orillas: 'El boyacense que pasó de vender dulces a vestir la selección de Haití que hace 52 años no iba a un Mundial'",
+    "date": "2026-06-19",
+    "url": "https://www.las2orillas.co/la-historia-de-saeta-la-pequena-marca-colombiana-que-viste-a-la-seleccion-haiti-que-vuelve-al-mundial/",
+    "quote": "Sigue siendo una empresa colombiana privada, bajo la razón social Saeta International Sports Wear S.A.S., con miembros de la familia Carrero aún al frente de cargos estratégicos.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Infobae: 'Dueño de Saeta, la marca colombiana que fabrica las camisetas de Haití en el Mundial 2026, compartió emotivo mensaje tras el partido con Brasil'",
+      "date": "2026-06-20",
+      "url": "https://www.infobae.com/colombia/2026/06/20/dueno-de-saeta-la-marca-colombiana-que-fabrica-las-camisetas-haiti-en-el-mundial-2026-compartio-emotivo-mensaje-tras-el-partido-con-brasil-sonado/",
+      "quote": "Pedro Aníbal Carrero, fundador y propietario de la marca de ropa deportiva Saeta",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

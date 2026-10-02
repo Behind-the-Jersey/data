@@ -14,7 +14,12 @@
       "source": {
         "name": "MLB.com press release (Chicago Cubs)",
         "date": "2024-08-01",
-        "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner"
+        "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner",
+        "quote": "The Chicago Cubs today announced a multiyear agreement with Motorola Mobility as the club’s “Official Jersey Patch Partner,” placing the iconic Motorola “batwing” logo on all home, road and alternate jerseys",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

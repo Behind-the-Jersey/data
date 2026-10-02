@@ -1,12 +1,14 @@
 {
   "id": "paypal",
   "name": "PayPal",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "paypal-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "paypal-holdings-listed"
+  ],
   "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Phoenix Suns jersey patch 2018–2026, succeeded by Paze. Ownership claim added 2026-10-01."
 }

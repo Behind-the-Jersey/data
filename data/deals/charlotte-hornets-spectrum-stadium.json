@@ -10,7 +10,12 @@
   "source": {
     "name": "Charter Communications newsroom",
     "date": "2016-08-17",
-    "url": "https://corporate.charter.com/newsroom/charlotte-hornets-announce-arena-to-be-renamed-spectrum-center"
+    "url": "https://corporate.charter.com/newsroom/charlotte-hornets-announce-arena-to-be-renamed-spectrum-center",
+    "quote": "Hornets Sports & Entertainment and Charter Communications today announced that “Spectrum Center” will be replacing Time Warner Cable Arena as the name of the Hornets’ home arena",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Arena naming rights: Spectrum Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2016-08-17."
 }
