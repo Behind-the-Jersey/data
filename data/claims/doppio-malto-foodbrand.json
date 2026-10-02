@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Il Giorno, '\"La birra è un social\". Segreto di Doppio Malto'",
+      "date": "2023-11-21",
+      "url": "https://www.ilgiorno.it/speciali/trova-mi/la-birra-e-un-social-segreto-di-doppio-malto-5018c63c",
+      "quote": "Parola di Giovanni Porcu, ad di Foodbrand Spa, società all’interno della quale rientra Doppio Malto.",
+      "note": "Italian. Names Porcu CEO of FoodBrand S.p.A. and places Doppio Malto inside it.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-scout (review of PR #1017)"
+      }
+    }
+  ],
   "reviewed": false
 }

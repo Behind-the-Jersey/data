@@ -18,5 +18,18 @@
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "retail&food, 'Intervista a Giovanni Porcu: “Doppio Malto sarà gigante. E resta indipendente”'",
+      "date": "2023-12-14",
+      "url": "https://www.retailfood.it/2023/12/14/intervista-a-giovanni-porcu-doppio-malto-sara-gigante-e-resta-indipendente",
+      "quote": "A proposito di rapporti, Doppio Malto appartiene al 100% a Giovanni Porcu.",
+      "note": "Italian. The trade magazine's own interview framing: Doppio Malto belongs 100% to Giovanni Porcu.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-scout (review of PR #1017)"
+      }
+    }
+  ],
   "reviewed": false
 }
