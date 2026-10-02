@@ -1,14 +1,24 @@
 {
   "id": "aws",
   "name": "Amazon Web Services (AWS)",
-  "ownerId": "aws-owner",
+  "ownerId": "amazon-com-inc",
   "ownership": "owned",
-  "tier": "none",
+  "tier": "concern",
   "status": "rated",
-  "verdict": "Owned by Amazon Web Services (AWS). Nothing found.",
+  "verdict": "Amazon Web Services (AWS) is an Amazon.com company; Amnesty International documented serious abuses of Nepali migrant workers contracted to Amazon's warehouses in Saudi Arabia.",
   "claimIds": [
-    "aws-owner-record"
+    "aws-amazon-ownership",
+    "amazon-migrant-worker-record"
   ],
   "aliases": [],
-  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  "note": "Re-rated concern (proposed 2026-10-01): the link is aws-amazon-ownership (AWS is an Amazon.com company; Amazon.com, Inc.'s Form 10-K lists AWS as one of its three segments) and the record is amazon-migrant-worker-record (Amnesty International's 2023 report on Nepali migrant workers contracted to Amazon's warehouses in Saudi Arabia). Company test, so the rating rests on the company's own record; a maintainer decides.",
+  "why": {
+    "text": "Amazon Web Services is an Amazon.com company. Amnesty International's report documents serious human rights abuses of Nepali migrant workers contracted to Amazon's warehouses in Saudi Arabia, and says many are highly likely to be victims of human trafficking.",
+    "claimIds": [
+      "amazon-migrant-worker-record",
+      "aws-amazon-ownership"
+    ],
+    "messageLine": "Amnesty International documented serious abuses of Nepali migrant workers at Amazon's warehouses in Saudi Arabia.",
+    "status": "draft"
+  }
 }

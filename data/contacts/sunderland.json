@@ -3,32 +3,47 @@
   "channels": [
     {
       "type": "contact-form",
-      "value": "https://www.safc.com/contact",
-      "label": "Contact form",
+      "value": "https://sunderlandafc.zendesk.com/hc/en-us/requests/new",
+      "label": "General enquiries (Ask SAFC)",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.safc.com/contact",
-        "date": "2026-09-24"
+        "name": "Sunderland AFC – 'Contact us'",
+        "url": "https://www.safc.com/club-information/contact-us",
+        "date": "2026-10-01",
+        "quote": "For additional information or further support, simply Ask SAFC.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@sunderlandafc",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.safc.com/",
-        "date": "2026-09-24"
+        "name": "Sunderland AFC – 'Contact us' (footer social links)",
+        "url": "https://www.safc.com/club-information/contact-us",
+        "date": "2026-10-01",
+        "quote": "If you have an enquiry or wish to speak to a member of our team, please refer to the options below.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@sunderlandafc",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.safc.com/",
-        "date": "2026-09-24"
+        "name": "Sunderland AFC – 'Contact us' (footer social links)",
+        "url": "https://www.safc.com/club-information/contact-us",
+        "date": "2026-10-01",
+        "quote": "If you have an enquiry or wish to speak to a member of our team, please refer to the options below.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

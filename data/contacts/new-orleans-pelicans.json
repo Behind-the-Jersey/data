@@ -4,28 +4,31 @@
     {
       "type": "email",
       "value": "fanexperience@pelicans.com",
+      "label": "Fan Experience",
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/pelicans/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01"
       }
     },
     {
       "type": "email",
-      "value": "%20entertainment@pelicans.com",
+      "value": "entertainment@pelicans.com",
+      "label": "Game Presentation",
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/pelicans/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01"
       }
     },
     {
       "type": "phone",
       "value": "15045254667",
+      "label": "Fan Experience",
       "source": {
         "name": "Club website contact page",
-        "url": "https://www.nba.com/pelicans/",
-        "date": "2026-09-24"
+        "url": "https://www.nba.com/pelicans/contact-us",
+        "date": "2026-10-01"
       }
     },
     {
@@ -35,7 +38,7 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/pelicans/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01"
       }
     },
     {
@@ -43,8 +46,8 @@
       "value": "@PelicansNBA",
       "source": {
         "name": "Club website contact page",
-        "url": "https://www.nba.com/pelicans/",
-        "date": "2026-09-24"
+        "url": "https://www.nba.com/pelicans/contact-us",
+        "date": "2026-10-01"
       }
     },
     {
@@ -52,10 +55,10 @@
       "value": "@pelicansnba",
       "source": {
         "name": "Club website contact page",
-        "url": "https://www.nba.com/pelicans/",
-        "date": "2026-09-24"
+        "url": "https://www.nba.com/pelicans/contact-us",
+        "date": "2026-10-01"
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

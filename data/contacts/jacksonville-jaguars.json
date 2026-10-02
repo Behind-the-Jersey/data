@@ -2,42 +2,62 @@
   "clubId": "jacksonville-jaguars",
   "channels": [
     {
-      "type": "email",
-      "value": "ticketing@jaguars.com",
-      "source": {
-        "name": "Club website contact page",
-        "url": "https://www.jaguars.com/",
-        "date": "2026-09-24"
-      }
-    },
-    {
       "type": "contact-form",
       "value": "https://www.jaguars.com/forms/contactus",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "jaguars.com — Jaguars Contact Us",
         "url": "https://www.jaguars.com/forms/contactus",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Jaguars Contact Us | Jacksonville Jaguars",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@Jaguars",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.jaguars.com/",
-        "date": "2026-09-24"
+        "name": "jaguars.com — CONNECT footer",
+        "url": "https://www.jaguars.com/forms/contactus",
+        "date": "2026-10-01",
+        "quote": "Instagram (@jaguars) X (@jaguars) Facebook (@jacksonvillejaguars)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@jaguars",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.jaguars.com/",
-        "date": "2026-09-24"
+        "name": "jaguars.com — CONNECT footer",
+        "url": "https://www.jaguars.com/forms/contactus",
+        "date": "2026-10-01",
+        "quote": "Instagram (@jaguars) X (@jaguars) Facebook (@jacksonvillejaguars)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "facebook",
+      "value": "@jacksonvillejaguars",
+      "source": {
+        "name": "jaguars.com — CONNECT footer",
+        "url": "https://www.jaguars.com/forms/contactus",
+        "date": "2026-10-01",
+        "quote": "Instagram (@jaguars) X (@jaguars) Facebook (@jacksonvillejaguars)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
