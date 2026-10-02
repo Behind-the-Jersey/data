@@ -1,0 +1,36 @@
+{
+  "id": "pgpic-oil-pension-fund-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "oil-industry-pension-fund",
+    "pgpic",
+    "government-of-iran"
+  ],
+  "text": "The Oil Industry Pension Fund group is the main shareholder of PGPIC (the TSE-listed 'Fars' holding): 38% as of September 2026 (Asr-e Iran, relaying Dideban). In March 2024, EcoIran reported that the fund's affiliates Taban Farda Petrochemical Group and Ehdaf Investment jointly held 30% and were its main shareholders.",
+  "short": "Iran's Oil Industry Pension Fund group holds ~38% of PGPIC and is its main shareholder.",
+  "source": {
+    "name": "Asr-e Iran (relaying Dideban): نفتی ها علیه هلدینگ خلیج فارس؛ مجمع فارس به نصاب نرسید (AGM lacks quorum as the fund group stayed away)",
+    "date": "2026-09-05",
+    "url": "https://www.asriran.com/fa/news/1189430/%D9%86%D9%81%D8%AA%DB%8C-%D9%87%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D9%87%D9%84%D8%AF%DB%8C%D9%86%DA%AF-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D9%85%D8%AC%D9%85%D8%B9-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87-%D9%86%D8%B5%D8%A7%D8%A8-%D9%86%D8%B1%D8%B3%DB%8C%D8%AF",
+    "quote": "این مجمع به رغم حضور ۴۲.۸۹ درصد از سهامداران در پژوهشگاه صنعت نفت، به دلیل خودداری مجموعه صندوق بازنشستگی نفت سهامدار ۳۸ درصدی فارس از حضور در این مجمع، به نصاب قانونی نرسید و برگزار نشد.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Translation: 'Even though 42.89% of shareholders attended at the Research Institute of the Petroleum Industry, the AGM failed to reach legal quorum because the Oil Industry Pension Fund group — holder of 38% of Fars — stayed away.' Published 14 Shahrivar 1405 (5 September 2026), credited to Dideban."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "EcoIran: بزرگترین سهامداران «خلیج فارس» (the largest shareholders of Khalij Fars), archived copy",
+      "date": "2024-03-21",
+      "url": "http://web.archive.org/web/20250318132507/https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D9%86%D9%81%D8%AA-%DA%AF%D8%A7%D8%B2-131/60249-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3",
+      "quote": "سهامداران عمده فارس گروه پتروشیمی تابان فردا و سرمایه گذاری اهداف که وابسته به شرکت صندوق بازنشستگی نفت هستند مجموعا با ۳۰ درصد، سهامدار اصلی فارس به شمار می روند.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'The major shareholders of Fars, the Taban Farda Petrochemical Group and Ehdaf Investment — affiliated with the Oil Industry Pension Fund company — together hold 30% and are the main shareholders of Fars.' The article says its data is as of 15 Esfand 1402 (5 March 2024)."
+    }
+  ]
+}

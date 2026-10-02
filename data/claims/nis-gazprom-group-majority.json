@@ -1,0 +1,33 @@
+{
+  "id": "nis-gazprom-group-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "nis-ad",
+    "gazprom-neft"
+  ],
+  "text": "Gazprom-group companies hold a majority of NIS a.d.: Gazprom Neft owns 44.85% of the shares and Gazprom a further 11.3% through Gazprom Capital, while the Serbian government holds 29.87%. The agreed sale of the Russian stake to Hungary's MOL had not closed as of 29 September 2026.",
+  "short": "Gazprom Neft owns 44.85% of NIS and Gazprom 11.3% via Gazprom Capital; the MOL buyout has not closed.",
+  "source": {
+    "name": "AK&M Information Agency: Hungarian MOL and Serbian government sign NIS agreement",
+    "date": "2026-10-01",
+    "url": "https://www.akm.ru/eng/news/hungarian-mol-and-serbian-government-sign-nis-agreement/",
+    "quote": "Gazprom Neft currently owns 44.85% of NIS shares, Gazprom - 11.3% through Gazprom Capital (plus one share directly), the Government of Serbia \u2014 29.87%",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Srpske Novine (srpske.rs): Two GOP Lawmakers Urge Bessent to Deny NIS a New License",
+      "date": "2026-09-29",
+      "url": "https://srpske.rs/en/news/ekonomija/2026/09/29/republican-lawmakers-urge-bessent-deny-nis-new-license",
+      "quote": "Russian owners hold 56.15% of NIS, of which 44.85% belongs to Gazprom Neft. Hungary\u2019s MOL announced in January that it had reached a deal with Gazprom Neft to take over its stake, but the transaction has not closed.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

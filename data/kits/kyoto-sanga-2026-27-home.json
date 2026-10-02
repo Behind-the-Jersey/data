@@ -1,0 +1,137 @@
+{
+  "id": "kyoto-sanga-2026-27-home",
+  "clubId": "kyoto-sanga",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "kyocera",
+      "placement": "front",
+      "source": {
+        "name": "京都サンガF.C.: 2026/27シーズン ユニフォームスポンサーのご紹介 (uniform sponsors announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21129",
+        "note": "Front (chest): 京セラ株式会社 (Kyocera Corporation).",
+        "quote": "前面 京セラ株式会社",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "bank-of-kyoto",
+      "placement": "front",
+      "source": {
+        "name": "京都サンガF.C.: 2026/27シーズン ユニフォームスポンサーのご紹介 (uniform sponsors announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21129",
+        "note": "Front (right collarbone): 株式会社京都銀行 (The Bank of Kyoto, Ltd.).",
+        "quote": "右鎖骨 株式会社京都銀行",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "horiba",
+      "placement": "front",
+      "source": {
+        "name": "京都サンガF.C.: 2026/27シーズン ユニフォームスポンサーのご紹介 (uniform sponsors announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21129",
+        "note": "Front (left collarbone): 株式会社堀場製作所 (HORIBA, Ltd.).",
+        "quote": "左鎖骨 株式会社堀場製作所",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "wacoal",
+      "placement": "sleeve",
+      "source": {
+        "name": "京都サンガF.C.: 2026/27シーズン ユニフォームスポンサーのご紹介 (uniform sponsors announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21129",
+        "note": "Left sleeve: 株式会社ワコール (Wacoal Corp.).",
+        "quote": "左袖 株式会社ワコール",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nintendo-co-ltd",
+      "placement": "back",
+      "source": {
+        "name": "京都サンガF.C.: 2026/27シーズン ユニフォームスポンサーのご紹介 (uniform sponsors announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21129",
+        "note": "Back (above the number): 任天堂株式会社 (Nintendo Co., Ltd.).",
+        "quote": "背面 任天堂株式会社",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "kddi",
+      "placement": "back",
+      "source": {
+        "name": "京都サンガF.C.: 2026/27シーズン ユニフォームスポンサーのご紹介 (uniform sponsors announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21129",
+        "note": "Back, lower part (below the number, hem): KDDI株式会社 (KDDI Corporation).",
+        "quote": "背面下部 KDDI株式会社",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "daiwa-securities",
+      "placement": "shorts",
+      "source": {
+        "name": "京都サンガF.C.: 2026/27シーズン ユニフォームスポンサーのご紹介 (uniform sponsors announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21129",
+        "note": "Shorts: 大和証券株式会社 (Daiwa Securities Co. Ltd.).",
+        "quote": "パンツ 大和証券株式会社",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "京都サンガF.C.: 『2026/27シーズン ユニフォームデザイン』決定のお知らせ (uniform design announcement)",
+        "date": "2026-06-15",
+        "url": "https://www.sanga-fc.jp/news/detail/21128",
+        "note": "Uniform supplier: プーマ ジャパン株式会社 (Puma Japan K.K.).",
+        "quote": "プーマ ジャパン株式会社",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "change": null,
+  "summary": "Kyoto Sanga 2026/27 home shirt: Kyocera front (chest), Bank of Kyoto (right collarbone) and HORIBA (left collarbone), Wacoal on the left sleeve, Nintendo on the back, KDDI below the back number, and Daiwa Securities on the shorts, with Puma as kit supplier. All placements confirmed on the club's 2026-06-15 uniform sponsors announcement; the supplier is named on the club's uniform design announcement of the same day.",
+  "headline": "Kyocera pays for the front of Kyoto Sanga's shirt",
+  "shortLine": "Kyocera front, Nintendo back, Wacoal sleeve"
+}
