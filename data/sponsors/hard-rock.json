@@ -10,5 +10,5 @@
     "seminole-tribe-of-florida-record"
   ],
   "aliases": [],
-  "note": "Rating note: Owner type mapped to private-company because the enum has no 'tribe' value. Revisit if the schema later adds one."
+  "note": "Rating note: Owner type reclassified to 'state' (2026-10-01, #952): the tribe is a federally recognized tribal government (semtribe.com), and the owner type enum has no 'tribe' value. State ownership alone is not a tier (METHOD.md)."
 }

@@ -1,0 +1,34 @@
+{
+  "id": "congstar-telekom-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "telekom-deutschland-gmbh",
+    "deutsche-telekom-ag"
+  ],
+  "text": "congstar is a brand of Telekom Deutschland GmbH, Bonn. Deutsche Telekom AG holds 100% of Telekom Deutschland GmbH’s shares and voting rights (as of 31 December 2025).",
+  "source": {
+    "name": "congstar: Impressum",
+    "date": "2026",
+    "url": "https://www.congstar.de/impressum/",
+    "quote": "congstar – eine Marke der Telekom Deutschland GmbH",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'congstar – a brand of Telekom Deutschland GmbH'."
+  },
+  "additionalSources": [
+    {
+      "name": "Deutsche Telekom Annual Report 2025: Principal subsidiaries",
+      "date": "2026",
+      "url": "https://report.telekom.com/annual-report-2025/notes/summary-of-accounting-policies/principal-subsidiaries.html",
+      "quote": "Telekom Deutschland GmbH, Bonn, Germany Dec. 31, 2025/2025 100.00 100.00 100.00",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+      },
+      "note": "A row of the table of the Group's principal subsidiaries. Its first three figures are Deutsche Telekom's share, its share including treasury shares, and the percentage of voting rights it holds, in %."
+    }
+  ],
+  "reviewed": false
+}

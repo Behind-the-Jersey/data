@@ -1,0 +1,33 @@
+{
+  "id": "vonovia-se-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vonovia-se"
+  ],
+  "text": "Vonovia SE is a listed company based in Bochum (Bochum Local Court, HRB 16879). Its half-year presentation of 5 August 2026 names Norges Bank, which manages Norway’s sovereign wealth fund, as its largest shareholder with 14.0%, and shows BlackRock with 8.0%, APG with 3.7% and 74.3% other free float (as of 30 June 2026).",
+  "source": {
+    "name": "Vonovia SE: Impressum",
+    "date": "2026",
+    "url": "https://www.vonovia.com/impressum",
+    "quote": "Sitz der Gesellschaft: Bochum Registergericht: Amtsgericht Bochum Registernummer: HRB 16879",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'Registered office: Bochum. Registry court: Bochum Local Court. Register number: HRB 16879'."
+  },
+  "additionalSources": [
+    {
+      "name": "Vonovia SE: Wohnungsmarkt Halbjahresbericht 2026",
+      "date": "2026-08-05",
+      "url": "https://www.vonovia.com/content/download/338852/17347910",
+      "quote": "Die Norges Bank ist mit insgesamt 14,0 % größter Anteilseigner von Vonovia.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Norges Bank, with 14.0% in total, is Vonovia's largest shareholder.' The next sentence says it manages the Norwegian sovereign wealth fund. The shareholder-structure chart on the same slide (as of 30 June 2026) shows Norges 14.0%, BlackRock 8.0%, APG 3.7% and other free float 74.3%. A PDF presentation dated Bochum, 5 August 2026."
+    }
+  ],
+  "reviewed": false
+}

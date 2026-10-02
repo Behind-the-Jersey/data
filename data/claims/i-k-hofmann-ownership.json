@@ -1,0 +1,32 @@
+{
+  "id": "i-k-hofmann-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "i-k-hofmann-gmbh"
+  ],
+  "text": "I. K. Hofmann GmbH is a company registered in the commercial register of the Nuremberg Local Court (HRB 6852), based in Nuremberg. Its website calls its founder, Ingrid Hofmann, its sole shareholder.",
+  "source": {
+    "name": "I. K. Hofmann GmbH: Impressum",
+    "date": "2026",
+    "url": "https://www.hofmann.info/impressum/",
+    "quote": "I. K. Hofmann GmbH Lina-Ammon-Str. 19 90471 Nürnberg",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "I. K. Hofmann GmbH: Ingrid Hofmann: Von der Vision zur Erfolgsstory",
+      "date": "2026",
+      "url": "https://www.hofmann.info/hofmann-personal/ingrid-hofmann/",
+      "quote": "Mit dabei sind Ingrid Hofmann und Sonja Heinrich. Mutter und Tochter. Die eine ist Gründerin und Alleingesellschafterin, die andere Unternehmerin der nächsten Generation.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Ingrid Hofmann and Sonja Heinrich take part. Mother and daughter. One is the founder and sole shareholder, the other an entrepreneur of the next generation.' The page is the company's portrait of its founder, Ingrid Hofmann."
+    }
+  ],
+  "reviewed": false
+}
