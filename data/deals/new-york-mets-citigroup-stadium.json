@@ -6,11 +6,23 @@
   "placement": "stadium",
   "from": null,
   "to": null,
-  "value": null,
+  "value": {
+    "amount": 400,
+    "currency": "USD",
+    "unit": "m",
+    "per": "20 years",
+    "upTo": false,
+    "usdApprox": 400
+  },
   "source": {
-    "name": "Chief Marketer",
+    "name": "Chief Marketer: Citigroup Gets Shea Naming Rights for $400 million",
     "date": "2006-11-14",
-    "url": "https://www.chiefmarketer.com/citigroup-gets-shea-naming-rights-for-400-million/"
+    "url": "https://www.chiefmarketer.com/citigroup-gets-shea-naming-rights-for-400-million/",
+    "quote": "a $400 million deal between Citigroup and the National League team. The 20-year naming agreement, said to be the largest of its kind, was announced yesterday.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Arena naming rights: Citi Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2006-11-14."
 }

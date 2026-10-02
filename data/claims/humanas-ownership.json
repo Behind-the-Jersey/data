@@ -1,0 +1,32 @@
+{
+  "id": "humanas-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "humanas-pflege-gmbh-co-kg"
+  ],
+  "text": "Humanas Pflege GmbH & Co. KG is a limited partnership registered in the commercial register of the Stendal Local Court (HRA 5861), based in Colbitz. Humanas names Ina Kadlubietz and Dr. Jörg Biastoch as its two managing shareholders and calls itself a family company.",
+  "source": {
+    "name": "Humanas Pflege GmbH & Co. KG: Impressum",
+    "date": "2026",
+    "url": "https://www.humanas.de/impressum/",
+    "quote": "Humanas Pflege GmbH & Co. KG Südstraße 1 39326 Colbitz",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Humanas Pflege GmbH & Co. KG: Humanas bestellt erstmals Geschäftsführer",
+      "date": "2024-03-01",
+      "url": "https://www.humanas.de/humanas-bestellt-erstmals-geschaeftsfuehrer/",
+      "quote": "erklären die beiden geschäftsführenden Gesellschafter Ina Kadlubietz und Dr. Jörg Biastoch",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+      },
+      "note": "Translation: '... explain the two managing shareholders Ina Kadlubietz and Dr. Jörg Biastoch'. The post says Fabian Biastoch, appointed managing director from 1 March 2024, is the first managing director from outside the circle of shareholders, and quotes the two shareholders on carrying on 'das Familienunternehmen' (the family company)."
+    }
+  ],
+  "reviewed": false
+}
