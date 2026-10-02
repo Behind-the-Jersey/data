@@ -4,17 +4,29 @@
   "ownerIds": [
     "perdue-farms-owner"
   ],
-  "text": "Perdue Farms is a privately held, family-owned agriculture company (fourth-generation Perdue family) with no state ownership.",
-  "short": "Perdue Farms is a privately held, family-owned agriculture company (fourth-generation Perdue family) with no state ownership.",
+  "text": "Perdue Farms is a fourth-generation, family-owned, U.S. food and agriculture company.",
+  "short": "Fourth-generation, family-owned U.S. food and agriculture company.",
   "source": {
-    "name": "Legal Clarity Perdue Farms ownership page",
-    "date": "2026-06-13",
-    "url": "https://legalclarity.org/who-owns-perdue-chicken-its-still-family-owned",
-    "quote": "Perdue Farms is owned entirely by the Perdue family, who have held the company privately for four generations since Arthur and Pearl Perdue founded it in 1920.",
+    "name": "Perdue Farms (press release): PERDUE NAMED OFFICIAL CHICKEN OF THE BALTIMORE RAVENS",
+    "date": "2026-07-20",
+    "url": "https://corporate.perduefarms.com/press-releases/perdue-named-official-chicken-baltimore-ravens",
+    "quote": "We're a fourth-generation, family-owned, U.S. food and agriculture company.",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Baltimore Ravens: Perdue Named Official Chicken of the Baltimore Ravens",
+      "date": "2026-07-20",
+      "url": "https://www.baltimoreravens.com/news/perdue-named-official-chicken-of-the-baltimore-ravens",
+      "quote": "We're a fourth-generation, family-owned, U.S. food and agriculture company.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
