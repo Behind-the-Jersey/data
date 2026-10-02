@@ -2,6 +2,36 @@
   "clubId": "miami-heat",
   "channels": [
     {
+      "type": "email",
+      "value": "guestservices@heat.com",
+      "label": "Guest Services",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/heat/contact",
+        "date": "2026-10-01",
+        "quote": "Contact Guest Services",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+17867771000",
+      "label": "Main number",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/heat/contact",
+        "date": "2026-10-01",
+        "quote": "601 Biscayne Blvd. Miami, FL 33132 - (786) 777-1000",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@miamiheat",
       "source": {
@@ -20,5 +50,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

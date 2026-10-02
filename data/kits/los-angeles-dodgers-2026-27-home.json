@@ -12,9 +12,14 @@
       "sponsorId": "guggenheim",
       "placement": "patch",
       "source": {
-        "name": "DodgerBlue",
+        "name": "DodgerBlue: Dodgers Announce Partnership With UNIQLO And New Dodger Stadium Field Name",
         "date": "2026-03-25",
-        "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+        "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/",
+        "quote": "The Dodgers’ search for a jersey patch sponsor came to an end after one season, with the organization eventually settling on Guggenheim.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

@@ -1,0 +1,21 @@
+{
+  "id": "trustbank-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "trustbank"
+  ],
+  "text": "Trustbank is a private joint-stock bank ('«Trastbank» хususiy aksiyadorlik banki'). Its own disclosure of shareholders holding over 5% lists only private individuals and private companies: Parpiyev D.B. 24.635%, Sharipov T.M. 21.915%, Presystem Universal LLC 17.995% (ultimate beneficiaries Sharipov T.M. and Parpiyev D.B.), Maxmudova D.M. 15.03%, Diminur Group LLC 12.115% and MADI GmbH (Germany) 5.00%.",
+  "short": "Trustbank's own disclosure: all shareholders above 5% are private; largest are Parpiyev (24.6%) and Sharipov (21.9%).",
+  "source": {
+    "name": "Trastbank PJSC: '5 foizdan ortiq Bank aksiyalariga ega aksiyadorlar' (shareholders holding over 5%)",
+    "date": "2026-10-01",
+    "url": "https://trustbank.uz/uz/shareholders/structure/over-5-percent/",
+    "quote": "Parpiyev D.B. 24,635% Oddiy aksiya",
+    "note": "The disclosure table lists six shareholders above 5%, all private: two Uzbek individuals (Parpiyev D.B. 24,635%; Sharipov T.M. 21,915%), three Uzbek LLCs whose named ultimate beneficiaries are individuals, and MADI GmbH of Germany (5,00%).",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

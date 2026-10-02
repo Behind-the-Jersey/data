@@ -1,0 +1,21 @@
+{
+  "id": "muang-thai-life-shareholding",
+  "kind": "ownership",
+  "ownerIds": [
+    "muang-thai-life-assurance"
+  ],
+  "text": "Muang Thai Life Assurance Public Company Limited is held by Muang Thai Group Holding Co., Ltd. (75.00003%) and Ageas Insurance International N.V. (24.99990%), with others holding 0.00007% (MTL IR Fact Sheet, board data as of 31 March 2025).",
+  "short": "MTL is 75.0% held by Muang Thai Group Holding and 25.0% by Ageas Insurance International.",
+  "source": {
+    "name": "Muang Thai Life Assurance PCL: IR Fact Sheet Vol.96 (Q1/2025), shareholding section",
+    "date": "2025-05-27",
+    "url": "https://www.muangthai.co.th/filestorage/media/download-file/20250527%20IR%20Fact%20Sheet_Vol.96_Q1-25_EN.pdf",
+    "quote": "MTL SHAREHOLDING PROPORTION OVERSEAS INVESTMENT Muang Thai Group  Holding Co., Ltd. 75.00003% Ageas Insurance  International NV 24.99990%",
+    "note": "Company-stated shareholder split; double spaces reproduce the PDF text extraction. MTL converted to a public limited company on 1 Oct 2012 but this float of 0.00007% shows it is effectively unlisted.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
