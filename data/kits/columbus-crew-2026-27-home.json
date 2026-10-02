@@ -12,13 +12,51 @@
       "sponsorId": "nationwide",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "Columbus Crew – 'Columbus Crew launch \"The Crafted for Excellence Kit\" ahead of 2026 season'",
+        "date": "2026-02-10",
+        "url": "https://www.columbuscrew.com/news/columbus-crew-launch-the-crafted-for-excellence-kit-ahead-of-2026-season",
+        "quote": "The front and center of the kit proudly feature the Club’s official jersey sponsor, Nationwide. DHL Supply Chain returns in 2026 as the Club’s official right sleeve partner.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club's own kit-launch announcement. For Soccer's 2026 MLS jersey-sponsor roundup (https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/) lists the same placements: Nationwide front, DHL right sleeve, Apple TV left sleeve."
+      }
+    },
+    {
+      "sponsorId": "dhl",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "Columbus Crew – 'Columbus Crew launch \"The Crafted for Excellence Kit\" ahead of 2026 season'",
+        "date": "2026-02-10",
+        "url": "https://www.columbuscrew.com/news/columbus-crew-launch-the-crafted-for-excellence-kit-ahead-of-2026-season",
+        "quote": "The front and center of the kit proudly feature the Club’s official jersey sponsor, Nationwide. DHL Supply Chain returns in 2026 as the Club’s official right sleeve partner.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "DHL Supply Chain is the right-sleeve partner; the Apple TV league patch is on the left sleeve."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide patch; For Soccer's 2026 roundup also lists Apple TV on the Columbus Crew left sleeve."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "The Crafted for Excellence Kit, the adidas home jersey launched 10 February 2026 with a collar and coral and teal accents. Nationwide is on the front; DHL Supply Chain returns as the right-sleeve partner; the league-wide Apple TV+ patch is on the left sleeve of every MLS kit."
 }
