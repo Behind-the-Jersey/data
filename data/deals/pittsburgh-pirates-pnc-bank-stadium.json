@@ -4,13 +4,19 @@
   "orgName": "PNC Bank (PNC Financial Services)",
   "sponsorId": "pnc-bank",
   "placement": "stadium",
-  "from": null,
+  "from": "2001",
   "to": null,
   "value": null,
   "source": {
-    "name": "Pittsburgh Pirates / MLB.com press release",
+    "name": "MLB.com / Pittsburgh Pirates press release: Pirates and PNC Bank announce ballpark naming rights extension",
     "date": "2021-03-04",
-    "url": "https://www.mlb.com/press-release/press-release-pirates-pnc-bank-ballpark-rights-extension"
+    "url": "http://web.archive.org/web/20220125192044/https://www.mlb.com/press-release/press-release-pirates-pnc-bank-ballpark-rights-extension",
+    "note": "Club press release, read via the Wayback Machine capture of 2022-01-25 because the live mlb.com page blocks scripts. Ten-year extension of the PNC Park naming rights.",
+    "quote": "The Pittsburgh Pirates and PNC Bank today announced a 10-year extension to their current agreement, the centerpiece of which is the continued naming rights of PNC Park.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: PNC Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-03-04."
+  "note": "Ballpark naming rights: PNC Park. The release says the original 20-year naming-rights agreement was set to expire prior to the 2021 season and that PNC Park opened on April 9, 2001, so the naming rights began in 2001; this 2021 release announces a 10-year extension, and the value was not disclosed."
 }

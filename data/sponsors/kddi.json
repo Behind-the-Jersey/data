@@ -1,0 +1,17 @@
+{
+  "id": "kddi",
+  "name": "KDDI",
+  "ownerId": "kddi-corporation",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "kddi-corporation-shareholders"
+  ],
+  "aliases": [
+    "KDDI株式会社",
+    "KDDI Corporation"
+  ],
+  "note": "Back (below the number, hem) sponsor of Kyoto Sanga 2026-27 per the club's uniform sponsors announcement, 2026-06-15. Ownership is sourced (kddi-corporation-shareholders: TSE-listed, largest holders Master Trust trust account 15.77%, Kyocera 14.75%, Toyota 9.54%, Custody Bank 6.63%; national and local governments 0.00%). Left unrated for a maintainer, matching the decision left open on the Lawson record (Lawson is held 50% by KDDI): Norway's Council on Ethics recommended on 29 June 2023 that the Government Pension Fund Global exclude KDDI for 'an unacceptable risk that the company is contributing to serious violation of the rights of individuals in situations of war and conflict' through its joint operation with Myanmar's state telecom operator MPT; Norges Bank placed KDDI under observation on 18 December 2023 (https://etikkradet.no/kddi-corp-2/). The Council says KDDI 'plays no direct role in the surveillance'. This is a state fund's risk assessment, not a court, regulator, UN or NGO finding of abuse, so on a strict reading of METHOD.md KDDI is 'none'; a maintainer decides. No finding against KDDI itself meeting METHOD.md was found in a quick check (2026-10-01)."
+}

@@ -1,12 +1,14 @@
 {
   "id": "nintendo",
   "name": "Nintendo (Nintendo of America)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "nintendo-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "nintendo-owner-ownership"
+  ],
   "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Nintendo of America Inc. is a wholly-owned subsidiary of the Japanese listed company Nintendo Co., Ltd.; no state in the ownership chain. Proposed Nothing found: the NLRB complaints against Nintendo of America (2022-2026) are complaints, one later withdrawn, not METHOD.md findings."
 }

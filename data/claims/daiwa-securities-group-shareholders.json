@@ -1,0 +1,21 @@
+{
+  "id": "daiwa-securities-group-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "daiwa-securities-group"
+  ],
+  "text": "Daiwa Securities Group Inc. (listed in Tokyo and Nagoya, code 8601) lists its top 10 shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 14.74%), Custody Bank of Japan, Ltd. (trust account, 4.63%), Taiyo Life Insurance Company (2.96%), Nippon Life Insurance Company (2.24%), Japan Post Holdings Co., Ltd. (2.16%), State Street Bank and Trust Company 505001 (1.86%), JP Morgan Chase Bank 385781 (1.40%), Nomura Trust and Banking (investment trust account, 1.36%), the Daiwa shareholding association (1.24%) and Barclays Securities (1.00%).",
+  "short": "Daiwa Securities Group is listed; its largest holder is Master Trust (14.74%); Japan Post Holdings holds 2.16%.",
+  "source": {
+    "name": "大和証券グループ本社: 株式の状況 (Daiwa Securities Group Inc.: status of shares)",
+    "date": "2026-03-31",
+    "url": "https://www.daiwa-grp.jp/ir/shareholders/stock.html",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 204,275千株（14.74％）",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "大株主（上位10名）（2026年3月31日現在）= top-10 major shareholders as of 31 March 2026; ratios net of treasury shares. The by-owner-type chart's 'other' bucket includes government and local public bodies (注3)."
+  },
+  "reviewed": false
+}

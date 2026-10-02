@@ -1,0 +1,34 @@
+{
+  "id": "esteghlal-pgpic-majority-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "pgpic"
+  ],
+  "text": "Persian Gulf Petrochemical Industries (PGPIC, 'Khalij Fars') is the majority shareholder of Esteghlal FC. Of the club's ~1,793 billion toman operational revenue in the year ended 30 Tir 1404 (July 2025), ~1,772 billion came from sponsorship and perimeter advertising, of which ~1,735 billion was booked from PGPIC.",
+  "short": "PGPIC is the majority shareholder of Esteghlal FC.",
+  "source": {
+    "name": "Fartak Varzeshi: بررسی قرارداد اسپانسری استقلال با پتروشیمی خلیج فارس (review of Esteghlal's sponsorship contract with PGPIC)",
+    "date": "2026-08-25",
+    "url": "https://fartakvarzeshi.com/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A7-%D9%BE%D8%AA%D8%B1/",
+    "quote": "استقلال در سال مالی منتهی به ۳۰ تیر ۱۴۰۴، حدود ۱۷۹۳ میلیارد تومان درآمد عملیاتی داشته که تقریباً ۱۷۷۲ میلیارد تومان آن مربوط به اسپانسری و تبلیغات محیطی است. از این مقدار، حدود ۱۷۳۵ میلیارد تومان از صنایع پتروشیمی خلیج فارس، سهامدار اصلی استقلال، شناسایی شده است.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Translation of the quote: 'In the financial year to 30 Tir 1404, Esteghlal had about 1,793 billion tomans in operational revenue, almost 1,772 billion of it sponsorship and perimeter advertising; about 1,735 billion tomans was recognised from Persian Gulf Petrochemical Industries, Esteghlal's majority shareholder.' Published 3 Shahrivar 1405 (25 August 2026), analysing the club's filed financial statements."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Khabar Foori (relaying ISNA figures): پشت پرده درآمدهای نجومی استقلال/ لقمه آماده هلدینگ (behind Esteghlal's vast revenues)",
+      "date": "2026-08-25",
+      "url": "https://www.khabarfoori.com/fa/tiny/news-3240258",
+      "quote": "استقلال در شش‌ماهه اخیر درآمد نزدیک به ۲ هزار میلیاردی ثبت کرده، اما بخش عمده آن از قرارداد با سهامدار اصلی باشگاه، صنایع پتروشیمی خلیج فارس، آمده است.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'In the last six months Esteghlal has recorded revenue close to 2,000 billion tomans, but the bulk of it comes from a contract with the club's majority shareholder, Persian Gulf Petrochemical Industries.' Published 3 Shahrivar 1405 (25 August 2026)."
+    }
+  ]
+}
