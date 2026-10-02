@@ -4,16 +4,17 @@
   "ownerIds": [
     "giant-manufacturing"
   ],
-  "text": "Giant Group trades on the Taiwan stock exchange under ticker 9921 (TPE: 9921).",
+  "text": "Giant Manufacturing Co., Ltd. trades on the Taiwan Stock Exchange under ticker symbol 9921.",
   "source": {
-    "name": "Giant Group corporate website: GIANT GROUP (header share price line)",
-    "date": "2026",
-    "url": "https://www.giantgroup-cycling.com/en-US",
-    "quote": "Giant Group (TPE: 9921)",
+    "name": "StockAnalysis.com: Giant Manufacturing (TPE:9921) company profile",
+    "date": "2026-09-26",
+    "url": "https://stockanalysis.com/quote/tpe/9921/company/",
+    "quote": "Ticker Symbol 9921 Exchange Taiwan Stock Exchange",
     "checked": {
-      "on": "2026-10-01",
+      "on": "2026-10-02",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
-    }
+    },
+    "note": "Giant Group's own site header shows the quoted ticker as 'Giant Group (TPE: 9921)' (https://www.giantgroup-cycling.com/en-US)."
   },
   "reviewed": false
 }
