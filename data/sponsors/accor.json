@@ -8,6 +8,7 @@
   "verdict": "Accor is partly held by Qatar Holding LLC, part of the Qatar Investment Authority, which held 6.61% of its capital and 11.16% of its voting rights at the end of 2025.",
   "claimIds": [
     "accor-qia-stake",
+    "accor-qia-board-pact",
     "qatar-holding-qia-ownership",
     "qia-government-of-qatar-ownership",
     "qatar-migrant-worker-abuse-2025"
@@ -17,13 +18,14 @@
     "Accor Live Limitless"
   ],
   "why": {
-    "text": "Qatar Holding LLC, a company of the Qatar Investment Authority, was one of Accor's largest shareholders with 6.61% of the capital and 11.16% of the voting rights at 31 December 2025, and the shareholders' pact gives QIA two board directors while it holds over 6%. Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses and exploitation under the kafala sponsorship system in 2025, despite reforms.",
+    "text": "Qatar Holding LLC, a company of the Qatar Investment Authority, was one of Accor's largest shareholders with 6.61% of the capital and 11.16% of the voting rights at 31 December 2025, and Accor's shareholders' pact gives QIA two board directors while it holds over 6%. Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses and exploitation under the kafala sponsorship system in 2025, despite reforms.",
     "claimIds": [
       "qatar-migrant-worker-abuse-2025",
-      "accor-qia-stake"
+      "accor-qia-stake",
+      "accor-qia-board-pact"
     ],
     "messageLine": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses under the kafala sponsorship system in 2025.",
     "status": "draft"
   },
-  "note": "Global Partner of the DS Automobiles SailGP Team France as ALL - Accor Live Limitless (k-challenge.fr SailGP page and sailgp.com France team page, opened 2026-10-02). Rating note: concern, proposed here for a maintainer. The link is the 6.61% Accor stake of Qatar Holding LLC, a Qatar Investment Authority company, plus the QIA board pact (accor-qia-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership): 5% or more and a board seat, without control. The record is Qatar's kafala-system abuses (qatar-migrant-worker-abuse-2025). Accor's other large shareholders (Parvus ~11%, Kingdom Holding ~7%) do not pass the test."
+  "note": "Global Partner of the DS Automobiles SailGP Team France as ALL - Accor Live Limitless (k-challenge.fr SailGP page and sailgp.com France team page, opened 2026-10-02). Rating note: concern, proposed here for a maintainer. The link is the 6.61% Accor stake of Qatar Holding LLC, a Qatar Investment Authority company, plus the QIA board pact (accor-qia-stake, accor-qia-board-pact, qatar-holding-qia-ownership, qia-government-of-qatar-ownership): 5% or more and a board seat, without control. The record is Qatar's kafala-system abuses (qatar-migrant-worker-abuse-2025). Accor's other large shareholders (Parvus ~11%, Kingdom Holding ~7%) do not pass the test."
 }
