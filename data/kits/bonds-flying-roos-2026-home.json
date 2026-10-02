@@ -35,9 +35,19 @@
         "date": "2026-09-25",
         "url": "https://www.sailgp.com/teams/australia/"
       }
+    },
+    {
+      "sponsorId": "sail-racing",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - BONDS Flying Roos (Official Suppliers)",
+        "date": "2026-10-02",
+        "url": "https://www.sailgp.com/teams/australia/",
+        "note": "Team page partner groups are rendered by script; the group (Official Suppliers: Sail Racing) was read from the page's embedded data on 2026-10-02."
+      }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Sailing, not shirts: the team's naming partner Bonds carries the boat livery and identity; mapped to 'front'. Monday.com (Global Partner) and Blueberry (Team Partner) ride the partner block.",
+  "summary": "Sailing, not shirts: the team's naming partner Bonds carries the boat livery and identity; mapped to 'front'. Monday.com (Global Partner), Blueberry (Team Partner) and Sail Racing (Official Supplier) ride the partner block. Not marked complete: the team page also lists Parley for the Oceans as Purpose Partner, not recorded as a sponsor.",
   "change": null
 }

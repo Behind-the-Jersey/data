@@ -1,0 +1,20 @@
+{
+  "id": "monday-com-ltd-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "monday-com-ltd"
+  ],
+  "text": "The monday.com platform is the business of monday.com Ltd., a public company listed on Nasdaq under the ticker MNDY.",
+  "short": "monday.com Ltd. is Nasdaq-listed (MNDY).",
+  "source": {
+    "name": "monday.com investor relations: monday.com Files its 2025 Annual Report on Form 20-F",
+    "date": "2026-03-13",
+    "url": "https://ir.monday.com/news-and-events/news-releases/news-details/2026/monday-com-Files-its-2025-Annual-Report-on-Form-20-F/default.aspx",
+    "quote": "monday.com (NASDAQ: MNDY), the AI work platform that turns strategy into execution at scale",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

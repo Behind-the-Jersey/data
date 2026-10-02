@@ -1,0 +1,32 @@
+{
+  "id": "gildan-hanesbrands-bonds-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gildan-activewear"
+  ],
+  "text": "Bonds is a brand of HanesBrands, which the Canadian listed apparel maker Gildan Activewear acquired on 1 December 2025.",
+  "short": "Bonds is a HanesBrands brand, acquired by Gildan.",
+  "source": {
+    "name": "Ragtrader: Bonds' parent company HanesBrands acquired",
+    "date": "2025-08-14",
+    "url": "https://www.ragtrader.com.au/news/bonds-parent-company-hanesbrands-acquired",
+    "quote": "HanesBrands Inc., the parent company of Australian brands Bonds, Sheridan and Berlei, has been acquired by Canadian apparel business Gildan Activewear Inc.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Gildan: Gildan acquires HanesBrands - FAQ",
+      "date": "2025-12",
+      "url": "https://gildancorp.com/en/gildan-and-hanesbrands-homepage",
+      "quote": "The transaction was finalized on December 1, 2025",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
