@@ -1,8 +1,8 @@
 {
-  "id": "houston-texans-xfinity-patch",
+  "id": "houston-texans-methodist-patch",
   "clubId": "houston-texans",
-  "orgName": "Xfinity",
-  "sponsorId": "xfinity",
+  "orgName": "Houston Methodist",
+  "sponsorId": "houston-methodist",
   "placement": "training-kit",
   "from": "2026",
   "to": null,
@@ -17,5 +17,5 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "note": "Practice-jersey patch."
+  "note": "Practice-jersey patch (Houston Methodist is the team's training-center sponsor)."
 }
