@@ -7,12 +7,12 @@
   "from": "2023",
   "to": null,
   "value": {
-    "amount": 25000000,
+    "amount": 25,
     "currency": "USD",
-    "unit": "total",
+    "unit": "m",
     "per": "year",
     "upTo": false,
-    "usdApprox": 25000000
+    "usdApprox": 25
   },
   "source": {
     "name": "Sportico",
@@ -24,5 +24,5 @@
       "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "note": "Jersey patch, reported at at least $25m per year and up to $200m overall."
+  "note": "Jersey patch, reported at at least $25m per year and up to $200m overall. The yearly figure is stored (amount 25, unit m, per year); the $200m overall ceiling is recorded in the note because the schema keeps one value."
 }
