@@ -20,6 +20,16 @@
       }
     },
     {
+      "type": "email",
+      "value": "webmaster@brewers.com",
+      "label": "General Questions/Feedback",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/brewers/official-information/contact",
+        "date": "2026-10-01"
+      }
+    },
+    {
       "type": "contact-form",
       "value": "https://www.mlb.com/brewers/official-information/contact",
       "label": "Contact form",
@@ -48,5 +58,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

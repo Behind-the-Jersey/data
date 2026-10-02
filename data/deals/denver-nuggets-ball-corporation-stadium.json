@@ -4,13 +4,18 @@
   "orgName": "Ball Corporation",
   "sponsorId": "ball-corporation",
   "placement": "stadium",
-  "from": null,
+  "from": "2020-10",
   "to": null,
   "value": null,
   "source": {
-    "name": "Denver Nuggets (nba.com, KSE/Ball release)",
+    "name": "Denver Nuggets will now play in Ball Arena as part of KSE, Ball Corporation Global Partnership (nba.com, via Wayback Machine)",
     "date": "2020-10-22",
-    "url": "https://www.nba.com/nuggets/news/kse-ballcorp-globalpartnership-20201022"
+    "url": "http://web.archive.org/web/20201024115408/https://www.nba.com/nuggets/news/kse-ballcorp-globalpartnership-20201022",
+    "quote": "The partnership includes naming rights for Ball and KSE's hometown arena in Denver, Colorado, home to the NBA's Denver Nuggets",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Ball Arena. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-10-22."
+  "note": "Arena naming rights: Ball Arena, announced 2020-10-22. The live nba.com page now returns 404; the source is the Wayback Machine capture of 2020-10-24."
 }

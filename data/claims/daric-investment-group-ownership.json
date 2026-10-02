@@ -1,0 +1,22 @@
+{
+  "id": "daric-investment-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "daric-investment-group",
+    "mohammad-reza-zonouzi"
+  ],
+  "text": "The Daric Investment Group's founder, owner and chairman of the board is Mohammad Reza Zonouzi Motlagh, as stated on the group's own website.",
+  "short": "Mohammad Reza Zonouzi Motlagh is the founder, owner and chairman of the Daric Investment Group.",
+  "source": {
+    "name": "Daric Investment Group: official website (daricgroup.com/en)",
+    "date": "2026-09-30",
+    "url": "https://daricgroup.com/en",
+    "quote": "The Owner and Founder Of The Daric Investment Group. Mohammad Reza Zonouzi Motlagh",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Undated corporate homepage; page text continues: 'is currently the founder, owner, and chairman of the board of directors of the DARIC Development Investment Group'."
+  },
+  "reviewed": false
+}

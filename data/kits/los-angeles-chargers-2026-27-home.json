@@ -12,9 +12,15 @@
       "sponsorId": "ucla-health",
       "placement": "training-kit",
       "source": {
-        "name": "Zoomph (2026 NFL jersey patch guide)",
-        "date": "2026-09-01",
-        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+        "name": "Zoomph — The Ultimate Guide To NFL Practice Jersey Sponsors",
+        "date": "2025-11-03",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors",
+        "note": "Page header shows only '03 Nov'; the body was updated through the 2026 season (it embeds Chargers and other teams' posts from July 2026).",
+        "quote": "UCLA Health’s logo adorns Los Angeles Chargers uniforms, reflecting a partnership that extends from the training facility to the jersey.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
