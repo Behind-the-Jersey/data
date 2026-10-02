@@ -5,12 +5,17 @@
   "sponsorId": "quikrete",
   "placement": "patch",
   "from": "2023",
-  "to": null,
+  "to": "2036",
   "value": null,
   "source": {
-    "name": "MLB.com press release (Atlanta Braves)",
+    "name": "QUIKRETE press release (PDF): Atlanta Braves Name QUIKRETE® as the Team's First Official Jersey Patch Partner",
     "date": "2023-05-18",
-    "url": "https://www.mlb.com/press-release/press-release-atlanta-braves-name-quikrete-as-the-team-s-first-official-jersey-p"
+    "url": "https://www.quikrete.com/media/news-releases/quikrete-jersey-patch-press.pdf",
+    "quote": "the Atlanta Braves announced Atlanta-headquartered concrete and cementitious products manufacturer QUIKRETE® as the team’s official jersey patch partner for the next five seasons",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch, first signed 2023-05-18 for five seasons; extended in March 2026 through the 2036 season (see change 2026-03-17-braves-quikrete)."
 }

@@ -1,0 +1,32 @@
+{
+  "id": "amazon-migrant-worker-record",
+  "kind": "record",
+  "ownerIds": [
+    "amazon-com-inc"
+  ],
+  "text": "Amnesty International's report 'Don't worry, it's a branch of Amazon' documents serious human rights abuses suffered by Nepali migrant workers contracted to work in Amazon's warehouses in Saudi Arabia, and says many are highly likely to be victims of human trafficking.",
+  "short": "Amazon and Nepali migrant workers in Saudi Arabia",
+  "source": {
+    "name": "Amnesty International: \"Saudi Arabia: 'Don't worry, it's a branch of Amazon'\"",
+    "date": "2023-10-10",
+    "url": "https://www.amnesty.org/en/documents/mde23/7229/2023/en/",
+    "quote": "This report documents serious human rights abuses suffered by Nepali migrant workers employed by labour supply companies and contracted to work in Amazon’s warehouses in Saudi Arabia.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Guardian: 'Revealed: Amazon linked to trafficking of workers in Saudi Arabia'",
+      "date": "2023-10-10",
+      "url": "https://www.theguardian.com/technology/2023/oct/10/amazon-trafficking-links-claims-saudi-arabia-workers-abuses",
+      "quote": "Dozens of contract workers at Amazon warehouses say they were tricked into toiling and living in grueling, squalid conditions",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

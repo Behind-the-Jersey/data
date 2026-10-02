@@ -4,13 +4,18 @@
   "orgName": "Mercedes-Benz",
   "sponsorId": "mercedes-benz",
   "placement": "stadium",
-  "from": null,
-  "to": null,
+  "from": "2015",
+  "to": "2042",
   "value": null,
   "source": {
     "name": "PR Newswire / Mercedes-Benz USA",
     "date": "2015-08-24",
-    "url": "https://prnewswire.com/news-releases/its-official-mercedes-benz-signs-naming-rights-agreement-for-iconic-new-venue-in-atlanta-300132208.html"
+    "url": "https://prnewswire.com/news-releases/its-official-mercedes-benz-signs-naming-rights-agreement-for-iconic-new-venue-in-atlanta-300132208.html",
+    "quote": "Mercedes-Benz USA (MBUSA) will be the naming partner of the new Atlanta stadium, now officially named Mercedes-Benz Stadium. The agreement, which continues through 2042",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Mercedes-Benz Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2015-08-24."
+  "note": "Arena naming rights: Mercedes-Benz Stadium, announced 24 Aug 2015; the release says the agreement runs through 2042."
 }
