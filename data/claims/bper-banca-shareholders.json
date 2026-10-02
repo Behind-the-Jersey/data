@@ -4,16 +4,17 @@
   "ownerIds": [
     "bper-banca"
   ],
-  "text": "BPER Banca's shareholders page lists Unipol Assicurazioni S.p.A. as a 19.9% shareholder.",
-  "short": "BPER Banca's shareholders page lists Unipol Assicurazioni S.p.A. as a 19.9% shareholder.",
+  "text": "BPER Banca's shareholders page lists Unipol Assicurazioni S.p.A. (20.0%) and Fondazione di Sardegna (7.4%) among its shareholders.",
+  "short": "BPER Banca's shareholders page lists Unipol Assicurazioni S.p.A. (20.0%) and Fondazione di Sardegna (7.4%).",
   "source": {
     "name": "BPER Banca, 'Shareholders'",
-    "date": "2026-09-18",
+    "date": "2026-10-01",
     "url": "https://group.bper.it/en/investor-relations/shareholders",
-    "quote": "19.9% Unipol Assicurazioni S.p.A.",
+    "quote": "20.0% Unipol Assicurazioni S.p.A. 7.4% Fondazione di Sardegna",
+    "note": "Italian names in English. The table is headed 'Data Updated: October 1st, 2026'; an earlier table on the same page (11 August 2026) shows Unipol at 19.9% and BlackRock at 5.0%.",
     "checked": {
-      "on": "2026-10-01",
-      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      "on": "2026-10-02",
+      "by": "btj-scout (review of PR #1017)"
     }
   },
   "reviewed": false

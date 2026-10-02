@@ -7,13 +7,14 @@
   "text": "Banco di Sardegna is part of the BPER Banca group.",
   "short": "Banco di Sardegna is part of the BPER Banca group.",
   "source": {
-    "name": "Banco di Sardegna (istituzionale), navigation and footer",
+    "name": "Banco di Sardegna (istituzionale), 'Il Banco nel Gruppo BPER Banca'",
     "date": "2026",
-    "url": "https://istituzionale.bancosardegna.it/sostenibilita/il-nostro-impegno/sport/sponsor-cagliari-calcio",
-    "quote": "Il Banco nel Gruppo BPER Banca",
+    "url": "https://istituzionale.bancosardegna.it/chi-siamo/le-banche-del-gruppo-bper",
+    "quote": "Banco di Sardegna è parte del Gruppo BPER Banca",
+    "note": "Italian. The bank's own page on its place in the BPER group.",
     "checked": {
-      "on": "2026-10-01",
-      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      "on": "2026-10-02",
+      "by": "btj-scout (review of PR #1017)"
     }
   },
   "reviewed": false
