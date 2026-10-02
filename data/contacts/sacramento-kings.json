@@ -35,20 +35,30 @@
       "type": "x",
       "value": "@SacramentoKings",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.nba.com/kings/?tmd=1",
-        "date": "2026-09-24"
+        "name": "Sacramento Kings: Contact Us",
+        "url": "https://www.nba.com/kings/contact-us",
+        "date": "2026-10-02",
+        "quote": "https://twitter.com/SacramentoKings",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@sacramentokings",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.nba.com/kings/?tmd=1",
-        "date": "2026-09-24"
+        "name": "Sacramento Kings: Contact Us",
+        "url": "https://www.nba.com/kings/contact-us",
+        "date": "2026-10-02",
+        "quote": "https://www.instagram.com/sacramentokings/",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-10-01"
+  "lastChecked": "2026-10-02"
 }
