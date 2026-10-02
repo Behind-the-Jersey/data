@@ -4,15 +4,15 @@
   "ownerIds": [
     "walt-disney-world-owner"
   ],
-  "text": "Walt Disney World Resort is a destination operated by The Walt Disney Company, which the proxy statement identifies as the sole general partner of the registrant Walt Disney Entertainment Company (formerly The Walt Disney Company).",
+  "text": "Walt Disney World Resort is one of The Walt Disney Company's own domestic theme parks.",
   "source": {
     "name": "Walt Disney Co DEF 14A 2026 (SEC)",
     "date": "2026-01-22",
     "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm",
-    "quote": "References to the “Company,” “Disney,” “we,” “us” or “our” in this proxy statement refer collectively to The Walt Disney Company and the subsidiaries through which our various businesses are actually conducted.",
+    "quote": "For our domestic theme parks, Disneyland Resort and Walt Disney World Resort, this includes pages on the Disability Access Service program",
     "checked": {
-      "on": "2026-10-01",
-      "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      "on": "2026-10-02",
+      "by": "BigBossRabbit"
     }
   },
   "reviewed": false

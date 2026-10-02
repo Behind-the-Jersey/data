@@ -4,15 +4,15 @@
   "ownerIds": [
     "walt-disney-world-owner"
   ],
-  "text": "Walt Disney World Resort describes itself as part of the Walt Disney World story and points guests to The Walt Disney Company's resort destination at Walt Disney World.",
+  "text": "Walt Disney World Resort is a theme-park, resort and dining destination in Orlando, Florida, per its own official site.",
   "source": {
-    "name": "Walt Disney World Resort (disneyworld.disney.go.com), plan your visit",
-    "date": "2026-10-01",
-    "url": "https://disneyworld.disney.go.com/plan/",
-    "quote": "Start planning your Walt Disney World vacation with information about the Walt Disney World Resort.",
+    "name": "Walt Disney World Resort (disneyworld.disney.go.com), official site",
+    "date": "2026-10-02",
+    "url": "https://disneyworld.disney.go.com/",
+    "quote": "Welcome to Walt Disney World Resort in Orlando, FL. Enjoy exciting theme parks, resorts, dining and more.",
     "checked": {
-      "on": "2026-10-01",
-      "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      "on": "2026-10-02",
+      "by": "BigBossRabbit"
     }
   },
   "reviewed": false
