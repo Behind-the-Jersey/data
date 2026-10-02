@@ -6,14 +6,7 @@
   "placement": "sleeve",
   "from": "2025",
   "to": null,
-  "value": {
-    "amount": 2,
-    "currency": "USD",
-    "unit": "m",
-    "per": "year",
-    "upTo": true,
-    "usdApprox": 2
-  },
+  "value": null,
   "source": {
     "name": "Sports Business Journal – 'Siete Foods seizes Austin FC sleeve space following PepsiCo acquisition'",
     "date": "2025-01-28",
@@ -25,5 +18,5 @@
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "note": "Siete's logo went on the right sleeve from 2025. The $1M-$2M is SBJ's industry estimate for MLS sleeve deals, not Siete's disclosed terms."
+  "note": "Siete's logo went on the right sleeve from 2025. Terms not disclosed; SBJ reports industry sources peg MLS sleeve deals at $1M-$2M per season (league-wide estimate, not Siete's terms)."
 }
