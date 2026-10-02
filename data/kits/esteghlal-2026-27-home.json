@@ -1,0 +1,60 @@
+{
+  "id": "esteghlal-2026-27-home",
+  "clubId": "esteghlal",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "pgpic",
+      "placement": "front",
+      "source": {
+        "name": "Fartak Varzeshi: بررسی قرارداد اسپانسری استقلال با پتروشیمی خلیج فارس (review of Esteghlal's sponsorship contract with Persian Gulf Petrochemical Industries)",
+        "date": "2026-08-25",
+        "url": "https://fartakvarzeshi.com/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A7-%D9%BE%D8%AA%D8%B1/",
+        "quote": "قرارداد اسپانسری باشگاه استقلال با صنایع پتروشیمی خلیج فارس، ابهامات قابل توجهی به وجود آورده است.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Fartak Varzeshi (3 Shahrivar 1405 = 25 August 2026) documents the club's current sponsorship contract with PGPIC (Khalij Fars holding). Placement read from the official kit-launch photos published by Team Kits (teamkits.ir/esteghlal-2026-2027-kit, 23 Mordad 1405 = 14 August 2026): the PGPIC logo and name cover the centre-front of the blue home shirt."
+      }
+    },
+    {
+      "sponsorId": "pidmco",
+      "placement": "sleeve",
+      "source": {
+        "name": "Team Kits: لباس استقلال ۱۴۰۶-۱۴۰۵ (Esteghlal 2026-27 home kit launch report, with photos)",
+        "date": "2026-08-14",
+        "url": "https://teamkits.ir/esteghlal-2026-2027-kit/",
+        "quote": "تیم کیتز – لباس اول و دوم استقلال برای فصل ۱۴۰۶-۱۴۰۵ با برند استارت رونمایی شد.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Placement read from the launch photos on this page: 'PIDMCO' (Petrochemical Industries Development Management Company, described by the US Treasury and by hormuz.group company data as a PGPIC subsidiary) is printed on both shoulders of the home shirt."
+      }
+    },
+    {
+      "sponsorId": "start",
+      "placement": "partner",
+      "source": {
+        "name": "Team Kits: لباس استقلال ۱۴۰۶-۱۴۰۵ (Esteghlal 2026-27 home kit launch report, with photos)",
+        "date": "2026-08-14",
+        "url": "https://teamkits.ir/esteghlal-2026-2027-kit/",
+        "quote": "تیم کیتز – لباس اول و دوم استقلال برای فصل ۱۴۰۶-۱۴۰۵ با برند استارت رونمایی شد.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote: 'Esteghlal's home and away kits for the 1405-1406 season were unveiled with the Start brand'. The Start mark is on the right chest of the shirt (launch photos). The maker's own shop sells the same shirt with the PGPIC front logo: start-shop.ir/product/پیراهن-استقلال/."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "AFC 2026-27 coverage; Esteghlal play the Persian Gulf Pro League domestically. 2026-27 home kit made by Start, an Iranian brand (Team Kits launch report, 14 August 2026). Front: PGPIC (Persian Gulf Petrochemical Industries), also the club's majority shareholder per press analysis of the club's published accounts (Fartak Varzeshi and Khabar Foori, 25 August 2026). Both shoulders carry 'PIDMCO', PGPIC's wholly owned project-management subsidiary. The launch photos also show an Iran flag patch at the right chest, the club crest on the left chest, a Persian Gulf Pro League badge on the left sleeve (the league's own mark, not a commercial sponsor), a plain back with only name and number, and plain shorts and socks carrying only the Start mark. sponsorsComplete is false because this rests on the official launch photo-shoot only: no match-day imagery was checked, in-season advertising can change, and the AFC Champions League Elite variant of the shirt may differ.",
+  "change": null
+}

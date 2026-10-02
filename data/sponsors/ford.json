@@ -3,11 +3,12 @@
   "name": "Ford / Ford Racing",
   "ownerId": "ford-motor-company",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Owned by Ford Motor Company. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": null,
   "claimIds": [
-    "ford-motor-company-record"
+    "ford-motor-company-record",
+    "ford-eeoc-buffalo-harassment"
   ],
   "aliases": []
 }

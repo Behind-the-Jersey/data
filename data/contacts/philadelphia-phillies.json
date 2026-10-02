@@ -7,7 +7,12 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.mlb.com/phillies/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "General Ticket Information",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -16,17 +21,42 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.mlb.com/phillies/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "Season Ticket Information",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "email",
+      "value": "fanfeedback@phillies.mlb.com",
+      "label": "General questions / fan feedback",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/phillies/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "General Questions/Feedback",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "contact-form",
-      "value": "https://www.mlb.com/phillies/official-information/contact",
-      "label": "Contact form",
+      "value": "https://www.mlb.com/phillies/ballpark/contact-us",
+      "label": "Guest Feedback form",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/phillies/official-information/contact",
-        "date": "2026-09-24"
+        "name": "Phillies Guest Feedback form (MLB.com)",
+        "url": "https://www.mlb.com/phillies/ballpark/contact-us",
+        "date": "2026-10-01",
+        "quote": "Share your question or feedback from your visit to Citizens Bank Park",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -48,5 +78,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
