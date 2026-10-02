@@ -1,0 +1,20 @@
+{
+  "id": "pepsico-owns-siete-foods",
+  "kind": "ownership",
+  "ownerIds": [
+    "pepsico-inc"
+  ],
+  "text": "PepsiCo, Inc. closed the acquisition of Garza Food Ventures LLC, doing business as Siete Foods, for $1.2 billion in January 2025.",
+  "short": "PepsiCo owns Siete Foods.",
+  "source": {
+    "name": "PepsiCo – 'PepsiCo Completes Acquisition of Siete Foods'",
+    "date": "2025-01-17",
+    "url": "https://www.pepsico.com/newsroom/press-releases/2025/pepsico-completes-acquisition-of-siete-foods",
+    "quote": "closed the acquisition of Garza Food Ventures LLC, dba Siete Foods (\"Siete\"), for $1.2 billion.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
