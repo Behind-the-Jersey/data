@@ -1,12 +1,16 @@
 {
   "id": "sandmark",
   "name": "Sandmark",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Official Partner of Artemis SailGP Team (Sweden) (sailgp.com team page, fetched 2026-09-25)."
+  "ownerId": "sandmark-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Geneva crypto news and data platform owned and operated by Sandmark SA; private owner, nothing found.",
+  "claimIds": [
+    "sandmark-sa-ownership"
+  ],
+  "aliases": [
+    "Sandmark News"
+  ],
+  "note": "Official Partner of Artemis SailGP (PR Newswire, 12 January 2026). Sandmark is a Geneva-registered private company (CHE-403.942.030) and describes itself as independent and family-owned; no state or fund, so nothing found."
 }

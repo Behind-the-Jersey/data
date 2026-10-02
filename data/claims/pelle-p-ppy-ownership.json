@@ -1,0 +1,20 @@
+{
+  "id": "pelle-p-ppy-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ppy-production-ab"
+  ],
+  "text": "The Pelle P website and online store are provided by PPY Production AB, reg. nr 556689-6857, Billdal, Sweden, the company behind the Pelle P brand.",
+  "short": "Pelle P is the brand of the Swedish company PPY Production AB.",
+  "source": {
+    "name": "Pelle P: Terms & Conditions",
+    "date": "2026",
+    "url": "https://www.pellepetterson.com/en-gb/terms-conditions/",
+    "quote": "provides the website and the online store on www.pellepetterson.se and www.pellepetterson.com",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

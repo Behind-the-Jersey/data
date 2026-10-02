@@ -1,0 +1,20 @@
+{
+  "id": "artemis-technologies-percy-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "iain-percy"
+  ],
+  "text": "Iain Percy is a person with significant control of Artemis Technologies Ltd, with ownership of shares of more than 25% but not more than 50% and the same share of voting rights.",
+  "short": "Iain Percy controls more than 25% (up to 50%) of Artemis Technologies Ltd.",
+  "source": {
+    "name": "Companies House: ARTEMIS TECHNOLOGIES LTD (09412785) – Persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09412785/persons-with-significant-control",
+    "quote": "Ownership of shares – More than 25% but not more than 50%",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
