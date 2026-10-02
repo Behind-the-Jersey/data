@@ -1,0 +1,30 @@
+{
+  "id": "egypt-2026-home",
+  "clubId": "egypt",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Football Shirt Culture: Egypt 2026 Puma Home Kit",
+        "date": "2026-03-28",
+        "url": "https://www.footballshirtculture.com/new-kits/egypt-2026-jersey-home-puma.html",
+        "note": "Kit maker. Named-press kit write-up: the shirt carries the Egyptian Football Association crest and the gold Puma logo on the chest only; the reverse is predominantly red with a small gold inscription below the collar, the sleeves are solid red, and the kit is completed with matching red shorts and socks. No commercial sponsor on any placement.",
+        "quote": "The Egyptian Football Association crest is positioned on the left chest, accompanied by multiple gold stars above, while the Puma logo appears on the right chest in matching gold.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Puma home kit for the 2026 World Cup cycle. No commercial shirt sponsors: Football Shirt Culture's launch write-up describes only the EFA crest and Puma branding on the shirt, a sponsor-free reverse and sleeves, with matching sponsor-free shorts and socks.",
+  "change": null
+}

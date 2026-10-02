@@ -1,0 +1,21 @@
+{
+  "id": "barcelona-basquet-assistencia-sanitaria",
+  "clubId": "barcelona-basquet",
+  "orgName": null,
+  "sponsorId": "assistencia-sanitaria",
+  "placement": "front",
+  "from": "2019-20",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Crónica Global (Culemanía): Laporta diversifica els patrocinadors de les seccions — Assistència Sanitària perd pes mentre el Barça busca soci per al nou Palau",
+    "date": "2026-08-30",
+    "url": "https://www.cronicaglobal.cat/culemania/llotja/20260830/laporta-diversifica-patrocinadors-assistencia-sanitaria-barca-palau/1003742790315_0.html",
+    "quote": "El vincle amb Assistència Sanitària caducava el 2024, però l'asseguradora mèdica va renovar el contracte per dues campanyes, fins al juny de 2026, sense comunicar públicament l'acord.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Assistència Sanitària took over from Lassa Tyres in 2019 as main sponsor of the club's professional indoor sections (basketball, handball, futsal, roller hockey) for five seasons; Culemanía reported the deal at around 4.5 million euros per season for the four sections together, with no basketball-specific figure, so value is left null. The renewal ran to June 2026; Crónica Global reports the basketball team keeps the insurer's logo in 2026-27, so to is left open."
+}
