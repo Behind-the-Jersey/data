@@ -28,7 +28,22 @@
         "url": "https://www.fcdallas.com",
         "date": "2026-09-24"
       }
+    },
+    {
+      "type": "email",
+      "value": "feedback@fcdallas.com",
+      "label": "Club feedback inbox",
+      "source": {
+        "name": "Club website footer (Contact)",
+        "url": "https://www.fcdallas.com",
+        "date": "2026-10-02",
+        "quote": "Contact feedback@fcdallas.com",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-02"
 }

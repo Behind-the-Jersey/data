@@ -1,0 +1,20 @@
+{
+  "id": "childrens-health-system-of-texas-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "childrens-health-system-of-texas"
+  ],
+  "text": "Children’s Health System of Texas is a 501(c)(3) nonprofit organization based in Dallas, Texas, EIN 75-0800628.",
+  "source": {
+    "name": "ProPublica Nonprofit Explorer – Childrens Health System Of Texas (EIN 75-0800628)",
+    "date": "2024-12",
+    "url": "https://projects.propublica.org/nonprofits/organizations/750800628",
+    "quote": "Designated as a 501(c)(3)",
+    "note": "Page header also shows the organisation name 'Childrens Health System Of Texas', the location 'Dallas, TX' and 'EIN: 75-0800628'.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

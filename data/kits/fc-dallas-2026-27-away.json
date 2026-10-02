@@ -1,8 +1,8 @@
 {
-  "id": "fc-dallas-2026-27-home",
+  "id": "fc-dallas-2026-27-away",
   "clubId": "fc-dallas",
   "season": "2026-27",
-  "kitType": "home",
+  "kitType": "away",
   "periodLabel": "2026-27",
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
@@ -15,7 +15,7 @@
         "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
         "date": "2026-02-11",
         "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
-        "quote": "Children’s Health is the front-of-jersey partner. UT Southwestern Medical Center remains the front-of-jersey partner for the Inferno Kit.",
+        "quote": "UT Southwestern Medical Center remains the front-of-jersey partner for the Inferno Kit.",
         "checked": {
           "on": "2026-10-02",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
@@ -39,5 +39,5 @@
   ],
   "sponsorsComplete": true,
   "change": null,
-  "summary": "Red hoops DNA kit, new for 2026-27. Children's Health on the front and the Apple TV league patch on the left sleeve; FC Dallas has no right-sleeve sponsor in 2026 (For Soccer's annual MLS review leaves the club's right sleeve blank)."
+  "summary": "The Inferno Kit continues as the club's secondary jersey for 2026-27, with UT Southwestern Medical Center on the front and the Apple TV league patch on the left sleeve."
 }
