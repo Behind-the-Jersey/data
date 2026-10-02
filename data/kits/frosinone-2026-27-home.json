@@ -14,11 +14,62 @@
       "source": {
         "name": "Footy Headlines",
         "date": "2026-08-10",
-        "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html"
+        "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html",
+        "quote": "All three kits feature long-standing main partner Banca Popolare Frusinate across the chest.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Also visible across the chest of the club's own product photos of the 2026-27 home shirt (https://store.frosinonecalcio.com/product/maglia-gara-home-26-27-gialla/)."
+      }
+    },
+    {
+      "sponsorId": "dem-supermercati",
+      "placement": "back",
+      "source": {
+        "name": "Ciociaria Oggi: Dem Supermercati porta i bambini di \"Peter Pan OdV\" allo stadio",
+        "date": "2026-04-26",
+        "url": "https://www.ciociariaoggi.it/gallery/frosinone-calcio/315522/dem-supermercati-porta-i-bambini-di-peter-pan-odv-allo-stadio.html",
+        "quote": "La collaborazione con il Frosinone Calcio, essendo Dem Supermercati Back Sponsor del club, ha reso possibile trasformare una semplice partita in un'esperienza indimenticabile.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Dem's own sponsor page (https://www.supermercatidem.com/chi-siamo/valori/territorio/sponsorizzazioni/) calls Dem 'Back Sponsor Ufficiale' and says its brand is 'visibile sul retro delle maglie ufficiali'; the club's official store photo of the 2026-27 home shirt shows the Dem logo on the lower back (https://store.frosinonecalcio.com/product/maglia-gara-home-26-27-gialla/)."
+      }
+    },
+    {
+      "sponsorId": "enilive",
+      "placement": "patch",
+      "source": {
+        "name": "Eni press release: Enilive becomes Serie A Title sponsor with sponsorship agreement up until 2027",
+        "date": "2024-02-05",
+        "url": "https://www.eni.com/en-IT/media/press-release/2024/02/enilive-becomes-serie-a-title-sponsor.html",
+        "quote": "Enilive, Eni's company dedicated to mobility products and services, will be the Title sponsor of Serie A starting from the 2024/25 championship and covering three seasons.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League title sponsor whose branding is on the official Serie A sleeve patch (same treatment as Bologna's 2026-27 kit); a sleeve patch is visible on the left sleeve of the launch photos in the Footy Headlines gallery. Not a direct club deal: see data/deals/serie-a-enilive.json."
+      }
+    },
+    {
+      "sponsorId": "zeus",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines",
+        "date": "2026-08-10",
+        "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html",
+        "quote": "Italian side Frosinone Calcio and technical partner Zeus have officially unveiled the club's new home, away, and third kits for the 26-27 season.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker. Zeus's own company page (https://www.zeusport.it/en/azienda.html) lists Frosinone Calcio among the teams it dresses, and the Zeus logo is on the right chest of the club's official product photos."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "change": null,
-  "summary": "All three 26-27 kits carry 'long-standing main partner Banca Popolare Frusinate across the chest'."
+  "sponsorsComplete": true,
+  "summary": "Zeus-made home shirt: Banca Popolare del Frusinate across the chest, Dem Supermercati on the lower back and the Serie A (Enilive) patch on the sleeve. No sleeve or shorts sponsor.",
+  "change": null
 }
