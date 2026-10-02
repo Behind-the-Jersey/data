@@ -2,6 +2,21 @@
   "clubId": "atlanta-united",
   "channels": [
     {
+      "type": "email",
+      "value": "community@atlutd.com",
+      "label": "Community Relations",
+      "source": {
+        "name": "Atlanta United: Community FAQs",
+        "url": "https://www.atlutd.com/community/faq",
+        "date": "2026-10-01",
+        "quote": "please email your name and contact information to community@atlutd.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@ATLUTD",
       "source": {
@@ -20,5 +35,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

@@ -8,9 +8,14 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "Truist media release",
+    "name": "Truist media release: Truist and the Atlanta Braves Announce Truist Park as New Name of SunTrust Park",
     "date": "2020-01-14",
-    "url": "https://media.truist.com/2020-01-14-Truist-and-the-Atlanta-Braves-Announce-Truist-Park-as-New-Name-of-SunTrust-Park"
+    "url": "https://media.truist.com/2020-01-14-Truist-and-the-Atlanta-Braves-Announce-Truist-Park-as-New-Name-of-SunTrust-Park",
+    "quote": "Truist Financial Corporation (NYSE: TFC) and the Atlanta Braves today announced that SunTrust Park will be renamed Truist Park as a continuation of its naming rights partnership",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Arena naming rights: Truist Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-01-14."
 }

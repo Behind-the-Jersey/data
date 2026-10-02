@@ -1,0 +1,21 @@
+{
+  "id": "esteghlal-pgpic",
+  "clubId": "esteghlal",
+  "orgName": "Esteghlal FC",
+  "sponsorId": "pgpic",
+  "placement": "front",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Fartak Varzeshi: بررسی قرارداد اسپانسری استقلال با پتروشیمی خلیج فارس (review of Esteghlal's sponsorship contract with PGPIC)",
+    "date": "2026-08-25",
+    "url": "https://fartakvarzeshi.com/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A7-%D9%BE%D8%AA%D8%B1/",
+    "quote": "استقلال در سال مالی منتهی به ۳۰ تیر ۱۴۰۴، حدود ۱۷۹۳ میلیارد تومان درآمد عملیاتی داشته که تقریباً ۱۷۷۲ میلیارد تومان آن مربوط به اسپانسری و تبلیغات محیطی است. از این مقدار، حدود ۱۷۳۵ میلیارد تومان از صنایع پتروشیمی خلیج فارس، سهامدار اصلی استقلال، شناسایی شده است.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "note": "Value in IRR (not recordable in this schema's GBP/EUR/USD): Fartak Varzeshi's analysis of Esteghlal's filed accounts (25 August 2026) says ~1,735 billion Iranian tomans (~97% of the club's operational revenue) in the year ended 30 Tir 1404 (22 July 2025) was recognised from PGPIC, the club's majority shareholder, under the sponsorship contract; the auditor questioned the related-party process (Article 129 of Iran's Commercial Code). Deal start and end dates are not stated in public coverage; the shirt carries PGPIC's logo in the 2026-27 season as well."
+}
