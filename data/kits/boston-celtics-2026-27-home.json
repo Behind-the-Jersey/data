@@ -12,9 +12,15 @@
       "sponsorId": "amica-mutual-insurance",
       "placement": "patch",
       "source": {
-        "name": "NBC Sports Boston",
-        "date": "2024-07-09",
-        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/wyc-grousbeck-celtics-jersey-patch-sponsor-amica/627910"
+        "name": "Amica Insurance: Amica and the Boston Celtics",
+        "date": "unknown",
+        "url": "https://www.amica.com/en/about-us/partners/celtics.html",
+        "quote": "The Amica logo appears in Celtics signature team colors on the front left shoulder of Celtics game jerseys.",
+        "note": "Amica's current partnership page. An Amica press release (2026-02-01) confirms Amica 'became the team's official jersey patch sponsor beginning with the 2024–25 season'. The previous source (NBC Sports Boston) blocks automated access.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
