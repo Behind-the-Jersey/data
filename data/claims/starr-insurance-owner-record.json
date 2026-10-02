@@ -15,5 +15,17 @@
       "by": "source-audit-2026-09-26"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Starr Companies (the sponsor's own site) home page",
+      "date": "2026-10-01",
+      "url": "https://starrcompanies.com/",
+      "quote": "the insurance subsidiaries of Starr International Company, Inc.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
 }
