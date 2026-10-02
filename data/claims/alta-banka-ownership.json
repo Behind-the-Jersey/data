@@ -4,18 +4,31 @@
   "ownerIds": [
     "alta-group"
   ],
-  "text": "Alta banka a.d. Beograd's sole shareholder is Alta Pay Group d.o.o. Beograd (renamed Alta Group d.o.o. Beograd in April 2025); press reports identify Serbian businessman Davor Macura as its owner.",
+  "text": "Alta banka a.d. Beograd's sole shareholder is Alta Group d.o.o. Beograd, holding 100% of its shares (named Alta Pay Group d.o.o. when it bought the bank's entire 2024 share issue); press reports identify Serbian businessman Davor Macura as its owner.",
   "short": "Alta banka's sole shareholder is Alta Group d.o.o. Beograd (formerly Alta Pay Group).",
   "source": {
     "name": "Nova ekonomija: Alta banka emisijom akcija uvećala kapital za 27 miliona evra",
     "date": "2024-08-06",
     "url": "https://novaekonomija.rs/vesti-iz-zemlje/alta-banka-emisijom-akcija-uvecala-kapital-za-27-miliona-evra",
     "quote": "sve novoizdate akcije kupio je jedini akcionar Alta banke, Alta Pay Group",
-    "note": "The same article states Alta Pay is owned by Serbian businessman Davor Macura. The bank's audited 2025 annual report (altabanka.rs, April 2026) records the shareholder's April 2025 name change from Alta Pay Group d.o.o. to Alta Group d.o.o.",
+    "note": "The same article states Alta Pay is owned by Serbian businessman Davor Macura. The bank's audited 2025 annual report (additional source) records that the sole shareholder is now ALTA Group doo Beograd with 100% ownership.",
     "checked": {
       "on": "2026-10-01",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Alta banka a.d. Beograd: Godišnji finansijski izveštaji za 2025. godinu sa izveštajem revizora za Banku (audited 2025 annual report)",
+      "date": "2026-04",
+      "url": "https://altabanka.rs/static/uploads/2026/04/Alta-banka_Izvestaj-revizora_2025_Final-potpisan.pdf",
+      "quote": "Prinudnim otkupom akcija jedini akcionar Alta Banke je ALTA Group doo Beograd, sa vlasništvom od 100%",
+      "note": "Audited annual report for 2025, published on altabanka.rs (Finansijski izveštaji u 2025. godini); records the bank's current sole shareholder as ALTA Group doo Beograd with 100% ownership.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
