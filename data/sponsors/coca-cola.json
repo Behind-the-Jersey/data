@@ -3,10 +3,13 @@
   "name": "Coca-Cola",
   "ownerId": "coca-cola-company",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of The Coca-Cola Company, a listed company (NYSE: KO). Nothing found.",
+  "claimIds": [
+    "coca-cola-trademark-owner",
+    "coca-cola-company-record"
+  ],
   "aliases": [],
-  "note": "FIFA partner since 1974; sponsor of the FIFA/Coca-Cola World Ranking."
+  "note": "FIFA partner since 1974; sponsor of the FIFA/Coca-Cola World Ranking. On the back of Buriram United's 2026-27 domestic home shirt. Rating note: rated none in the Buriram United sweep (issue #528); claims coca-cola-trademark-owner and coca-cola-company-record cite The Coca-Cola Company's SEC Form 10-K (FY2025). Quick company check: no court, regulator, UN body or major-NGO human-rights finding against The Coca-Cola Company from the last 20 years identified that meets the METHOD.md test."
 }

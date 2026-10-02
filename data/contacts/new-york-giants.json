@@ -5,20 +5,30 @@
       "type": "x",
       "value": "@giants",
       "source": {
-        "name": "Club website contact page",
+        "name": "Giants.com - Stay Connected footer",
         "url": "https://www.giants.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "email Newsletter x Giants",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@nygiants",
       "source": {
-        "name": "Club website contact page",
+        "name": "Giants.com - Stay Connected footer",
         "url": "https://www.giants.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "instagram NYGiants",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

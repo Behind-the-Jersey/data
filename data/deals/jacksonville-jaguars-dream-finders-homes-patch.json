@@ -4,13 +4,19 @@
   "orgName": "Dream Finders Homes",
   "sponsorId": "dream-finders-homes",
   "placement": "training-kit",
-  "from": "2025",
+  "from": null,
   "to": null,
   "value": null,
   "source": {
-    "name": "Zoomph",
-    "date": "2026-09-01",
-    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    "name": "Zoomph: The Ultimate Guide to NFL Practice Jersey Sponsors",
+    "date": "2026",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+    "note": "Page shows no publication date (posted '03 Nov', year not shown). Start date unknown: the page shows a @Jaguars photo with Dream Finders tagged, dated 2025-08-13, but no deal dates.",
+    "quote": "Jacksonville Jaguars: Dream Finders Homes",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Practice-jersey patch."
 }
