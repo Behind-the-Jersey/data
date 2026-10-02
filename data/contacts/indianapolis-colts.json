@@ -4,19 +4,31 @@
     {
       "type": "email",
       "value": "webmaster@colts.com",
+      "label": "Contact Us (general email)",
       "source": {
-        "name": "Club website contact page",
+        "name": "Indianapolis Colts: Contact Us",
         "url": "https://www.colts.com/footer/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "E-MAIL webmaster@colts.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "email",
       "value": "Colts.Community@colts.com",
+      "label": "Community enquiries",
       "source": {
-        "name": "Club website contact page",
+        "name": "Indianapolis Colts: Contact Us",
         "url": "https://www.colts.com/footer/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Please email Colts.Community@colts.com for more information.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +36,44 @@
       "value": "https://www.colts.com/footer/contact-us",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "Indianapolis Colts: Contact Us",
         "url": "https://www.colts.com/footer/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Contact Us",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@colts",
       "source": {
-        "name": "Club website contact page",
+        "name": "Indianapolis Colts website (club links bar)",
         "url": "https://www.colts.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "email Newsletter x Colts",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@colts",
       "source": {
-        "name": "Club website contact page",
+        "name": "Indianapolis Colts website (club links bar)",
         "url": "https://www.colts.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "facebook Colts instagram Colts youtube Indianapolis Colts tiktok Colts",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

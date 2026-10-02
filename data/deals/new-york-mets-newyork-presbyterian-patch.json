@@ -8,9 +8,14 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "MLB.com press release",
+    "name": "NewYork-Presbyterian newsroom: New York Mets Announce Multi-Year Partnership with NewYork-Presbyterian",
     "date": "2023-04-06",
-    "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+    "url": "https://www.nyp.org/news/new-york-mets-announce-multi-year-partnership-with-newyork-presbyterian",
+    "quote": "As a symbol of the integrated partnership, a NewYork-Presbyterian patch will be featured on the Mets uniforms, the first jersey patch partnership in the team’s 61-year history.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch, worn on the sleeve; deal length not stated in the announcement."
 }

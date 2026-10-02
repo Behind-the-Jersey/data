@@ -1,0 +1,20 @@
+{
+  "id": "nrg-energy-reliant-brand-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "nrg-energy-inc"
+  ],
+  "text": "Reliant is one of the brand names under which NRG Energy, Inc. does business.",
+  "short": "Reliant is a brand of NRG Energy, Inc.",
+  "source": {
+    "name": "SEC Form 10-K for NRG Energy, Inc. (fiscal year 2025)",
+    "date": "2026-02-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000004/nrg-20251231.htm",
+    "quote": "with energy under brand names such as NRG, Reliant, Direct Energy, Green Mountain Energy, and Vivint",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
