@@ -3,17 +3,18 @@
   "name": "Walt Disney World Resort",
   "ownerId": "walt-disney-world-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Operated by The Walt Disney Company; nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "walt-disney-world-brand-of-disney",
-    "walt-disney-world-owner-record"
+    "walt-disney-world-owner-record",
+    "the-walt-disney-company-ownership"
   ],
   "aliases": [
     "Walt Disney World",
     "Disney World",
     "Disney"
   ],
-  "note": "Rating note: no state shareholder and no human-rights finding against the company or a state in the ownership chain was identified. Walt Disney World Resort is one of The Walt Disney Company's theme resort properties."
+  "note": "Rating note: the ownership chain is sourced — Walt Disney World Resort is one of The Walt Disney Company's own domestic theme parks (walt-disney-world-owner-record, SEC DEF 14A 2026), and the same proxy names The Vanguard Group (8.5%) and BlackRock, Inc. (6.9%) as the only holders above 5% (the-walt-disney-company-ownership); no state or state fund appears in the chain. Held for a person before rating it none: the UK Foreign Affairs Committee's 2021 report 'Uyghur forced labour in Xinjiang and UK value chains' examined the filming of Mulan in Xinjiang and wrote that Disney's response to the committee's questions 'failed to address this urgent question' (https://committees.parliament.uk/publications/5095/documents/52855/default) — scrutiny of the company's own conduct, though not a court, regulator, UN-body or major-NGO finding of the kind METHOD.md requires."
 }

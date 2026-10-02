@@ -1,8 +1,9 @@
 {
   "id": "walt-disney-world-owner",
   "name": "Walt Disney World Resort",
-  "type": "listed-company",
-  "parentId": null,
-  "note": "Theme resort destination operated by The Walt Disney Company; jersey patch partner of orlando-magic (2026-27).",
+  "type": "unknown",
+  "parentId": "the-walt-disney-company",
+  "via": "one of The Walt Disney Company's own domestic theme parks",
+  "note": "Theme-resort destination in Orlando, Florida; one of The Walt Disney Company's own domestic theme parks (walt-disney-world-owner-record). Jersey patch partner of orlando-magic (2026-27).",
   "country": "US"
 }
