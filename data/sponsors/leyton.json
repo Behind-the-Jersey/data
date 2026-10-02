@@ -1,14 +1,16 @@
 {
   "id": "leyton",
   "name": "Leyton",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "leyton",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Independent private consultancy; its own site names its two co-founders. Nothing found.",
+  "claimIds": [
+    "leyton-cofounders-ownership"
+  ],
   "aliases": [
     "We are Leyton"
   ],
-  "note": "Official Tax Efficiency Partner of the U.S. SailGP Team (leyton.com, 3 Feb 2026). Ownership not sourced yet: no page that names Leyton's owners could be opened and quoted."
+  "note": "Official partner of the DS Automobiles SailGP Team France and expert partner of K-Challenge (k-challenge.fr SailGP page and K-Challenge news of 4 June 2025, opened 2026-10-02); also Official Tax Efficiency Partner of the U.S. SailGP Team. Rating note: none, but the ownership source is weak; Leyton's own about page names its co-founders (leyton-cofounders-ownership) and no shareholder register was opened. A maintainer may prefer to leave it unrated until an owner is sourced."
 }
