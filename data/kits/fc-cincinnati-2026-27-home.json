@@ -42,15 +42,15 @@
       "sponsorId": "apple-tv",
       "placement": "sleeve",
       "source": {
-        "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
-        "date": "2026-03-02",
-        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
-        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
         "checked": {
           "on": "2026-10-02",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         },
-        "note": "League-wide Apple TV patch on the left sleeve; Apple pays MLS, not the club (see the mls-apple-tv deal)."
+        "note": "League-wide Apple TV patch on the left sleeve; the same page's sleeve table lists 'Apple TV' on FC Cincinnati's left sleeve and Kroger on the right. Apple pays MLS, not the club (see the mls-apple-tv deal)."
       }
     }
   ],
