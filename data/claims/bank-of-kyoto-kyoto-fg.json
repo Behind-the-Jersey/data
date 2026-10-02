@@ -1,0 +1,35 @@
+{
+  "id": "bank-of-kyoto-kyoto-fg",
+  "kind": "ownership",
+  "ownerIds": [
+    "bank-of-kyoto",
+    "kyoto-financial-group"
+  ],
+  "text": "The Bank of Kyoto, Ltd. moved to a holding-company structure on 2 October 2023, and current investor information for the bank is published on the Kyoto Financial Group, Inc. website; Kyoto Financial Group's group-companies page lists the Bank of Kyoto as a group company.",
+  "short": "The Bank of Kyoto is under Kyoto Financial Group, Inc. (holding-company structure since 2 October 2023).",
+  "source": {
+    "name": "株式会社京都銀行: 株主・投資家のみなさま (The Bank of Kyoto: for shareholders and investors)",
+    "date": "2026",
+    "url": "https://www.kyotobank.co.jp/investor/",
+    "quote": "2023年10月2日より、京都銀行は持株会社体制へ移行しました。 最新のIR情報は「京都フィナンシャルグループ」のホームページでご案内しています。",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "持株会社体制 = holding-company structure. Page without a date; the 2 October 2023 transition date is on the page."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "京都フィナンシャルグループ: グループ会社一覧 (Kyoto Financial Group: group companies list)",
+      "date": "2026",
+      "url": "https://www.kyoto-fg.co.jp/company/group/",
+      "quote": "株式会社京都銀行 京都市下京区烏丸通松原上る薬師前町700番地",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "KFG's group companies list includes 株式会社京都銀行 (The Bank of Kyoto, Ltd.), business: banking. Page without a date."
+    }
+  ]
+}

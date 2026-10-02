@@ -14,7 +14,13 @@
       "source": {
         "name": "Indiana Pacers (NBA.com)",
         "date": "2025-07-09",
-        "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+        "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership",
+        "quote": "As the official jersey patch partner of the Indiana Pacers, Lucas Oil’s logo will be prominently featured on Pacers uniforms on the front left shoulder",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Article body is rendered by script on nba.com; quote read in the page's embedded article text on 2026-10-01."
       }
     }
   ],

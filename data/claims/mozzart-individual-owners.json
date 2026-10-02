@@ -1,0 +1,21 @@
+{
+  "id": "mozzart-individual-owners",
+  "kind": "ownership",
+  "ownerIds": [
+    "mozzart-bet-owner"
+  ],
+  "text": "Mozzart (Mozzart d.o.o. Beograd), KK Partizan's title sponsor since 2022, is a Serbian private company.",
+  "short": "Mozzart is a Serbian private company; the club's own announcement says so.",
+  "source": {
+    "name": "KK Partizan: KK Partizan Mozzart Bet - Novo ime za nove pobede!",
+    "date": "2022-10",
+    "url": "https://partizan.basketball/vesti/aktuelno/3286",
+    "quote": "U novu sezonu, crno-beli ulaze sa novim naslovnim sponzorom. U pitanju je srpska privatna kompanija, a to je Mozzart.",
+    "note": "Club announcement of the naming sponsorship: calls Mozzart a Serbian private company. Register detail: CompanyWall's ownership page for Mozzart d.o.o. (checked by hand 2026-10-01) lists 36 owners - Jadranka Stepanovi\u0107 40,98%, Dejan \u010cakajac 38,35%, Eter Consulting d.o.o. 2,64%, the rest individuals with 1,5% or less each; the page currently serves scripts a stub, so the register list can no longer be quoted here.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

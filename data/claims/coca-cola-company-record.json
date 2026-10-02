@@ -4,12 +4,17 @@
   "ownerIds": [
     "coca-cola-company"
   ],
-  "text": "The Coca-Cola Company is a US NYSE-listed beverage company with dispersed public shareholders and no state owner.",
-  "short": "The Coca-Cola Company is an NYSE-listed beverage company.",
+  "text": "The Coca-Cola Company registers its Common Stock ($0.25 par value) on the New York Stock Exchange under symbol KO.",
+  "short": "The Coca-Cola Company is a listed company (NYSE: KO).",
   "source": {
-    "name": "The Coca-Cola Company, investor relations",
-    "date": "2026",
-    "url": "https://investors.coca-colacompany.com/"
+    "name": "The Coca-Cola Company Form 10-K for fiscal year ended December 31, 2025 (SEC cover page)",
+    "date": "2026-02-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+    "quote": "Common Stock, $0.25 Par Value KO New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
   },
   "reviewed": false
 }

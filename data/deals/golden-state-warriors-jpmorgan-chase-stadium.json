@@ -8,9 +8,14 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "SFBayCA",
+    "name": "SFBay (Bay City News) – 'Warriors announce \"Chase Arena\" as future home'",
     "date": "2016-01-28",
-    "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home"
+    "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home",
+    "quote": "The financial services firm JPMorgan Chase paid for naming rights for 20 years at the 18,000-seat arena",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Chase Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2016-01-28."
+  "note": "Arena naming rights: Chase Center (the arena opened in 2019; the naming-rights deal was announced in January 2016, for 20 years). Start date and value unknown from this source."
 }
