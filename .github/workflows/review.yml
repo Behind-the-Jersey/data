@@ -17,8 +17,18 @@ permissions:
   pull-requests: write
   issues: write
 
+# Only a run that will review joins the PR's group: the condition is the job's `if` below, keep the
+# two the same. Every other run (a plain comment, a draft, a fork) would cancel the review in progress
+# and leave the pull request without one.
 concurrency:
-  group: review-${{ github.event.pull_request.number || github.event.issue.number }}
+  group: >-
+    ${{ ((github.event_name == 'pull_request' && !github.event.pull_request.draft &&
+          github.event.pull_request.head.repo.full_name == github.repository) ||
+         (github.event_name == 'issue_comment' && github.event.issue.pull_request &&
+          startsWith(github.event.comment.body, '/review') &&
+          contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association)))
+    && format('review-{0}', github.event.pull_request.number || github.event.issue.number)
+    || format('skip-{0}', github.run_id) }}
   cancel-in-progress: true
 
 jobs:
@@ -30,6 +40,9 @@ jobs:
        startsWith(github.event.comment.body, '/review') &&
        contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association))
     runs-on: ubuntu-latest
+    # Most reviews take minutes and the longest so far 93; one stuck on the model gateway would
+    # otherwise hold the check for 6 hours. BTJ Scout re-runs a review that timed out.
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v7
         with:
