@@ -1,12 +1,14 @@
 {
   "id": "hard-rock-international",
   "name": "Hard Rock International",
-  "ownerId": null,
+  "ownerId": "hard-rock-international-owner",
   "ownership": null,
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "seminole-tribe-of-florida-record"
+  ],
   "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Ownership re-traced 2026-10-01: Hard Rock says the Seminole Tribe of Florida acquired the Hard Rock brand in 2007 (claim seminole-tribe-of-florida-record, checked 2026-09-26); no record of serious human-rights abuses by the tribe or by Hard Rock itself was found this pass. Tier proposal: none."
 }

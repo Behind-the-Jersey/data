@@ -1,0 +1,20 @@
+{
+  "id": "nrg-energy-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "nrg-energy-inc"
+  ],
+  "text": "NRG Energy, Inc. is a publicly traded company; its common stock is registered on the New York Stock Exchange under the ticker NRG.",
+  "short": "NRG Energy, Inc. is publicly traded on the New York Stock Exchange under the ticker NRG.",
+  "source": {
+    "name": "SEC Form 10-K for NRG Energy, Inc. (fiscal year 2025), cover page",
+    "date": "2026-02-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000004/nrg-20251231.htm",
+    "quote": "Common Stock, par value $0.01 NRG New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -4,13 +4,19 @@
   "orgName": "York Space Systems",
   "sponsorId": "york-space-systems",
   "placement": "patch",
-  "from": "2025",
-  "to": null,
+  "from": "2025-07",
+  "to": "2030",
   "value": null,
   "source": {
     "name": "Colorado Rockies / MLB.com press release",
     "date": "2025-07-01",
-    "url": "https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership"
+    "url": "http://web.archive.org/web/20251121205047/https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership",
+    "note": "Internet Archive capture (21 Nov 2025) of the MLB.com press release; the live mlb.com page blocks scripts.",
+    "quote": "a historic jersey patch partnership beginning July 1, 2025, and continuing through the 2030 MLB season",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch on all Rockies jerseys; 5.5-year partnership brokered by Playfly Sports."
 }

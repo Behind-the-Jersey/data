@@ -3,29 +3,17 @@
   "channels": [
     {
       "type": "email",
-      "value": "Tickets@broncos.nfl.net",
+      "value": "suggestions@broncos.nfl.net",
+      "label": "Questions, suggestions or comments about the website",
       "source": {
-        "name": "Club website contact page",
+        "name": "Denver Broncos website contact page",
         "url": "https://www.denverbroncos.com/contact/",
-        "date": "2026-09-24"
-      }
-    },
-    {
-      "type": "email",
-      "value": "PremiumSeats@broncos.nfl.net",
-      "source": {
-        "name": "Club website contact page",
-        "url": "https://www.denverbroncos.com/contact/",
-        "date": "2026-09-24"
-      }
-    },
-    {
-      "type": "phone",
-      "value": "13036499000",
-      "source": {
-        "name": "Club website contact page",
-        "url": "https://www.denverbroncos.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Questions, suggestions or comments about DenverBroncos.com can be e-mailed to suggestions@broncos.nfl.net",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -33,29 +21,89 @@
       "value": "https://www.denverbroncos.com/contact/",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "Denver Broncos website contact page",
         "url": "https://www.denverbroncos.com/contact/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Contact Info",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "13036499000",
+      "label": "Main switchboard",
+      "source": {
+        "name": "Denver Broncos website contact page",
+        "url": "https://www.denverbroncos.com/contact/",
+        "date": "2026-10-01",
+        "quote": "(303) 649-9000",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "email",
+      "value": "Tickets@broncos.nfl.net",
+      "label": "Ticket Office",
+      "source": {
+        "name": "Denver Broncos website contact page",
+        "url": "https://www.denverbroncos.com/contact/",
+        "date": "2026-10-01",
+        "quote": "Ticket Office E-mail: Tickets@broncos.nfl.net",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "email",
+      "value": "PremiumSeats@broncos.nfl.net",
+      "label": "Premium Seats",
+      "source": {
+        "name": "Denver Broncos website contact page",
+        "url": "https://www.denverbroncos.com/contact/",
+        "date": "2026-10-01",
+        "quote": "Premium Seat E-mail: PremiumSeats@broncos.nfl.net",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@broncos",
       "source": {
-        "name": "Club website contact page",
+        "name": "Denver Broncos website",
         "url": "https://www.denverbroncos.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "x Broncos Advertising",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@broncos",
       "source": {
-        "name": "Club website contact page",
+        "name": "Denver Broncos website",
         "url": "https://www.denverbroncos.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "instagram Broncos",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

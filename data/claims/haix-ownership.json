@@ -1,0 +1,20 @@
+{
+  "id": "haix-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "haix-schuhe-gmbh"
+  ],
+  "text": "HAIX Schuhe Produktions und Vertriebs GmbH is a company registered in the commercial register of the Regensburg Local Court (HRB 4528), based in Mainburg.",
+  "source": {
+    "name": "HAIX Schuhe Produktions und Vertriebs GmbH: Impressum",
+    "date": "2026",
+    "url": "https://www.haix.de/impressum",
+    "quote": "eingetragen im Handelsregister des Amtsgerichtes Regensburg Handelsregisternummer HRB 4528",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'registered in the commercial register of the Regensburg Local Court, commercial register number HRB 4528'."
+  },
+  "reviewed": false
+}
