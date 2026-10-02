@@ -7,8 +7,144 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "vitaldin",
+      "placement": "front",
+      "source": {
+        "name": "2Playbook: 'Valencia Basket renueva a Vitaldin hasta 2029 y lo eleva al frontal de la camiseta'",
+        "date": "2026-08-18",
+        "url": "https://www.2playbook.com/patrocinio/valencia-basket-renueva-vitaldin-hasta-2029-situa-en-frontal-camiseta_23328_102.html",
+        "quote": "el logo de Vitaldin lucirá en el frontal de las camisetas de los dos primeros equipos",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club home-kit launch (29 Jul 2026) also says Vitaldin is 'en el frontal'. Renewal to 2028-29 covers 2026-27."
+      }
+    },
+    {
+      "sponsorId": "pamesa-ceramica",
+      "placement": "back",
+      "source": {
+        "name": "ACB: 'Senzillament Taronja y homenaje a los orígenes en las nuevas equipaciones'",
+        "date": "2023",
+        "url": "https://acb.com/es/liga/noticias/senzillament-taronja-y-homenaje-a-los-origenes-en-las-nuevas-equipaciones-138754",
+        "quote": "Pamesa y Vitaldin lucirán en la espalda del primer equipo masculino",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Placement documented for the 2023-24 launch; the club still lists Pamesa on the men's 2026-27 kit (home-kit launch, 29 Jul 2026) but does not restate the position. Vitaldin has since moved from the back to the front."
+      }
+    },
+    {
+      "sponsorId": "puleva",
+      "placement": "shorts",
+      "source": {
+        "name": "2Playbook: 'El Valencia Basket renueva su patrocinio con Puleva para las dos próximas temporadas'",
+        "date": "2026-07-17",
+        "url": "https://www.2playbook.com/patrocinio/valencia-basket-renueva-su-patrocinio-con-puleva-dos-proximas-temporadas_23019_102.html",
+        "quote": "la empresa granadina lucirá en el pantalón de los primeros equipos del club",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Two-season renewal to 2027-28 covers 2026-27."
+      }
+    },
+    {
+      "sponsorId": "mgs-seguros",
+      "placement": "shorts",
+      "source": {
+        "name": "Valencia Basket: 'MGS Seguros se convierte en patrocinador del Valencia Basket'",
+        "date": "2025-07-10",
+        "url": "https://www.valenciabasket.com/mgs-seguros-se-convierte-en-patrocinador-del-valencia-basket",
+        "quote": "la imagen de MGS estará presente en el pantalón de los primeros equipos masculino y femenino",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Three-season deal signed July 2025, on the shorts 'a partir de 2026'."
+      }
+    },
+    {
+      "sponsorId": "panrico",
+      "placement": "back",
+      "source": {
+        "name": "2Playbook: 'El Valencia Basket firma a Vicky Foods hasta 2029 y Panrico estará en la trasera de la camiseta'",
+        "date": "2026-07-24",
+        "url": "https://www.2playbook.com/patrocinio/valencia-basket-firma-vicky-foods-hasta-2029-panrico-tendra-presencia-en-equipacion_23078_102.html",
+        "quote": "Panrico tendrá presencia en la trasera de la camiseta del equipo masculino en la ACB",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Men's ACB games; the same article puts Fundación Vicky Foods on the EuroLeague chest."
+      }
+    },
+    {
+      "sponsorId": "vicky-foods-foundation",
+      "placement": "front",
+      "source": {
+        "name": "2Playbook: 'El Valencia Basket firma a Vicky Foods hasta 2029 y Panrico estará en la trasera de la camiseta'",
+        "date": "2026-07-24",
+        "url": "https://www.2playbook.com/patrocinio/valencia-basket-firma-vicky-foods-hasta-2029-panrico-tendra-presencia-en-equipacion_23078_102.html",
+        "quote": "la Fundación Vicky Foods tendrá visibilidad en el pecho de la camiseta en los partidos de Euroliga",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "EuroLeague games only, on the chest; the club also lists Fundación Vicky Foods on the men's kit (second-kit launch, 18 Aug 2026)."
+      }
+    },
+    {
+      "sponsorId": "midea",
+      "placement": "shorts",
+      "source": {
+        "name": "ACB: 'Senzillament Taronja y homenaje a los orígenes en las nuevas equipaciones'",
+        "date": "2023",
+        "url": "https://acb.com/es/liga/noticias/senzillament-taronja-y-homenaje-a-los-origenes-en-las-nuevas-equipaciones-138754",
+        "quote": "Midea tendrá su espacio en los pantalones junto a Puleva",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Placement documented for the 2023-24 launch. The home-kit launch (29 Jul 2026) still lists Midea on the men's kit; the second-kit article (18 Aug 2026) lists it only with the women's kit. Disagreement flagged in the pull request."
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Valencia Basket: 'Valencia Basket and hummel launch the home kit for the 26-27 season'",
+        "date": "2026-07-29",
+        "url": "https://www.valenciabasket.com/en/valencia-basket-and-hummel-launch-the-home-kit-for-the-26-27-season",
+        "quote": "the presence of the kit manufacturer, hummel",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker, second season with the club."
+      }
+    },
+    {
+      "sponsorId": "caixa-popular",
+      "placement": "training-kit",
+      "source": {
+        "name": "Valencia Basket: 'Valencia Basket and hummel launch the home kit for the 26-27 season'",
+        "date": "2026-07-29",
+        "url": "https://www.valenciabasket.com/en/valencia-basket-and-hummel-launch-the-home-kit-for-the-26-27-season",
+        "quote": "Caixa Popular is once again backing the warm-up jersey",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Warm-up shirt, not the game jersey."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Men's 2026/27 'Origen' home kit: Vitaldin on the front (first front sponsor since 2010), Pamesa and Panrico on the back (Panrico in ACB games, Fundación Vicky Foods on the EuroLeague chest), Puleva and MGS Seguros on the shorts, hummel as kit maker, Caixa Popular on the warm-up shirt. The club's home-kit launch (29 Jul 2026) and second-kit article (18 Aug 2026) disagree on Midea (men's list vs women's only), and the Pamesa/Midea positions are documented from the 2023-24 launch rather than restated for 2026-27, so the list is not marked complete. Coca-Cola, a club 'Platinum' partner, is not named among the 2026/27 kit sponsors.",
   "change": null
 }
