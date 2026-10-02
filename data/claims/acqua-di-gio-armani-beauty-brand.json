@@ -25,7 +25,8 @@
       "checked": {
         "on": "2026-10-01",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-      }
+      },
+      "note": "fragrantica.com blocks script access (HTTP 403); the same URL was re-read on 2 October 2026 through a text-rendering proxy (r.jina.ai), where the quote appears verbatim on the page."
     }
   ],
   "reviewed": false
