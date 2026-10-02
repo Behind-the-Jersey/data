@@ -5,39 +5,74 @@
       "type": "email",
       "value": "podcasts@patriots.com",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website home page",
         "url": "https://www.patriots.com/",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "podcasts@patriots.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "contact-form",
       "value": "https://www.patriots.com/press-room/contact-us",
-      "label": "Contact form",
+      "label": "Contact page",
       "source": {
         "name": "Club website contact page",
         "url": "https://www.patriots.com/press-room/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "CONTACT US",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@patriots",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website home page",
         "url": "https://www.patriots.com/",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "x Patriots",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@patriots",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website home page",
         "url": "https://www.patriots.com/",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "instagram Patriots",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+15082980398",
+      "label": "Patriots.com radio shows",
+      "source": {
+        "name": "Club website home page",
+        "url": "https://www.patriots.com/",
+        "date": "2026-09-24",
+        "quote": "or call us at 508-298-0398 or toll free at 855-PATS-500",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

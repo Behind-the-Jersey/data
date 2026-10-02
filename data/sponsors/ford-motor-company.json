@@ -3,12 +3,13 @@
   "name": "Ford Motor Company",
   "ownerId": "ford-motor-company",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Owned by Ford Motor Company. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": null,
   "claimIds": [
-    "ford-motor-company-record"
+    "ford-motor-company-record",
+    "ford-eeoc-buffalo-harassment"
   ],
   "aliases": [],
-  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  "note": "Rating note: on hold for a maintainer. In September 2026 the EEOC announced that its investigation found reasonable cause to believe Ford personnel at the Buffalo Stamping Plant subjected numerous employees to harassment and discrimination based on race and national origin, and that Ford would pay $2.3 million to settle (claim ford-eeoc-buffalo-harassment, second source Buffalo Toronto Public Media). Whether that regulator finding lifts Ford above 'Nothing found' is the maintainer's call; until then the tier is held."
 }

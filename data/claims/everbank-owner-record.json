@@ -4,12 +4,17 @@
   "ownerIds": [
     "everbank-owner"
   ],
-  "text": "EverBank is a privately held commercial bank owned by private equity investors (Stone Point Capital, Warburg Pincus, Reverence Capital, etc.) with no state ownership.",
-  "short": "EverBank is a privately held commercial bank owned by private equity investors (Stone Point Capital, Warburg Pincus, Reverence Capital, etc.) with no state….",
+  "text": "EverBank is owned by funds managed by Stone Point Capital, Warburg Pincus, Reverence Capital Partners, Sixth Street and Bayview Asset Management, each of which holds a non-controlling interest, alongside TIAA, which retains a non-controlling stake.",
+  "short": "EverBank is owned by funds managed by Stone Point Capital, Warburg Pincus, Reverence Capital Partners, Sixth Street and Bayview Asset Management, each….",
   "source": {
-    "name": "Stone Point Capital EverBank page",
-    "date": "2026-09-24",
-    "url": "https://stonepoint.com/company/everbank"
+    "name": "TIAA press release: TIAA Completes Sale of TIAA Bank to Private Investors (via Stone Point Capital news)",
+    "date": "2023-08-01",
+    "url": "https://www.stonepoint.com/news/tiaa-completes-sale-of-tiaa-bank-to-private-investors-bank-now-doing-business-as-everbank/",
+    "quote": "The new investors that now each own non-controlling interests in EverBank are funds managed by Stone Point Capital, Warburg Pincus, Reverence Capital Partners, Sixth Street and Bayview Asset Management.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "reviewed": false
 }
