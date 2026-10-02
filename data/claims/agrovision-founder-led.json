@@ -1,0 +1,32 @@
+{
+  "id": "agrovision-founder-led",
+  "kind": "ownership",
+  "ownerIds": [
+    "agrovision-corp"
+  ],
+  "text": "Agrovision, the company behind The Fruitist berry brand, is a founder-led, investor-backed private company; co-founder Steve Magami is its CEO.",
+  "short": "Agrovision (Fruitist) is founder-led; Steve Magami is CEO and co-founder.",
+  "source": {
+    "name": "PR Newswire – Agrovision Corp. release: 'Superfruit Industry Disruptor Agrovision Announces Largest Equity Financing to Date'",
+    "date": "2024-03-20",
+    "url": "https://www.prnewswire.com/news-releases/superfruit-industry-disruptor-agrovision-announces-largest-equity-financing-to-date-with-leading-growth-capital-investors-to-scale-its-global-footprint-302095035.html",
+    "quote": "The company is founder-led and backed by leading investors that are aligned with Agrovision's values and long-term mission and vision.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Packer – 'A look at Agrovision's transition to Fruitist'",
+      "date": "2025-05-02",
+      "url": "https://www.thepacker.com/news/industry/look-agrovisions-transition-fruitist",
+      "quote": "The company also is expanding its product line to include other premium superfruits such as blackberries, raspberries and cherries, said Steve Magami, CEO and co-founder.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

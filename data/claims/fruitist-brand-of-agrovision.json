@@ -1,0 +1,32 @@
+{
+  "id": "fruitist-brand-of-agrovision",
+  "kind": "ownership",
+  "ownerIds": [
+    "agrovision-corp"
+  ],
+  "text": "The Fruitist, the premium berry brand on D.C. United's shirt sleeve, is the brand of Agrovision Corp., a Los Angeles-based superfruit producer that renamed itself Fruitist in 2025.",
+  "short": "The Fruitist brand belongs to Agrovision Corp., renamed Fruitist in 2025.",
+  "source": {
+    "name": "D.C. United – 'D.C. United Announce The Fruitist as the Club's Official Sleeve Patch Partner'",
+    "date": "2024-02-23",
+    "url": "https://www.dcunited.com/news/d-c-united-announce-the-fruitist-as-the-club-s-official-sleeve-patch-partner",
+    "quote": "is the dream of Agrovision Corp, one of the world’s leading and fastest growing producers and year-round suppliers of superfruits",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Packer – 'A look at Agrovision's transition to Fruitist'",
+      "date": "2025-05-02",
+      "url": "https://www.thepacker.com/news/industry/look-agrovisions-transition-fruitist",
+      "quote": "Agrovision, the Los Angeles-based company formed in 2012 to provide premium blueberries in a sustainable way, has a new name — Fruitist — aligning with its brand name.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
