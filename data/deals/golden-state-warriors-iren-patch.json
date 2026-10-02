@@ -6,11 +6,23 @@
   "placement": "patch",
   "from": "2026",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "Silicon Valley / Bay Area News Group",
-    "date": "2026-06-27",
-    "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+  "value": {
+    "amount": 50,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 50
   },
-  "note": "Jersey patch."
+  "source": {
+    "name": "Silicon Valley / Bay Area News Group – 'Warriors announce AI data center company as jersey sponsor'",
+    "date": "2026-06-27",
+    "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor",
+    "quote": "Sportico reported that the sponsorship is worth $50 million per year.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Jersey patch. Terms were not made public; the $50m-a-year figure is a press report (the article cites Sportico)."
 }
