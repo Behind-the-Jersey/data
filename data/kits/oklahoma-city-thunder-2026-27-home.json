@@ -15,12 +15,12 @@
         "name": "Oklahoma City Thunder (nba.com): Thunder, Love's Enter Multi-Year Partnership Extension",
         "date": "2023-04-04",
         "url": "https://www.nba.com/thunder/news/loves-partnership-230404",
-        "quote": "The agreement will broaden the placement of the Love's heart logo patch beyond Thunder jerseys to include youth jerseys for the YMCA Thunder Basketball League.",
+                "quote": "With the extension, the partnership will reach a longevity of 20 years – nine of which will include the Love's heart logo on Thunder jerseys.",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
         },
-        "note": "The patch was first announced on 15 March 2019; this 2023 multi-year extension says the Love's heart logo patch covers Thunder jerseys. The page body is JavaScript-rendered, so scripts/check_sources.py cannot read the quote."
+        "note": "The patch was first announced on 15 March 2019; this 2023 extension says nine years of the partnership include the Love's heart logo patch on Thunder jerseys, running from 2019 through 2027-28 and so covering 2026-27. The page body is JavaScript-rendered, so scripts/check_sources.py cannot read the quote."
       }
     }
   ],
