@@ -1,0 +1,33 @@
+{
+  "id": "teamsystem-adia-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "adia"
+  ],
+  "text": "Abu Dhabi Investment Authority (ADIA), which invests on behalf of the Government of Abu Dhabi, held a 9.8% minority stake in TeamSystem as of July 2026 (per a corporate filing reported by Reuters), after a wholly owned ADIA subsidiary agreed in August 2023 to acquire a minority stake from Hellman & Friedman.",
+  "source": {
+    "name": "Reuters (republished by Global Banking & Finance Review): Francisco Partners, KKR to buy minority stakes in Italy's TeamSystem, sources say",
+    "date": "2026-09-11",
+    "url": "https://www.globalbankingandfinance.com/exclusive-francisco-partners-kkr-buy-minority-stakes-italys/",
+    "quote": "Silver Lake and Abu Dhabi sovereign wealth fund ADIA, which acquired stakes in TeamSystem from H&F in 2023, owned 12.8% and 9.8%, respectively.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Reuters article by Elvira Pollina and Amy-Jo Crowley; reuters.com copy not directly fetchable for scripts, republished here in full. Same article: H&F held 69% as of July 2026 per the filing."
+  },
+  "additionalSources": [
+    {
+      "name": "Hellman & Friedman press release: ADIA and CapitalG to Invest in TeamSystem",
+      "date": "2023-08-17",
+      "url": "https://hf.com/adia-and-capitalg-to-invest-in-teamsystem/",
+      "quote": "a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA) and CapitalG, Alphabet's independent growth fund, have entered into definitive agreements to acquire minority stakes in TeamSystem",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Same page: ADIA is 'a globally-diversified investment institution that prudently invests funds on behalf of the Government of Abu Dhabi'; H&F 'will remain the majority shareholder'; deals to close Q1 2024."
+    }
+  ],
+  "reviewed": false
+}

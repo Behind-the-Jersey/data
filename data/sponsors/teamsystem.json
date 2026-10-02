@@ -3,14 +3,16 @@
   "name": "TeamSystem",
   "ownerId": "hellman-friedman",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Controlled by US private-equity firm Hellman & Friedman (69% stake reported by Reuters, September 2026); no state owner and no human-rights finding.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": null,
   "claimIds": [
-    "teamsystem-hellman-friedman-majority"
+    "teamsystem-hellman-friedman-majority",
+    "teamsystem-adia-stake"
   ],
   "aliases": [
     "teamsystem spa",
     "teamsystem group"
-  ]
+  ],
+  "note": "Proposed for Concern in PR #1037 (issue #620): controlled by US private-equity firm Hellman & Friedman (69%), but Abu Dhabi's sovereign wealth fund ADIA held a 9.8% stake as of July 2026 — above the 5% threshold — with the UAE's mass-trial record claims already on main (uae-mass-trial-2024, uae-mass-trial-upheld-2025). Tier to be set by a maintainer."
 }
