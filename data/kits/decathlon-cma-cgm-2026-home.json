@@ -12,22 +12,94 @@
       "sponsorId": "decathlon",
       "placement": "front",
       "source": {
-        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "LNC (Ligue Nationale de Cyclisme) — Decathlon CMA CGM Vise le Top 5 Mondial !",
+        "date": "2026-01-15",
+        "url": "https://www.lncpro.fr/actualites/decathlon-cma-cgm-vise-le-top-5-mondial",
+        "quote": "Le bleu et le vert de Decathlon et Van Rysel s'entremêlent au rouge et blanc de CMA CGM, nouveau co-sponsor titre, et d'Adecco, partenaire fraîchement recruté.",
+        "note": "Team presentation of the 2026 jersey. The club's official jersey photos on the team shop show DECATHLON in large letters across the chest (front).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "cma-cgm",
       "placement": "front",
       "source": {
-        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "LNC (Ligue Nationale de Cyclisme) — Decathlon CMA CGM Vise le Top 5 Mondial !",
+        "date": "2026-01-15",
+        "url": "https://www.lncpro.fr/actualites/decathlon-cma-cgm-vise-le-top-5-mondial",
+        "quote": "Le bleu et le vert de Decathlon et Van Rysel s'entremêlent au rouge et blanc de CMA CGM, nouveau co-sponsor titre, et d'Adecco, partenaire fraîchement recruté.",
+        "note": "Team presentation of the 2026 jersey. The club's official jersey photos on the team shop show CMA CGM below DECATHLON on the chest (front), and again across the upper back.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "van-rysel",
+      "placement": "front",
+      "source": {
+        "name": "LNC (Ligue Nationale de Cyclisme) — Decathlon CMA CGM Vise le Top 5 Mondial !",
+        "date": "2026-01-15",
+        "url": "https://www.lncpro.fr/actualites/decathlon-cma-cgm-vise-le-top-5-mondial",
+        "quote": "Le bleu et le vert de Decathlon et Van Rysel s'entremêlent au rouge et blanc de CMA CGM, nouveau co-sponsor titre, et d'Adecco, partenaire fraîchement recruté.",
+        "note": "Team presentation of the 2026 jersey. The club's official jersey photos on the team shop show VAN RYSEL with the V/R mark on the upper chest (front).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "adecco",
+      "placement": "sleeve",
+      "source": {
+        "name": "LNC (Ligue Nationale de Cyclisme) — Decathlon CMA CGM Vise le Top 5 Mondial !",
+        "date": "2026-01-15",
+        "url": "https://www.lncpro.fr/actualites/decathlon-cma-cgm-vise-le-top-5-mondial",
+        "quote": "Le bleu et le vert de Decathlon et Van Rysel s'entremêlent au rouge et blanc de CMA CGM, nouveau co-sponsor titre, et d'Adecco, partenaire fraîchement recruté.",
+        "note": "Team presentation of the 2026 jersey ('les manches contrastent'). The club's official jersey photos on the team shop show ADECCO written down the dark right sleeve.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "armand-thiery",
+      "placement": "front",
+      "source": {
+        "name": "Decathlon CMA CGM Team official shop — Official DECATHLON CMA CGM 2026 Jersey",
+        "date": "2026",
+        "url": "https://shop.decathloncmacgmteam.com/en/products/maillot-officiel-decathlon-cma-cgm-2026",
+        "quote": "Official Decathlon CMA CGM Team Product",
+        "note": "The official 2026 jersey product photos on this club-shop page show ARMAND THIERY printed on the upper left chest.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "armand-thiery",
+      "placement": "shorts",
+      "source": {
+        "name": "Decathlon CMA CGM Team official shop — Official DECATHLON CMA CGM 2026 Jersey",
+        "date": "2026",
+        "url": "https://shop.decathloncmacgmteam.com/en/products/maillot-officiel-decathlon-cma-cgm-2026",
+        "quote": "Official Decathlon CMA CGM Team Product",
+        "note": "The official kit product photos on this club-shop page show ARMAND THIERY on both thighs of the bib shorts, with DECATHLON and the V/R mark on the rear.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026 UCI WorldTeam. Decathlon CMA CGM Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "sponsorsComplete": true,
+  "summary": "2026 UCI WorldTeam. Decathlon and CMA CGM are the title sponsors on the front of the jersey; Van Rysel (Decathlon's cycling brand) sits on the upper chest, Adecco on the sleeve and Armand Thiery on the chest and shorts. Sponsor list checked against the club's official jersey photos.",
   "change": null
 }
