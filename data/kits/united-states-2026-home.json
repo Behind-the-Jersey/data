@@ -1,0 +1,46 @@
+{
+  "id": "united-states-2026-home",
+  "clubId": "united-states",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 World Cup",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "U.S. Soccer: U.S. Soccer And Nike Unveil New National Team Kits Ahead Of 2026 FIFA Men’s World Cup In The U.S.",
+        "date": "2026-03-16",
+        "url": "https://ussoccer.com/stories/2026/03/nike-unveils-new-national-team-stars-stripes-jerseys-kits-fifa-world-cup",
+        "note": "Kit maker, recorded as partner per the convention for kit suppliers. The federation launch covers all 27 national teams; Football Shirt Culture's launch write-up (2026-03-16, footballshirtculture.com/new-kits/united-states-2026-home-jersey.html) describes every mark on the shirt — white base, red wavy stripes across front and sleeves, plain white back, navy collar and cuffs, 'the navy Nike Swoosh and the USA shield crest' on the chest, navy shorts with a white Nike logo, white socks with a black Swoosh — so no commercial sponsor sits on the match shirt.",
+        "quote": "U.S. Soccer and Nike today unveiled the new 2026 U.S. Soccer National Team kits, which will be worn across all 27 U.S. Soccer National Teams.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "volkswagen",
+      "placement": "training-kit",
+      "source": {
+        "name": "Volkswagen DriverGear: Official 2026 U.S. Soccer Pre-Match Top - Men",
+        "date": "2026",
+        "url": "https://drivergear.vw.com/vw-retail/Official_2026_US_Soccer_PreMatch_Top_Men/p-DRG3652",
+        "note": "Volkswagen is U.S. Soccer's presenting partner since 2019 (vw.com/en/about-vw/mission-and-values/ussf-partnership.html). VW's own retail page for the 'authentic pre-match top' says it bears the logo of 'the U.S. Soccer's Presenting Partner; Volkswagen!', so the VW mark sits on the pre-match/training top, not the match shirt (training-kit placement).",
+        "quote": "Includes official logos of Nike, U.S.Soccer and Volkswagen",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "No commercial sponsor on the match shirt: Nike's white 2026 World Cup home shirt (red wavy stripes, plain white back, navy collar and cuffs) carries only the navy Nike Swoosh and the USA crest, with navy Nike-logo shorts and white Nike-swoosh socks. Volkswagen, U.S. Soccer's presenting partner, is on the team's 2026 pre-match/training top.",
+  "change": null,
+  "shortLine": "Nike only on the match shirt; VW on the training top"
+}
