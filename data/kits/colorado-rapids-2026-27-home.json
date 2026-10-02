@@ -12,13 +12,48 @@
       "sponsorId": "uchealth",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
+        "name": "Colorado Rapids: 'Colorado Rapids and UCHealth launch health-focused initiative as part of multi-year jersey rights deal'",
+        "date": "2022-11-14",
+        "url": "https://www.coloradorapids.com/news/colorado-rapids-and-uchealth-launch-health-focused-initiative-as-part-of-multi-y",
+        "quote": "UCHealth’s logo will be displayed prominently on the front of all Rapids First Team match jerseys and training tops",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The UCHealth jersey deal was announced 14 November 2022 and runs through the 2029 MLS season, so it covers this kit. For Soccer's 2026 MLS jersey-sponsor list (17 February 2026, https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/) confirms UCHealth as the Rapids' front-of-jersey partner for 2026."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "kiewit",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "Colorado Rapids Apple TV Media Kiewit Corporation Construction",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "2026-season sleeve table: for Colorado Rapids the right sleeve shows Kiewit Corporation. The club announced Kiewit as Official Jersey Sleeve Partner on 4 July 2025, with the logo on the right sleeve of all primary and secondary jerseys (deal record colorado-rapids-kiewit-sleeve)."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "The Colorful Colorado Kit, the Rapids' black 2026 primary with burgundy shoulders, marking 30 years as an MLS Original. UCHealth is the front-of-shirt partner through 2029; Kiewit Corporation is the right-sleeve partner; the league-wide Apple TV patch is on the left sleeve."
 }

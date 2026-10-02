@@ -1,0 +1,21 @@
+{
+  "id": "kiewit-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "kiewit-corporation"
+  ],
+  "text": "Kiewit is an employee-owned construction and engineering organization operating through a network of subsidiaries in the United States, Canada, Mexico and Guam.",
+  "short": "Kiewit is employee-owned; no state or state fund in its ownership.",
+  "source": {
+    "name": "Colorado Rapids: 'Colorado Rapids announce Kiewit as official jersey sleeve partner' (About Kiewit Corporation section)",
+    "date": "2025-07-04",
+    "url": "https://www.coloradorapids.com/news/colorado-rapids-announce-kiewit-as-official-jersey-sleeve-partner",
+    "quote": "With its roots dating back to 1884, the employee-owned organization operates through a network of subsidiaries in the United States, Canada, Mexico and Guam.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page itself carries no dateline; the club's announcement posts on Facebook and X and the Denver Business Journal dateline both show 4 July 2025."
+  },
+  "reviewed": false
+}
