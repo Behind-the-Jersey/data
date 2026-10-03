@@ -1,12 +1,14 @@
 {
   "id": "easypost",
   "name": "EasyPost",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "easypost",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "easypost-founder-ceo"
+  ],
   "aliases": [],
-  "note": "US e-commerce shipping software company."
+  "note": "Title co-sponsor: 'easypost' at the upper right chest and across the upper back of the 2026 kit, on both thighs of the bib shorts. Left unrated: the company's own about page says founder Jarrett Streebin is its CEO (easypost-founder-ceo), but no citable source names who owns EasyPost or who holds a controlling share (seed/venture backing reported, no acquisition disclosed). No qualifying record found."
 }

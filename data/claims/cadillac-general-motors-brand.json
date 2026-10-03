@@ -1,0 +1,20 @@
+{
+  "id": "cadillac-general-motors-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "general-motors"
+  ],
+  "text": "Cadillac is a General Motors brand: GM's Form 10-K for 2025 says its vehicles are developed, manufactured and marketed under the Buick, Cadillac, Chevrolet and GMC brands.",
+  "short": "Cadillac is a General Motors brand.",
+  "source": {
+    "name": "General Motors Company — Form 10-K for fiscal year 2025, filed with the SEC",
+    "date": "2026-01-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm",
+    "quote": "with vehicles developed, manufactured, and/or marketed under the Buick, Cadillac, Chevrolet, and GMC brands.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
