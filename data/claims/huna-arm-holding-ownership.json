@@ -1,0 +1,34 @@
+{
+  "id": "huna-arm-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "a-r-m-holding"
+  ],
+  "text": "HUNA, a Dubai residential brand, is a subsidiary of A.R.M. Holding, a UAE-based private investment firm.",
+  "short": "HUNA is a subsidiary of A.R.M. Holding.",
+  "source": {
+    "name": "HUNA (hunaliving.ae) homepage",
+    "date": "2026",
+    "url": "https://hunaliving.ae/",
+    "quote": "A SubsIdiary of A.R.M. Holding",
+    "note": "Banner text on the HUNA homepage (undated). The page also says 'As part of A.R.M. Holding, HUNA redefines elevated living' and calls A.R.M. Holding 'our parent company'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "A.R.M. Holding: homepage (armholding.ae)",
+      "date": "2026",
+      "url": "https://www.armholding.ae/",
+      "quote": "We are a UAE-based private investment and real estate company focused on building scalable ventures with lasting social and economic value across diverse sectors.",
+      "note": "Undated homepage intro text; the site's footer gives a Dubai, United Arab Emirates address.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout PR #1217 review (OpenCode, model kimi-k3-abliterated)"
+      }
+    }
+  ],
+  "reviewed": false
+}
