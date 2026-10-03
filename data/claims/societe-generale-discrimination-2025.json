@@ -1,0 +1,34 @@
+{
+  "id": "societe-generale-discrimination-2025",
+  "kind": "record",
+  "ownerIds": [
+    "societe-generale"
+  ],
+  "text": "On 10 September 2025, the Paris Court of Appeal found that an employee's stalled career and pay at Société Générale resulted from discrimination linked to her sex and her origins; the ruling is reported as the court's first recognition of 'intersectional discrimination'.",
+  "short": "2025 Paris appeal-court finding: Société Générale discriminated against an employee on sex and origin",
+  "source": {
+    "name": "France-Guyane: Discriminée parce que femme et noire — la Société Générale condamnée",
+    "date": "2025-11-07",
+    "url": "https://www.franceguyane.fr/actualite/justice/discriminee-parce-que-femme-et-noire-la-societe-generale-condamnee-1056747.php",
+    "quote": "Le 10 septembre 2025, la cour d'appel de Paris a reconnu que la stagnation professionnelle et salariale de Maeva(1) résultait d'une discrimination liée à son genre et à ses origines.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "English: 'On 10 September 2025, the Paris Court of Appeal recognised that the professional and pay stagnation of Maeva resulted from discrimination linked to her gender and her origins. A first.'"
+  },
+  "additionalSources": [
+    {
+      "name": "StreetPress: À la Société Générale, une affaire de discrimination raciale balayée par les prud’hommes",
+      "date": "2026-06-23",
+      "url": "https://www.streetpress.com/1782206105-societe-generale-affaire-discrimination-raciale-balayee-prudhommes-racise-sexiste-raciale/",
+      "quote": "la Cour d’appel de Paris condamnait la Société Générale pour discrimination « en raison de l’origine et du sexe »",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "English: 'the Paris Court of Appeal convicted Société Générale of discrimination on grounds of origin and sex' — another employee of the bank. StreetPress links the Mediapart report (paywalled)."
+    }
+  ],
+  "reviewed": false
+}
