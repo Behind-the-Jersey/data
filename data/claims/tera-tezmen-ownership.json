@@ -1,0 +1,21 @@
+{
+  "id": "tera-tezmen-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tera-holding"
+  ],
+  "text": "Tera Holding's main owner and largest shareholder is its co-founder and chairman Emre Tezmen; his father, former transport minister Oğuz Tezmen, is also a major shareholder with 25.17% of the group.",
+  "short": "Tera Holding's main owner is Emre Tezmen",
+  "source": {
+    "name": "Memur Haber 365: Eski Bakan Oğuz Tezmen'in Hissedar Olduğu Dev Şirkette Operasyon Şoku!",
+    "date": "2026-09-17",
+    "url": "https://www.memurhaber365.com/eski-bakan-oguz-tezmenin-hissedar-oldugu-dev-sirkette-operasyon-soku/",
+    "quote": "Tera Holding'in ana sahibi ve en büyük paydaşı, şirketin kurucu ortağı ve Yönetim Kurulu Başkanı olan iş insanı Emre Tezmen'dir.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Article cites SPK and KAP records for management and voting control in Tera Group flagship companies, and gives Oğuz Tezmen's stake as 25.17%. Milli Gazete (15 September 2026) reports the same management structure but cautions that published management roles alone do not prove the full share distribution."
+  },
+  "reviewed": false
+}

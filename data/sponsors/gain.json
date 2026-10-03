@@ -1,0 +1,32 @@
+{
+  "id": "gain",
+  "name": "Gain",
+  "ownerId": "gain-medya",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "The Gain digital content platform, operated by Gain Medya A.Ş., name and chest sponsor of Beşiktaş's men's basketball team (Beşiktaş Gain) since 2025-26.",
+  "claimIds": [
+    "turkey-kavala-detention",
+    "gain-anahat-ownership",
+    "gain-tmsf-trusteeship",
+    "tmsf-public-institution"
+  ],
+  "aliases": [
+    "GAİN",
+    "Gain Medya",
+    "GAİN Medya A.Ş.",
+    "Beşiktaş Gain"
+  ],
+  "note": "Rating note (proposed in PR, not set): the legal owner Anahat (Selahattin Aydın) has been under a court-ordered TMSF trusteeship with Gain Medya since 16 December 2025 during an illegal-betting and money-laundering investigation; the trusteeship is temporary and the investigation was still under way in 2026. The Turkish state's record claim (turkey-kavala-detention) attaches to the government above the fund. Proposed tier: serious, with the trusteeship-as-control caveat set out in the pull request. ON HOLD: proposed 'serious' in PR, pending maintainer review.",
+  "why": {
+    "text": "Since December 2025 the company behind the Gain platform has been run by a trustee appointed from Turkey's state savings-deposit fund (TMSF), after an Istanbul court put it under the fund during an illegal-betting and money-laundering investigation. The money behind the shirt is therefore state money for now: Turkey has kept civil society leader Osman Kavala in prison since 2017, sentenced him to life without parole in 2022, and disregarded European Court of Human Rights rulings ordering his release — findings documented by Amnesty International and Human Rights Watch.",
+    "claimIds": [
+      "turkey-kavala-detention",
+      "gain-tmsf-trusteeship",
+      "tmsf-public-institution"
+    ],
+    "messageLine": "A court put the company behind the Gain platform under Turkey's state savings-deposit fund (TMSF) in December 2025, and Turkey is disregarding European Court rulings to release Osman Kavala.",
+    "status": "draft"
+  }
+}

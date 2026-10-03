@@ -1,0 +1,21 @@
+{
+  "id": "iyi-finans-balli-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "iyi-finans"
+  ],
+  "text": "100% of the shares of Adil Tasarruf Finansman A.Ş. (the İyi Finans brand's company) belong to Ali Emre Ballı, who is also its chairman, per the company's 2025 activity report.",
+  "short": "Adil Tasarruf Finansman is 100% owned by Ali Emre Ballı",
+  "source": {
+    "name": "Milli Gazete: İyi Finans'ın sahibi kim, Ali Emre Ballı kimdir, şirketin yüzde 100 hissesi kime ait?",
+    "date": "2026-09-17",
+    "url": "https://www.milligazete.com.tr/iyi-finansin-sahibi-kim-ali-emre-balli-kimdir-sirketin-yuzde-100-hissesi-kime-ait",
+    "quote": "Adil Tasarruf Finansman A.Ş.'nin yüzde 100 payı Ali Emre Ballı'ya ait.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Article also states Ballı is chairman and that the company was registered on 2 June 2025 with a BDDK operating licence of 7 July 2025."
+  },
+  "reviewed": false
+}
