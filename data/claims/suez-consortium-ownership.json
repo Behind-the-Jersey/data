@@ -4,14 +4,14 @@
   "ownerIds": [
     "suez-consortium"
   ],
-  "text": "SUEZ is owned by a consortium of shareholders: Meridiam 38.3%, Global Infrastructure Partners, a part of BlackRock, 38.3%, Caisse des Dépôts and CNP Assurances 18.8%, and employee shareholders under the Go SUEZ plan 4.4%, with the stakes held via SUEZ Holding.",
-  "short": "SUEZ is held by a consortium led by Meridiam and Global Infrastructure Partners",
+  "text": "SUEZ S.A. is 97% owned by SUEZ Holding S.A.S., which is held by Meridiam Sustainable Water & Waste Fund (40%), GIP IV Highbury Luxco (40%) and Caisse des Dépôts and CNP Assurances (20%), with the remaining 3% held by employees.",
+  "short": "SUEZ is held via SUEZ Holding by Meridiam (40%), GIP (40%) and Caisse des Dépôts/CNP (20%)",
   "source": {
-    "name": "SUEZ — Governance (Our shareholders)",
-    "date": "2026",
-    "url": "https://www.suez.com/en/group/governance",
-    "quote": "SUEZ is owned by a consortium of strong and reputable shareholders, committed to supporting an ambitious strategy aimed at making the Group an agile and innovative world leader in environmental services",
-    "note": "The page shows no publication date. The shareholder split (Meridiam 38.3%, Global Infrastructure Partners, a part of BlackRock, 38.3%, Caisse des Dépôts and CNP Assurances 18.8%, Go SUEZ employee shareholding 4.4%, stakes held via SUEZ Holding) is shown in the 'Our shareholders' chart on the same page; the page also describes Caisse des Dépôts as 'A French public-sector financial institution'.",
+    "name": "SUEZ S.A. — Condensed Interim Consolidated Financial Statements for the first half-year of 2025, section 1.1 Group presentation",
+    "date": "2025-07",
+    "url": "https://www.suez.com/-/media/suez-global/files/publication/annual-report/financial-statements-suez-sa-2025.pdf",
+    "quote": "It is 97% owned by SUEZ Holding S.A.S. (held by Meridiam Sustainable Water & Waste Fund – 40%, GIP IV Highbury Luxco – 40% and Caisse des Dépôts and CNP Assurances – 20%) and 3% by employees.",
+    "note": "The document covers the first half-year of 2025 and carries no printed publication date; the file's address on suez.com carries a July 2025 stamp. SUEZ's governance page (https://www.suez.com/en/group/governance) additionally shows, in a shareholders chart, the current effective split Meridiam 38.3%, Global Infrastructure Partners (a part of BlackRock) 38.3%, Caisse des Dépôts and CNP Assurances 18.8% and Go SUEZ employee shareholding 4.4%, held via SUEZ Holding.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
@@ -23,7 +23,7 @@
       "date": "2025-07-09",
       "url": "https://web.archive.org/web/20250901174028/https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors",
       "quote": "The company is listed on the Paris and Brussels Euronext exchanges and its biggest shareholders are infrastructure-focussed investment firms Meridiam and Global Infrastructure Partners",
-      "note": "Named-press corroboration that Meridiam and Global Infrastructure Partners are Suez's biggest shareholders. The same article says Suez is 'listed on the Paris and Brussels Euronext exchanges', which disagrees with SUEZ's own presentation of a private consortium holding via SUEZ Holding (noted in the pull request). The live cyclist.co.uk page blocks scripts (HTTP 403), so the archived snapshot is cited.",
+      "note": "Named-press corroboration that Meridiam and Global Infrastructure Partners are Suez's biggest shareholders. The same article says Suez is 'listed on the Paris and Brussels Euronext exchanges', which disagrees with SUEZ's own presentation of a private consortium holding via SUEZ Holding (noted on the sponsor record). The live cyclist.co.uk page blocks scripts (HTTP 403), so the archived snapshot is cited.",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
