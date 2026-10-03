@@ -1,15 +1,17 @@
 {
   "id": "olimpbet",
   "name": "Olimpbet",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "olimpbet",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "olimpbet-zeus-ownership"
+  ],
   "aliases": [
     "Олимпбет",
     "olimp.bet"
   ],
-  "note": "Betting brand; official partner of several KHL clubs (CSKA, Severstal, Spartak, Sochi, Amur) and of SKA per the archived club site."
+  "note": "Betting brand (legal entity OOO BK Olimp); official partner of HC Dynamo Moscow and several other KHL clubs (CSKA, Severstal, Spartak, Sochi, Amur) and of SKA per the archived club sites. Ownership per a June 2024 register review (sportclan, archived); register aggregators block scripts, so the current founders' list could not be re-verified."
 }

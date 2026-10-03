@@ -1,0 +1,21 @@
+{
+  "id": "olimpbet-zeus-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "olimpbet"
+  ],
+  "text": "The Olimpbet bookmaker brand is represented by OOO 'BK Olimp'. Its founders are OOO 'Zevs' with 97.5% and Olimpbet CEO Sergey Kozyavkin with 2.5%; the founders of OOO Zevs, on a parity (50/50) basis, are Darina Denisova — former president of the Russian bookmakers' self-regulated organisation — and Andrey Petukhov.",
+  "short": "Olimpbet (OOO BK Olimp) belongs 97.5% to OOO Zevs and 2.5% to CEO Sergey Kozyavkin; Zevs belongs 50/50 to Darina Denisova and Andrey Petukhov.",
+  "source": {
+    "name": "Sportclan.ru: Кто владеет букмекерскими конторами в России? (review of open company registers; archived copy)",
+    "date": "2024-06-15",
+    "url": "https://web.archive.org/web/20240615053638/https://sportclan.ru/bk/kto-vladeet-bukmekerskimi-kontorami-v-rossii/",
+    "note": "Translation: 'The Olimpbet brand is represented by OOO BK Olimp. The company has two founders, one holding 97.5% — OOO Zevs; the remaining 2.5% is held by Olimpbet CEO Sergey Kozyavkin. Zevs's founders, on a parity basis, are Darina Denisova (former president of the bookmakers' SRO) and Andrey Petukhov.' Register data compiled June 2024; current register aggregators (rusprofile, audit-it) block scripts, so freshness beyond June 2024 is unverified.",
+    "quote": "Бренд Olimpbet представляет ООО «БК Олимп» (складочный капитал — 153,8 млн рублей). У компании два учредителя, один из которых располагает долей 97.5% — ООО «Зевс»). Оставшийся процент (2.5%) на счету гендиректора Olimpbet Сергея Козявкина. Возвращаясь к ООО «Зевс», учредителями организации на паритетной основе являются Дарина Денисова (экс-президент СРО БК) и Андрей Петухов.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

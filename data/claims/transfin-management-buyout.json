@@ -1,0 +1,21 @@
+{
+  "id": "transfin-management-buyout",
+  "kind": "ownership",
+  "ownerIds": [
+    "transfin-m"
+  ],
+  "text": "In February 2024 Alexey Taycher sold the leasing company Transfin-M to the company's management: 70% of the shares went to the closed-end mutual investment fund 'Investservis' under the management of management company 'Aurum Investment', and 30% to the closed-end fund 'Taler' under the management of OOO 'Tetis Kapital', according to an information disclosure of 22 February 2024.",
+  "short": "Taycher sold Transfin-M to its management: funds Investservis (Aurum Investment) 70% and Taler (Tetis Kapital) 30%.",
+  "source": {
+    "name": "RBC: У «Трансфин-М» сменился владелец (archived copy)",
+    "date": "2024-02-27",
+    "url": "https://web.archive.org/web/20240228141113/https://www.rbc.ru/business/27/02/2024/65dd8fda9a794748cff3fbc4",
+    "note": "Translation: '70% of the shares went to the closed-end mutual fund Investservis managed by MC Aurum Investment, 30% to ZPIF Taler managed by Tetis Kapital, per the disclosure of 22 February.' RBC's headline: Taycher sold Transfin-M to the company's management.",
+    "quote": "70% акций получил закрытый паевой инвестиционный фонд (ЗПИФ) «Инвестсервис» под управлением УК «Аурум Инвестмент» , 30% — ЗПИФ «Талер» под управлением ООО «Тетис Кэпитал» , следует из данных раскрытия информации от 22 февраля",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
