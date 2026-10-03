@@ -3,12 +3,12 @@
   "name": "Pinarello",
   "ownerId": "pinarello-holding",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Sold by investment firm L Catterton to a private family office in June 2023 (company announcement).",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "pinarello-ownership"
   ],
   "aliases": [],
-  "note": "Italian bike brand; Netcompany INEOS's bike partner, its mark on the chest, upper back and shorts of the 2026 kit. Cycling trade press (Cyclingnews) reported the June 2023 buyer is linked to mining billionaire Ivan Glasenberg; no human-rights finding against the company found."
+  "note": "Italian bike brand; Netcompany INEOS's bike partner, its mark on the chest, upper back and shorts of the 2026 kit. L Catterton announced it sold Pinarello to a private family office in June 2023 (claim pinarello-ownership); the company release does not name the buyer, so the real owner is not identified. Cycling trade press (Cyclingnews) reported the buyer is linked to businessman Ivan Glasenberg. No human-rights finding against the company found. Left unrated until the owner is identified."
 }
