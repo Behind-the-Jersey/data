@@ -1,0 +1,35 @@
+{
+  "id": "rosneftegaz-state-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "rosneftegaz",
+    "russian-federation"
+  ],
+  "text": "JSC Rosneftegaz is in 100% federal ownership — owned by the Russian state.",
+  "short": "Rosneftegaz is 100% owned by the Russian state.",
+  "source": {
+    "name": "Rosneft Oil Company: Shareholder structure (shareholders register data as of July 1, 2021)",
+    "date": "2021-07-01",
+    "url": "https://www.rosneft.com/Investors/Equity/Shareholder_structure/",
+    "quote": "JSC ROSNEFTEGAZ is in 100% federal ownership. The Russian Government's direct share (through the Federal Agency for State Property Management) in Rosneft's equity is 0.000000009%.",
+    "note": "Footnote 1 of Rosneft's published shareholder table: the state's direct holding in Rosneft itself is negligible; the state stake runs through 100%-federally-owned Rosneftegaz.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Коммерсантъ: Путин разрешил «Роснефти» совершать сделки с ее акциями",
+      "date": "2024-12-20",
+      "url": "https://www.kommersant.ru/doc/7399732",
+      "quote": "Крупнейшим акционером «Роснефти» является государственная компания «Роснефтегаз»: ей принадлежит 40,4% акций.",
+      "note": "Translation: 'Rosneft's largest shareholder is the state company Rosneftegaz: it owns 40.4% of the shares.' Kommersant calls Rosneftegaz a state company.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
