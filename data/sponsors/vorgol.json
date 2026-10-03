@@ -3,9 +3,9 @@
   "name": "Vorgol",
   "ownerId": "dabl-blek-ooo",
   "ownership": null,
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Russian natural-water brand whose site and sales are run by its exclusive distributor OOO «Дабл Блэк», registry-listed as owned by an individual, Evgeny Kuprin. No state in the chain and no human-rights finding found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "vorgol-dabl-blek-ownership",
     "dabl-blek-kuprin-ownership"
@@ -15,5 +15,5 @@
     "vorgol water",
     "Vorgol water"
   ],
-  "note": "Artesian drinking-water brand from the Lipetsk region; official supplier of FC Rodina's professional teams and academy since 25 Jul 2026. The brand-to-company link is the distributor relation stated on the brand's own site (its site, offer and contacts are OOO «Дабл Блэк»'s); the source does not say OOO «Дабл Блэк» owns the brand, so the ownership field is left unset, and the registry masks Dabl Blek's share data."
+  "note": "Artesian drinking-water brand from the Lipetsk region; official supplier of FC Rodina's professional teams and academy since 25 Jul 2026. Ownership check: the brand's official site (vorgolmsk.ru) names OOO «Дабл Блэк» as the brand's exclusive distributor, and the site's public offer, address and contacts are OOO «Дабл Блэк»'s (claim vorgol-dabl-blek-ownership); OOO «Дабл Блэк» is wholly owned by its founder Evgeny Kuprin per the EGRUL registry via checko.ru (claim dabl-blek-kuprin-ownership). No source found identifies the owner of the Vorgol brand itself: the distributor relation does not show OOO «Дабл Блэк» owns the brand, so the ownership field is left unset and the sponsor stays not rated yet. Proposed tier if a maintainer accepts the operator chain as the owner chain: none (see PR)."
 }

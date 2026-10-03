@@ -5,17 +5,17 @@
     "dabl-blek-ooo",
     "kuprin-evgeny"
   ],
-  "text": "The Saby (SBIS) company-registry profile of OOO «Дабл Блэк» (Double Black LLC, Moscow, INN 9715296056) lists Evgeny Kuprin in its owners ('Владельцы') section; Kuprin has been the company's general director since 15 March 2017. The registry masks the share amount and percentage for unauthorised visitors.",
-  "short": "OOO «Дабл Блэк»'s registry-listed owner is Evgeny Kuprin, its general director",
+  "text": "The EGRUL company-registry record of OOO «Дабл Блэк» (Double Black LLC, Moscow, INN 9715296056), shown on checko.ru, lists a single founder: Evgeny Kuprin (INN 771596029202), holding 100% of its capital (10,000 RUB) since 15 March 2017. Kuprin is also the company's general director since 15 March 2017.",
+  "short": "OOO «Дабл Блэк» is wholly owned by its founder and general director Evgeny Kuprin",
   "source": {
-    "name": "Saby (SBIS) company registry: OOO «Дабл Блэк» (saby.ru/profile/9715296056-774301001)",
-    "date": "2026-10-03",
-    "url": "https://saby.ru/profile/9715296056-774301001",
-    "note": "Row under the 'Владельцы' (owners) heading of the registry card; translates as 'Evgeny Alyazovich Kuprin, Moscow, 771596029202'. The share columns ('Сумма, ₽' and '%') show masked values (XXXXX XXX) to unauthorised visitors; the related-persons block reads 'Руководитель: … (с 15.03.17); Учредители: … (100%)' with the founder's name masked in the served HTML.",
-    "quote": "Куприн Евгений Алязович Москва 771596029202",
+    "name": "checko.ru (EGRUL record): ООО «ДАБЛ БЛЭК», ИНН 9715296056",
+    "date": "2026",
+    "url": "https://checko.ru/company/1177746252562",
+    "note": "checko.ru mirrors the official Russian EGRUL registry; its founders ('Учредитель') table lists one founder: 'Куприн Евгений Алязович ИНН 771596029202 с 15 марта 2017 г. 10 тыс. руб. 100%' (sole founder, 100% of the 10,000 RUB capital since 15 Mar 2017). The same page states 'Генеральный директор Куприн Евгений Алязович ИНН 771596029202 с 15 марта 2017 г.'. The Saby/SBIS registry (saby.ru/profile/9715296056-774301001) shows the same entry but masks the share amount for unauthorised visitors.",
+    "quote": "Куприн Евгений Алязович ИНН 771596029202 с 15 марта 2017 г. 10 тыс. руб. 100%",
     "checked": {
-      "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
   "reviewed": false

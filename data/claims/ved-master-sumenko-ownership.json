@@ -5,17 +5,17 @@
     "ved-master-ao",
     "kirill-sumenko"
   ],
-  "text": "AO «ВЭД-Мастер» (VED-Master JSC), the company behind the VED-Master payments brand, is owned by Kirill Sumenko per the Russian Saby (SBIS) company registry, which lists him in the entry's owners ('Владельцы') section as owner since 27 August 2026; Sumenko has been the company's general director since 29 October 2025.",
-  "short": "AO VED-Master is owned by Kirill Sumenko, its general director",
+  "text": "The EGRUL company-registry record of AO «ВЭД-Мастер» (VED-Master JSC, Moscow, INN 9709114653), shown on checko.ru, lists a single founder: Kirill Sumenko (INN 502913125254), holding 100% of its capital (1,000,000 RUB) since 27 August 2026. Sumenko is also the company's general director since 29 October 2025.",
+  "short": "AO VED-Master is wholly owned by its founder and general director Kirill Sumenko",
   "source": {
-    "name": "Saby (SBIS) company registry: AO «ВЭД-Мастер» (sbis.ru/contragents/9709114653/970901001)",
-    "date": "2026-10-03",
-    "url": "https://sbis.ru/contragents/9709114653/970901001",
-    "note": "Owners ('Владельцы') section of the registry card (the URL redirects to saby.ru/profile/9709114653-970901001). Russian quote translates as: 'Kirill Sumenko, Moscow, 502913125254, owner since 27.08.2026'. The same page states 'Генеральный директор: Суменко Кирилл Александрович' and 'Генеральный директор c 29.10.25'. The share amount and percentage are masked for unauthorised visitors; the section header shows one owner in total.",
-    "quote": "Суменко Кирилл Александрович Москва 502913125254 С 27.08.26 является владельцем",
+    "name": "checko.ru (EGRUL record): АО «ВЭД-МАСТЕР», ИНН 9709114653",
+    "date": "2026",
+    "url": "https://checko.ru/company/ved-master-1247700558247",
+    "note": "checko.ru mirrors the official Russian EGRUL registry; its founders ('Учредитель') table list one founder: 'Суменко Кирилл Александрович ИНН 502913125254 с 27 августа 2026 г. 1 млн руб. 100%' (sole founder, 100% of the 1,000,000 RUB capital since 27 Aug 2026). The same page states 'Генеральный директор Суменко Кирилл Александрович ИНН 502913125254 с 29 октября 2025 г.' and describes the company as 'единственный учредитель Суменко Кирилл Александрович' (sole founder). The Saby/SBIS registry (saby.ru/profile/9709114653-970901001) shows the same entry but masks the share amount for unauthorised visitors.",
+    "quote": "Суменко Кирилл Александрович ИНН 502913125254 с 27 августа 2026 г. 1 млн руб. 100%",
     "checked": {
-      "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
   "reviewed": false
