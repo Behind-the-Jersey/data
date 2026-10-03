@@ -7,11 +7,11 @@
   "text": "The Skypark AJ Hackett Sochi adventure park is Dmitry Fedin's business, built with New Zealand's AJ Hackett International.",
   "short": "Skypark AJ Hackett Sochi is Dmitry Fedin's company.",
   "source": {
-    "name": "Эксперт Юг (Expert Yug): Бизнес на адреналине",
-    "date": "2017-11-10",
-    "url": "https://expertsouth.ru/news/biznes-na-adrenaline/",
-    "quote": "Один из характерных примеров «негорнолыжного» бизнеса Красной поляны — парк аттракционов Skypark AJ Hackett Sochi (SHS) Дмитрия Федина.",
-    "note": "Profile with Dmitry Fedin; the park's attractions were built together with AJ Hackett International.",
+    "name": "vc.ru: Как построить парк аттракционов прямо над ущельем (interview with Skypark founder Dmitry Fedin)",
+    "date": "2023-08-23",
+    "url": "https://vc.ru/promo/794688-i-can-fly-erid-LdtCKXjMz",
+    "quote": "Мы не делим бизнес, бренд AJ Hackett используем по договору: компания получает комиссию за контроль качества и безопасности.",
+    "note": "vc.ru profiles Fedin as the park's founder ('Дмитрий Федин — Основатель парка приключений на высоте'); the interviewee says the business is not shared and the AJ Hackett brand is used under agreement.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
@@ -19,11 +19,11 @@
   },
   "additionalSources": [
     {
-      "name": "vc.ru: Как построить парк аттракционов прямо над ущельем (interview with Dmitry Fedin)",
-      "date": "2023-08-23",
-      "url": "https://vc.ru/promo/794688-i-can-fly-erid-LdtCKXjMz",
-      "quote": "Дмитрий Федин впервые прыгнул с банджи в Новой Зеландии в 2001 году, тогда же он решил создать нечто подобное в России.",
-      "note": "vc.ru profiles Fedin as the Skypark founder ('Основатель парка приключений на высоте'); in the interview he says the business is not shared: 'Мы не делим бизнес, бренд AJ Hackett используем по договору'.",
+      "name": "Эксперт Юг (Expert Yug): Бизнес на адреналине",
+      "date": "2017-11-10",
+      "url": "https://expertsouth.ru/news/biznes-na-adrenaline/",
+      "quote": "Один из характерных примеров «негорнолыжного» бизнеса Красной поляны — парк аттракционов Skypark AJ Hackett Sochi (SHS) Дмитрия Федина.",
+      "note": "Regional business-press profile with Dmitry Fedin. Site times out for automated checkers; opened and quoted by hand on 2026-10-03.",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
