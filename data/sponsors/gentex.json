@@ -1,15 +1,14 @@
 {
   "id": "gentex",
   "name": "Gentex",
-  "ownerId": "gentex-corporation",
-  "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Gentex Corporation is Nasdaq-listed; its proxy names Vanguard (9.9%) and BlackRock (8.3%) as the only 5%-plus holders. Nothing found.",
-  "claimIds": [
-    "gentex-major-holders-2026"
-  ],
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
   "aliases": [
     "GENTEX CORPORATION"
-  ]
+  ],
+  "note": "2026 TOYOTA RACING partner (team media kit p.18; toyota-racing.com partners section). Gentex Corporation is Nasdaq-listed (GNTX); its 2026 DEF 14A names The Vanguard Group (9.9%) and BlackRock (8.3%) as the only 5%-plus beneficial owners, but sec.gov returns 403 to the repo's source checker, so no checked ownership claim could be kept; left unrated."
 }
