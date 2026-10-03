@@ -1,0 +1,33 @@
+{
+  "id": "almana-sanabil-pif-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif",
+    "government-of-saudi-arabia"
+  ],
+  "text": "Sanabil Investments, wholly owned by Saudi Arabia's Public Investment Fund (PIF), acquired a 20 percent stake in Ebrahim Mohammed Almana & Brothers Co., the owner of Almana General Hospitals, in February 2016.",
+  "short": "PIF's Sanabil Investments holds 20% of the Almana hospital company.",
+  "source": {
+    "name": "Argaam: Saudi's Sanabil Investments buys 20% of Almana Hospitals",
+    "date": "2016-02-14",
+    "url": "https://www.argaam.com/en/article/articledetail/id/409856",
+    "quote": "Sanabil Investments, a closed joint stock company owned by Saudi Arabia\u2019s Public Investment Fund (PIF), bought a 20 percent stake in Ebrahim Mohammed Almana & Brothers Co.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TradeArabia: Sanabil acquires 20pc stake in Almana Hospitals",
+      "date": "2016-02-14",
+      "url": "https://www.tradearabia.com/News/175525/Sanabil-acquires-20pc-stake-in-Almana-Hospitals",
+      "quote": "Sanabil Investments, a closed joint stock company wholly owned by the Public Investment Fund and headquartered in Riyadh, has completed its acquisition of a 20 per cent equity stake in Ebrahim Mohammed Almana & Brothers Company.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

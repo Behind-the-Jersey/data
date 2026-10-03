@@ -1,11 +1,15 @@
 {
   "id": "almana-hospital",
   "name": "Almana Hospital",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "saudi-pif",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "almana-sanabil-pif-stake",
+    "saudi-executions-2024"
+  ],
+  "aliases": [],
+  "note": "Almana General Hospitals (Ebrahim Mohammed Almana & Brothers Co., Almana family majority). PIF's Sanabil Investments acquired 20% in Feb 2016; no divestment found since. Sponsor of Al-Khaleej since 2024. Concern proposed in the pull request."
 }

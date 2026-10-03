@@ -1,12 +1,14 @@
 {
   "id": "yelo",
   "name": "Yelo",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "almajdouie-group",
+  "ownership": "part-owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Saudi car-rental company (Al-Wefaq); Almajdouie Group's Majd Investment holds 25%, no state stake in sight.",
+  "claimIds": [
+    "yelo-majd-stake"
+  ],
   "aliases": [],
-  "note": "Saudi car-rental brand; front sponsor at several clubs. Privately held (founder; Almajdouie's Majd Investment ~25%)."
+  "note": "Saudi car-rental brand; front sponsor at several clubs. Privately held (founder/chairman Nasser Al-Qahtani; Almajdouie's Majd Investment 25%, 2022)."
 }

@@ -1,11 +1,14 @@
 {
   "id": "candy",
   "name": "Candy",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "haier-smart-home",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Candy is the home-appliance brand of Haier Europe, part of listed Haier Smart Home (China).",
+  "claimIds": [
+    "candy-haier-ownership"
+  ],
+  "aliases": [],
+  "note": "Al-Khaleej partnership announced by Haier, 2025-11-25."
 }

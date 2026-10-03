@@ -1,0 +1,21 @@
+{
+  "id": "candy-haier-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "haier-smart-home"
+  ],
+  "text": "Candy is a home-appliance brand of Haier Europe, which is part of Haier Smart Home through its 2019 acquisition of the Candy-Hoover Group; Haier Smart Home is a listed Chinese company.",
+  "short": "Candy is a Haier Europe / Haier Smart Home brand.",
+  "source": {
+    "name": "Haier Europe: Who We Are",
+    "date": "2026",
+    "url": "https://corporate.haier-europe.com/about-us/who-we-are",
+    "quote": "Haier Europe is part of Haier Smart Home that reinforced its presence in the European market with the acquisition of the Candy-Hoover Group in 2019.",
+    "note": "Company page without a date; opened 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

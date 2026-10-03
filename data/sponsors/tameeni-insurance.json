@@ -1,12 +1,14 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Wholly owned by Rasan Information Technology, a Saudi Exchange-listed fintech with no state stake shown.",
+  "claimIds": [
+    "tameeni-rasan-ownership"
+  ],
   "aliases": [],
   "note": "Present on several Saudi shirts (front/back)."
 }
