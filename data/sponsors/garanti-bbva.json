@@ -1,0 +1,18 @@
+{
+  "id": "garanti-bbva",
+  "name": "Garanti BBVA",
+  "ownerId": "bbva-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Majority owned by BBVA (85.97%), a listed Spanish bank with no controlling shareholder. Nothing found.",
+  "claimIds": [
+    "garanti-bbva-bbva-ownership",
+    "bbva-ownership-record"
+  ],
+  "aliases": [
+    "Garanti Bankası",
+    "Türkiye Garanti Bankası A.Ş."
+  ],
+  "note": "Main sponsor of the Turkish Basketball Federation's national teams since 2001; the national teams' jersey and main-sponsorship agreement was extended five years on 27 January 2026 (Garanti BBVA press release; Karar, 2026-01-27), and its logo is on the front of the national team shirt. Owner chain: BBVA holds 85.97% (garanti-bbva-bbva-ownership); BBVA is a listed Spanish bank with no shareholder with significant influence (bbva-ownership-record). No state in the chain and no human-rights finding against the company that passes METHOD.md, so rated none."
+}
