@@ -7,8 +7,57 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsors": [
+    {
+      "sponsorId": "standard-chartered",
+      "placement": "front",
+      "source": {
+        "name": "Liverpool FC – 'Liverpool FC announces Turkish Airlines as main club partner from 2027-28 season'",
+        "date": "2026-09-08",
+        "url": "https://www.liverpoolfc.com/news/liverpool-fc-announces-turkish-airlines-main-club-partner-2027-28-season",
+        "note": "The announcement says Turkish Airlines' branding will appear on the front of men's, women's and Academy match shirts from 2027-28, and that Standard Chartered holds that front-of-shirt position throughout 2026-27. The official LFC adidas Womens 26/27 Home Jersey product images on the club store show the Standard Chartered logo on the front (checked visually 2026-10-03).",
+        "short": "Liverpool FC",
+        "quote": "Standard Chartered, Liverpool’s main club partner since 2010, will remain in the position throughout the 2026-27 season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "expedia",
+      "placement": "sleeve",
+      "source": {
+        "name": "Liverpool FC – 'LFC and Expedia extend partnership for further four years'",
+        "date": "2023-03-10",
+        "url": "https://www.liverpoolfc.com/news/lfc-and-expedia-extend-partnership-further-four-years",
+        "note": "Four-year extension signed in March 2023 as official shirt sleeve sponsor for both the men's and women's team, covering the 2026-27 season. The official LFC adidas Womens 26/27 Home Jersey product images on the club store show the Expedia logo on the sleeve (checked visually 2026-10-03).",
+        "short": "Liverpool FC",
+        "quote": "re-signing the travel company as a principal club partner and official shirt sleeve sponsor for both the men’s and women’s team for a further four years",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Liverpool FC Official Store – 'LFC adidas Womens 26/27 Home Jersey'",
+        "date": "2026-10-03",
+        "url": "https://store.liverpoolfc.com/lfc-adidas-womens-26-27-home-jersey",
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense. Official club store product page for the women's 2026/27 home jersey; its product images show the adidas logo and three stripes (checked visually 2026-10-03).",
+        "short": "LFC Store",
+        "quote": "Embrace football heritage with the LFC adidas Womens 26/27 Home Jersey.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Standard Chartered on the front, Expedia on the sleeve; adidas makes the kit. The women's team wears the same 2026/27 home shirt as the men's team.",
   "change": null
 }
