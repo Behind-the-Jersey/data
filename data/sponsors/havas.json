@@ -5,10 +5,11 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Havas is Havas N.V., listed on Euronext Amsterdam. Nothing found.",
+  "verdict": "Havas is Havas N.V., listed on Euronext Amsterdam and majority-controlled by Vincent Bolloré (53.05% of capital, 53.55% of voting rights; AFM register, February 2026). Nothing found.",
   "claimIds": [
-    "havas-nv-listed"
+    "havas-nv-listed",
+    "havas-nv-bollore-control"
   ],
   "aliases": [],
-  "note": "Communications group; Alpine Endurance Team partner for 2026 (club release 19/03/2026). Havas N.V.'s large shareholders were not sourced in this pass (see pull request lead on the Bolloré group stake), so no link above Nothing found is claimed."
+  "note": "Communications group; Alpine Endurance Team partner for 2026 (club release 19/03/2026). Vincent Bolloré's majority is held indirectly through Bolloré SE, Compagnie de l'Odet, Compagnie de l'Etoile des Mers and YB6 (claim havas-nv-bollore-control); the Bolloré family is private and no state link arises. The AFM register also records France's Caisse des Dépôts et Consignations at 3.00% via CDC Croissance (July 2025): below the 5% threshold, and France doesn't count as a state with a record under METHOD.md (maintainers' decision, September 2026)."
 }

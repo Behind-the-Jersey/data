@@ -5,12 +5,13 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "MILWAUKEE is a brand of Techtronic Industries. Nothing found.",
+  "verdict": "MILWAUKEE is a brand of Techtronic Industries, listed on the Hong Kong Stock Exchange, where the Pudwill family is the largest shareholder and the remaining ownership is largely institutional. Nothing found.",
   "claimIds": [
-    "milwaukee-techtronic-brand"
+    "milwaukee-techtronic-brand",
+    "techtronic-shareholders"
   ],
   "aliases": [
     "milwaukee"
   ],
-  "note": "Heavy-duty power-tool maker; joined the Alpine endurance project for 2026 per the club's 19/03/2026 release. Techtronic Industries' stock-exchange listing and large shareholders were not sourced in this pass; no state or fund is involved."
+  "note": "Heavy-duty power-tool maker; joined the Alpine endurance project for 2026 per the club's 19/03/2026 release. Shareholding per TTI's 2026 interim report (claim techtronic-shareholders): the Pudwill family is the largest shareholder; the only substantial-shareholder entries are JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates (5-11% each, largely custody and lending positions), so no state or fund is in play."
 }
