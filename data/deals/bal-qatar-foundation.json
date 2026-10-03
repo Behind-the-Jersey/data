@@ -4,14 +4,19 @@
   "orgName": "Basketball Africa League",
   "sponsorId": "qatar-foundation",
   "placement": "league-partner",
-  "from": null,
+  "from": "2026",
   "to": null,
   "value": null,
   "source": {
-    "name": "The BAL - Partners (official site)",
-    "date": "2026-09-25",
-    "url": "https://bal.nba.com/partners"
+    "name": "Arab News: Qatar Foundation and Basketball Africa League to drive social impact through sport",
+    "date": "2026-05-14",
+    "url": "http://web.archive.org/web/20260515070520/https://www.arabnews.com/node/2643552/sport",
+    "quote": "makes the QF the first Official Community Partner of the BAL",
+    "note": "Multiyear collaboration facilitated by Qatar Sports Investments, unveiled as the 2026 season tipped off; QF is also the Presenting Partner of the BAL's Ubuntu Trophy. The live Arab News page blocks scripted access, so the Wayback capture of 15 May 2026 is cited. No deal value reported. League-wide partner, attached to no single club.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "leagueId": "basketball-africa-league",
-  "note": "League-wide partner, attached to no single club."
+  "leagueId": "basketball-africa-league"
 }
