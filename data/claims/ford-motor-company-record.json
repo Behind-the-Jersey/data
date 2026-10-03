@@ -16,5 +16,17 @@
       "by": "source-audit-2026-09-26"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Reuters (via Yahoo Finance) – Ford shareholders keep Ford family voting power unchanged",
+      "date": "2016-05-12",
+      "url": "https://ca.finance.yahoo.com/news/ford-shareholders-keep-ford-family-voting-power-unchanged-135955101--finance.html",
+      "quote": "The Ford family has 40 percent voting control of the company through special Class B shares.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
 }
