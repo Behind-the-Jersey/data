@@ -1,0 +1,20 @@
+{
+  "id": "ping-solheim-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "solheim-family"
+  ],
+  "text": "PING is wholly owned by its founding Solheim family: president and CEO John K. Solheim says the family owns the whole company, with no private equity and no outside shareholders.",
+  "short": "PING is wholly owned by the Solheim family",
+  "source": {
+    "name": "MyGolfSpy: Why Being Family-Run For 67 Years Makes PING More Than A Little Bit Different",
+    "date": "2026-07-01",
+    "url": "https://mygolfspy.com/news-opinion/why-being-family-run-for-67-years-makes-ping-more-than-a-little-bit-different/",
+    "quote": "“The Solheim family owns the whole thing,” says John K. “There’s no private equity, no outside shareholders or anything like that.”",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -12,18 +12,30 @@
       "sponsorId": "ping",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Torque GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/torque-gc"
+        "name": "Golf Business News: PING to sponsor LIV Golf's Torque GC team",
+        "date": "2025-04-24",
+        "url": "https://golfbusinessnews.com/news/sponsorship-and-events/ping-to-sponsor-liv-golfs-torque-gc-team",
+        "quote": "PING has announced that it is to sponsor LIV Golf’s Torque GC team which is captained by long-time PING tour staff player Joaquin Niemann.",
+        "note": "Still a Torque GC partner in 2026: PING's logo is in the partner rail at livgolf.com/torque-gc (opened 2026-10-03).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "akron",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Torque GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/torque-gc"
+        "name": "AKRON: Our Sponsorships",
+        "date": "2026",
+        "url": "https://akron.com.mx/en/akron-sponsorships/",
+        "quote": "AKRON® Alliances Torque GC Torque GC is one of the standout teams in the LIV Golf League",
+        "note": "Page without a date; opened 2026-10-03. AKRON's own sponsorships page lists Torque GC under 'AKRON® Alliances'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -31,17 +43,24 @@
       "placement": "partner",
       "source": {
         "name": "LIV Golf - Torque GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/torque-gc"
+        "date": "2026-10-03",
+        "url": "https://www.livgolf.com/torque-gc",
+        "note": "Night Dragon's logo sits in the partner rail at the bottom of the team page, linking to nightdragon.com; the partner logos are images, so there is no quotable text. Opened 2026-10-03."
       }
     },
     {
       "sponsorId": "new-era",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Torque GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/torque-gc"
+        "name": "LIV Golf: New Era Cap and LIV Golf announce multi-year partnership",
+        "date": "2024",
+        "url": "https://www.livgolf.com/news/new-era-cap-and-liv-golf-announce-multi-year-partnership",
+        "quote": "LIV Golf and New Era Cap, the iconic sports and lifestyle brand, today announced a multi-year partnership in which New Era Cap will become the Official Cap of the LIV Golf League.",
+        "note": "The page dates the article only as '29 months ago'; the league-wide deal was reported in April 2024. New Era's logo still appears on every 2026 team page, including Torque GC's (opened 2026-10-03).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],

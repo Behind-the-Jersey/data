@@ -1,12 +1,17 @@
 {
   "id": "ping",
   "name": "PING",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Torque GC partner (livgolf.com/torque-gc, fetched 2026-09-25)."
+  "ownerId": "solheim-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Wholly owned by the founding Solheim family. Nothing found.",
+  "claimIds": [
+    "ping-solheim-family-ownership"
+  ],
+  "aliases": [
+    "Karsten Manufacturing",
+    "Ping, Inc."
+  ],
+  "note": "Torque GC partner since April 2025 (Golf Business News, 2025-04-24) and still among the team's 2026 partners (livgolf.com/torque-gc, opened 2026-10-03)."
 }

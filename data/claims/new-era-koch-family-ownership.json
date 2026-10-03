@@ -1,0 +1,21 @@
+{
+  "id": "new-era-koch-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "koch-family-new-era"
+  ],
+  "text": "New Era Cap is family-owned by the founding Koch family, who have run it since 1920 with fourth-generation CEO Chris Koch; private equity firm ACON Investments, an investor since 2021, holds a \"significant\" stake, and the NFL, NBA and MLB acquired minority stakes in 2022.",
+  "short": "New Era Cap is family-owned by the founding Koch family; ACON holds a significant stake",
+  "source": {
+    "name": "Associated Press (via Arizona Daily Star, tucson.com): New Era Cap purchasing '47 brand",
+    "date": "2024-06-06",
+    "url": "https://tucson.com/news/nation-world/business/new-era-cap-47-brand-acquisition/article_dbaaeed4-8ce8-5705-a67e-97f404a82153.html",
+    "quote": "Similarly, the Koch family has run New Era since its beginning in 1920.",
+    "note": "Same AP article: Koch is \"the fourth-generation CEO of the family-owned company\"; ACON Investments \"will hold a ‘significant’ stake in the combined company\"; \"The NFL, NBA and MLB acquired minority stakes in New Era during a 2022 fundraising round.\"",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

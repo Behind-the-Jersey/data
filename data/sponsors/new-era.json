@@ -1,14 +1,17 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "New Era Cap"
+  "ownerId": "koch-family-new-era",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Family-owned by the founding Koch family of Buffalo (not Koch, Inc.); ACON Investments holds a significant stake. Nothing found.",
+  "claimIds": [
+    "new-era-koch-family-ownership"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "aliases": [
+    "New Era Cap",
+    "New Era Cap Company"
+  ],
+  "note": "Official Cap of the LIV Golf League since 2024 (livgolf.com news announcement); logo appears on every team page, including Torque GC's. Also NFL/NBA/MLB minority investors in the company (AP, 2024-06-06)."
 }

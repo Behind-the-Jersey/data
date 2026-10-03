@@ -1,0 +1,21 @@
+{
+  "id": "nightdragon-dewalt-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dewalt-david"
+  ],
+  "text": "NightDragon Management Company, LLC's SEC Form ADV Schedule A (direct owners and executive officers) lists David DeWalt as a managing member and control person with ownership code D, which the form's legend defines as \"50% but less than 75%\", since September 2019.",
+  "short": "David DeWalt owns 50–75% of NightDragon and controls it (SEC Form ADV)",
+  "source": {
+    "name": "U.S. SEC Investment Adviser Public Disclosure: Form ADV, NightDragon Management Company, LLC (CRD 310767)",
+    "date": "2026-03-27",
+    "url": "https://reports.adviserinfo.sec.gov/reports/ADV/310767/PDF/310767.pdf",
+    "quote": "DEWALT, DAVID I MANAGING MEMBER 09/2019 D Y N",
+    "note": "Schedule A of the firm's annual amendment Form ADV, generated 2026-03-27; the same legend that defines code D as '50% but less than 75%' appears directly above the table. The filing also lists Kenneth Gonzalez as a managing member with ownership code NA (less than 5%).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
