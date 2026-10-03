@@ -1,0 +1,20 @@
+{
+  "id": "gs-yuasa-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "gs-yuasa-corporation"
+  ],
+  "text": "GS Yuasa Corporation's principal shareholders as at 31 March 2026 are trust and custody banks - The Master Trust Bank of Japan (17.47%) and Custody Bank of Japan (9.69%) - with Honda Motor at 4.89%, Meiji Yasuda Life at 2.79% and Toyota Motor at 2.23%; no state or state fund appears among them.",
+  "short": "GS Yuasa's largest holders are Japanese trust banks; Honda holds 4.89% and Toyota 2.23%.",
+  "source": {
+    "name": "GS Yuasa - Investor Relations, Stock Data (principal shareholders as at 31 March 2026)",
+    "date": "2026-03-31",
+    "url": "https://ir.gs-yuasa.com/en/ir/stockinfo/stock_data.html",
+    "quote": "The Master Trust Bank of Japan, Ltd. （Trust Account） 17,549,200 17.47",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

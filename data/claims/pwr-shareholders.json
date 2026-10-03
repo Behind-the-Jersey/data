@@ -1,0 +1,32 @@
+{
+  "id": "pwr-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "pwr-holdings"
+  ],
+  "text": "PWR Advanced Cooling Technology is the trading name of PWR Holdings Limited, founded as Paul Weel Radiators by Kees Weel and his son Paul Weel and listed on the Australian Securities Exchange (code PWH) since November 2015. Its FY2026 annual report's twenty-largest-holders table (31 July 2026) is led by nominee and custodian companies, with Weel-family entities Wagon Weel Co Pty Ltd (9.94%) and KPW Property Holdings Pty Ltd (6.71%); no state or state fund appears.",
+  "short": "PWR is ASX-listed; its register is led by nominees plus Weel-family entities; no state.",
+  "source": {
+    "name": "PWR Holdings Limited Annual Report 2026 - Shareholder Information (page 140: twenty largest shareholders at 31 July 2026)",
+    "date": "2026-07-31",
+    "url": "https://onlinereports.irmau.com/2026/PWH/142/",
+    "quote": "WAGON WEEL CO PTY LTD <WAGON WEEL A/C> 10,000,000 9.94",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "PWR Advanced Cooling Technology - Our History",
+      "date": "2026",
+      "url": "https://www.pwr.com.au/our-history/",
+      "quote": "In November 2015 PWR listed on the Australian Stock Exchange (ASX) under the code PWH",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}
