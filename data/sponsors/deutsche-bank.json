@@ -1,12 +1,16 @@
 {
   "id": "deutsche-bank",
   "name": "Deutsche Bank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Presents the Germany SailGP Team ('presented by Deutsche Bank') and is its Title Partner (sailgp.com team page, fetched 2026-09-25)."
+  "ownerId": "deutsche-bank-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Deutsche Bank is Deutsche Bank AG, Frankfurt, a listed company with widely held shares; its largest disclosed holder is BlackRock with 8.14% of voting rights. Nothing found.",
+  "claimIds": [
+    "deutsche-bank-ag-ownership"
+  ],
+  "aliases": [
+    "Deutsche Bank AG"
+  ],
+  "note": "Rating note: Founding co-title partner of the Germany SailGP Team ('presented by Deutsche Bank'), confirmed on Deutsche Bank's own partnership page (wealth.db.com, checked 2026-10-03). Listed German stock corporation, no controlling shareholder; its disclosed major holders are asset managers, not states; no qualifying human-rights finding -> none."
 }

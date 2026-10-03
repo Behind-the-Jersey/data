@@ -1,0 +1,32 @@
+{
+  "id": "viessmann-generations-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "viessmann-generations-group"
+  ],
+  "text": "Viessmann Generations Group is the Viessmann family's company, led by fourth-generation CEO Max Viessmann. In 2024 the family company combined its climate-solutions business with Carrier Global; the Viessmann brand is owned by Viessmann Generations Group and licensed to Carrier.",
+  "short": "Viessmann Generations Group is the Viessmann family company and owns the Viessmann brand (licensed to Carrier).",
+  "source": {
+    "name": "Viessmann Generations Group: 'Viessmann and Germany SailGP Team Unveil New Official Partnership at ENEL Rio Sail Grand Prix Debut'",
+    "date": "2026-04-15",
+    "url": "https://www.viessmann.group/news/viessmann-and-germany-sailgp-team-unveil-new-official-partnership-at-enel-rio-sail-grand-prix-debut",
+    "quote": "In 2024, the family company combined its climate solutions business area with Carrier Global to build a new transatlantic partnership",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Viessmann Generations Group: The Viessmann Legacy",
+      "date": "2026",
+      "url": "https://viessmann.group/why/our-legacy-new",
+      "quote": "The Viessmann brand - owned by Viessmann Generations Group and licensed to Carrier - remains a strong and trusted name",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
