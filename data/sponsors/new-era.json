@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "koch-family-new-era",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Official cap of LIV Golf; a family-owned Buffalo headwear company led by fourth-generation CEO Christopher Koch. Nothing found.",
+  "claimIds": [
+    "new-era-koch-family-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Rating note: the Koch family of New Era Cap (Buffalo, NY), per the Jackie Robinson Foundation director bio; not to be confused with Koch, Inc. of Wichita (owner koch-inc). No state or fund in the chain, nothing else sourced."
 }

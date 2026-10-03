@@ -1,12 +1,15 @@
 {
   "id": "vistajet",
   "name": "VistaJet",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "vista-global",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Vista Global, the Dubai-headquartered private aviation group founded by Thomas Flohr, who says he will always keep the majority; outside investors are private equity firms. Nothing found.",
+  "claimIds": [
+    "vista-global-flohr-ownership",
+    "vistajet-vista-global-ownership"
+  ],
   "aliases": [],
-  "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+  "note": "Rating note: RRJ Capital (Richard Ong's private Asian investment firm) led a $600m equity round in March 2025 with Andalusian Private Capital; Rhone Group is a long-standing investor. No state or state fund sourced in the chain; Flohr (Swiss) held 84% per an April 2024 Bloomberg report."
 }
