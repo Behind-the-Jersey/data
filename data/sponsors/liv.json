@@ -1,12 +1,16 @@
 {
   "id": "liv",
   "name": "Liv",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Women's bike brand of Giant Bicycles; co-title sponsor of Liv AlUla Jayco (Cyclist, 2026-07-14: 'Liv Cycling is the women's arm of Giant Bicycles'; The Inner Ring, 2026-08-05). Giant's ownership not traced."
+  "ownerId": "giant-manufacturing",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A product brand of Giant Group (Giant Manufacturing), a listed Taiwanese bicycle maker (TPE: 9921). Nothing found.",
+  "claimIds": [
+    "liv-giant-group"
+  ],
+  "aliases": [
+    "liv cycling"
+  ],
+  "note": "Women's bike brand of Giant and co-title sponsor of Liv AlUla Jayco (Cyclist, 2026-07-14; The Inner Ring, 2026-08-05, 'Giant’s women’s brand Liv'). Giant Group's corporate site lists Liv among its product brands and shows the TPE: 9921 ticker (giantgroup-cycling.com, opened 2026-10-03). No state ownership, and no court, regulator, UN-body or major-NGO human-rights finding against Giant or Liv found in the sources checked (2026-10-03)."
 }
