@@ -1,0 +1,353 @@
+{
+  "id": "bmw-m-team-wrt-2026-home",
+  "clubId": "bmw-m-team-wrt",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 WEC season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "bmw-m",
+      "placement": "front",
+      "source": {
+        "name": "BMW M Motorsport – FIA World Endurance Championship (Wayback Machine snapshot of the official BMW M WEC page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260930213742/https://www.bmw-m.com/en/fastlane/motorsport/racing-series/fia-wec.html",
+        "note": "Team title mapped from the team name 'BMW M TEAM WRT' (official full team name on fiawec.com's 2026 entry), mirroring the MotoGP research. Race-livery placements do not fit the schema yet (league note).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "BMW M Motorsport and BMW M Team WRT will be competing in both classes of the world championship: with two BMW M Hybrid V8s in the hypercar category and two BMW M4 GT3 EVOs in the LMGT3 class."
+      }
+    },
+    {
+      "sponsorId": "shell",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "The sister car will race in the Inception design in the colours of Premium Technology Partner Shell.",
+        "note": "Shell is 'Premium Technology Partner'; the #20 car races in Shell colours ('#20 Shell BMW M Hybrid V8')."
+      }
+    },
+    {
+      "sponsorId": "akrapovic",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "BMW M Motorsport is also delighted to have the support of numerous strong partners: Akrapovič, Champion, XPEL, H&R, OZ Racing, KYB and PUMA."
+      }
+    },
+    {
+      "sponsorId": "champion",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "Champion is expanding its involvement in the FIA WEC in the third year of the collaboration and is supplying BMW M Team WRT with high-performance racing spark plugs"
+      }
+    },
+    {
+      "sponsorId": "xpel",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "XPEL, the world's leading manufacturer of protective films for vehicles, is a new member of the BMW M Motorsport family. The collaboration includes the FIA WEC"
+      }
+    },
+    {
+      "sponsorId": "h-r",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "BMW M Motorsport is also delighted to have the support of numerous strong partners: Akrapovič, Champion, XPEL, H&R, OZ Racing, KYB and PUMA."
+      }
+    },
+    {
+      "sponsorId": "oz-racing",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "BMW M Motorsport is also delighted to have the support of numerous strong partners: Akrapovič, Champion, XPEL, H&R, OZ Racing, KYB and PUMA."
+      }
+    },
+    {
+      "sponsorId": "kyb",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "KYB supports BMW M Team WRT both in the IMSA Series and in the FIA WEC."
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "BMW Group PressClub: FIA WEC – Intensive test day with the BMW M Hybrid V8 and the BMW M4 GT3 EVO ahead of the season opener",
+        "date": "2026-04-15",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0457129EN/fia-wec:-intensive-test-day-with-the-bmw-m-hybrid-v8-and-the-bmw-m4-gt3-evo-ahead-of-the-season-opener?language=en",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "BMW M Motorsport is also delighted to have the support of numerous strong partners: Akrapovič, Champion, XPEL, H&R, OZ Racing, KYB and PUMA."
+      }
+    },
+    {
+      "sponsorId": "skechers",
+      "placement": "partner",
+      "source": {
+        "name": "WRT – Partners (Wayback Machine snapshot of the official team partners page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260906075019/https://www.w-racingteam.com/racing/partners",
+        "note": "The live w-racingteam.com page serves a bot challenge; the 6 September 2026 Wayback Machine snapshot of the official partners page was checked.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "Skechers USA Inc. is a multi-billion-dollar, award-winning global brand, that designs and develops lifestyle and performance products known for style, innovation, quality and comfort."
+      }
+    },
+    {
+      "sponsorId": "snap-on",
+      "placement": "partner",
+      "source": {
+        "name": "WRT – Partners (Wayback Machine snapshot of the official team partners page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260906075019/https://www.w-racingteam.com/racing/partners",
+        "note": "The live w-racingteam.com page serves a bot challenge; the 6 September 2026 Wayback Machine snapshot of the official partners page was checked.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "From technicians and workshop managers to after-sales and service managers, Snap-on supports automotive professionals with high-quality solutions for diagnostics, hand tools, power tools, equipment and storage systems."
+      }
+    },
+    {
+      "sponsorId": "omp-racing",
+      "placement": "partner",
+      "source": {
+        "name": "WRT – Partners (Wayback Machine snapshot of the official team partners page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260906075019/https://www.w-racingteam.com/racing/partners",
+        "note": "The live w-racingteam.com page serves a bot challenge; the 6 September 2026 Wayback Machine snapshot of the official partners page was checked.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "OMP Racing is an Italian brand founded in 1973, internationally recognized for producing high-quality equipment and accessories for motorsport safety and performance."
+      }
+    },
+    {
+      "sponsorId": "technogym",
+      "placement": "partner",
+      "source": {
+        "name": "WRT – Partners (Wayback Machine snapshot of the official team partners page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260906075019/https://www.w-racingteam.com/racing/partners",
+        "note": "The live w-racingteam.com page serves a bot challenge; the 6 September 2026 Wayback Machine snapshot of the official partners page was checked.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "Technogym is a world leading brand in products and digital technologies for fitness, sport, and health for wellness."
+      }
+    },
+    {
+      "sponsorId": "michelin",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "Michelin is also the tyre partner named on the official fiawec.com 2026 entry for BMW M Team WRT #15.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "The brand with the Michelin Man has been a reliable racing sports partner of BMW for years."
+      }
+    },
+    {
+      "sponsorId": "schaeffler",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "As a leading global supplier to the automotive and industrial sectors, the Schaeffler Group has been driving forward groundbreaking inventions and developments in the fields of motion and mobility"
+      }
+    },
+    {
+      "sponsorId": "synopsys",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "Ansys, part of Synopsys, enables innovators across industries to push boundaries by using the predictive power of simulation."
+      }
+    },
+    {
+      "sponsorId": "yokohama",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "Yokohama, with over 100 years of Japanese heritage, combines advanced technology with a challenger mindset, bringing a distinctive and agile approach to motorsport."
+      }
+    },
+    {
+      "sponsorId": "accusim",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "AccuSim is at the forefront of driving simulation technology."
+      }
+    },
+    {
+      "sponsorId": "endless",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "Endless Brake Technology Europe AB is the sales and technical center of the Endless brand for the European market"
+      }
+    },
+    {
+      "sponsorId": "mdynamix",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "MdynamiX supports BMW M Motorsport in virtual development using driving simulators and in the optimization of vehicle dynamics components."
+      }
+    },
+    {
+      "sponsorId": "motorworld",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "Exclusive dealerships, luxury automobiles, sports cars, classic cars and bikes, an extensive range of automotive service providers and specialist workshops"
+      }
+    },
+    {
+      "sponsorId": "ravenol",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "RAVENOL high-performance lubricants are highly regarded in international racing circles and available in over 100 countries."
+      }
+    },
+    {
+      "sponsorId": "robomarkets",
+      "placement": "partner",
+      "source": {
+        "name": "BMW M Motorsport – Partners (Wayback Machine snapshot of the official BMW M partner page)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260916031400/https://www.bmw-m.com/en/fastlane/motorsport/discover/partner.html",
+        "note": "The live bmw-m.com page times out for scripted requests; the 16 September 2026 Wayback Machine snapshot of the official partner page was checked. Partners of the BMW M Motorsport programme that fields BMW M Team WRT, not WRT-specific.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "quote": "RoboMarkets Ltd, established in 2012, is a multi-asset broker offering eight asset types and more than 12,000 instruments for trading."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "change": null,
+  "summary": "2026 FIA WEC campaign (BMW M Hybrid V8 #15/#20, BMW M4 GT3 EVO #32/#69). BMW M is the team title (front). WEC programme partners named by BMW's press release: Shell (Premium Technology Partner, on the #20 car), Akrapovič, Champion, XPEL, H&R, OZ Racing, KYB and PUMA. Team partners from WRT's own partners page: Skechers, Snap-on, OMP Racing and Technogym. Further partners of the BMW M Motorsport programme from BMW M's official partner page: Michelin, Schaeffler, Synopsys, Yokohama, AccuSim, Endless, MdynamiX, MOTORWORLD, RAVENOL and RoboMarkets. Race-livery placements (per-car logos, one-off liveries such as the #69 Fuji design) do not fit the schema yet and are not recorded."
+}

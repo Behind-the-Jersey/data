@@ -1,0 +1,21 @@
+{
+  "id": "xpel-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "xpel-inc"
+  ],
+  "text": "XPEL, Inc. is a listed company; per its 2026 proxy statement the beneficial owners of more than 5% of its common stock are BlackRock (14.6%), Wasatch Advisors (13.8%), The Vanguard Group (5.3%), Alta Fox Capital Management (5.2%) and director Richard K. Crumly (5.1%, an individual investor on the board since 2010).",
+  "short": "XPEL is Nasdaq-listed; its >5% holders are BlackRock, Wasatch, Vanguard, Alta Fox and director Richard Crumly (5.1%).",
+  "source": {
+    "name": "XPEL, Inc. 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+    "date": "2026-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1767258/000176725826000020/xpel-20260430.htm",
+    "quote": "Certain Beneficial Owners: BlackRock, Inc. (1) 3,906,962 14.6% Wasatch Advisors, LP (2) 3,814,500 13.8% The Vanguard Group (3) 1,475,149 5.3% Alta Fox Capital Management LLC (4) 1,438,831 5.2% Directors and Executive Officers: Stacy L. Bogart 7,934 * Richard K. Crumly (5) 1,414,489 5.1%",
+    "note": "Contiguous rows of the proxy's 'Security Ownership of Certain Beneficial Owners and Management' table. The proxy also states: 'Mr. Crumly is also a beneficial owner of approximately 5.1% of our common stock.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
