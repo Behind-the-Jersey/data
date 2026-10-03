@@ -4,20 +4,20 @@
   "orgName": null,
   "sponsorId": "kebimo",
   "placement": "partner",
-  "from": null,
+  "from": "2025-11",
   "to": null,
   "value": null,
   "source": {
-    "name": "Le Journal de Dakar: ASC Ville de Dakar – BAL : autorités et sponsors affichent leur soutien avant Rabat",
-    "date": "2026-04-13",
-    "url": "https://lejournaldedakar.info/asc-ville-de-dakar-bal-autorites-et-sponsors-affichent-leur-soutien-avant-rabat/",
-    "quote": "L'année dernière, quand on organisait la Coupe d'Afrique féminine des clubs, Kébimo avait dégagé une enveloppe de 40 millions FCfa. Cette année, c'était 10 millions.",
-    "note": "Support amounts reported by club president Yatma Diaw, in FCFA. The deal schema takes GBP/EUR/USD only, so value stays null. The same article reports '10 autres millions' from Kebimo for the BAL campaign.",
-    "short": "Le Journal de Dakar",
+    "name": "Netcomsn: Basket sénégalais — KEBIMO prolonge son partenariat avec l'ASC Ville de Dakar pour la WBLA et la BAL 2025-2026",
+    "date": "2025-11-26",
+    "url": "https://netcomsn.com/sports/basket-senegalais-kebimo-prolonge-son-partenariat-avec-lasc-ville-de-dakar-pour-la-wbla-et-la-bal-2025-2026/",
+    "quote": "pour un soutien financier de 20 millions FCFA lors de la saison 2025-2026",
+    "note": "Support amount reported in FCFA (20m for 2025-26, covering WBLA and BAL; 40m in 2024 per the same article). The deal schema takes GBP/EUR/USD only, so value stays null. Le Journal de Dakar (13 Apr 2026) additionally reports FCFA 10m for 2026 plus FCFA 10m for the BAL campaign, but that site blocks scripts (403).",
+    "short": "Netcomsn",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "note": "Kebimo's reported support for ASC Ville de Dakar: FCFA 10m for 2026 plus FCFA 10m for the BAL campaign (FCFA 40m in 2025 for the women's African Clubs Cup). No start date given for the relationship, so 'from' is null."
+  "note": "KEBIMO's reported support for ASC Ville de Dakar: FCFA 20m for the 2025-26 season (WBLA and BAL), partnership officialized 25 Nov 2025; FCFA 40m in 2024 (Netcomsn); FCFA 10m for 2026 plus FCFA 10m for the BAL campaign (Le Journal de Dakar, 13 Apr 2026)."
 }
