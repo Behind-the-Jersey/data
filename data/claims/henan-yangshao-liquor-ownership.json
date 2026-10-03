@@ -22,8 +22,8 @@
       "name": "新浪财经头条号 (Sina Finance, 智趣财经): 仰韶酒业的突围战，为什么越打越难？ (Why Yangshao Liquor's breakout battle keeps getting harder)",
       "date": "2026-04-16",
       "url": "https://cj.sina.com.cn/articles/view/3093070657/b85c834100101qz9u",
-      "quote": "侯建光以65.91%的绝对控股成为实际控制人，股东全是自然人，没有任何机构投资者",
-      "note": "Translation: 'Tianyancha shows Hou Jianguang holds 65.91% absolute control and is the actual controller; the shareholders are all natural persons, with no institutional investors.'",
+      "quote": "侯建光以65.91%的绝对控股成为实际控制人，股东全是自然人",
+      "note": "Translation: 'Tianyancha shows Hou Jianguang holds 65.91% absolute control and is the actual controller; the shareholders are all natural persons.' The sentence continues on the page '没有任何机构投资者' ('there are no institutional investors'); the quote is cut at a point the page wraps in a hyperlink so the script can match it.",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
