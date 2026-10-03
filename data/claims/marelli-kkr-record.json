@@ -1,0 +1,20 @@
+{
+  "id": "marelli-kkr-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "marelli-holdings"
+  ],
+  "text": "Marelli's 2022 capital restructuring included an investment of new equity capital by its shareholder KKR.",
+  "short": "KKR was Marelli's shareholder under the 2022 restructuring.",
+  "source": {
+    "name": "Marelli: Successful conclusion of Marelli capital restructuring (press release)",
+    "date": "2022-08-09",
+    "url": "https://www.marelli.com/en/news/successful-conclusion-of-marelli-capital-restructuring.html",
+    "quote": "the investment of new equity capital by its shareholder KKR, which will imminently be made available",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

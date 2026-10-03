@@ -1,0 +1,16 @@
+{
+  "id": "dynisma",
+  "name": "Dynisma",
+  "ownerId": "dynisma-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Dynisma Ltd, a private UK company whose registered persons with significant control are Hawthorn Holdco Limited and founder Ashley Warne. Nothing found.",
+  "claimIds": [
+    "dynisma-owner-record"
+  ],
+  "aliases": [
+    "dynisma-ltd"
+  ],
+  "note": "Official simulator partner of Nissan Formula E Team (Season 12): it supplied the team's DMG-1 racing simulator. Companies House lists Hawthorn Holdco Limited (17313112) and Ashley Warne, each with more than 25% but not more than 50%; Hawthorn Holdco's own owners were not traced, so parentId is null."
+}

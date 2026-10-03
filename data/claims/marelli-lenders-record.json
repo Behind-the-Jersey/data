@@ -1,0 +1,20 @@
+{
+  "id": "marelli-lenders-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "marelli-holdings"
+  ],
+  "text": "Marelli expects to emerge from Chapter 11 in 2026 under the ownership of its principal lenders, after filing for Chapter 11 in June 2025.",
+  "short": "Marelli's lenders are to own it on emergence from Chapter 11.",
+  "source": {
+    "name": "Marelli: Marelli Receives Court Approval of \"Second Day\" Motions to Support Business Operations",
+    "date": "2025-07-28",
+    "url": "https://www.marelli.com/en/news/marelli-receives-court-approval-of-second-day-motions-to-support-business-operations.html",
+    "quote": "expects to emerge from Chapter 11 in 2026 under the ownership of its principal lenders",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

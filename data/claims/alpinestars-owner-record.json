@@ -1,0 +1,33 @@
+{
+  "id": "alpinestars-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "mazzarolo-family"
+  ],
+  "text": "Alpinestars, founded in 1963, is owned by the Mazzarolo family.",
+  "short": "Alpinestars is owned by the Mazzarolo family.",
+  "source": {
+    "name": "FashionNetwork (Bloomberg): Asian PE firms circle €1 billion racing brand Alpinestars",
+    "date": "2026-09-15",
+    "url": "https://us.fashionnetwork.com/news/Asian-pe-firms-circle-1-billion-racing-brand-alpinestars,1866435.html",
+    "quote": "Alpinestars, founded in 1963, is owned by the Mazzarolo family.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Alpinestars: About Us",
+      "date": "2026",
+      "url": "https://www.alpinestars.com/pages/about-us",
+      "note": "Page without a date; opened 2026-10-03. Company history naming founder Sante Mazzarolo and Gabriele Mazzarolo's ownership of the Italian part of the company.",
+      "quote": "With the Italian part of the Company now also owned and directed by Gabriele, by the mid-1990s the first technical apparel line was designed and launched",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

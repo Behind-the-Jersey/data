@@ -1,12 +1,15 @@
 {
   "id": "marelli",
   "name": "Marelli",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "marelli-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of Marelli Holdings Co., Ltd.: KKR was its shareholder until a 2025 debt restructuring, and its principal lenders are to own it on emergence from Chapter 11 in 2026. Nothing found.",
+  "claimIds": [
+    "marelli-kkr-record",
+    "marelli-lenders-record"
+  ],
   "aliases": [],
-  "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to magnetimarelli.com, stands under 'Technical partners' with the line 'Data acquisition systems' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  "note": "Technical partner of Nissan Formula E Team (Season 12, logo on the rear wing of both cars) and of the Ducati Lenovo Team. Marelli Holdings filed for Chapter 11 in the US on 11 June 2025; as of October 2026 no emergence announcement was on marelli.com, so ownership sits with the lenders pending emergence."
 }
