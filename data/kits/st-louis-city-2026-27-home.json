@@ -12,13 +12,48 @@
       "sponsorId": "purina",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
+        "name": "For Soccer – '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "St. Louis City SC Purina Consumer Products",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Annual review of every MLS club's front-of-jersey and sleeve partners for the 2026 season."
+      }
+    },
+    {
+      "sponsorId": "bjc-healthcare",
+      "placement": "sleeve",
+      "source": {
+        "name": "For Soccer – '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "St. Louis City SC Apple TV Media BJC Healthcare Healthcare",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "For Soccer's 2026 review lists BJC Healthcare on St. Louis City SC's right sleeve (Apple TV on the left). The deal dates to the club's 2022 announcement, which put BJC on the First Team jersey's right sleeve (see deal st-louis-city-bjc-healthcare-sleeve)."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "For Soccer – '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Purina fronts the jersey and BJC HealthCare sits on the right sleeve."
 }
