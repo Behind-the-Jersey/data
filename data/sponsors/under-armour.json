@@ -1,12 +1,14 @@
 {
   "id": "under-armour",
   "name": "Under Armour",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "under-armour-inc",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "under-armour-ownership"
+  ],
   "aliases": [],
-  "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25). Ownership researched 2026-10-03: listed US company controlled by founder Kevin Plank (64.6% of voting power, 2026 proxy); no state in the chain and no qualifying human-rights finding against the company found in this run."
 }

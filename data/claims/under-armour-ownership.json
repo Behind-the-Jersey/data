@@ -1,0 +1,20 @@
+{
+  "id": "under-armour-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "under-armour-inc"
+  ],
+  "text": "Under Armour is the brand of Under Armour, Inc., a US listed sportswear company (NYSE: UA, UAA) controlled by founder Kevin A. Plank: its July 2026 proxy statement shows him holding Class A and Class B stock carrying 64.6% of the combined voting power.",
+  "short": "Under Armour, Inc. is a listed US company whose founder Kevin Plank holds 64.6% of voting power.",
+  "source": {
+    "name": "Under Armour, Inc.: 2026 Proxy Statement (DEF 14A), security ownership of beneficial owners (SEC EDGAR)",
+    "date": "2026-07-15",
+    "url": "https://www.sec.gov/Archives/edgar/data/1336917/000133691726000102/ua-20260715.htm",
+    "quote": "Kevin A. Plank (4)(5) 34,631,608 15.5 % 18,346,798 8.8 % 64.6 %",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

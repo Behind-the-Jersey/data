@@ -1,0 +1,32 @@
+{
+  "id": "treasury-daou-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "treasury-wine-estates"
+  ],
+  "text": "DAOU Vineyards is owned by Treasury Wine Estates Ltd (ASX: TWE): TWE announced completion of the acquisition of DAOU Vineyards, LLC and its associated entities on 13 December 2023, for an upfront $900m plus an earn-out of up to $100m.",
+  "short": "DAOU Vineyards is owned by ASX-listed Treasury Wine Estates (acquired December 2023).",
+  "source": {
+    "name": "Treasury Wine Estates: ASX announcement 'Treasury Wine Estates successfully completes the acquisition of DAOU Vineyards'",
+    "date": "2023-12-13",
+    "url": "https://a.storyblok.com/f/171317/x/f41c45a3f8/twe-completes-acquisition-of-daou-vineyards.pdf",
+    "quote": "Treasury Wine Estates Ltd (ASX:TWE ) (\u201cTWE\u201d or the \u201cCompany\u201d ) today announced completion of the acquisition of DAOU Vineyards, LLC and its associated entities (\u201cDAOU\u201d). The acquisition is effective from today.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "PR Newswire / Treasury Wine Estates: acquisition announcement",
+      "date": "2023-10-30",
+      "url": "https://www.prnewswire.com/news-releases/treasury-wine-estates-announces-acquisition-of-fastest-growing-luxury-wine-brand-in-the-united-states-daou-vineyards-301972016.html",
+      "quote": "Treasury Wine Estates Ltd (ASX:TWE), one of the world's leading wine companies, today announced that it has reached an agreement to acquire DAOU Vineyards",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

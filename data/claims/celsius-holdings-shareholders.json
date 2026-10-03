@@ -1,0 +1,21 @@
+{
+  "id": "celsius-holdings-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "celsius-holdings-inc"
+  ],
+  "text": "Celsius Holdings, Inc. is a US listed company; its 2026 proxy statement's table of 5% beneficial owners lists Chau Hoi Shuen Solina (8.97%), Alani Holdings, LLC (8.74%, attributed to Max Clemons and Trey Steiger), AllianceBernstein L.P. (6.27%) and BlackRock, Inc. (5.64%).",
+  "short": "Celsius Holdings is a listed company; largest 5% holders are private investors and asset managers.",
+  "source": {
+    "name": "Celsius Holdings, Inc.: 2026 Proxy Statement (DEF 14A), security ownership of certain beneficial owners (SEC EDGAR)",
+    "date": "2026-04-14",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341766/000119312526154918/d907156ddef14a.htm",
+    "quote": "BlackRock, Inc. 50 Hudson Yards New York, NY 10001 14,501,762 (11) 5.64% Chau Hoi Shuen Solina Holly Suites PT. 2909 & 2910, Harbour Centre 25 Harbour Road Wanchai, Hong Kong 999077 23,040,969 (12) 8.97% AllianceBernstein L.P. 501 Commerce Street Nashville, TN 37203 16,098,306 (13) 6.27%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The same table rows for Alani Holdings, LLC, Max Clemons and Trey Steiger (22,451,224 shares, 8.74%) appear directly above this excerpt on the page."
+  },
+  "reviewed": false
+}
