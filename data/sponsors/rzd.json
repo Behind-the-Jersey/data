@@ -1,15 +1,18 @@
 {
   "id": "rzd",
   "name": "Russian Railways (RZD)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "rzd",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "rzd-state-owned",
+    "russian-federation-record"
+  ],
   "aliases": [
     "РЖД",
     "Российские железные дороги"
   ],
-  "note": "Partner of HC Sochi. Lead: state-owned railway operator; Lokomotiv Yaroslavl is linked to RZD. Primary document not yet opened."
+  "note": "Partner of HC Sochi (2026/27 club partners page) and general sponsor of FC Lokomotiv Moscow; owner of Lokomotiv Yaroslavl. Ownership: all RZD shares belong to the Russian Federation (RZD charter; Vedomosti, 2026-06-02). Controlled by a state waging the war in Ukraine — Severe proposed in the pull request."
 }

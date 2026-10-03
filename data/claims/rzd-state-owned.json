@@ -16,5 +16,18 @@
       "by": "claude-review-282"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Ведомости (Vedomosti): РЖД перенесут выплату дивидендов по «префам» на 2027 год",
+      "date": "2026-06-02",
+      "url": "https://www.vedomosti.ru/investments/news/2026/06/02/1202049-rzhd-perenesut-viplatu",
+      "quote": "ОАО «РЖД» было создано 1 октября 2003 г. Все акции компании принадлежат государству.",
+      "note": "Company background line: all RZD shares belong to the state.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
