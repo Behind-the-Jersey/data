@@ -1,0 +1,32 @@
+{
+  "id": "sata-azores-regional-government-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sata-group"
+  ],
+  "text": "The SATA group is ultimately controlled by the Portuguese Autonomous Region of the Azores: the regional government owns SATA Holding, the parent of Azores Airlines, and is selling at least 75% of the airline in a privatisation process still running in September 2026.",
+  "short": "The Regional Government of the Azores controls the SATA group and owns its holding company",
+  "source": {
+    "name": "European Commission press release: State aid: Commission approves €453.25 million Portuguese restructuring aid in favour of SATA Group (IP/22/3525)",
+    "date": "2022-06-07",
+    "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_3525/IP_22_3525_EN.pdf",
+    "quote": "SATA Group is a regional airline ultimately controlled by the Portuguese Autonomous Region of Azores.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Herald News (Reuters/O Jornal): Eight investors eye majority stake in Portugal's Azores Airlines",
+      "date": "2026-09-08",
+      "url": "https://www.heraldnews.com/story/news/local/ojornal/2026/09/08/eight-investors-eye-majority-stake-in-azores-airlines/91664391007/",
+      "quote": "SATA Holding, which is owned by the Azores regional government, is seeking to sell at least a 75% stake in Azores Airlines",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
