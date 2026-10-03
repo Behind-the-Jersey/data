@@ -3,9 +3,9 @@
   "name": "Aldrees",
   "ownerId": "aldrees-petroleum-transport",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "A family-founded Saudi joint-stock company; the only state link found is GOSI's investment manager on its board.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "A family-founded Saudi joint-stock company whose FY2024 board includes two executives of Hassana, the investment manager of Saudi state fund GOSI.",
   "claimIds": [
     "aldrees-ownership",
     "aldrees-hassana-board"
@@ -14,6 +14,6 @@
     "Aldrees Petroleum & Transport Services Company",
     "الدريس"
   ],
-  "note": "Front-of-shirt sponsor on Al Faisaly's 2026-27 home shirt (and a long-time club partner: the partnership was renewed in 2017, per Kooora). Proposed none 2026-10-03: no source checked shows state control or a 5%+ state stake; the board presence of Hassana (GOSI's investment manager) is recorded in an ownership claim, and GOSI's stake, if any, is not disclosed in the sources checked.",
+  "note": "Front-of-shirt sponsor on Al Faisaly's 2026-27 home shirt. Rating note: on hold for a maintainer (review of 2026-10-03). The PR proposed none, but METHOD's board-seat rule ('its official, or an executive of its fund') is engaged: Aldrees' FY2024 annual report shows board members Basil Ali Al Faris (Director of Alternative Investments Department) and Mohamad Salem Ali Musa (Portfolio Manager) are executives of Hassana Investment Company, GOSI's investment manager (claim aldrees-hassana-board), and GOSI is a Saudi state fund whose state's record is on main (e.g. saudi-executions-2026-record). Whether that reads as a concern link, and whether GOSI/Hassana holds any undisclosed stake in Aldrees, is the maintainer's call; a concern rating would also need a second independent source for the board facts and a record claim in the why.",
   "ownerVerb": "owned by"
 }
