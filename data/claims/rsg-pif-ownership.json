@@ -1,0 +1,33 @@
+{
+  "id": "rsg-pif-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "red-sea-global",
+    "saudi-pif"
+  ],
+  "text": "The Public Investment Fund's 2024 consolidated financial statements list The Red Sea Global Company among its subsidiaries, with a 100% ownership interest.",
+  "short": "PIF owns 100% of Red Sea Global",
+  "source": {
+    "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 40 (list of subsidiaries)",
+    "date": "2025-06-29",
+    "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+    "quote": "The Red Sea Global Company Real Estate 100.00%  100.00%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TradeArabia: Red Sea Global renews Al-Ahli sponsorship as AMAALA takes shirt front",
+      "date": "2026-08-12",
+      "url": "https://tradearabia.com/News/466495/Red-Sea-Global-renews-Al-Ahli-sponsorship-as-AMAALA-takes-shirt-front",
+      "quote": "Red Sea Global (RSG), a PIF company and regenerative tourism developer, has renewed its sponsorship of Al-Ahli Saudi Football Club for the 2026-2027 season",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

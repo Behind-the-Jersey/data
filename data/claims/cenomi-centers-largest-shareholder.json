@@ -1,0 +1,33 @@
+{
+  "id": "cenomi-centers-largest-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "cenomi-centers"
+  ],
+  "text": "Cenomi Centers' annual report for 2025 lists FAS Real Estate Company Limited as its largest shareholder, with 26.89% of its capital as of 31 December 2025; the company's consolidated financial statements for 2025 (related-party note 14.B.i) state that Saudi FAS Holding Company is the ultimate parent of the company, via its immediate parent company FAS Real Estate Company Limited.",
+  "short": "FAS Real Estate (26.89%) is Cenomi Centers' largest shareholder; Saudi FAS Holding is the ultimate parent",
+  "source": {
+    "name": "Arabian Centres Company (Cenomi Centers): Consolidated financial statements for the year ended 31 December 2025 (archived copy of centers.cenomi.com PDF), note 14.B.i (related parties)",
+    "date": "2026-03-27",
+    "url": "https://web.archive.org/web/20261003055016id_/https://centers.cenomi.com/wp-content/uploads/sites/2/2026/04/Arabian-Centres-Signed-FS-2025-English-Signed.pdf",
+    "quote": "Saudi FAS Holding Company  is the ultimate parent of the Company via assignment of shares by the Company’s immediate parent company (FAS Real Estate Company Limited)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout review (OpenCode, model kimi-k3): quote verified verbatim on p.44 (note 14.B.i) of the archived PDF"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cenomi Centers: Annual Report 2025 (archived copy of centers.cenomi.com PDF; substantial-shareholdings table, Tadawul records as of 31/12/2025)",
+      "date": "2026-04",
+      "url": "https://web.archive.org/web/20261003053747id_/https://centers.cenomi.com/wp-content/uploads/sites/2/2026/04/CENOMI_EN_Annual_Report_Tadwul.pdf",
+      "quote": "FAS Real Estate Company Limited 133,143,550 28.03% 127,706,683 26.89%",
+      "note": "18.5 MB archived PDF, beyond the source-checker's fetch cap; the table quote and note 14.B.i wording were verified by hand in the archived file. The next-largest holder in the table holds 4.00%.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout review (OpenCode, model kimi-k3): table quote verified by hand in the archived PDF"
+      }
+    }
+  ],
+  "reviewed": false
+}
