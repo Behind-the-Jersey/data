@@ -1,0 +1,33 @@
+{
+  "id": "xds-xidesheng-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "xidesheng"
+  ],
+  "text": "XDS is a Chinese bicycle and carbon-products manufacturer based in Shenzhen (brand XDS, premium bikes line X-LAB) whose bikes and equipment the XDS Astana Team races on; Cyclingnews described the company as a Chinese carbon product manufacturer that has become a major investor in the team.",
+  "short": "XDS is a Shenzhen-based Chinese bike maker and the team's title sponsor.",
+  "source": {
+    "name": "Cyclingnews — 12 new riders, new bikes and now a new name: changes keep coming at Astana Qazaqstan after Chinese investment (James Moultrie)",
+    "date": "2024-11-14",
+    "url": "https://www.cyclingnews.com/news/12-new-riders-new-bikes-and-now-a-new-name-changes-keep-coming-at-astana-qazaqstan-after-chinese-investment/",
+    "quote": "Chinese carbon product manufacturer XDS Carbon-Tech on board as a sponsor for 2025",
+    "note": "The same article adds: 'The Shenzen-based company [sic] has become a major investor in the team'.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "XDS / X-LAB official site — A Championship Track Record",
+      "date": "2026-10-01",
+      "url": "https://xds.co/",
+      "quote": "XDS is the official sponsor of the XDS Astana Team in the WorldTour. Built for power, precision, and pure speed, our X-LAB bikes help world-class athletes go beyond what was once the limit",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
