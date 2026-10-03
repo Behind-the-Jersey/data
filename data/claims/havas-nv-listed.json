@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Havas – Company & Havas share information (Internet Archive capture, 27/08/2026)",
+      "date": "2026-08-27",
+      "url": "http://web.archive.org/web/20260827052132/https://www.havas.com/investor-relations-shareholders/company-information/",
+      "quote": "Company name Havas N.V. ISIN code NL0015002K83 Bloomberg ticker HAVAS NA Sedol code BVD9FN8 MIC code XAMS Dutch trade register number 95011439 Address 29/30 quai de Dion Bouton, 92800 Puteaux, France Registered office Amsterdam Stock market Euronext Amsterdam",
+      "note": "Archived capture of the same page, kept because havas.com intermittently blocks scripted requests.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
