@@ -15,11 +15,31 @@
         "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
         "date": "2023-06-19",
         "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        "note": "League-wide: the extension covers BAL games each season, with the 2026 Playoffs and Finals at BK Arena in Kigali, and Visit Rwanda showcased on BAL team uniforms. The Rwanda Development Board is listed among the 22 partners that supported the 2026 BAL season (pr.nba.com, 2026-05-25), and BAL match photos show Visit Rwanda on the front, back and shorts of the 2026 FUS Rabat game jersey.",
+        "quote": "Through the agreement, Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+        "date": "2026-03-17",
+        "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+        "note": "Kit maker. League-wide outfitter from the 2026 season: PUMA supplies the game uniforms of all BAL teams, so the Puma mark on the FUS Rabat jersey and shorts is league branding, not a club deal (Puma logo visible on the chest and shorts in BAL 2026 match photos).",
+        "quote": "will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms, warm-up gear, practice wear, accessories, and branded tops",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+  "sponsorsComplete": true,
+  "summary": "League-issued BAL 2026 uniform: PUMA is the league's official outfitter and Visit Rwanda (Rwanda Development Board) is carried on BAL team uniforms league-wide. BAL match photos of the 2026 FUS Rabat game jersey (front, back and shorts) show no club-level shirt sponsor.",
   "change": null
 }
