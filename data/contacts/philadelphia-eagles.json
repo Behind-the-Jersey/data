@@ -4,31 +4,61 @@
     {
       "type": "contact-form",
       "value": "https://www.philadelphiaeagles.com/footer/contact-us/",
-      "label": "Contact form",
+      "label": "Contact page / fan feedback",
       "source": {
-        "name": "Club website contact page",
+        "name": "Philadelphia Eagles (philadelphiaeagles.com) – Contact Us",
         "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "GENERAL / FAN FEEDBACK",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+12154632500",
+      "label": "Team headquarters",
+      "source": {
+        "name": "Philadelphia Eagles (philadelphiaeagles.com) – Contact Us",
+        "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
+        "date": "2026-10-01",
+        "quote": "Team Headquarters at the Jefferson Health Training Complex: 215-463-2500",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@Eagles",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.philadelphiaeagles.com/",
-        "date": "2026-09-24"
+        "name": "Philadelphia Eagles (philadelphiaeagles.com) – Social",
+        "url": "https://www.philadelphiaeagles.com/social",
+        "date": "2026-10-01",
+        "quote": "x Eagles X",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@philadelphiaeagles",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.philadelphiaeagles.com/",
-        "date": "2026-09-24"
+        "name": "Philadelphia Eagles (philadelphiaeagles.com) – Social",
+        "url": "https://www.philadelphiaeagles.com/social",
+        "date": "2026-10-01",
+        "quote": "instagram Eagles Instagram",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

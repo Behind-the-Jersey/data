@@ -12,13 +12,49 @@
       "sponsorId": "directv",
       "placement": "front",
       "source": {
-        "name": "sandiegofc.com",
-        "date": "2026-02-17",
-        "url": "https://www.sandiegofc.com/news/san-diego-fc-announces-directv-as-the-club-s-official-jersey-partner"
+        "name": "San Diego FC – 'San Diego FC Unveils the 2026 Unprecedented Unity Kit'",
+        "date": "2026-02-10",
+        "url": "https://www.sandiegofc.com/news/san-diego-fc-unveils-the-2026-unprecedented-unity-kit",
+        "quote": "DIRECTV, SDFC’s Official Jersey Partner, will be prominently featured on the front of the Unprecedented Unity Kit.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Multi-year front-of-kit deal announced July 2024 (deal: san-diego-fc-directv); the club's 2026 kit launch confirms it continues through the 2026 MLS season."
+      }
+    },
+    {
+      "sponsorId": "adrianas-insurance",
+      "placement": "sleeve",
+      "source": {
+        "name": "San Diego FC – 'Adriana’s Insurance Joins San Diego FC as Official Jersey Sleeve Partner and Founding Partner'",
+        "date": "2025-11-09",
+        "url": "https://www.sandiegofc.com/news/adriana-s-insurance-joins-san-diego-fc-as-official-jersey-sleeve-partner-and-founding-partner",
+        "quote": "the Adriana’s Insurance logo will be featured on the right sleeve of all SDFC’s MLS primary and secondary jerseys worn during all club competitions",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Multi-year right-sleeve deal (deal: san-diego-fc-adrianas-insurance-sleeve); the club's 2026 kit launch (2026-02-10) repeats the placement for the 2026 kit."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportsLogos.Net – 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "League-wide sleeve patch (league deal: mls-apple-tv); Apple pays MLS, not the club. SportsLogos 403s script fetches from datacenter IPs; the page was opened and the quote verified on 2026-10-03. Same placement documented by For Soccer's 2026 MLS jersey sponsors list (2026-02-17)."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "2026 'Unprecedented Unity' home kit, made by Adidas. DIRECTV fronts the jersey; Adriana's Insurance has the right sleeve; the league-wide Apple TV patch is on the left sleeve of every MLS kit. MLS opened a lower-back ad slot after the 2026 All-Star break; San Diego FC has announced no back sponsor."
 }
