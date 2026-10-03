@@ -1,0 +1,28 @@
+{
+  "id": "houston-dynamo-shell-energy-stadium",
+  "clubId": "houston-dynamo",
+  "orgName": "Shell Energy",
+  "sponsorId": "shell",
+  "placement": "stadium",
+  "from": "2023",
+  "to": null,
+  "value": {
+    "amount": 40,
+    "currency": "USD",
+    "unit": "m",
+    "per": "total",
+    "upTo": false,
+    "usdApprox": 40
+  },
+  "source": {
+    "name": "FOX 26 Houston – 'Introducing Shell Energy Stadium: Houston Dynamo, Dash home gets new name'",
+    "date": "2023-01-17",
+    "url": "https://www.fox26houston.com/news/houston-dynamo-dash-shell-energy-stadium",
+    "quote": "According to a source, Shell Energy’s naming rights contract with the Dynamo and Dash is eight years for $40 million, with an average annual value of $5 million.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The deal covers the stadium shared with the NWSL Houston Dash. SportsPro and Sports Business Journal reported at announcement that no length or value had been disclosed; the eight-year/$40m figure is FOX 26's, from a single unnamed source ('A Dynamo official declined comment on the terms'). Shell Energy is the energy brand of Shell plc (UK), the sponsor's owner in data/owners/shell-plc.json."
+  }
+}
