@@ -3,9 +3,9 @@
   "name": "OTV (Oblastnoye Televideniye)",
   "ownerId": "government-of-chelyabinsk-oblast",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Regional public television of Chelyabinsk Oblast. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Regional television of Chelyabinsk Oblast: Rosstat classifies AO 'Obl-TV' as property of a federal subject of the Russian Federation (OKFS 13); created in 2018 by transformation of the Chelyabinsk Oblast state enterprise. On hold for a person: the database holds a record claim against the Russian Federation and chains other sub-national owners (Chinese municipalities, Uzbekistan's Fergana) to the national state — whether a Russian region's government chains the same way, and so whether the federal record reaches OTV, is a maintainer decision.",
   "claimIds": [
     "otv-region-ownership"
   ],
@@ -15,5 +15,5 @@
     "1obl.ru",
     "AO Obl-TV"
   ],
-  "note": "Chelyabinsk regional TV channel; media partner of HC Traktor (club site footer links to 1obl.ru). No documented human-rights record found for Chelyabinsk Oblast itself; the oblast is part of the Russian Federation — methodological question flagged in the PR."
+  "note": "Chelyabinsk regional TV channel; media partner of HC Traktor (club site footer links to 1obl.ru). No documented human-rights record found for Chelyabinsk Oblast itself; the oblast is part of the Russian Federation — methodological question flagged in the PR. Held at unrated rather than 'none' so the state-record question is decided by a maintainer."
 }
