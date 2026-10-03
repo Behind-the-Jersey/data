@@ -1,0 +1,21 @@
+{
+  "id": "van-eerd-family-holding",
+  "kind": "ownership",
+  "ownerIds": [
+    "van-eerd-retail"
+  ],
+  "text": "Mississippi Ventures, an investment vehicle of the Van Eerd family, completed the takeover of the remaining 50% of HEMA's shares in February 2026, placing HEMA within the holding Van Eerd Retail.",
+  "short": "The Van Eerd family's investment vehicle Mississippi Ventures completed the HEMA takeover.",
+  "source": {
+    "name": "HEMA Corporate: Overname HEMA afgerond door Van Eerd Retail",
+    "date": "2026-02-11",
+    "url": "https://corporate.hema.com/nl-nl/news/overname-hema-afgerond-door-van-eerd-retail",
+    "quote": "rondt Mississippi Ventures, een investeringsvehikel van de familie van Eerd, vandaag de overname van de resterende 50% van de aandelen HEMA af",
+    "note": "Dutch; translation: '...Mississippi Ventures, an investment vehicle of the Van Eerd family, today completes the takeover of the remaining 50% of HEMA's shares.' The next sentence places HEMA within the holding Van Eerd Retail (quoted on claim jumbo-van-eerd-holding).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
