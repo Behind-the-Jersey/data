@@ -7,8 +7,54 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "gazprom",
+      "placement": "partner",
+      "source": {
+        "name": "Interfax: Gazprom Neft entered the ownership structure of hockey club SKA",
+        "date": "2026-05-15",
+        "url": "https://www.interfax.ru/business/1089705",
+        "quote": "генеральным спонсором ХК СКА, как и прежде, является группа \"Газпром\"",
+        "note": "Gazprom Neft's press service told Interfax (15 May 2026) that 'the change in SKA's ownership is technical; the general sponsor of HC SKA, as before, is the Gazprom group'. Interfax adds Gazprom has sponsored SKA hockey since 2005.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gazprom-neft",
+      "placement": "partner",
+      "source": {
+        "name": "Stavka TV: Sponsors and owners of KHL clubs (Спонсоры и владельцы клубов КХЛ)",
+        "date": "2026-01-30",
+        "url": "https://stavka.tv/articles/ice-hockey/khl-clubs-sponsors",
+        "quote": "Спонсоры: ПАО Газпром (генеральный спонсор), «Газпром нефть», Сеть АЗС Газпромнефть, G-Drive, АвтоРадио, БК «Олимпбет».",
+        "note": "In the article's СКА section (updated 2 May 2026): 'Sponsors: Gazprom PJSC (general sponsor), Gazprom Neft, the Gazpromneft filling-station network, G-Drive, AvtoRadio, bookmaker Olimpbet.' G-Drive is a Gazprom Neft brand.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "olimpbet",
+      "placement": "sleeve",
+      "source": {
+        "name": "Sports.ru: Olimpbet became a partner of hockey club SKA (Olimpbet стал партнером хоккейного СКА)",
+        "date": "2025-10-21",
+        "url": "https://www.sports.ru/betting/industry/1116950461-bukmekerskaya-kompaniya-olimpbet-stala-partnerom-ska.html",
+        "quote": "В рамках соглашения логотип букмекера появится на игровой форме хоккеистов: шлемах и рукавах джерси.",
+        "note": "'Under the agreement the bookmaker's logo will appear on the players' game uniforms: on helmets and on jersey sleeves.' Olimpbet signed a three-year contract with SKA starting in the 2025-26 season, so it covers 2026-27.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "No sponsor on the 2026-27 playing jersey is sourced yet. The archived ska.ru page cited before shows an unlabelled strip of logos, not the jersey; Gazprom Neft owns the club (Interfax, May 2026), which is ownership, not a shirt sponsorship.",
+  "summary": "2026-27 home kit. Olimpbet is on the jersey sleeves and helmets under a three-year deal from 2025-26 (Sports.ru). The Gazprom group is SKA's general sponsor (Gazprom Neft's press service to Interfax, May 2026); Gazprom Neft and its G-Drive brand are also listed among SKA's sponsors by Stavka TV (Jan 2026, updated May 2026). SKA's own site 403s from this network, so per-placement details could not be checked there; the KHL's official 2026/27 kit renders (published by Sports.ru) show the Gazprom wordmark on the front and G-Drive on the shoulders, but the league warns sponsor logos on those renders may differ from the final uniforms. СБП (chest patch) and T-Bank are league-level partners (see the khl-* deals). Gazprom Neft has owned 99.99% of the club since May 2026 (Interfax).",
   "change": null
 }
