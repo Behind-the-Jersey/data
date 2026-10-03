@@ -1,0 +1,32 @@
+{
+  "id": "cadillac-gm-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "general-motors"
+  ],
+  "text": "Cadillac is one of General Motors' vehicle brands: GM's FY2025 10-K says its vehicles are developed, manufactured and/or marketed under the Buick, Cadillac, Chevrolet and GMC brands, and GM's 2026 proxy lists BlackRock (8.3%) and State Street (5.2%) as the shareholders known to hold more than 5%.",
+  "short": "Cadillac is a vehicle brand of General Motors (NYSE: GM).",
+  "source": {
+    "name": "General Motors Co, Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-01-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm",
+    "quote": "with vehicles developed, manufactured, and/or marketed under the Buick, Cadillac, Chevrolet, and GMC brands",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "General Motors Co, 2026 Proxy Statement (DEF 14A, SEC EDGAR) - security ownership table",
+      "date": "2026-04-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000022/gm-20260420.htm",
+      "quote": "BlackRock, Inc. (8) 74,909,069 8.3 State Street Corporation (9) 46,594,475 5.2",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
