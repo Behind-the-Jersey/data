@@ -1,0 +1,34 @@
+{
+  "id": "pad-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-senegal"
+  ],
+  "text": "The Senegalese state is the Port Autonome de Dakar's shareholder at 100%; the port is a Senegalese public enterprise created by decree, and a 1987 law turned it into a 'société nationale' (national company).",
+  "short": "Senegal state owns 100% of the Port Autonome de Dakar",
+  "source": {
+    "name": "BRVM / WARA: Notation financière du Port Autonome de Dakar (février 2016)",
+    "date": "2016-02-15",
+    "url": "https://www.brvm.org/sites/default/files/20160215_-_nf_wara_-_port_autonome_de_dakar_-_fevrier_2016.pdf",
+    "quote": "l'importance stratégique du PAD pour l'Etat du Sénégal (actionnaire à 100% du PAD) est élevée du fait que le PAD est une entreprise publique créée par décret",
+    "note": "WARA rating note published by the BRVM (the regional stock exchange): the Senegalese state is a 100% shareholder of the PAD. In French; English translation in the claim text.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Port Autonome de Dakar: Statut et Mission (official site)",
+      "date": "2026",
+      "url": "https://www.portdakar.sn/fr/nous-decouvrir/presentation/organisation/statut-et-mission",
+      "quote": "du statut d'établissement public à caractère industriel et commercial (EPIC) à celui d'une société nationale au capital de 52 milliards de FCFA",
+      "note": "The port's own history page: law No. 87-28 of 18 August 1987 turned the PAD into a 'société nationale'. Page undated.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

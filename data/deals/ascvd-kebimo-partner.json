@@ -1,0 +1,23 @@
+{
+  "id": "ascvd-kebimo-partner",
+  "clubId": "asc-ville-de-dakar",
+  "orgName": null,
+  "sponsorId": "kebimo",
+  "placement": "partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Le Journal de Dakar: ASC Ville de Dakar – BAL : autorités et sponsors affichent leur soutien avant Rabat",
+    "date": "2026-04-13",
+    "url": "https://lejournaldedakar.info/asc-ville-de-dakar-bal-autorites-et-sponsors-affichent-leur-soutien-avant-rabat/",
+    "quote": "L'année dernière, quand on organisait la Coupe d'Afrique féminine des clubs, Kébimo avait dégagé une enveloppe de 40 millions FCfa. Cette année, c'était 10 millions.",
+    "note": "Support amounts reported by club president Yatma Diaw, in FCFA. The deal schema takes GBP/EUR/USD only, so value stays null. The same article reports '10 autres millions' from Kebimo for the BAL campaign.",
+    "short": "Le Journal de Dakar",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Kebimo's reported support for ASC Ville de Dakar: FCFA 10m for 2026 plus FCFA 10m for the BAL campaign (FCFA 40m in 2025 for the women's African Clubs Cup). No start date given for the relationship, so 'from' is null."
+}
