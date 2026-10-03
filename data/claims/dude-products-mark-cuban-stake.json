@@ -4,7 +4,7 @@
   "ownerIds": [
     "dude-products-inc"
   ],
-  "text": "Mark Cuban made an investment in DUDE Products after its founders appeared on ABC's Shark Tank in 2015 and remains an investor; TSG Consumer's June 2025 investment announcement describes him as continuing to back the company.",
+  "text": "Mark Cuban invested in DUDE Products after its founders appeared on ABC's Shark Tank in 2015, and TSG Consumer's June 2025 investment announcement describes the long-time Shark Tank investor as continuing to back the company.",
   "short": "Mark Cuban: DUDE Products investor since Shark Tank (2015).",
   "source": {
     "name": "San Jose Earthquakes – 'San Jose Earthquakes and DUDE Wipes Announce Official Back-of-Jersey Partnership' (About DUDE Wipes)",
@@ -17,5 +17,17 @@
     },
     "note": "TSG Consumer's own 23 June 2025 release says 'Long time Shark Tank investor Mark Cuban is also continuing to bet on the DUDEs'."
   },
+  "additionalSources": [
+    {
+      "name": "TSG Consumer – 'DUDE Wipes Secures Strategic Growth Investment from TSG Consumer'",
+      "date": "2025-06-23",
+      "url": "https://www.tsgconsumer.com/news/dude-wipes-secures-strategic-growth-investment-from-tsg-consumer",
+      "quote": "Long time “Shark Tank” investor Mark Cuban is also continuing to bet on the DUDEs through this next phase of growth.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
