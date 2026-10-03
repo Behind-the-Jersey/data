@@ -4,13 +4,13 @@
   "ownerIds": [
     "eqt-ab"
   ],
-  "text": "EdgeConneX is owned by EQT's infrastructure funds: EQT Infrastructure's acquisition of EdgeConneX closed in November 2020, and after EQT sold a minority stake to Sixth Street-managed funds in September 2024, EQT Infrastructure remained the largest shareholder.",
+  "text": "EdgeConneX is owned by EQT's infrastructure funds: EQT Infrastructure has owned the company since 2020, and after selling a minority stake to Sixth Street-managed funds in 2024 EQT Infrastructure remained its largest shareholder.",
   "short": "EdgeConneX is owned by EQT's infrastructure funds; EQT remains its largest shareholder, Sixth Street holds a minority.",
   "source": {
-    "name": "EdgeConneX press release: EdgeConneX Announces Completion of its Acquisition by EQT Infrastructure",
-    "date": "2020-11-05",
-    "url": "https://www.edgeconnex.com/news/press-releases/edgeconnex-announces-completion-of-its-acquisition-by-eqt-infrastructure",
-    "quote": "announced today that its acquisition by EQT Infrastructure from an investor group led by Providence Equity Partners has closed",
+    "name": "Sixth Street newsroom: EQT Welcomes Sixth Street as Strategic Investor in EdgeConneX",
+    "date": "2024-09-24",
+    "url": "https://sixthstreet.com/investment_announce/eqt-welcomes-sixth-street-as-strategic-investor-in-edgeconnex",
+    "quote": "Having been invested in the company since 2020, EQT Infrastructure will remain the largest shareholder following the closing of the transaction.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
@@ -18,10 +18,11 @@
   },
   "additionalSources": [
     {
-      "name": "Sixth Street newsroom: EQT Welcomes Sixth Street as Strategic Investor in EdgeConneX",
-      "date": "2024-09-24",
-      "url": "https://sixthstreet.com/investment_announce/eqt-welcomes-sixth-street-as-strategic-investor-in-edgeconnex",
-      "quote": "Having been invested in the company since 2020, EQT Infrastructure will remain the largest shareholder following the closing of the transaction.",
+      "name": "EdgeConneX press release: EdgeConneX Announces Completion of its Acquisition by EQT Infrastructure",
+      "date": "2020-11-05",
+      "url": "https://www.edgeconnex.com/news/press-releases/edgeconnex-announces-completion-of-its-acquisition-by-eqt-infrastructure",
+      "note": "Confirms the acquisition closed on 2020-11-05. EdgeConneX's site blocks scripts (403 to the CI checker), but this researcher opened the page and read the text.",
+      "quote": "announced today that its acquisition by EQT Infrastructure from an investor group led by Providence Equity Partners has closed",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
