@@ -16,5 +16,17 @@
       "by": "source-audit-2026-09-26"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Forbes (Bill Koenig): Ford Family Extends Influence On Automaker",
+      "date": "2023-09-27",
+      "url": "https://www.forbes.com/sites/billkoenig/2023/09/27/ford-family-extends-influence-on-automaker/",
+      "quote": "Dearborn, Michigan-based Ford went public in 1956. But the family retained 40% voting control through a special class of stock.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
