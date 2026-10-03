@@ -7,8 +7,84 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "ummc",
+      "placement": "partner",
+      "source": {
+        "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+        "date": "2025-07-08",
+        "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+        "note": "Translation: 'Sponsors of hockey club Avtomobilist - Ural Mining and Metallurgical Company'. The page footer also names ОАО «УГМК» as the club's general sponsor (Генеральный спонсор).",
+        "quote": "Спонсоры хоккейного клуба \"Автомобилист\" Уральская горно-металлургическая компания",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "winline",
+      "placement": "partner",
+      "source": {
+        "name": "Legalbet: Владелец Винлайн - кому принадлежит букмекерская контора",
+        "date": "2026",
+        "url": "https://legalbet.ru/shkola-bettinga/vladeletc-vinlajn-komu-prinadlezhit-bukmekerskaya-kontora/",
+        "note": "Translation: 'In hockey the bookmaker supports KHL teams such as Ak Bars, Barys, Traktor, Sibir, Avtomobilist, Dinamo-Minsk.' Page undated. Winline is also listed on the club's own sponsors page (Wayback capture of 8 July 2025).",
+        "quote": "В хоккее букмекер поддерживает такие команды КХЛ, как «Ак Барс», «Барыс», «Трактор», «Сибирь», «Автомобилист», «Динамо-Минск».",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "uralmashzavod",
+      "placement": "partner",
+      "source": {
+        "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+        "date": "2025-07-08",
+        "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+        "note": "This company description sits under the page's 'Спонсоры хоккейного клуба Автомобилист' (Sponsors of hockey club Avtomobilist) heading. Translation of quote: 'Uralmashzavod is Russia's largest producer of equipment for metallurgy and mining.'",
+        "quote": "УРАЛМАШЗАВОД - крупнейший в России производитель оборудования для металлургии и горнодобывающей промышленности",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "rmk",
+      "placement": "partner",
+      "source": {
+        "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+        "date": "2025-07-08",
+        "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+        "note": "This company description sits under the page's 'Спонсоры хоккейного клуба Автомобилист' (Sponsors of hockey club Avtomobilist) heading. Translation of quote: 'Russian Copper Company was founded in 2004. Today RMK is among Russia's largest copper producers.'",
+        "quote": "Русская медная компания основана в 2004 году. Сегодня РМК входит в число крупнейших производителей меди в России.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "alma-ceramica",
+      "placement": "partner",
+      "source": {
+        "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+        "date": "2025-07-08",
+        "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+        "note": "This company description sits under the page's 'Спонсоры хоккейного клуба Автомобилист' (Sponsors of hockey club Avtomobilist) heading. Translation of quote: 'Joint Stock Company Zavod keramicheskikh izdeliy is one of Russia's leading producers of ceramic tile.'",
+        "quote": "Акционерное общество «Завод керамических изделий» - один из ведущих производителей керамической плитки в России",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit. The KHL's own marketing blog (sports.ru, 13 September 2026) says Avtomobilist kept its playing kits unchanged from 2025-26. Individual shirt placements could not be verified from any source that opens here: the club site blocks this server and the last archived capture of its sponsors page is 8 July 2025. That page lists five club sponsors - UMMC (also named general sponsor in the site footer), Winline, Uralmashzavod, Russian Copper Company (RMK) and ALMA ceramica - all recorded as club partners, not shirt placements.",
   "change": null
 }

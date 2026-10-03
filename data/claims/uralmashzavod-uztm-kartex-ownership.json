@@ -1,0 +1,21 @@
+{
+  "id": "uralmashzavod-uztm-kartex-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "uk-uztm-kartex"
+  ],
+  "text": "UK UZTM-Kartex, the company whose main shareholder was Gazprombank from 2016 and which manages the UZTM-Kartex group including Uralmashzavod, was sold in majority on 16 March 2022: 51% passed to JSC Enlil Finance and 48.6% is held by the closed mutual fund 'Gazprombank - industrial investments'.",
+  "short": "51% of Uralmashzavod's holding company went to JSC Enlil Finance in March 2022.",
+  "source": {
+    "name": "Коммерсантъ-Урал: Уралмашзавод направит 95% чистой прибыли на погашение убытков прошлых лет",
+    "date": "2022-06-30",
+    "url": "https://www.kommersant.ru/doc/5436314",
+    "note": "Translation of quote: 'On 16 March 2022, 51% of UZTM-Kartex passed to JSC Enlil Finance; a further 48.6% belongs to ZPIF Gazprombank - industrial investments.' Enlil Finance's own shareholders are not public.",
+    "quote": "16 марта 2022 года 51% УЗТМ-Картэкс перешли АО «Энлиль Файненс», еще 48,6% принадлежат ЗПИФ «Газпромбанк - промышленные инвестиции».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
