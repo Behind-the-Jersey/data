@@ -15,11 +15,46 @@
         "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
         "date": "2023-06-19",
         "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        "quote": "Through the agreement, Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide). Visible on the front of the JCA Kings white BAL 2026 jersey, below the number, in the BAL's official 2026 team photo (cdn-bal.nba.com/manage/sites/3/2026/02/JCAKings-scaled.jpg, opened 2026-10-03)."
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+        "date": "2026-03-17",
+        "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+        "quote": "will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide outfitter deal beginning with the 2026 BAL season. The PUMA logo sits on the right chest of the JCA Kings 2026 BAL jersey in the BAL's official team photo (cdn-bal.nba.com/manage/sites/3/2026/02/JCAKings-scaled.jpg, opened 2026-10-03) and on the shorts in the BAL's 2026 Media Day portrait (cdn-bal.nba.com/manage/sites/3/2026/05/Babatunde-William-2-2048x1366.jpg, opened 2026-10-03). Ghana News Agency reported the same announcement on 2026-03-18 (gna.org.gh/2026/03/puma-named-official-outfitter-for-2026-basketball-africa-league/)."
+      }
+    },
+    {
+      "sponsorId": "qatar-foundation",
+      "placement": "back",
+      "source": {
+        "name": "NBA Communications (pr.nba.com): 2026 Basketball Africa League season - By the Numbers",
+        "date": "2026-05-25",
+        "url": "https://pr.nba.com/2026-basketball-africa-league-season-numbers/",
+        "quote": "PUMA; Qatar Foundation; QAVS; Rwanda Development Board; RwandAir; Rwanda Events; ServiceNow",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Qatar Foundation is named in the list of the record 22 marketing, merchandising and institutional partners that supported the BAL in the 2026 season. Its logo on the upper back of the team's 2026 BAL uniform (above the player number) is visible in the BAL's official game photo (cdn-bal.nba.com/manage/sites/3/2026/05/JCA-Kings-vs-ASC-Ville-Dakar-5-scaled.jpg, from the BAL news article 'Kings join group of winless teams in BAL history', opened 2026-10-03); the back of the white home jersey was not visible in available imagery."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+  "summary": "BAL 2026 league-standard uniform: Visit Rwanda (front, league partner), PUMA kit maker (chest and shorts, league outfitter) and Qatar Foundation (upper back, league partner), verified from the BAL's official 2026 photos of the team. No club-level shirt sponsor found for the 2026 season; the back of the white home jersey was not visible in available imagery.",
   "change": null
 }
