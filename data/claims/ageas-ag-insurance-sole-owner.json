@@ -1,0 +1,21 @@
+{
+  "id": "ageas-ag-insurance-sole-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "ageas"
+  ],
+  "text": "Ageas completed the acquisition in 2026 of the 25% shareholding in AG Insurance previously held by BNP Paribas Fortis, becoming the sole owner of Belgium's largest insurer.",
+  "short": "Ageas is the sole owner of AG Insurance.",
+  "source": {
+    "name": "Reinsurance News: Ageas becomes sole owner of AG Insurance, renews bancassurance partnership with BNP Paribas",
+    "date": "2026-05-01",
+    "url": "https://www.reinsurancene.ws/ageas-becomes-sole-owner-of-ag-insurance-renews-bancassurance-partnership-with-bnp-paribas/",
+    "quote": "has completed the acquisition of the 25% shareholding in AG Insurance SA/NV from BNP Paribas Fortis SA/NV, becoming the sole owner of its Belgian insurance subsidiary",
+    "note": "Ageas press release of 8 December 2025 (newsroom.ag.be) states 'With this transaction, Ageas will become 100% owner of AG, Belgium's market leading insurer'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
