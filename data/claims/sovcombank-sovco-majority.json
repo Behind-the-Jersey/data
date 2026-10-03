@@ -1,0 +1,21 @@
+{
+  "id": "sovcombank-sovco-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "sovco-capital-partners"
+  ],
+  "text": "As of 24 July 2024, MKAO SovCo Capital Partners and affiliated persons (shareholders owning more than 5% and top management) held 82.8% of Sovcombank's shares; a further 6.7% was held by sovereign funds of the Russian Federation, the Middle East and Asia combined, and 10.1% traded on the Moscow Exchange.",
+  "short": "SovCo Capital Partners and affiliates held 82.8% of Sovcombank as of 24 July 2024.",
+  "source": {
+    "name": "AK&M: Совкомбанк представил новую структуру акционерного капитала",
+    "date": "2024-08-05",
+    "url": "https://www.akm.ru/news/sovkombanke_predstavil_novuyu_strukturu_aktsionernogo_kapitala/",
+    "quote": "МКАО «Совко Капитал Партнерс» и аффилированные лица (владельцы более 5% акций, топ-менеджмент) - 82.8%; суверенные фонды РФ, стран Ближнего Востока и Азии - 6.7%; прочие с долей менее 1%, обращающиеся на Московской бирже - 10.1%.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "AK&M reports Sovcombank's own message on the new shareholding structure as of 24 July 2024."
+  },
+  "reviewed": false
+}

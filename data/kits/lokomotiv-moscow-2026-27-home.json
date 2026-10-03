@@ -12,14 +12,124 @@
       "sponsorId": "rzd",
       "placement": "front",
       "source": {
-        "name": "FC Lokomotiv – Partners",
-        "date": "2026-09-25",
+        "name": "FC Lokomotiv – Partners ('Спонсоры' page)",
+        "date": "2026-10-03",
         "url": "https://www.fclm.ru/club/partners/",
-        "note": "\"ОАО «РЖД» Генеральный спонсор ФК «Локомотив»\"."
+        "quote": "ОАО «РЖД» Генеральный спонсор ФК «Локомотив»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "'OAO RZD — general sponsor of FC Lokomotiv.' The РЖД logo is centre-front of the 2026/27 home shirt in the club's 21 July 2026 kit launch and in the club's own match photos (Локомотив–Крылья Советов, 16 Sep 2026, RPL)."
+      }
+    },
+    {
+      "sponsorId": "rzd",
+      "placement": "back",
+      "source": {
+        "name": "FC Lokomotiv – Partners ('Спонсоры' page)",
+        "date": "2026-10-03",
+        "url": "https://www.fclm.ru/club/partners/",
+        "quote": "ОАО «РЖД» Генеральный спонсор ФК «Локомотив»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Back placement: РЖД logo below the squad number, seen in the club's own match photos (Локомотив–Крылья Советов, 16 Sep 2026, https://www.fclm.ru/photo/n/lokomotiv-vs-krylia-sovetov-rpl-the-best-photos/)."
+      }
+    },
+    {
+      "sponsorId": "sovcombank",
+      "placement": "front",
+      "source": {
+        "name": "FC Lokomotiv: Совкомбанк – новый партнёр ФК «Локомотив»",
+        "date": "2025-07-19",
+        "url": "https://www.fclm.ru/news/n/sovkombank-partner/",
+        "quote": "Совкомбанк будет оказывать финансовую поддержку клубу, а логотип организации появится на игровой форме команды",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "'Sovcombank will financially support the club and its logo will appear on the playing shirt.' Front placement (below the РЖД logo) seen in the club's 16 Sep 2026 RPL match photos; long-term deal, reported by Sport Business Consulting (21 July 2025) as running to 2028."
+      }
+    },
+    {
+      "sponsorId": "betboom",
+      "placement": "front",
+      "source": {
+        "name": "FC Lokomotiv: BetBoom – премиальный партнёр ФК «Локомотив»",
+        "date": "2024-07-10",
+        "url": "https://www.fclm.ru/news/n/betboom-2024/",
+        "quote": "Букмекерская компания BetBoom стала премиальным спонсором московского футбольного клуба «Локомотив». Контракт рассчитан на 4 года",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Four-year premium-sponsor deal from July 2024, still listed as 'Премиальный партнёр' on the club partners page. Front placement (right chest) seen in the club's 16 Sep 2026 RPL match photos."
+      }
+    },
+    {
+      "sponsorId": "betboom",
+      "placement": "back",
+      "source": {
+        "name": "FC Lokomotiv: BetBoom – премиальный партнёр ФК «Локомотив»",
+        "date": "2024-07-10",
+        "url": "https://www.fclm.ru/news/n/betboom-2024/",
+        "quote": "Букмекерская компания BetBoom стала премиальным спонсором московского футбольного клуба «Локомотив». Контракт рассчитан на 4 года",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Back placement: BETBOOM across the shoulders above the player name, seen in the club's own 16 Sep 2026 RPL match photos (e.g. goal celebration photo of Pinaev)."
+      }
+    },
+    {
+      "sponsorId": "ttk",
+      "placement": "shorts",
+      "source": {
+        "name": "FC Lokomotiv – Partners ('Спонсоры' page)",
+        "date": "2026-10-03",
+        "url": "https://www.fclm.ru/club/partners/",
+        "quote": "АО «Компания ТрансТелеКом» Партнёр ФК «Локомотив»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "'AO TransTeleCom Company — partner of FC Lokomotiv.' ТТК logo on the left leg of the shorts, seen in the club's own 16 Sep 2026 RPL match photos."
+      }
+    },
+    {
+      "sponsorId": "fgk",
+      "placement": "shorts",
+      "source": {
+        "name": "FC Lokomotiv – Partners ('Спонсоры' page)",
+        "date": "2026-10-03",
+        "url": "https://www.fclm.ru/club/partners/",
+        "quote": "АО «Федеральная грузовая компания» Партнёр ФК «Локомотив»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "'AO Federal Freight Company (FGK) — partner of FC Lokomotiv.' ФГК logo on the left leg of the shorts below ТТК, seen in the club's own 16 Sep 2026 RPL match photos."
+      }
+    },
+    {
+      "sponsorId": "alfa-bank",
+      "placement": "league-partner",
+      "source": {
+        "name": "Kommersant: Альфа-Банк станет титульным партнером РПЛ со следующего сезона",
+        "date": "2026-04-17",
+        "url": "https://www.kommersant.ru/doc/8603582",
+        "quote": "Чемпионат страны получит название «Альфа-Банк Российская премьер-лига»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "The league is titled Alfa-Bank RPL from July 2026 (4-year deal); the Alfa-Bank RPL league patch is on the right sleeve of every club's shirt, seen on Lokomotiv's home shirt in the club's 16 Sep 2026 match photos. League-level deal: data/deals/russian-premier-league-alfa-bank.json."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "RZD general sponsor of Lokomotiv; front-shirt placement follows the club's partner listing, not confirmed against a kit launch.",
+  "sponsorsComplete": true,
+  "summary": "Home kit 2026-27 (own production, presented 21 July 2026): РЖД (RZD) centre-front and on the back below the number; Sovcombank on the front below RZD; BetBoom on the front right chest and across the back above the player name; TransTeleCom (ТТК) and Federal Freight Company (ФГК) on the shorts; Alfa-Bank RPL league patch on the right sleeve. Placements checked against the club's kit launch, partners page and its own RPL match photos of 16 Sep 2026.",
   "change": null
 }

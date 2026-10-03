@@ -16,5 +16,29 @@
       "by": "claude-review-282"
     }
   },
+  "additionalSources": [
+    {
+      "name": "UN Global Compact: participant profile of JSC Russian Railways",
+      "date": "2026-10-03",
+      "url": "https://unglobalcompact.org/what-is-gc/participants/5702",
+      "quote": "Ownership: State-owned",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "UN Global Compact company profile lists 'Ownership: State-owned' for JSC Russian Railways. No publication date on the page; opened 3 Oct 2026."
+    },
+    {
+      "name": "Sanctions Finder: entry for Open Joint Stock Company Russian Railways (US E.O. 14024 listing)",
+      "date": "2026-10-03",
+      "url": "https://sanctions-finder.com/sanction/open-joint-stock-company-russian-railways/OPEN%20JOINT%20STOCK%20COMPANY%20RUSSIAN%20RAILWAYS",
+      "quote": "OFAC identified the following 11 Russian entities as being owned or controlled by, or having acted or purposed to act for or on behalf of, directly or indirectly, the GoR: Open Joint Stock Company Russian Railways",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Sanctions Finder reproduces the official US Treasury reason (home.treasury.gov/news/press-releases/jy0608): OFAC identified Russian Railways as owned or controlled by the Government of the Russian Federation. Opened 3 Oct 2026."
+    }
+  ],
   "reviewed": false
 }

@@ -1,14 +1,16 @@
 {
   "id": "sovcombank",
   "name": "Sovcombank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "sovco-capital-partners",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "82.8% held by MKAO SovCo Capital Partners and affiliated persons (24 July 2024, AK&M); listed on the Moscow Exchange; US OFAC describes it as privately owned. Nothing found.",
+  "claimIds": [
+    "sovcombank-sovco-majority"
+  ],
   "aliases": [
     "Совкомбанк"
   ],
-  "note": "Official bank of HC Severstal."
+  "note": "Official partner of FC Lokomotiv since July 2025 (logo on the front of the playing shirt, below RZD; deal reported as running to 2028). Also partner of HC Severstal. The bank's reported structure (AK&M, July 2024) also lists 6.7% held collectively by sovereign funds of the Russian Federation, the Middle East and Asia; the Russian fund share is not broken out."
 }

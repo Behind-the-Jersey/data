@@ -1,15 +1,18 @@
 {
   "id": "rzd",
   "name": "Russian Railways (RZD)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "rzd",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "OAO Russian Railways is 100% owned by the Russian Federation (RZD charter, clause 32).",
+  "claimIds": [
+    "russian-federation-record",
+    "rzd-state-owned"
+  ],
   "aliases": [
     "РЖД",
     "Российские железные дороги"
   ],
-  "note": "Partner of HC Sochi. Lead: state-owned railway operator; Lokomotiv Yaroslavl is linked to RZD. Primary document not yet opened."
+  "note": "General sponsor of FC Lokomotiv (front and back of the 2026-27 home shirt; club partners page) and partner of HC Sochi. Also linked to Lokomotiv Yaroslavl. Propose severe: the Russian Federation wholly owns RZD and has been at war with Ukraine since February 2022 (mirrors the existing Aeroflot/Gazprom 'severe' ratings)."
 }

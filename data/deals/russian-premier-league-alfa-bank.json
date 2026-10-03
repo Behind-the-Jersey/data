@@ -4,15 +4,20 @@
   "orgName": "Alfa-Bank Russian Premier League",
   "sponsorId": "alfa-bank",
   "placement": "league-partner",
-  "from": null,
+  "from": "2026-07",
   "to": null,
   "value": null,
   "source": {
-    "name": "Telegram @premierliga (official RPL channel)",
-    "date": "2026-09-25",
-    "url": "https://t.me/s/premierliga",
-    "note": "Channel title and self-description: \"Официальный телеграм-канал Альфа-Банк Российской Премьер-Лиги (Альфа-Банк РПЛ)\"."
+    "name": "Kommersant: Альфа-Банк станет титульным партнером РПЛ со следующего сезона",
+    "date": "2026-04-17",
+    "url": "https://www.kommersant.ru/doc/8603582",
+    "quote": "Со следующего сезона Альфа-Банк станет новым титульным партнером Российской премьер-лиги (РПЛ), сообщает пресс-служба турнира. Соглашение рассчитано на четыре года.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "short": "Kommersant"
   },
   "leagueId": "russian-premier-league",
-  "note": "The league is named Alfa-Bank Russian Premier League for sponsorship; contract term not published."
+  "note": "The league is named Alfa-Bank Russian Premier League for sponsorship from July 2026 (four-year deal); the Alfa-Bank RPL league patch appears on the sleeves of all clubs' shirts (seen on Lokomotiv's 16 Sep 2026 match photos). Kommersant cites a reported value of about 1 billion roubles per year (not recorded: schema accepts only GBP/EUR/USD)."
 }

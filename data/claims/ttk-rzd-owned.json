@@ -1,0 +1,35 @@
+{
+  "id": "ttk-rzd-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "transtelecom",
+    "rzd"
+  ],
+  "text": "The main shareholder of TransTeleCom (TTK) is OAO RZD (Russian Railways), which holds 99.99% of the company's shares.",
+  "short": "RZD holds 99.99% of TransTeleCom.",
+  "source": {
+    "name": "TTK: О компании (about the company)",
+    "date": "2026-10-03",
+    "url": "https://www.ttk-com.ru/destinations/about/",
+    "quote": "Основной акционер ТТК – ОАО «РЖД», владеет 99,99% акций Компании.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "'The main shareholder of TTK is OAO RZD, holding 99.99% of the company's shares.' Page has no publication date; opened 3 Oct 2026."
+  },
+  "additionalSources": [
+    {
+      "name": "FC Lokomotiv – Partners ('Спонсоры' page)",
+      "date": "2026-10-03",
+      "url": "https://www.fclm.ru/club/partners/",
+      "quote": "Основной акционер ТТК – ОАО «РЖД», владеет 99,99% акций Компании.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Same sentence in the TTK partner profile on FC Lokomotiv's site; page has no publication date, opened 3 Oct 2026."
+    }
+  ],
+  "reviewed": false
+}
