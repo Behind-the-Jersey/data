@@ -13,8 +13,13 @@
       "placement": "patch",
       "source": {
         "name": "NJ.com",
-        "date": "2026-04-02",
-        "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html"
+        "date": "2026-04-22",
+        "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html",
+        "quote": "Since July 21, 2023, Yankees’ home and away game jerseys have included a Starr Insurance logo patch on the left sleeve.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
