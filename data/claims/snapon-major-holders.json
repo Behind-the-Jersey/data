@@ -1,0 +1,21 @@
+{
+  "id": "snapon-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "snap-on-inc"
+  ],
+  "text": "Snap-on Incorporated is a listed US company; its 2026 proxy statement names only The Vanguard Group (12.4%) and BlackRock (8.0%) as beneficial owners of more than 5% of its common stock, with no state or sovereign-fund holder.",
+  "short": "Snap-on is NYSE-listed; Vanguard (12.4%) and BlackRock (8.0%) are its only >5% holders.",
+  "source": {
+    "name": "Snap-on Incorporated 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+    "date": "2026-03-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000101/sna-20260311.htm",
+    "quote": "The Vanguard Group, Inc. (2) 6,430,977 12.4% BlackRock, Inc. (3) 4,162,919 8.0%",
+    "note": "From Table 2, 'Security Ownership of Certain Beneficial Owners and Management'; the table covers 'each person or entity known to us to be the beneficial owner of more than 5% of our common stock, as of the close of business on March 2, 2026'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schaeffler-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "schaeffler-ag"
+  ],
+  "text": "Schaeffler AG is, per the group's own shareholders page, 'predominantly in family ownership': shareholder Maria-Elisabeth Schaeffler-Thumann and her son Georg F. W. Schaeffler (family shareholder of INA-Holding Schaeffler GmbH & Co. KG; Georg F. W. Schaeffler chairs Schaeffler AG's supervisory board).",
+  "short": "Schaeffler is predominantly owned by the Schaeffler family.",
+  "source": {
+    "name": "Schaeffler Group – Group / Shareholders (Wayback Machine snapshot)",
+    "date": "2026",
+    "url": "http://web.archive.org/web/20260505080255/https://www.schaeffler.com/en/group/shareholders/",
+    "quote": "Schaeffler is a leading global high-tech company predominantly in family ownership, and is based in Herzogenaurach, Germany.",
+    "note": "The live schaeffler.com pages block scripts (HTTP 403 to scripted requests); the 5 May 2026 Wayback Machine snapshot of the official page was checked.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

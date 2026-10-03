@@ -2,13 +2,16 @@
   "id": "bmw-m",
   "name": "BMW M",
   "ownerId": "bmw-ag",
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "BMW M GmbH is a wholly owned subsidiary of BMW AG; BMW AG's largest voting-rights holders are Stefan Quandt and Susanne Klatten. Nothing found.",
+  "claimIds": [
+    "bmw-m-ownership",
+    "bmw-ag-shareholders"
+  ],
   "aliases": [
     "bmw m gmbh"
   ],
-  "note": "Official Car of MotoGP (motogp.com/en/sponsors). BMW M is BMW AG's high-performance/motorsport division; BMW AG is a Frankfurt-listed manufacturer with no state shareholder."
+  "note": "Title carried in the team name 'BMW M Team WRT' (BMW M Motorsport's WEC/IMSA works team operated by WRT). Rating note: no state stake in BMW AG and no human-rights finding against BMW located; Sheffield Hallam's Uyghur forced-labour supply-chain work is an unsourced lead listed in the pull request."
 }
