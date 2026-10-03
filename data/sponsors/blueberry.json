@@ -3,12 +3,12 @@
   "name": "Blueberry",
   "ownerId": "blueberry-markets",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Owned by Blueberry Markets Pty Ltd. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "blueberry-markets-ownership"
   ],
   "aliases": [],
-  "note": "Team Partner of the BONDS Flying Roos (sailgp.com team page, fetched 2026-10-02). Rating note: the brand of an Australian private forex and CFD broker; no state and no company record sourced. The owner is named from Blueberry's own site (managing director Dean Hyde) plus the company footer; no shareholder register was found."
+  "note": "Team Partner of the BONDS Flying Roos (sailgp.com team page, read 2026-10-02). The brand belongs to Blueberry Markets (claim blueberry-markets-ownership), but that claim names only a managing director (Dean Hyde), not an owner, and no shareholder register was found; Blueberry's own legal page also lists group entities in Mauritius, Vanuatu and the UAE. Without a source naming the owner of Blueberry Markets Pty Ltd, the sponsor stays unrated. Proposed tier: none if a maintainer accepts the ownership evidence."
 }
