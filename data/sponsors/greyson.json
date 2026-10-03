@@ -1,14 +1,16 @@
 {
   "id": "greyson",
   "name": "Greyson Clothiers",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "greyson-clothiers",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Detroit golf-apparel brand founded by Charlie Schaefer; its 2025 Series A was led by NewBound Ventures. Nothing found.",
+  "claimIds": [
+    "greyson-ownership"
+  ],
   "aliases": [
     "Greyson"
   ],
-  "note": "Legion XIII and Ripper GC partner (team pages, fetched 2026-09-25)."
+  "note": "Rating note: founder-led private apparel company (greyson-ownership; company release, 2025-02-07) whose $20m Series A was led by NewBound Ventures with Tom Nolan, David Chu and NewBound's Michael Hoffman joining its board; its full share register isn't public. No state or state-fund shareholder named in any source, and no court, regulator, UN-body or major-NGO human-rights finding against the company was found. Official apparel sponsor of Ripper GC and partner of Legion XIII (LIV Golf announcements)."
 }

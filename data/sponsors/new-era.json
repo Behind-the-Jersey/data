@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "new-era-cap",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "US headwear company controlled by the founding Koch family, with ACON Investments a significant minority investor. Nothing found.",
+  "claimIds": [
+    "new-era-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Rating note: New Era Cap, LLC is controlled by its founding Koch family (new-era-ownership; Reuters, 2024-06-06) with private-equity firm ACON Investments holding a significant stake; it completed the acquisition of '47 in August 2024. No state or state-fund owner, and no court, regulator, UN-body or major-NGO human-rights finding against the company was found. Official Cap of LIV Golf and its 13 teams (livgolf.com/partners, checked 2026-10-03); shown as a partner on every LIV team page, including Ripper GC's (league deal recorded in data/deals/liv-new-era.json)."
 }

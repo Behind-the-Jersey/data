@@ -1,0 +1,34 @@
+{
+  "id": "airasia-group-berhad-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "airasia-group-berhad"
+  ],
+  "text": "The AirAsia brand's listed parent is AirAsia X Berhad, trading as AirAsia Group Berhad: in January 2026 it completed the acquisition of 100% of AirAsia Berhad and AirAsia Aviation Group Limited from Capital A, consolidating all of the group's airlines under the listed company. Co-founders Tan Sri Tony Fernandes and Datuk Kamarudin Meranun continue to be substantial shareholders via direct and indirect interests in the company.",
+  "short": "AirAsia is owned by AirAsia Group Berhad (listed in Malaysia); co-founders Fernandes and Meranun are substantial shareholders.",
+  "source": {
+    "name": "AirAsia Newsroom: Tune Group Sdn. Bhd. ceases to be a substantial shareholder in AirAsia X Berhad in line with conditions set out in the circulars to shareholders in AirAsia's aviation business consolidation",
+    "date": "2026-01-06",
+    "url": "https://newsroom.airasia.com/news/tune-group-sdn-bhd-ceases-to-be-a-substantial-shareholder-in-airasia-x-berhad-in-line-with-conditions-set-out-in-the-circulars-to-shareholders-in-airasias-aviation-business-consolidation",
+    "quote": "the co-founders, Tan Sri Tony Fernandes and Datuk Kamarudin Meranun will continue to be substantial shareholders via their direct and indirect interests in AirAsia X",
+    "note": "The same AirAsia X Berhad statement describes 'the Proposed Acquisition by AirAsia X of 100% equity interest in AirAsia Aviation Group Limited and AirAsia Berhad' (completed; the acquired airlines then traded under the listed group).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Edge Malaysia: Tune Group ceases to be substantial shareholder in AirAsia X after selling nearly 15% stake",
+      "date": "2026-01-06",
+      "url": "https://theedgemalaysia.com/node/788208",
+      "quote": "The plan, first unveiled in April 2024, involves the acquisition of AirAsia Aviation Group Ltd and AirAsia Bhd for RM6.8 billion by AirAsia X.",
+      "note": "The Edge also reports Tony Fernandes holds a 2.5% direct stake in AirAsia X and Kamarudin Meranun 8.7% (as at January 2026, before Capital A's distribution of its AirAsia X shares to its own shareholders).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

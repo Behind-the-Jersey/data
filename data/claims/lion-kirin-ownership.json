@@ -1,0 +1,46 @@
+{
+  "id": "lion-kirin-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lion",
+    "kirin-holdings"
+  ],
+  "text": "Kirin Holdings Company Limited assumed 100 per cent ownership of Lion Nathan in 2009; Lion Nathan is now Lion, the company behind Hahn.",
+  "short": "Lion, the company behind Hahn, is wholly owned by Japan's Kirin Holdings.",
+  "source": {
+    "name": "Kirin Holdings News Release, 2009-09-17: Updated Process of Making Lion Nathan a Wholly-Owned Subsidiary of Kirin Holdings Company",
+    "date": "2009-09-17",
+    "url": "https://www.kirinholdings.com/en/newsroom/release/2009/0917_01.html",
+    "quote": "Kirin has offered to acquire the remaining issued shares in Lion Nathan that it does not already own.",
+    "note": "Kirin's own release, after Lion Nathan shareholders approved the scheme that made Lion Nathan a wholly-owned Kirin subsidiary on 21 October 2009 (the release states the scheduled implementation and delisting dates, with 98.75% of votes in favour).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Lion: History (lionco.com)",
+      "date": "2026",
+      "url": "https://www.lionco.com/history",
+      "quote": "Kirin Holdings Company Limited assumes 100 per cent ownership of Lion Nathan.",
+      "note": "Under the 2009 entry 'KIRIN fully acquires LION'. Page without a date; opened 2026-10-03. The site serves 403 to scripts; open by hand.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Myanmar: Leaked documents reveal global business ties to military crimes - Amnesty International",
+      "date": "2020-09-10",
+      "url": "https://www.amnesty.org/en/latest/press-release/2020/09/mehl-military-links-to-global-businesses/",
+      "quote": "its drinks, such as Kirin, San Miguel, Lion and Fat Tire are sold in bars and shops all over the world",
+      "note": "The sentence begins 'Kirin [is one of the world's] largest beer brewers, and its drinks, such as...' - it describes Lion as one of Kirin's drinks brands.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,14 +1,16 @@
 {
   "id": "airasia",
   "name": "AirAsia",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "airasia-group-berhad",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Airline brand of AirAsia Group Berhad, listed in Malaysia; co-founders Tony Fernandes and Kamarudin Meranun are substantial shareholders. Nothing found.",
+  "claimIds": [
+    "airasia-group-berhad-ownership"
+  ],
   "aliases": [
     "Air Asia"
   ],
-  "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25)."
+  "note": "Rating note: AirAsia's listed parent (AirAsia X Berhad, now AirAsia Group Berhad, Bursa Malaysia) consolidated all group airlines in January 2026 by buying 100% of AirAsia Berhad and AirAsia Aviation Group; co-founders Fernandes and Meranun remain substantial shareholders directly and indirectly (airasia-group-berhad-ownership). No state or state-fund owner in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company within METHOD's scope was found. The 2015-2020 Airbus bribery affair, in which AirAsia executives were named, is bribery/corruption, which METHOD.md excludes, so no claim was written for it. Ripper GC partner since April 2025 (AirAsia newsroom, 2025-04-30); still on the team page 2026-10-03."
 }
