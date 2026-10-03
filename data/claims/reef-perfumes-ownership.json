@@ -1,0 +1,33 @@
+{
+  "id": "reef-perfumes-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "al-majed-family"
+  ],
+  "text": "Reef, the Saudi fragrance brand (Reef Perfumes), is controlled by the Al Majed brothers: its UK-registered company Reef Perfumes Ltd lists Abdulaziz Bader Al Majed, Faisal Bader Al Majed and Fahad Bader Al Majed as persons with significant control, each holding more than 25% but not more than 50% of its shares; Fahad Al Majed is Reef Group's CEO.",
+  "short": "Reef Perfumes is controlled by three Al Majed brothers (25-50% each per UK Companies House).",
+  "source": {
+    "name": "UK Companies House: REEF PERFUMES LTD (company 15364299), Persons with significant control",
+    "date": "2026-10-03",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15364299/persons-with-significant-control",
+    "note": "Register page, current as of the check date; lists the three Al Majed brothers, each with 'Ownership of shares – More than 25% but not more than 50%'.",
+    "quote": "Persons with significant control: 3 active persons with significant control / 0 active statements",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Global Business Outlook: Reef Group: Embodying excellence and teamwork",
+      "date": "2026-05-12",
+      "url": "https://globalbusinessoutlook.com/business-leaders/reef-group-embodying-excellence-and-teamwork",
+      "quote": "The visionary behind Reef Group’s position as Saudi Arabia’s market-leading fragrance house is its CEO, Fahad bin Badr Al-Majed",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
