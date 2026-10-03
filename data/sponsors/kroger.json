@@ -3,12 +3,22 @@
   "name": "Kroger",
   "ownerId": "kroger-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "A listed company whose largest holders are investment firms.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Concern (held for a maintainer): a listed company whose largest holders are US investment firms; in June 2025 a Michigan jury ordered it to pay more than $75m to an HVAC technician left partly handless by a refrigerant explosion.",
   "claimIds": [
-    "kroger-major-holders-2026"
+    "kroger-major-holders-2026",
+    "kroger-injury-verdict-2025"
   ],
   "aliases": [],
-  "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
+  "note": "Held for a maintainer, proposed tier concern: the new record claim kroger-injury-verdict-2025 is a court finding of injury against the company itself, and no state or fund is in the ownership chain, so the September 2026 'none' is held back. In June 2025 a Michigan jury ordered Kroger to pay more than $75m to a technician left partly handless by a refrigerant explosion at a Kroger store (kroger-injury-verdict-2025); Kroger has appealed. Earlier: re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md).",
+  "why": {
+    "text": "Kroger's largest owners are US investment firms (BlackRock, Berkshire Hathaway and State Street), so no state is behind it. In June 2025 a jury ordered Kroger to pay more than $75 million to an HVAC technician who lost part of both hands when a defective refrigerant exploded at an Oakland County store — a court finding of injury against the company itself.",
+    "claimIds": [
+      "kroger-injury-verdict-2025",
+      "kroger-major-holders-2026"
+    ],
+    "messageLine": "In June 2025 a Michigan jury ordered Kroger to pay more than $75m over an HVAC technician's injuries.",
+    "status": "draft"
+  }
 }

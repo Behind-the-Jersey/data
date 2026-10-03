@@ -1,0 +1,20 @@
+{
+  "id": "nintendo-owner-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nintendo-owner"
+  ],
+  "text": "Nintendo of America Inc. is a wholly-owned subsidiary of Nintendo Co., Ltd.",
+  "short": "Nintendo of America is a wholly-owned subsidiary of Nintendo Co., Ltd.",
+  "source": {
+    "name": "Nintendo Co., Ltd. – Company History (Corporate Information)",
+    "date": "2026",
+    "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+    "quote": "Established a wholly-owned subsidiary, Nintendo of America Inc., in New York, U.S.A.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
