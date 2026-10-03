@@ -3,9 +3,9 @@
   "name": "Milwaukee Tool",
   "ownerId": "techtronic-industries",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "MILWAUKEE is a brand of Techtronic Industries, listed on the Hong Kong Stock Exchange, where the Pudwill family is the largest shareholder and the remaining ownership is largely institutional. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "milwaukee-techtronic-brand",
     "techtronic-shareholders"
@@ -13,5 +13,5 @@
   "aliases": [
     "milwaukee"
   ],
-  "note": "Heavy-duty power-tool maker; joined the Alpine endurance project for 2026 per the club's 19/03/2026 release. Shareholding per TTI's 2026 interim report (claim techtronic-shareholders): the Pudwill family is the largest shareholder; the only substantial-shareholder entries are JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates (5-11% each, largely custody and lending positions), so no state or fund is in play."
+  "note": "Heavy-duty power-tool maker; joined the Alpine endurance project for 2026 per the club's 19/03/2026 release. Shareholding per TTI's 2026 interim report (claim techtronic-shareholders): the Pudwill family is the largest shareholder; the only substantial-shareholder entries are JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates (5-11% each, largely custody and lending positions), so no state or fund is in play. Company-test question left for a maintainer, so the tier is 'unrated' (the PR proposed 'none'): U.S. Customs and Border Protection issued a Withhold Release Order on 10 April 2024 against Shanghai Select Safety Products Company, Limited and two subsidiaries, detaining their work gloves 'based on information that reasonably indicates the use of convict labor' (https://www.cbp.gov/newsroom/national-media-release/cbp-issues-withhold-release-order-shanghai-select-safety-products; mirrored at business-humanrights.org, which describes Shanghai Select as a supplier to Milwaukee Tool). In June 2024 former Chinese prisoner Lee Ming-che sued Milwaukee Tool and Techtronic Industries in Milwaukee federal court, alleging he was forced to make work gloves for a Milwaukee supplier while jailed at Chishan prison (NPR, 08/08/2024; BHRRC timeline, 27/06/2024); the Congressional-Executive Commission on China questioned the company over the allegations in July 2023 (Reuters, 11/07/2023). Milwaukee Tool denies the allegations, says its investigation found no evidence, and — per CECC chair Chris Smith's October 2023 statement — traced them to counterfeit gloves and cut ties with the manufacturer."
 }
