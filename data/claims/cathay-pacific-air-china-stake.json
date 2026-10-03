@@ -1,0 +1,35 @@
+{
+  "id": "cathay-pacific-air-china-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "cathay-pacific-airways",
+    "air-china"
+  ],
+  "text": "Air China's effective interest in Cathay Pacific Airways is 29.98%.",
+  "short": "Air China holds an effective interest of 29.98% in Cathay Pacific",
+  "source": {
+    "name": "Air China Limited: Interim Report 2025 (note 12, Interests in Associates — Cathay Pacific)",
+    "date": "2025-08-28",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091701034.pdf",
+    "quote": "Group’s effective interest 29.98% 29.98%",
+    "note": "Interim report for the six months ended 30 June 2025, authorised for issue on 28 August 2025. In note 12 'Interests in Associates', under the heading 'Cathay Pacific', the reconciliation table shows 'Group’s effective interest 29.98%' at both 30 June 2025 and 31 December 2024.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cathay Pacific Airways Limited: Annual Report 2025 (Directors' Report, substantial shareholders)",
+      "date": "2026-04-09",
+      "url": "https://www.cathaypacific.com/content/dam/cx/about-us/investor-relations/interim-annual-reports/en/2025_cx_annual_report_en.pdf",
+      "quote": "1,930,516,334 ordinary shares indirectly held by Air China and its subsidiaries CNAC, Most Known Investments Limited, Super Supreme Company Limited and Total Transform Group Limited",
+      "note": "Annual Report 2025 for the year ended 31 December 2025, published on 9 April 2026. The substantial shareholders table (page 52 of the report) lists Air China among the holders of 4,827,269,423 shares deemed interested under the 2006 shareholders' agreement; note (a)(ii) breaks the Air China group's interest into the shares held by its wholly owned subsidiaries.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

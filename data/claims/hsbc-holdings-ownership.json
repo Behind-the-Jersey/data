@@ -1,0 +1,34 @@
+{
+  "id": "hsbc-holdings-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "hsbc-holdings"
+  ],
+  "text": "HSBC's principal holding company is HSBC Holdings plc, a public limited company incorporated in England, listed on the London, Hong Kong, New York and Bermuda stock exchanges. Among the major shareholdings notified to HSBC Holdings, BlackRock held 9.09% of the ordinary shares (11 July 2025) and Ping An Asset Management 7.98% (7 May 2024).",
+  "short": "HSBC is owned by its listed holding company HSBC Holdings plc",
+  "source": {
+    "name": "HSBC: Group structure (company website)",
+    "date": "2026-10-04",
+    "url": "https://www.hsbc.com/investors/investing-in-hsbc/group-structure",
+    "quote": "Our principal holding company, HSBC Holdings plc, is a public limited company incorporated in England.",
+    "note": "Undated page; date is the day it was opened. Same page: 'Headquartered in London, HSBC is listed on the London, Hong Kong, New York and Bermuda stock exchanges.' The simplified structure chart is as at 28 January 2026.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "HSBC Holdings plc: Annual Report and Accounts 2025 (Notifiable interests in share capital)",
+      "date": "2026",
+      "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2025/annual/pdfs/hsbc-holdings-plc/260225-annual-report-and-accounts-2025.pdf",
+      "quote": "BlackRock, Inc. gave notice on 16 July 2025 that on 11 July 2025 it had the following interests in HSBC Holdings ordinary shares: a long position of 1,586,341,122 shares",
+      "note": "Annual Report and Accounts 2025 for the year ended 31 December 2025 (Report of the Directors, 'Notifiable interests in share capital'). Same list: the notice 'represent[s] 9.09% and 0.04%' of the ordinary shares in issue; 'Ping An Asset Management Co., Ltd. gave notice on 10 May 2024 that on 7 May 2024 it had a long position of 1,502,584,731 in HSBC Holdings ordinary shares, representing 7.98% of the ordinary shares in issue at 7 May 2024.'",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
