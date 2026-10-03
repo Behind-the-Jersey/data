@@ -3,9 +3,9 @@
   "name": "Tameeni Insurance",
   "ownerId": "rasan-information-technology",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Tameeni Electronic Insurance Brokerage is wholly owned by Rasan Information Technology, a Saudi company listed on the Saudi Exchange (8313); its 5%+ shareholders are Impact46-linked fund vehicles and four individuals. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "tameeni-rasan-ownership",
     "rasan-substantial-shareholders"
@@ -14,5 +14,5 @@
     "Tameeni",
     "تأميني"
   ],
-  "note": "Insurance-comparison platform; badge on the upper chest of many Saudi Pro League shirts in 2026-27."
+  "note": "Insurance-comparison platform; badge on the upper chest of many Saudi Pro League shirts in 2026-27. Unrated — ownership not fully traceable: Tameeni is wholly owned by listed Rasan Information Technology (Tadawul: 8313), whose IPO prospectus names four individuals as 5%+ holders but also two custodian vehicles holding 13.06% and 4.49% (post-offering) on behalf of Impact46-managed venture funds (Venture Capital InsurTech Fund and Impact Growth Fund); those funds' investors are undisclosed, and Saudi state fund-of-funds SVC has publicly invested $30m in Impact46's Fund III (Saudi Press Agency, 2 October 2023), so a state-fund stake behind Rasan's largest line cannot be excluded."
 }
