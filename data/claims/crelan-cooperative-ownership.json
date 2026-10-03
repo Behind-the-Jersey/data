@@ -1,0 +1,21 @@
+{
+  "id": "crelan-cooperative-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "crelan"
+  ],
+  "text": "Crelan is a 100% cooperative Belgian bank: the cooperative fund CrelanCo (SC/CV) is its 100% shareholder, and more than 291,000 customers are cooperative shareholders.",
+  "short": "Crelan is wholly owned by the cooperative CrelanCo.",
+  "source": {
+    "name": "Crelan: 'Les actionnaires de Crelan' (the shareholders of Crelan)",
+    "date": "2026",
+    "url": "https://www.crelan.be/fr/cooperateurs/article/les-actionnaires-de-crelan",
+    "quote": "La solide caisse coopérative CrelanCo SC est actionnaire de Crelan à 100%.",
+    "note": "Same page: 'Crelan est aussi une banque coopérative à part entière.' and more than 291,000 customers are cooperative shareholders. Dutch version: https://www.crelan.be/nl/cooperanten/artikel/de-aandeelhouders-van-crelan",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
