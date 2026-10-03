@@ -13,9 +13,10 @@
       "placement": "partner",
       "source": {
         "name": "LIV Golf: Korean Golf Club partners with AMAZINGCRE for the 2026 LIV Golf season",
-        "date": "2026-02-02",
+        "date": "2026-02",
         "url": "https://www.livgolf.com/news/korean-golf-club-partners-with-amazingcre-for-the-2026-liv-golf-season-x5176",
         "quote": "Korean Golf Club of the LIV Golf League has announced a new partnership with AMAZINGCRE, the premium Korean golfwear brand",
+        "note": "The page shows no exact date ('8 months ago' when opened 2026-10-03); published shortly before the 2026 season.",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
@@ -64,6 +65,6 @@
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Team partners 2026: PLUS (Hanwha Life), AmazingCre, Paradise Hotel Busan, New Era. Captain: Byeong Hun An. Renamed from Iron Heads GC for 2026.",
+  "summary": "Team partners 2026: PLUS (Hanwha Life), AmazingCre, Paradise Hotel Busan, New Era. Captain: Byeong Hun An. Renamed from Iron Heads GC for 2026. sponsorsComplete: false - the partner-level list is complete per the official LIV Golf sources cited, but actual on-apparel sponsor placements cannot be documented from official images (as with the other 2026 LIV kits).",
   "change": null
 }
