@@ -1,0 +1,20 @@
+{
+  "id": "alphabet-inc-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "alphabet-inc"
+  ],
+  "text": "In Alphabet Inc.'s 2026 proxy statement, the 'Other > 5% Security Holders' table lists only BlackRock, Inc., with 6.1% of Class A common stock (2.5% of total voting power); co-founders Larry Page and Sergey Brin hold 46.5% and 42.9% of Class B common stock, representing 27.4% and 25.3% of total voting power. The proxy notes Vanguard disaggregated its holdings reporting in January 2026 and that Alphabet does not know whether any single Vanguard subsidiary exceeds 5%.",
+  "short": "Alphabet's 2026 proxy lists BlackRock (6.1% of Class A) as its only >5% outside holder; founders control the Class B votes.",
+  "source": {
+    "name": "Alphabet Inc. 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+    "date": "2026-04-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
+    "quote": "Other > 5% Security Holders (7) BlackRock, Inc. (8) 356,934,964 6.1",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

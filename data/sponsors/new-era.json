@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "new-era-cap",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by New Era Cap, LLC, a family-owned (Koch) company with a significant ACON Investments stake. Nothing found.",
+  "claimIds": [
+    "new-era-cap-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Rating note: family-owned by the Koch family (fourth-generation CEO Christopher H. Koch), first institutional investor ACON Investments holds a significant stake; MLB, the NFL and the NBA became minority owners through ACON's August 2022 continuation fund (ACON's own release; Apollo, GCM Grosvenor, Hamilton Lane and Neuberger Berman backed the fund on behalf of managed funds). No state or state-fund owner identified."
 }
