@@ -61,7 +61,7 @@
         "date": "2026",
         "url": "https://www.fiawec.com/en/car/2026/12",
         "quote": "Tyre partner",
-        "note": "Michelin is listed as the tyre partner of the #12/#38 Cadillac entries; it is also a series-wide WEC partner.",
+        "note": "Michelin is listed as the tyre partner of the #12/#38 Cadillac entries: the entry sheet's 'Tyre partner' field shows the Michelin logo (image alt text 'Michelin'); the bare label 'Tyre partner' is what the page has as text. Michelin is also a series-wide WEC partner and appears in the jotasport.com partners strip.",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
@@ -76,7 +76,7 @@
         "date": "2026",
         "url": "https://jotasport.com/",
         "quote": "Throughout our 2026 LMDh program we have secured partnerships with some of the biggest global brands including",
-        "note": "Mobil logo in the Our Partners section of jotasport.com; the logo links to mobil.co.uk. Recorded under the existing sponsor mobil-1 (the repo's ExxonMobil brand record). Page without a date; opened 2026-10-03.",
+        "note": "Mobil partner logo in the Our Partners section of jotasport.com: the logo image (file Daco_5785266.png) is the 'Mobil 1' wordmark and links to mobil.co.uk. Recorded under the existing sponsor mobil-1 (the repo's ExxonMobil brand record). Page without a date; opened 2026-10-03.",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
@@ -145,6 +145,6 @@
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026 WEC Hypercar entry (#12/#38 Cadillac V-Series.R). Front placements are the three brands carried in the team name - Cadillac, Hertz and JOTA - per the repo's WEC convention (team title/name brands mapped to front). Partners from the team's own partners page: Mobil, HRX, Bollé Safety, BRADY and Singer, plus Michelin as the entry's tyre partner per the official FIA WEC entry sheet. The partners page also shows a 'Hertz Racing Gold' logo (a Hertz sub-brand, counted under hertz) and one further logo (podium-13.png) that could not be identified, so the list is not marked complete.",
+  "summary": "2026 WEC Hypercar entry (#12/#38 Cadillac V-Series.R). Front placements are the three brands carried in the team name - Cadillac, Hertz and JOTA - per the repo's WEC convention (team title/name brands mapped to front). Partners from the team's own partners page (jotasport.com 'Our Partners' strip): Mobil 1, HRX, Bollé Safety, BRADY and Singer, plus Michelin as the entry's tyre partner per the official FIA WEC entry sheet (and the Michelin logo also appears in the partners strip). Every logo in the partners strip is accounted for: the strip also shows a 'Hertz Racing Gold' logo (a Hertz sub-brand, counted under hertz), a '13 podiums in 13 years at the 24 Hours of Le Mans' achievement badge (podium-13.png, not a sponsor) and an FIA championship logo (fia-mono-3.png, not a sponsor). sponsorsComplete stays false because the partners page presents the strip as 'some of the biggest global brands including' - it does not claim to list every partner.",
   "change": null
 }
