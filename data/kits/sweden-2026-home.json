@@ -1,0 +1,30 @@
+{
+  "id": "sweden-2026-home",
+  "clubId": "sweden",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Football Fashion: Sweden World Cup 2026 adidas Home Kit",
+        "date": "2025-11-23",
+        "url": "https://footballfashion.org/wordpress/2025/11/23/sweden-2026-adidas-kit/",
+        "note": "Kit maker, recorded as partner per existing convention. Named-press kit launch write-up: the shirt carries only the SvFF crest and the adidas logo, 'SVERIGE' at the back collar, blue shorts and blue socks — no commercial sponsor on any placement, consistent with Football Shirt Culture's launch write-up and the SVFF shop product description. SvFF's press release (15 March 2023, via Mynewsdesk) names adidas exclusive supplier of match and training clothing to all Swedish national teams through 2030.",
+        "quote": "The Swedish FA (Svenska Fotbollförbundet, SvFF) crest appears on the chest, while the adidas logo sits opposite in matching blue tones.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "adidas home kit for the 2026 international cycle. No commercial sponsors: the launch write-ups describe only the SvFF crest and adidas branding on the shirt, 'SVERIGE' at the back collar, with plain blue shorts and socks.",
+  "change": null
+}
