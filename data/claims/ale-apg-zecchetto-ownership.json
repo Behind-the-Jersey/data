@@ -1,0 +1,20 @@
+{
+  "id": "ale-apg-zecchetto-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "apg-srl"
+  ],
+  "text": "Alé is a cycling-apparel brand of APG S.r.l. (near Verona, Italy); the UEC's partnership renewal announcement names Federico Zecchetto as the owner of APG S.r.l. and Alessia Piccolo as its CEO.",
+  "short": "Alé is a brand of APG S.r.l., owned by Federico Zecchetto.",
+  "source": {
+    "name": "Union Européenne de Cyclisme: 'UEC and Alé together until 2029'",
+    "date": "2024-03-01",
+    "url": "https://www.uec.ch/en/actu/271/uec-and-ale-together-until-2029",
+    "quote": "the owner of APG S.r.l. Federico Zecchetto and the CEO of APG S.r.l. Alessia Piccolo, the company to which Alé belongs",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

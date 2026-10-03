@@ -1,15 +1,17 @@
 {
   "id": "ale-cycling",
   "name": "Alé Cycling",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "apg-srl",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Alé is a cycling-apparel brand of APG S.r.l. (near Verona, Italy), owned by Federico Zecchetto. Nothing found.",
+  "claimIds": [
+    "ale-apg-zecchetto-ownership"
+  ],
   "aliases": [
     "ale",
     "ale cycling apparel"
   ],
-  "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
+  "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour, Official partner of the AlUla Tour, and kit maker of Fenix-Premier Tech (2026). Rating note: APG S.r.l. ownership documented via UEC (claim ale-apg-zecchetto-ownership); no state in the chain, no relevant record found."
 }
