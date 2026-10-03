@@ -1,0 +1,21 @@
+{
+  "id": "nedey-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nedey-family"
+  ],
+  "text": "Groupe Nedey Automobiles is a family business: the group's own site says it has been a new-car dealer for three generations and was founded by Valère Nedey.",
+  "short": "Groupe Nedey is run by the Nedey family, now in its third generation.",
+  "source": {
+    "name": "Groupe Nedey: Notre histoire (nedey.com)",
+    "date": "2026",
+    "url": "https://www.nedey.com/notre-histoire",
+    "quote": "Groupe Nedey Automobiles (GNA) est distributeur en véhicules neufs depuis 3 générations, fondé par Valère Nedey.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "French: 'Groupe Nedey Automobiles (GNA) has been a new-car dealer for 3 generations, founded by Valère Nedey.' The page is undated."
+  },
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "point-s-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "point-s-development"
+  ],
+  "text": "Point S is a network of independent tyre and car-maintenance dealers: the group describes itself as 'totally independent' and its members as independent entrepreneurs, some of whom are elected to its boards.",
+  "short": "Point S is an independent dealer-owned network.",
+  "source": {
+    "name": "Point S Group: Our organisation",
+    "date": "2024",
+    "url": "https://www.point-s-group.com/our-community/our-organisation/",
+    "quote": "Point S is a group that is totally independent.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The same page says 'Our members are independent entrepreneurs' and that some members 'have been elected and are involved on our boards'. Page undated beyond a 2024 copyright line."
+  },
+  "reviewed": false
+}

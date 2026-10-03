@@ -1,0 +1,20 @@
+{
+  "id": "capgemini-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "capgemini-se"
+  ],
+  "text": "Capgemini SE is a listed company whose share capital is widely held: its 2024 Universal Registration Document counts it among 'companies with widely-held share capital'.",
+  "short": "Capgemini SE is listed, with widely-held share capital.",
+  "source": {
+    "name": "Capgemini: 2024 Universal Registration Document, chapter 2 (Corporate governance, PDF)",
+    "date": "2025-03",
+    "url": "https://www.capgemini.com/wp-content/uploads/2025/05/2024-URD_Chapter-2_Corporate-governance.pdf",
+    "quote": "In companies with widely-held share capital, such as Capgemini SE, the AFEP-MEDEF Code recommends that at least one-half of Board members should be independent.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

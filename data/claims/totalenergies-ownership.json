@@ -15,5 +15,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "TotalEnergies SE Annual Report on Form 20-F for FY2025 (SEC EDGAR), Item 9 'The offer and listing'",
+      "date": "2026-03-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/879764/000110465926035876/tot-20251231x20f.htm",
+      "quote": "The main trading markets for the TotalEnergies shares are the following: Euronext Paris (France) and the New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Filed with the SEC on 27 March 2026; confirms the listing on Euronext Paris, the NYSE, Euronext Brussels and the London Stock Exchange. EDGAR blocks automated source checks (403); opened manually."
+    }
+  ]
 }
