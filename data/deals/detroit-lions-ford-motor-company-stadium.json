@@ -4,13 +4,18 @@
   "orgName": "Ford Motor Company",
   "sponsorId": "ford-motor-company",
   "placement": "stadium",
-  "from": "2026",
-  "to": null,
+  "from": "2002",
+  "to": "2036",
   "value": null,
   "source": {
     "name": "Detroit Lions",
     "date": "2025-03-28",
-    "url": "https://www.detroitlions.com/news/detroit-tradition-continues-lions-and-ford-announce-extension-of-ford-field-partnership-through-2036-season"
+    "url": "https://www.detroitlions.com/news/detroit-tradition-continues-lions-and-ford-announce-extension-of-ford-field-partnership-through-2036-season",
+    "quote": "The Detroit Lions and Ford Motor Company today announced they are extending the stadium naming rights agreement",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Ford Field."
+  "note": "Arena naming rights: Ford Field. The announcement says Ford Field has been the Lions' home since 2002 and the extension runs through the 2036 season."
 }

@@ -8,5 +8,10 @@
   "country": "USA",
   "crest": "assets/crests/buffalo-bills.png",
   "aliases": [],
-  "hasTeamPageDesign": false
+  "hasTeamPageDesign": false,
+  "contact": {
+    "kind": "contact-page",
+    "url": "https://www.buffalobills.com/about-us/contact-us",
+    "source": "buffalobills.com About > Contact Us page (checked 2026-10-01)"
+  }
 }

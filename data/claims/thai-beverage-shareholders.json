@@ -1,0 +1,21 @@
+{
+  "id": "thai-beverage-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "thai-beverage-pcl"
+  ],
+  "text": "Thai Beverage PCL's FY2025 Annual Report register of substantial shareholders (as at 11 December 2025) lists Siriwana Co., Ltd. with 45.24% direct interest plus 20.60% deemed, and members of the Sirivadhanabhakdi family with deemed interests of 65.84% of the company.",
+  "short": "ThaiBev is ~65.8% controlled by the Sirivadhanabhakdi family's companies (SGX-listed register).",
+  "source": {
+    "name": "Thai Beverage PCL Annual Report 2025 (SGXNet filing): Statistics of Shareholders, p. 127",
+    "date": "2026-01-09",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XJHFB16NSXYU79R3/871645_THBEV_Annual_Report_2025_EN.pdf",
+    "quote": "Mr. Charoen Sirivadhanabhakdi(2) - - 16,544,687,762 65.84",
+    "note": "From the 'Substantial Shareholders' table: Siriwana Co., Ltd. 11,368,060,000 (45.24%) direct; deemed interests of 65.84% are held via Siriwana/Siriwanan and related family companies. The same page states approximately 27.67% of shares are held by the public.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
