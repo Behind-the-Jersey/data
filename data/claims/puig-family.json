@@ -1,0 +1,32 @@
+{
+  "id": "puig-family",
+  "kind": "ownership",
+  "ownerIds": [
+    "motoplastic-sa"
+  ],
+  "text": "The Puig motorcycle-accessories brand on Honda HRC Castrol's sponsors page is described there as a family business since 1964 from Barcelona; Puig's own history page says brothers Josep and Jaume Puig founded the company in Granollers, Spain, and its legal notice names Motoplastic S.A. of Granollers as the company behind the Puig site.",
+  "short": "Puig is a family business of the Puig family (Motoplastic S.A., Granollers), founded in 1964.",
+  "source": {
+    "name": "Honda HRC Castrol - official team site, Sponsors page (motogp.honda.racing) - Puig entry",
+    "date": "2026",
+    "url": "https://motogp.honda.racing/page/sponsors-b59460dc",
+    "quote": "A family business since 1964 from Barcelona",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Puig - Our History (company foundation)",
+      "date": "2026",
+      "url": "https://puighitechparts.es/en/motoplastic-puig/nuestra-historia",
+      "quote": "the brothers Josep and Jaume Puig founded the company",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}
