@@ -1,0 +1,21 @@
+{
+  "id": "deceuninck-shareholder-structure",
+  "kind": "ownership",
+  "ownerIds": [
+    "deceuninck"
+  ],
+  "text": "Deceuninck NV's own shareholder table (most recent on 25 August 2026) shows: Gramo BV 31.19%, H.P. Participaties Comm.V. 7.90%, founder family member Frank Deceuninck 5.08%, treasury shares 0.15% and 55.68% other shareholders.",
+  "short": "Deceuninck's largest disclosed holder is Gramo BV with 31.19%.",
+  "source": {
+    "name": "Deceuninck: Shareholder structure",
+    "date": "2026-08-25",
+    "url": "https://www.deceuninck.com/investors/share-shareholder-information/shareholder-structure/",
+    "quote": "In application of the Law of 2 May 2007, the latest report of participations that have been received shows the following breakdown of shareholders",
+    "note": "Same page table: Gramo BV 43,537,559 shares (31.19%), H.P. Participaties Comm.V. 11,023,777 (7.90%), Frank Deceuninck 7,092,237 (5.08%), treasury shares 208,936 (0.15%), others 77,732,751 (55.68%).",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
