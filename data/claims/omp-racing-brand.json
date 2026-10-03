@@ -1,0 +1,21 @@
+{
+  "id": "omp-racing-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "omp-racing-spa",
+    "racing-force-spa"
+  ],
+  "text": "OMP is a brand of Racing Force Group; the ompracing.com shop carries the Racing Force Group footer and the group's VAT number (P.IVA 02264760105).",
+  "short": "OMP is a brand of Racing Force Group.",
+  "source": {
+    "name": "OMP Racing — official site (header and footer)",
+    "date": "2026",
+    "url": "https://www.ompracing.com/",
+    "quote": "A brand of Racing Force Group",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

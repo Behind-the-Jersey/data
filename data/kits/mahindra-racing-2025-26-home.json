@@ -7,8 +7,174 @@
   "periodFrom": "2025-26",
   "periodTo": "2025-26",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsors": [
+    {
+      "sponsorId": "valvoline",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing: Mahindra Racing unveils new M12Electro, names Valvoline Global Operations as Official Partner",
+        "date": "2025-10-14",
+        "url": "https://www.mahindraracing.com/news/mahindra-racing-unveils-new-m12electro-names-valvoline-global-operations-as-official-partner",
+        "quote": "Mahindra Racing today also announced Valvoline, a worldwide leader in premium lubricants and automotive solutions, as its new Official Partner ahead of Season 12.",
+        "note": "Team's Season 12 launch release; the page renders its body with JavaScript (the quote is in the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tech-mahindra",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"TECH MAHINDRA\",\"slug\":\"tech-mahindra\"",
+        "note": "Team's official partners page, partner type 'Digital Transformation Partner' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "shell",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"SHELL\",\"slug\":\"shell\"",
+        "note": "Team's official partners page, partner type 'Official Partner' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nippon-audio",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"NIPPON AUDIO\",\"slug\":\"nippon-audio\"",
+        "note": "Team's official partners page, partner type 'Sponsor' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pininfarina",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"PININFARINA\",\"slug\":\"pininfarina\"",
+        "note": "Team's official partners page, partner type 'Sponsor' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "one8",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"ONE8\",\"slug\":\"one8\"",
+        "note": "Team's official partners page, partner type 'Official Lifestyle Partner' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "castore",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"CASTORE\",\"slug\":\"castore\"",
+        "note": "Team's official partners page, partner type 'Official Partner' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "rockfort-engineering",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"ROCKFORT ENGINEERING\",\"slug\":\"rockfort-engineering\"",
+        "note": "Team's official partners page, partner type 'Supplier' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "omp",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"OMP\",\"slug\":\"omp\"",
+        "note": "Team's official partners page, partner type 'Official Partner' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "coral-eyewear",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"CORAL EYEWEAR\",\"slug\":\"coral-eyewear\"",
+        "note": "Team's official partners page, partner type 'Supplier' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "technogym",
+      "placement": "partner",
+      "source": {
+        "name": "Mahindra Racing — Official Partners",
+        "date": "2026",
+        "url": "https://www.mahindraracing.com/partners",
+        "quote": "\"name\":\"TECHNOGYM\",\"slug\":\"technogym\"",
+        "note": "Team's official partners page, partner type 'Supplier' (rendered with JavaScript; quote from the page's embedded data).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Season 12 (2025/26) works team. No front-shirt sponsor: the brand in the team name ('Mahindra Racing') is the owner's own (Mahindra & Mahindra Ltd bought the team company, Mahindra Racing UK Ltd, outright in FY26), following the Porsche Formula E precedent of not listing the works brand as a sponsor. Every partner named on the team's official partners page is listed: Valvoline (named Official Partner in the M12Electro launch release), Tech Mahindra, Shell, Nippon Audio, Pininfarina, one8, Castore, Rockfort Engineering, OMP, Coral Eyewear and Technogym. Formula E teams have no shirt; partners sit on the car and team apparel, so all carry the schema's 'partner' placement.",
   "change": null
 }

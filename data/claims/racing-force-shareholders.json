@@ -1,0 +1,20 @@
+{
+  "id": "racing-force-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "racing-force-spa"
+  ],
+  "text": "Racing Force S.p.A.'s share capital is held 49.27% by SAYE S.p.A. and about 50.52% by the market; SAYE S.p.A. is its largest shareholder.",
+  "short": "Racing Force's largest shareholder is SAYE S.p.A. with 49.27%.",
+  "source": {
+    "name": "Racing Force — Shareholders' Information",
+    "date": "2026",
+    "url": "https://www.racingforce.com/investors-relations/shareholders-information/",
+    "quote": "SAYE S.p.A. 13.566.895,00 49.27%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

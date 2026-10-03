@@ -1,0 +1,21 @@
+{
+  "id": "tech-mahindra-mnm-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tech-mahindra-ltd",
+    "mahindra-mahindra-ltd"
+  ],
+  "text": "Tech Mahindra Limited is a listed associate of Mahindra & Mahindra Ltd; Tech Mahindra London Limited is a wholly owned subsidiary of Tech Mahindra.",
+  "short": "Tech Mahindra is a listed associate of Mahindra & Mahindra.",
+  "source": {
+    "name": "Mahindra & Mahindra Limited, Integrated Annual Report 2025-26 (Board's Report, Mahindra Racing UK Limited)",
+    "date": "2026",
+    "url": "https://www.mahindra.com/annual-report-FY2026/108/",
+    "quote": "Tech Mahindra London Limited, a wholly owned subsidiary of Tech Mahindra Limited which is a listed Associate of the Company",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

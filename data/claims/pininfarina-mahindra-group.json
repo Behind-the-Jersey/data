@@ -1,0 +1,22 @@
+{
+  "id": "pininfarina-mahindra-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "pininfarina-spa",
+    "mahindra-mahindra-ltd",
+    "tech-mahindra-ltd"
+  ],
+  "text": "Pininfarina says the Pininfarina Group is listed on the stock exchange and part of the Mahindra galaxy since 2016.",
+  "short": "Pininfarina has been part of the Mahindra galaxy since 2016.",
+  "source": {
+    "name": "Pininfarina — Our group",
+    "date": "2026",
+    "url": "https://pininfarina.it/en/about/our-group",
+    "quote": "Listed on the Stock Exchange and part of the Mahindra galaxy since 2016",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

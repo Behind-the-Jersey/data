@@ -1,0 +1,21 @@
+{
+  "id": "technogym-tgh-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "technogym-spa"
+  ],
+  "text": "As of 31 December 2025, TGH S.r.l. held 33.78% of Technogym S.p.A.'s share capital, representing 60.47% of the voting rights; the remaining 52.02% was free float on Euronext Growth Milan.",
+  "short": "TGH S.r.l. holds 33.78% of Technogym (60.47% of voting rights).",
+  "source": {
+    "name": "Technogym S.p.A. 2025 Annual Report (Shareholding structure)",
+    "date": "2026-03-19",
+    "url": "https://corporate.technogym.com/~/media/Files/T/Technogym-Corporate/investor-relations/shareholder-meetings/2026/annual-report-2025-en.pdf",
+    "quote": "TGH S.r.l. 68,000,000 33.78% 60.47%",
+    "note": "Significant-shareholdings table as of 31 December 2025 (page headed 'SHAREHOLDING STRUCTURE').",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

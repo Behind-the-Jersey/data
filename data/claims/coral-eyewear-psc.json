@@ -1,0 +1,20 @@
+{
+  "id": "coral-eyewear-psc",
+  "kind": "ownership",
+  "ownerIds": [
+    "coral-eyewear-ltd"
+  ],
+  "text": "Coral Eyewear Ltd's active persons with significant control are Calvin Alan Bailey and George Calvin Bailey, each holding more than 25% but not more than 50% of the shares and voting rights.",
+  "short": "Coral Eyewear is controlled by Calvin and George Bailey.",
+  "source": {
+    "name": "Companies House: CORAL EYEWEAR LTD (12033074), persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12033074/persons-with-significant-control",
+    "quote": "Ownership of shares – More than 25% but not more than 50% : Ownership of voting rights – More than 25% but not more than 50%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
