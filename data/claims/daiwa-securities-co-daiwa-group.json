@@ -1,0 +1,22 @@
+{
+  "id": "daiwa-securities-co-daiwa-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "daiwa-securities-co",
+    "daiwa-securities-group"
+  ],
+  "text": "Daiwa Securities Co. Ltd. (大和証券株式会社, daiwa.jp) is a group company of Daiwa Securities Group Inc.: it heads the group companies list published by Daiwa Securities Group.",
+  "short": "Daiwa Securities Co. is a group company of Daiwa Securities Group Inc.",
+  "source": {
+    "name": "大和証券グループ本社: グループ会社概要一覧 (Daiwa Securities Group Inc.: group companies list)",
+    "date": "2026",
+    "url": "https://www.daiwa-grp.jp/about/group/",
+    "quote": "大和証券（株） 〒100-6752 東京都千代田区丸の内一丁目9番1号",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "First entry under グループ会社一覧 (group companies list); the listed site's link is https://www.daiwa.jp/. Page without a date."
+  },
+  "reviewed": false
+}

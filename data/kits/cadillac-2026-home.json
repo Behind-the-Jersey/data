@@ -9,88 +9,172 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "twg-ai",
-      "placement": "partner",
+      "sponsorId": "tommy-hilfiger",
+      "placement": "front",
       "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
+        "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+        "date": "2026-02-09",
+        "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+        "quote": "Clothing brand Tommy Hilfiger is among several logos featuring on the nosecone.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Tommy Hilfiger logo on the nosecone."
       }
     },
     {
-      "sponsorId": "s-3m",
-      "placement": "partner",
+      "sponsorId": "gainbridge",
+      "placement": "front",
       "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
+        "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+        "date": "2026-02-15",
+        "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+        "quote": "The logo for Gainbridge is positioned right below the tricolor Tommy Hilfiger crest.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Logo below the Tommy Hilfiger crest on the nose; not on the team's own partners page."
+      }
+    },
+    {
+      "sponsorId": "pirelli",
+      "placement": "front",
+      "source": {
+        "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+        "date": "2026-02-15",
+        "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+        "quote": "Pirelli also appears on the nose of the Cadillac F1 race car",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "On the nose; also the team's Official Tyre Supplier."
+      }
+    },
+    {
+      "sponsorId": "jim-beam",
+      "placement": "front",
+      "source": {
+        "name": "GM Authority - Cadillac F1 Team Makes Its Statement With 2026 Livery: Video",
+        "date": "2026-02-08",
+        "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-team-makes-its-statement-with-2026-livery-video/",
+        "quote": "The rest of the Cadillac F1 race car’s nose is populated by sponsor logos, showcasing whiskey distiller Jim Beam, emissions control system manufacturer Tenneco, and clothing brand Tommy Hilfiger.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "On the nose per GM Authority; Motorsport.com puts Jim Beam on the bargeboards (conflict)."
+      }
+    },
+    {
+      "sponsorId": "tenneco",
+      "placement": "front",
+      "source": {
+        "name": "GM Authority - Cadillac F1 Team Makes Its Statement With 2026 Livery: Video",
+        "date": "2026-02-08",
+        "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-team-makes-its-statement-with-2026-livery-video/",
+        "quote": "The rest of the Cadillac F1 race car’s nose is populated by sponsor logos, showcasing whiskey distiller Jim Beam, emissions control system manufacturer Tenneco, and clothing brand Tommy Hilfiger.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "On the nose."
+      }
+    },
+    {
+      "sponsorId": "twg-ai",
+      "placement": "sleeve",
+      "source": {
+        "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+        "date": "2026-02-15",
+        "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+        "quote": "Its artificial intelligence arm, TWG AI, appears on the side of the race car, dominating the black-and-white paint scheme.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "TWG AI on the side of the car; 'sleeve' used for the side."
+      }
+    },
+    {
+      "sponsorId": "ifs",
+      "placement": "back",
+      "source": {
+        "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+        "date": "2026-02-09",
+        "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+        "quote": "the IFS logo on the rear wing endplates refers to a Swedish software company.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "IFS logo on the rear wing endplates."
       }
     },
     {
       "sponsorId": "claro",
       "placement": "partner",
       "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
+        "name": "Cadillac Formula 1 Team - Official Partners: Claro / America Movil (Wayback Machine snapshot)",
+        "date": "2026-08-12",
+        "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+        "quote": "As the leading telecommunications provider in Latin America",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Live site blocks scripts; snapshot of the official partners page checked."
       }
     },
     {
       "sponsorId": "core-scientific",
       "placement": "partner",
       "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
+        "name": "Cadillac Formula 1 Team - Official Partners: Core Scientific (Wayback Machine snapshot)",
+        "date": "2026-08-12",
+        "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+        "quote": "Core Scientific is a leader in high-density digital infrastructure and data center solutions",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Live site blocks scripts; snapshot of the official partners page checked."
       }
     },
     {
-      "sponsorId": "ifs",
+      "sponsorId": "s-3m",
       "placement": "partner",
       "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
-      }
-    },
-    {
-      "sponsorId": "jim-beam",
-      "placement": "partner",
-      "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
-      }
-    },
-    {
-      "sponsorId": "tenneco",
-      "placement": "partner",
-      "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
-      }
-    },
-    {
-      "sponsorId": "tommy-hilfiger",
-      "placement": "partner",
-      "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
+        "name": "Cadillac Formula 1 Team - Official Partners: 3M (Wayback Machine snapshot)",
+        "date": "2026-08-12",
+        "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+        "quote": "3M is a global leader in material science",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Live site blocks scripts; snapshot of the official partners page checked."
       }
     },
     {
       "sponsorId": "alpinestars-c",
       "placement": "partner",
       "source": {
-        "name": "Cadillac Formula 1 Team – Official Partners",
-        "date": "2026-09-24",
-        "url": "https://www.cadillacf1team.com/partners"
+        "name": "Cadillac Formula 1 Team - Official Partners: Alpinestars (Wayback Machine snapshot)",
+        "date": "2026-08-12",
+        "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+        "quote": "Alpinestars is a global leader in motorsport safety and performance apparel",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Live site blocks scripts; snapshot of the official partners page checked."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "2026 car. N"
+  "summary": "2026 car. Partner list and positions from the team’s partner page and the livery-reveal press: Tommy Hilfiger, Gainbridge, Pirelli, Jim Beam and Tenneco on the nose; TWG AI on the side; IFS on the rear wing; the rest are team partners."
 }
