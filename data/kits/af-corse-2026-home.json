@@ -1,0 +1,45 @@
+{
+  "id": "af-corse-2026-home",
+  "clubId": "af-corse",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "orlen",
+      "placement": "front",
+      "source": {
+        "name": "Sport1.pl: Orlen zostaje z Kubicą. AF Corse pokazało Ferrari 499P",
+        "date": "2026-02-27",
+        "url": "https://sport1.pl/orlen-zostaje-z-kubica-af-corse-pokazalo-ferrari-499p",
+        "quote": "Na karoserii ponownie nie zabrakło logotypów Orlenu, co potwierdza kontynuację współpracy z Robertem Kubicą w wyścigach długodystansowych.",
+        "note": "Polish quote translates as: 'Orlen logos again feature on the bodywork of AF Corse's 2026 WEC Ferrari 499P, confirming the continuation of the partnership with Robert Kubica.'",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "esa-nanotech",
+      "placement": "front",
+      "source": {
+        "name": "ESA NanoTech: ESA NanoTech scende in pista con AF Corse: siglata la partnership per la partecipazione nel FIA World Endurance Championship",
+        "date": "2026-08-24",
+        "url": "https://esananotech.com/en/news/esananotech-scende-in-pista-con-af-corse-siglata-la-partnership-per-la-partecipazione-nel-fia-world-endurance-championship",
+        "quote": "Il logo ESA NanoTech trova spazio sulla sezione laterale e sul frontale della vettura, integrandosi nella livrea gialla e rossa",
+        "note": "Italian quote translates as: 'The ESA NanoTech logo is placed on the side section and the front of the car, integrated into the yellow and red livery.' New technical and commercial partnership with AF Corse for the 2026 WEC season, announced by the sponsor itself.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}
