@@ -3,14 +3,15 @@
   "name": "Liv",
   "ownerId": "giant-manufacturing",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "A product brand of Giant Group (Giant Manufacturing), a listed Taiwanese bicycle maker (TPE: 9921). Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Being rated: a maintainer decides whether the US customs Withhold Release Order against Giant counts as a forced-labour finding.",
   "claimIds": [
+    "giant-manufacturing-wro-2025",
     "liv-giant-group"
   ],
   "aliases": [
     "liv cycling"
   ],
-  "note": "Women's bike brand of Giant and co-title sponsor of Liv AlUla Jayco (Cyclist, 2026-07-14; The Inner Ring, 2026-08-05, 'Giant’s women’s brand Liv'). Giant Group's corporate site lists Liv among its product brands and shows the TPE: 9921 ticker (giantgroup-cycling.com, opened 2026-10-03). No state ownership, and no court, regulator, UN-body or major-NGO human-rights finding against Giant or Liv found in the sources checked (2026-10-03)."
+  "note": "Women's bike brand of Giant and co-title sponsor of Liv AlUla Jayco (The Inner Ring, 2026-08-05, 'Giant’s women’s brand Liv'). Giant Group's corporate site lists Liv among its product brands and shows the TPE: 9921 ticker (giantgroup-cycling.com, opened 2026-10-03). Rating note: on hold for a maintainer. In September 2025 US Customs and Border Protection issued a Withhold Release Order against Giant Manufacturing's Taiwan-made bicycles, parts and accessories, on information that reasonably indicates forced labour (claim giant-manufacturing-wro-2025; CBP's release says its investigation identified ILO forced-labour indicators including debt bondage and withholding of wages). If that counts as a regulator finding of forced labour by the company, the tier is concern. Giant Manufacturing's large shareholders are not traced in the claims."
 }
