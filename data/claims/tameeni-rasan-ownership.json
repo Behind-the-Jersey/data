@@ -1,0 +1,44 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni, Saudi Arabia's largest online insurance aggregator, is operated by Rasan Information Technology Company, a Saudi fintech listed on the Saudi Exchange (Tadawul 8313) since June 2024; Rasan's own site says Tameeni marked the beginning of Rasan's disruption of Saudi Arabia's insurance market in 2017. Per Rasan's IPO documents as reported by MENAbytes, Saudi venture-capital firm Impact46 was Rasan's single largest shareholder at listing, its 18.65% stake diluting to 13.06% after the IPO.",
+  "short": "Tameeni is operated by Rasan Information Technology Company (Tadawul 8313); Saudi VC Impact46 was Rasan's single largest shareholder at listing (13.06% post-IPO).",
+  "source": {
+    "name": "Rasan Information Technology Company - Our Businesses",
+    "date": "2025",
+    "url": "https://www.rasan.co/en/businesses",
+    "quote": "Tameeni marked the beginning of Rasan's disruption of Saudi Arabia's insurance market in 2017",
+    "note": "Rasan's own business page; the same page describes the insurtech verticals (Motor, Health, Life, General) sold through Tameeni. Page copyright 2025.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "MENAbytes: Saudi fintech Rasan goes public on Tadawul, shares surge 30 percent pushing market cap close to $1 billion",
+      "date": "2024-06-22",
+      "url": "https://www.menabytes.com/rasan-goes-public",
+      "quote": "Founded in 2016, Rasan operates Tameeni, Saudi Arabia’s largest online insurance aggregator",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "MENAbytes: Saudi VC Impact46 to get its second IPO with the Tadawul listing of Rasan",
+      "date": "2024-05-09",
+      "url": "https://www.menabytes.com/impact46-rasan/",
+      "quote": "Impact46 is its single largest shareholder owning 18.65 percent stake in the company, which would dilute to 13.06 percent after the IPO",
+      "note": "MENAbytes cites the company's IPO documents (\"According to the company's documents\") for the stake figures.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout review of #1118 (OpenCode, model kimi-k3)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -12,64 +12,49 @@
       "sponsorId": "jetour",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "name": "433FC: Saudi Pro League 2026/27 Shirt Sponsors: Every Club's Main Sponsor & Kit Maker",
         "date": "2026-06-15",
         "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-      }
-    },
-    {
-      "sponsorId": "theeb-rent-a-car",
-      "placement": "front",
-      "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "quote": "Al-Shabab Jetour Offside",
+        "note": "The article's 2026/27 club-by-club table lists Al-Shabab with main shirt sponsor Jetour and kit maker Offside, and says many SPL deals are multi-year contracts signed in 2023-2025 that carry directly into 2026/27. The club announced Jetour as a strategic sponsor on 2025-08-28 (X) and a main-sponsor contract to the end of 2025-26 (alshabab-sc.sa/blogs/792); no 2026-27 renewal announcement was found.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "tameeni-insurance",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-      }
-    },
-    {
-      "sponsorId": "mezaj-maghribhi",
-      "placement": "back",
-      "source": {
         "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
         "date": "2026-08-24",
         "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
-      }
-    },
-    {
-      "sponsorId": "direct-for-travel",
-      "placement": "sleeve",
-      "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "quote": "Al Shabab Home 26-27",
+        "note": "Official league gallery of the 2026-27 kits; the 'Al Shabab Home 26-27' photo shows the Tameeni (تأميني) patch on the right chest of the striped home shirt (image viewed 2026-10-03). Placement listed 'front' to match the league-wide upper-chest Tameeni position on the other 2026-27 kits in this dataset.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "offside",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "Footy Headlines – Al Shabab 26-27 Home & Away Kits Released",
+        "date": "2026-08-13",
+        "url": "https://www.footyheadlines.com/6647542441/al-shabab-26-27-home-away-kits-released.html",
+        "quote": "Saudi Pro League side Al Shabab has officially revealed its new home and away kits for the 26-27 season, manufactured by local brand Offside.",
+        "note": "Kit launch coverage; the article's launch photos show the Offside maker mark, the Tameeni chest patch and the RSL sleeve patch. Offside is also the kit manufacturer named for Al-Shabab in 433FC's 2026/27 table, and the club site links its store to offsideksa.com.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Offside home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "summary": "Offside home kit (black-and-white stripes, launched 2026-08-13). Front: Jetour (per 433FC's 2026/27 list; the club's own Jetour announcements cover up to 2025-26) and the Tameeni chest patch (visible in the SPL's official kit photo); kit maker Offside. Theeb (chest sponsor in 2024-25 and 2025-26), Mezaj (back in previous listings) and Direct for Travel (sleeve in previous listings) had no 2026-27 placement evidence and were removed pending sources - see the pull request.",
   "change": null
 }
