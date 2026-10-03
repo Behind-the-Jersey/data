@@ -1,0 +1,32 @@
+{
+  "id": "greyson-clothiers-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "greyson-clothiers"
+  ],
+  "text": "Greyson Clothiers is a private, Detroit-based apparel company led by its founder and CEO, Charlie Schaefer.",
+  "short": "Greyson Clothiers is led by founder and CEO Charlie Schaefer.",
+  "source": {
+    "name": "Greyson Clothiers: Our Story",
+    "date": "2026",
+    "url": "https://greysonclothiers.com/pages/our-story",
+    "quote": "Founder and CEO Charlie Schaefer built a team founded on camaraderie, loyalty, strength, and community.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Golf Business News: LIV Golf's Legion XIII team announce apparel partnership",
+      "date": "2025-02-03",
+      "url": "https://www.golfbusinessnews.com/news/sponsorship-and-events/liv-golfs-legion-xiii-team-announce-apparel-partnership",
+      "quote": "said Greyson CEO and founder Charlie Schaefer",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

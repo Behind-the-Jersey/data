@@ -12,27 +12,44 @@
       "sponsorId": "callaway",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Legion XIII team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/legion-xiii"
+        "name": "LIV Golf: Callaway Golf announces new equipment partnership with Rahm and Legion XIII",
+        "date": "2025-03",
+        "url": "https://www.livgolf.com/news/callaway-golf-new-equipment-partnership-jon-rahm-legion-xiii",
+        "note": "All six team-page partners: Callaway, Greyson, Openbank, Rolex, New Era, SowaYoga. This announcement has no full date on the page ('19 months ago' when fetched 2026-10-03); AmateurGolf.com dated the same announcement 2025-03-08.",
+        "quote": "announced a new equipment partnership with Jon Rahm and his LIV Golf team Legion XIII",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "greyson",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Legion XIII team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/legion-xiii"
+        "name": "Golf Business News: LIV Golf's Legion XIII team announce apparel partnership",
+        "date": "2025-02-03",
+        "url": "https://www.golfbusinessnews.com/news/sponsorship-and-events/liv-golfs-legion-xiii-team-announce-apparel-partnership",
+        "quote": "Clothing and sportswear brand Greyson has announced a multi-year apparel sponsorship of LlV Golf League team Legion XIII",
+        "note": "'LlV' capitalisation copied as printed on the page.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "openbank",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Legion XIII team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/legion-xiii"
+        "name": "Banco Santander press release: Santander to introduce Openbank in US",
+        "date": "2024-04-09",
+        "url": "https://www.santander.com/en/press-room/press-releases/2024/04/santander-to-introduce-openbank-in-us",
+        "quote": "He and his team will wear an Openbank logo on their shirt during all competitions beginning at the Masters in Augusta (USA).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -41,16 +58,23 @@
       "source": {
         "name": "LIV Golf - Legion XIII team page",
         "date": "2026-09-25",
-        "url": "https://www.livgolf.com/legion-xiii"
+        "url": "https://www.livgolf.com/legion-xiii",
+        "note": "Rolex logo in the team page's partner bar (logo image only, so no quotable text). Jon Rahm is a Rolex Testimonee since 2016: rolex.com/en-us/rolex-family/golf/jon-rahm."
       }
     },
     {
       "sponsorId": "new-era",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Legion XIII team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/legion-xiii"
+        "name": "LIV Golf: New Era Cap and LIV Golf announce multi-year partnership",
+        "date": "2024-04",
+        "url": "https://www.livgolf.com/news/new-era-cap-and-liv-golf-announce-multi-year-partnership",
+        "note": "No full date on the page; Sportcal dated the announcement 2024-04-17. League-wide deal; New Era appears on the Legion XIII team page partner bar.",
+        "quote": "today announced a multi-year partnership in which New Era Cap will become the Official Cap of the LIV Golf League",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -59,7 +83,8 @@
       "source": {
         "name": "LIV Golf - Legion XIII team page",
         "date": "2026-09-25",
-        "url": "https://www.livgolf.com/legion-xiii"
+        "url": "https://www.livgolf.com/legion-xiii",
+        "note": "'SowaYoga logo' image only in the partner bar, no quotable text; the logo links to showabygenuinepartseurope.com, a Spanish motorcycle-parts shop. The company could not be identified (see sponsors/sowayoga.json)."
       }
     }
   ],

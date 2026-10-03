@@ -1,0 +1,32 @@
+{
+  "id": "callaway-golf-company-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "callaway-golf-company"
+  ],
+  "text": "Callaway Golf is a brand of Callaway Golf Company, a Delaware corporation listed on the New York Stock Exchange (ticker CALY; until 2026 Topgolf Callaway Brands Corp.). Its 2026 proxy statement lists BlackRock (11.14%), Thomas G. Dundon (10.25%), PEP TG Investments LP (6.21%) and Dimensional Fund Advisors (5.06%) as its 5%+ holders; no state or state fund is among them.",
+  "short": "Callaway is a brand of NYSE-listed Callaway Golf Company (CALY); 5%+ holders are BlackRock, Thomas Dundon, PEP TG Investments and Dimensional.",
+  "source": {
+    "name": "Callaway Golf Company: Form 10-K for the fiscal year ended December 31, 2025 (SEC EDGAR)",
+    "date": "2026-02-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/837465/000083746526000010/modg-20251231.htm",
+    "quote": "through our family of brand names, which include Callaway Golf, Odyssey, TravisMathew, and OGIO",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Callaway Golf Company: 2026 Proxy Statement (DEF 14A), security ownership table (SEC EDGAR)",
+      "date": "2026-04-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/837465/000083746526000013/modg-20260407.htm",
+      "quote": "BlackRock, Inc. (2) 20,274,023 11.14% 50 Hudson Yards New York, New York 10001 Thomas G. Dundon (3) 18,654,698 10.25%",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,12 +1,16 @@
 {
   "id": "callaway",
   "name": "Callaway",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
+  "ownerId": "callaway-golf-company",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Callaway Golf is a brand of Callaway Golf Company, a NYSE-listed company (CALY) whose 5%+ holders are BlackRock, Thomas G. Dundon, PEP TG Investments and Dimensional Fund Advisors. Nothing found.",
+  "claimIds": [
+    "callaway-golf-company-ownership"
+  ],
+  "aliases": [
+    "Callaway Golf"
+  ],
+  "note": "Equipment partner of Jon Rahm and Legion XIII (livgolf.com announcement, 2025-03). Rated none 2026-10-03: NYSE-listed owner, no state in the 5%+ holder table of the 2026 proxy; no human-rights finding against the company found (checked Callaway Golf Co legal/CSR coverage; an antitrust-style TaylorMade false-advertising suit filed Jan 2026 is not a human-rights record)."
 }
