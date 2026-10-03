@@ -1,14 +1,17 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "New Era Cap"
+  "ownerId": "koch-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "New Era Cap is controlled by its founding Koch family, with private equity firm ACON Investments holding a significant minority stake; no state or state-fund owner in the chain and no human-rights finding against the company. Nothing found.",
+  "claimIds": [
+    "new-era-koch-family-ownership"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "aliases": [
+    "New Era Cap",
+    "New Era Cap LLC"
+  ],
+  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners, fetched 2026-09-25); Fireballs GC partner on livgolf.com/fireballs-gc (verified in the page HTML, 2026-10-03). Reuters (via FashionNetwork, September 2023) reported the company is controlled by its founding family with ACON Investments holding a significant minority stake (new-era-koch-family-ownership); the Koch family is not related to Koch Industries. No state or state-fund owner found, no human-rights finding found."
 }

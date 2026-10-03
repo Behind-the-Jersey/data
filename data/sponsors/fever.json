@@ -1,14 +1,17 @@
 {
   "id": "fever",
   "name": "Fever",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "FeverUp"
+  "ownerId": "fever-up",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Fever is a live-entertainment tech platform co-founded and led by its three founders, funded by institutional investors (Goldman Sachs, EQT, Point72); no state or state-fund owner in the chain and no human-rights finding against the company. Nothing found.",
+  "claimIds": [
+    "fever-founders-ownership"
   ],
-  "note": "Fireballs GC partner and LIV Golf Official Supplier - Marketing & Technology Partner for ticketing (livgolf.com/partners, fetched 2026-09-25)."
+  "aliases": [
+    "FeverUp",
+    "feverup"
+  ],
+  "note": "Fireballs GC partner (logo links to feverup.com, verified in the livgolf.com/fireballs-gc HTML, 2026-10-03) and LIV Golf Official Supplier - Marketing & Technology Partner for ticketing (livgolf.com/partners, fetched 2026-09-25). No state or state-fund owner found, no human-rights finding found."
 }
