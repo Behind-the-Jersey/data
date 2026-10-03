@@ -12,13 +12,76 @@
       "sponsorId": "cupra",
       "placement": "front",
       "source": {
-        "name": "FIA Formula E - Cupra Kiro team page (CUPRA in team name)",
-        "date": "2026-09-25",
-        "url": "https://www.fiaformulae.com/en/teams/cupra-kiro"
+        "name": "Kiro Race Co: Kiro Race Co extends relationship with CUPRA for GEN4",
+        "date": "2026-07-09",
+        "url": "https://kiroraceco.com/latest/kiro-race-co-extends-relationship-with-cupra-for-gen4",
+        "note": "Team announcement confirming CUPRA as the team's Co-Title Partner (the team races as CUPRA KIRO); the FIA Formula E team page for Season 12 also shows the CUPRA KIRO name and Cupra logo.",
+        "quote": "the Spanish automotive brand remaining as the team's official Co-Title Partner into the ABB FIA Formula E World Championship's upcoming GEN4 era",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "duelbits",
+      "placement": "partner",
+      "source": {
+        "name": "Kiro Race Co: CUPRA KIRO teams up with crypto gaming innovator Duelbits",
+        "date": "2025-12-05",
+        "url": "https://kiroraceco.com/latest/cupra-kiro-teams-up-with-crypto-gaming-innovatornbspduelbits",
+        "quote": "CUPRA KIRO is delighted to join forces with Principal Partner, Duelbits, who join the American squad as its Official Crypto Gambling Partner",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "reflo",
+      "placement": "partner",
+      "source": {
+        "name": "Kiro Race Co: CUPRA KIRO welcomes Reflo as Official Teamwear Partner",
+        "date": "2025-12-02",
+        "url": "https://kiroraceco.com/latest/cupra-kiro-welcomes-reflonbspas-official-teamwear-partner",
+        "quote": "CUPRA KIRO is delighted to welcome Reflo as the team's Official Teamwear Partner for the upcoming season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "aquame",
+      "placement": "partner",
+      "source": {
+        "name": "Kiro Race Co: CUPRA KIRO welcomes AQUAME as Official Hydration Partner",
+        "date": "2025-12-05",
+        "url": "https://kiroraceco.com/latest/cupra-kiro-welcomes-aquame-as-official-hydration-partner",
+        "quote": "CUPRA KIRO is delighted to welcome AQUAME as the team's Official Hydration Partner for the coming campaign",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "omp-racing",
+      "placement": "partner",
+      "source": {
+        "name": "SportsPro: Formula E 2025/26 Commercial Guide – Cupra Kiro",
+        "date": "2026",
+        "url": "https://www.sportspro.com/commercial-guide/formula-e/teams/cupra-kiro/",
+        "note": "Commercial guide page without its own date (Formula E 2025/26 season edition); opened 2026-10-03. OMP Racing also lists CUPRA KIRO on its own partner page (ompracing.com/partners/cupra-kiro/).",
+        "quote": "Title partner Cupra Other partners OMP Racing, Reflo",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Season 12 (2025/26) Porsche 99X Electric customer car. CUPRA is the team's Co-Title Partner and gives the team its name (front); Duelbits is a Principal Partner, Reflo the Official Teamwear Partner, AQUAME the Official Hydration Partner and OMP Racing a team partner, per the club's own announcements and the club site's 'PROUD PARTNERS' list. Porsche is the powertrain/technical partner, not a commercial kit sponsor. Car-livery placements don't fit the schema yet (see the formula-e league notes).",
   "change": null
 }
