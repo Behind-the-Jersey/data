@@ -15,11 +15,31 @@
         "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
         "date": "2023-06-19",
         "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        "quote": "Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide BAL uniform branding (2023 release). Al Ahly Ly is one of the BAL's 12 clubs in 2026: https://pr.nba.com/basketball-africa-league-2026-season/"
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "league-partner",
+      "source": {
+        "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+        "date": "2026-03-17",
+        "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+        "quote": "PUMA supply all official BAL team, fan and referee apparel, including game uniforms, warm-up gear, practice wear, accessories",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "PUMA is the BAL's Official Outfitter from the 2026 season, supplying game uniforms for all BAL teams. BAL match imagery shows PUMA marks on Al Ahly Ly's 2026 jerseys (cdn-bal.nba.com/manage/sites/3/2026/05/maxresdefault-91.jpg); an April 2026 BAL photo of the white jersey shows a Jumpman mark instead (cdn-bal.nba.com/manage/sites/3/2026/04/Jo-Lual-Acuil-42-points-record-celebration-2-1-scaled.jpg), so outfitter branding is mixed early in the season."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+  "summary": "League-controlled branding only: PUMA (the BAL's official outfitter from the 2026 season) and Visit Rwanda carry on all BAL uniforms, incl. Al Ahly Ly's. No club-level shirt sponsor found; back, shorts and sleeve placements could not be checked from available imagery.",
   "change": null
 }
