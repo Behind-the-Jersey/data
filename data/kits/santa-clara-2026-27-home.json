@@ -11,23 +11,68 @@
     {
       "sponsorId": "lebull",
       "placement": "front",
+      "side": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "CD Santa Clara official shop: Camisola Principal PUMA 2026/27",
+        "date": "2026",
+        "url": "https://cdsantaclara.com/loja/produto/camisola-principal-puma-2026-27-7490/",
+        "quote": "A Camisola Principal PUMA 2026/27 inspira-se na força e na resiliência dos Açores. Uma peça que une identidade, tradição e paixão pelo Santa Clara.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Page without a date; opened 2026-10-03. English: 'The PUMA 2026/27 Home Shirt draws on the strength and resilience of the Azores. A piece that unites identity, tradition and passion for Santa Clara.' The product photos (e.g. https://cdsantaclara.com/loja/wp-content/uploads/2026/07/fs-02880-1-scaled.jpg) show 'Lebull' across the front. Lebull as main sponsor also named by FootyLogos ('Front sponsor: Lebull', footylogos.com/kits/cd-santa-clara-2026-27)."
       }
     },
     {
       "sponsorId": "azores-airlines",
       "placement": "front",
+      "side": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Azores Airlines front)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "CD Santa Clara official shop: Camisola Principal PUMA 2026/27",
+        "date": "2026",
+        "url": "https://cdsantaclara.com/loja/produto/camisola-principal-puma-2026-27-7490/",
+        "quote": "A Camisola Principal PUMA 2026/27 inspira-se na força e na resiliência dos Açores. Uma peça que une identidade, tradição e paixão pelo Santa Clara.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The product photos (e.g. https://cdsantaclara.com/loja/wp-content/uploads/2026/07/fs-03037-scaled.jpg) show the 'azores Airlines' wordmark on the upper chest. The club's official sponsors footer on the same page lists 'SATA Azores Airlines' with a link to azoresairlines.pt."
+      }
+    },
+    {
+      "sponsorId": "ilha-verde",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "CD Santa Clara official shop: Camisola Principal PUMA 2026/27",
+        "date": "2026",
+        "url": "https://cdsantaclara.com/loja/produto/camisola-principal-puma-2026-27-7490/",
+        "quote": "A Camisola Principal PUMA 2026/27 inspira-se na força e na resiliência dos Açores. Uma peça que une identidade, tradição e paixão pelo Santa Clara.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The product photos (e.g. https://cdsantaclara.com/loja/wp-content/uploads/2026/07/fs-03034-scaled.jpg and fs-02940-scaled.jpg) show 'ILHA VERDE RENT A CAR AZORES' on one sleeve; the other sleeve carries the Liga Portugal sleeve patch (with Betclic, the league's title sponsor, deal liga-portugal-betclic-title). The club's sponsors footer also lists 'Ilha Verde' with a link to ilhaverde.com."
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: No More Umbro: Puma Santa Clara 26-27 Home Kit Released",
+        "date": "2026-07-21",
+        "url": "https://www.footyheadlines.com/7547316190/no-more-umbro-puma-santa-clara-26-27-home-kit-released.html",
+        "quote": "Liga Portugal side Santa Clara have unveiled their first home kit with new partner Puma, replacing Umbro. The kit will be worn in the upcoming 2026-27 season.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker, recorded as partner per existing convention. The club's own shop sells the shirt as 'Camisola Principal PUMA 2026/27'."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull; Azores Airlines (Regional Government of the Azores) also on the front.",
+  "summary": "PUMA home shirt with Lebull (Southern Stingray, S.A.) across the front, Azores Airlines (SATA group) on the upper chest and Ilha Verde Rent a Car on a sleeve, all shown in the club shop's official photos; the other sleeve carries the Liga Portugal/Betclic league patch and a small Azores-flag patch is not a sponsor. Not marked complete: neither the club shop nor kit-launch coverage shows the back or the shorts, and the club lists CUF (Hospital CUF Açores) and N9V among its official sponsors without it being visible whether they carry shirt placements.",
   "change": null
 }
