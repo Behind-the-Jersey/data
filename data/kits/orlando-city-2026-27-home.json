@@ -12,13 +12,33 @@
       "sponsorId": "orlando-health",
       "placement": "front",
       "source": {
-        "name": "orlandocitysc.com",
+        "name": "Orlando City SC – 'Orlando City SC unveils 2026 Sunken Treasure kit presented by Orlando Health'",
+        "date": "2026-02-10",
+        "url": "https://www.orlandocitysc.com/news/orlando-city-sc-unveils-2026-sunken-treasure-kit-presented-by-orlando-health",
+        "quote": "Orlando City SC today unveiled the Sunken Treasure Kit, presented by Orlando Health, the Club’s new community kit through the 2027-28 Major League Soccer season.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.orlandocitysc.com/news/orlando-city-sc-unveils-2026-sunken-treasure-kit-presented-by-orlando-health"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The same page's sleeve table lists Orlando City SC with Apple TV on the left sleeve and no right-sleeve partner; its front-of-jersey table lists Orlando Health for Orlando City SC."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Gold adidas Sunken Treasure kit, presented by Orlando Health on the front through the 2027-28 season. Apple TV sits on the left sleeve of every MLS kit; Orlando City has no right-sleeve or back-of-jersey partner for 2026."
 }
