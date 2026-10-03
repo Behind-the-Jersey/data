@@ -4,7 +4,7 @@
   "ownerIds": [
     "danilova-ovsepyan"
   ],
-  "text": "BetBoom is the commercial designation of the bookmaker OOO Firma STOM (betboom.ru trademark page); its shareholders are OOO Asna-Grupp (50%) and OOO BK 369 (50%), and RB Business reported in August 2021, citing the EGRUL register, that the ultimate beneficiaries remain Marina Danilova and Arman Ovsepyan.",
+  "text": "BetBoom's shareholders are OOO Asna-Grupp (50%) and OOO BK 369 (50%); RB Business reported in August 2021, citing the EGRUL register, that the bookmaker's ultimate beneficiaries remain Marina Danilova and Arman Ovsepyan.",
   "short": "BetBoom is owned 50/50 by Asna-Grupp and BK 369; beneficiaries Danilova and Ovsepyan (RB Business, 2021).",
   "source": {
     "name": "RB Business (Рейтинг Букмекеров): Букмекеры BetBoom и bet365 сменили владельцев",
@@ -15,20 +15,7 @@
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
     },
-    "note": "RB Business (Bookmaker Ratings), citing EGRUL register changes. Ownership data is from August 2021; no newer ownership reporting found."
+    "note": "RB Business (Bookmaker Ratings), citing EGRUL register changes. BetBoom's own trademark page (https://betboom.ru/pages/tovznak, opened 3 Oct 2026) identifies the bookmaker's legal entity as OOO Firma STOM; not cited as a source because script checks can't extract the page's text. Ownership data is from August 2021; no newer ownership reporting found."
   },
-  "additionalSources": [
-    {
-      "name": "BetBoom official site: Товарный знак (legal name and trademark page)",
-      "date": "2026-10-03",
-      "url": "https://betboom.ru/pages/tovznak",
-      "quote": "Фирменное наименование: Общество с ограниченной ответственностью Фирма “СТОМ” (ООО Фирма “СТОМ“); Limited liability company Firm “STOM“ (LLC Firm “STOM”). Коммерческое обозначение: BETBOOM; BET BOOM.",
-      "checked": {
-        "on": "2026-10-03",
-        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
-      },
-      "note": "BetBoom's own site identifies its legal entity as OOO Firma STOM and BETBOOM / BET BOOM as its commercial designation. No publication date; opened 3 Oct 2026."
-    }
-  ],
   "reviewed": false
 }
