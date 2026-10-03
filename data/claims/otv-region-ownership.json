@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Datanewton — AO \"OBL-TV\" (company summary, EGRUL data)",
+      "date": "2026",
+      "url": "https://datanewton.ru/contragents/1187456019827",
+      "quote": "ГОСУДАРСТВЕННОЕ ПРЕДПРИЯТИЕ ЧЕЛЯБИНСКОЙ ОБЛАСТИ \"ОБЛАСТНОЕ ТЕЛЕВИДЕНИЕ\"",
+      "note": "Russian; 'State enterprise of Chelyabinsk Oblast Oblastnoye Televideniye' — listed as the predecessor (pravopredshestvennik) of AO 'Obl-TV', registered 4 May 2018. Second publisher corroborating the register data behind this claim; the page itself is undated (service footer (c) 2026).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
 }
