@@ -1,12 +1,18 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "claimIds": [
+    "tameeni-rasan-ownership",
+    "rasan-substantial-shareholders"
+  ],
+  "aliases": [
+    "Tameeni",
+    "تأميني"
+  ],
+  "note": "Wholly owned by Rasan Information Technology Company, a Saudi-listed fintech (Rasan IPO prospectus, May 2024; rasan.co IPO page calls Tameeni a flagship subsidiary). The prospectus named Rasan's direct 5%+ shareholders and stated there were no shareholders with indirect ownership of 5% or more; its post-offering table shows Impact Funds for Financial Technology Company at 13.06% and Assets Custody Development Impact Company at 4.49% (17.55% combined). Impact46 then announced its successful exit from Rasan through an accelerated bookbuild offering on 13 Mar 2025 (Argaam: https://www.argaam.com/en/article/articledetail/id/1797009), so who Rasan's current 5%+ holders are is not sourced. Proposed tier unrated until Rasan's current 5%+ holders are sourced. Al Riyadh announced Tameeni as a sponsor on 28 Aug 2025 (riyadhclub.sa)."
 }

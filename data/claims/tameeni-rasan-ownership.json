@@ -1,0 +1,31 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni Electronic Insurance Brokerage Limited is wholly owned by Rasan Information Technology Company.",
+  "source": {
+    "name": "Rasan Information Technology Company Prospectus (CMA), Subsidiaries",
+    "date": "2024-05",
+    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+    "quote": "Tameeni Electronic Insurance Brokerage Limited, a limited liability company established and existing in the Kingdom of Saudi Arabia under Commercial Registration No. 1010838913, dated 12/04/1444H (corresponding to 06/11/2022G), with a capital of five hundred thousand Saudi Riyals (SAR 500,000), wholly owned by the Company",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Rasan — Initial Public Offering (IPO), rasan.co",
+      "date": "2025",
+      "url": "https://rasan.co/en/investor-relations/ipo",
+      "quote": "One of the leading FinTech companies in the Middle East providing seamless services through our flagship subsidiaries, including Tameeni",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
