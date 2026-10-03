@@ -1,0 +1,34 @@
+{
+  "id": "fonbet-udodov-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "alexander-udodov"
+  ],
+  "text": "Businessman Alexander Udodov has been the sole owner of Pin-Up.ru since 13 April 2022; on the same day the Fonbet bookmaker's site named Pin-Up.ru as its owner.",
+  "short": "Fonbet is owned by Pin-Up.ru, bought by Alexander Udodov in April 2022.",
+  "source": {
+    "name": "The Bell: Бывший зять Мишустина купил крупнейшую в России букмекерскую сеть",
+    "date": "2022-04-15",
+    "url": "https://thebell.io/byvshiy-zyat-mishustina-kupil-krupneyshuyu-v-rossii-bukmekerskuyu-set",
+    "quote": "Бизнесмен Александр Удодов с 13 апреля стал единственным владельцем компании «Пин-Ап.ру»",
+    "note": "The article adds that on the same day Fonbet's site 'в качестве ее владельца указана «Пин-Ап.ру»' (named Pin-Up.ru as its owner).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Stavka.TV: Компания Фонбет: история основания и кто владелец",
+      "date": "2026-09-30",
+      "url": "https://stavka.tv/bookmakers/fonbet/about",
+      "quote": "В 2022 году «Фонбет» приобрел бизнесмен Александр Удодов",
+      "note": "Translation: 'In 2022, the businessman Alexander Udodov acquired Fonbet.' The page also says the licence holder is OOO 'Fonkor'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

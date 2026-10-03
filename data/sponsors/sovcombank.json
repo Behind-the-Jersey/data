@@ -1,14 +1,16 @@
 {
   "id": "sovcombank",
   "name": "Sovcombank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "khotimsky-brothers",
+  "ownership": "part-owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Main shareholders are the founding Khotimsky brothers; the bank has been listed on MOEX since December 2023. Nothing found.",
+  "claimIds": [
+    "sovcombank-khotimsky-ownership"
+  ],
   "aliases": [
     "Совкомбанк"
   ],
-  "note": "Official bank of HC Severstal."
+  "note": "FC Rostov premium sponsor per the club's sponsors page (2026-10-03); also official bank of HC Severstal. Rating note: private bank, listed since December 2023; the Khotimsky brothers did not sell into the IPO so their combined stake remains the largest (Reuters via The Moscow Times, Dec 2023); no state in the chain and no human-rights finding against the bank found (searched 3 Oct 2026)."
 }

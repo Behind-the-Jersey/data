@@ -1,0 +1,21 @@
+{
+  "id": "megafon-usm-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "usm-holding"
+  ],
+  "text": "MegaFon belongs to structures of USM, Alisher Usmanov's holding: 50% of shares at OOO AF Telekom Holding and 50% at OOO USM Telecom.",
+  "short": "MegaFon is owned by USM structures (Alisher Usmanov).",
+  "source": {
+    "name": "Kommersant: Акционеры «МегаФона» направили чистую прибыль за I квартал на выплату дивидендов",
+    "date": "2025-06-27",
+    "url": "https://www.kommersant.ru/doc/7850577",
+    "quote": "Компания принадлежит структурам USM Алишера Усманова. 50% акций находятся у ООО «АФ Телеком Холдинг», а остальные 50% — у ООО «ЮэСэМ Телеком».",
+    "note": "Translation: 'The company belongs to structures of USM, Alisher Usmanov's holding. 50% of shares are held by OOO AF Telekom Holding and the other 50% by OOO USM Telecom.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

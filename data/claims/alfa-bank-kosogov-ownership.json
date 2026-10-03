@@ -1,0 +1,34 @@
+{
+  "id": "alfa-bank-kosogov-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "andrey-kosogov"
+  ],
+  "text": "Alfa-Bank co-founder Andrey Kosogov held 40.96% of the bank's shares via ABH Holdings (as of March 2022), and Mikhail Fridman and Petr Aven completed the sale of their stakes in the bank to him in 2024.",
+  "short": "Kosogov is Alfa-Bank's largest shareholder (about 41% via ABH Holdings) after buying out Fridman and Aven.",
+  "source": {
+    "name": "Kommersant: FT: Авен и Фридман продали свои доли в Альфа-банке",
+    "date": "2025-02-06",
+    "url": "https://www.kommersant.ru/doc/7480510",
+    "quote": "Через ABH Holdings ему принадлежало 40,96% акций компании.",
+    "note": "The article states Fridman and Aven 'завершили продажу своих долей в Альфа-банке и «АльфаСтраховании» Андрею Косогову' (completed the sale of their stakes in Alfa-Bank and AlfaStrakhovanie to Andrey Kosogov) and that the deal was closed in 2024 with no official information published.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Meduza: FT: Фридман и Авен продали доли в Альфа-банке своему бизнес-партнеру",
+      "date": "2025-02-06",
+      "url": "https://meduza.io/news/2025/02/06/ft-fridman-i-aven-prodali-svoi-doli-v-alfa-banke",
+      "quote": "Доли Хана и Кузьмичева в Альфа-банке и LetterOne также выкупил Косогов, что сделало его крупнейшим акционером в обеих компаниях.",
+      "note": "Translation: 'Kosogov also bought out Khan's and Kuzmichev's stakes in Alfa-Bank and LetterOne, making him the largest shareholder in both companies.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

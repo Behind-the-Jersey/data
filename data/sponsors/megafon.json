@@ -1,14 +1,17 @@
 {
   "id": "megafon",
   "name": "MegaFon",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "megafon"
+  "ownerId": "usm-holding",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by structures of USM, Alisher Usmanov's holding. Nothing found.",
+  "claimIds": [
+    "megafon-usm-ownership"
   ],
-  "note": "Zenit and Krylia Sovetov partner."
+  "aliases": [
+    "megafon",
+    "МегаФон"
+  ],
+  "note": "FC Rostov premium sponsor per the club's sponsors page (2026-10-03); also a Zenit and Krylia Sovetov partner. No shirt placement confirmed on Rostov's 2026-27 home kit. Rating note: private telecoms operator; USM is Alisher Usmanov's private holding — his sanctions are a sanctions record, not a human-rights record under METHOD.md. No human-rights finding against the company found (searched 3 Oct 2026)."
 }
