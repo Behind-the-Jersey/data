@@ -15,37 +15,42 @@
         "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
         "date": "2026-06-15",
         "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements).",
+        "quote": "Al-Khaleej | Yelo Rent a Car | Laser",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "fisher-electronics",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
       }
     },
     {
       "sponsorId": "tameeni-insurance",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
       }
     },
     {
       "sponsorId": "almana-hospital",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
       }
     },
     {
@@ -72,10 +77,15 @@
       "sponsorId": "candy",
       "placement": "back",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "name": "Haier: Candy marks 80th anniversary with Milan exhibition and Al Khaleej partnership",
+        "date": "2025-11-25",
+        "url": "https://www.haier.com/global/press-events/news/20251125_283229.shtml",
+        "quote": "our brand has officially partnered with Al Khaleej, one of the most dynamic and promising teams in the Saudi Pro League",
+        "note": "Partnership confirmed by Haier; back-of-shirt placement per the SPL 2026-27 kit gallery.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -112,14 +122,19 @@
       "sponsorId": "laser",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Al-Khaleej. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Kit-maker column (pre-season list; superseded in places by in-season announcements).",
+        "quote": "Al-Khaleej | Yelo Rent a Car | Laser",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout review (PR #1108)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Laser home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "summary": "Laser home kit, 2026/27. 433FC's pre-season list names Yelo as main sponsor and Laser as kit maker; Haier's own release announces the Candy partnership. The league's official 2026-27 kit-gallery photo of Al-Khaleej's home shirt is a media-day shot without any sponsor prints, so the other placements carried here cannot be re-confirmed textually or visually from these sources; sponsorsComplete stays false.",
   "change": null
 }

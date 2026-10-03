@@ -1,11 +1,14 @@
 {
   "id": "candy",
   "name": "Candy",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "haier-smart-home",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Candy is the home-appliance brand of Haier Europe, part of Haier Smart Home.",
+  "claimIds": [
+    "candy-haier-ownership"
+  ],
+  "aliases": [],
+  "note": "Al-Khaleej partnership announced by Haier, 2025-11-25. ASPI's 2020 'Uyghurs for sale' report names Haier and Candy among 82 companies 'potentially directly or indirectly benefiting' from Xinjiang labour transfers in their supply chains (based on published supplier lists); that is journalism, not a human-rights finding against the company (same standard as the adidas re-rating, docs/rating-review-2026-09-27.md)."
 }

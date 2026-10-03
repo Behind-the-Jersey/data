@@ -1,11 +1,13 @@
 {
   "id": "shemagh-al-bassam",
   "name": "Shemagh Al Bassam",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "abnaa-mohammed-alajlan",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Shemagh brand of Mohammed Al-Saad Al-Ajlan Sons Co., a Saudi family trading company.",
+  "claimIds": [
+    "shemagh-al-bassam-ajlan-ownership"
+  ],
   "aliases": []
 }
