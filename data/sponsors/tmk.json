@@ -3,9 +3,9 @@
   "name": "TMK (Trubnaya Metallurgicheskaya Kompaniya)",
   "ownerId": "tmk-pao",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Listed Russian pipe producer; 85.27% held by MKOOO TMK Steel Holding. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "tmk-steel-holding-ownership"
   ],
