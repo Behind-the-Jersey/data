@@ -1,0 +1,35 @@
+{
+  "id": "krasnodar-krai-administration-state-body",
+  "kind": "ownership",
+  "ownerIds": [
+    "krasnodar-krai-administration",
+    "russian-federation"
+  ],
+  "text": "The Administration of Krasnodar Krai is the highest executive body of Krasnodar Krai, a constituent region (federal subject) of the Russian Federation.",
+  "short": "The Krasnodar Krai Administration is the region's highest executive body.",
+  "source": {
+    "name": "Krasnodar Krai legal acts portal (krasnodarpravo.ru): Governor's decree N 888 of 01.12.2022, 'On the system and structure of the executive bodies of Krasnodar Krai'",
+    "date": "2022-12-01",
+    "url": "https://krasnodarpravo.ru/postanovlenie/2022/12/01/n-888/",
+    "quote": "В систему исполнительных органов Краснодарского края входят: Губернатор Краснодарского края; высший исполнительный орган Краснодарского края - администрация Краснодарского края;",
+    "note": "Appendix 1, 'System of executive bodies of Krasnodar Krai'. The administration's official site (admkrai.krasnodar.ru) does not answer automated requests; this portal republishes the decree text.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "ConsultantPlus: Структура органов государственной власти Краснодарского края",
+      "date": "2026",
+      "url": "https://www.consultant.ru/law/podborki/struktura_organov_gosudarstvennoj_vlasti_krasnodarskogo_kraya/",
+      "quote": "О системе исполнительных органов государственной власти Краснодарского края и структуре высшего исполнительного органа государственной власти Краснодарского края - администрации Краснодарского края",
+      "note": "ConsultantPlus reproduces the title of Krasnodar Krai law 3255-КЗ, which names the administration as the region's highest executive body of state power.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

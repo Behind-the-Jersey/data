@@ -1,0 +1,34 @@
+{
+  "id": "sirius-federal-territory-public-law",
+  "kind": "ownership",
+  "ownerIds": [
+    "sirius-federal-territory",
+    "russian-federation"
+  ],
+  "text": "The Sirius federal territory is a public-law entity of the Russian Federation, created by Federal Law No. 437-FZ of 22 December 2020.",
+  "short": "The Sirius federal territory is a public-law entity of the Russian Federation.",
+  "source": {
+    "name": "Federal Territory Sirius official site (sirius-ft.ru): Общая информация",
+    "date": "2026",
+    "url": "https://sirius-ft.ru/about/",
+    "quote": "Для их реализации 22 декабря 2020 года была создана первая в России федеральная территория (Федеральный закон от 22.12.2020 № 437-ФЗ «О федеральной территории «Сириус»)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Российская газета (rg.ru, official publication): Federal Law No. 437-FZ 'On the Sirius federal territory', full text",
+      "date": "2020-12-25",
+      "url": "https://rg.ru/documents/2020/12/25/sirius-dok.html",
+      "quote": "Федеральной территорией \"Сириус\" признается имеющее общегосударственное стратегическое значение публично-правовое образование",
+      "note": "Article 2(1) of the law: the Sirius federal territory is a public-law entity of nationwide strategic importance. rg.ru published the law officially on 25.12.2020 (signed 22.12.2020).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

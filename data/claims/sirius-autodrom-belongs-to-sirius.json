@@ -1,0 +1,34 @@
+{
+  "id": "sirius-autodrom-belongs-to-sirius",
+  "kind": "ownership",
+  "ownerIds": [
+    "sirius-federal-territory"
+  ],
+  "text": "The Sochi race track was renamed Sirius Autodrom in 2024; its press service said the change reflects its belonging to the Sirius federal territory, and the site is being modernised for the federal territory's tasks.",
+  "short": "Sirius Autodrom (ex-Sochi Autodrom) says it belongs to the Sirius federal territory.",
+  "source": {
+    "name": "Вести.ru (VGTRK): «Сочи Автодром» сменил название",
+    "date": "2024-04-02",
+    "url": "https://www.vesti.ru/article/3883365",
+    "quote": "Это важное событие не только отражает нашу принадлежность к федеральной территории \"Сириус\", но и знаменует начало новой страницы в истории нашего любимого автодрома",
+    "note": "Reports the renaming of Sochi Autodrom to Sirius Autodrom, quoting the track's press service.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Коммерсантъ Краснодар: «Сочи Автодром» сменил название",
+      "date": "2024-04-02",
+      "url": "https://www.kommersant.ru/doc/6610504",
+      "quote": "«Это важное событие не только отражает нашу принадлежность к федеральной территории Сириус, но и знаменует начало новой страницы в истории нашего любимого автодрома»,— говорится в сообщении.",
+      "note": "Adds: 'Сейчас на автодроме проводятся работы по модернизации объекта под задачи федеральной территории.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
