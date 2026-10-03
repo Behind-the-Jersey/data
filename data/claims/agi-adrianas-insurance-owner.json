@@ -4,11 +4,11 @@
   "ownerIds": [
     "agi-business-group"
   ],
-  "text": "Adriana's Insurance, the California insurance agency, is part of the AGI Business Group, which founder Adriana Gallardo's own biography says she owns.",
-  "short": "Adriana's Insurance is part of AGI Business Group, owned by founder Adriana Gallardo.",
+  "text": "Adriana's Insurance is part of the AGI Business Group, which Adriana Gallardo founded and owns.",
+  "short": "Adriana's Insurance is part of AGI Business Group, founded and owned by Adriana Gallardo.",
   "source": {
     "name": "adrianagallardo.com – 'Biography - Adriana Gallardo'",
-    "date": "",
+    "date": "2025",
     "url": "https://www.adrianagallardo.com/en/pages/biography",
     "quote": "She currently owns the AGI Business Group empire, which includes Adriana's Insurance, the leading auto insurance agency in Southern California.",
     "checked": {
@@ -16,5 +16,17 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "San Diego FC – 'Adriana’s Insurance Joins San Diego FC as Official Jersey Sleeve Partner and Founding Partner'",
+      "date": "2025-11-09",
+      "url": "https://www.sandiegofc.com/news/adriana-s-insurance-joins-san-diego-fc-as-official-jersey-sleeve-partner-and-founding-partner",
+      "quote": "Founded by Adriana Gallardo, the company was built on a mission to uplift and empower the communities it serves",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (review of PR #1076)"
+      }
+    }
+  ],
   "reviewed": false
 }
