@@ -4,16 +4,17 @@
   "ownerIds": [
     "axpo-holding-ag"
   ],
-  "text": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG. Axpo is 100% publicly owned: all its shares sit with the cantons of northeastern Switzerland and their utilities, with Canton Zurich and its cantonal utility alone holding roughly 36%.",
-  "short": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
+  "text": "Axpo Holding AG is entirely in public hands: all of its shares are owned by the cantons of northeastern Switzerland and the cantonal utilities, with Canton Zürich and its cantonal utility together holding roughly 36% of the shares.",
+  "short": "Axpo Holding AG is 100% owned by Swiss cantons and their utilities.",
   "source": {
     "name": "Axpo Group, 'Owners - Entirely in public hands'",
     "date": "2026-09",
     "url": "https://axpo.com/group/en/about-us/axpo-group/owners.html",
     "quote": "All of Axpo Holding AG shares are owned by the cantons of Northeastern Switzerland and the cantonal utilities.",
+    "note": "The shareholder table on the same page gives Canton Zürich 18.342% and Elektrizitätswerke des Kantons Zürich 18.410% (together about 36.75%), Canton Aargau and AEW Energie AG about 28%, and the rest with St. Gallerisch-Appenzellische Kraftwerke, EKT Holding, Canton Schaffhausen, Canton Glarus and Canton Zug; the table carries a 19.12.2014 date.",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
   "reviewed": false
