@@ -15,11 +15,31 @@
         "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
         "date": "2023-06-19",
         "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        "quote": "Through the agreement, Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+        "note": "League-wide branding on all BAL uniforms, not a club-level shirt deal. On Club Africain's white 2026 BAL jersey VISIT RWANDA is printed on the front below the number (BAL/PUMA launch imagery; SportBusiness.tn photo 'Maillot PUMA du Club africain - BAL 2026': https://www.sportbusiness.tn/puma-bal-club-africain/).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Basketball Africa League (via APO Group): Basketball Africa League Names PUMA as League's Official Outfitter Ahead of 2026 Season",
+        "date": "2026-03-17",
+        "url": "https://bal.africa-newsroom.com/press/basketball-africa-league-names-puma-as-leagues-official-outfitter-ahead-of-2026-season?lang=en",
+        "quote": "will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms",
+        "note": "League-wide outfitter for the 2026 BAL season; the Puma chest logo is on Club Africain's white 2026 BAL jersey (SportBusiness.tn photo 'Maillot PUMA du Club africain - BAL 2026': https://www.sportbusiness.tn/puma-bal-club-africain/).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+  "summary": "League-designed 2026 BAL uniform made by PUMA (league outfitter, chest logo) with league-wide Visit Rwanda branding on the front below the number. No club-level shirt sponsor found for the 2026 BAL season; only front views of the jersey have been published, so back, sleeve and shorts placements are unchecked.",
   "change": null
 }
