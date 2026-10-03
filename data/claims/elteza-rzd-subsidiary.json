@@ -1,0 +1,34 @@
+{
+  "id": "elteza-rzd-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "elteza",
+    "rzd"
+  ],
+  "text": "AO Elteza, a manufacturer of railway automation systems, is a subsidiary of OAO Russian Railways (OAO RZD).",
+  "short": "Elteza is a subsidiary of RZD",
+  "source": {
+    "name": "Elteza official site, homepage (via Wayback Machine, captured 2026-08-31)",
+    "date": "2026-08-31",
+    "url": "https://web.archive.org/web/20260831024538/https://www.elteza.ru/",
+    "quote": "АО «ЭЛТЕЗА» (дочернее общество ОАО «РЖД», также входит в ГК «Нацпроектстрой»)",
+    "note": "English: 'AO Elteza (a subsidiary of OAO RZD; also part of the Natsproektstroy group)'. Live elteza.ru timed out from our network; archived copy used.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TAdviser: Company ELTEZA",
+      "date": "2026-10-03",
+      "url": "https://tadviser.com/index.php/Company:ELTEZA",
+      "quote": "ELTEZA is a subsidiary of RZD.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
