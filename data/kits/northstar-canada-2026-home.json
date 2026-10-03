@@ -12,31 +12,107 @@
       "sponsorId": "butterfield",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - NorthStar Canada (Official Partners)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/canada/"
+        "name": "SailGP: NorthStar Canada names Butterfield official offshore financial services partner",
+        "date": "2025-07-18",
+        "url": "https://www.sailgp.com/news/25/northstar-canada-names-butterfield-official-financial-services-partner/",
+        "quote": "NorthStar Canada names Butterfield official offshore financial services partner",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "SailGP news pages are client-rendered: the only text a script can see is the page title, which names the partnership. The article body (in the page's data) says Butterfield is 'the Official Offshore Financial Services Partner of the NorthStar SailGP Team in a newly signed three and a half year agreement'."
       }
     },
     {
       "sponsorId": "flyhouse",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - NorthStar Canada (Team Suppliers)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/canada/"
+        "name": "SailGP: FlyHouse continues partnership with NorthStar SailGP Team",
+        "date": "2026-01-14",
+        "url": "https://www.sailgp.com/news/26/flyhouse-continues-partnership-northstar-sailgp-team/",
+        "quote": "FlyHouse continues partnership with NorthStar SailGP Team",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "SailGP news pages are client-rendered: the page title is the only script-visible text. The article's own description states 'the continuation of its partnership with FlyHouse for the start of the 2026 Season'; the first deal was announced 7 Mar 2025 (sailgp.com/news/25/flyhouse-canada-northstar-race-partner/)."
       }
     },
     {
       "sponsorId": "juvenescence",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - NorthStar Canada (Official Partners)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/canada/"
+        "name": "SailGP: Juvenescence partners with NorthStar SailGP team to champion health, wellness and longevity",
+        "date": "2024-11-22",
+        "url": "https://www.sailgp.com/news/24/juvenescence-partners-northstar-sailgp-team/",
+        "quote": "Juvenescence partners with NorthStar SailGP team to champion health, wellness and longevity",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "SailGP news pages are client-rendered: the page title is the only text a script can see; the article body announces the partnership with Juvenescence."
+      }
+    },
+    {
+      "sponsorId": "quiksilver",
+      "placement": "partner",
+      "source": {
+        "name": "Authentic Brands Group press release: NorthStar SailGP Team Announces Long Term Partnership with Quiksilver",
+        "date": "2026-01-16",
+        "url": "https://corporate.authentic.com/press-releases/northstar-sailgp-team-long-term-partnership-quiksilver",
+        "quote": "As an Official Partner of the NorthStar SailGP Team, Quiksilver will support the team both on and off the racecourse",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "qinetix",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - NorthStar Canada (Team Suppliers)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/canada/",
+        "quote": "Canada SailGP Team | Team Suppliers",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The team page is fully client-rendered, so no partner name survives in the page's script-stripped text; the page's data lists Qinetix (with its logo, qinetixsolutions.co.uk) in the 'Canada SailGP Team | Team Suppliers' group. No press release for this partnership was found."
+      }
+    },
+    {
+      "sponsorId": "sports-illustrated",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP: NorthStar announces partnership with Sports Illustrated",
+        "date": "2026-01-16",
+        "url": "https://www.sailgp.com/news/26/northstar-canada-partnership-sports-illustrated/",
+        "quote": "NorthStar announces partnership with Sports Illustrated",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "SailGP news pages are client-rendered: the page title is the only text a script can see; the article's description states 'Sports Illustrated has joined the team as its Official Fan Experiences Partner'."
+      }
+    },
+    {
+      "sponsorId": "waterspeed",
+      "placement": "partner",
+      "source": {
+        "name": "Waterspeed: Waterspeed x NorthStar SailGP Team",
+        "date": "2025-11-27",
+        "url": "https://www.waterspeedapp.com/northstar-sailgp",
+        "quote": "Waterspeed is proud to join the NorthStar SailGP Team as their Official Technology Supplier",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Canada's team has no title sponsor; NorthStar is the team's own brand, with Butterfield, FlyHouse and Juvenescence as partners.",
+  "sponsorsComplete": true,
+  "summary": "Canada's team has no title sponsor; NorthStar is the team's own brand since its November 2024 rebrand from Canada SailGP Team (sail-world.com, 6 Nov 2024). The team page's partner block (sailgp.com/teams/canada, opened 2026-10-03) lists Official Partners Butterfield, FlyHouse and Juvenescence and Team Suppliers Quiksilver, Qinetix, Sports Illustrated and Waterspeed, each documented here by a team, partner or company announcement. Not recorded as sponsors: WeCANFoil, listed under Purpose Partners (the team's community/Impact-League programme), and the team's own name NorthStar, which is not a separate sponsor company.",
   "change": null
 }
