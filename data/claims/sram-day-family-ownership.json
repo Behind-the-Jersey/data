@@ -1,0 +1,20 @@
+{
+  "id": "sram-day-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "day-family"
+  ],
+  "text": "SRAM co-founder Stan Day said in January 2019, as Ken Lousberg was named CEO, that SRAM will continue to be a private company owned by the Day family and the management team.",
+  "short": "SRAM is privately owned by the Day family and the management team.",
+  "source": {
+    "name": "SGB Media - SRAM Announces Leadership Change",
+    "date": "2019-01-03",
+    "url": "https://sgbonline.com/sram-announces-leadership-change/",
+    "quote": "SRAM will continue to be a private company owned by the Day family and the management team. It will continue to focus its innovation and business within the bike industry.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

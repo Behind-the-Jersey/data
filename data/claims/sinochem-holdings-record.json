@@ -16,5 +16,17 @@
       "by": "source-audit-2026-09-26"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Just Auto (GlobalData) - Sinochem sells 14% Pirelli stake to Lumina Crown",
+      "date": "2026-07-31",
+      "url": "https://www.just-auto.com/news/sinochem-sells-14-pirelli-stake/",
+      "quote": "Chinese state-owned Sinochem has sold a 14% stake in Pirelli to Lumina Crown, an investment vehicle controlled by Czech businessman Michal Strnad, cutting its holding from 34.1% to 20.1%.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
 }

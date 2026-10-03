@@ -1,0 +1,20 @@
+{
+  "id": "trek-bicycle-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "trek-bicycle-corp"
+  ],
+  "text": "Trek's own Inside Trek page says the company remains a family company, owned by the employees and the founding family.",
+  "short": "Trek is owned by its employees and the founding family.",
+  "source": {
+    "name": "Trek Bicycle - Inside Trek",
+    "date": "2026",
+    "url": "https://www.trekbikes.com/us/en_US/inside_trek/trek/",
+    "quote": "Today, Trek remains a family company, owned by the employees and the founding family.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

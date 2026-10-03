@@ -1,0 +1,32 @@
+{
+  "id": "santini-vibria-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vibria-srl"
+  ],
+  "text": "The footer of Santini's own web shop lists Santini Spa's sole shareholder and directing-and-coordinating company as Vibria Srl of Bergamo; the UCI describes Santini as an Italian family company founded by Pietro Santini in 1965.",
+  "short": "Santini Spa's socio unico is Vibria Srl; UCI calls Santini an Italian family company.",
+  "source": {
+    "name": "Santini Cycling - La nostra storia (company footer: Santini Spa / socio unico Vibria Srl)",
+    "date": "2026",
+    "url": "https://www.santinicycling.com/en/pages/storia",
+    "quote": "SOCIO UNICO, DIREZIONE E COORDINAMENTO: C.F. 04536910161 VIBRIA SRL",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "UCI - Santini's 60-year journey at the service of cycling, its champions and its fans",
+      "date": "2025",
+      "url": "https://www.uci.org/article/santinis-60-year-journey-at-the-service-of-cycling-its-champions/2chSx6v4HWLlfB0nTbpemS",
+      "quote": "Founded in 1965 by Pietro Santini, Santini Cycling celebrates its 60th anniversary this year. The Italian family company has always been closely connected to professional cycling",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

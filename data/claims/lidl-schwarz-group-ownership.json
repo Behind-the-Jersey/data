@@ -1,0 +1,20 @@
+{
+  "id": "lidl-schwarz-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "schwarz-group"
+  ],
+  "text": "Schwarz Group's corporate site presents Lidl as one of the group's retail divisions: 'Retail - Lidl - The reliable fresh food discounter: Big on quality, Lidl on price'.",
+  "short": "Lidl is one of the retail divisions of Schwarz Group.",
+  "source": {
+    "name": "Schwarz Group - Who we are (The Divisions of Schwarz Group)",
+    "date": "2026",
+    "url": "https://group.schwarz/en/who-we-are",
+    "quote": "Retail Lidl The reliable fresh food discounter: Big on quality, Lidl on price",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

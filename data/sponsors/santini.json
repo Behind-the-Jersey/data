@@ -1,12 +1,17 @@
 {
   "id": "santini",
   "name": "Santini",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "vibria-srl",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "UCI Official Partner (UCI kit supplier)."
+  "claimIds": [
+    "santini-vibria-ownership"
+  ],
+  "aliases": [
+    "santini cycling",
+    "santini spa"
+  ],
+  "note": "Italian cycling-apparel maker; Lidl-Trek's kit supplier since 2018, when it began the partnership with Trek-Segafredo (Santini's own timeline). Santini Spa's footer names Vibria Srl of Bergamo as its sole shareholder (socio unico), and the UCI describes Santini as an Italian family company founded by Pietro Santini in 1965. Who owns Vibria Srl is not published on the pages checked, so the chain does not reach an identified owner and the sponsor stays unrated - see PR."
 }

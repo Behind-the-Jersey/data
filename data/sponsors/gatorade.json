@@ -1,11 +1,18 @@
 {
   "id": "gatorade",
   "name": "Gatorade",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "pepsico-inc",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
+  "status": "being-rated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "pepsico-owns-gatorade",
+    "pepsico-inc-listed",
+    "pepsico-inc-shareholders"
+  ],
+  "aliases": [
+    "gatorade portfolio"
+  ],
+  "note": "Sports drink brand; Lidl-Trek partner from the 2026 kit (named on the shirt per the launch coverage). Gatorade is a division of PepsiCo, a listed US company whose largest holders are Vanguard (10.1%) and BlackRock (8.2%) per its 2026 proxy. ON HOLD for a maintainer: the ownership chain is state-free, but major-NGO investigations reached PepsiCo inside the last 20 years - the 2016 RAN (Rainforest Action Network), ILRF (International Labor Rights Forum) and OPPUK report 'The Human Cost of Conflict Palm Oil: Indofood, PepsiCo's Hidden Link to Worker Exploitation in Indonesia' and its 2017 follow-up documented child labour, below-minimum pay and workers denied basic rights on Indofood oil-palm plantations, Indofood being PepsiCo's joint-venture partner producing PepsiCo snacks in Indonesia. Whether findings against a joint-venture partner's plantations pass METHOD.md's company test is for a maintainer. Amnesty International's 2016 'Great Palm Oil Scandal' report documented child and forced labour at Wilmar but does not name PepsiCo."
 }
