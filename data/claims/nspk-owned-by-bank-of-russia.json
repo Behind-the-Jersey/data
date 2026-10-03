@@ -1,0 +1,34 @@
+{
+  "id": "nspk-owned-by-bank-of-russia",
+  "kind": "ownership",
+  "ownerIds": [
+    "bank-of-russia"
+  ],
+  "text": "100% of NSPK, the operator of the Mir payment system, belongs to the Central Bank of the Russian Federation, which is NSPK's sole shareholder.",
+  "short": "Central Bank of Russia owns 100% of NSPK (Mir)",
+  "source": {
+    "name": "NSPK (National Payment Card System): О компании (About NSPK)",
+    "date": "2026",
+    "url": "https://www.nspk.ru/about/company/",
+    "note": "Company page (Russian). Undated; site footer says © 2026. The site's TLS chain failed Python's verification for our checker, so it needs to be opened by hand; quote verified with curl. English: '100% of shares of JSC NSPK belong to the Central Bank of the Russian Federation'.",
+    "quote": "100% акций АО «НСПК» принадлежит Центральному банку Российской Федерации",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Interfax: Банк России может начать переговоры о продаже НСПК в октябре",
+      "date": "2026-09-24",
+      "url": "https://www.interfax.ru/russia/1118184",
+      "note": "English: 'The sole shareholder of NSPK is the Bank of Russia.' The same report says the Central Bank must keep a controlling stake (at least 50% plus one share) in any sale of NSPK shares.",
+      "quote": "Единственным акционером НСПК является Банк России.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
