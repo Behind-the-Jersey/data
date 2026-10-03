@@ -1,0 +1,21 @@
+{
+  "id": "minnesota-united-target-front",
+  "clubId": "minnesota-united",
+  "orgName": null,
+  "sponsorId": "target",
+  "placement": "front",
+  "from": "2017",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Minnesota United: 'Target Becomes Official Partner And Kit Sponsor'",
+    "date": "2017-01-19",
+    "url": "https://www.mnufc.com/news/target-becomes-official-partner-and-kit-sponsor",
+    "quote": "Target is now the official partner and kit sponsor, joining MNUFC in a multi-year deal that will showcase the Target bullseye logo prominently on the 2017 kits.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page's publication date (2017-01-19) is from its datePublished metadata; the page body shows no date line. Forbes (Jan 19, 2017) reported the same day that financial terms were not disclosed; no club-specific deal value has been found, so value stays null."
+  }
+}

@@ -9,16 +9,37 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "select-health",
+      "sponsorId": "intermountain-health",
       "placement": "front",
       "source": {
-        "name": "rsl.com",
-        "date": "2026-02-14",
-        "url": "https://www.rsl.com/news/real-salt-lake-unveils-2026-27-primary-jersey"
+        "name": "For Soccer – '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors",
+        "quote": "Real Salt Lake Intermountain Health",
+        "note": "Quote is the team | jersey-partner row for Real Salt Lake in For Soccer's audit of the front and both sleeves of all 30 MLS clubs for the 2026 season (table row, cell separators omitted). KSL Sports says the same in prose: the front-of-kit sponsor on the home jersey 'remains Intermountain Health, which donned the RSL home kit for the first time in 2025' (sports.ksl.com/mls/real-salt-lake/rsl-switchback-kit-2026/571799, 2026-02-11) — that site blocks scripts (403), so the checkable source is cited here.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "For Soccer – '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors",
+        "quote": "Real Salt Lake Apple TV",
+        "note": "Row for Real Salt Lake in For Soccer's audit of all 30 MLS clubs' sleeves for the 2026 season (table: Team | Left Sleeve | Category | Right Sleeve | Category; cell separators omitted; Apple TV is the left sleeve, and RSL's right-sleeve cell is empty). League-wide patch under the Apple–MLS deal.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Adidas 'Switchback' home kit. Intermountain Health fronts the shirt (Select Health had the front in 2024); Apple TV's league-wide patch is on the left sleeve. No right-sleeve sponsor (For Soccer's Feb 2026 audit of all 30 MLS clubs lists none for RSL) and no back-of-jersey sponsor found."
 }
