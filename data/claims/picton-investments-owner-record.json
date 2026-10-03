@@ -1,0 +1,21 @@
+{
+  "id": "picton-investments-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "picton-mahoney-owner"
+  ],
+  "text": "PICTON Investments (Picton Mahoney Asset Management) is a Canadian investment firm, founded in 2004 and 100% employee-owned.",
+  "short": "PICTON Investments is 100% employee-owned.",
+  "source": {
+    "name": "CI Global Asset Management: PICTON Investments (strategic partner profile)",
+    "date": "2026-10-04",
+    "url": "https://www.cifinancial.com/ci-gam/ca/en/portfolio-management/picton-investments.html",
+    "quote": "Founded in 2004 and 100% employee-owned, PICTON Investments is committed to helping advisors and investors rethink portfolio construction and achieve greater certainty in investment outcomes.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Undated live strategic-partner profile page on CI Global Asset Management; date is the day it was opened. Page names David Picton as founding partner, President and CEO."
+  },
+  "reviewed": false
+}
