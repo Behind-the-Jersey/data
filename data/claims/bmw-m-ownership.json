@@ -10,8 +10,8 @@
     "name": "BMW Group Report 2025 (BMW AG), 'List of investments at 31 December 2025' (p. 351) / 'Disclosures Relevant for Takeovers' (p. 267)",
     "date": "2026",
     "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/bericht/BMW-Group-Report-2025-en.pdf",
-    "note": "The same table lists, a few rows down: 'BMW M GmbH Gesellschaft für individuelle Automobile, Munich 3, 5, 6 – – 100' (100% capital investment).",
-    "quote": "Affiliated companies (subsidiaries) of BMW AG at 31 December 2025 Companies Equity in € million Profit/loss in € million Capital investment in % DOMESTIC BMW INTEC Beteiligungs GmbH, Munich",
+    "note": "The row sits in the table headed 'Affiliated companies (subsidiaries) of BMW AG at 31 December 2025' with the column 'Capital investment in %' (100%).",
+    "quote": "BMW M GmbH Gesellschaft für individuelle Automobile, Munich 3, 5, 6   –  –  100",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
