@@ -1,0 +1,33 @@
+{
+  "id": "megafon-usm-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "usm-group"
+  ],
+  "text": "The MegaFon mobile operator is 100% owned by USM Group, the holding of billionaire Alisher Usmanov.",
+  "short": "MegaFon is 100% owned by Alisher Usmanov's USM Group.",
+  "source": {
+    "name": "The Moscow Times (Russian service): «Ростелеком» решил выкупить «Мегафон» у миллиардера Усманова",
+    "date": "2023-01-30",
+    "url": "https://ru.themoscowtimes.com/2023/01/30/rostelekom-reshil-vikupit-megafon-u-strukturi-milliardera-usmanova-a32169",
+    "quote": "Оператор на 100% принадлежит USM Group и владеет 100% «Скартел» (бренд Yota)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "RBC: «Ростелеком» столкнулся с финансовыми ограничениями в переговорах по покупке «МегаФона» (archived copy)",
+      "date": "2023-02-21",
+      "url": "https://web.archive.org/web/20230601202415/https://www.rbc.ru/technology_and_media/21/02/2023/63ef95a59a79478656aec06b",
+      "quote": "«МегаФона» (принадлежит USM Group Алишера Усманова)",
+      "note": "The live rbc.ru page returns 401 to scripts; quote verified on the Internet Archive copy.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

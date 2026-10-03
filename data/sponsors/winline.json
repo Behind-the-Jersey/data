@@ -3,10 +3,16 @@
   "name": "Winline",
   "ownerId": "winline",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Krasnodar shirt sponsor per its partner page; also a Zenit partner."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Russian bookmaker run by OOO Upravlyayushchaya kompaniya NKS; the largest share (45%) belongs to Andrei Myslivtsev, with the rest held by four private individuals. Nothing found.",
+  "claimIds": [
+    "winline-uk-nks-ownership"
+  ],
+  "aliases": [
+    "Винлайн",
+    "WIN",
+    "WINLINE"
+  ],
+  "note": "Ownership claim follows Stavka.TV's dated owner table (1 Oct 2026): Andrei Myslivtsev 45%, Larisa Egorchenko 20%, Robert Yusupov 16%, Eduard Grishkin 15%, Lyalya Yusupova 4%. Discrepancy: Legalbet's owner page names the main owner 'Dmitry Myslivtsev' — first name disagrees with Stavka.TV's 'Andrei'; surname and largest-share statement agree. Private owners; no state stake in the cited sources. Rating note: no link to a state with a record and no human-rights finding against the company itself found; nothing passes METHOD.md."
 }

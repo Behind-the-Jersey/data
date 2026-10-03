@@ -1,14 +1,17 @@
 {
   "id": "megafon",
   "name": "MegaFon",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "megafon"
+  "ownerId": "megafon",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The MegaFon mobile operator is 100% owned by USM Group, the private holding of Alisher Usmanov. Nothing found.",
+  "claimIds": [
+    "megafon-usm-ownership"
   ],
-  "note": "Zenit and Krylia Sovetov partner."
+  "aliases": [
+    "megafon",
+    "МегаФон"
+  ],
+  "note": "Owner attribution is from named press (The Moscow Times, Jan 2023; RBC, Feb 2023); MegaFon's own 2025 IFRS statements no longer name the controlling party (see owner note). Rating note: private owner; personal sanctions against Usmanov are not a record under METHOD.md, and no human-rights finding against MegaFon itself was found."
 }
