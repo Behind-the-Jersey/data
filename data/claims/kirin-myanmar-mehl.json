@@ -1,0 +1,45 @@
+{
+  "id": "kirin-myanmar-mehl",
+  "kind": "record",
+  "ownerIds": [
+    "kirin-holdings"
+  ],
+  "text": "The UN Independent International Fact-Finding Mission on Myanmar (2019) lists Myanmar Brewery Ltd and Mandalay Brewery Ltd among the joint ventures of MEHL, the Myanmar military's conglomerate, each 51% owned by Kirin Holdings Singapore Pte Ltd, which is owned by Kirin Holdings; and it finds that among the foreign businesses partnering with MEHL or MEC, Kirin Holdings provided financial support to the Tatmadaw at the first of its September 2017 fundraising ceremonies, which followed the start of the 'clearance operations' against the Rohingya. Amnesty International (2020) named Kirin among MEHL's foreign partners, and Human Rights Watch (2022) reported Kirin's two joint ventures with MEHL and that Kirin had announced it would withdraw from Myanmar.",
+  "short": "A UN fact-finding mission documented Kirin's 51%-owned brewery joint ventures with MEHL, the Myanmar military's conglomerate, and Kirin's donation at a 2017 military fundraising ceremony.",
+  "source": {
+    "name": "The economic interests of the Myanmar military (A/HRC/42/CRP.3), Independent International Fact-Finding Mission on Myanmar (hosted by UN OCHA ReliefWeb)",
+    "date": "2019-09-16",
+    "url": "https://reliefweb.int/attachments/3df36132-da3f-32a6-810e-7d314575a879/A_HRC_42_CRP_3.pdf",
+    "quote": "It is particularly noteworthy that among the foreign businesses partnering with MEHL or MEC, Kirin Holdings Pte Ltd. provided financial support to the Tatmadaw during the first of these fundraising ceremonies.",
+    "note": "Paragraph 117. Its annex of MEHL foreign joint ventures (paragraph 143 and table) lists 'Myanmar Brewery Ltd MEHL 51% owned by Kirin Holdings Singapore Pte Ltd, which is in turn owned by Kirin Holdings' and 'Mandalay Brewery Ltd MEHL 51% owned by Kirin Holdings Singapore Pte Ltd, which is in turn owned by Kirin Holdings'. Paragraph 145 finds that any foreign business activity involving the Tatmadaw and its conglomerates MEHL and MEC poses a high risk of contributing to, or being linked to, violations of human rights law and international humanitarian law. Annex IV lists a Kirin Holdings donation of 17.9 million kyat on 1 September 2017.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Myanmar: Leaked documents reveal global business ties to military crimes - Amnesty International",
+      "date": "2020-09-10",
+      "url": "https://www.amnesty.org/en/latest/press-release/2020/09/mehl-military-links-to-global-businesses/",
+      "quote": "MEHL has partnerships with a range of local and foreign businesses including Japanese beer multinational Kirin and South Korean steel giant POSCO.",
+      "note": "The same release says: 'Any company doing business with MEHL risks contributing to these violations and must take urgent steps to cut ties' (Justice For Myanmar's Yadanar Maung), and that MEHL's shareholders include military units implicated in crimes against humanity.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Human Rights Watch: Japan Beverage Giant to Withdraw from Myanmar",
+      "date": "2022-02-17",
+      "url": "https://www.hrw.org/news/2022/02/17/japan-beverage-giant-withdraw-myanmar",
+      "quote": "Kirin operates two joint ventures in the country – Myanmar Brewery and Mandalay Brewery – with MEHL",
+      "note": "HRW adds that human rights organizations 'criticized Kirin's ties with MEHL because they meant Kirin risked funding the military', and that Kirin said it would 'withdraw' from Myanmar by June 2022 after MEHL unilaterally sought to dissolve the joint venture without notifying Kirin.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

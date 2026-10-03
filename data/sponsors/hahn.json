@@ -1,12 +1,16 @@
 {
   "id": "hahn",
   "name": "Hahn",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "lion",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "hahn-lion-ownership",
+    "lion-kirin-ownership",
+    "kirin-myanmar-mehl"
+  ],
   "aliases": [],
-  "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25)."
+  "note": "Rating note for maintainer (Concern proposed): Hahn is a Lion beer brand (hahn-lion-ownership); Lion is 100% owned by Japan's Kirin Holdings (lion-kirin-ownership); a UN fact-finding mission documented that Kirin-owned Singapore companies held 51% of Myanmar Brewery and Mandalay Brewery, joint ventures with MEHL, the Myanmar military's conglomerate, and that Kirin donated at a September 2017 Tatmadaw fundraising ceremony (kirin-myanmar-mehl; Amnesty 2020 and HRW 2022 concur). Precedent: the POSCO concern decision (October 2026) counts a UN-documented joint venture with a military's business conglomerate. Kirin said in February 2022 it would withdraw from Myanmar. Hahn became an official sponsor of Ripper GC in February 2026 (Mediaweek, 2026-02-03)."
 }

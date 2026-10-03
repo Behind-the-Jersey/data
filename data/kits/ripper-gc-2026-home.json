@@ -12,40 +12,64 @@
       "sponsorId": "greyson",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Ripper GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/ripper-gc"
+        "name": "LIV Golf: Greyson Clothiers named Official Apparel Sponsor of all-Aussie LIV Golf team Ripper GC",
+        "date": "2025-02",
+        "url": "https://www.livgolf.com/news/greyson-clothiers-named-official-apparel-sponsor-ripper-gc",
+        "quote": "Ripper GC, the all-Australian team in the LIV Golf League, today announced a new partnership with Greyson Clothiers",
+        "note": "Official team announcement; Greyson is the team's 'official apparel sponsor'. The page shows only 'NEWS · 19 MONTHS AGO' (opened 2026-10-03); the partnership began with the 2025 season. The Greyson logo still appears in the team page's partner rail (2026-10-03).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "airasia",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Ripper GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/ripper-gc"
+        "name": "AirAsia Newsroom: AirAsia Partners With Reigning LIV Golf Champion Ripper GC",
+        "date": "2025-04-30",
+        "url": "https://newsroom.airasia.com/news/airasia-partners-with-reigning-liv-golf-champion-ripper-gc",
+        "quote": "AirAsia recently signed a new partnership with Ripper GC, one of the 13 teams in the LIV Golf League.",
+        "note": "AirAsia's own announcement; under the deal Ripper GC players wear caps with the AirAsia logo at LIV Golf events. The AirAsia logo still appears in the team page's partner rail (2026-10-03).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "hahn",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Ripper GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/ripper-gc"
+        "name": "LIV Golf: Hahn, Ripper GC announce partnership",
+        "date": "2026-02",
+        "url": "https://www.livgolf.com/news/hahn-ripper-gc-announce-partnership",
+        "quote": "announcing a brand new partnership with Ripper GC, becoming an official sponsor of one of golf’s most electric teams",
+        "note": "Official partnership announcement ('Hahn is swinging big in 2026'). The page shows only 'NEWS · 8 MONTHS AGO' (opened 2026-10-03); Mediaweek dates the announcement 3 February 2026.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "new-era",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Ripper GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/ripper-gc"
+        "name": "LIV Golf: Partners",
+        "date": "2026-10-03",
+        "url": "https://www.livgolf.com/partners",
+        "quote": "New Era is a supplier partner and the Official Cap of LIV Golf and it’s 13 teams.",
+        "note": "New Era is the league-wide Official Cap; its logo appears in the partner rail of every LIV team page, including Ripper GC's (checked 2026-10-03). League deal recorded in data/deals/liv-new-era.json.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Team partners 2026: Greyson Clothiers, AirAsia, Hahn, New Era. Led by Cameron Smith.",
+  "sponsorsComplete": true,
+  "summary": "Team partners 2026: Greyson Clothiers (official apparel), AirAsia (players wear AirAsia-logo caps), Hahn (official sponsor since February 2026), New Era (LIV Golf's league-wide Official Cap, shown on the team page). Complete list: the team page's partner rail (livgolf.com/ripper-gc, checked 2026-10-03) shows exactly these four partner logos; the rail is images only, so each entry cites the partnership announcement instead. Captain Cameron Smith.",
   "change": null
 }
