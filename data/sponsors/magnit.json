@@ -3,10 +3,15 @@
   "name": "Magnit",
   "ownerId": "magnit",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Dynamo Makhachkala partner."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Listed Russian grocery retailer; its largest shareholder is Alexander Vinokurov's Marathon Group with about 29% of the shares. Nothing found.",
+  "claimIds": [
+    "magnit-marathon-ownership"
+  ],
+  "aliases": [
+    "Магнит",
+    "Magnit PJSC"
+  ],
+  "note": "Front-of-shirt sponsor on Dynamo Makhachkala's 2026-27 home kit (club kit launch, 2026-07-25). PJSC Magnit is listed on the Moscow Exchange (MGNT; 2025 annual report); around 29.7% are treasury shares held via its own subsidiary Magnit Alyans. No state in the chain and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03)."
 }
