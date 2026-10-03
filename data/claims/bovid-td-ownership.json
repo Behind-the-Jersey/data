@@ -1,0 +1,20 @@
+{
+  "id": "bovid-td-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bovid-ooo"
+  ],
+  "text": "OOO 'Bovid' is the sole (100%) shareholder of AO 'Torgovy Dom Bovid', the trading-house company of the Bovid holding.",
+  "source": {
+    "name": "Checko — AO 'Torgovy Dom \"Bovid\"' (EGRUL data), founder",
+    "date": "2026",
+    "url": "https://checko.ru/company/torgovy-dom-bovid-1027403767379",
+    "quote": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БОВИД\" ОГРН 1027403768721 с 12 мая 2021 г. 49,6 млн руб. 100%",
+    "note": "Russian register-aggregator table: founder OOO 'Bovid' (OGRN 1027403768721), since 12 May 2021, 49.6m roubles, 100% of capital. Page shows no publication date; Checko footer 2019-2026.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

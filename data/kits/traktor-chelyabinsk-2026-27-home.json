@@ -7,8 +7,174 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "winline",
+      "placement": "back",
+      "source": {
+        "name": "HC Traktor official site — 'Winline stal ofitsialnym partnerom chelyabinskogo Traktora'",
+        "date": "2022-07-15",
+        "url": "https://hctraktor.org/media/news/43652-winline-stal-ofitsialnym-partnerom-chelyabinskogo-traktora/",
+        "quote": "а логотип букмекера — в игровую и тренировочную формы «черно-белых»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club announcement of the Winline deal: the bookmaker's logo goes on the game and training kit. Russian; 'the bookmaker's logo — on the game and training kit of the black-and-whites'. The club's own 2026-27 match photos (gallery 26/27 Traktor vs SKA, 25 Sep 2026) show the Winline oval above the back number."
+      }
+    },
+    {
+      "sponsorId": "winline",
+      "placement": "sleeve",
+      "source": {
+        "name": "HC Traktor official site — 'Winline stal ofitsialnym partnerom chelyabinskogo Traktora'",
+        "date": "2022-07-15",
+        "url": "https://hctraktor.org/media/news/43652-winline-stal-ofitsialnym-partnerom-chelyabinskogo-traktora/",
+        "quote": "а логотип букмекера — в игровую и тренировочную формы «черно-белых»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Same announcement; the club's 2026-27 match photos show a Winline oval patch on the upper sleeve."
+      }
+    },
+    {
+      "sponsorId": "rmk",
+      "placement": "patch",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. RMK logo in the club footer's sponsor list. Placement: the RMK diamond mark sits on the jersey's shoulder yoke and on the helmet back in the club's 2026-27 match photos (gallery 26/27 Traktor vs SKA).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tmk",
+      "placement": "patch",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. TMK logo in the club footer's sponsor list. A white TMK patch sits on the lower front of the 2026-27 home jersey (club match photos).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "bovid",
+      "placement": "sleeve",
+      "source": {
+        "name": "Bovid holding — 'BOVID i zvezdy Traktora podarili detyam prazdnik' (Bovid and Traktor stars gave children a party)",
+        "date": "2026",
+        "url": "https://bovid.ru/",
+        "quote": "«БОВИД» и звезды «Трактора» подарили детям праздник.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Bovid's own site, front page: joint Bovid–Traktor item on the Golden Puck tournament 2025/26 closing ceremony at the Traktor hockey school; Traktor also appears in Bovid's partners list. A Bovid patch sits on the sleeve below the number in the club's 2026-27 match photos. Page shows no date (projects dated 2025-2026)."
+      }
+    },
+    {
+      "sponsorId": "t-bank",
+      "placement": "league-partner",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. T-Bank is listed among the 'FONBET KHL Championship 2026/27 partners' on the club site footer (league-wide deal, data/deals/khl-t-bank.json). A small T-Bank patch sits at the top of the back, above the player name, in the club's 2026-27 match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mir-nspk",
+      "placement": "league-partner",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. MIR (NSPK) is listed among the 'FONBET KHL Championship 2026/27 partners' on the club site footer (league-wide deal, data/deals/khl-mir-nspk.json). A MIR patch sits on the upper chest in the club's 2026-27 match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "konar",
+      "placement": "partner",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. KONAR logo in the club footer's sponsor list; the KONAR mark appears on players' helmets in the club's 2026-27 match photos. No jersey placement found.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ikar",
+      "placement": "partner",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. Ikar logo in the club footer's sponsor list; footer link carries a gk-ikar.com campaign tagged '25-26_season'. No jersey placement found.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "spetstekhproekt",
+      "placement": "partner",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. Spetstekhproekt logo in the club footer's sponsor list (links to tdus.ru). No jersey placement found.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "otv",
+      "placement": "partner",
+      "source": {
+        "name": "HC Traktor official site — 'Sponsors and partners of HC Traktor' (site footer)",
+        "date": "2026-10-03",
+        "url": "https://hctraktor.org/",
+        "quote": "Спонсоры и партнеры ХК Трактор",
+        "note": "Site footer (no date shown on page; date is the check date). The footer is a titled list of sponsor logo links; the logo named in the entry's note is one of them. Links to the sponsor's own site. OTV (1obl.ru) logo in the club footer's sponsor/partner list. Media partner; no jersey placement found.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit (black, '#onlyblackandwhite'). Winline above the back number and on the sleeve; RMK on the shoulder yoke; TMK patch on the lower front; Bovid on the sleeve; T-Bank (top of back) and MIR (chest) as KHL league-partner patches; KONAR on helmets; Ikar, Spetstekhproekt and OTV as club partners without a documented jersey placement. Club sponsor list from the club site footer; jersey placements from the club's own 2026-27 match photos. SOGAZ on the goalie mask is a KHL league partner (see PR).",
   "change": null
 }

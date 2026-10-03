@@ -1,0 +1,20 @@
+{
+  "id": "otv-region-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-chelyabinsk-oblast"
+  ],
+  "text": "Rosstat classifies AO 'Obl-TV' — the company behind Chelyabinsk's OTV channel — as 'property of subjects of the Russian Federation' (owned by a region).",
+  "source": {
+    "name": "Checko — AO 'OBL-TV' (EGRUL/Rosstat codes)",
+    "date": "2026",
+    "url": "https://checko.ru/company/ao-obl-tv-1187456019827",
+    "quote": "13 Собственность субъектов Российской Федерации",
+    "note": "Russian; Rosstat ownership-form code OKFS 13 'Property of subjects of the Russian Federation'. The same page: the company was created on 4 May 2018 'by reorganisation (transformation)' of the state enterprise of Chelyabinsk Oblast 'Oblastnoye Televideniye'. Page shows no publication date; Checko footer 2019-2026.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
