@@ -1,14 +1,16 @@
 {
   "id": "daou",
   "name": "DAOU Vineyards",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "treasury-wine-estates",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "treasury-daou-ownership"
+  ],
   "aliases": [
     "DAOU"
   ],
-  "note": "4Aces GC partner and LIV Golf Official Supplier (livgolf.com/partners, fetched 2026-09-25)."
+  "note": "4Aces GC partner and LIV Golf Official Supplier (livgolf.com/partners, fetched 2026-09-25). Ownership researched 2026-10-03: owned by ASX-listed Treasury Wine Estates since December 2023 (treasury-daou-ownership). No state in the chain; no qualifying human-rights finding found in this run."
 }

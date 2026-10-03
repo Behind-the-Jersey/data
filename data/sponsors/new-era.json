@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "new-era-koch-family",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "new-era-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Ownership researched 2026-10-03: family-owned by the Koch family of Buffalo (new-era-ownership); no connection to Koch Industries. No state link and no qualifying human-rights finding found in this run."
 }

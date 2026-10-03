@@ -1,0 +1,21 @@
+{
+  "id": "flyhouse-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "flyhouse-management-llc"
+  ],
+  "text": "FlyHouse is a private aviation company (FlyHouse Management, LLC) founded and chaired by Sanford Michelman, co-founding partner of the law firm Michelman & Robinson.",
+  "short": "FlyHouse is a private aviation company founded and chaired by Sanford Michelman.",
+  "source": {
+    "name": "Michelman & Robinson: Sanford L. Michelman, Co-Founding Partner (attorney profile)",
+    "date": "2026",
+    "url": "https://www.mrllp.com/attorneys/sanford-l-michelman",
+    "quote": "He founded and is Chairman of FlyHouse, a private aviation company powered by dynamic proprietary pricing technology.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Undated page; opened 2026-10-03. The profile also lists 'FlyHouse Management, LLC (Board of Managers, Chairman)' under community involvement."
+  },
+  "reviewed": false
+}

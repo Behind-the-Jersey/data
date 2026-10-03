@@ -1,0 +1,33 @@
+{
+  "id": "new-era-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "new-era-koch-family"
+  ],
+  "text": "New Era (New Era Cap) is a family-owned company in its fourth generation of Koch family leadership, run by chief executive Christopher H. Koch; it was founded by Ehrhardt Koch in 1920.",
+  "short": "New Era Cap is a family-owned company led by fourth-generation CEO Christopher H. Koch.",
+  "source": {
+    "name": "Jackie Robinson Foundation: Christopher Koch (board member profile)",
+    "date": "2026",
+    "url": "https://jackierobinson.org/people/christopher-koch",
+    "quote": "Christopher H. Koch is the fourth generation CEO of the family-owned company New Era.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Undated page; opened 2026-10-03. The 1920 founding by Ehrhardt Koch and the family succession are on the archived copy of New Era's own history page cited below; the live page rate-limits scripted clients (HTTP 429)."
+  },
+  "additionalSources": [
+    {
+      "name": "New Era Cap: Our History (archived copy of neweracap.com/pages/our-story)",
+      "date": "2026",
+      "url": "http://web.archive.org/web/20260821021919/https://www.neweracap.com/pages/our-story",
+      "quote": "In 1920, his dream came true when he borrowed money from his sister, Rose to start New Era Cap Co.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
