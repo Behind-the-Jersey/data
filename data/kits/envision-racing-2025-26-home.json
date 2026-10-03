@@ -9,16 +9,82 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "paysafe",
+      "sponsorId": "envision-group",
       "placement": "front",
       "source": {
-        "name": "FIA Formula E - Paysafe Envision announcement (new Title Partner from 2026-27)",
-        "date": "2026-09-14",
-        "url": "https://www.fiaformulae.com/en/news/drivers/max-guenther-joins-forces-with-paysafe-envision-racing-for-2026-27-formula-e-season"
+        "name": "FIA Formula E - Envision Racing team page (Season 12 team name and title brand)",
+        "date": "2026-10-03",
+        "url": "https://www.fiaformulae.com/en/teams/envision-racing",
+        "quote": "ENVISION RACING",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The team raced Season 12 (2025/26) as 'ENVISION RACING' with drivers Eriksson/Buemi (page lists Season 12 standings). The Envision brand is Envision Group's, the team's owner; per the league note the team-title/name placement maps to the schema's front value (leagues/formula-e.json). Paysafe became Title Partner only for the GEN4 era from 2026-27, so it is not on this season's kit."
+      }
+    },
+    {
+      "sponsorId": "teijin",
+      "placement": "partner",
+      "source": {
+        "name": "Envision Racing - Partners (Teijin card)",
+        "date": "2026-10-03",
+        "url": "https://envision-racing.com/partners/",
+        "quote": "As an official partner of Envision Racing, Teijin provides cutting-edge material technologies",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club's official partners page (undated; date is the fetch date). Teijin's partnership dates from 2020 and was renewed for multiple years on 12 July 2022 (envision-racing.com, 'ENVISION RACING ANNOUNCE MULTI-YEAR PARTNERSHIP RENEWAL WITH TEIJIN')."
+      }
+    },
+    {
+      "sponsorId": "sand-technologies",
+      "placement": "partner",
+      "source": {
+        "name": "Envision Racing: Sand Technologies become official partner of Envision Racing",
+        "date": "2024-11-06",
+        "url": "https://envision-racing.com/sand-technologies-become-official-partner-of-envision-racing/",
+        "quote": "Sand Technologies, an award-winning enterprise AI solutions company, has partnered with Envision Racing",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Multi-year partnership announced 6 November 2024; the same announcement says 'the company will feature on Team collateral from testing'. Still an Official Partner on the club's partners page (fetched 2026-10-03)."
+      }
+    },
+    {
+      "sponsorId": "southwire",
+      "placement": "partner",
+      "source": {
+        "name": "Envision Racing: Southwire Company become Official Partner of Envision Racing",
+        "date": "2024-06-27",
+        "url": "https://envision-racing.com/southwire-company-become-official-partner-of-envision-racing/",
+        "quote": "Envision Racing is thrilled to announce a multi-year alliance with North America’s leading wire and cable company, Southwire.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Multi-year alliance announced 27 June 2024; still an Official Partner on the club's partners page (fetched 2026-10-03)."
+      }
+    },
+    {
+      "sponsorId": "omp",
+      "placement": "partner",
+      "source": {
+        "name": "Envision Racing - Partners (OMP card, Technical Partners)",
+        "date": "2026-10-03",
+        "url": "https://envision-racing.com/partners/",
+        "quote": "Global motorsport safety and performance brand, designing advanced racewear, seats, and equipment to protect and empower drivers worldwide",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Listed under 'TECHNICAL Partners' on the club's partners page (undated; date is the fetch date) - OMP supplies the team's racewear."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "Season 12 (2025/26) Jaguar I-Type 7, raced as Envision Racing: Envision (Envision Group, the team's owner and title brand) on the front; Teijin, Sand Technologies and Southwire as official partners and OMP as technical partner, per the club's partners page and its partnership announcements. Paysafe became Title Partner only for the GEN4 era (2026-27), announced 14 August 2026, so it is not on this season's kit. Car-livery positions don't map to the schema's placements (league note), so partners are recorded as 'partner'.",
   "change": null
 }

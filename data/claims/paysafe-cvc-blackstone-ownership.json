@@ -1,0 +1,21 @@
+{
+  "id": "paysafe-cvc-blackstone-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "paysafe"
+  ],
+  "text": "Paysafe Limited (NYSE: PSFE) reports that its principal shareholders - parties to its shareholders agreement, led by funds of CVC (25.4%) and Blackstone (21.4%) - beneficially own approximately 54.4% of its common shares.",
+  "short": "CVC (25.4%) and Blackstone (21.4%) funds lead Paysafe's principal shareholders, about 54.4% together.",
+  "source": {
+    "name": "Paysafe Ltd, Form 20-F for fiscal year 2025 (SEC EDGAR, filed 3 March 2026)",
+    "date": "2026-03-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1833835/000119312526088095/psfe-20251231.htm",
+    "quote": "Our Principal Shareholders beneficially own approximately 54.4% of our Company Common Shares.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The filing's Item 7.A table (beneficial ownership as of February 20, 2026) shows CVC 12,999,672 shares (25.4%) and Blackstone 10,914,696 (21.4%); the filing defines 'Principal Shareholders' as 'collectively, the Founder, Cannae LLC, the CVC Investors and the Blackstone Investors'. Cannae sold its remaining shares in November 2025 (FNF Holdings 4.4%). No state or state fund appears among the holders."
+  },
+  "reviewed": false
+}

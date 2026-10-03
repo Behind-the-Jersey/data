@@ -1,0 +1,21 @@
+{
+  "id": "racing-force-saye-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "racing-force-spa"
+  ],
+  "text": "Racing Force S.p.A. is listed on Euronext Growth Milan, and its own shareholder table shows SAYE S.p.A. as the largest shareholder with 49.27% of the share capital and the remaining 50.52% on the market.",
+  "short": "SAYE S.p.A. holds 49.27% of listed Racing Force S.p.A.",
+  "source": {
+    "name": "Racing Force Group: Shareholders' Information",
+    "date": "2026-10-03",
+    "url": "https://www.racingforce.com/investors-relations/shareholders-information/",
+    "quote": "SAYE S.p.A. 13.566.895,00 49.27%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The table also shows treasury shares 0.22% and 'Market 50.52%'. Page undated; the date given is the day the page was opened. SAYE S.p.A.'s own ownership was not researched in this pass; no state or state-fund holder appears on the page."
+  },
+  "reviewed": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "envision-group-owns-envision-racing",
+  "kind": "ownership",
+  "ownerIds": [
+    "envision-group"
+  ],
+  "text": "Envision, a renewable energy and technology company headquartered in Shanghai, became majority owner of the Formula E team then racing as Virgin Racing in April 2018; the team now races as Envision Racing.",
+  "short": "Envision Group has been the Formula E team's majority owner since 2018.",
+  "source": {
+    "name": "Envision Racing: Envision becomes Virgin Racing majority team owner",
+    "date": "2018-04-28",
+    "url": "https://envision-racing.com/envision-becomes-ds-virgin-racing-majority-team-owner/",
+    "quote": "world-leading renewable energy and technology company Envision is to become the majority team owner",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The club's own announcement (28 April 2018 per the site). The same page describes Envision: 'Headquartered in Shanghai, Envision is a global leader in renewable energy generation and smart energy management.'"
+  },
+  "additionalSources": [
+    {
+      "name": "FIA Formula E: Envision Racing welcome Paysafe as new Title Partner",
+      "date": "2026-08-14",
+      "url": "https://www.fiaformulae.com/en/news/teams/envision-racing-welcome-paysafe-as-new-title-partner",
+      "quote": "Envision Energy is delighted to have such a wonderful global brand like Paysafe joining Envision as Title Partners of the team",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Franz Jung, CEO & Chairman of the Board of Envision Racing and VP Envision Energy, speaking for Envision about the team - continued Envision ownership into the 2026 GEN4 era."
+    }
+  ],
+  "reviewed": false
+}
