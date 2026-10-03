@@ -12,14 +12,49 @@
       "sponsorId": "kosner",
       "placement": "front",
       "source": {
-        "name": "Baskonia, Kosner Baskonia naming announcement",
-        "date": "2025-11-20",
-        "url": "https://www.baskonia.com/kosner-baskonia/",
-        "note": "Kosner naming sponsor since 2025"
+        "name": "Kosner: 'Kosner renueva con Baskonia hasta 2028'",
+        "date": "2026-09-09",
+        "url": "https://www.kosner.es/kosner-renueva-con-baskonia-hasta-2028-dos-temporadas-mas-compartiendo-nombre-y-pasion-por-el-baloncesto/",
+        "quote": "Además de mantener el nombre de Kosner Baskonia, nuestra marca seguirá presente en la parte frontal de la camiseta de juego",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Renewal announced 9 Sep 2026 keeps Kosner as naming sponsor ('Kosner Baskonia') with front-of-shirt presence until 2028, covering 2026-27. Seen on the chest of the official 2026/27 home jersey in the club store's product photos (ACB 'full sponsor' version shows Kosner large on the chest; the EuroLeague version shows it smaller above KingRoyal.media)."
+      }
+    },
+    {
+      "sponsorId": "kingroyal-media",
+      "placement": "front",
+      "source": {
+        "name": "Mundo Deportivo (EFE): KingRoyal Media, nuevo patrocinador principal en la camiseta del Baskonia",
+        "date": "2025-11-13",
+        "url": "https://www.mundodeportivo.com/baloncesto/20251113/1002568571/kingroyal-media-nuevo-patrocinador-principal-camiseta-baskonia.html",
+        "quote": "es el nuevo patrocinador del Baskonia, que lucirá su marca en la parte frontal de su camiseta las dos próximas temporadas",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Two-season deal from November 2025 covers 2026-27. Mundo Deportivo: KingRoyal.media alone on the front in EuroLeague games, sharing the front with Kosner in ACB games. 'kingroyal .media' is printed on the front of the official 2026/27 home jersey in the club store's and Macron retailers' product photos."
+      }
+    },
+    {
+      "sponsorId": "alamosa",
+      "placement": "shorts",
+      "source": {
+        "name": "2Playbook: Kosner Baskonia firma a Alamosa para la trasera del pantalón hasta la temporada 2029-2030",
+        "date": "2026-09-25",
+        "url": "https://www.2playbook.com/patrocinio/kosner-baskonia-firma-alamosa-trasera-pantalon-hasta-temporada-2029-2030_23791_102.html",
+        "quote": "la compañía alavesa lucirá su marca en la parte trasera del pantalón de juego del primer equipo durante los partidos de la Liga Endesa",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Four-season deal (2026-27 to 2029-30) with Alavesa del Motor, S.A. (Alamosa); brand on the back of the game shorts in Liga Endesa games."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Named Kosner Baskonia since 2025.",
+  "summary": "Front of the 2026/27 home jersey: Kosner (naming sponsor 'Kosner Baskonia', renewed to 2028) and kingroyal.media (main sponsor since November 2025, alone on the front in EuroLeague games, shared with Kosner in ACB) — both confirmed by the announcements and by the official product photos of the Macron 2026/27 home singlet (club store and retailers), which also show only the Macron mark, the club crest and the Liga Endesa / EuroLeague Abu Dhabi competition badges elsewhere. Back of the shorts: Alamosa from 2026-27 (Liga Endesa games). Not marked complete: no source checked shows the back of the 2026/27 game jersey — in 2025-26 Grupo Amutio held the upper back and Vitoria-Gasteiz the lower (2Playbook, 13 Nov 2025), but no 2026-27 confirmation was found; the retail replica's back is plain.",
   "change": null
 }

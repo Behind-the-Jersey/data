@@ -8,9 +8,14 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "Ballpark Digest",
+    "name": "Ballpark Digest: Petco, Padres extend Petco Park naming-rights deal through 2027",
     "date": "2021-03-08",
-    "url": "https://ballparkdigest.com/2021/03/08/petco-padres-extend-petco-park-naming-rights-deal-through-2027"
+    "url": "https://ballparkdigest.com/2021/03/08/petco-padres-extend-petco-park-naming-rights-deal-through-2027/",
+    "quote": "Petco Health and Wellness and the San Diego Padres are extending the Petco Park naming-rights deal for two additional years, through the 2027 MLB season.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Petco Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-03-08."
+  "note": "Ballpark naming rights: Petco Park. The 2021 extension runs through the 2027 season; the original start of the naming-rights deal is not given, so from stays null. Value not disclosed."
 }
