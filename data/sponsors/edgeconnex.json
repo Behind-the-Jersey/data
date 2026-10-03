@@ -1,12 +1,16 @@
 {
   "id": "edgeconnex",
   "name": "EdgeConneX",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "eqt-ab",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by EQT's infrastructure funds (largest shareholder since 2020; Sixth Street minority since 2024). EQT AB is listed in Stockholm; its largest disclosed shareholder is Investor AB at 14.0%. Nothing found.",
+  "claimIds": [
+    "eqt-edgeconnex-ownership",
+    "eqt-top-shareholders-2026"
+  ],
   "aliases": [],
-  "note": "OKGC partner (livgolf.com/okgc, fetched 2026-09-25)."
+  "note": "OKGC pillar partner 2026 (KFOR via Yahoo Sports, 2026-04-21; logo in OKGC team page partner grid). Owned by the EQT Infrastructure IV and V funds; EQT AB (publ), their Stockholm-listed manager, publishes a top-25 shareholder table led by Investor AB (Wallenberg sphere) at 14.0% — no state owner in the chain, so nothing passes the METHOD.md test. Not recorded: EdgeConneX runs AdaniConneX, an Indian data-centre joint venture with Adani Enterprises (edgeconnex.com/company/about-edgeconnex); a JV partner is not an owner, so it cannot carry a rating.",
+  "ownerVerb": "owned by"
 }

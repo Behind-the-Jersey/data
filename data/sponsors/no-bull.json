@@ -1,14 +1,18 @@
 {
   "id": "no-bull",
   "name": "No Bull",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "No Bull Project"
+  "ownerId": "mike-repole",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Majority owned by US entrepreneur Mike Repole (family-office stake). Nothing found.",
+  "claimIds": [
+    "nobull-repole-ownership"
   ],
-  "note": "OKGC partner (livgolf.com/okgc, fetched 2026-09-25)."
+  "aliases": [
+    "No Bull Project",
+    "NOBULL"
+  ],
+  "note": "OKGC pillar partner 2026 (KFOR via Yahoo Sports, 2026-04-21; logo in OKGC team page partner grid). CNBC (2023-07-20) reported Repole's Impact Capital buying a majority stake in NOBULL; cnbc.com blocks scripts (403), so the checked source is SGB Media (2026-08-22), which reports Repole as majority owner and Tom Brady as second-largest shareholder after the 2024 TB12 merger. SGB says 'acquired in 2020'; CNBC's report dates the majority-stake purchase to July 2023 — flagged in the PR. Private US ownership; no state in the chain, nothing passes the METHOD.md test.",
+  "ownerVerb": "owned by"
 }
