@@ -1,0 +1,16 @@
+{
+  "id": "bjc-healthcare",
+  "name": "BJC HealthCare",
+  "ownerId": "bjc-healthcare",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "bjc-healthcare-nonprofit"
+  ],
+  "aliases": [
+    "BJC"
+  ],
+  "note": "Jersey right-sleeve partner of St. Louis CITY SC. Self-described nonprofit health care organization; no state or corporate owner. Rating proposed in the pull request; a maintainer sets the tier."
+}
