@@ -1,0 +1,34 @@
+{
+  "id": "oatly-nativus-crvv-jv",
+  "kind": "ownership",
+  "ownerIds": [
+    "nativus-company-limited",
+    "cr-verlinvest-health-investment-limited"
+  ],
+  "text": "Nativus Company Limited is a wholly owned subsidiary of CR Verlinvest Health Investment Limited (CRVV), a joint venture 50% owned by Verlinvest S.A. and 50% owned by Blossom Key (Hong Kong) Holdings Limited.",
+  "short": "Nativus is wholly owned by CR Verlinvest Health Investment, a 50/50 Verlinvest–Blossom Key joint venture.",
+  "source": {
+    "name": "Oatly Group AB — Annual Report on Form 20-F for fiscal year 2025 (SEC EDGAR), Item 7.A, footnote (1)",
+    "date": "2026-03-13",
+    "url": "https://www.sec.gov/Archives/edgar/data/1843586/000184358626000004/otly-20251231.htm",
+    "quote": "Nativus Company Limited is a wholly owned subsidiary of CR Verlinvest Health Investment Limited",
+    "note": "The same footnote continues: 'a joint venture that is 50% owned by Verlinvest S.A., a company incorporated in Belgium, and 50% owned by Blossom Key (Hong Kong) Holdings Limited'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "A&O Shearman — Allen & Overy advises Nativus on the USD10 billion IPO of Oatly",
+      "date": "2021-05-21",
+      "url": "https://www.aoshearman.com/en/news/allen-overy-advises-nativus-on-the-usd10-billion-ipo-of-oatly",
+      "quote": "Allen & Overy has advised Nativus Company Limited (Nativus), a joint venture formed by Verlinvest and a leading Chinese state-owned enterprise, as the majority shareholder in Oatly Group AB (Oatly)",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

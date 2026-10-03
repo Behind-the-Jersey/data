@@ -1,14 +1,16 @@
 {
   "id": "ef-education-first",
   "name": "EF Education First",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "ef-education-first",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by founder Bertil Hult and his family. Nothing found.",
+  "claimIds": [
+    "ef-hult-family-ownership"
+  ],
   "aliases": [
     "ef education"
   ],
-  "note": "Swiss-based, Swedish-founded education company (Hult family)."
+  "note": "Swiss-based, Swedish-founded education company founded by Bertil Hult in 1965. Forbes describes EF Education First as Bertil Hult's company, run by his three oldest sons (ef-hult-family-ownership); no state or state fund is in its ownership chain, so nothing passes the METHOD.md test. Title sponsor of the men's (EF Education-EasyPost) and women's (EF Education-Oatly) teams."
 }

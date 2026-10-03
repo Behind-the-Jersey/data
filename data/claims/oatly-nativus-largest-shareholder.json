@@ -1,0 +1,35 @@
+{
+  "id": "oatly-nativus-largest-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "oatly-group-ab",
+    "nativus-company-limited"
+  ],
+  "text": "Oatly Group AB's largest shareholder is Nativus Company Limited, which beneficially owned 284,253,953 ordinary shares, or 44.6% of the outstanding ordinary shares, as of March 11, 2026.",
+  "short": "Nativus Company Limited owns 44.6% of Oatly.",
+  "source": {
+    "name": "Oatly Group AB — Annual Report on Form 20-F for fiscal year 2025 (SEC EDGAR), Item 7.A Major Shareholders",
+    "date": "2026-03-13",
+    "url": "https://www.sec.gov/Archives/edgar/data/1843586/000184358626000004/otly-20251231.htm",
+    "quote": "Nativus Company Limited (1) 284,253,953 44.6 % Platin S.a.r.l. (2) 63,984,219 10.1 % Blackstone Funds (3) 59,877,869 9.3 %",
+    "note": "Filed with the SEC on 2026-03-13; table of 5%-or-greater shareholders as of March 11, 2026 (Platin S.a.r.l. 10.1%, Blackstone Funds 9.3% and Hillhouse Investment Management Ltd. 7.0% follow in the same table).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Mannheimer Swartling — Oatly announces financing commitments of USD 425 million",
+      "date": "2023-03-23",
+      "url": "https://www.mannheimerswartling.se/en/assignment/oatly-announces-financing-commitments-of-usd-425-million/",
+      "quote": "co-owner of the joint venture company Nativus, Oatly’s largest shareholder",
+      "note": "Swiss-Swedish law firm's assignment note describing Verlinvest S.A. as co-owner of Nativus, 'Oatly's largest shareholder'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
