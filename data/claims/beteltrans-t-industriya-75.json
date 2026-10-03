@@ -1,0 +1,35 @@
+{
+  "id": "beteltrans-t-industriya-75",
+  "kind": "ownership",
+  "ownerIds": [
+    "beteltrans",
+    "t-industriya"
+  ],
+  "text": "AO T-Industriya built a controlling stake of about 75% in AO BetElTrans (concrete sleeper manufacturer): it bought 50% minus 2 shares in 2014, and in March 2017 RZD's board resolved to sell it a further 25% for 1.5 billion rubles.",
+  "short": "T-Industriya owns about 75% of BetElTrans since 2017",
+  "source": {
+    "name": "Vedomosti: Компания, связанная с сыном генпрокурора Игорем Чайкой, получит 75% крупнейшего производителя шпал",
+    "date": "2017-03-27",
+    "url": "https://www.vedomosti.ru/business/articles/2017/03/28/682935-kompaniya-chaikoi-shpal",
+    "quote": "«Т-индустрия» уже владеет 50% минус 2 акции «Бетэлтранса» – пакет она купила в 2014 г. за 3 млрд руб.",
+    "note": "English: 'T-Industriya already owns 50% minus 2 shares of BetElTrans; it bought the package in 2014 for 3 billion rubles.' Same article reports RZD's board resolved to sell a further 25% for 1.5 billion rubles. Whether RZD's residual ~25% stake was sold later is unverified.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Kommersant: РЖД продает шпалы",
+      "date": "2016-08-17",
+      "url": "https://www.kommersant.ru/doc/3065385",
+      "quote": "В 2014 году 50% минус две акции БЭТ за 3,025 млрд руб. купило АО \"Т-Индустрия\".",
+      "note": "English: 'In 2014, AO T-Industriya bought 50% minus two shares of BET for 3.025 billion rubles.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
