@@ -1,0 +1,34 @@
+{
+  "id": "alatau-city-bank-kim-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "vyacheslav-kim"
+  ],
+  "text": "Alatau City Bank (formerly Jusan Bank) is controlled by Kazakh businessman Vyacheslav Kim: he completed the purchase of the bank by taking control of its parent First Heartland Securities in July 2025, and press describe him as the bank's sole shareholder.",
+  "short": "Alatau City Bank is controlled by businessman Vyacheslav Kim, named by press as its sole shareholder.",
+  "source": {
+    "name": "Kursiv.kz — Владелец Alatau City Bank сменит название",
+    "date": "2026-02-23",
+    "url": "https://kz.kursiv.media/2026-02-23/fvfv-vladelec-alatau-city-bank-smenit-imya/",
+    "quote": "И только в июле 2025-го Ким завершил покупку бывшего Jusan Bank, получив контроль над FHS.",
+    "note": "Translation: 'It was only in July 2025 that Kim completed the purchase of the former Jusan Bank, gaining control of FHS (First Heartland Securities, the bank's owner company).'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Exclusive.kz — Миллиардер, совладелец крупного банка создал холдинговую компанию в МФЦА",
+      "date": "2026-07-03",
+      "url": "https://exclusive.kz/milliarder-sovladelec-krupnogo-banka-sozdal-holdingovuju-kompaniju-v-mfca/",
+      "quote": "совладелец Kaspi.kz и единственный акционер Alatau City Bank Вячеслав Ким зарегистрировал в Международном финансовом центре «Астана» новую холдинговую компанию",
+      "note": "Translation: 'Kaspi.kz co-owner and sole shareholder of Alatau City Bank Vyacheslav Kim registered a new holding company in the Astana International Financial Centre.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
