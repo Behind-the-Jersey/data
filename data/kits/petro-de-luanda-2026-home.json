@@ -15,11 +15,31 @@
         "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
         "date": "2023-06-19",
         "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        "quote": "Through the agreement, Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+        "note": "Multi-year extension covering BAL playoffs and finals in 2026; the BAL's March 2026 PUMA announcement confirms RDB remains a Foundational Partner in the 2026 season.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+        "date": "2026-03-17",
+        "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+        "quote": "will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms",
+        "note": "League-wide outfitter deal from the 2026 BAL season: PUMA supplies the game uniforms of all BAL teams, including Petro de Luanda. Season 6 game photos (BAL highlight thumbnails on bal.nba.com) show the PUMA mark on Petro's jersey; no club-level shirt sponsor is visible.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+  "summary": "League-controlled branding only: Visit Rwanda is carried on all BAL uniforms and PUMA is the BAL's official outfitter from the 2026 season. BAL Season 6 game photos of Petro de Luanda's yellow home jersey show no club-level shirt sponsor.",
   "change": null
 }
