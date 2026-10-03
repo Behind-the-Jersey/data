@@ -18,11 +18,22 @@
   },
   "additionalSources": [
     {
+      "name": "Argaam – AYYAN, Dallah Health complete Al-Salam-Al-Ahsa acquisition",
+      "date": "2025-04-07",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1802858",
+      "quote": "AYYAN Investment Co. announced the completion of Dallah Healthcare Co. 's acquisition of its shares in Al-Ahsa Medical Services Co. and Al-Salam Medical Services Co.",
+      "note": "Independent Saudi financial-news coverage of the Tadawul announcement; the article shows the date 07/04/2025.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
       "name": "Dallah Health – 500 Million SAR Expected Increase in Dallah Healthcare's Revenues … Acquisition of Al Salam and Al Ahsa Hospitals",
-      "date": "2026-10-03",
+      "date": "2025-04-07",
       "url": "https://www.dallahhealth.com/english/media-center/500-million-sar-expected-increase-in-dallah-healthcares-revenues-in-the-first-year-after-completing-the-acquisition-of-al-salam-and-al-ahsa-hospitals-in-the-eastern-province",
       "quote": "the completion of its acquisition of Ayan Investment Company’s shares in Al Ahsa and Al Salam Hospitals in the Eastern Province",
-      "note": "Dallah Healthcare press release; it says the company acquired 97.41% of Al Ahsa Medical Services Company (Al Ahsa Hospital). The page is undated; the date is the day it was opened.",
+      "note": "Dallah Healthcare press release; it says the company acquired 97.41% of Al Ahsa Medical Services Company (Al Ahsa Hospital). The page shows the date '4/7/2025'; the Saudi Exchange announcement gives the acquisition-procedures conclusion date as 6 April 2025 (anId 86336), so the page date is read as 7 April 2025.",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
