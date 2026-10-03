@@ -19,11 +19,11 @@
   },
   "additionalSources": [
     {
-      "name": "President of Russia official site (kremlin.ru): Federal Law No. 437-FZ 'On the Sirius federal territory', text",
-      "date": "2020-12-22",
-      "url": "http://kremlin.ru/acts/bank/46254",
+      "name": "Российская газета (rg.ru, official publication): Federal Law No. 437-FZ 'On the Sirius federal territory', full text",
+      "date": "2020-12-25",
+      "url": "https://rg.ru/documents/2020/12/25/sirius-dok.html",
       "quote": "Федеральной территорией \"Сириус\" признается имеющее общегосударственное стратегическое значение публично-правовое образование",
-      "note": "Article 2(1) of the law: the Sirius federal territory is a public-law entity of nationwide strategic importance.",
+      "note": "Article 2(1) of the law: the Sirius federal territory is a public-law entity of nationwide strategic importance. rg.ru published the law officially on 25.12.2020 (signed 22.12.2020).",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
