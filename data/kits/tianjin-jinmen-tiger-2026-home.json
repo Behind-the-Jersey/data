@@ -1,0 +1,60 @@
+{
+  "id": "tianjin-jinmen-tiger-2026-home",
+  "clubId": "tianjin-jinmen-tiger",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "national-maritime-museum-of-china",
+      "placement": "front",
+      "source": {
+        "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "note": "Translation: 'Tianjin Jinmen Tiger FC's chest advertisement is \"Guohaibo\", which is \"Tianjin · National Maritime Museum\".' A survey of all 16 CSL clubs' 2026 chest sponsors. Football Daily (9 March 2026) and Orange Cat Football's chest-ads collection (25 March 2026) name 国海博 for Tianjin too.",
+        "quote": "天津津门虎足球俱乐部的胸前广告是“国海博”，就是“天津・国家海洋博物馆”",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "teda-nangang-group",
+      "placement": "front",
+      "source": {
+        "name": "足球报 via 腾讯新闻 (Football Daily via Tencent News): 中超新气象：11队更换胸前广告，首轮上座再超去年",
+        "date": "2026-03-09",
+        "url": "https://news.qq.com/rain/a/20260309A04NI200",
+        "note": "Translation: 'Tianjin Jinmen Tiger, while keeping TEDA Nangang Group, introduced Guohaibo as a co-sponsor.' The paragraph is about clubs' 2026 chest (胸前) advertisements. Orange Cat Football's 2026 chest-ads collection (news.qq.com/rain/a/20260325A03SEJ00, 25 March 2026) likewise lists 天津津门虎（泰达南港） among the chest sponsors, as a club-related (关联方) advertiser. The exact chest arrangement of the two wordmarks could not be verified from sources we could open.",
+        "quote": "天津津门虎则在保留泰达南港集团的同时，引入国海博作为联合赞助商",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "note": "Kit supplier for all 16 CSL clubs in 2026; the article carries its own section for Tianjin Jinmen Tiger (bespoke home design). Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The club's launch announcement of the same day (via zhibo8, 28 January 2026, 10:24) confirms the purple home shirt.",
+        "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 CSL home kit by Nike (launched 28 January 2026; purple with a dark tiger-stripe graphic). Chest sponsors for 2026: 国海博 — the 'Guohaibo' wordmark of Tianjin's National Maritime Museum of China, new for 2026 — and 泰达南港集团 (TEDA Nangang Group), retained from 2025; both are documented as chest (胸前) sponsors by Chinese press, but the exact chest arrangement could not be verified. Not complete: the back, sleeve and shorts placements for 2026 could not be verified from sources we could open (in 2025 the back carried 生态城控股集团 and 滨旅控股; no 2026 source names them), and footballkitarchive.com blocks scripts.",
+  "change": null
+}
