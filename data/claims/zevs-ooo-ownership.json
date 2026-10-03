@@ -1,0 +1,22 @@
+{
+  "id": "zevs-ooo-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zevs-ooo",
+    "petukhov-denisova"
+  ],
+  "text": "ООО «Зевс», the 97.5% owner of the Olimpbet operator ООО «БК «Олимп», was founded by two private individuals, Andrey Petukhov and Darina Denisova, holding 50% each, per EGRUL registry data republished by RusProfile.",
+  "short": "ООО «Зевс» is owned 50/50 by individuals Andrey Petukhov and Darina Denisova.",
+  "source": {
+    "name": "RusProfile: ООО \"Зевс\" company profile (EGRUL data, archived by the Wayback Machine)",
+    "date": "2025-07-05",
+    "url": "https://web.archive.org/web/20250705121148/https://www.rusprofile.ru/id/11774446",
+    "quote": "Петухов Андрей Николаевич и Денисова Дарина Борисовна, каждый из которых владеет 50% долей с вкладом по 210 млн рублей",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Russian: Petukhov Andrey Nikolayevich and Denisova Darina Borisovna, each owning a 50% share with a contribution of 210 million rubles. The page's EGRUL founders section lists the same two individuals as the company's founders. Archived capture of 2025-07-05; the live site blocks datacenter requests."
+  },
+  "reviewed": false
+}

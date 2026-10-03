@@ -1,0 +1,22 @@
+{
+  "id": "bk-olimp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bk-olimp",
+    "zevs-ooo"
+  ],
+  "text": "ООО «БК «Олимп», the licensed bookmaker operating the Olimpbet brand (olimp.bet), is 97.5% owned by ООО «Зевс» and 2.5% by its general director Sergey Kozyavkin, per EGRUL registry data republished by RusProfile.",
+  "short": "Olimpbet's operator ООО «БК «Олимп» is 97.5% owned by ООО «Зевс» and 2.5% by CEO Sergey Kozyavkin.",
+  "source": {
+    "name": "RusProfile: ООО \"БК \"Олимп\" company profile (EGRUL data, archived by the Wayback Machine)",
+    "date": "2025-12-22",
+    "url": "https://web.archive.org/web/20251222233502/https://www.rusprofile.ru/id/6757485",
+    "quote": "Основным владельцем выступает юридическое лицо ООО \"ЗЕВС\" с долей 97,5%, тогда как сам директор владеет 2,5% уставного капитала",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Russian: the main owner is the legal entity ООО «Зевс» with a 97.5% share, while the director himself owns 2.5% of the charter capital. The live rusprofile.ru page blocks datacenter requests; the archived capture is from 2025-12-22. The page's founders section per EGRUL names ООО «Зевс» and Козявкин Сергей Геннадьевич as the two founders."
+  },
+  "reviewed": false
+}
