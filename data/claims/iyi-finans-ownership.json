@@ -4,17 +4,29 @@
   "ownerIds": [
     "iyi-finans"
   ],
-  "text": "İyi Finans operates as the brand of Adil Tasarruf Finansman A.Ş., a savings-finance (tasarruf finansmanı) company.",
-  "short": "İyi Finans is the brand of Adil Tasarruf Finansman A.Ş.",
+  "text": "İyi Finans operates as the brand of Adil Tasarruf Finansman A.Ş., a savings-finance (tasarruf finansmanı) company the BDDK licensed on 7 July 2025. Per the company's 2025 annual-report ownership information, reported by Milli Gazete, Adil Tasarruf Finansman A.Ş. is wholly owned by Ali Emre Ballı, who also chairs its board.",
+  "short": "İyi Finans is the brand of Adil Tasarruf Finansman A.Ş., 100% owned by its chair Ali Emre Ballı.",
   "source": {
-    "name": "FintekWins: İyi Finans, EFBS'ye üye olan ilk Türk şirket oldu",
-    "date": "2026-04-21",
-    "url": "https://www.fintekwins.com/iyi-finans-efbsye-uye-olan-ilk-turk-sirket-oldu/",
-    "quote": "Adil Tasarruf Finansman A.Ş.'nin markası olarak faaliyet gösteren İyi Finans",
+    "name": "Milli Gazete: İyi Finans'ın sahibi kim, Ali Emre Ballı kimdir, şirketin yüzde 100 hissesi kime ait?",
+    "date": "2026-09-17",
+    "url": "https://www.milligazete.com.tr/iyi-finansin-sahibi-kim-ali-emre-balli-kimdir-sirketin-yuzde-100-hissesi-kime-ait",
+    "quote": "Şirketin 2025 faaliyet raporuna ilişkin yayımlanan ortaklık bilgilerine göre Adil Tasarruf Finansman A.Ş.'nin yüzde 100 payı Ali Emre Ballı'ya ait.",
     "checked": {
-      "on": "2026-09-28",
-      "by": "Schnitzel"
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "FintekWins: İyi Finans, EFBS'ye üye olan ilk Türk şirket oldu",
+      "date": "2026-04-21",
+      "url": "https://www.fintekwins.com/iyi-finans-efbsye-uye-olan-ilk-turk-sirket-oldu/",
+      "quote": "Adil Tasarruf Finansman A.Ş.'nin markası olarak faaliyet gösteren İyi Finans",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
+  ],
   "reviewed": false
 }
