@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Interfax: Структуры Александра Чачавы нарастили долю в Ozon до 34,95% (Chachava structures raise Ozon stake to 34.95%)",
+      "date": "2026-04-10",
+      "url": "https://www.interfax.ru/business/1083246",
+      "quote": "Компания АО \"О23\" довела долю в капитале Ozon до 34,95%, следует из отчета МКПАО \"Озон\" по МСФО.",
+      "note": "Same article, on the share-capital structure as of 1 March 2026: AFK Sistema's stake stays at 31.8%, the remaining 33.25% is spread among minorities; it also says AO O23 was acquired by structures of businessman Alexander Chachava.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
