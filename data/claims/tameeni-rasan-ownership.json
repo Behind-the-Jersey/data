@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Rasan: IPO page",
+      "date": "2026",
+      "url": "https://www.rasan.co/en/ipo",
+      "quote": "providing seamless services through our flagship subsidiaries, including Tameeni",
+      "note": "Rasan describes Tameeni as one of its subsidiaries. Page without a date; opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
