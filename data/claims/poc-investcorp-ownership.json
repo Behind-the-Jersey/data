@@ -1,0 +1,34 @@
+{
+  "id": "poc-investcorp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "investcorp"
+  ],
+  "text": "POC, the Swedish maker of premium skiing and cycling helmets and protection gear, is a portfolio company of Investcorp, which lists POC among its acquired private-equity investments.",
+  "short": "POC is a portfolio company of Investcorp.",
+  "source": {
+    "name": "Investcorp portfolio page: POC",
+    "date": "2026",
+    "url": "https://www.investcorp.com/portfolio/poc/",
+    "quote": "POC Stockholm, Sweden 2019 Acquired",
+    "note": "The page is Investcorp's own portfolio entry for POC, marked 'Acquired'; it also describes POC as 'Established in 2005 in Stockholm, Sweden, POC is a leading manufacturer of premium skiing and cycling helmets, apparel, and accessories'. Unquote reported the acquisition from Black Diamond in 2015; Investcorp's page shows 2019.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Unquote: Investcorp launches POC Sports exit; Rothschild advises",
+      "date": "2022-02-18",
+      "url": "https://www.unquote.com/nordics/news/3026230/investcorp-launches-poc-sports-exit-rothschild-advises",
+      "quote": "Investcorp acquired POC Sports from Black Diamond in 2015, financing the deal with all equity, as reported.",
+      "note": "Independent confirmation that Investcorp bought POC and was still its owner when the exit process was reported in February 2022.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

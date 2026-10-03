@@ -1,0 +1,18 @@
+{
+  "id": "poc",
+  "name": "POC",
+  "ownerId": "investcorp",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "poc-investcorp-ownership",
+    "mubadala-investcorp-stake",
+    "uae-mass-trial-2024"
+  ],
+  "aliases": [
+    "POC Sports"
+  ],
+  "note": "Official Supplier of the Switzerland SailGP team (sailgp.com team page). Proposed concern: Investcorp owns POC, Mubadala agreed in 2016 to take 20% of Investcorp and was still its biggest shareholder at the 2021 delisting, and Mubadala's chain runs through the Government of Abu Dhabi to the UAE, whose mass-trial record is documented (uae-mass-trial-2024). A maintainer sets the tier; see the pull request for the draft why and the caveat that the 20% stake is last evidenced in 2021."
+}
