@@ -1,0 +1,21 @@
+{
+  "id": "underdog-ig-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "underdog-sports-holdings",
+    "ig-group-holdings"
+  ],
+  "text": "Underdog is the US daily fantasy sports and prediction markets business of Underdog Sports Holdings, Inc. On 30 July 2026 IG Group Holdings plc announced that it had agreed to acquire Underdog, subject to regulatory approvals; IG said on 8 September 2026 the business was one it 'agreed to acquire on 30 July 2026, subject to regulatory approvals'.",
+  "short": "IG Group Holdings plc agreed on 30 July 2026 to acquire Underdog, subject to regulatory approvals.",
+  "source": {
+    "name": "IG Group Holdings plc press releases: 'Acquisition of Underdog' (30 July 2026) and 'Notice of Underdog investor seminar' (8 September 2026)",
+    "date": "2026-07-30",
+    "url": "https://www.iggroup.com/investor-relations/press-releases",
+    "quote": "IG Group Holdings plc (\"IG\", \"the Group\") announces that it has agreed to acquire Underdog (Underdog Sports Holdings, Inc.) (\"Underdog\").",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

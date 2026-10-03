@@ -1,0 +1,32 @@
+{
+  "id": "new-era-cap-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "new-era-cap"
+  ],
+  "text": "New Era Cap, LLC is a Buffalo-based headwear company described as family-owned, led by fourth-generation CEO Christopher H. Koch. Private-equity firm ACON Investments calls New Era a portfolio company: it invested in January 2021 as New Era's first institutional equity capital and said in June 2024 it would maintain a significant stake in the combined company acquiring '47.",
+  "short": "New Era Cap is family-owned (Koch family) with a significant ACON Investments stake.",
+  "source": {
+    "name": "ACON Investments: 'ACON Portfolio Investment, New Era, to Acquire '47, Creating Premier Global Sport and Lifestyle Company'",
+    "date": "2024-06-07",
+    "url": "https://aconinvestments.com/news/acon-portfolio-investment-new-era-to-acquire-47-creating-premier-global-sport-and-lifestyle-company",
+    "quote": "New Era is a portfolio company of ACON, a Washington, D.C.-based private equity firm.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Jackie Robinson Foundation: Christopher Koch biography",
+      "date": "2026",
+      "url": "https://jackierobinson.org/people/christopher-koch",
+      "quote": "Christopher H. Koch is the fourth generation CEO of the family-owned company New Era.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kalshi-inc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kalshi-inc"
+  ],
+  "text": "Kalshi is a private prediction-market company; its May 2026 announcement names Tarek Mansour as co-founder and CEO, and states that its $1 billion Series F round at a $22 billion valuation was led by Coatue, with participation from Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley and ARK Invest.",
+  "short": "Kalshi is a private, venture-backed company; its May 2026 Series F was led by Coatue.",
+  "source": {
+    "name": "Kalshi News: 'Kalshi Raises $1 Billion at a $22 Billion Valuation as Institutional Adoption Accelerates'",
+    "date": "2026-05-07",
+    "url": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges",
+    "quote": "announced a $1 billion Series F round at a $22 billion valuation, led by Coatue, with participation from Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley, and ARK Invest",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

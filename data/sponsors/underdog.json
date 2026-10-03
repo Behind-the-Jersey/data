@@ -1,14 +1,16 @@
 {
   "id": "underdog",
   "name": "Underdog",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "underdog-sports-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Underdog Sports Holdings, Inc., a private US company. Nothing found.",
+  "claimIds": [
+    "underdog-ig-group-ownership"
+  ],
   "aliases": [
     "Underdog Fantasy"
   ],
-  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25). Rating note: private, founder- and venture-backed; London-listed IG Group Holdings plc announced on 30 July 2026 it had agreed to acquire the company, with completion subject to regulatory approvals (iggroup.com press releases). Re-check ownership once the acquisition closes."
 }

@@ -1,12 +1,14 @@
 {
   "id": "kalshi",
   "name": "Kalshi",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "kalshi-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Kalshi Inc. is a private, venture-backed prediction-market company. Nothing found.",
+  "claimIds": [
+    "kalshi-inc-ownership"
+  ],
   "aliases": [],
-  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25). Rating note: founders and US venture investors (Coatue, Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley, ARK Invest); no state or state-fund owner in its announced funding. Its CFTC litigation is regulatory, not a human-rights finding."
 }
