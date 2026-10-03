@@ -1,0 +1,21 @@
+{
+  "id": "electrolux-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "electrolux-group"
+  ],
+  "text": "AB Electrolux's largest shareholder is Investor AB, which held 17.94 percent of the shares and 30.43 percent of the votes in May 2026.",
+  "short": "Largest shareholder is Investor AB",
+  "source": {
+    "name": "Nasdaq – AB Electrolux notice: 'Electrolux Group announces terms for the fully underwritten rights issue of SEK 9,062 million'",
+    "date": "2026-05-21",
+    "url": "https://view.news.eu.nasdaq.com/view?id=bdf592693f61ce8217a3d69b4d096fbe2&lang=en&src=micro",
+    "quote": "Investor AB, holding 17.94 percent of the shares and 30.43 percent of the votes in AB Electrolux",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Exchange notice by AB Electrolux about a rights issue of Class A and B shares; it also names Frigidaire among the group's brands ('including Electrolux, AEG and Frigidaire')."
+  },
+  "reviewed": false
+}

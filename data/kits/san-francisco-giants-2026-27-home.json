@@ -12,9 +12,15 @@
       "sponsorId": "airwallex",
       "placement": "patch",
       "source": {
-        "name": "MLB.com press release (San Francisco Giants)",
+        "name": "Airwallex Newsroom: Airwallex Becomes the Giants' Official Jersey Patch Partner",
         "date": "2026-02-18",
-        "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+        "url": "https://www.airwallex.com/global/newsroom/airwallex-becomes-the-giants-official-jersey-patch",
+        "quote": "Airwallex will become the Giants' official jersey patch partner, debuting across Giants uniforms this season.",
+        "note": "The club's own release is on mlb.com, which returns 403 to scripts and has no Wayback capture; the sponsor's own newsroom announcement was read instead. The patch is the only sponsor mark on an MLB uniform.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

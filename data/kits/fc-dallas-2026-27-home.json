@@ -12,13 +12,32 @@
       "sponsorId": "childrens-health",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+        "date": "2026-02-11",
+        "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+        "quote": "Children’s Health is the front-of-jersey partner. UT Southwestern Medical Center remains the front-of-jersey partner for the Inferno Kit.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+        "date": "2026-02-11",
+        "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+        "quote": "Returning for 2026, the Apple TV sleeve patch appears on the left sleeve of both FC Dallas jerseys.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Red hoops DNA kit, new for 2026-27. Children's Health on the front and the Apple TV league patch on the left sleeve; the club's launch announcement names no other sponsor placement on the kit, and no right-sleeve sponsor."
 }

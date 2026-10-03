@@ -1,0 +1,21 @@
+{
+  "id": "zwift-investor-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zwift-inc"
+  ],
+  "text": "Zwift, Inc., the US online fitness platform, is a venture-backed company: in September 2020 it announced a $450 million minority investment led by KKR, with new investors Permira, Specialized Bicycle Components' Zone 5 Ventures and the Amazon Alexa Fund and existing investors True, Highland Europe, Novator and Causeway Media.",
+  "short": "Zwift's investors are venture funds (KKR, Permira and others).",
+  "source": {
+    "name": "Zwift newsroom: 'ZWIFT RAISES $450 MILLION INVESTMENT; SERIES C ROUND LED BY KKR'",
+    "date": "2020-09-16",
+    "url": "https://news.zwift.com/en-WW/191648-zwift-raises-450-million-investment-series-c-round-led-by-kkr/",
+    "quote": "Zwift, the global online fitness platform for cyclists and runners, today announced a $450 million minority investment led by leading global investment firm KKR",
+    "note": "Same release: 'accompanied by other new investors Permira, Specialized Bicycle Components’ venture capital fund, Zone 5 Ventures and the Amazon Alexa Fund and existing investors including True, Highland Europe, Novator and Causeway Media.'",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

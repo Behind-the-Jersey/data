@@ -1,0 +1,21 @@
+{
+  "id": "alpecin-dr-wolff-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dr-wolff-group"
+  ],
+  "text": "Alpecin is a brand of Dr. Wolff Group, the Bielefeld-based consumer company (Dr. Kurt Wolff cosmetics and Dr. August Wolff medical divisions). The group names Alpecin among its strong brands and describes itself as a Bielefeld-based family business in its fourth generation.",
+  "short": "Alpecin is a brand of Dr. Wolff Group, a Bielefeld family business.",
+  "source": {
+    "name": "Dr. Wolff Group: home page",
+    "date": "2026",
+    "url": "https://www.drwolffgroup.com/en/",
+    "quote": "Everyone is sure to know one of our strong brands from Bielefeld: Alpecin, Alcina, Plantur, Karex, Linola, Bioniq® and Vagisan.",
+    "note": "Same page: 'We are a Bielefeld-based family business in its fourth generation' and 'we are two different companies: Dr. Kurt Wolff (cosmetics division) and Dr. August Wolff (medical division)'.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

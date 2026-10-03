@@ -12,13 +12,48 @@
       "sponsorId": "american-family-insurance",
       "placement": "front",
       "source": {
-        "name": "atlutd.com",
-        "date": "2026-02-17",
-        "url": "https://www.atlutd.com/"
+        "name": "American Family Insurance newsroom: 'Atlanta United harkens back to the \"Spirit of ’96\" for Community Kit'",
+        "date": "2026-02-12",
+        "url": "https://newsroom.amfam.com/atlanta-united-harkens-back-to-the-spirit-of-96-for-community-kit/",
+        "quote": "For the 10th consecutive season, American Family Insurance is the centerpiece partner for the club’s First Team kits.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The release says The Connector, the 2025 primary kit, returns in 2026 as the primary kit; American Family Insurance is the front 'centerpiece' partner."
+      }
+    },
+    {
+      "sponsorId": "emory-healthcare",
+      "placement": "sleeve",
+      "source": {
+        "name": "American Family Insurance newsroom: 'Atlanta United harkens back to the \"Spirit of ’96\" for Community Kit'",
+        "date": "2026-02-12",
+        "url": "https://newsroom.amfam.com/atlanta-united-harkens-back-to-the-spirit-of-96-for-community-kit/",
+        "quote": "Emory Healthcare, the club’s Official Team Healthcare Provider, returns for its second year as a sleeve sponsor for Atlanta United",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The club's own Emory announcement says the logo 'will be featured on the sleeve'; this 2026 release confirms a second year as sleeve sponsor."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "The Connector, the club's black-and-red 5-Stripes primary kit, drawn from the Downtown Connector and worn again in 2026. American Family Insurance is on the front for a tenth season; Emory Healthcare is the club's sleeve sponsor; the league-wide Apple TV+ patch is on the left sleeve of every MLS kit."
 }
