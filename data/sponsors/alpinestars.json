@@ -1,11 +1,14 @@
 {
   "id": "alpinestars",
   "name": "Alpinestars",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "alpinestars",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Alpinestars S.p.A. (Mazzarolo family). Nothing found.",
+  "claimIds": [
+    "alpinestars-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: family ownership from the company's own history page (claim alpinestars-record, reused from the alpinestars-c/alpinestars-h records); no dated shareholder register published. Long-standing partner named in Jaguar TCS Racing's Season 12 launch release (media.jlr.com, 22 Oct 2025) and on the club's partners page. No state stake or human-rights finding identified."
 }
