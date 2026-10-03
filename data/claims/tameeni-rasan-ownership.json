@@ -1,0 +1,32 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.",
+  "short": "Tameeni is a subsidiary of Rasan Information Technology (listed on the Saudi Exchange, Tadawul: 8313).",
+  "source": {
+    "name": "Rasan – homepage (company site)",
+    "date": "",
+    "url": "https://www.rasan.co/en",
+    "quote": "Rasan's subsidiary Tameeni signs insurance brokerage agreement with Saudi National Bank",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Forbes Middle East – Top 30 Fintech Companies 2023: Rasan Information Technology",
+      "date": "2023-04-09",
+      "url": "https://www.forbesmiddleeast.com/lists/top-30-fintech-companies-2023/rasan-information-technology",
+      "quote": "Rasan offers insurance and banking solutions through Tameeni Motor, Tameeni SME Health, AwalMazad, and Treza Motor Leasing.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}
