@@ -1,12 +1,17 @@
 {
   "id": "night-dragon",
   "name": "Night Dragon",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Torque GC partner; logo links to nightdragon.com (fetched 2026-09-25)."
+  "ownerId": "dewalt-david",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "NightDragon Management Company, LLC is 50–75% owned by founder and CEO David DeWalt (SEC Form ADV). Nothing found.",
+  "claimIds": [
+    "nightdragon-dewalt-ownership"
+  ],
+  "aliases": [
+    "NightDragon",
+    "NightDragon Management Company, LLC"
+  ],
+  "note": "Torque GC cybersecurity partner (logo in the partner rail at livgolf.com/torque-gc, opened 2026-10-03; the club announced the partnership on Instagram in February 2025, not script-accessible). San Francisco venture capital and advisory firm."
 }
