@@ -7,17 +7,28 @@
   "text": "New Era Cap is privately owned by its original founding family, the Kochs of Buffalo, New York, and led by fourth-generation CEO Chris Koch. In August 2022 ACON Investments closed a roughly $700 million continuation round for New Era Cap under which the NFL, NBA and MLB all became minority investors.",
   "short": "New Era Cap is the Koch family's private company; the NFL, NBA and MLB took minority stakes in 2022.",
   "source": {
-    "name": "The Park Wholesale: Who Owns New Era Cap? New Era Cap Owner",
-    "date": "2024-06-01",
-    "url": "https://theparkwholesale.com/blogs/hat-guide/who-owns-new-era-cap-new-era-cap-owner",
-    "quote": "As of June 2024, New Era is privately owned by the original founding family, the Kochs, and ACON Investments owns a significant minority stake.",
-    "note": "The same paragraph: 'The MLB, NFL, and NBA also hold minority stakes in New Era. New Era Cap is currently led by Chris Koch, CEO, who is the fourth-generation of the founding family.'",
+    "name": "Reuters via Yahoo Finance: U.S. sports league caps maker New Era prepares for IPO, sources say",
+    "date": "2023-09-07",
+    "url": "https://ca.finance.yahoo.com/news/exclusive-u-sports-league-caps-195749867.html",
+    "quote": "The company, which is controlled by its founding family and in which private equity firm ACON Investments holds a significant minority stake",
+    "note": "The same article: 'MLB, the NFL and the NBA hold minority stakes in New Era', 'led by Chris Koch, the fourth-generation scion of the family'. The reuters.com original returns 401 to scripts, so the Yahoo Finance syndication is cited.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
   "additionalSources": [
+    {
+      "name": "SGB Media (SGB Executive): Report: New Era Preparing for Initial Public Offering",
+      "date": "2023-09-09",
+      "url": "https://sgbonline.com/report-new-era-preparing-for-initial-public-offering/",
+      "quote": "The Koch family has privately owned New Era since its founding in 1920, with the family remaining majority shareholder.",
+      "note": "Also: 'In August 2022, Acon expanded its holdings with a $700 million deal that brought in other investors, including Major League Baseball, the National Football League and the National Basketball Association.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
     {
       "name": "Front Office Sports: New Era Cap Adds NFL, NBA, MLB As Investors",
       "date": "2022-08-07",
