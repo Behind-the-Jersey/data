@@ -1,12 +1,17 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Insurance aggregator wholly owned by Rasan Information Technology, a Saudi fintech that floated 30% of its shares on the Saudi Exchange's main market in 2024. Rasan's disclosed 5%+ holders are its founding individuals (prospectus table 1.2); IPO substantial holder Impact46, a private Saudi fund manager, exited entirely in March 2025. Nothing found.",
+  "claimIds": [
+    "tameeni-rasan"
+  ],
+  "aliases": [
+    "Tameeni",
+    "تأميني"
+  ],
+  "note": "Badge on the right chest of Al-Taawoun's 2026-27 home kit (club announcement and kit-launch photos, see issue #377); also present on several other Saudi shirts (front/back)."
 }

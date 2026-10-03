@@ -1,12 +1,19 @@
 {
   "id": "aldyar-alarabiya",
   "name": "Aldyar Alarabiya",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Al-Ettifaq / Al-Taawoun front sponsor."
+  "ownerId": "shahm-holding",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Saudi real-estate developer, part of Shahm Holding — the Al-Atawi family's Jeddah holding. Nothing found.",
+  "claimIds": [
+    "aldyar-alarabiya-shahm-holding",
+    "shahm-holding-alatawi-family"
+  ],
+  "aliases": [
+    "Arabian Dyar",
+    "Al Diyar Al Arabiya",
+    "الديار العربية"
+  ],
+  "note": "Al-Ettifaq front sponsor (2026-27). Longstanding Al-Taawoun main sponsor ('primary sponsor since 2023' per its own site), but it is gone from Al-Taawoun's 2026-27 home shirt in the club's own launch photography (issue #377). CMA approved a 10% Nomu offer in 2023 which the company did not go through with, and a 30% main-market offer in December 2025 (Argaam, 2025-12-31); Asharq Business reported the company then deferred the listing (its page blocks scripts from here)."
 }
