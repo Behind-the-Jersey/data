@@ -14,7 +14,21 @@
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-    }
+    },
+    "note": "The same table header reads 'Class A and Class B Stock ... Percentage of Voting Power'; the proxy also calls Mr. Plank 'our founder, President and Chief Executive Officer and controlling stockholder' and states each Class B share 'entitles the holder to cast ten votes'."
   },
+  "additionalSources": [
+    {
+      "name": "SEC EDGAR: company_tickers_exchange.json (official SEC list of company tickers by exchange)",
+      "date": "2026",
+      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+      "quote": "[1336917,\"Under Armour, Inc.\",\"UAA\",\"NYSE\"]",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The same file also lists Under Armour, Inc. under ticker UA on NYSE."
+    }
+  ],
   "reviewed": false
 }
