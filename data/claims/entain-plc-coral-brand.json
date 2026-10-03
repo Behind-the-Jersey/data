@@ -1,0 +1,20 @@
+{
+  "id": "entain-plc-coral-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "entain-plc"
+  ],
+  "text": "Coral is one of Entain plc's brands: the brand's own help pages state that Coral is part of the Entain Group, and Entain's 2024 annual report describes Coral as one of the group's established UK brands alongside Ladbrokes.",
+  "source": {
+    "name": "Coral Help: About Us (general information)",
+    "date": "",
+    "url": "https://help.coral.co.uk/en/general-information",
+    "quote": "Coral is part of the Entain Group, one of the world's largest betting and gaming groups with well established brands on the high street and online.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The page shows no date. The Gambling News article about the Birmingham City front-of-shirt deal also describes the sponsor as Entain's Coral."
+  },
+  "reviewed": false
+}
