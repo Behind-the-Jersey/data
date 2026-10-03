@@ -1,0 +1,21 @@
+{
+  "id": "new-era-koch-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "new-era-cap-company"
+  ],
+  "text": "New Era is family-owned: Christopher H. Koch is the fourth-generation CEO of the family-owned company New Era (Jackie Robinson Foundation board biography).",
+  "short": "New Era is family-owned; Chris Koch is fourth-generation CEO.",
+  "source": {
+    "name": "Jackie Robinson Foundation: Christopher Koch, Board Member",
+    "date": "2026",
+    "url": "https://jackierobinson.org/people/christopher-koch/",
+    "quote": "Christopher H. Koch is the fourth generation CEO of the family-owned company New Era.",
+    "note": "Page without a date; opened 2026-10-03. Forbes (15 Jan 2020) likewise reports New Era 'will continue to be family owned. Chris Koch, President and CEO of New Era, is the fourth generation owner' (forbes.com/sites/isisbriones/2020/01/15/new-era-cap-company-100-year-anniversary, opened 2026-10-03; the site blocks scripts).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

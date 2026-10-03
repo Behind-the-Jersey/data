@@ -1,12 +1,15 @@
 {
   "id": "plus",
   "name": "PLUS",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "hanwha-life-insurance-co",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A division at Hanwha Life, a Korea Exchange-listed insurer whose largest shareholder is Hanwha Corporation (43.24%). Nothing found.",
+  "claimIds": [
+    "plus-hanwha-life-division",
+    "hanwha-life-shareholders"
+  ],
   "aliases": [],
-  "note": "Korean Golf Club partner; logo has no hyperlink and the brand behind it is unconfirmed (livgolf.com/korean-golf-club, fetched 2026-09-25)."
+  "note": "Multi-year founding partner of Korean Golf Club, described by LIV Golf (May 2026) as 'a division at Hanwha Life'; the exact brand entity within Hanwha is unclear (Hanwha Life operates the LIFEPLUS brand at lifeplus.co.kr). Hanwha Life's shareholder list includes state agency Korea Deposit Insurance Corporation (10%); per METHOD.md a South Korean public holder is not a link to abuse. Quick company check (2026-10-03): no court, regulator, UN or major-NGO human-rights finding against Hanwha Life or Hanwha Group found."
 }

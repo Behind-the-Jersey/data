@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "new-era-cap-company",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Family-owned US headwear company, run by fourth-generation CEO Chris Koch (no relation to Koch Industries). Nothing found.",
+  "claimIds": [
+    "new-era-koch-family-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Official Cap of LIV Golf; appears on every team page including Korean Golf Club (livgolf.com/korean-golf-club, fetched 2026-10-03). Checked 2026-10-03: the only human-rights episode found is a 2008 Workers Rights Consortium/CWA campaign over safety and union-busting allegations at New Era's Derby, NY plant - charges and a campaign, not a court, regulator or NGO finding, and WRC later hailed improvements; no qualifying finding found."
 }

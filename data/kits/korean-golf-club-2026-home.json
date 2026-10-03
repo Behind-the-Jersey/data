@@ -12,18 +12,29 @@
       "sponsorId": "amazing-cre",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Korean Golf Club team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/korean-golf-club"
+        "name": "LIV Golf: Korean Golf Club partners with AMAZINGCRE for the 2026 LIV Golf season",
+        "date": "2026-02-02",
+        "url": "https://www.livgolf.com/news/korean-golf-club-partners-with-amazingcre-for-the-2026-liv-golf-season-x5176",
+        "quote": "Korean Golf Club of the LIV Golf League has announced a new partnership with AMAZINGCRE, the premium Korean golfwear brand",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "plus",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Korean Golf Club team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/korean-golf-club"
+        "name": "LIV Golf: LIV Golf Korea sees increase in strategic commercial partnerships and market engagements",
+        "date": "2026-05",
+        "url": "https://www.livgolf.com/korean-golf-club/news/liv-golf-korea-sees-increase-in-strategic-commercial-partnerships-and-market-engagements-2026",
+        "quote": "The franchise has secured a multi-year, founding partnership with PLUS, a division at Hanwha Life",
+        "note": "The page shows no exact date ('4 months ago'); it covers the week of the 28-31 May 2026 LIV Golf Korea tournament.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -32,11 +43,27 @@
       "source": {
         "name": "LIV Golf - Korean Golf Club team page",
         "date": "2026-09-25",
-        "url": "https://www.livgolf.com/korean-golf-club"
+        "url": "https://www.livgolf.com/korean-golf-club",
+        "note": "New Era logo with a neweracap.com link in the team page's partner strip; league-wide 'Official Cap' partner (livgolf.com/partners)."
+      }
+    },
+    {
+      "sponsorId": "paradise-hotel-busan",
+      "placement": "partner",
+      "source": {
+        "name": "LIV Golf: LIV Golf Korea sees increase in strategic commercial partnerships and market engagements",
+        "date": "2026-05",
+        "url": "https://www.livgolf.com/korean-golf-club/news/liv-golf-korea-sees-increase-in-strategic-commercial-partnerships-and-market-engagements-2026",
+        "quote": "that serves as the performance apparel partner - and the Busan Paradise Hotel, ensuring a deeply integrated local corporate network",
+        "note": "The page shows no exact date ('4 months ago'); it covers the week of the 28-31 May 2026 LIV Golf Korea tournament. The article introduces 'three entirely new corporate team sponsors': PLUS, AMAZINGCRE and the Busan Paradise Hotel.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Team partners 2026: Amazing CRE, PLUS, New Era. Captain: Byeong Hun An. Renamed from Iron Heads GC for 2026.",
+  "summary": "Team partners 2026: PLUS (Hanwha Life), AmazingCre, Paradise Hotel Busan, New Era. Captain: Byeong Hun An. Renamed from Iron Heads GC for 2026.",
   "change": null
 }
