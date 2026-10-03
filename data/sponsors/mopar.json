@@ -7,10 +7,11 @@
   "status": "rated",
   "verdict": "Stellantis N.V.'s original parts and accessories brand. Nothing found.",
   "claimIds": [
-    "mopar-stellantis-ownership"
+    "mopar-stellantis-ownership",
+    "stellantis-nv-record"
   ],
   "aliases": [
     "MOPAR"
   ],
-  "note": "Stellantis' parts and accessories brand; Premium Peugeot Sport partner for the 2026 WEC season. Same reasoning as Jeep (data/sponsors/jeep.json, maintainer rating-review 2026-09-27, Stuttgart + state stake caveat): France carries no record of serious abuses under METHOD.md, so Bpifrance's 6.64% in Stellantis is not a link; no human-rights finding against Stellantis found."
+  "note": "Stellantis' parts and accessories brand; Premium Peugeot Sport partner for the 2026 WEC season. Same reasoning as jeep (maintainer rating-review docs/rating-review-2026-09-27.md): France carries no record of serious abuses under METHOD.md, so Bpifrance's 6.64% in Stellantis (stellantis-nv-record) is not a link; no human-rights finding against Stellantis found."
 }
