@@ -1,0 +1,20 @@
+{
+  "id": "pelliconi-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pelliconi-family"
+  ],
+  "text": "Pelliconi is a 100% family-owned Italian company; Corriere della Sera names CEO Marco Checchi as a shareholder together with his wife Claudia Gnudi (majority partner), her mother Maria Teresa Pelliconi and Franco Gnudi.",
+  "short": "Pelliconi is 100% owned by the Pelliconi (Checchi-Gnudi) family",
+  "source": {
+    "name": "Corriere della Sera: 'Pelliconi, la regina dei tappi (li fa anche per Coca-Cola) cresce in America e in Africa'",
+    "date": "2024-09-23",
+    "url": "https://www.corriere.it/economia/aziende/24_settembre_23/pelliconi-la-regina-dei-tappi-li-fa-anche-per-coca-cola-cresce-in-america-e-in-africa-b8baa231-e913-4fbc-be8c-7c9a860d6xlk.shtml",
+    "quote": "che di Pelliconi è anche azionista a fianco della moglie Claudia Gnudi, socia di maggioranza, della suocera Maria Teresa Pelliconi e di suo marito Franco Gnudi",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
