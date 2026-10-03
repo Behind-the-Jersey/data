@@ -1,0 +1,20 @@
+{
+  "id": "coca-cola-trademark-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "coca-cola-company"
+  ],
+  "text": "Coca-Cola is a trademark brand owned or licensed by The Coca-Cola Company, which groups its brands under the heading 'Trademark Coca-Cola'.",
+  "short": "Coca-Cola is The Coca-Cola Company's trademark brand.",
+  "source": {
+    "name": "The Coca-Cola Company Form 10-K for fiscal year ended December 31, 2025 (SEC, Item 1. Business)",
+    "date": "2026-02-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+    "quote": "We own or license and market numerous beverage brands, which we group into the following categories: Trademark Coca-Cola;",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

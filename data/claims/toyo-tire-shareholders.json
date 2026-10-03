@@ -1,0 +1,20 @@
+{
+  "id": "toyo-tire-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "toyo-tire-corporation"
+  ],
+  "text": "Toyo Tire Corporation is listed on the Tokyo Stock Exchange Prime Market (code 5105). Its largest shareholders (as of 2026-06-30) were Mitsubishi Corporation (20.01%), The Master Trust Bank of Japan (trust account, 12.56%) and Custody Bank of Japan (trust account, 6.83%); no state or sovereign shareholder appears in the company's top-10 list. Toyo Tire states Mitsubishi Corporation ceased to qualify as a major shareholder on 2026-08-10.",
+  "short": "Toyo Tire is TSE-Prime listed (5105); Mitsubishi Corp and trust banks are the top holders, no state shareholder.",
+  "source": {
+    "name": "TOYO TIRE株式会社 IR: 株式の状況 — 大株主",
+    "date": "2026-06-30",
+    "url": "https://www.toyotires.co.jp/ir/information/stockholder/",
+    "quote": "三菱商事株式会社 30,822 20.01 日本マスタートラスト信託銀行株式会社（信託口） 19,351 12.56 株式会社日本カストディ銀行（信託口） 10,521 6.83",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
