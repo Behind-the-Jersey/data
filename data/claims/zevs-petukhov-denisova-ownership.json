@@ -1,0 +1,21 @@
+{
+  "id": "zevs-petukhov-denisova-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zevs-llc"
+  ],
+  "text": "Zevs LLC, which holds 97.5% of OlimpBet operator BK Olimp, is owned 50/50 by two private individuals: Andrey Petukhov and Darina Denisova.",
+  "short": "Zevs LLC is owned 50/50 by Andrey Petukhov and Darina Denisova.",
+  "source": {
+    "name": "Rusprofile (EGRUL register data): ООО «Зевс»",
+    "date": "2025-07-05",
+    "url": "https://web.archive.org/web/20250705121148/https://www.rusprofile.ru/id/11774446",
+    "quote": "Учредителями выступают два физических лица — Петухов Андрей Николаевич и Денисова Дарина Борисовна, каждый из которых владеет 50% долей с вкладом по 210 млн рублей.",
+    "note": "Russian company register (EGRUL) data for Zevs LLC, via a Wayback Machine snapshot of 5 Jul 2025; rusprofile.ru serves 403 to scripts. Translation: the founders are two individuals - Petukhov Andrey Nikolaevich and Denisova Darina Borisovna - each owning a 50% stake.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

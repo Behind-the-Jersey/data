@@ -7,8 +7,24 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "olimpbet",
+      "placement": "sleeve",
+      "source": {
+        "name": "HC Neftekhimik official site: OLIMPBET стал партнёром ХК «Нефтехимик»",
+        "date": "2025-09-04",
+        "url": "https://hcnh.ru/news/club-life/olimpbet-stal-partnyerom-khk-neftekhimik/",
+        "quote": "Контракт рассчитан на три года, и в рамках сотрудничества логотип букмекера будет размещён на плечах игровой формы хоккеистов команды.",
+        "note": "Club announcement of the three-year OlimpBet deal: the bookmaker's logo is placed on the shoulders of the team's playing kit. OlimpBet is also the only logo under 'Partners of HC Neftekhimik, season 2026-2027' on the club partners page.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit. OlimpBet official partner; its logo is on the shoulders of the playing kit under a three-year deal announced by the club in September 2025. The club partners page lists no other club partner for 2026-27; front-of-shirt and other placements not documented on a source we could open.",
   "change": null
 }
