@@ -1,12 +1,20 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "An insurance platform of Rasan, a listed Saudi fintech company without a state owner in its prospectus.",
+  "claimIds": [
+    "tameeni-rasan-subsidiary",
+    "rasan-ownership"
+  ],
+  "aliases": [
+    "Tameeni",
+    "تأميني",
+    "Tameeni Electronic Insurance Brokerage"
+  ],
+  "note": "Insurance aggregator and e-brokerage platform (not an underwriter). Present on several Saudi shirts (front/back): chest patch on Al Faisaly's 2026-27 home shirt. Proposed none 2026-10-03.",
+  "ownerVerb": "owned by"
 }

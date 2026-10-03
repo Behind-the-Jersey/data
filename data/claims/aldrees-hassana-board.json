@@ -1,0 +1,33 @@
+{
+  "id": "aldrees-hassana-board",
+  "kind": "ownership",
+  "ownerIds": [
+    "gosi"
+  ],
+  "text": "Aldrees' FY2024 board of directors includes three executives of Hassana Investment Company — Farraj Saad Al-Qabbani (Director of Alternative Investments Department), Basil Ali Al Faris (Director of International Listed Markets) and Mohamad Salem Ali Musa (Portfolio Manager). Hassana is the investment manager of Saudi Arabia's General Organization for Social Insurance (GOSI).",
+  "short": "Three directors on Aldrees' board are executives of Hassana, GOSI's investment manager",
+  "source": {
+    "name": "Aldrees Petroleum & Transport Services Co — Annual Report 2024, Board of Directors (members' bios)",
+    "date": "2025",
+    "url": "https://www.aldrees.com/english/fileUpload/820366_1767164048.pdf",
+    "quote": "Director of Alternative Investments Department Hassana Investment Company Director of International Listed Markets Hassana Investment Company",
+    "note": "Board-members table (pp. 97 and 99): Farraj Saad Al-Qabbani 'Director of Alternative Investments Department, Hassana Investment Company', Basil Ali Al Faris 'Director of International Listed Markets, Hassana Investment Company', Mohamad Salem Ali Musa 'Portfolio Manager, Hassana Investment Company'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Hassana Investment Company — Who we are",
+      "date": "2026",
+      "url": "https://www.hassana.com.sa/en/who-we-are",
+      "quote": "We invest on behalf of all Saudi generations for their future pensions, as the investment manager of the General Organization for Social Insurance (GOSI).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

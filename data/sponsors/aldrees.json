@@ -1,11 +1,19 @@
 {
   "id": "aldrees",
   "name": "Aldrees",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "aldrees-petroleum-transport",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A family-founded Saudi joint-stock company; the only state link found is GOSI's investment manager on its board.",
+  "claimIds": [
+    "aldrees-ownership",
+    "aldrees-hassana-board"
+  ],
+  "aliases": [
+    "Aldrees Petroleum & Transport Services Company",
+    "الدريس"
+  ],
+  "note": "Front-of-shirt sponsor on Al Faisaly's 2026-27 home shirt (and a long-time club partner: the partnership was renewed in 2017, per Kooora). Proposed none 2026-10-03: no source checked shows state control or a 5%+ state stake; the board presence of Hassana (GOSI's investment manager) is recorded in an ownership claim, and GOSI's stake, if any, is not disclosed in the sources checked.",
+  "ownerVerb": "owned by"
 }

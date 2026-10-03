@@ -1,0 +1,33 @@
+{
+  "id": "rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Rasan Information Technology Company offered 30% of its share capital in an IPO on the Saudi Exchange's Main Market in May 2024; after the offering, its six substantial shareholders collectively held 47.26% of the company and retained a controlling interest.",
+  "short": "Rasan: 30% IPO on the Saudi Exchange's Main Market; substantial shareholders hold 47.26%",
+  "source": {
+    "name": "Rasan — IPO page (company website)",
+    "date": "2024-05",
+    "url": "https://www.rasan.co/en/ipo",
+    "quote": "announced its intention to offer 30% of its share capital to the public through an IPO and listing its shares on the Main Market of the Saudi Exchange in May 2024",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Rasan Information Technology Company Prospectus (CMA), Section 2.3.1",
+      "date": "2024-03-25",
+      "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+      "quote": "Following completion of the Offering, the Substantial Shareholders will collectively own 47.26% of the Company’s shares and will thus retain a controlling interest.",
+      "note": "Prospectus Table 12.2 lists the six substantial shareholders (5%+ pre-offering) and their post-offering stakes; none is a state entity.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
