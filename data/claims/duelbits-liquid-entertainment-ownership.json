@@ -1,0 +1,34 @@
+{
+  "id": "duelbits-liquid-entertainment-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "liquid-entertainment"
+  ],
+  "text": "The duelbits.com website is operated by Liquid Entertainment N.V., a company incorporated under the laws of Curaçao with Company Number 153298 and licensed by the Curaçao Gaming Authority.",
+  "short": "duelbits.com is operated by Liquid Entertainment N.V. (Curaçao).",
+  "source": {
+    "name": "Curaçao Gaming Authority (CGA Portal): Certificate of Operation for duelbits.com",
+    "date": "2026",
+    "url": "https://cert.cga.cw/certificate?id=ZXlKcGRpSTZJbXRqWmpZNVJFZE5VVkl5U25CSmVXaHNlbXhLSzNjOVBTSXNJblpoYkhWbElqb2lTamdyT0dOSlVFcFViMVJLVjJWT1MwMHZhSHBMZHowOUlpd2liV0ZqSWpvaU5HSXpZemsxTlRVeVl6WmxZakkyTVROaU5qZzNaakV5TkRoaU9UWXpNems0WWpJME1EWXpObUV6Wm1ZelpqY3pZemRtWVRNM1lqZzJNbVpqT0dGaVlTSXNJblJoWnlJNklpSjk%3D",
+    "note": "Certificate page without a date; opened 2026-10-03. The licence was granted on 01/11/2024 and its status is Active.",
+    "quote": "This is to certify that duelbits.com is operated by Liquid Entertainment N.V., a company incorporated under the laws of Curaçao with Company Number 153298",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Odds Portal: Duelbits Review",
+      "date": "2026-10",
+      "url": "https://www.oddsportal.com/reviews/duelbits/",
+      "note": "Review page headed 'Duelbits Review: Everything to Know in October 2026'.",
+      "quote": "Duelbits is a legit brand which is owned and operated by Liquid Entertainment N.V. which is fully licensed by the government of Curacao",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
