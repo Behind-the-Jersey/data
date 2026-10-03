@@ -4,14 +4,14 @@
   "ownerIds": [
     "bk-olimp"
   ],
-  "text": "ООО «БК «Олимп», the company behind the Olimpbet bookmaker brand, is held 97.5% by ООО «Зевс» and 2.5% by its founder Sergey Koziavkin (ЕГРЮЛ data); ООО «Зевс» is owned 50% by Darina Denisova and 50% by Andrey Petukhov.",
-  "short": "Olimpbet (BK Olimp LLC) is privately owned, mostly via ООО «Зевс» (Darina Denisova 50%, Andrey Petukhov 50%).",
+  "text": "ООО «БК «Олимп», the company behind the Olimpbet bookmaker brand, is held 97.5% by ООО «Зевс» and 2.5% by its director Sergey Koziavkin (ЕГРЮЛ data); ООО «Зевс» is owned 50% by Andrey Petukhov and 50% by Darina Denisova.",
+  "short": "Olimpbet (BK Olimp LLC) is privately owned, mostly via ООО «Зевс» (Andrey Petukhov 50%, Darina Denisova 50%).",
   "source": {
-    "name": "Checko (ЕГРЮЛ register data): ООО «БК «Олимп»",
-    "date": "2026-10-03",
-    "url": "https://checko.ru/company/bk-olimp-1127747004648",
-    "quote": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗЕВС\" ОГРН 1197746286924 с 25 сентября 2020 г. 150 млн руб. 97.5%",
-    "note": "ЕГРЮЛ founders list ООО «БК «Олимп»: ООО «Зевс» 97.5% plus Sergey Koziavkin (Козявкин Сергей Геннадьевич) 2.5%. Register-data page, values current as displayed; opened 2026-10-03.",
+    "name": "Rusprofile (ЕГРЮЛ register data): ООО «БК «Олимп» — archived copy; rusprofile.ru answers 403 to scripts",
+    "date": "2025-12-22",
+    "url": "https://web.archive.org/web/20251222233502/https://www.rusprofile.ru/id/6757485",
+    "quote": "Основным владельцем выступает юридическое лицо ООО \"ЗЕВС\" с долей 97,5%, тогда как сам директор владеет 2,5% уставного капитала",
+    "note": "EN: 'The main owner is the legal entity ООО Zevs with a 97.5% stake, while the director himself owns 2.5% of the charter capital.' The director is Sergey Koziavkin, also listed by name on this page as the individual founder. Live page: https://www.rusprofile.ru/id/6757485.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
@@ -19,11 +19,11 @@
   },
   "additionalSources": [
     {
-      "name": "Checko (ЕГРЮЛ register data): ООО «Зевс»",
-      "date": "2026-10-03",
-      "url": "https://checko.ru/company/1197746286924",
-      "quote": "Денисова Дарина Борисовна ИНН 770901264436 с 20 октября 2021 г. 210 млн руб. 50%",
-      "note": "Second founder row on the same page: Петухов Андрей Николаевич, 210 млн руб., 50%.",
+      "name": "Rusprofile (ЕГРЮЛ register data): ООО «Зевс» — archived copy; rusprofile.ru answers 403 to scripts",
+      "date": "2025-07-05",
+      "url": "https://web.archive.org/web/20250705121148/https://www.rusprofile.ru/id/11774446",
+      "quote": "Учредителями выступают два физических лица — Петухов Андрей Николаевич и Денисова Дарина Борисовна, каждый из которых владеет 50% долей с вкладом по 210 млн рублей.",
+      "note": "EN: 'The founders are two individuals — Andrey Petukhov and Darina Denisova, each holding a 50% stake with a 210 million ruble contribution.' Live page: https://www.rusprofile.ru/id/11774446.",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
