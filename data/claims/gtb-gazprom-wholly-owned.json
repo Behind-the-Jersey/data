@@ -1,0 +1,34 @@
+{
+  "id": "gtb-gazprom-wholly-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "gazprom"
+  ],
+  "text": "OAO \"Gazprom transgaz Belarus\" (GTB) is a 100% subsidiary of PJSC Gazprom.",
+  "short": "Gazprom transgaz Belarus is a 100% subsidiary of Gazprom.",
+  "source": {
+    "name": "HC Dinamo Minsk official site, partners page (sponsor profile text)",
+    "date": "2026-10-03",
+    "url": "https://hcdinamo.by/club/partners/",
+    "note": "Russian. Translation: 'OAO Gazprom transgaz Belarus is a 100-percent subsidiary of PJSC Gazprom.'",
+    "quote": "ОАО «Газпром трансгаз Беларусь» — 100-процентное дочернее общество ПАО «Газпром».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Gazprom transgaz Belarus official site, About the company (Wayback Machine capture of belarus-tr.gazprom.ru)",
+      "date": "2025-05-24",
+      "url": "https://web.archive.org/web/20250524085641/https://belarus-tr.gazprom.ru/about/",
+      "note": "Russian. Translation: 'Open Joint-Stock Company Gazprom transgaz Belarus is a 100-percent subsidiary of PJSC Gazprom.' The live company site (gtb.by) now redirects to belarus-tr.gazprom.ru.",
+      "quote": "Открытое акционерное общество «Газпром трансгаз Беларусь» является 100-процентным дочерним предприятием ПАО «Газпром».",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

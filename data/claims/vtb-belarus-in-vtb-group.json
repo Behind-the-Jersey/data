@@ -1,0 +1,34 @@
+{
+  "id": "vtb-belarus-in-vtb-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "vtb"
+  ],
+  "text": "ZAO Bank VTB (Belarus) is part of the international VTB financial group.",
+  "short": "Bank VTB (Belarus) is part of the VTB group.",
+  "source": {
+    "name": "HC Dinamo Minsk official site, partners page (sponsor profile text)",
+    "date": "2026-10-03",
+    "url": "https://hcdinamo.by/club/partners/",
+    "note": "Russian. Translation: 'ZAO Bank VTB (Belarus) is one of the country's largest universal banks, part of the international VTB Group.'",
+    "quote": "ЗАО Банк ВТБ (Беларусь) — один из крупнейших универсальных банков страны, входящий в международную Группу ВТБ.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bank VTB (Belarus) official site, About the bank (Wayback Machine capture of vtb.by)",
+      "date": "2024-07-17",
+      "url": "https://web.archive.org/web/20240717160057/https://www.vtb.by/o-banke",
+      "note": "Russian. Translation: 'The bank is part of the international financial group VTB.'",
+      "quote": "Банк является частью международной финансовой группы ВТБ.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
