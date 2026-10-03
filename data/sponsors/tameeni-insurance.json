@@ -3,9 +3,9 @@
   "name": "Tameeni Insurance",
   "ownerId": "rasan-information-technology",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Insurance broker wholly owned by Rasan Information Technology Company. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "tameeni-rasan-ownership",
     "rasan-substantial-shareholders"
@@ -14,5 +14,5 @@
     "Tameeni",
     "تأميني"
   ],
-  "note": "Rating note: Rasan's shareholders with 5% or more are private funds and individuals per its IPO prospectus; none is a state or state fund, so the link to a state record fails (METHOD.md). Al Riyadh announced Tameeni as a sponsor on 28 Aug 2025 (riyadhclub.sa)."
+  "note": "Wholly owned by Rasan Information Technology Company, a Saudi-listed fintech (Rasan IPO prospectus, May 2024; rasan.co IPO page calls Tameeni a flagship subsidiary). The prospectus named Rasan's direct 5%+ shareholders and stated there were no indirect owners of 5% or more, but Impact46's two funds, which held 17.55% post-IPO, fully exited Rasan in an accelerated bookbuild announced 13 Mar 2025 (Argaam: https://www.argaam.com/en/article/articledetail/id/1797009), so Rasan's current large shareholders are not fully known and the chain doesn't reach an identified controlling owner. Proposed tier unrated until Rasan's current 5%+ holders are sourced. Al Riyadh announced Tameeni as a sponsor on 28 Aug 2025 (riyadhclub.sa)."
 }

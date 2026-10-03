@@ -4,7 +4,7 @@
   "ownerIds": [
     "rasan-information-technology"
   ],
-  "text": "The shareholders who directly own 5% or more of Rasan Information Technology Company are Impact Funds for Financial Technology Company, Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan, Mohammed Muheideb Ali AlMuheideb and Assets Custody Development Impact Company for Communications and Information Technology.",
+  "text": "As of Rasan Information Technology Company's IPO prospectus of May 2024, the shareholders who directly owned 5% or more of the company were Impact Funds for Financial Technology Company, Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan, Mohammed Muheideb Ali AlMuheideb and Assets Custody Development Impact Company for Communications and Information Technology; the prospectus also states there were no shareholders with indirect ownership of 5% or more. The two Impact46 fund custodians on the list fully exited Rasan in an accelerated bookbuild announced on 13 March 2025, so the list no longer reflects current ownership.",
   "source": {
     "name": "Rasan Information Technology Company Prospectus (CMA), Substantial Shareholders",
     "date": "2024-05",
@@ -15,5 +15,17 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Argaam – Impact46 exits Rasan; return reaches 10x initial investment",
+      "date": "2025-03-13",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1797009",
+      "quote": "Impact46, a leading fund manager in Saudi Arabia, licensed by the Capital Market Authority (CMA), focusing on investing in high growth technology companies, today announced its successful exit from Rasan Information Technology Company (“Rasan”) through an accelerated bookbuild offering.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (review of PR #1115)"
+      }
+    }
+  ],
   "reviewed": false
 }
