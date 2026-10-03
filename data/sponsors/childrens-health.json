@@ -7,8 +7,9 @@
   "status": "being-rated",
   "verdict": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
   "claimIds": [
-    "ut-southwestern-medical-center-record"
+    "ut-southwestern-medical-center-record",
+    "childrens-health-system-of-texas-ownership"
   ],
   "aliases": [],
-  "note": "Rating note: Judgement call: the sponsor entry covers two owners. Scored on the state half (UT Southwestern) because state ownership is the tier-driving fact; Children's Health's non-profit status is evidenced by ProPublica Nonprofit Explorer (EIN 75-0800628). 'serious' reflects state rather than state-fund ownership. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs; the sponsor also covers a private non-profit (Children's Health)."
+  "note": "Rating note: Judgement call: the sponsor entry covers two owners. Scored on the state half (UT Southwestern) because state ownership is the tier-driving fact; Children's Health's non-profit status is evidenced by ProPublica Nonprofit Explorer (EIN 75-0800628, claim childrens-health-system-of-texas-ownership, owner childrens-health-system-of-texas). 'serious' reflects state rather than state-fund ownership. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs; the sponsor also covers a private non-profit (Children's Health). Tier proposed in PR #1060: none (US state university plus independent 501(c)(3) nonprofit; nothing passes the METHOD.md test) - a maintainer sets the tier."
 }

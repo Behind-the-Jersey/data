@@ -1,0 +1,43 @@
+{
+  "id": "fc-dallas-2026-27-away",
+  "clubId": "fc-dallas",
+  "season": "2026-27",
+  "kitType": "away",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "childrens-health",
+      "placement": "front",
+      "source": {
+        "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+        "date": "2026-02-11",
+        "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+        "quote": "UT Southwestern Medical Center remains the front-of-jersey partner for the Inferno Kit.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+        "date": "2026-02-11",
+        "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+        "quote": "Returning for 2026, the Apple TV sleeve patch appears on the left sleeve of both FC Dallas jerseys.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "change": null,
+  "summary": "The Inferno Kit continues as the club's secondary jersey for 2026-27. The club's 2026 kit announcement names UT Southwestern Medical Center as its front-of-jersey partner and the Apple TV patch on the left sleeve of both jerseys; no other sponsor placement is named for the Inferno Kit."
+}
