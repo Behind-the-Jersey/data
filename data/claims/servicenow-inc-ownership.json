@@ -10,12 +10,25 @@
     "name": "ServiceNow, Inc., 2026 Proxy Statement (DEF 14A)",
     "date": "2026-04-06",
     "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000039/now-20260406.htm",
-    "note": "SEC EDGAR filing. The 'Greater than 5% Shareholders' table is the only >5% ownership disclosure in the proxy; the NYSE listing is referenced throughout (the board applies 'the independence standards established by the New York Stock Exchange').",
+    "note": "SEC EDGAR filing. The 'Greater than 5% Shareholders' table is the only >5% ownership disclosure in the proxy; no other holder is listed under it.",
     "quote": "Greater than 5% Shareholders: BlackRock, Inc. (1) 91,252,660 8.8% The Vanguard Group, Inc. (2) 90,591,730 8.7%",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "ServiceNow, Inc., Form 10-K for fiscal year 2025 (SEC EDGAR)",
+      "date": "2026-01-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm",
+      "note": "Supports the NYSE listing stated in the claim: the 10-K cover page registers the common stock on 'The New York Stock Exchange' under the symbol NOW, and Item 5 states the sentence quoted.",
+      "quote": "Our common stock is listed on the New York Stock Exchange under the symbol \"NOW.\"",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
