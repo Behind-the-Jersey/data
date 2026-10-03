@@ -1,0 +1,21 @@
+{
+  "id": "solize-partners-solize-holdings-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "solize-holdings"
+  ],
+  "text": "SOLIZE PARTNERS Corporation, the SOLIZE company that concluded the Honda LCR sponsorship agreement, is listed by SOLIZE Holdings Corporation on its 'Group Company' page as one of its group companies.",
+  "short": "SOLIZE PARTNERS is a SOLIZE Holdings group company",
+  "source": {
+    "name": "SOLIZE Holdings Corporation: Group Company",
+    "date": "2026",
+    "url": "https://www.solize.com/en/corporate/group/",
+    "quote": "SOLIZE PARTNERS Corporation",
+    "note": "The page, headed 'Group Company' on SOLIZE Holdings Corporation's corporate site, lists SOLIZE PARTNERS Corporation as the first group company.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

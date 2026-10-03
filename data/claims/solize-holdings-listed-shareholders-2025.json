@@ -1,0 +1,33 @@
+{
+  "id": "solize-holdings-listed-shareholders-2025",
+  "kind": "ownership",
+  "ownerIds": [
+    "solize-holdings"
+  ],
+  "text": "SOLIZE Holdings Corporation is listed on the Tokyo Stock Exchange, Standard Market (stock code 5871). Per its FY2025 annual securities report, summarised by J-LiC, its largest shareholders are the SOLIZE employee stock-ownership association (21.08%), Miyuki Furukawa (14.09%), Keiichi Shinohara (6.44%) and Tokyo Small and Medium Business Investment & Consultation Co. (5.6%).",
+  "short": "SOLIZE Holdings is TSE-listed (5871); top holder is its employee stock association",
+  "source": {
+    "name": "SOLIZE Holdings Corporation: Company Overview",
+    "date": "2026",
+    "url": "https://www.solize.com/en/corporate/company/",
+    "quote": "Listed Market Tokyo Stock Exchange, Standard Market (Stock code : 5871)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "J-LiC: SOLIZE Holdings (5871) major shareholders, from the FY2025 annual securities report",
+      "date": "2026",
+      "url": "https://j-lic.com/companies/5871/shareholders",
+      "quote": "SOLIZE従業員持株会 21.08%",
+      "note": "Japanese. Translation: the FY2025 (Jan-Dec 2025) securities report lists major shareholders SOLIZE employee stock-ownership association 21.08%, Miyuki Furukawa 14.09%, Keiichi Shinohara 6.44%, Tokyo Small and Medium Business Investment & Consultation Co. 5.6%.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
