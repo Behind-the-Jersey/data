@@ -4,20 +4,42 @@
   "ownerIds": [
     "airasia-group-berhad"
   ],
-  "text": "The AirAsia brand's listed parent is AirAsia X Berhad, trading as AirAsia Group Berhad: in January 2026 it completed the acquisition of 100% of AirAsia Berhad and AirAsia Aviation Group Limited from Capital A, consolidating all of the group's airlines under the listed company. Co-founders Tan Sri Tony Fernandes and Datuk Kamarudin Meranun continue to be substantial shareholders via direct and indirect interests in the company.",
+  "text": "The AirAsia brand's listed parent is AirAsia Group Berhad (formerly AirAsia X Berhad), listed on Bursa Malaysia: in January 2026 it completed the acquisition of AirAsia Berhad and AirAsia Aviation Group Limited from Capital A (the Proposed Acquisition was of 100% equity interest in both), consolidating all AirAsia-branded airlines under a single listed airline platform, and effective 2 July 2026 it completed its name change from AirAsia X Berhad to AirAsia Group Berhad. Co-founders Tan Sri Tony Fernandes and Datuk Kamarudin Meranun continue to be substantial shareholders via their direct and indirect interests in the company.",
   "short": "AirAsia is owned by AirAsia Group Berhad (listed in Malaysia); co-founders Fernandes and Meranun are substantial shareholders.",
   "source": {
-    "name": "AirAsia Newsroom: Tune Group Sdn. Bhd. ceases to be a substantial shareholder in AirAsia X Berhad in line with conditions set out in the circulars to shareholders in AirAsia's aviation business consolidation",
-    "date": "2026-01-06",
-    "url": "https://newsroom.airasia.com/news/tune-group-sdn-bhd-ceases-to-be-a-substantial-shareholder-in-airasia-x-berhad-in-line-with-conditions-set-out-in-the-circulars-to-shareholders-in-airasias-aviation-business-consolidation",
-    "quote": "the co-founders, Tan Sri Tony Fernandes and Datuk Kamarudin Meranun will continue to be substantial shareholders via their direct and indirect interests in AirAsia X",
-    "note": "The same AirAsia X Berhad statement describes 'the Proposed Acquisition by AirAsia X of 100% equity interest in AirAsia Aviation Group Limited and AirAsia Berhad' (completed; the acquired airlines then traded under the listed group).",
+    "name": "AirAsia Newsroom: AirAsia X completes acquisition of AirAsia Berhad and AirAsia Aviation Group Limited from Capital A",
+    "date": "2026-01-18",
+    "url": "https://newsroom.airasia.com/news/airasia-x-completes-acquisition-of-airasia-berhad-and-airasia-aviation-group-limited-from-capital-a",
+    "quote": "successfully completed the acquisition of both AirAsia Berhad (“AAB”) and AirAsia Aviation Group Limited (AAAGL) from Capital A Berhad (“Capital A”)",
+    "note": "AirAsia X Berhad statement, 18 January 2026. The same statement says: 'The completion of this transaction consolidates all AirAsia-branded airlines under a single airline platform (AirAsia Group)'.",
     "checked": {
       "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
   "additionalSources": [
+    {
+      "name": "AirAsia Newsroom: Tune Group Sdn. Bhd. ceases to be a substantial shareholder in AirAsia X Berhad in line with conditions set out in the circulars to shareholders in AirAsia's aviation business consolidation",
+      "date": "2026-01-06",
+      "url": "https://newsroom.airasia.com/news/tune-group-sdn-bhd-ceases-to-be-a-substantial-shareholder-in-airasia-x-berhad-in-line-with-conditions-set-out-in-the-circulars-to-shareholders-in-airasias-aviation-business-consolidation",
+      "quote": "the co-founders, Tan Sri Tony Fernandes and Datuk Kamarudin Meranun will continue to be substantial shareholders via their direct and indirect interests in AirAsia X",
+      "note": "The same AirAsia X Berhad statement describes 'the Proposed Acquisition by AirAsia X of 100% equity interest in AirAsia Aviation Group Limited and AirAsia Berhad'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "AirAsia Newsroom: AirAsia enters new era as AirAsia Group Berhad, advancing its vision to become the world’s first low-cost network carrier",
+      "date": "2026-07-09",
+      "url": "https://newsroom.airasia.com/news/2026/7/9/airasia-enters-new-era-as-airasia-group-berhad-advancing-its-vision-to-become-the-worlds-first-low-cost-network-carrier",
+      "quote": "has successfully completed its name change from AirAsia X Berhad to AirAsia Group Berhad",
+      "note": "The statement says the name change followed shareholder approval on 25 June 2026 and registration by the Companies Commission of Malaysia, effective 2 July 2026.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
     {
       "name": "The Edge Malaysia: Tune Group ceases to be substantial shareholder in AirAsia X after selling nearly 15% stake",
       "date": "2026-01-06",
