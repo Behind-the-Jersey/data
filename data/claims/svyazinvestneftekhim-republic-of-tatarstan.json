@@ -20,6 +20,17 @@
   },
   "additionalSources": [
     {
+      "name": "АО «Связьинвестнефтехим» — Общая информация о компании (company's own 'About' page)",
+      "date": "2026",
+      "url": "https://sin-x.ru/about/",
+      "quote": "В собственность АО «Связьинвестнефтехим» в качестве вклада в его уставный капитал Правительством Республики Татарстан переданы государственные пакеты акций крупнейших республиканских предприятий.",
+      "note": "Translation: 'The Government of the Republic of Tatarstan transferred the state share packages of the republic's largest enterprises into the ownership of AO Svyazinvestneftekhim as a contribution to its charter capital.' The page also states: 'Единственным акционером Общества является Республика Татарстан' ('The sole shareholder of the company is the Republic of Tatarstan').",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "scout-review-1199 (OpenCode review agent, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
       "name": "Kommersant-Kazan: «Связьинвестнефтехим» станет крупнейшим акционером банка «Ак барс»",
       "date": "2009-08-08",
       "url": "https://www.kommersant.ru/doc/1218541",
