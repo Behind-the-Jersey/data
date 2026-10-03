@@ -1,0 +1,19 @@
+{
+  "id": "michelin-cgem-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "compagnie-generale-des-etablissements-michelin"
+  ],
+  "text": "Michelin's parent company Compagnie Générale des Établissements Michelin (CGEM) is organized as a partnership limited by shares (SCA). As of 31 December 2025, BlackRock Inc. held 6.12% of its share capital and Capital Group Companies 5.07%, and to the best of the Company's knowledge no other shareholder directly or indirectly holds more than 5% of the share capital and voting rights.",
+  "source": {
+    "name": "Michelin 2025 Universal Registration Document, section 2.11 Ownership structure and voting rights",
+    "date": "2026",
+    "url": "https://agngnconpm.cloudimg.io/v7/https://dgaddcosprod.blob.core.windows.net/cxf-corporate/attachments/ubjhdeo8ai65kg342bg5ebky-2025-universal-registration-document.pdf",
+    "quote": "BlackRock Inc. held 6.12% of the share capital and less than 5% of the voting rights",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

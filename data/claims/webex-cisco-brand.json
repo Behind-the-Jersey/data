@@ -1,0 +1,20 @@
+{
+  "id": "webex-cisco-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "cisco"
+  ],
+  "text": "Webex is a Cisco brand: Cisco's fiscal 2026 Form 10-K lists the Webex Suite as part of its Collaboration portfolio.",
+  "source": {
+    "name": "Cisco Systems, Inc. Form 10-K for fiscal year ended July 25, 2026 (SEC EDGAR)",
+    "date": "2026-09-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm",
+    "quote": "Our Collaboration portfolio consists of our Webex Suite, Collaboration Devices, Contact Center and Communication Platform as a Service (CPaaS) offerings.",
+    "note": "SEC EDGAR serves 403 to the CI checker's user agent; the page was opened by hand and the quote copied from it.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
