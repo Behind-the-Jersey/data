@@ -1,0 +1,32 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.",
+  "short": "Tameeni is a subsidiary of Rasan Information Technology (listed on the Saudi Exchange, Tadawul: 8313).",
+  "source": {
+    "name": "Rasan – homepage (company site)",
+    "date": "",
+    "url": "https://www.rasan.co/en",
+    "quote": "Rasan's subsidiary Tameeni signs insurance brokerage agreement with Saudi National Bank",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Argaam – Rasan's subsidiary signs insurance brokerage agreement with SNB",
+      "date": "2025-08-03",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1832642",
+      "quote": "Rasan Information Technology Co.'s subsidiary, Tameeni Electronic Insurance Broker, signed an agreement, on July 31, with the Saudi National Bank",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}
