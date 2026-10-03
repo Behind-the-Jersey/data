@@ -3,6 +3,7 @@
   "name": "Kazanorgsintez (PAO)",
   "type": "listed-company",
   "country": "Russia",
-  "parentId": null,
-  "note": "Petrochemical producer, part of SIBUR group; general sponsor of FC Rubin."
+  "parentId": "sibur-rt",
+  "via": "SIBUR's own site lists 'Казаньоргсинтез (64%) (через СИБУР-РТ(100%))'",
+  "note": "Petrochemical producer listed on MOEX (KZOS); 64% held by SIBUR-RT, the former TAIF holding that SIBUR acquired in the October 2021 merger (Kommersant, 2021-10-04). General sponsor of FC Rubin."
 }

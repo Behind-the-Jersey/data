@@ -1,12 +1,17 @@
 {
   "id": "ak-bars-bank",
   "name": "Ak Bars Bank",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "ak-bars-bank",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Official bank of FC Rubin."
+  "claimIds": [
+    "ak-bars-bank-tatarstan-shareholders"
+  ],
+  "aliases": [
+    "Ак Барс Банк",
+    "Ак Барс"
+  ],
+  "note": "Official bank of FC Rubin; name on the upper front and logo patch on the sleeve of the 2026-27 home shirt (official club store product photos, 2026-10-03). The largest shareholders per Cbonds' profile are Tatarstan state bodies and companies (over 50% combined); single-sourced — the bank's own site (akbars.ru) and e-disclosure block scripted access, so no second source obtained."
 }

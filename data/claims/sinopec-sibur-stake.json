@@ -1,0 +1,45 @@
+{
+  "id": "sinopec-sibur-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "sibur",
+    "sinopec",
+    "government-of-china"
+  ],
+  "text": "China's Sinopec — the China Petrochemical Corporation, a central state-owned enterprise listed by name in the State Council SASAC directory of central SOEs — closed a 10% acquisition of SIBUR in December 2015; SIBUR's latest disclosure (2024) lists Sinopec with 8.5% of SIBUR Holding.",
+  "short": "China's state-owned Sinopec holds 8.5% of SIBUR Holding.",
+  "source": {
+    "name": "Interfax: SIBUR nearly doubles RAS profit to 166 bln rubles in 9M",
+    "date": "2024-11-05",
+    "url": "https://interfax.com/newsroom/top-stories/107356/",
+    "quote": "SIBUR's principal shareholders, according to the latest disclosure, are Leonid Mikhelson with 31%, Gennady Timchenko with 14.45%, China's Sinopec and Silk Road Fund with 8.5% each, Sogaz with 10.625%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TASS: Russia approves Silk Road Fund subsidiary purchasing 10% stake in Sibur",
+      "date": "2017-01-11",
+      "url": "https://tass.com/economy/924458",
+      "quote": "In December 2015, Sinopec finalized the deal on acquiring a 10% stake in Sibur for $1.338 bln.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "SASAC (国务院国资委) - 央企名录 (central state-owned enterprises directory)",
+      "date": "2026-10-03",
+      "url": "http://www.sasac.gov.cn/n2588045/n27271785/n27271792/index.html",
+      "quote": "中国石油化工集团有限公司",
+      "note": "Translation: 'China Petrochemical Corporation (Sinopec Group)' — entry 12 in the directory, linking to sinopecgroup.com.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sibur-rt-kazanorgsintez-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "kazanorgsintez",
+    "sibur-rt"
+  ],
+  "text": "SIBUR Holding's own website lists Kazanorgsintez as 64% held through SIBUR-RT, which SIBUR owns 100%. Kommersant reported in October 2021 that SIBUR had acquired the TAIF holding company, which controlled Kazanorgsintez (64%) and Nizhnekamskneftekhim (83%); TAIF was later renamed SIBUR-RT.",
+  "short": "Kazanorgsintez is 64% held by SIBUR-RT, which SIBUR owns outright.",
+  "source": {
+    "name": "SIBUR: PAO Kazanorgsintez site (subsidiary listing in the SIBUR group site menu)",
+    "date": "2026-10-03",
+    "url": "https://www.sibur.ru/kazanorgsintez/ru/",
+    "quote": "Казаньоргсинтез (64%) (через СИБУР-РТ(100%))",
+    "note": "Translation: 'Kazanorgsintez (64%) (through SIBUR-RT (100%))'. The SIBUR group site menu lists group assets with SIBUR's stakes.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Kommersant-Kazan: СИБУР завершил приобретение ТАИФа ('SIBUR completed the acquisition of TAIF')",
+      "date": "2021-10-04",
+      "url": "https://www.kommersant.ru/doc/5018026",
+      "quote": "«СИБУР холдинг» приобрел АО «ТАИФ», контролирующее «Нижнекамскнефтехим» (83% от уставного капитала), «Казаньоргсинтез» (64%) и генерирующую компанию ТГК-16 (100%)",
+      "note": "Translation: 'SIBUR Holding acquired TAIF JSC, which controls Nizhnekamskneftekhim (83% of charter capital), Kazanorgsintez (64%) and generating company TGC-16 (100%).'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
