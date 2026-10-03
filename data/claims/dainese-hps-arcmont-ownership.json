@@ -1,0 +1,21 @@
+{
+  "id": "dainese-hps-arcmont-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "hps-arcmont"
+  ],
+  "text": "Dainese is 100% owned by HPS Investment Partners and Arcmont Asset Management following a 30 million euro investment deal, announced on 29 January 2026.",
+  "short": "Dainese is 100% owned by HPS Investment Partners and Arcmont Asset Management.",
+  "source": {
+    "name": "MCN (Motorcycle News): Dainese announce new owners after 30m euro investment deal approved",
+    "date": "2026-01-29",
+    "url": "https://www.motorcyclenews.com/bike-kit/news/2026-kit-news/january/dainese-bought-by-hps-and-arcmont/",
+    "quote": "they are now 100% owned by HPS Investment Partners and Arcmont Asset Management",
+    "note": "MCN reports the deal was completed after European Commission antitrust approval; the two firms had invested in Dainese in October 2025 while it was owned by Carlyle.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

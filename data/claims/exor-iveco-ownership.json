@@ -1,0 +1,22 @@
+{
+  "id": "exor-iveco-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "exor-nv",
+    "iveco-group-nv"
+  ],
+  "text": "Exor N.V. is the largest shareholder of Iveco Group: 27.1% economic rights and 43.2% voting rights, as of 30 June 2026.",
+  "short": "Exor holds 27.1% economic / 43.2% voting rights in Iveco Group.",
+  "source": {
+    "name": "Exor: Iveco Group (holdings page)",
+    "date": "2026-06-30",
+    "url": "https://www.exor.com/pages/companies/iveco-group",
+    "quote": "27.1% economic rights 43.2% voting rights",
+    "note": "Exor's own holdings page lists Iveco Group among its companies with these figures 'As of 30/06/2026'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

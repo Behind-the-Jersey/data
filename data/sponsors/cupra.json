@@ -1,12 +1,29 @@
 {
   "id": "cupra",
   "name": "CUPRA",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "volkswagen-ag",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "qatar-migrant-worker-abuse-2025",
+    "cupra-vw-brand-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
+  ],
   "aliases": [],
-  "note": "Title sponsor of the CUPRA Rotterdam Premier Padel P2 (FIP 2026 calendar) and of the Cupra FIP Tour; Official Automotive Partner of FIP (padelfip.com sponsor page, dated 23 Aug 2024). Ownership not yet researched."
+  "verdict": null,
+  "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page); also in padel (FIP). Rating note: CUPRA is one of the Volkswagen Group's ten brands per the group page (cupra-vw-brand-ownership); Qatar Holding LLC, wholly owned by the Qatar Investment Authority, holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership) and Qatar's record is documented (qatar-migrant-worker-abuse-2025). Proposed concern in the pull request: Qatar's stake in Volkswagen AG passes the 5% test without control.",
+  "why": {
+    "text": "CUPRA is one of the ten brands of the Volkswagen Group. Qatar Holding LLC — wholly owned by the Qatar Investment Authority, the State of Qatar's sovereign wealth fund — holds 10.4% of Volkswagen AG's subscribed capital and 17.0% of its voting rights, so Qatari state money is part of what is behind Cupra. Amnesty International and Human Rights Watch report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "cupra-vw-brand-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "status": "draft"
+  }
 }
