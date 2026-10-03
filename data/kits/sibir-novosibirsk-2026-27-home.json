@@ -7,8 +7,223 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "novosibirskenergosbyt",
+      "placement": "front",
+      "side": "front",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "АО «Новосибирскэнергосбыт» с 01.01.2015 является единственным Гарантирующим поставщиком электроэнергии",
+        "note": "Company is a listed partner; 'Новосибирскэнергосбыт' is lettered along the lower front of the 2026-27 playing jersey (club photo gallery, home match v Ak Bars 24-09-2026: /media/photo/24-09-2026-sibir-ak-bars/).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "novosibirsk-oblast",
+      "placement": "back",
+      "side": "back",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "При поддержке: Правительство Новосибирской области",
+        "note": "The oblast government is the club's founder ('Учредители Правительство Новосибирской области') and 'НОВОСИБИРСКАЯ ОБЛАСТЬ' appears on a lower-back patch of the 2026-27 jersey (club photo gallery, home match v Ak Bars 24-09-2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "winline",
+      "placement": "sleeve",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "Букмекерская компания Winline является одним из лидеров индустрии ставок на спорт на территории РФ",
+        "note": "WINLINE patch on both sleeves above the numbers of the 2026-27 jersey (club photo gallery, home match v Ak Bars 24-09-2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "s7-airlines",
+      "placement": "patch",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "S7 Airlines — российская авиакомпания, выполняет внутренние и международные пассажирские авиаперевозки",
+        "note": "Green S7 roundel on both shoulders of the 2026-27 jersey (club photo gallery, home match v Ak Bars 24-09-2026). S7 is also listed among the KHL league partners on the club site.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mir-nspk",
+      "placement": "league-partner",
+      "side": "front",
+      "source": {
+        "name": "HC Avangard official site: 'Партнеры Фонбет Чемпионата КХЛ сезона 2026-2027' section",
+        "date": "2026-10-03",
+        "url": "https://hawk.ru/",
+        "quote": "Партнеры Фонбет Чемпионата КХЛ сезона",
+        "note": "МИР appears as 'официальный партнёр' in this syndicated KHL league-partner block (logo image alt text); white 'МИР' patch on the right chest of Sibir's 2026-27 jersey (club photo gallery, home match v Ak Bars 24-09-2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fonbet",
+      "placement": "league-partner",
+      "side": "front",
+      "source": {
+        "name": "HC Avangard official site: 'Партнеры Фонбет Чемпионата КХЛ сезона 2026-2027' section",
+        "date": "2026-10-03",
+        "url": "https://hawk.ru/",
+        "quote": "Партнеры Фонбет Чемпионата КХЛ сезона",
+        "note": "Fonbet is the league's title partner ('титульный партнер' in this block); 'ФОНБЕТ КХЛ' patch at the collar of Sibir's 2026-27 jersey (club photo gallery, home match v Ak Bars 24-09-2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sogaz",
+      "placement": "league-partner",
+      "source": {
+        "name": "HC Avangard official site: 'Партнеры Фонбет Чемпионата КХЛ сезона 2026-2027' section",
+        "date": "2026-10-03",
+        "url": "https://hawk.ru/",
+        "quote": "Партнеры Фонбет Чемпионата КХЛ сезона",
+        "note": "SOGAZ is 'генеральный партнёр' in this block (logo image alt text); 'СОГАЗ' decal on the front of Sibir players' helmets (club photo gallery, home match v Ak Bars 24-09-2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "veka",
+      "placement": "partner",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "Окна VEKA — является дочерней производственной компанией концерна VEKA AG",
+        "note": "Partner club listing; no on-jersey placement seen in match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "atributika-and-club",
+      "placement": "partner",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "Atributika & Club https://atributika.ru/",
+        "note": "Partner club listing; no on-jersey placement seen in match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "zapaska",
+      "placement": "partner",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "Шины и диски в Новосибирске и Бердске - сеть магазинов ЗАПАСКА",
+        "note": "Partner club listing; no on-jersey placement seen in match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "novosibirskaya-ptitsefabrika",
+      "placement": "partner",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "Новосибирская птицефабрика Крупнейший производитель мяса цыплят-бройлеров в Новосибирской области",
+        "note": "Partner club listing; no on-jersey placement seen in match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ulanta",
+      "placement": "partner",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "ULANTA https://ulanta.ru/",
+        "note": "Partner club listing; no on-jersey placement seen in match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "yandex-eda",
+      "placement": "partner",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "Яндекс Еда https://eda.yandex.ru",
+        "note": "Partner club listing; no on-jersey placement seen in match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sport24",
+      "placement": "partner",
+      "source": {
+        "name": "HC Sibir official site: Founders and partners",
+        "date": "2026-10-03",
+        "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+        "quote": "Спортс https://sport24.ru/",
+        "note": "Partner club listing; no on-jersey placement seen in match photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home jersey (navy/light blue, circular crest). Placement list from the club's own current-season match photo gallery (home v Ak Bars 24-09-2026, /media/photo/24-09-2026-sibir-ak-bars/): Novosibirskenergosbyt along the lower front, 'Новосибирская область' lower-back patch, WINLINE on both sleeves, S7 roundel on both shoulders, league marks — 'МИР' chest patch, 'ФОНБЕТ КХЛ' collar patch, 'СОГАЗ' helmet decal. No sponsor logos seen on the pants (club crest + Bauer maker marks only). sponsorsComplete is false: there is no text-based kit launch naming every placement; the list is photo-verified. Off-jersey partners (Veka, Atributika & Club, Zapaska, Novosibirskaya Ptitsefabrika, Ulanta, Yandex Eda, Sport 24) per the club's founders-and-partners page.",
   "change": null
 }

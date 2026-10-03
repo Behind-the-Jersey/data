@@ -1,15 +1,19 @@
 {
   "id": "s7-airlines",
   "name": "S7 Airlines",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "s7-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by S7 Group, which belongs to the Filev family (2018 report). Nothing found.",
+  "claimIds": [
+    "s7-group-filev-family"
+  ],
   "aliases": [
     "S7",
-    "С7"
+    "С7",
+    "S7 Group",
+    "Сибирь (авиакомпания)"
   ],
-  "note": "League partner; airline."
+  "note": "HC Sibir club partner; green S7 roundel on both shoulders of the 2026-27 playing jersey (club match photos), and also listed among KHL league partners. Ownership per KS Online, 24-12-2018; Natalia Fileva died in 2019 — no newer ownership statement found on a page we could open."
 }

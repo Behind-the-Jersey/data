@@ -1,0 +1,34 @@
+{
+  "id": "sibir-novosibirsk-oblast-founder",
+  "kind": "ownership",
+  "ownerIds": [
+    "novosibirsk-oblast-government"
+  ],
+  "text": "The Novosibirsk Oblast government funds and backs HC Sibir: the club's official site lists it as the club's founder, and the oblast sports ministry runs a 2026 state subsidy for the club capped at 1.048 billion rubles.",
+  "short": "Novosibirsk Oblast government is HC Sibir's founder and funder.",
+  "source": {
+    "name": "HC Sibir official site: Founders and partners",
+    "date": "2026-10-03",
+    "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+    "quote": "Учредители Правительство Новосибирской области",
+    "note": "Page has no publication date; fetched 2026-10-03. 'При поддержке: Правительство Новосибирской области' also appears in the site-wide footer.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Континент Сибирь Online: Сколько выделено средств на господдержку новосибирского хоккейного клуба «Сибирь» в 2026 году?",
+      "date": "2025-12-03",
+      "url": "https://ksonline.ru/592695/skolko-vydeleno-sredstv-na-gospodderzhku-novosibirskogo-hokkejnogo-kluba-sibir-v-2026-godu/",
+      "quote": "Предельный размер субсидии, предоставляемой на поддержку ХК « Сибирь » в 2026 году, составляет 1 млрд 048 млн 073 тыс. 600 рублей.",
+      "note": "Same article: 'Организатором отбора выступает министерство физической культуры и спорта Новосибирской области'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "veka-ag-family-run",
+  "kind": "ownership",
+  "ownerIds": [
+    "veka-ag"
+  ],
+  "text": "VEKA AG is a family-run company in its second generation.",
+  "short": "VEKA AG is family-run.",
+  "source": {
+    "name": "VEKA AG official site: VEKA Group",
+    "date": "2026-10-03",
+    "url": "https://www.veka.com/veka-group/",
+    "quote": "As a family-run company in the second generation, our roots are in Sendenhorst (Münsterland) in Westphalia.",
+    "note": "Page has no publication date; fetched 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
