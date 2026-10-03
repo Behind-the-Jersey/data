@@ -1,0 +1,33 @@
+{
+  "id": "rvb-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rvb"
+  ],
+  "text": "The Wildberries business is run through RVB LLC, a joint venture registered in July 2024 that is 65% owned by Wildberries LLC — whose sole owner has been company founder Tatyana Kim since December 2025 — and 35% owned by Stinn LLC, a company linked to the Russ outdoor-advertising group.",
+  "short": "RVB LLC (Wildberries & Russ) is 65% Wildberries LLC (sole owner Tatyana Kim) and 35% Stinn LLC (Russ group).",
+  "source": {
+    "name": "RB.RU: Владислав Бакальчук продал свою долю в 1% в Wildberries: компания перешла под полный контроль Татьяны Ким",
+    "date": "2025-12-11",
+    "url": "https://rb.ru/news/vladislav-bakalchuk-prodal-svoyu-dolyu-v-1-v-wildberries-kompaniya-pereshla-pod-polnyj-kontrol-tatyany-kim/",
+    "quote": "В июле было зарегистрировано совместное предприятие «РВБ», где 65% принадлежит ООО «Вайлдберриз», а 35% — компании «Стинн», связанной с Russ Outdoor.",
+    "note": "The same article also says Tatyana Kim became Wildberries' sole owner after Vladislav Bakalchuk's 1% passed to her: «Теперь же она стала единственным собственником Wildberries, получив полный контроль над компанией» (verbatim).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Vedomosti: Бакальчук и Мирзоян объяснили объединение Wildberries и Russ",
+      "date": "2024-08-10",
+      "url": "https://www.vedomosti.ru/business/news/2024/08/10/1054987-bakalchuk-mirzoyan-obyasnili",
+      "quote": "В СП 65% принадлежит ООО «Вайлдберриз» (основное юрлицо маркетплейса), а 35% – ООО «Стинн» (одно из основных юрлиц ГК Russ).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -12,14 +12,79 @@
       "sponsorId": "fonbet",
       "placement": "front",
       "source": {
-        "name": "PFC Krylia Sovetov – Sponsors and partners",
-        "date": "2026-09-25",
-        "url": "https://pfcks.ru/stranitsa-sponsorov/",
-        "note": "Fonbet is the first (large-tier) sponsor on the club's sponsors page."
+        "name": "PFC Krylia Sovetov: Новая форма «Крыльев Советов» на сезон 2026/27",
+        "date": "2026-07-23",
+        "url": "https://pfcks.ru/news/novosti_4846.html",
+        "quote": "Новая форма «Крыльев Советов» на сезон 2026/27",
+        "note": "The article's launch photos (e.g. /netcat_files/multifile/464/4846/20260723bb.jpg) show FONBET in white across the centre of the chest of the dark-blue home shirt. sports.ru republished the same photos on 2026-07-23 (https://www.sports.ru/football/1117309539-krylya-sovetov-predstavili-domashnyuyu-formu-sezona-2026-27-czentralny.html).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "wildberries",
+      "placement": "front",
+      "source": {
+        "name": "PFC Krylia Sovetov: Новая форма «Крыльев Советов» на сезон 2026/27",
+        "date": "2026-07-23",
+        "url": "https://pfcks.ru/news/novosti_4846.html",
+        "quote": "Домашний комплект бренда Kelme, разработанный совместно с нашим техническим партнёром – компанией Wildberries",
+        "note": "The launch photos show the white 'wb' Wildberries logo on the chest of the home shirt, beside the FONBET wordmark. Wildberries is named as the club's technical partner that co-developed the kit.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "samara-oblast-government",
+      "placement": "front",
+      "source": {
+        "name": "PFC Krylia Sovetov: Новая форма «Крыльев Советов» на сезон 2026/27",
+        "date": "2026-07-23",
+        "url": "https://pfcks.ru/news/novosti_4846.html",
+        "quote": "Новая форма «Крыльев Советов» на сезон 2026/27",
+        "note": "The article's launch photos show 'ПРАВИТЕЛЬСТВО САМАРСКОЙ ОБЛАСТИ' (Government of Samara Oblast) in white on the lower front of the home shirt, below the wing graphic.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "kelme",
+      "placement": "partner",
+      "source": {
+        "name": "PFC Krylia Sovetov: Новая форма «Крыльев Советов» на сезон 2026/27",
+        "date": "2026-07-23",
+        "url": "https://pfcks.ru/news/novosti_4846.html",
+        "quote": "Домашний комплект бренда Kelme, разработанный совместно с нашим техническим партнёром – компанией Wildberries",
+        "note": "Kit maker, listed as partner per existing convention.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "solidarity-bank",
+      "placement": "partner",
+      "source": {
+        "name": "PFC Krylia Sovetov: ПФК «Крылья Советов» продлил спонсорское соглашение с банком «Солидарность»",
+        "date": "2026-07-20",
+        "url": "https://pfcks.ru/news/novosti_4837.html",
+        "quote": "Клуб получит финансовую поддержку, а логотип банка будет размещен на игровой форме команды",
+        "note": "Club: the bank's logo will be on the 2026/27 playing kit, but the launch photos show only the front, where no Solidarity logo appears, and no match photo showing the back or shorts was found, so the placement is unconfirmed. The home stadium is named 'Солидарность Самара Арена' (СОЛИДАРНОСТЬ САМАРА АРЕНА branding in the club's own match photos).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Fonbet leads the club sponsors page; front-shirt placement not confirmed against a kit launch.",
+  "summary": "Kelme home shirt (co-developed with technical partner Wildberries): FONBET across the centre of the chest, the Wildberries 'wb' logo beside it, and 'Правительство Самарской области' (Government of Samara Oblast) on the lower front, all from the club's 2026-07-23 launch photos. Solidarity Bank's logo is announced for the playing kit (club, 2026-07-20) but its placement is not visible in available photos, and no back or shorts view was found, so the list is not marked complete. The right sleeve carries the Alfa-Bank RPL league badge (competition badge, not a club deal).",
   "change": null
 }

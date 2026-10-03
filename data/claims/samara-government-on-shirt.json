@@ -1,0 +1,35 @@
+{
+  "id": "samara-government-on-shirt",
+  "kind": "ownership",
+  "ownerIds": [
+    "samara-oblast-government",
+    "russian-federation"
+  ],
+  "text": "PFC Krylia Sovetov's 2026/27 home shirt carries the name 'Правительство Самарской области' — the Government of Samara Oblast, the regional government of this Russian federal subject — on the front.",
+  "short": "Government of Samara Oblast branding on Krylia Sovetov's 2026/27 home shirt.",
+  "source": {
+    "name": "PFC Krylia Sovetov: Новая форма «Крыльев Советов» на сезон 2026/27",
+    "date": "2026-07-23",
+    "url": "https://pfcks.ru/news/novosti_4846.html",
+    "quote": "Новая форма «Крыльев Советов» на сезон 2026/27",
+    "note": "The article's launch photos (e.g. https://pfcks.ru/netcat_files/multifile/464/4846/20260723bb.jpg) show 'ПРАВИТЕЛЬСТВО САМАРСКОЙ ОБЛАСТИ' in white on the lower front of the home shirt, below the wing graphic.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Sports.ru: «Крылья Советов» представили форму на сезон-2026/27",
+      "date": "2026-07-23",
+      "url": "https://www.sports.ru/football/1117309539-krylya-sovetov-predstavili-domashnyuyu-formu-sezona-2026-27-czentralny.html",
+      "quote": "«Крылья Советов» показали форму нового сезона, вдохновленную космосом.",
+      "note": "Sports.ru republishes the club's launch photos (credited t.me/fckssamara_official); 'ПРАВИТЕЛЬСТВО САМАРСКОЙ ОБЛАСТИ' is legible on the shirt front in them.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
