@@ -1,0 +1,21 @@
+{
+  "id": "smbc-smfg-wholly-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "sumitomo-mitsui-financial-group"
+  ],
+  "text": "Sumitomo Mitsui Banking Corporation became a wholly owned subsidiary of Sumitomo Mitsui Financial Group when SMFG was established in December 2002 as a bank holding company through a share transfer.",
+  "short": "SMBC is wholly owned by Sumitomo Mitsui Financial Group.",
+  "source": {
+    "name": "Sumitomo Mitsui Financial Group: Annual Report FY2023, Group Companies (PDF)",
+    "date": "2024",
+    "url": "https://www.smfg.co.jp/english/investor/library/annual/fy2023e_f02_pdf/fy2023e_f02_02.pdf",
+    "quote": "Sumitomo Mitsui Financial Group, Inc. was established in December 2002 as a bank holding company through a share transfer, and SMBC became a wholly owned subsidiary of Sumitomo Mitsui Financial Group.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "SMFG's own English annual report (FY2023, published 2024), Group Companies section."
+  },
+  "reviewed": false
+}

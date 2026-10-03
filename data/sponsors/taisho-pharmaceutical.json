@@ -1,15 +1,19 @@
 {
   "id": "taisho-pharmaceutical",
   "name": "Taisho Pharmaceutical",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "taisho-pharmaceutical-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Taisho Pharmaceutical is the operating subsidiary of Taisho Pharmaceutical Holdings, taken private in 2024 by the founding Uehara family through its vehicle Otemon. Nothing found.",
+  "claimIds": [
+    "taisho-subsidiary-of-holdings",
+    "taisho-holdings-otemon-mbo"
+  ],
   "aliases": [
     "lipovitand",
-    "lipovitan d"
+    "lipovitan d",
+    "大正製薬"
   ],
-  "note": "RWC 2027 Official Supplier as LipovitanD (rugbyworldcup.com/2027/en/partners); also a Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  "note": "Rating note: Japanese family-owned pharmaceutical company (Lipovitan D); private since the April 2024 Uehara-family management buyout, no state or fund in the chain → none. Front-of-shirt sponsor ('リポビタンD') and Japan Rugby top partner per the JRFU. RWC 2027 Official Supplier as LipovitanD (rugbyworldcup.com/2027/en/partners); also a Global Partner of New Zealand Rugby (allblacks.com/partners)."
 }
