@@ -1,11 +1,20 @@
 {
   "id": "enterprise-rent-a-car",
   "name": "Enterprise Rent-A-Car",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "enterprise-holdings",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "status": "being-rated",
+  "verdict": "Enterprise Rent-A-Car is part of Enterprise Holdings (branded Enterprise Mobility), the holding company the Taylor family created for its car-rental portfolio. In July 2019 a U.S. Department of Labor administrative law judge found the Baltimore subsidiary unlawfully discriminated against African-American job applicants; in November 2021 the Department's Administrative Review Board unanimously reversed that ruling and remanded the case. On hold for a maintainer.",
+  "claimIds": [
+    "enterprise-holdings-taylor-ownership",
+    "enterprise-alj-finding-2019",
+    "enterprise-arb-reversal-2021"
+  ],
+  "aliases": [
+    "enterprise",
+    "enterprise mobility",
+    "enterprise holdings"
+  ],
+  "note": "Rating note: on hold for a maintainer. The link is sourced (Taylor family holding company; second source: the parties' stipulation in the DOL case, 'Enterprise is a wholly-owned subsidiary of Enterprise Holdings, Inc.'). The company record is contested: on 17 July 2019 a DOL administrative law judge ordered Enterprise RAC Company of Baltimore LLC to pay $6.6M to 2,336 rejected African-American applicants after finding a pattern and practice of hiring discrimination in its management-trainee programme between 2007 and 2017, plus debarment from federal contracts (WBAL-TV, 1 Aug 2019, opened via the Wayback Machine; also Automotive Fleet, 6 Aug 2019). On 3 November 2021 the Department's Administrative Review Board unanimously reversed the entirety of that ruling — finding the ALJ applied the wrong legal standards — and remanded the case to a different ALJ (EASI, 24 Jun 2022; DirectEmployers, 31 May 2022); the outcome on remand is not sourced here. If the 2019 ALJ finding counts as the company's record, the tier is concern (a company finding); if the 2021 reversal means no standing finding, the tier is none. Draft why in PR #1104. On Al-Ettifaq's 2026-27 sleeves per the SPL Eastern Derby album; listed among the club's current partners on ettifaq.com."
 }

@@ -1,0 +1,34 @@
+{
+  "id": "enterprise-alj-finding-2019",
+  "kind": "record",
+  "ownerIds": [
+    "enterprise-holdings"
+  ],
+  "text": "In July 2019 a U.S. Department of Labor administrative law judge found that Enterprise RAC Company of Baltimore (a wholly-owned Enterprise Holdings subsidiary) unlawfully discriminated against African-American applicants for its management trainee program in fiscal 2007-2012 and 2014-2017.",
+  "short": "2019 DOL ALJ hiring-discrimination finding against Enterprise's Baltimore subsidiary",
+  "source": {
+    "name": "OFCCP v. Enterprise RAC Company of Baltimore, LLC — Administrative Law Judge Recommended Findings and Order, July 17, 2019 (copy hosted by Roffman Horvitz PLC)",
+    "date": "2019-07-17",
+    "url": "https://roffmanhorvitz.com/documents/roffman-horvitz-plc-2019-dol-decisions-alj-ofc-2016-enterprise-rac-2016-ofc-00006-july-17-2009.pdf",
+    "quote": "The statistical and anecdotal evidence established a prima facie case that Defendant unlawfully discriminated against African-American applicants for its management trainee program",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Recommended Findings no. 3, page 122; the decision also orders job offers to 182 class members. The same document stipulates (Conclusions of Law no. 3): 'Enterprise is a wholly-owned subsidiary of Enterprise Holdings, Inc.' The original on dol.gov blocks scripts, so this law-firm copy of the decision text is cited. A second publisher describes the order: see additionalSources."
+  },
+  "additionalSources": [
+    {
+      "name": "Automotive Fleet: Enterprise Ordered to Pay Over $6M in Race Discrimination Case",
+      "date": "2019-08-06",
+      "url": "https://www.automotive-fleet.com/news/enterprise-ordered-to-pay-over-6m-in-race-discrimination-case",
+      "quote": "ordered by a federal judge to pay over $6.6 million in back wages and benefits to more than 2,300 black applicants who were rejected by the federal contractor’s management trainee program",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same article: 'the applicants were turned down because of their race. It’s the largest back wages award ever under the Department of Labor’s federal contract compliance program.'"
+    }
+  ],
+  "reviewed": false
+}
