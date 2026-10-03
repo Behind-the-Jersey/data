@@ -10,16 +10,51 @@
   "sponsors": [
     {
       "sponsorId": "visit-rwanda",
-      "placement": "league-partner",
+      "placement": "front",
       "source": {
         "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
         "date": "2023-06-19",
         "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        "quote": "Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide placement on all BAL team uniforms (RDB/Visit Rwanda still a BAL Foundational Partner in 2026 per the BAL's 17 March 2026 PUMA release). The official BAL/PUMA reveal photo of the Al Ahly 2026 game jersey (https://bal.africa-newsroom.com/files/large/aad4b5d0ac9603b) shows 'VISIT RWANDA' across the front below the number, and the official BAL photo of Al Ahly vs FUS Rabat (https://cdn-bal.nba.com/manage/sites/3/2026/05/Al-Ahly-vs-FUS-Rabat-scaled.jpg) shows the same on court."
+      }
+    },
+    {
+      "sponsorId": "qatar-foundation",
+      "placement": "back",
+      "source": {
+        "name": "BAL via APO Group: Basketball Africa League and Qatar Foundation Announce Multiyear Social Impact Collaboration",
+        "date": "2026-05-14",
+        "url": "https://bal.africa-newsroom.com/press/basketball-africa-league-and-qatar-foundation-announce-multiyear-social-impact-collaboration?lang=en",
+        "quote": "Qatar Foundation's logo is also displayed on the back of all BAL game uniforms.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide, all BAL game uniforms including Al Ahly's 2026 jersey; the official BAL game photo of Al Ahly vs FUS Rabat (https://cdn-bal.nba.com/manage/sites/3/2026/05/Al-Ahly-vs-FUS-Rabat-scaled.jpg) shows the Qatar Foundation logo above the back number on Al Ahly's red jersey."
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "BAL via APO Group: Basketball Africa League Names PUMA as League's Official Outfitter Ahead of 2026 Season",
+        "date": "2026-03-17",
+        "url": "https://bal.africa-newsroom.com/press/basketball-africa-league-names-puma-as-leagues-official-outfitter-ahead-of-2026-season?lang=en",
+        "quote": "will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker, league-wide. The reveal photo on the same page shows the PUMA cat on the right chest of Al Ahly's red 2026 BAL game jersey, next to the BAL logo on the left chest."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+  "sponsorsComplete": true,
+  "summary": "League-controlled branding on PUMA's 2026 BAL uniform: Visit Rwanda on the front below the number, the Qatar Foundation logo above the back number, PUMA (league outfitter) on the right chest and the BAL logo on the left chest; the shorts carry only the BAL Africa logo. No club-level commercial sponsor appears in the official jersey reveal or BAL game photos — Al Ahly's club-wide partners (Vodafone, Haier, Jetour and others) are not on the BAL jersey.",
   "change": null
 }

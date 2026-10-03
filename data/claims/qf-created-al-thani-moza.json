@@ -1,0 +1,34 @@
+{
+  "id": "qf-created-al-thani-moza",
+  "kind": "ownership",
+  "ownerIds": [
+    "sheikha-moza-bint-nasser"
+  ],
+  "text": "Qatar Foundation was created by Sheikh Hamad Bin Khalifa Al Thani, the late Father Amir of Qatar, and Sheikha Moza bint Nasser; Sheikha Moza is Chairperson of Qatar Foundation.",
+  "short": "Qatar Foundation was created by the late Father Amir and Sheikha Moza bint Nasser, its chairperson",
+  "source": {
+    "name": "Qatar Foundation: About — Our Leadership",
+    "date": "2026",
+    "url": "https://www.qf.org.qa/about",
+    "note": "QF's own account page, 'Our Leadership' section. The page names no state ownership or stake; the foundation's creation is attributed to the two founders.",
+    "quote": "His Highness Sheikh Hamad Bin Khalifa Al Thani, the late Father Amir of Qatar, and Her Highness Sheikha Moza bint Nasser shared a vision for Qatar's future development, which led to the creation of Qatar Foundation.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Qatar Foundation: Qatar Foundation announces new CEO",
+      "date": "2025-05-22",
+      "url": "https://www.qf.org.qa/stories/qatar-foundation-announces-new-ceo",
+      "note": "QF's own announcement naming Sheikha Moza bint Nasser as Chairperson of Qatar Foundation (photo caption on the page).",
+      "quote": "Her Highness Sheikha Moza bint Nasser, Chairperson of Qatar Foundation, with Her Excellency Sheikha Hind bint Hamad Al Thani and Yousif Al-Naama.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
