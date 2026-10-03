@@ -6,11 +6,23 @@
   "placement": "patch",
   "from": "2023",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "Front Office Sports",
-    "date": "2023-02-02",
-    "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+  "value": {
+    "amount": 5,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 5
   },
-  "note": "Jersey patch."
+  "source": {
+    "name": "Front Office Sports – 'MLB Jersey Patch Market Warming Up As Season Approaches'",
+    "date": "2023-02-02",
+    "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal",
+    "quote": "The Cincinnati Reds inked a deal with Kroger worth $5 million annually, according to Sports Business Journal, to put the grocery store chain's logo on the team's uniforms.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Jersey patch. The $5m-a-year figure is a press report: Front Office Sports, citing Sports Business Journal."
 }

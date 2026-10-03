@@ -1,0 +1,34 @@
+{
+  "id": "singtel-ais-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "advanced-info-service",
+    "singtel"
+  ],
+  "text": "Singtel holds a 24.8% equity interest in Advanced Info Service PCL (AIS): its FY2026 Annual Report says an extra 1.4% bought for S$510 million raised the interest to 24.8%, and AIS's own shareholder table (20 Aug 2026) lists Singtel Strategic Investments Pte Ltd (19.10%) plus a Singtel Strategic nominee account (5.67%).",
+  "short": "Singtel holds 24.8% of AIS.",
+  "source": {
+    "name": "Singtel Annual Report 2026: Financial Highlights - Significant events (Note 3)",
+    "date": "2026-06-30",
+    "url": "https://cdn2.singteldigital.com/content/dam/singtel/investorRelations/annualReports/2026/AR2026.pdf",
+    "quote": "The Group acquired 1.4% equity interest of Advanced Info Service Public Company Limited (\"AIS\") for S$510 million. Following the purchase, the Group's equity interest in AIS increased to 24.8%.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Advanced Info Service PCL: Shareholder Structure (investor.ais.co.th)",
+      "date": "2026-08-20",
+      "url": "https://investor.ais.co.th/en/shareholder-information/shareholder-structure",
+      "quote": "Singtel Strategic Investments Pte Ltd. 568,000,000 19.10",
+      "note": "Major Shareholders table 'As of 20 August 2026'; a further 5.67% (168,492,744 shares) sits in the 'Raffle Nominees (Pte) Ltd S/A Singtel Strategic Investments Pte Ltd.' account, so the Singtel vehicles together hold 24.77% of AIS shares.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

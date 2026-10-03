@@ -1,0 +1,33 @@
+{
+  "id": "perdue-farms-child-labor-record",
+  "kind": "record",
+  "ownerIds": [
+    "perdue-farms-owner"
+  ],
+  "text": "The US Department of Labor's Wage and Hour Division found that Perdue Farms jointly employed children in hazardous occupations at its Accomac, Virginia poultry processing plant; Perdue agreed to pay $4 million in restitution and a $150,000 civil penalty.",
+  "short": "US Labor Department found child-labor violations at Perdue's Accomac, Va. plant; $4M restitution, $150K penalty.",
+  "source": {
+    "name": "U.S. Department of Labor: US Department of Labor reaches agreement with Perdue Farms, secures judgment against staffing agency to address child labor violations",
+    "date": "2025-01-15",
+    "url": "https://www.dol.gov/newsroom/releases/whd/whd20250115",
+    "quote": "jointly employed children in hazardous occupations at the Accomac facility to debone and process chicken",
+    "note": "dol.gov blocks scripts; quote checked on the Wayback Machine capture of 2026-04-22.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "scout-review-953"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "USA TODAY: Perdue Farms, JBS USA to pay $4M for child labor violations",
+      "date": "2025-01-17",
+      "url": "https://www.usatoday.com/story/news/nation/2025/01/17/meatpacking-companies-child-labor-restitution/77754639007/",
+      "quote": "accused of employing children since 2020 in \u201chazardous occupations\u201d at a poultry processing plant in Accomac, Virginia",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "scout-review-953"
+      }
+    }
+  ],
+  "reviewed": false
+}

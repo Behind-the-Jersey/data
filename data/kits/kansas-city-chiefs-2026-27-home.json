@@ -14,11 +14,30 @@
       "source": {
         "name": "Kansas City Chiefs",
         "date": "2025-08-25",
-        "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch"
+        "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch",
+        "quote": "makes the engineering and construction firm the Official Engineering & Construction Partner of the Kansas City Chiefs and provides them sponsor rights to the team's valuable practice patch",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mosaic-life-care",
+      "placement": "training-kit",
+      "source": {
+        "name": "Sports Business Journal (Health care providers, financial companies dominate NFL jersey patches)",
+        "date": "2026-09-10",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/",
+        "quote": "Mosaic Life Care's logo has been on the team's jersey since 2013 during the portion of preseason training camp that takes place at Missouri Western State University",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Practice-jersey patch: Burns & McDonnell.",
+  "summary": "Practice jersey: Burns & McDonnell (regular-season practices); Mosaic Life Care (training camp at Missouri Western State University).",
   "change": null
 }
