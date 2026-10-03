@@ -18,5 +18,18 @@
     },
     "note": "Russian: the main owner is the legal entity ООО «Зевс» with a 97.5% share, while the director himself owns 2.5% of the charter capital. The live rusprofile.ru page blocks datacenter requests; the archived capture is from 2025-12-22. The page's founders section per EGRUL names ООО «Зевс» and Козявкин Сергей Геннадьевич as the two founders."
   },
+  "additionalSources": [
+    {
+      "name": "LiveSport.ru: Букмекерская контора Олимпбет (bookmaker review)",
+      "date": "2026-10-03",
+      "url": "https://www.livesport.ru/betting/olimp/",
+      "quote": "С 2016 года «Олимпбет» (ООО «БК «Олимп») принимает онлайн-ставки легально",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Undated evergreen review page; date is the day it was opened. Russian: since 2016 'Olimpbet' (ООО «БК «Олимп») legally accepts online bets — ties the Olimpbet brand to the legal entity ООО «БК «Олимп»."
+    }
+  ],
   "reviewed": false
 }
