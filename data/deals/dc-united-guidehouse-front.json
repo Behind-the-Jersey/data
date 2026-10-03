@@ -1,0 +1,28 @@
+{
+  "id": "dc-united-guidehouse-front",
+  "clubId": "dc-united",
+  "orgName": "Guidehouse",
+  "sponsorId": "guidehouse",
+  "placement": "front",
+  "from": "2024",
+  "to": null,
+  "value": {
+    "amount": 7.5,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "Sportico – 'D.C. United Signs Front-of-Jersey Sponsorship With Guidehouse'",
+    "date": "2024-02-15",
+    "url": "https://www.sportico.com/business/sponsorship/2024/dc-united-jersey-sponsorship-guidehouse-1234766721/",
+    "quote": "The deal is for five years and worth around $7.5 million per year, according to a source familiar with the deal.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Sportico attributes the figure to a source familiar with the deal and says 'around' $7.5m, so it is a reported estimate; the club's own announcement gives no value. Five-year term beginning with the 2024 MLS season; no end season set (to null)."
+}

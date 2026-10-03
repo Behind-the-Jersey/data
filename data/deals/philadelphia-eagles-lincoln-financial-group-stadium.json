@@ -5,12 +5,17 @@
   "sponsorId": "lincoln-financial-group",
   "placement": "stadium",
   "from": null,
-  "to": null,
+  "to": "2032",
   "value": null,
   "source": {
-    "name": "Philadelphia Eagles",
+    "name": "Philadelphia Eagles (philadelphiaeagles.com) – Lincoln Financial Group and Philadelphia Eagles extend stadium naming rights through 2032 season",
     "date": "2019-05-09",
-    "url": "https://www.philadelphiaeagles.com/news/lincoln-financial-group-and-philadelphia-eagles-extend-stadium-naming-rights"
+    "url": "https://www.philadelphiaeagles.com/news/lincoln-financial-group-and-philadelphia-eagles-extend-stadium-naming-rights",
+    "quote": "extend the stadium naming rights for Lincoln Financial Field through the 2032 NFL season",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Lincoln Financial Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2019-05-09."
+  "note": "Arena naming rights: Lincoln Financial Field, through the 2032 NFL season. The release also says the partnership began in 2002; the deal's exact start date is not given."
 }
