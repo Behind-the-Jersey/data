@@ -1,0 +1,20 @@
+{
+  "id": "pon-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "pon"
+  ],
+  "text": "Pon is a family-owned multinational headquartered in the Netherlands, with around 10,000 employees across more than 80 companies in 31 markets.",
+  "short": "Pon is a family-owned Dutch multinational.",
+  "source": {
+    "name": "Pon: About us",
+    "date": "2026",
+    "url": "https://www.pon.com/en/about-pon",
+    "quote": "We are Pon, a family-owned multinational headquartered in the Netherlands. With around 10,000 employees spread across more than 80 companies and six continents, we operate in 31 different markets.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "jumbo-van-eerd-holding",
+  "kind": "ownership",
+  "ownerIds": [
+    "van-eerd-retail"
+  ],
+  "text": "Supermarket chain Jumbo belongs to the holding Van Eerd Retail.",
+  "short": "Jumbo belongs to the holding Van Eerd Retail.",
+  "source": {
+    "name": "HEMA Corporate: Overname HEMA afgerond door Van Eerd Retail",
+    "date": "2026-02-11",
+    "url": "https://corporate.hema.com/nl-nl/news/overname-hema-afgerond-door-van-eerd-retail",
+    "quote": "Hiermee start een nieuwe fase van aandeelhouderschap voor HEMA binnen de holding Van Eerd Retail, waartoe ook Jumbo behoort.",
+    "note": "Dutch; translation: 'This starts a new phase of shareholding for HEMA within the holding Van Eerd Retail, to which Jumbo also belongs.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

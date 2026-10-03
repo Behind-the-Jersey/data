@@ -1,0 +1,35 @@
+{
+  "id": "bms-vwfs-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "volkswagen-ag",
+    "bike-mobility-services"
+  ],
+  "text": "In 2023 Pon sold a 49% stake in Bike Mobility Services (BMS) — the Pon.Bike bike-leasing company whose brands are BusinessBike, Lease a Bike and B2Bike — to Volkswagen Financial Services, a business division of Volkswagen AG.",
+  "short": "Volkswagen Financial Services holds 49% of Lease a Bike's parent Bike Mobility Services.",
+  "source": {
+    "name": "Volkswagen Financial Services: Bike leasing in Europe and the USA — Volkswagen Financial Services and Pon Holdings form strategic alliance",
+    "date": "2023-09-05",
+    "url": "https://www.vwfs.com/en/media/press-releases/2023/vwfs-forms-strategic-alliance-for-bike-leasing-with-pon.html",
+    "quote": "VW FS will acquire a 49 percent stake in the Pon bike leasing subsidiary Bike Mobility Services (BMS)",
+    "note": "The same page states: 'The BMS brands are BusinessBike, Lease a Bike and B2Bike. ... BMS is part of Pon.Bike' and 'Volkswagen Financial Services are a business division of the Volkswagen AG group of companies'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout (PR #1179 review)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "De Brauw Blackstone Westbroek: Pon and Volkswagen Financial Services enter into strategic alliance in Bike Mobility Services",
+      "date": "2023-12-18",
+      "url": "https://www.debrauw.com/matters/pon-and-volkswagen-financial-services-enter-into-strategic-alliance-in-bike-mobility-services",
+      "quote": "Pon sold a 49% stake in the Bike Mobility Services group (\"BMS\") to Volkswagen Financial Services (\"VWFS\")",
+      "note": "Pon's counsel confirming the completed sale; see also EU merger case M.11321 (joint control of Bike Mobility Services B.V. by Volkswagen Financial Services AG and Pon Bicycle Holding B.V.).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (PR #1179 review)"
+      }
+    }
+  ],
+  "reviewed": false
+}
