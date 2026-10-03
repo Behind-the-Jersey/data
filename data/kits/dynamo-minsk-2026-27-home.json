@@ -15,7 +15,7 @@
         "name": "HC Dinamo Minsk official site, partners page",
         "date": "2026",
         "url": "https://hcdinamo.by/club/partners/",
-        "note": "The partners page names BSB Bank an official partner. The 'BSB Bank' logo sits on the front hem of the 2026-27 home jersey in the official KHL kit render (sports.ru/hockey/blogs/3467674.html; the KHL blog warns render sponsor logos may differ from final) and in club press-service match photos (belarushockey.com, 2026-10-01).",
+        "note": "The partners page names BSB Bank an official partner. The 'BSB Bank' logo sits on the front hem of the 2026-27 home jersey in the official KHL kit render (sports.ru/hockey/blogs/3467674.html; the KHL blog warns render sponsor logos may differ from final) and in club press-service match photos (belarushockey.com, 2026-10-01). Quote translation: 'ZAO BSB Bank — Official partner.'",
         "quote": "ЗАО «БСБ Банк» Официальный партнер",
         "checked": {
           "on": "2026-10-03",
@@ -30,7 +30,7 @@
         "name": "HC Dinamo Minsk official site, partners page",
         "date": "2026",
         "url": "https://hcdinamo.by/club/partners/",
-        "note": "GTB is the club's general partner. The blue 'Газпром трансгаз Беларусь' logo appears across the back of the home jersey below the player number (club press-service photo, belarushockey.com 2026-09-07) and large on the front of the away jersey (official KHL render).",
+        "note": "GTB is the club's general partner. The blue 'Газпром трансгаз Беларусь' logo appears across the back of the home jersey below the player number (club press-service photo, belarushockey.com 2026-09-07) and large on the front of the away jersey (official KHL render). Quote translation: 'OAO Gazprom transgaz Belarus — General partner.'",
         "quote": "ОАО «Газпром трансгаз Беларусь» Генеральный партнер",
         "checked": {
           "on": "2026-10-03",
@@ -60,7 +60,7 @@
         "name": "HC Dinamo Minsk official site, partners page",
         "date": "2026",
         "url": "https://hcdinamo.by/club/partners/",
-        "note": "Belavia is an official partner. The 'Belavia' wordmark sits on the pants shell of the 2026-27 kits (official KHL render and club press-service match photos).",
+        "note": "Belavia is an official partner. The 'Belavia' wordmark sits on the pants shell of the 2026-27 kits (official KHL render and club press-service match photos). Quote translation: 'OAO Aviakompaniya Belavia — Official partner.'",
         "quote": "ОАО «Авиакомпания «Белавиа» Официальный партнер",
         "checked": {
           "on": "2026-10-03",
@@ -75,7 +75,7 @@
         "name": "HC Dinamo Minsk official site, partners page (FONBET KHL Championship 2026/27 partners block)",
         "date": "2026",
         "url": "https://hcdinamo.by/club/partners/",
-        "note": "The МИР patch on the right chest of the match jersey (club press photos, 2026-10-01) is the KHL's league-wide official-partner placement, not a club deal; league deal recorded in data/deals/khl-mir-nspk.json.",
+        "note": "The МИР patch on the right chest of the match jersey (club press photos, 2026-10-01) is the KHL's league-wide official-partner placement, not a club deal; league deal recorded in data/deals/khl-mir-nspk.json. Quote translation: 'Partners of the FONBET KHL Championship of the 2026/27 season.'",
         "quote": "Партнеры Фонбет Чемпионата КХЛ сезона 2026/2027",
         "checked": {
           "on": "2026-10-03",
@@ -90,7 +90,7 @@
         "name": "HC Dinamo Minsk official site, partners page (FONBET KHL Championship 2026/27 partners block)",
         "date": "2026",
         "url": "https://hcdinamo.by/club/partners/",
-        "note": "A СОГАЗ sticker on the helmet front is visible in club press photos (belarushockey.com, 2026-10-01); it is the KHL's league-wide general-partner helmet placement, not a club deal; league deal recorded in data/deals/khl-sogaz.json.",
+        "note": "A СОГАЗ sticker on the helmet front is visible in club press photos (belarushockey.com, 2026-10-01); it is the KHL's league-wide general-partner helmet placement, not a club deal; league deal recorded in data/deals/khl-sogaz.json. Quote translation: 'Partners of the FONBET KHL Championship of the 2026/27 season.'",
         "quote": "Партнеры Фонбет Чемпионата КХЛ сезона 2026/2027",
         "checked": {
           "on": "2026-10-03",
@@ -109,7 +109,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'BAZ — Official partner.'"
       }
     },
     {
@@ -123,7 +124,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'MKSK Minsk-Arena — Partner.'"
       }
     },
     {
@@ -137,7 +139,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'OAO Brewing Company Alivaria — Partner.'"
       }
     },
     {
@@ -151,7 +154,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'GP Konus, hot-dip galvanizing plant — Partner.'"
       }
     },
     {
@@ -165,7 +169,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'Online lottery BelBet — Partner.'"
       }
     },
     {
@@ -179,7 +184,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'Olympia Gym & SPA — Partner.'"
       }
     },
     {
@@ -193,7 +199,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'OAO Minsk Margarine Plant — Partner.'"
       }
     },
     {
@@ -207,7 +214,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'OAO Lidapishchekontsentraty — Partner.'"
       }
     },
     {
@@ -221,7 +229,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'OOO Ticketpro — Partner.'"
       }
     },
     {
@@ -235,7 +244,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'ZAO Bank VTB (Belarus) — Partner.'"
       }
     },
     {
@@ -249,7 +259,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'ZAO Aigenis — Partner.'"
       }
     },
     {
@@ -263,7 +274,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'OAO Sber Bank — Partner.'"
       }
     },
     {
@@ -273,7 +285,7 @@
         "name": "HC Dinamo Minsk official site, partners page",
         "date": "2026",
         "url": "https://hcdinamo.by/club/partners/",
-        "note": "Quote keeps the page's typographic apostrophe.",
+        "note": "Quote keeps the page's typographic apostrophe. Quote translation: 'NA'SVYAZI — Partner.'",
         "quote": "НА’СВЯЗИ Партнер",
         "checked": {
           "on": "2026-10-03",
@@ -292,7 +304,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-        }
+        },
+        "note": "Quote translation: 'TEZ TOUR — Partner.'"
       }
     }
   ],
