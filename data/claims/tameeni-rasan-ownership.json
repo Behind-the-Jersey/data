@@ -1,0 +1,20 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni Company was established by the Rasan group in November 2022 as a wholly-owned subsidiary, to operate Tameeni Motor and Tameeni Health and provide insurance aggregation services.",
+  "short": "Tameeni is a wholly-owned subsidiary of Rasan Information Technology",
+  "source": {
+    "name": "Capital Market Authority (Saudi Arabia): Rasan Information Technology Company Prospectus",
+    "date": "2024",
+    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+    "quote": "Tameeni Company was established by the Group in November 2022G as a wholly-owned subsidiary for the purpose of operating Tameeni Motor and Tameeni Health",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

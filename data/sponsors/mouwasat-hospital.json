@@ -1,11 +1,17 @@
 {
   "id": "mouwasat-hospital",
   "name": "Mouwasat Hospital",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "mouwasat-medical-services",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Mouwasat Hospital is part of Mouwasat Medical Services Company, a hospital group listed on the Saudi Exchange (Tadawul: 4002) whose largest shareholders are company insiders holding about 18% each; no state or state fund is in the chain. Nothing found.",
+  "claimIds": [
+    "mouwasat-insider-ownership"
+  ],
+  "aliases": [
+    "mouwasat medical services",
+    "mouwasat"
+  ],
+  "note": "Rating note: listed Saudi healthcare company, insider-owned (Al-Saleem / Al-Subaie families, ~53% combined per Simply Wall St, May 2020); no state or fund stake identified in the sources opened → none."
 }

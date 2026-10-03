@@ -1,0 +1,21 @@
+{
+  "id": "enterprise-holdings-taylor-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "enterprise-holdings"
+  ],
+  "text": "Enterprise Holdings was created in 2009 as a holding company for the Taylor family's growing portfolio of car rental and transportation services; the Enterprise, National and Alamo brands all fall under this company.",
+  "short": "Enterprise Rent-A-Car sits under Enterprise Holdings, the Taylor family holding company",
+  "source": {
+    "name": "Enterprise Mobility: Our Heritage (company history page)",
+    "date": "2026",
+    "url": "https://www.enterprisemobility.com/en/about/our-heritage.html",
+    "quote": "Enterprise Holdings is created as a holding company for the Taylor family’s growing portfolio of car rental and transportation services. Enterprise, National and Alamo all fall under this company.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Same page: 'see how a family-owned organization has become a global mobility leader'; 2007 entry: 'the Taylor family acquires the National Car Rental and Alamo Rent a Car brands'."
+  },
+  "reviewed": false
+}

@@ -1,12 +1,18 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Tameeni is the digital insurance brand of Rasan Information Technology, a Saudi fintech listed on the Saudi Exchange; the CMA prospectus describes Tameeni Company as a wholly-owned group subsidiary. No state or state fund is in the chain. Nothing found.",
+  "claimIds": [
+    "tameeni-rasan-ownership"
+  ],
+  "aliases": [
+    "tameeni",
+    "tameeni company",
+    "tameeni electronic insurance broker"
+  ],
+  "note": "Rating note: ownership chain stops at Rasan Information Technology (listed on the Saudi Exchange, Tadawul 8313); no state stake or board seat identified in the sources opened, and no human-rights finding against the company → none."
 }
