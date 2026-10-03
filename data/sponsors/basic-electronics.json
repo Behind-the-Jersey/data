@@ -1,11 +1,18 @@
 {
   "id": "basic-electronics",
   "name": "Basic Electronics Company",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "basic-electronics-co",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Basic Electronics Co. Ltd. (BASIC / Al-Asasyah) is a family-owned Saudi company owned by founder Mohammad Ahmad Al Arfaj. Nothing found.",
+  "claimIds": [
+    "basic-electronics-arfaj-ownership"
+  ],
+  "aliases": [
+    "Al-Asasyah",
+    "الأساسية",
+    "باسيك"
+  ],
+  "note": "Rating note: founder/family-owned per the company's own about page; no state stake and no human-rights finding found. Strategic partner of Abha; BASIC wordmark on the lower front of the 2026-27 home shirt."
 }
