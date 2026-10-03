@@ -12,22 +12,244 @@
       "sponsorId": "fenix",
       "placement": "front",
       "source": {
-        "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "Fenix-Premier Tech (team site): Fenix-Premier Tech unveils special edition jersey for Tour de France Femmes avec Zwift",
+        "date": "2026-07-29",
+        "url": "https://www.fenix-premiertech.com/news/TdFFavecZwif-jersey",
+        "quote": "the vibrant design puts our title partner FENIX and long-standing team partner Zwift in the spotlight",
+        "note": "Title partner of the team; the Alé 2026 replica front view (https://alebikewear.com/cdn/shop/files/R26232163_1.jpg) shows 'FENIX INNOVATIVE MATERIALS' across the chest of the regular 2026 jersey; 'FENIX' also sits on the left side of the collar and on the viewer's-left side panel.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "premier-tech",
       "placement": "front",
       "source": {
-        "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "Domestique: Premier Tech joins Alpecin as co-sponsor after Israel-Premier Tech split",
+        "date": "2025-12-05",
+        "url": "https://www.domestiquecycling.com/en/news/premier-tech-joins-alpecin-as-co-sponsor-after-israel-premier-tech-split/",
+        "quote": "The men\u2019s team will be known as Alpecin-Premier Tech, while the women\u2019s team will become Fenix-Premier Tech.",
+        "note": "Co-title partner. The Alé 2026 replica front view (https://alebikewear.com/cdn/shop/files/R26232163_1.jpg) shows 'PREMIER TECH' big on the chest below Fenix; 'PREMIER TECH' also sits on the right side of the collar.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "zwift",
+      "placement": "front",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Short Sleeve Jersey (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-short-sleeve-jersey-26-232-fen",
+        "quote": "Women's Fenix Premier Tech Short Sleeve Jersey",
+        "note": "The front-view product photo (https://alebikewear.com/cdn/shop/files/R26232163_1.jpg) shows 'ZWIFT' at the top of the viewer's-right chest stack. The team calls Zwift a 'long-standing team partner' (fenix-premiertech.com, 2026-07-29).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "canyon",
+      "placement": "front",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Short Sleeve Jersey (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-short-sleeve-jersey-26-232-fen",
+        "quote": "Women's Fenix Premier Tech Short Sleeve Jersey",
+        "note": "The front-view product photo (https://alebikewear.com/cdn/shop/files/R26232163_1.jpg) shows 'CANYON' below Zwift in the viewer's-right chest stack. Canyon is also listed as a main partner on the team site (fenix-premiertech.com/main-partners).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "skoda",
+      "placement": "front",
+      "source": {
+        "name": "Alpecin-Premier Tech (team site): Alpecin-Premier Tech and Fenix-Premier Tech extend partnership with Škoda until 2028",
+        "date": "2025-12-22",
+        "url": "https://www.fenix-premiertech.com/news/skoda-extension",
+        "quote": "Alpecin-Premier Tech, Fenix-Premier Tech and their development teams confirm the extension of their partnership with Škoda Belgium.",
+        "note": "The Alé 2026 replica front view (https://alebikewear.com/cdn/shop/files/R26232163_1.jpg) shows 'SKODA' below Canyon in the viewer's-right chest stack.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "abus",
+      "placement": "front",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Short Sleeve Jersey (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-short-sleeve-jersey-26-232-fen",
+        "quote": "Women's Fenix Premier Tech Short Sleeve Jersey",
+        "note": "The front-view product photo (https://alebikewear.com/cdn/shop/files/R26232163_1.jpg) shows 'ABUS' in the viewer's-left chest stack, between the Alé logo and the UCI Women's WorldTeam badge. ABUS is also listed on the team's official partners page.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "premier-tech",
+      "placement": "sleeve",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Short Sleeve Jersey (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-short-sleeve-jersey-26-232-fen",
+        "quote": "Women's Fenix Premier Tech Short Sleeve Jersey",
+        "note": "Co-title sponsor branding: the front-view product photo (https://alebikewear.com/cdn/shop/files/R26232163_1.jpg) shows 'PREMIER TECH' down the wearer's-right sleeve.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fenix",
+      "placement": "sleeve",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Short Sleeve Jersey (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-short-sleeve-jersey-26-232-fen",
+        "quote": "Women's Fenix Premier Tech Short Sleeve Jersey",
+        "note": "Title sponsor branding: the back-view product photo (https://alebikewear.com/cdn/shop/files/R26232163_2.jpg) shows 'FENIX' down the other sleeve.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fenix",
+      "placement": "back",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Short Sleeve Jersey (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-short-sleeve-jersey-26-232-fen",
+        "quote": "Women's Fenix Premier Tech Short Sleeve Jersey",
+        "note": "The back-view product photo (https://alebikewear.com/cdn/shop/files/R26232163_2.jpg) shows 'FENIX INNOVATIVE MATERIALS' across the upper back.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "premier-tech",
+      "placement": "back",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Short Sleeve Jersey (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-short-sleeve-jersey-26-232-fen",
+        "quote": "Women's Fenix Premier Tech Short Sleeve Jersey",
+        "note": "The back-view product photo (https://alebikewear.com/cdn/shop/files/R26232163_2.jpg) shows 'PREMIER TECH' below Fenix across the upper back, and 'PREMIER TECH' and the Premier Tech shield on the viewer's-right side panel.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "premier-tech",
+      "placement": "shorts",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Bib Shorts (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-bib-shorts-26-233-fen",
+        "quote": "Women's Fenix Premier Tech Bib Shorts",
+        "note": "The front-view product photo (https://alebikewear.com/cdn/shop/files/R26233163_1.jpg) shows 'PREMIER TECH' down the wearer's-left thigh.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "zwift",
+      "placement": "shorts",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Bib Shorts (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-bib-shorts-26-233-fen",
+        "quote": "Women's Fenix Premier Tech Bib Shorts",
+        "note": "The front-view product photo (https://alebikewear.com/cdn/shop/files/R26233163_1.jpg) shows the Zwift 'Z' and 'ZWIFT' on the wearer's-left thigh.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "wahoo",
+      "placement": "shorts",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Bib Shorts (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-bib-shorts-26-233-fen",
+        "quote": "Women's Fenix Premier Tech Bib Shorts",
+        "note": "The front-view product photo (https://alebikewear.com/cdn/shop/files/R26233163_1.jpg) shows 'wahoo' on the lower wearer's-right leg above the cuff. Wahoo is also listed on the team's official partners page.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "alpecin",
+      "placement": "shorts",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Bib Shorts (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-bib-shorts-26-233-fen",
+        "quote": "Women's Fenix Premier Tech Bib Shorts",
+        "note": "The back-view product photo (https://alebikewear.com/cdn/shop/files/R26233163_2.jpg) shows 'Alpecin' across the seat of the bib shorts; Alpecin is title sponsor of the men's sister team and an organisation-level partner.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fenix",
+      "placement": "shorts",
+      "source": {
+        "name": "Alé Bike Wear (official store): Women's Fenix Premier Tech Bib Shorts (2026 replica)",
+        "date": "2026",
+        "url": "https://alebikewear.com/products/womens-fenix-premier-tech-bib-shorts-26-233-fen",
+        "quote": "Women's Fenix Premier Tech Bib Shorts",
+        "note": "The back-view product photo (https://alebikewear.com/cdn/shop/files/R26233163_2.jpg) shows 'FENIX INNOVATIVE MATERIALS' down the back of the wearer's-right leg.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ale-cycling",
+      "placement": "partner",
+      "source": {
+        "name": "Fenix-Premier Tech (team site): Fenix-Premier Tech unveils special edition jersey for Tour de France Femmes avec Zwift",
+        "date": "2026-07-29",
+        "url": "https://www.fenix-premiertech.com/news/TdFFavecZwif-jersey",
+        "quote": "Developed together with cycling apparel partner Al\u00e8",
+        "note": "Kit maker, recorded as partner per existing convention. Alé lists Fenix Premier Tech under its road teams (alecycling.com/pages/ale-teams); its logo sits in the jersey's left chest stack and PR-S badge on the hem, and on the bib thighs.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026 UCI Women's WorldTeam; Fenix (Arpa Industriale) and Premier Tech as co-title sponsors in the team name and jersey.",
+  "sponsorsComplete": true,
+  "summary": "2026 UCI Women's WorldTeam kit by Alé: a rust-orange jersey with 'FENIX INNOVATIVE MATERIALS' above 'PREMIER TECH' across the chest (Fenix, the Arpa Industriale brand, is title partner; Premier Tech is co-title partner from 2026 after the club's rebrand from Fenix-Deceuninck). The viewer's-right chest stack carries Zwift, Canyon and Škoda; the viewer's-left stack the Alé logo (kit maker), ABUS and the UCI Women's WorldTeam badge (a UCI label, not a sponsor). The collar carries 'FENIX' (left) and 'PREMIER TECH' (right); Premier Tech runs down the wearer's-right sleeve and Fenix down the other. The upper back repeats 'FENIX INNOVATIVE MATERIALS' above 'PREMIER TECH', with 'PREMIER TECH' and its shield on the side panel. The black bib shorts carry Premier Tech and Zwift down one thigh, 'wahoo' above the other leg's cuff, 'Alpecin' across the seat, and 'FENIX INNOVATIVE MATERIALS' down the back of one leg; Alé logos appear on the jersey and bibs (kit maker, listed as partner). Marked complete: Alé's official 2026 replica garment photos (front and back views of jersey and bib shorts) were checked and match this description. Note: for the Tour de France Femmes avec Zwift 2026 the team raced a special FENIX \u00d7 Zwift edition jersey (team announcement of 2026-07-29), which is a separate special-edition kit.",
   "change": null
 }
