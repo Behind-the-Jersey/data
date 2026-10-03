@@ -1,12 +1,16 @@
 {
   "id": "suez",
   "name": "Suez",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "French water and waste utility listed on Euronext Paris/Brussels; co-title sponsor of FDJ United-Suez (Cyclist, 2026-07-14)."
+  "ownerId": "suez-consortium",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "SUEZ is privately held by a consortium: Meridiam 38.3%, Global Infrastructure Partners (a part of BlackRock) 38.3%, Caisse des Dépôts and CNP Assurances 18.8% and employee shareholders 4.4%. Nothing found.",
+  "claimIds": [
+    "suez-consortium-ownership"
+  ],
+  "aliases": [
+    "SUEZ"
+  ],
+  "note": "Rating note: co-title sponsor of FDJ United-Suez. Caisse des Dépôts (with CNP Assurances) holds 18.8% of SUEZ and is described by SUEZ as 'a French public-sector financial institution' — a French-state link of more than 5%, but France doesn't count as a record under METHOD.md (maintainer decision of September 2026, for Renault: findings of excessive police force and racial profiling are not a record of this kind), so the rating is none. Source disagreement: Cyclist (July 2025 snapshot) calls Suez 'listed on the Paris and Brussels Euronext exchanges', while SUEZ's own governance page presents a private consortium holding via SUEZ Holding; the company's own page is treated as authoritative."
 }

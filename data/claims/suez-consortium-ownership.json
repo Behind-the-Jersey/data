@@ -1,0 +1,34 @@
+{
+  "id": "suez-consortium-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "suez-consortium"
+  ],
+  "text": "SUEZ is owned by a consortium of shareholders: Meridiam 38.3%, Global Infrastructure Partners, a part of BlackRock, 38.3%, Caisse des Dépôts and CNP Assurances 18.8%, and employee shareholders under the Go SUEZ plan 4.4%, with the stakes held via SUEZ Holding.",
+  "short": "SUEZ is held by a consortium led by Meridiam and Global Infrastructure Partners",
+  "source": {
+    "name": "SUEZ — Governance (Our shareholders)",
+    "date": "2026",
+    "url": "https://www.suez.com/en/group/governance",
+    "quote": "SUEZ is owned by a consortium of strong and reputable shareholders, committed to supporting an ambitious strategy aimed at making the Group an agile and innovative world leader in environmental services",
+    "note": "The page shows no publication date. The shareholder split (Meridiam 38.3%, Global Infrastructure Partners, a part of BlackRock, 38.3%, Caisse des Dépôts and CNP Assurances 18.8%, Go SUEZ employee shareholding 4.4%, stakes held via SUEZ Holding) is shown in the 'Our shareholders' chart on the same page; the page also describes Caisse des Dépôts as 'A French public-sector financial institution'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cyclist — Who actually are the Tour de France team sponsors? (Wayback Machine snapshot, 1 September 2025)",
+      "date": "2025-07-09",
+      "url": "https://web.archive.org/web/20250901174028/https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors",
+      "quote": "The company is listed on the Paris and Brussels Euronext exchanges and its biggest shareholders are infrastructure-focussed investment firms Meridiam and Global Infrastructure Partners",
+      "note": "Named-press corroboration that Meridiam and Global Infrastructure Partners are Suez's biggest shareholders. The same article says Suez is 'listed on the Paris and Brussels Euronext exchanges', which disagrees with SUEZ's own presentation of a private consortium holding via SUEZ Holding (noted in the pull request). The live cyclist.co.uk page blocks scripts (HTTP 403), so the archived snapshot is cited.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
