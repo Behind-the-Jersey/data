@@ -12,13 +12,48 @@
       "sponsorId": "bmo-bank",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "SportsPro: 'Toronto FC ink ten-year BMO shirt sponsorship and naming rights renewal'",
+        "date": "2022-06-23",
+        "url": "https://www.sportspro.com/news/toronto-fc-bmo-field-financial-group-extension-shirt-sponsor-naming-rights-mls",
+        "quote": "Toronto FC have signed a ten-year extension of their foundational partnership with the Bank of Montreal (BMO) financial group.",
+        "note": "The 2022 renewal keeps BMO as TFC's main shirt sponsor for the duration of the contract. FOR SOCCER's 2026 MLS jersey-sponsor list (2026-02-17, https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/) confirms BMO Financial Group is on the front of Toronto FC's 2026 shirt.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "lg-electronics",
+      "placement": "sleeve",
+      "source": {
+        "name": "Toronto FC: 'LG Electronics Canada named new sleeve patch partner of Toronto FC'",
+        "date": "2024-07-17",
+        "url": "https://www.torontofc.ca/news/lg-electronics-canada-named-new-sleeve-patch-partner-of-toronto-fc",
+        "quote": "The new partnership will introduce the LG logo on the right sleeve of the team’s jerseys this season.",
+        "note": "Multi-year partnership announced 17 July 2024; FOR SOCCER's 2026 MLS jersey-sponsor list (2026-02-17) still shows LG Electronics as Toronto FC's right-sleeve partner.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Toronto FC's 2026-27 home kit is the red 'Club Kit' introduced in February 2025 and worn for a second season. BMO - the club's shirt sponsor since its first season in 2007, renewed for ten years in June 2022 - is on the front; LG Electronics is the right-sleeve patch partner (announced July 2024); the league-wide Apple TV+ patch sits on the left sleeve. No back-of-jersey advert: MLS opened the lower-back spot only after the 2026 All-Star break, and no TFC back sponsor has been announced."
 }

@@ -1,0 +1,33 @@
+{
+  "id": "lg-electronics-xinjiang-labour-transfers",
+  "kind": "record",
+  "ownerIds": [
+    "lg-electronics-inc"
+  ],
+  "text": "A June 2025 joint investigation by The Bureau of Investigative Journalism, The New York Times and Der Spiegel found that LG Electronics directly owns two appliance plants in Jiangsu, China - the LG Panda Appliances washing-machine plant and a refrigerator plant - that took part in China's state-run Xinjiang labour-transfer scheme from 2019-2020, with one site hosting Xinjiang workers as recently as 2024; in 2022 LG Panda held a recruitment event at a Xinjiang internment camp to fill more than 100 jobs, and a labour recruiter told Der Spiegel the transfers were approved by LG's South Korean headquarters. The UN Office of the High Commissioner for Human Rights wrote to the South Korean government in March 2021 about allegations of forced labour at Chinese factories in the supply chains of Samsung, LG and other major Korean brands. LG did not respond to the investigators' requests for comment.",
+  "short": "TBIJ/NYT/Der Spiegel (2025): LG directly owned two Jiangsu plants that took Xinjiang labour-transfer workers, into 2024.",
+  "source": {
+    "name": "The Bureau of Investigative Journalism: 'How big brands and foreign money prop up Chinese forced labour'",
+    "date": "2025-06-20",
+    "url": "https://www.thebureauinvestigates.com/stories/2025-06-20/how-big-brands-and-foreign-money-prop-up-chinese-forced-labour",
+    "quote": "global brands like LG now directly own factories receiving workers from China’s so-called labour transfer scheme",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The New York Times: 'Far From Home: Uyghur Workers in Factories Supplying Global Brands' (joint investigation with TBIJ and Der Spiegel; Wayback Machine copy)",
+      "date": "2025-05-29",
+      "url": "https://web.archive.org/web/20260223043048/https://www.nytimes.com/interactive/2025/05/29/world/asia/china-uyghur-xinjiang-labor-transfers.html",
+      "quote": "Others make products for export, such as washing machines for LG Electronics and footwear for Crocs",
+      "note": "nytimes.com blocks scripts (HTTP 403); Wayback Machine snapshot of 23 February 2026 opened instead.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
