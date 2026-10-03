@@ -1,0 +1,33 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni, the online insurance platform, is one of Rasan Information Technology Company's flagship subsidiaries and the business that began Rasan's insurtech operations in 2017.",
+  "short": "Tameeni is a flagship platform of Rasan Information Technology Company.",
+  "source": {
+    "name": "Rasan Information Technology Company - Our Businesses (Tameeni)",
+    "date": "2025",
+    "url": "https://www.rasan.co/en/businesses",
+    "quote": "Tameeni marked the beginning of Rasan's disruption of Saudi Arabia's insurance market in 2017",
+    "note": "Rasan's own business page; the same page describes the insurtech verticals (Motor, Health, Life, General) sold through Tameeni. Page copyright 2025.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "MENAbytes: Saudi fintech Rasan goes public on Tadawul",
+      "date": "2024-06-22",
+      "url": "https://www.menabytes.com/rasan-goes-public",
+      "quote": "Founded in 2016, Rasan operates Tameeni, Saudi Arabia’s largest online insurance aggregator",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

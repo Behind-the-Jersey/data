@@ -1,12 +1,17 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Tameeni is an insurance platform of Rasan Information Technology Company, a listed Saudi fintech (Tadawul 8313) whose largest disclosed holders are investment firms and founders; no state stake or human-rights finding against the company was found. Nothing found.",
+  "claimIds": [
+    "tameeni-rasan-ownership"
+  ],
+  "aliases": [
+    "tameeni",
+    "تأميني"
+  ],
+  "note": "Chest sponsor on several Saudi Pro League shirts (listed 'front' on the 2026-27 kits, matching the league-wide upper-chest position). Al-Shabab history: official sponsor announced by the club in 2022 (alshabab-sc.sa/blogs/484, 'تأميني راعياً رسمياً لنادي الشباب') and welcomed again as a main sponsor on 2025-08-28 (club X post, https://x.com/AlShababSaudiFC/status/1961171021513326669); the Tameeni patch is visible on the right chest of the 2026-27 home shirt in the SPL's official kit gallery. Rasan is listed on Tadawul (8313, since June 2024); MENAbytes named Saudi VC Impact46 its largest shareholder around the IPO and MarketScreener lists the free float at 87.49% - no Saudi state stake documented."
 }

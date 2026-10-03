@@ -1,0 +1,32 @@
+{
+  "id": "jetour-chery-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "chery-automobile"
+  ],
+  "text": "JETOUR is one of Chery Automobile's five major passenger-vehicle brands, alongside CHERY, EXEED, iCAR and LUXEED.",
+  "short": "Jetour is one of Chery Automobile's five major brands.",
+  "source": {
+    "name": "Chery Automobile Co., Ltd. - HKEX Global Offering prospectus (Our Brands and Products)",
+    "date": "2025-09-17",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700013.pdf",
+    "quote": "We have five major brands, CHERY , JETOUR, EXEED, iCAR and LUXEED.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "IPOX LLC - IPO calendar: Chery Automobile",
+      "date": "2025-09-25",
+      "url": "https://www.ipox.com/ipo-calendar/chery-automobile",
+      "quote": "a China-based passenger vehicle manufacturer producing a diverse portfolio of internal combustion engine and new energy vehicles under brands including Chery, Omoda, Jetour, Exeed, iCar, and LUXEED",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
