@@ -4,20 +4,31 @@
   "ownerIds": [
     "camara-municipal-de-barcelos"
   ],
-  "text": "The 'BARCELOS' mark on the shirt is the Município de Barcelos (Câmara Municipal de Barcelos), the town council of Barcelos, sponsoring in its own name: the club's partners page lists Barcelos among its OFFICIAL SPONSORS with a link to cm-barcelos.pt, the official municipal website.",
-  "short": "The Barcelos shirt mark is the town council itself.",
+  "text": "The 'BARCELOS' mark on the shirt is the Município de Barcelos (Câmara Municipal de Barcelos), the town council of Barcelos: the council approved a sports-sponsorship contract with Gil Vicente FC whose funds are destined for the Município's institutional advertising on the shirts of the club's senior teams.",
+  "short": "The Barcelos shirt mark is the town council, paying for advertising on the shirts.",
   "source": {
-    "name": "Município de Barcelos (official website)",
-    "date": "2026",
-    "url": "https://www.cm-barcelos.pt/",
-    "quote": "Município de Barcelos",
+    "name": "Município de Barcelos: Câmara aprova 370 mil euros para subsídios a associações e contratos de patrocínio desportivo",
+    "date": "2023-01-09",
+    "url": "https://www.cm-barcelos.pt/2023/01/camara-aprova-370-mil-euros-para-subsidios-a-associacoes-e-contratos-de-patrocinio-desportivo",
+    "quote": "Estas verbas destinam-se publicidade institucional do Município nas camisolas das equipas seniores destes dois clubes, durante a época desportiva.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     },
-    "note": "The site cm-barcelos.pt is the official website of the Município de Barcelos and carries the Câmara Municipal de Barcelos (town council) structure. The club's partners page (https://gilvicentefc.pt/patrocinadores/) links its BARCELOS logo to this address with the label OFFICIAL SPONSOR."
+    "note": "The same passage records the sports-sponsorship contracts approved with Gil Vicente FC (250,000 euros) and Óquei Clube de Barcelos (50,000 euros). English: these funds are destined for the Município's institutional advertising on the shirts of the senior teams of these two clubs, during the sports season."
   },
   "additionalSources": [
+    {
+      "name": "E24: \"Barcelos\" nas camisolas do Gil e do Óquei",
+      "date": "2024-03-09",
+      "url": "https://e24.pt/barcelos-nas-camisolas-do-gil-e-do-oquei",
+      "quote": "verbas destinam-se publicidade institucional do Município nas camisolas das equipas seniores destes dois clubes",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Named regional press (Cávado/Lima), quoting the council's announcement; the article names Gil Vicente and Óquei Clube de Barcelos as the two clubs."
+    },
     {
       "name": "Gil Vicente FC: Parceiros - Juntos pelo Gil",
       "date": "2026",
@@ -27,7 +38,7 @@
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       },
-      "note": "English: brands, institutions and companies that walk with us on and off the pitch. The page lists Barcelos (cm-barcelos.pt) as an OFFICIAL SPONSOR, and the club store's back photo of the 2026-27 home shirt shows 'BARCELOS' across the upper back."
+      "note": "The club's partners page lists Barcelos (cm-barcelos.pt, the Município de Barcelos) among its OFFICIAL SPONSORS, and the club store's back photo of the 2026-27 home shirt shows 'BARCELOS' across the upper back."
     }
   ],
   "reviewed": false
