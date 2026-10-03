@@ -10,6 +10,7 @@
     "date": "2026",
     "url": "https://dgaddcosprod.blob.core.windows.net/cxf-corporate/attachments/ubjhdeo8ai65kg342bg5ebky-2025-universal-registration-document.pdf",
     "quote": "BlackRock Inc. held 6.12% of the share capital and less than 5% of the voting rights",
+    "note": "15 MB PDF: section 2.11 'Ownership structure and voting rights' on the page numbered 143 (PDF page index 142). Opened in full and the quote extracted with pypdf; CI cannot fetch the file by script, so this source needs a hand check.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
