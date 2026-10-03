@@ -1,0 +1,21 @@
+{
+  "id": "ixell-renault-publisher",
+  "kind": "ownership",
+  "ownerIds": [
+    "renault-group"
+  ],
+  "text": "The ixell.com website is published by Renault S.A.S. (Boulogne-Billancourt, France), and the site's content is the property of Renault.",
+  "short": "Ixell's website is published by Renault S.A.S.; its content belongs to Renault.",
+  "source": {
+    "name": "Ixell – Legal informations (ixell.com)",
+    "date": "2026-10-03",
+    "url": "https://www.ixell.com/en/legal-informations",
+    "quote": "Publisher: RENAULT S.A.S -122-122 bis avenue du Général Leclerc - 92100 Boulogne Billancourt - France",
+    "note": "The same page states that all content on the site is 'the property of Renault or of third parties having granted Renault authorization to use them'. The page itself carries no publication date; the date given is the date the page was opened.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

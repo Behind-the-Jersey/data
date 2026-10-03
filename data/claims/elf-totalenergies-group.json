@@ -1,0 +1,21 @@
+{
+  "id": "elf-totalenergies-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "totalenergies-se"
+  ],
+  "text": "The company publishing the elf.com website belongs to the TotalEnergies group; the site's legal notice names TotalEnergies Lubrifiants (Nanterre) as publisher.",
+  "short": "elf.com is published by TotalEnergies Lubrifiants, which belongs to the TotalEnergies group.",
+  "source": {
+    "name": "ELF – Legal terms and conditions (elf.com)",
+    "date": "2026-10-03",
+    "url": "https://elf.com/en/legal",
+    "quote": "The Company publishing this Website belongs to the TotalEnergiesEnergies group.",
+    "note": "Quoted verbatim: the page renders the group name as 'TotalEnergiesEnergies' (the site's own Total-to-TotalEnergies replacement applied twice). The same page's identity section names the publisher as 'TotalEnergiesEnergies Lubrifiants', head office 562 avenue du Parc de l'Ile, 92029 Nanterre. The page carries no publication date; the date given is the date the page was opened.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

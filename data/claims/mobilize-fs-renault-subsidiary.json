@@ -1,0 +1,21 @@
+{
+  "id": "mobilize-fs-renault-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "renault-group"
+  ],
+  "text": "Mobilize Financial Services is a subsidiary of Renault Group; it is the commercial brand of RCI Banque SA, a French bank serving the customers and networks of Renault Group.",
+  "short": "Mobilize Financial Services is a subsidiary of Renault Group.",
+  "source": {
+    "name": "BWT Alpine Formula One Team – Mobilize Financial Services partner page",
+    "date": "2026-10-03",
+    "url": "https://www.alpinef1.com/partners/team-partner-mobilize-financial-services",
+    "quote": "Mobilize Financial Services, a subsidiary of Renault Group, creates innovative financial services to build sustainable mobility for all.",
+    "note": "The page continues: 'Mobilize Financial Services, which began operations nearly 100 years ago, is the commercial brand of RCI Banque SA, a French bank specializing in automotive financing and services for customers and networks of Renault Group'. The page itself carries no publication date; the date given is the date the page was opened.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
