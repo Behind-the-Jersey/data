@@ -1,0 +1,44 @@
+{
+  "id": "rtmi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rtmi"
+  ],
+  "text": "RTMI is a private, non-bank financing company based in Kfar Saba, Israel. Its website names Stav Shaham and Chen Shaham under 'בעלי החברה' (the company's owners), and named press covering its Hapoel Tel Aviv sponsorship describes Stav Shaham as the man behind the company.",
+  "short": "RTMI is a private Israeli financing company; its site names Stav and Chen Shaham as its owners.",
+  "source": {
+    "name": "RTMI — אודות (about: בעלי החברה / the company's owners)",
+    "date": "2026-10-01",
+    "url": "https://www.rtmi.co.il/about",
+    "quote": "בעלי החברה",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The page is undated; date is the day it was opened. The section headed 'בעלי החברה' (company owners) lists Stav Shaham and Chen Shaham with photos and biographies."
+  },
+  "additionalSources": [
+    {
+      "name": "RTMI — homepage",
+      "date": "2026-10-01",
+      "url": "https://www.rtmi.co.il/",
+      "quote": "RTMI הינה חברת מימון פרטית, חוץ בנקאית",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Undated page; date is the day it was opened."
+    },
+    {
+      "name": "וואלה ספורט (Walla Sport): הפועל תל אביב השיקה את מדי הקבוצה ל-2026/27",
+      "date": "2026-07-16",
+      "url": "https://sports.walla.co.il/item/3853992",
+      "quote": "מאחורי החברה עומד סתיו שחם, בעלי הפועל כפר סבא לשעבר",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
