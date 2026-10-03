@@ -1,0 +1,20 @@
+{
+  "id": "im-group-significant-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "im-group-plc"
+  ],
+  "text": "I&M Group PLC's significant shareholders, each owning more than 5%, include Minard Holdings Limited, Tecoma Limited, Ziyungi Limited and East Africa Growth Holding, as at 31 December 2024.",
+  "source": {
+    "name": "I&M Group PLC: Investor Relations Key Facts (shareholding as at 31 December 2024)",
+    "date": "2025-08-03",
+    "url": "http://web.archive.org/web/20250803214248/https://www.imbankgroup.com/investor-relations-key-facts/",
+    "quote": "Below are names and level of ownership of significant shareholders who own more than 5% shareholding of the company. Minard Holdings Limited Tecoma Limited Ziyungi Limited East Africa Growth Holding",
+    "note": "Wayback Machine capture of 3 Aug 2025; the live imbankgroup.com page blocks automated access (Cloudflare 403). The page gives share counts per holder; the percentages render as graphics.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

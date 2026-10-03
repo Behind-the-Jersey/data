@@ -1,0 +1,19 @@
+{
+  "id": "im-bank",
+  "name": "I&M Bank",
+  "ownerId": "im-group-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Group holding company I&M Group PLC is listed on the Nairobi Securities Exchange, with private holding companies among its large shareholders. Nothing found.",
+  "claimIds": [
+    "im-bank-im-group-holdco",
+    "im-group-nse-listed",
+    "im-group-significant-shareholders"
+  ],
+  "aliases": [
+    "I&M Bank Limited",
+    "I and M Bank"
+  ],
+  "note": "Rating note: Official Banking Partner and back-of-jersey sponsor of Nairobi City Thunder from 25 May 2026. I&M Group PLC is NSE-listed; the significant (>5%) shareholders it names are private holding companies, nominee accounts and a charitable foundation. No state stake among them was found, and no human-rights finding against the bank or its parent was found."
+}
