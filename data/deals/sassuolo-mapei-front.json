@@ -1,0 +1,29 @@
+{
+  "id": "sassuolo-mapei-front",
+  "clubId": "sassuolo",
+  "orgName": null,
+  "sponsorId": "mapei",
+  "placement": "front",
+  "from": null,
+  "to": null,
+  "value": {
+    "amount": 18,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "Calcio e Finanza: I ricavi da sponsor di maglia in Serie A: il Napoli vola al quinto posto, Milan in vetta",
+    "date": "2026-07-07",
+    "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/",
+    "quote": "5 – Sassuolo – Mapei: 18 milioni di euro a stagione",
+    "note": "Translation: '5 – Sassuolo – Mapei: 18 million euros per season'. Press estimate of 2026-27 main shirt-sponsorship revenue. The same article notes Mapei is a 'related party': it is owned by the Squinzi family, which runs the club.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "note": "Reported value of the Mapei front-of-shirt deal for 2026-27. Mapei also owns US Sassuolo (the club is under the management and coordination of Mapei S.p.A.), so this is a related-party arrangement rather than a market deal."
+}

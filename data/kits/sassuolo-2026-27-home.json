@@ -12,13 +12,34 @@
       "sponsorId": "mapei",
       "placement": "front",
       "source": {
-        "name": "Calcio e Finanza",
-        "date": "2026-07-07",
-        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+        "name": "U.S. Sassuolo Calcio: Puma e US Sassuolo Calcio presentano il nuovo Home Kit 26/27",
+        "date": "2026-07-17",
+        "url": "https://www.sassuolocalcio.it/club/puma-e-us-sassuolo-calcio-presentano-il-nuovo-home-kit-26-27",
+        "quote": "Il look è completato dal logo del Sassuolo nella sua versione full color con bordo grigio e dai loghi PUMA e MAPEI in Puma White a contrasto.",
+        "note": "Translation: 'The look is completed by the Sassuolo crest in its full-colour version with a grey border and by the PUMA and MAPEI logos in contrasting Puma White.' Mapei is the club's stated main sponsor.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "U.S. Sassuolo Calcio: Puma e US Sassuolo Calcio presentano il nuovo Home Kit 26/27",
+        "date": "2026-07-17",
+        "url": "https://www.sassuolocalcio.it/club/puma-e-us-sassuolo-calcio-presentano-il-nuovo-home-kit-26-27",
+        "quote": "PUMA e U.S. Sassuolo Calcio presentano oggi il nuovo Home Kit che accompagnerà le squadre maschili, femminili e giovanili nella stagione sportiva 2026/2027.",
+        "note": "Translation: 'PUMA and U.S. Sassuolo Calcio today unveil the new Home Kit that the men's, women's and youth teams will wear in the 2026/2027 season.' PUMA is the kit manufacturer; the club's partners page lists it as technical sponsor.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "Mapei on the front; Puma is the kit manufacturer."
 }
