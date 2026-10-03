@@ -4,13 +4,13 @@
   "ownerIds": [
     "uk-nks"
   ],
-  "text": "The Winline bookmaker is run by OOO Upravlyayushchaya kompaniya NKS (UK NKS), in which Andrey Myslivtsev holds the largest share, 45%.",
+  "text": "The Winline bookmaker belongs to OOO Upravlyayushchaya kompaniya NKS (UK NKS); its largest shareholder, Andrey Myslivtsev, holds 45%.",
   "source": {
     "name": "Stavka.tv — Vinлайн: кто основатель и владелец (Winline: who is the founder and owner)",
     "date": "2026-10-01",
     "url": "https://stavka.tv/bookmakers/winline/about",
     "quote": "Компания входит в ООО «Управляющая компания НКС» с уставным капиталов 120 миллионов рублей. Основной долей владеет Андрей Мысливцев.",
-    "note": "Russian text; translation: 'The company is part of OOO Upravlyayushchaya kompaniya NKS with charter capital of 120 million roubles. The main share is held by Andrey Myslivtsev.' The same page lists shareholders: Myslivtsev 45%, Egorchenko 20%, R. Yusupov 16%, Grishkin 15%, L. Yusupova 4%, and lists HC Traktor among the clubs Winline partners with in 2026.",
+    "note": "Russian; translation: 'The company is part of OOO Upravlyayushchaya kompaniya NKS with charter capital of 120 million roubles. The main share is held by Andrey Myslivtsev.' The same page states management of the bookmaker passed to OOO 'Upravlyayushchaya kompaniya Natsionalnogo konevodcheskogo soyuza' and lists shareholders: Myslivtsev 45%, Egorchenko 20%, R. Yusupov 16%, Grishkin 15%, L. Yusupova 4%; it also lists HC Traktor among the clubs Winline partners with in 2026.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
@@ -19,10 +19,10 @@
   "additionalSources": [
     {
       "name": "Checko — OOO 'Upravlyayushchaya kompaniya NKS' (EGRUL data), founders",
-      "date": "2026",
+      "date": "2026-10-03",
       "url": "https://checko.ru/company/upravlyayushchaya-kompaniya-nks-1077758954635",
       "quote": "Мысливцев Андрей Станиславович ИНН 784100349018 с 20 июля 2018 г. 54 млн руб. 45%",
-      "note": "Russian company-register aggregator page (EGRUL data); table row: founder Andrey Stanislavovich Myslivtsev, share 54m roubles, 45% of capital. Page shows no publication date; Checko footer 2019-2026.",
+      "note": "Russian company-register aggregator page (EGRUL data); table row: founder Andrey Stanislavovich Myslivtsev, share 54m roubles, 45% of capital. No publication dateline; the page states 'As of 3 October 2026 the company is active' (na 3 oktyabrya 2026 goda). The page states 'As of 3 October 2026 the company is active' (na 3 oktyabrya 2026 goda).",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
