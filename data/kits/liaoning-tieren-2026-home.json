@@ -1,0 +1,90 @@
+{
+  "id": "liaoning-tieren-2026-home",
+  "clubId": "liaoning-tieren",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nanbowan",
+      "placement": "front",
+      "source": {
+        "name": "Sohu (巴画侃宠物): 球衣印上楠波湾！辽宁铁人足球俱乐部与杏林国际楠波湾正式签约，达成冠名赞助合作",
+        "date": "2025-12-17",
+        "url": "https://www.sohu.com/a/966084488_122311148",
+        "quote": "球衣胸前印着的将不再是空白或过去的标识，而是醒目的“楠波湾”三个字",
+        "note": "Translation: 'the words printed on the front of the shirt will no longer be blank or an old logo, but the eye-catching three characters Nanbowan' — from the 2026 CSL season, after the naming-rights signing of 15 December 2025. Hupu (虎扑, 2025-12-15, citing Liaoning media 辽望体育) reported the same front placement: https://m.hupu.com/bbs/636331954.html.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "shengjing-department-store",
+      "placement": "front",
+      "source": {
+        "name": "Tencent News (九五体育sport95): 三大行业，成为中超球队胸前广告的赞助商 (The three industries sponsoring CSL clubs' shirt fronts)",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "quote": "辽宁铁人足球俱乐部的胸前广告是 “杏林楠波湾、盛京百货”",
+        "note": "Translation: 'Liaoning Tieren FC's shirt-front advertisements are Xinglin Nanbowan and Shengjing Department Store.' The page bolds the sponsor names, so a space stands before the opening quote mark in the page text. The club's own announcement of the partnership with Shengjing Department Store Management (Group) (Dongqiudi via Tencent News, 2026-01-11) contains no placement.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "hailiang-agriculture",
+      "placement": "back",
+      "source": {
+        "name": "新浪微博 (Sina Weibo) post by 闫恩皓Moe7 (host of the Liaoning Tieren super-topic): 辽宁铁人2026赛季主场球衣完整版亮相 (full 2026 home kit revealed)",
+        "date": "2026-03-02",
+        "url": "https://www.sina.cn/news/detail/5271952864578089.html",
+        "quote": "后背广告：海粮农业+云舰装备",
+        "note": "Translation: 'back-of-shirt advertisements: Hailiang Agriculture + Yunjian Equipment' — a post by the club's verified Weibo super-topic host with photos of the full 2026 home kit. Corroboration without a placement: the club announced the strategic partnership with Hailiang Group on 11 January 2026 (Dongqiudi/Tencent News, https://news.qq.com/rain/a/20260111A051Y800) and Hailiang's own site calls it Liaoning Tieren's 2026 strategic partner.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "yunjian-equipment",
+      "placement": "back",
+      "source": {
+        "name": "新浪微博 (Sina Weibo) post by 闫恩皓Moe7 (host of the Liaoning Tieren super-topic): 辽宁铁人2026赛季主场球衣完整版亮相 (full 2026 home kit revealed)",
+        "date": "2026-03-02",
+        "url": "https://www.sina.cn/news/detail/5271952864578089.html",
+        "quote": "后背广告：海粮农业+云舰装备",
+        "note": "Translation: 'back-of-shirt advertisements: Hailiang Agriculture + Yunjian Equipment.' Yunjian was already a 2025 back sponsor: NetEase's report of the club's 12 March 2025 kit-and-sponsors event states the 2025 back carried Liaoning ICBC and Yunjian Equipment (https://www.163.com/dy/article/JQFD4JMJ0549BAP0.html).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "quote": "The two newly promoted sides, Liaoning Tieren and Chongqing Tonglianglong, will wear the simplest options available",
+        "note": "Kit supplier for all 16 CSL clubs in 2026; Liaoning Tieren's home kit is a standard Nike teamwear template, per this article ('...their kits are based strictly on standard Nike teamwear templates with no custom graphics'). Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 CSL home kit by Nike, launched 28 January 2026: plain 'Liaoning red', a standard teamwear template (red shirt, black shorts, red socks). The front carries title sponsor Nanbowan (杏林楠波湾, a plastic-surgery hospital of the Xinglin medical group; naming-rights deal signed 15 December 2025) and Shengjing Department Store (盛京百货, a Shenyang municipal state retailer); the back carries Hailiang Agriculture (海粮农业) and Yunjian Equipment (云舰装备); no sleeve sponsor. Front placements are in press (the naming ceremony and Tencent/Sohu's 2026 CSL sponsor roundups). Back placements rest on a 2 March 2026 Weibo post by the club's super-topic host showing the full kit, corroborated by the club's official partnership announcements (11 January 2026) and by Hailiang's own site; the shorts sponsor status is not documented in any source, so the list is not marked complete.",
+  "change": null
+}
