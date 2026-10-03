@@ -12,13 +12,109 @@
       "sponsorId": "goldenpark",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Goldenpark Casino main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Gil Vicente FC: Gil Vicente FC e GoldenPark juntos até 2027",
+        "date": "2024-07-25",
+        "url": "https://gilvicentefc.pt/gil-vicente-fc-e-goldenpark-juntos-ate-2027",
+        "quote": "com a GoldenPark.pt, que será o Main Sponsor da nossa equipa principal de futebol e que terá a sua marca estampada na frente das nossas camisolas.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "English: with GoldenPark.pt, which will be the Main Sponsor of our main football team and will have its brand printed on the front of our shirts. Three-year deal signed in July 2024, running through 2026-27; the club store's photo of the 2026-27 home shirt shows 'GOLDENPARK.pt CASINO' across the front."
+      }
+    },
+    {
+      "sponsorId": "hm-motor",
+      "placement": "front",
+      "source": {
+        "name": "Gil Vicente FC, Loja Oficial: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://loja.gilvicentefc.pt/produto/camisola-principal-26-27/",
+        "quote": "Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The product's front photo (https://loja.gilvicentefc.pt/wp-content/uploads/2026/07/Sem-Titulo-1-1.png) shows 'H.M. MOTOR' on the right chest, above the Joma logo. The club's partners page (https://gilvicentefc.pt/patrocinadores/) lists H.M. Motor (hm-motor.com) as an OFFICIAL SPONSOR."
+      }
+    },
+    {
+      "sponsorId": "camara-municipal-de-barcelos",
+      "placement": "back",
+      "source": {
+        "name": "Gil Vicente FC, Loja Oficial: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://loja.gilvicentefc.pt/produto/camisola-principal-26-27/",
+        "quote": "Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The product's back photo (https://loja.gilvicentefc.pt/wp-content/uploads/2026/07/Camisola-Principal-26-27_tras.png) shows 'BARCELOS' across the upper back, above the player's name. The club's partners page lists Barcelos (cm-barcelos.pt, the Município de Barcelos) as an OFFICIAL SPONSOR."
+      }
+    },
+    {
+      "sponsorId": "raize",
+      "placement": "back",
+      "source": {
+        "name": "Gil Vicente FC, Loja Oficial: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://loja.gilvicentefc.pt/produto/camisola-principal-26-27/",
+        "quote": "Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The product's back photo (https://loja.gilvicentefc.pt/wp-content/uploads/2026/07/Camisola-Principal-26-27_tras.png) shows 'RAIZE' across the lower back, below the number area. The club's partners page lists Raize (raize.pt) as an OFFICIAL SPONSOR."
+      }
+    },
+    {
+      "sponsorId": "lus-iadas",
+      "placement": "sleeve",
+      "source": {
+        "name": "Gil Vicente FC, Loja Oficial: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://loja.gilvicentefc.pt/produto/camisola-principal-26-27/",
+        "quote": "Camisola Principal 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The product's front photo (https://loja.gilvicentefc.pt/wp-content/uploads/2026/07/Sem-Titulo-1-1.png) shows a 'Lu…' wordmark on the left sleeve and its back photo shows '…das' on the same sleeve; the wordmark matches Lusíadas. The club's partners page lists Lusíadas (lusiadas.pt) as an OFFICIAL SPONSOR."
+      }
+    },
+    {
+      "sponsorId": "grupo-mega",
+      "placement": "shorts",
+      "source": {
+        "name": "Gil Vicente FC, Loja Oficial: Calção Principal 26/27",
+        "date": "2026",
+        "url": "https://loja.gilvicentefc.pt/produto/calcao-principal-26-27/",
+        "quote": "Calção Principal 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The product's photo (https://loja.gilvicentefc.pt/wp-content/uploads/2026/07/Calcao-Oficial-Principal-26-27-1.png) shows 'GRUPO MEGA.pt TECNOLOGIA' on the wearer's left leg of the blue home shorts. The club's partners page lists Grupo Mega (megaonline.pt) as an OFFICIAL SPONSOR."
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Gil Vicente 26-27 Home & Away Kits Released",
+        "date": "2026-07-17",
+        "url": "https://www.footyheadlines.com/1139477722/gil-vicente-26-27-home-away-kits-released.html",
+        "quote": "Produced by Spanish sportswear brand Joma, the new Gil Vicente 2026-27 home shirt introduces a classic primary blue base",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker, recorded as partner per existing convention. The club's partners page lists Joma as TECHNICAL SPONSOR."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by Azartia Games, S.A. via Goldenpark.",
+  "sponsorsComplete": true,
+  "summary": "GoldenPark on the front (club announcement, 25 July 2024, a three-season deal), H.M. Motor on the right chest, Barcelos across the upper back, Raize on the lower back and Lusíadas on the sleeve of the Joma-made home shirt, with Grupo Mega.pt on the home shorts. Marked complete: the club store's product photos of the Camisola Principal 26/27 (front, back and side photos), of the Calção Principal 26/27 and of the Meia Principal 26/27 (socks, Joma logo only) show no other sponsor.",
   "change": null
 }

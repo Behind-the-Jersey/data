@@ -1,0 +1,21 @@
+{
+  "id": "azartia-mga-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mga-new-park"
+  ],
+  "text": "The GoldenPark.pt operation in Portugal belongs to Spain's Grupo MGA: trade press reported that the company belonging to Grupo MGA would operate in Portugal through Azartia Games, with the website www.goldenpark.pt.",
+  "short": "GoldenPark's Portuguese operation belongs to Grupo MGA.",
+  "source": {
+    "name": "Yogonet: Goldenpark recibió la licencia del SRIJ para comenzar a operar en Portugal",
+    "date": "2023-07-05",
+    "url": "https://www.yogonet.com/latinoamerica/noticias/2023/07/05/95215-goldenpark-recibio-la-licencia-del-srij-para-comenzar-a-operar-en-portugal",
+    "quote": "La empresa perteneciente al Grupo MGA operará allí a través de Azartia Games con el sitio web www.goldenpark.pt.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "English: the company belonging to Grupo MGA would operate there through Azartia Games with the website www.goldenpark.pt. The same report quotes José Antonio Giacomelli, CEO of Grupo MGA's Online Division, on the Portuguese launch."
+  },
+  "reviewed": false
+}

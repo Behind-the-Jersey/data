@@ -1,0 +1,21 @@
+{
+  "id": "flexdeal-raize-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "flexdeal-simfe"
+  ],
+  "text": "Flexdeal, SIMFE, S.A. held 49.21% of the share capital and voting rights of Raize - Instituição de Pagamentos, and in January 2026 informed the Bank of Portugal of its intention to raise that stake to up to 51%.",
+  "short": "Flexdeal, SIMFE holds 49.21% of Raize.",
+  "source": {
+    "name": "Jornal Económico: Flexdeal quer aumentar participação na Raize para 51%",
+    "date": "2026-01-20",
+    "url": "https://jornaleconomico.sapo.pt/noticias/flexdeal-quer-aumentar-participacao-na-raize-para-51",
+    "quote": "A Flexdeal detém atualmente 49,21% do capital e dos direitos de voto da Raize",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "English: Flexdeal currently holds 49.21% of the capital and voting rights of Raize. The same report says Flexdeal, SIMFE informed the Bank of Portugal of its intention to raise its qualifying holding to up to 51%."
+  },
+  "reviewed": false
+}
