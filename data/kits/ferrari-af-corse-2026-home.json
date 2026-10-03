@@ -1,0 +1,90 @@
+{
+  "id": "ferrari-af-corse-2026-home",
+  "clubId": "ferrari-af-corse",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "shell",
+      "placement": "front",
+      "source": {
+        "name": "Ferrari – Ferrari and Shell renew their partnership",
+        "date": "2024-10-23",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-shell-renew-their-partnership",
+        "note": "Ferrari's own renewal announcement: the renewed Shell partnership takes effect on 1 January 2026 and explicitly covers the Ferrari Hypercar programme alongside Scuderia Ferrari HP and the Ferrari Challenge. On the 2026 499P launch photos the Shell and V-Power marks sit on the engine cover/sidepod; mapped to front as the programme's title-level partner, mirroring the Scuderia Ferrari kit. The live ferrari.com page blocks scripts (HTTP 403); read via the Wayback Machine capture of 15 April 2025.",
+        "quote": "This agreement, which will take effect on 1 January 2026, encompasses Scuderia Ferrari HP, Ferrari Hypercar, and the Ferrari Challenge Series.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "cetilar",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Ferrari Hypercar official partners (Wayback Machine capture of 13 April 2026)",
+        "date": "2026-04-13",
+        "url": "https://web.archive.org/web/20260413150624/https://www.ferrari.com/en-GB/hypercar/sponsor",
+        "note": "Ferrari's official Hypercar sponsors page for 2026. The partner board image on the page (SVG board 'd_lmh_partners_prefooter_2026_25mar', dated 25 March 2026 in its file name) shows the Cetilar wordmark; checked visually in the SVG source of the board. The live ferrari.com page blocks scripts (HTTP 403). Ferrari's announcement of 21 February 2024 (ferrari.com/en-EN/hypercar/articles/cetilar-reconfirmed-as-team-partner-of-ferrari-af-corse) documents the partnership; the Cetilar wordmark also appears on the 2026 499P launch photos.",
+        "quote": "Ferrari Hypercar official partners",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "salesforce",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Ferrari Hypercar official partners (Wayback Machine capture of 13 April 2026)",
+        "date": "2026-04-13",
+        "url": "https://web.archive.org/web/20260413150624/https://www.ferrari.com/en-GB/hypercar/sponsor",
+        "note": "Ferrari's official Hypercar sponsors page for 2026. The partner board image on the page shows the Salesforce cloud logo; checked visually in the SVG source of the board. The live ferrari.com page blocks scripts (HTTP 403).",
+        "quote": "Ferrari Hypercar official partners",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "servicenow",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Ferrari Hypercar official partners (Wayback Machine capture of 13 April 2026)",
+        "date": "2026-04-13",
+        "url": "https://web.archive.org/web/20260413150624/https://www.ferrari.com/en-GB/hypercar/sponsor",
+        "note": "Ferrari's official Hypercar sponsors page for 2026. The partner board image on the page shows the ServiceNow wordmark; checked visually in the SVG source of the board. The live ferrari.com page blocks scripts (HTTP 403).",
+        "quote": "Ferrari Hypercar official partners",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "synopsys",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Ferrari Hypercar official partners (Wayback Machine capture of 13 April 2026)",
+        "date": "2026-04-13",
+        "url": "https://web.archive.org/web/20260413150624/https://www.ferrari.com/en-GB/hypercar/sponsor",
+        "note": "Ferrari's official Hypercar sponsors page for 2026. The partner board image on the page shows the SYNOPSYS wordmark; checked visually in the SVG source of the board. The live ferrari.com page blocks scripts (HTTP 403).",
+        "quote": "Ferrari Hypercar official partners",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 Ferrari 499P (Ferrari – AF Corse, cars #50 and #51) in the FIA WEC. Shell is the programme's title-level partner (front), renewed with effect from 1 January 2026 explicitly covering the Ferrari Hypercar. Cetilar, Salesforce, ServiceNow and Synopsys appear on the official Ferrari Hypercar partners board for 2026. The list isn't complete: the 2026 livery also carries HP, Richard Mille, CEVA, DHL and Puma marks, not yet sourced to the Hypercar programme; Michelin is the league-wide tyre partner (deals/wec-michelin).",
+  "change": null
+}
