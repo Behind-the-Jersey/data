@@ -1,11 +1,11 @@
 {
   "id": "letsgo",
   "name": "Let's Go Motorhomes",
-  "ownerId": "jayco-corporation",
+  "ownerId": null,
   "ownership": null,
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Motorhome rental firm backed by Jayco; nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "letsgo-jayco-backed-ownership"
   ],
@@ -13,5 +13,5 @@
     "lets go motorhomes",
     "let's go motorhomes"
   ],
-  "note": "Australian motorhome and campervan rental company; its 'letsgo' mark is on the collar of the 2026 Team Jayco AlUla jersey. Its own site says it is 'proudly backed by Jayco', which is why ownership is null: the source says 'backed by', not 'owned by'. No state ownership and no human-rights finding found that passes the METHOD.md test."
+  "note": "Australian motorhome and campervan rental company; its 'letsgo' mark is on the collar and lower back of the 2026 Team Jayco AlUla jersey. Its own site says it is 'proudly backed by Jayco, Australia's largest manufacturer of recreational vehicles' (claim letsgo-jayco-backed-ownership) — that says 'backed by', not 'owned by', so the owner is not identified and the sponsor stays unrated per the method (a 'Nothing found' rating needs a claim that names its owner). Stronger but uncitable lead: a third-party blog (hittheroad.rentals) calls Let's Go Motorhomes 'the rental arm of Jayco'; the site's own pages don't state ownership. No human-rights finding about Let's Go Motorhomes was found."
 }
