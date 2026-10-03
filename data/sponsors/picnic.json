@@ -1,12 +1,17 @@
 {
   "id": "picnic",
   "name": "Picnic",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Dutch online supermarket."
+  "ownerId": "picnic-technologies",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Dutch online supermarket (Picnic Technologies) funded by its shareholders, including Edeka, the Bill & Melinda Gates Foundation Trust and Dutch family businesses; founded in 2015 by Michiel Muller, Frederik Nieuwenhuys, Joris Beckers and Bas Verheijen. Nothing found.",
+  "claimIds": [
+    "picnic-shareholders-2024"
+  ],
+  "aliases": [
+    "Picnic Technologies",
+    "picnic.app"
+  ],
+  "note": "Dutch online supermarket. Rating note: Privately held; disclosed shareholders are Edeka, the Bill & Melinda Gates Foundation Trust and Dutch family businesses (Silicon Canals, Jan 2024) — no full cap table published and no state or sovereign-fund shareholder identified in the sources found. No human-rights finding against Picnic found."
 }

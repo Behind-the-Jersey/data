@@ -1,0 +1,19 @@
+{
+  "id": "igh-ik-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "ik-partners"
+  ],
+  "text": "IK Partners acquired a majority stake in IG&H in August 2022 from its founding management team, who are reinvesting alongside IK (mid-cap fund IK IX); the investment is listed as current on IK Partners' website.",
+  "source": {
+    "name": "IK Partners: IG&H (investment page)",
+    "date": "2022-08",
+    "url": "https://ikpartners.com/investments/igh/",
+    "quote": "IK Partners acquired a majority stake in IG&H in August 2022 from its founding management team who are reinvesting alongside IK",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

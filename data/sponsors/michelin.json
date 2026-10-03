@@ -1,12 +1,18 @@
 {
   "id": "michelin",
   "name": "Michelin",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Official Tyre of MotoGP (motogp.com/en/sponsors) and title sponsor of the Grand Prix of France and Aragon; also listed among KTM's MotoGP partners. Compagnie Generale des Etablissements Michelin is listed on Euronext Paris (SCA form; michelin.com/en/group/corporate-governance). 2026-09-30: no quotable statement on dispersed/controlling shareholding found for a 'none' rating; left unrated."
+  "ownerId": "compagnie-generale-des-etablissements-michelin",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of Compagnie Générale des Établissements Michelin (SCA since 1951); as of 31 December 2025 its largest disclosed holders are asset managers BlackRock (6.12%), Capital Group (5.07%) and Mage Invest (4.41%), with no other shareholder above 5%. Nothing found.",
+  "claimIds": [
+    "michelin-cgem-shareholders"
+  ],
+  "aliases": [
+    "Compagnie Générale des Établissements Michelin",
+    "CGEM",
+    "Manufacture Française des Pneumatiques Michelin"
+  ],
+  "note": "Official Tyre of MotoGP (motogp.com/en/sponsors) and team partner of Team Picnic PostNL from 2026. Rating note: CGEM is a partnership limited by shares (michelin.com corporate governance); its 2025 Universal Registration Document (section 2.11) discloses BlackRock 6.12%, Capital Group 5.07%, Mage Invest 4.41% of share capital and no other shareholder above 5% at 31 December 2025 — asset managers and institutions, no state or state-fund shareholder; the same section notes Capital Group crossed 10% of the share capital in March 2026 (still a private US asset-management group). No human-rights finding against Michelin found."
 }

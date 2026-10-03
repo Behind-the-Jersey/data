@@ -1,0 +1,19 @@
+{
+  "id": "postnl-listing-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "postnl-nv"
+  ],
+  "text": "PostNL N.V. is a Dutch listed company: its shares trade on Euronext Amsterdam under ticker PNL, and its authorised capital consists of 750,000,000 ordinary shares and 750,000,000 preference shares B, with 508,680,625 shares issued and outstanding as of 9 May 2025.",
+  "source": {
+    "name": "PostNL Newsroom: Share information",
+    "date": "2026",
+    "url": "https://newsroom.postnl.nl/en-NL/pages/share-information/",
+    "quote": "The shares of PostNL N.V. are listed on Euronext Amsterdam (ticker: PNL) and included in the AScX-index.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

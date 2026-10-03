@@ -1,0 +1,19 @@
+{
+  "id": "dsm-firmenich-listed-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dsm-firmenich-ag"
+  ],
+  "text": "DSM-Firmenich AG, the parent company of the dsm-firmenich group, is a company organized under Swiss law with its registered office in Kaiseraugst, and its shares have a dual listing on Euronext Amsterdam and the SIX Swiss Exchange; it had 253,626,947 shares outstanding on 26 February 2026.",
+  "source": {
+    "name": "dsm-firmenich investors: Shareholder structure",
+    "date": "2026",
+    "url": "https://investors.dsm-firmenich.com/en/investors/shares-adrs/shareholder-structure.html",
+    "quote": "In connection with the dual listing of the Company on both Euronext Amsterdam and SIX Swiss Exchange",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
