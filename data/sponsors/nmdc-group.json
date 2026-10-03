@@ -1,14 +1,19 @@
 {
   "id": "nmdc-group",
   "name": "NMDC Group",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "alpha-dhabi-holding",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "nmdc"
+  "status": "being-rated",
+  "verdict": "Alpha Dhabi Holding holds about 77% of NMDC Group; IHC holds 58.11% of Alpha Dhabi Holding; IHC is controlled by Royal Group, Sheikh Tahnoon bin Zayed Al Nahyan's holding.",
+  "claimIds": [
+    "nmdc-alpha-dhabi-majority",
+    "alpha-dhabi-ihc-stake",
+    "ihc-royal-group-control"
   ],
-  "note": "Abu Dhabi dredging/energy EPC group; main sponsor of UAE Team L'IMAD. Ownership not verified from a primary source."
+  "aliases": [
+    "nmdc",
+    "national marine dredging company"
+  ],
+  "note": "Abu Dhabi dredging/energy EPC group; on the chest and sleeves of the 2026 UAE Team L'IMAD kit. Rating note: proposed none by the contributor of 2026-10-03, on hold for a maintainer. The chain is NMDC Group -> Alpha Dhabi Holding (~77%, AD Ports Group press release 2025-11-27) -> IHC (58.11%, AGBI 2026-02-16) -> Royal Group, treated as Sheikh Tahnoon bin Zayed's private holding (the G42 review of 2026-09-27 treated Royal Group as private, not the state). No state stake and no human-rights finding against NMDC, Alpha Dhabi or IHC sourced."
 }

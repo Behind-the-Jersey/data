@@ -1,0 +1,20 @@
+{
+  "id": "alpha-dhabi-ihc-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "international-holding-company"
+  ],
+  "text": "In February 2026, International Holding Company (IHC), the Abu Dhabi conglomerate chaired by Sheikh Tahnoun bin Zayed Al Nahyan, held a 58.11% stake in Alpha Dhabi Holding.",
+  "short": "IHC holds 58.11% of Alpha Dhabi Holding",
+  "source": {
+    "name": "AGBI (Arabian Gulf Business Insight): IHC sets up holding company Judan Financial with $237bn assets",
+    "date": "2026-02-16",
+    "url": "https://www.agbi.com/finance/2026/02/ihc-sets-up-holding-company-judan-financial-with-237bn-assets/",
+    "quote": "IHC holds a 58.11 percent stake in Alpha Dhabi Holding and a nearly 42 percent stake in 2PointZero Group, both listed on the ADX.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

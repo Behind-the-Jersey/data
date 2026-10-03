@@ -4,12 +4,30 @@
   "ownerId": "limad",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "L'IMAD is a sovereign investment fund of the Government of Abu Dhabi, whose assets now include ADQ's portfolio.",
+  "claimIds": [
+    "limad-sovereign-investor",
+    "etihad-limad-2026",
+    "uae-mass-trial-2024",
+    "uae-mass-trial-upheld-2025"
+  ],
   "aliases": [
     "l'imad",
-    "uae team limad"
+    "uae team limad",
+    "limad holding",
+    "limad holding company"
   ],
-  "note": "Abu Dhabi sovereign wealth fund (formerly ADQ, absorbed into L'IMAD); title sponsor of UAE Team L'IMAD from 1 August 2026."
+  "note": "Abu Dhabi sovereign wealth fund (formerly ADQ, absorbed into L'IMAD); title sponsor of UAE Team L'IMAD from 1 August 2026. Rating note: proposed serious by the contributor of 2026-10-03, on hold for a maintainer. The link: L'IMAD is a sovereign investment fund of the Government of Abu Dhabi, overseen by the emirate's Supreme Council for Financial and Economic Affairs (claims limad-sovereign-investor, etihad-limad-2026). The record: UAE mass-trial convictions of July 2024, upheld in March 2025 (claims uae-mass-trial-2024, uae-mass-trial-upheld-2025). Sources disagree on the chair: Cyclingnews (2026-07-27) and the Abu Dhabi Media Office (2026-01-30) say Crown Prince Sheikh Khaled bin Mohamed bin Zayed chairs it; The Inner Ring (2026-08-05) says Sheikh Tahnoon bin Zayed."
+  ,"why": {
+    "text": "L'IMAD, the name on the front of the jersey, is a sovereign investment fund of the Government of Abu Dhabi: the team's own sponsor page calls it 'a sovereign investor of the Government of Abu Dhabi', and the Abu Dhabi Media Office lists L'IMAD Holding among the principal sovereign investment funds of the government, chaired by the Crown Prince of Abu Dhabi. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair, and in March 2025 the UAE's Federal Supreme Court upheld the convictions. A famous team makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "uae-mass-trial-upheld-2025",
+      "limad-sovereign-investor",
+      "etihad-limad-2026"
+    ],
+    "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial, and the convictions were upheld in 2025.",
+    "status": "draft"
+  }
 }

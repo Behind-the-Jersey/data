@@ -1,0 +1,43 @@
+{
+  "id": "limad-sovereign-investor",
+  "kind": "ownership",
+  "ownerIds": [
+    "limad",
+    "government-of-abu-dhabi"
+  ],
+  "text": "L'IMAD is a sovereign investment fund of the Government of Abu Dhabi. The team's sponsor page calls it 'a sovereign investor of the Government of Abu Dhabi', and the Abu Dhabi Media Office lists L'IMAD Holding Company among the principal sovereign investment funds of the Government of Abu Dhabi, overseen by the Supreme Council for Financial and Economic Affairs.",
+  "short": "L'IMAD is a sovereign investment fund of the Government of Abu Dhabi",
+  "source": {
+    "name": "UAE Team L'IMAD - sponsor page: L'IMAD (undated page, read October 2026)",
+    "date": "2026-10",
+    "url": "https://uaeteamlimad.com/sponsor/limad/",
+    "quote": "L’IMAD is a sovereign investor of the Government of Abu Dhabi, cementing the economic foundations the emirate has built",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Abu Dhabi Media Office: Supreme Council for Financial and Economic Affairs Issues Resolution to Consolidate the Assets and Investments of L’IMAD Holding and Abu Dhabi Developmental Holding Group",
+      "date": "2026-01-30",
+      "url": "https://www.mediaoffice.abudhabi/en/economy/supreme-council-for-financial-and-economic-affairs-issues-resolution-to-consolidate-the-assets-and-investments-of-limad-holding-and-abu-dhabi-developmental-holding-group/",
+      "quote": "The Supreme Council for Financial and Economic Affairs oversees the principal sovereign investment funds of the Government of Abu Dhabi, namely the Abu Dhabi Investment Authority (ADIA), Mubadala Investment Company and L’IMAD Holding Company.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "AGBI (Arabian Gulf Business Insight): IHC sets up holding company Judan Financial with $237bn assets",
+      "date": "2026-02-16",
+      "url": "https://www.agbi.com/finance/2026/02/ihc-sets-up-holding-company-judan-financial-with-237bn-assets/",
+      "quote": "Last month, L’imad Holding, the new sovereign fund, took control of the $263 billion Abu Dhabi Development Holding Group (ADQ)",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

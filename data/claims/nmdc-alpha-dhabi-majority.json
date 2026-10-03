@@ -1,0 +1,20 @@
+{
+  "id": "nmdc-alpha-dhabi-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "alpha-dhabi-holding"
+  ],
+  "text": "In November 2025 AD Ports Group sold its 9.77% stake in NMDC Group to Alpha Dhabi Holding for AED 1.6 billion; with the purchase, Alpha Dhabi's stake in NMDC Group rose to approximately 77%. AD Ports had received its stake in NMDC from Abu Dhabi's state fund ADQ ahead of NMDC's February 2022 listing.",
+  "short": "Alpha Dhabi Holding owns about 77% of NMDC Group",
+  "source": {
+    "name": "AD Ports Group: AD Ports Group Sells 9.77% Stake in NMDC Group to Alpha Dhabi Holding for AED 1.6 Billion",
+    "date": "2025-11-27",
+    "url": "https://www.adportsgroup.com/en/news-and-media/2025/11/27/ad-ports-group-sells-stake-in-nmdc-group-to-alpha-dhabi-holding",
+    "quote": "With the purchase of AD Ports Group's stake, Alpha Dhabi's stake in NMDC Group, will increase to approximately 77%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

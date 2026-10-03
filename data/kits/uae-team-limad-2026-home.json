@@ -14,47 +14,102 @@
       "source": {
         "name": "Cyclingnews - UAE Team ADQ get new name for Tour de France Femmes and beyond (Matilda Price)",
         "date": "2026-07-27",
-        "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uae-team-adq-get-new-name-for-tour-de-france-femmes-and-beyond/"
+        "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uae-team-adq-get-new-name-for-tour-de-france-femmes-and-beyond/",
+        "quote": "Polish champion Dominika Włodarczyk wears the new L'IMAD-branded jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Team will become UAE Team L'IMAD from August 1, for the Tour de France Femmes and beyond. The article's team-supplied photo (https://cdn.mos.cms.futurecdn.net/XsitVR4NeLFF9LwfGXucxn.jpg) shows 'UAE TEAM / L'IMAD' across the chest, L'IMAD under NMDC on both sleeves and L'IMAD on the thigh of the shorts; the team's squad photo at the same event (https://cdn.mos.cms.futurecdn.net/QXGA3WyDebfiqp4Yu9ihfd.jpg) shows the same on the standard jersey."
       }
     },
     {
       "sponsorId": "nmdc-group",
-      "placement": "partner",
+      "placement": "front",
       "source": {
-        "name": "UAE Team L'IMAD - Main Sponsors page",
-        "date": "2026-09-25",
-        "url": "https://uaeteamlimad.com/sponsors/"
+        "name": "UAE Team L'IMAD - sponsor page: NMDC (undated page, read October 2026)",
+        "date": "2026-10",
+        "url": "https://uaeteamlimad.com/sponsor/nmdc/",
+        "quote": "Both UAE Team ADQ and NMDC Group are dedicated to achieving significant milestones",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Main sponsor. The team-supplied kit photos (https://cdn.mos.cms.futurecdn.net/XsitVR4NeLFF9LwfGXucxn.jpg, https://cdn.mos.cms.futurecdn.net/QXGA3WyDebfiqp4Yu9ihfd.jpg) show the NMDC GROUP logo on the right chest beside L'IMAD and above L'IMAD on both sleeves."
       }
     },
     {
       "sponsorId": "ihc",
-      "placement": "partner",
+      "placement": "front",
       "source": {
-        "name": "UAE Team L'IMAD - Main Sponsors page",
-        "date": "2026-09-25",
-        "url": "https://uaeteamlimad.com/sponsors/"
+        "name": "UAE Team L'IMAD - sponsor page: IHC (undated page, read October 2026)",
+        "date": "2026-10",
+        "url": "https://uaeteamlimad.com/sponsor/ihc/",
+        "quote": "IHC is an international holding company that pursues high growth opportunities and advancement by investing in innovation",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Main sponsor. The team's squad photo in the 2026 kit (https://cdn.mos.cms.futurecdn.net/QXGA3WyDebfiqp4Yu9ihfd.jpg) shows IHC on the right chest, below NMDC GROUP and Analog, and running down the right side of the jersey."
       }
     },
     {
       "sponsorId": "analog",
-      "placement": "partner",
+      "placement": "front",
       "source": {
-        "name": "UAE Team L'IMAD - Main Sponsors page",
-        "date": "2026-09-25",
-        "url": "https://uaeteamlimad.com/sponsors/"
+        "name": "UAE Team L'IMAD - sponsor page: Analog (undated page, read October 2026)",
+        "date": "2026-10",
+        "url": "https://uaeteamlimad.com/sponsor/analog/",
+        "quote": "Through this partnership, Analog becomes the Official Technology Sponsor of UAE Team ADQ",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Page written under the team's earlier name, UAE Team ADQ. Main sponsor. The team's kit photos (https://cdn.mos.cms.futurecdn.net/XsitVR4NeLFF9LwfGXucxn.jpg, https://cdn.mos.cms.futurecdn.net/QXGA3WyDebfiqp4Yu9ihfd.jpg) show Analog across both shoulders and on the right side of the jersey."
       }
     },
     {
       "sponsorId": "mywhoosh",
       "placement": "partner",
       "source": {
-        "name": "UAE Team L'IMAD - Main Sponsors page",
-        "date": "2026-09-25",
-        "url": "https://uaeteamlimad.com/sponsors/"
+        "name": "UAE Team L'IMAD - sponsor page: MyWhoosh (undated page, read October 2026)",
+        "date": "2026-10",
+        "url": "https://uaeteamlimad.com/sponsor/mywhoosh/",
+        "quote": "MyWhoosh is an indoor cycling app that provides a fun, and social experience",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Listed by the team as a main sponsor. Not visible in the team's front-facing kit photos; on the men's UAE Team Emirates XRG 2026 kit it is on the back shoulders, but no back view of the women's jersey was verifiable."
+      }
+    },
+    {
+      "sponsorId": "colnago",
+      "placement": "shorts",
+      "source": {
+        "name": "UAE Team L'IMAD - sponsor page: Colnago (undated page, read October 2026)",
+        "date": "2026-10",
+        "url": "https://uaeteamlimad.com/sponsor/colnago/",
+        "quote": "Colnago Ernesto & C. S.r.l., known as Colnago, is a manufacturer of high-end road-racing bicycles",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Listed by the team as a main sponsor. The team's kit photos (https://cdn.mos.cms.futurecdn.net/XsitVR4NeLFF9LwfGXucxn.jpg, https://cdn.mos.cms.futurecdn.net/QXGA3WyDebfiqp4Yu9ihfd.jpg) show the Colnago clover at the thigh of the shorts and beside the collar on the chest."
+      }
+    },
+    {
+      "sponsorId": "pissei",
+      "placement": "partner",
+      "source": {
+        "name": "UAE Team L'IMAD - Main Sponsors page (undated page, read October 2026)",
+        "date": "2026-10",
+        "url": "https://uaeteamlimad.com/sponsors/",
+        "note": "Kit maker, recorded as partner per existing convention. The team's kit photos (https://cdn.mos.cms.futurecdn.net/XsitVR4NeLFF9LwfGXucxn.jpg, https://cdn.mos.cms.futurecdn.net/QXGA3WyDebfiqp4Yu9ihfd.jpg) show the PISSEI mark on the chest and on the hip of the shorts. No on-page quote: the sponsors page shows the Pissei logo image without text."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026 UCI Women's WorldTeam. Title sponsor L'IMAD on the front of the jersey from 1 August 2026 (UAE Team ADQ before that); NMDC, IHC, Analog and MyWhoosh are listed main sponsors. Individual jersey positions for the main sponsors beyond the front not verified.",
+  "summary": "2026 UCI Women's WorldTeam kit by Pissei, rebranded from UAE Team ADQ to UAE Team L'IMAD on 1 August 2026. 'UAE TEAM / L'IMAD' fills the chest, with NMDC GROUP on the right beside it; IHC and Analog stack below NMDC on the right; Analog runs across both shoulders; NMDC GROUP over L'IMAD on both sleeves; the shorts carry L'IMAD on the thigh and the Colnago clover at the hem; small Colnago clover and PISSEI marks sit by the collar, and PISSEI is on the hip of the shorts. MyWhoosh is listed by the team as a main sponsor but is not visible in the front-facing kit photos (on the men's kit it sits on the back shoulders). 'UAE' is the country's name in the team name. Not marked complete: only front-facing, team-supplied photos were verifiable; the back of the jersey and the pre-August ADQ-branded version are not documented here.",
   "change": null
 }
