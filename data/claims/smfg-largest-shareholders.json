@@ -4,18 +4,18 @@
   "ownerIds": [
     "sumitomo-mitsui-financial-group"
   ],
-  "text": "Sumitomo Mitsui Financial Group's largest shareholders as of March 31, 2026 are trust and custody banks: Japan Master Trust (16.15%) and Japan Custody Bank (5.79%), ahead of State Street Bank and Trust (2.82%).",
+  "text": "Sumitomo Mitsui Financial Group's largest shareholders as of March 31, 2026 are trust and custody banks: The Master Trust Bank of Japan (16.15%) and Custody Bank of Japan (5.79%), ahead of State Street Bank and Trust Company (2.82%).",
   "short": "SMFG's largest shareholders are trust and custody banks.",
   "source": {
-    "name": "Sumitomo Mitsui Financial Group: 資本・株式等の状況 (Capital and share status), 大株主の状況 (Major shareholders)",
+    "name": "Sumitomo Mitsui Financial Group: Capital and Stock Data — Principal Shareholders (as of March 31, 2026)",
     "date": "2026-03-31",
-    "url": "https://www.smfg.co.jp/investor/stock/capital_shares.html",
-    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 616,623,100 16.15 株式会社日本カストディ銀行（信託口） 221,341,000 5.79 STATE STREET BANK AND TRUST COMPANY 505001 107,842,569 2.82",
+    "url": "https://www.smfg.co.jp/english/investor/stock/capital_shares.html",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 616,623,100 16.15 Custody Bank of Japan, Ltd. (Trust Account) 221,341,000 5.79 STATE STREET BANK AND TRUST COMPANY 505001 107,842,569 2.82",
     "checked": {
       "on": "2026-10-04",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     },
-    "note": "SMFG's investor-relations page, table '大株主の状況（2026年3月31日現在）' (Major shareholders as of March 31, 2026): share counts and percentage held."
+    "note": "SMFG's English investor-relations page, table 'Principal Shareholders (as of March 31, 2026)': share counts and percentage of shares outstanding."
   },
   "reviewed": false
 }
