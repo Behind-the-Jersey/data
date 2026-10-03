@@ -1,0 +1,21 @@
+{
+  "id": "ozon-shareholders-2026",
+  "kind": "ownership",
+  "ownerIds": [
+    "ozon"
+  ],
+  "text": "Ozon's shares trade on the Moscow Exchange through MKPAO \"Ozon\"; as of 1 March 2026 its largest shareholders were AO O23 with 34.95% of issued shares and AFK \"Sistema\" with 31.80%, and other shareholders held 33.25%.",
+  "short": "Ozon is listed on the Moscow Exchange; big shareholders are AO O23 (34.95%) and AFK Sistema (31.80%) as of 1 March 2026.",
+  "source": {
+    "name": "MKPAO Ozon: Annual Report 2025 (Годовой отчёт 2025), shareholders section, via Moscow Exchange",
+    "date": "2026",
+    "url": "https://www.moex.com/media/mirs/mkpao-ozon-godovoj-otchet-2025.pdf",
+    "quote": "31,80% АФК «Система»1 33,25% Другие акционеры3 34,95% АО «О23»2 % от количества размещенных акций4",
+    "note": "Page 42 «Информация для акционеров и инвесторов»: AFK Sistema 31.80%, AO O23 34.95%, other shareholders 33.25%; footnote 4: the share-capital structure is given as of 1 March 2026; footnote 1 adds the 16,083,675 shares of Sistema Venture Fund controlled by AFK Sistema.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

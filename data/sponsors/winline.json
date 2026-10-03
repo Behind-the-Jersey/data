@@ -3,10 +3,14 @@
   "name": "Winline",
   "ownerId": "winline",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Krasnodar shirt sponsor per its partner page; also a Zenit partner."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Russian bookmaker owned by five private individuals through LLC UK NKS; the largest share (45%) belongs to Andrey Myslivtsev. Nothing found.",
+  "claimIds": [
+    "winline-private-owners"
+  ],
+  "aliases": [
+    "Винлайн"
+  ],
+  "note": "Rating note: stavka.tv lists the five private founders and their shares of the legal entity LLC \"Upravlyayushchaya kompaniya NKS\"; no state stake and no human-rights finding found. Title partner of FC Krasnodar since 2020, with the agreement running to the end of the 2026/27 season (sports.ru, 10 Jul 2025); also a Zenit partner."
 }

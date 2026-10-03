@@ -1,12 +1,14 @@
 {
   "id": "constell-group",
   "name": "Constell Group",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "constell-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Production holding created in 2007 by Krasnodar businessman Sergei Galitsky, a private individual. Nothing found.",
+  "claimIds": [
+    "constell-group-galitsky-ownership"
+  ],
   "aliases": [],
-  "note": "FC Krasnodar general partner (confectionery production group)."
+  "note": "Rating note: 93.ru (17 Nov 2025) names Sergei Galitsky - the founder of Magnit and FC Krasnodar - as the private businessman who created Constell Group; no state stake and no human-rights finding found. Its wordmark shares the right sleeve of FC Krasnodar's 2026/27 match shirt with ABSEL (club match photo galleries; the club shop offers a Constell-logo print option)."
 }

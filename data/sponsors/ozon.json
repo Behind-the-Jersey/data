@@ -1,12 +1,14 @@
 {
   "id": "ozon",
   "name": "Ozon",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "ozon",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of MKPAO Ozon, an e-commerce company listed on the Moscow Exchange; its largest shareholders are AO O23 (34.95%) and AFK Sistema (31.80%), both private Russian investors, and the rest free float. Nothing found.",
+  "claimIds": [
+    "ozon-shareholders-2026"
+  ],
   "aliases": [],
-  "note": "Krasnodar partner."
+  "note": "Rating note: 2025 annual report (structure as of 1 March 2026) names AO O23 (34.95%) and AFK Sistema (31.80%, incl. Sistema Venture Fund) as the big shareholders of Moscow Exchange–listed MKPAO Ozon; no state stake or board control found, and no human-rights finding against the company found. Krasnodar partner since April 2025 (kit logo + Ozon Arena stadium naming) with the deal running to 2029."
 }
