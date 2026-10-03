@@ -1,0 +1,20 @@
+{
+  "id": "rhone-freddys-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rhone-group"
+  ],
+  "text": "In September 2025, investment funds affiliated with Rhône, a global private equity firm established in 1996, acquired Freddy's Frozen Custard & Steakburgers from Thompson Street Capital Partners.",
+  "short": "Freddy's is owned by investment funds affiliated with the private equity firm Rhône.",
+  "source": {
+    "name": "Greenberg Traurig: Greenberg Traurig Represents Rhône in Acquisition of Freddy's Frozen Custard & Steakburgers",
+    "date": "2025-09-08",
+    "url": "https://www.gtlaw.com/en/news/2025/09/press-releases/greenberg-traurig-represents-rhone-in-acquisition-of-freddys-frozen-custard-steakburgers",
+    "quote": "represented investment funds affiliated with Rhône, a global private equity firm, in connection with its acquisition of Freddy's Frozen Custard & Steakburgers from Thompson Street Capital Partners",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

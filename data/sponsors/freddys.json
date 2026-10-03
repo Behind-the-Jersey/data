@@ -1,14 +1,17 @@
 {
   "id": "freddys",
   "name": "Freddy's",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "Freddys Frozen Custard"
+  "ownerId": "rhone-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Freddy's is owned by investment funds affiliated with Rhône, a US-based private equity firm. Nothing found.",
+  "claimIds": [
+    "rhone-freddys-ownership"
   ],
-  "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  "aliases": [
+    "Freddys Frozen Custard",
+    "Freddy's Frozen Custard & Steakburgers"
+  ],
+  "note": "Rating note: acquired in September 2025 by investment funds affiliated with Rhône (global private equity, est. 1996, New York) from Thompson Street Capital Partners (Greenberg Traurig press release, 2025-09-08); no state in the chain → none. Checked conduct: in April 2024 the US Department of Labor found child-labor violations (149 children, $119,029 in penalties) at seven Freddy's locations operated by an Alabama franchisee — the finding is against the franchise operator, not Freddy's itself, so it is not a record for the sponsor under METHOD.md (noted for the record). RangeGoats GC official QSR partner for the 2026 season (LIV Golf announcement, early 2026)."
 }
