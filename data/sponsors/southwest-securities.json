@@ -1,0 +1,33 @@
+{
+  "id": "southwest-securities",
+  "name": "Southwest Securities",
+  "ownerId": "chongqing-yufu-capital",
+  "ownership": "part-owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": "Southwest Securities Co., Ltd. (西南证券), a Chinese brokerage listed in Shanghai (600369), 29.51% held by Chongqing Yufu Capital Operation Group, a wholly-owned subsidiary of Chongqing Yufu Holdings Group; the brokerage's actual controller is the Chongqing Municipal SASAC. Tier proposed in the pull request; not set here.",
+  "claimIds": [
+    "southwest-securities-yufu-29pct",
+    "yufu-capital-yufu-holdings-subsidiary",
+    "yufu-holdings-sasac-ownership",
+    "china-xinjiang-un-assessment"
+  ],
+  "aliases": [
+    "西南证券",
+    "西南证券股份有限公司",
+    "Southwest Securities Co., Ltd.",
+    "SWSC"
+  ],
+  "why": {
+    "text": "Southwest Securities' shareholder Chongqing Yufu Capital Operation Group holds 29.51% of the brokerage, whose actual controller is the Chongqing Municipal State-owned Assets Supervision and Administration Commission; the commission wholly owns Chongqing Yufu Holdings Group, which in turn wholly owns Yufu Capital — so the Chinese state controls the company through its Chongqing city government. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Southwest Securities is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "southwest-securities-yufu-29pct",
+      "yufu-capital-yufu-holdings-subsidiary",
+      "yufu-holdings-sasac-ownership"
+    ],
+    "messageLine": "The UN human rights office found that China's large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Front-of-shirt sponsor (胸前广告赞助商) and 2026-season exclusive chief partner of Chongqing Tonglianglong, announced at the 12 March 2026 signing ceremony (Chongqing Morning Post via NetEase, 2026-03-13; club announcement via Dongqiudi/Tencent News, 2026-03-13). Rating note — the link (claims southwest-securities-yufu-29pct, yufu-capital-yufu-holdings-subsidiary, yufu-holdings-sasac-ownership): the Chongqing SASAC, whose chain runs chongqing-yufu-capital → chongqing-yufu-holdings → chongqing-municipal-government → government-of-china, holds 29.51% of the brokerage through wholly-owned vehicles and is named by the company itself as its actual controller. The record (claim china-xinjiang-un-assessment, reused): the UN OHCHR 2022 Xinjiang assessment and Human Rights Watch (2026). The tier is for a maintainer to set (METHOD.md 'Sponsor tiers'); the claims above support the proposal in the pull request."
+}
