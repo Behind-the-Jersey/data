@@ -7,8 +7,54 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "fonbet",
+      "placement": "front",
+      "source": {
+        "name": "Sports.ru, blog КХЛ.Маркетинг (KHL press-service profile): 'Форма и логотипы всех клубов КХЛ: что изменилось в новом сезоне?'",
+        "date": "2026-09-13",
+        "url": "https://www.sports.ru/hockey/blogs/3467674.html",
+        "quote": "На рендерах представлены основные домашний и выездной комплекты форм команд КХЛ в сезоне 2026/2027.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Translation: 'The renders show the main home and away kits of KHL clubs for the 2026/2027 season.' The Metallurg render on this page (captioned 'ФОРМЫ СЕЗОНА 2026/2027 — МЕТАЛЛУРГ') shows the FONBET wordmark across the lower front of the home kit; a match photo on the same page (in-camera date 06.09.2026, Metallurg season opener) shows FONBET on the kit in use. Fonbet is the KHL's title partner to 2027/28 (league deal: khl-fonbet) and a club-level partner of Metallurg from 2022, extended through 2028 - 'Логотип букмекера появится на игровой форме команды' (sports.ru, 2022-08-09); '«Фонбет» и «Металлург» продлили соглашение о партнерстве до 2028 года' (sports.ru, 2025-09-03)."
+      }
+    },
+    {
+      "sponsorId": "fonbet",
+      "placement": "sleeve",
+      "source": {
+        "name": "Sports.ru, blog КХЛ.Маркетинг (KHL press-service profile): 'Форма и логотипы всех клубов КХЛ: что изменилось в новом сезоне?'",
+        "date": "2026-09-13",
+        "url": "https://www.sports.ru/hockey/blogs/3467674.html",
+        "quote": "На рендерах представлены основные домашний и выездной комплекты форм команд КХЛ в сезоне 2026/2027.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "FONBET wordmark on the upper right sleeve (above the player number) of the Metallurg 2026/27 home kit render on this page. The same sleeve logo appears on other clubs' renders in the same article (e.g. Avangard), so this is league-wide title-partner branding (league deal: khl-fonbet); Metallurg additionally has its own FONBET partnership (2022-2028)."
+      }
+    },
+    {
+      "sponsorId": "megafon",
+      "placement": "shorts",
+      "source": {
+        "name": "Sports.ru, blog КХЛ.Маркетинг (KHL press-service profile): 'Форма и логотипы всех клубов КХЛ: что изменилось в новом сезоне?'",
+        "date": "2026-09-13",
+        "url": "https://www.sports.ru/hockey/blogs/3467674.html",
+        "quote": "На рендерах представлены основные домашний и выездной комплекты форм команд КХЛ в сезоне 2026/2027.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The МЕГАФОН (MegaFon) logo appears on both legs of the game shorts in the Metallurg 2026/27 kit render on this page and in the 2026-09-06 match photo on the same page. MegaFon's own press release of 2026-02-26 (corp.megafon.ru/press/news/regionalnye_novosti/regional/20260226-1029.html) confirms the ongoing MegaFon-Metallurg partnership; the club's partner page (archived 2024-10-07) says MegaFon has been an official partner since season 2017/18."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit (classic navy with red/white stripes, unchanged from 2025/26 per the KHL.Marketing kits overview). FONBET wordmark on the lower front and right sleeve (league title-partner branding, seen on all clubs' renders) - Fonbet is also a club-level partner to 2028; MegaFon on the game shorts. The renders carry a disclaimer that sponsor logos may differ from the final version, but a match photo of the 2026-09-06 season opener on the same page shows the same marks in play. Not complete: no opened source pictures the back of the jersey, and the FONBET helmet decal is a placement the dataset has no slot for.",
   "change": null
 }
