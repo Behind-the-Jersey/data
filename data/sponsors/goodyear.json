@@ -1,14 +1,17 @@
 {
   "id": "goodyear",
   "name": "Goodyear",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "goodyear-the-tire-and-rubber-company",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
+  "status": "being-rated",
   "verdict": null,
   "aliases": [
     "goodyear racing"
   ],
-  "claimIds": [],
-  "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages. Goodyear Tire & Rubber Company is Nasdaq-listed; ownership chain not researched here."
+  "claimIds": [
+    "goodyear-tire-rubber-company-ownership",
+    "goodyear-malaysia-migrant-worker-rulings-2021"
+  ],
+  "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages. The Goodyear Tire & Rubber Company is Nasdaq-listed; largest holders are investment firms (goodyear-tire-rubber-company-ownership). Rating note: on hold for a maintainer. In 2020-21 Malaysian industrial court rulings ordered Goodyear Malaysia to pay back wages to migrant workers denied the benefits given to local staff, and the labour department fined the company over excessive hours and wrongful salary deductions (goodyear-malaysia-migrant-worker-rulings-2021, second source Free Malaysia Today). Whether that court finding and regulator fine lift Goodyear above 'Nothing found' is the maintainer's call; 'concern' is proposed in the linked pull request."
 }

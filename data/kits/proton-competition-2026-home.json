@@ -1,0 +1,95 @@
+{
+  "id": "proton-competition-2026-home",
+  "clubId": "proton-competition",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "ford",
+      "placement": "front",
+      "source": {
+        "name": "Ford Racing: Ford Racing and Proton Competition kick off WEC campaign at Imola",
+        "date": "2026-04-14",
+        "url": "https://www.fordracing.com/articles/series/road-racing/2026/4/imola-preview",
+        "quote": "continuing its partnership with Proton Competition. From 17-19 April, the team will field two upgraded Ford Mustang GT3s",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Both 2026 Mustangs run a full Ford Racing livery (hood, windshield banner, wing endplates) on the official WEC car renders (fiawec.com car pages #77/#88)."
+      }
+    },
+    {
+      "sponsorId": "goodyear",
+      "placement": "partner",
+      "source": {
+        "name": "FIA WEC: Goodyear extends LMGT3 tyre partnership with long-term commitment",
+        "date": "2026-06-11",
+        "url": "https://www.fiawec.com/en/news/goodyear-extends-lmgt3-tyre-partnership-with-long-term-commitment/13610",
+        "quote": "Goodyear has been the production-based category's exclusive tyre-supplier since its inception two years ago",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Goodyear logos (front wings, rear quarters, tyre sidewalls) on both cars in the official WEC render; Goodyear is shown as 'Tyre partner' on the fiawec.com #77/#88 car pages. Series-wide deal also recorded as data/deals/wec-goodyear.json."
+      }
+    },
+    {
+      "sponsorId": "staloc",
+      "placement": "patch",
+      "source": {
+        "name": "Proton Competition: team site partner logo strip (ummendorf section)",
+        "date": "2026-10-03",
+        "url": "https://www.proton-competition.com/ummendorf/",
+        "note": "Logo strip on the team's site links the STALOC logo to staloc.com; the same logo sits in the front-fender sticker stack of both 2026 cars on the official WEC render. Image-only in both places, so there is no text to quote; date is the access date."
+      }
+    },
+    {
+      "sponsorId": "fried-sped",
+      "placement": "patch",
+      "source": {
+        "name": "Proton Competition: team site partner logo strip (ummendorf section)",
+        "date": "2026-10-03",
+        "url": "https://www.proton-competition.com/ummendorf/",
+        "note": "Logo strip on the team's site links the Fried Sped logo to fried-sped.de; the same logo sits in the front-fender sticker stack of both 2026 cars on the official WEC render. Image-only in both places, so there is no text to quote; date is the access date."
+      }
+    },
+    {
+      "sponsorId": "sparco",
+      "placement": "patch",
+      "source": {
+        "name": "Proton Competition: team site partner logo strip (ummendorf section)",
+        "date": "2026-10-03",
+        "url": "https://www.proton-competition.com/ummendorf/",
+        "note": "Logo strip on the team's site links the Sparco logo to sparco-official.com; the same logo sits in the front-fender sticker stack of both 2026 cars on the official WEC render. Image-only in both places, so there is no text to quote; date is the access date."
+      }
+    },
+    {
+      "sponsorId": "milwaukee-tool",
+      "placement": "patch",
+      "source": {
+        "name": "Proton Competition: team site partner logo strip (ummendorf section)",
+        "date": "2026-10-03",
+        "url": "https://www.proton-competition.com/ummendorf/",
+        "note": "Milwaukee logo appears (without a link) in the site's partner strip, and on the rear quarters of both 2026 cars on the official WEC render. Image-only in both places, so there is no text to quote; date is the access date."
+      }
+    },
+    {
+      "sponsorId": "faro",
+      "placement": "patch",
+      "source": {
+        "name": "FIA WEC: Proton Competition #77 - 2026 car page with official Mustang LMGT3 render",
+        "date": "2026-10-03",
+        "url": "https://www.fiawec.com/en/car/2026/77",
+        "note": "A 'FARO' logo appears in the front-fender sticker stack of the official car render on this page (identical on the #88 page). Image-only, so there is no text to quote; date is the access date."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 Ford Mustang LMGT3 (Proton runs #77 and #88), full Ford Racing factory livery. Ford is the front-level brand, Goodyear the LMGT3 tyre partner; Staloc, FARO, Fried Sped, Sparco and Milwaukee appear as small sticker-stack logos. Two or three further small fender logos could not be read/identified on the official renders."
+}
