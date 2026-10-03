@@ -1,0 +1,20 @@
+{
+  "id": "new-era-koch-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "koch-family-new-era"
+  ],
+  "text": "New Era Cap is a family-owned company; Christopher H. Koch is its fourth-generation CEO, having been named Chief Executive Officer in 2002.",
+  "short": "New Era Cap is owned by the fourth-generation Koch family",
+  "source": {
+    "name": "Jackie Robinson Foundation: Christopher Koch (director bio)",
+    "date": "2026",
+    "url": "https://jackierobinson.org/people/christopher-koch",
+    "quote": "Christopher H. Koch is the fourth generation CEO of the family-owned company New Era.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
