@@ -1,0 +1,33 @@
+{
+  "id": "belavia-state-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-belarus"
+  ],
+  "text": "Belavia (OAO \"Aviakompaniya Belavia\") is Belarus's state airline. When the airline was converted from a state enterprise into a joint-stock company, 100% of its shares were kept by the state, and in 2025 it was still described as Belarus's state airline.",
+  "short": "Belavia is Belarus's state-owned airline; the state holds 100% of the shares.",
+  "source": {
+    "name": "The Insider: U.S. Treasury lifts sanctions on Belarusian state-owned airline Belavia and government jet used by Lukashenko's sons",
+    "date": "2025-11-04",
+    "url": "https://theins.press/en/news/286496",
+    "quote": "The U.S. Department of the Treasury has lifted sanctions on Belarus’s state airline Belavia",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "БДГ Деловая газета: Приказ об акционировании «Белавиа» подписан (order on Belavia's incorporation signed)",
+      "date": "2014-01-08",
+      "url": "https://bdg.news/news/bussiness/prikaz-ob-akcionirovanii-belavia-podpisan",
+      "note": "Russian. Belavia deputy marketing director Igor Cherginets: 'We are still counted as a RUP (state unitary enterprise), and in the OAO 100% of the airline's shares will belong to the state.'",
+      "quote": "Мы пока еще считаемся РУП, но и в ОАО 100% акций авиакомпании будут принадлежать государству",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
