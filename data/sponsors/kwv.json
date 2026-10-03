@@ -1,14 +1,16 @@
 {
   "id": "kwv",
   "name": "KWV",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "vasari-global",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Majority owned by Vasari Beverages, the Imerman family's private investment group in London. Nothing found.",
+  "claimIds": [
+    "kwv-vasari-ownership"
+  ],
   "aliases": [
     "KWV Brandy"
   ],
-  "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  "note": "Southern Guards GC team partner 2026 (livgolf.com/southern-guards-gc, opened 2026-10-03). Ownership: Vasari acquired KWV from HCI in 2016 (kwv.co.za/our-company history); in May 2024 KWV said it remains majority owned by Vasari Beverages while Masimong Group and RMB joined as minority shareholders (wine.co.za). No state capital and no human-rights findings against KWV or Vasari came up in the search."
 }

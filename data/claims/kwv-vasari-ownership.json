@@ -1,0 +1,33 @@
+{
+  "id": "kwv-vasari-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vasari-global"
+  ],
+  "text": "KWV announced in May 2024 that it will continue to be majority owned by Vasari Beverages, with Masimong Group Holdings and Rand Merchant Bank joining as minority shareholders. Vasari is a London-based private investment group, founded by Samuel Imerman and now led by Vivian and Jess Imerman.",
+  "short": "KWV is majority owned by Vasari Beverages, the Imerman family's London-based private investment group.",
+  "source": {
+    "name": "wine.co.za: KWV poised for growth as it welcomes consortium of new investors",
+    "date": "2024-05-07",
+    "url": "https://news.wine.co.za/news.aspx?NEWSID=43420",
+    "quote": "KWV has announced that while it will continue to be majority owned by Vasari Beverages, the company will be joined by Masimong Group Holdings (Masimong Group) and Rand Merchant Bank (RMB)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Vasari Global: About",
+      "date": "2026",
+      "url": "https://vasariglobal.com/about/",
+      "quote": "Founded by Samuel, and now led by Vivian and Jess Imerman, together with its core team that have worked together for decades",
+      "note": "The same page says 'Vasari operates as a private multinational'; KWV's own history page says 'Vasari, a leading consumer focused investment group acquires KWV from HCI' (2016).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

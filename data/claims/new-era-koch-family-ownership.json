@@ -1,0 +1,33 @@
+{
+  "id": "new-era-koch-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "new-era-cap"
+  ],
+  "text": "New Era Cap is the family-owned company of the Koch family of Buffalo, New York, led by fourth-generation CEO Christopher H. Koch. In August 2022 ACON Investments closed a roughly $700 million continuation round for New Era Cap under which the NFL, NBA and MLB all became minority investors.",
+  "short": "New Era Cap is the Koch family's family-owned company; the NFL, NBA and MLB took minority stakes in 2022.",
+  "source": {
+    "name": "Jackie Robinson Foundation: Christopher Koch, board member",
+    "date": "2026",
+    "url": "https://jackierobinson.org/people/christopher-koch",
+    "quote": "Christopher H. Koch is the fourth generation CEO of the family-owned company New Era.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Front Office Sports: New Era Cap Adds NFL, NBA, MLB As Investors",
+      "date": "2022-08-07",
+      "url": "https://frontofficesports.com/new-era-cap-raises-700m-nfl-nba-mlb-invest",
+      "quote": "The NFL, NBA, and MLB all became minority investors in New Era.",
+      "note": "The article reports ACON Investments closed a single-asset continuation round of around $700 million for New Era Cap.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

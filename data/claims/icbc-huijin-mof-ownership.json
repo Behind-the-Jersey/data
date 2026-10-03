@@ -1,0 +1,35 @@
+{
+  "id": "icbc-huijin-mof-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "icbc",
+    "government-of-china"
+  ],
+  "text": "As at 31 December 2025, the largest shareholders of the Industrial and Commercial Bank of China were Central Huijin Investment Ltd with 34.79% and the Ministry of Finance of the People's Republic of China with 31.14%, each classed as 'State-owned' in ICBC's shareholder register; the National Council for Social Security Fund held a further 5.35% in aggregate.",
+  "short": "China's Central Huijin (34.79%) and Ministry of Finance (31.14%) are ICBC's largest shareholders.",
+  "source": {
+    "name": "Industrial and Commercial Bank of China: Shareholding Structure (register as at 31 December 2025)",
+    "date": "2026",
+    "url": "https://www.icbc-ltd.com/en/column/1438058326864052360.html",
+    "quote": "Ministry of Finance of the People’s Republic of China State-owned A Share - 110,984,806,678 31.14 None",
+    "note": "The same top-10 table lists 'Central Huijin Investment Ltd. State-owned A Share - 124,004,660,940 34.79 None' and notes the National Council for Social Security Fund held 19,050,091,319 A and H shares in aggregate, 5.35%.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "etnet (HKEx-designated website): ICBC (01398) major shareholders",
+      "date": "2026-09",
+      "url": "https://www.etnet.com.hk/www/eng/stocks/realtime/quote_ci_brief.php?code=1398",
+      "quote": "Central Huijin Investment Limited 124,004,660,940 A Sh 34.79%",
+      "note": "The same table lists 'Ministry of Finance of the PRC 110,984,806,678 A Sh 31.14%' with register date 06/09/2026.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

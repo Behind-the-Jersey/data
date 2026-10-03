@@ -48,9 +48,14 @@
       "sponsorId": "rhino-whiskey",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Southern Guards GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/southern-guards-gc"
+        "name": "Rhino Whisky: official site",
+        "date": "2026",
+        "url": "https://www.rwhisky.com/home/",
+        "quote": "Rhino Whisky is proud to be the official Whisky of choice for the Southern Guards GC - South Africa’s team competing on the global stage.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {

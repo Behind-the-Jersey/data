@@ -1,0 +1,34 @@
+{
+  "id": "rhino-whisky-founders",
+  "kind": "ownership",
+  "ownerIds": [
+    "rhino-whisky"
+  ],
+  "text": "Rhino Whisky was founded by Gerrit Wagener and Brin Kushner - two South African friends who created the single-malt brand to fund rhino conservation through The Rhino Orphanage in Limpopo.",
+  "short": "Rhino Whisky was founded by Gerrit Wagener and Brin Kushner.",
+  "source": {
+    "name": "Aspire Lifestyle (via Internet Archive): Rhino Whisky, distilled in Scotland with an African heart",
+    "date": "2022-10-06",
+    "url": "http://web.archive.org/web/20251015105058/https://aspirelifestyle.co.za/rhino-whisky-distilled-in-scotland-with-an-african-heart/",
+    "quote": "Its founders, Gerrit Wagener and Brin Kushner, worked with one of the oldest whisky producers in North-eastern Scotland",
+    "note": "Live page returns 403 to scripts, so the archived copy of 2025-10-15 is cited.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Whisky of the Week (via Internet Archive): Rhino Whisky review and tasting notes",
+      "date": "2022-10-10",
+      "url": "http://web.archive.org/web/20221010092019/https://whiskyoftheweek.co.uk/rhino-whisky/",
+      "quote": "Gerrit Wagener and Brin Kuchner (a qualified ranger) decided to create a whisky that would highlight the plight of the African rhino",
+      "note": "Spelling disagreement: this review writes 'Kuchner'; Aspire Lifestyle and retail press write 'Kushner'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

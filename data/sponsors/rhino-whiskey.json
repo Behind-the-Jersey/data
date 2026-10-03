@@ -1,12 +1,16 @@
 {
   "id": "rhino-whiskey",
-  "name": "Rhino Whiskey",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  "name": "Rhino Whisky",
+  "ownerId": "rhino-whisky",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A small South African single-malt brand founded by Gerrit Wagener and Brin Kushner. Nothing found.",
+  "claimIds": [
+    "rhino-whisky-founders"
+  ],
+  "aliases": [
+    "Rhino Whiskey"
+  ],
+  "note": "Official whisky partner of Southern Guards GC (rwhisky.com: 'Rhino Whisky is proud to be the official Whisky of choice for the Southern Guards GC', opened 2026-10-03; also on livgolf.com/southern-guards-gc). Self-owned venture of its two founders per 2022 press (aspirelifestyle.co.za, whiskyoftheweek.co.uk); no company register extract or outside investor was found, so shareholdings are undocumented. The whisky is contract-distilled in Speyside, Scotland."
 }
