@@ -1,0 +1,20 @@
+{
+  "id": "mopar-stellantis-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "stellantis-nv"
+  ],
+  "text": "Mopar is Stellantis N.V.'s original parts and accessories brand: Stellantis' Peugeot Sport calls it 'the benchmark brand for original parts and accessories for all Stellantis vehicles worldwide'.",
+  "short": "Mopar is a brand of Stellantis N.V.",
+  "source": {
+    "name": "Peugeot Sport – Mopar partner page",
+    "date": "2026",
+    "url": "https://peugeot-sport.com/en/partner/mopar/",
+    "quote": "Mopar has established itself as the benchmark brand for original parts and accessories for all Stellantis vehicles worldwide.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

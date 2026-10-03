@@ -1,0 +1,33 @@
+{
+  "id": "totalenergies-eacop-uganda-2023",
+  "kind": "record",
+  "ownerIds": [
+    "totalenergies-se"
+  ],
+  "text": "Human Rights Watch's July 2023 investigation found that the land acquisition for TotalEnergies' Tilenga and EACOP oil projects in Uganda (operated by its wholly-owned subsidiary TotalEnergies EP Uganda) devastated the livelihoods of displaced families through multi-year payment delays and compensation below replacement cost; a 2025 University of Sheffield and Haki Defenders Foundation study of 100 affected people found compensation was still unfair and inadequate.",
+  "short": "HRW (2023): TotalEnergies' Uganda oil projects' land acquisition devastated displaced families' livelihoods.",
+  "source": {
+    "name": "Human Rights Watch: \"Our Trust is Broken\" – Loss of Land and Livelihoods for Oil Development in Uganda",
+    "date": "2023-07-10",
+    "url": "https://www.hrw.org/report/2023/07/10/our-trust-broken/loss-land-and-livelihoods-oil-development-uganda",
+    "quote": "this report documents the devastating impacts on livelihoods of Ugandan families from the land acquisition process.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Guardian: \"People displaced by Uganda oil pipeline 'received inadequate compensation'\"",
+      "date": "2025-04-01",
+      "url": "https://www.theguardian.com/world/2025/apr/01/uganda-displaced-people-kingfisher-oil-pipeline-eacop-compensation",
+      "quote": "many people reported unfair and inadequate compensation and a lack of transparency",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Reports a 2025 study by Haki Defenders Foundation and the University of Sheffield based on interviews with 100 people affected by the EACOP project, a partnership including TotalEnergies."
+    }
+  ],
+  "reviewed": false
+}

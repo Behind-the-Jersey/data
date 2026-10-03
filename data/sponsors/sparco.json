@@ -1,11 +1,16 @@
 {
   "id": "sparco",
   "name": "Sparco",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "aldino-bellazzini",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Majority-owned and run by the Italian entrepreneur Aldino Bellazzini since 2009. Nothing found.",
+  "claimIds": [
+    "sparco-bellazzini-ownership"
+  ],
+  "aliases": [
+    "Sparco S.p.A."
+  ],
+  "note": "Official technical partner of Team Peugeot TotalEnergies (harnesses, racewear, pit-crew kit; peugeot-sport.com partner page). Owner chain checked: majority shareholder Aldino Bellazzini (Il Dossier, 2026-01-13). No human-rights finding found."
 }
