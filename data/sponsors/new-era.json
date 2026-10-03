@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "new-era-cap",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "New Era (New Era Cap, LLC) is controlled by its founding Koch family, with ACON Investments holding a significant stake. Nothing found.",
+  "claimIds": [
+    "new-era-cap-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Rating note: controlled by the founding (Koch) family, led by fourth-generation CEO Chris Koch; ACON Investments holds a significant stake (Reuters via Yahoo Finance, 2024-06-06). No state or state fund in the chain, and no qualifying human-rights finding against the company (Fair Labor Association member since 2003) → none. Official Cap of LIV Golf and all 13 teams (livgolf.com/partners) and a partner on every LIV team page; also an F1 supplier deal (Alpine, Williams)."
 }
