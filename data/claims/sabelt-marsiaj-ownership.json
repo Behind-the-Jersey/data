@@ -1,0 +1,21 @@
+{
+  "id": "sabelt-marsiaj-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sabelt"
+  ],
+  "text": "Sabelt SpA, the Italian seatbelt and racing-seat maker, is owned by the Marsiaj family of Turin: Giorgio Marsiaj holds 61% and the family holding M. Marsiaj & C. holds 10% (Milano Finanza, March 2024).",
+  "short": "Sabelt is owned by the Marsiaj family: Giorgio Marsiaj 61% plus the family holding's 10%.",
+  "source": {
+    "name": "Milano Finanza \u2013 I fratelli Giorgio e Pietro Marsiaj (proprietari di Sabelt) separano le holding",
+    "date": "2024-03-15",
+    "url": "https://www.milanofinanza.it/news/i-fratelli-giorgio-e-pietro-marsiaj-proprietari-di-sabelt-separano-le-holding-202403151714121989",
+    "quote": "In M. Marsiaj figurano fra l\u2019altro il 10% di Sabelt (di cui Giorgio ha il 61%)",
+    "note": "Italian; translates as 'M. Marsiaj includes, among others, 10% of Sabelt (of which Giorgio holds 61%)'. Headline calls the brothers 'owners of Sabelt'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

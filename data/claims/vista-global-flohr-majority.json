@@ -1,0 +1,21 @@
+{
+  "id": "vista-global-flohr-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "vista-global"
+  ],
+  "text": "Vista Global Holding Limited is majority-owned by its founder and chairman Thomas Flohr; a USD 600 million investment agreed in March 2025 was a minority stake by a consortium led by RRJ Capital, with Andalusian Private Capital.",
+  "short": "Thomas Flohr, Vista Global's founder and chairman, remains its majority owner after a March 2025 minority investment led by RRJ Capital.",
+  "source": {
+    "name": "ch-aviation \u2013 VistaJet secures $600mn private equity investment",
+    "date": "2025-03-19",
+    "url": "https://www.ch-aviation.com/news/151617-vistajet-secures-600mn-private-equity-investment",
+    "quote": "However, Flohr remains the majority owner even after the investment",
+    "note": "The article identifies Dubai-based parent Vista Global Holding Limited and names the investors (RRJ Capital consortium, Andalusian Private Capital) as minority new shareholders.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

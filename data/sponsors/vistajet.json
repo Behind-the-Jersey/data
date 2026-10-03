@@ -1,12 +1,15 @@
 {
   "id": "vistajet",
   "name": "VistaJet",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "vista-global",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "VistaJet is a brand of Dubai-based Vista Global Holding Limited, majority-owned by its Swiss founder Thomas Flohr. No state in the chain and no qualifying human-rights finding found.",
+  "claimIds": [
+    "vista-brands-ownership",
+    "vista-global-flohr-majority"
+  ],
   "aliases": [],
-  "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+  "note": "Ownership added 2026-10-03 (Vista AF Corse 2026 livery carries VistaJet on the bonnet/front of the cars). Earlier note: HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
 }

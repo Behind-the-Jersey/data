@@ -1,0 +1,34 @@
+{
+  "id": "vista-brands-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vista-global"
+  ],
+  "text": "Vista is the trade name of Vista Global Holding Limited, the Dubai-headquartered private aviation group behind the Vista AF Corse team name and livery; Vista's own materials list VistaJet and XO as its brands.",
+  "short": "Vista (the Vista AF Corse team name/livery brand) is the trade name of Vista Global Holding Limited; VistaJet and XO are Vista brands.",
+  "source": {
+    "name": "PR Newswire (release by Vista) \u2013 Vista AF Corse showcases its striking FIA world ensurance championship livery, as battle gears up for Le Mans",
+    "date": "2026-06-11",
+    "url": "https://www.prnewswire.com/news-releases/vista-af-corse-showcases-its-striking-fia-world-ensurance-championship-livery-as-battle-gears-up-for-le-mans-302797994.html",
+    "quote": "Vista Global Holding Limited (Vista) is the world's leading global business aviation company",
+    "note": "The same release's About Vista section says its services are offered through its leading brands, including VistaJet and XO.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Vista Global \u2013 Vista AF Corse team page (site footer)",
+      "date": "2026",
+      "url": "https://vistaglobal.com/vista-af-corse/",
+      "quote": "\"Vista\" is a trade name for Vista Global Holding Limited.",
+      "note": "Footer legal line, present on every vistaglobal.com page.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
