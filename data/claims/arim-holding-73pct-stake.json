@@ -1,0 +1,16 @@
+{
+  "id": "arim-holding-73pct-stake",
+  "kind": "ownership",
+  "ownerIds": ["ediliziacrobatica-spa"],
+  "text": "Arim Holding Sarl held 6,091,386 ordinary shares of EdiliziAcrobatica S.p.A., equal to 73.3% of the company's subscribed and paid-up share capital, as of 19 April 2023.",
+  "short": "Arim Holding Sarl holds 73.3% of EdiliziAcrobatica (April 2023 filing).",
+  "source": {
+    "name": "EdiliziAcrobatica S.p.A., board-list presentation letter from Arim Holding Sarl (company filing)",
+    "date": "2023-04-19",
+    "url": "https://ediliziacrobatica.com/app/uploads/2023/12/Lista-CdA-Arim-Holding-Sarl.pdf",
+    "quote": "azioni ordinarie della Società, pari al 73,3% (settantatre virgola tre per cento) del capitale",
+    "note": "Translation: 'ordinary shares of the company, equal to 73.3% (seventy-three point three per cent) of the capital'. The letter, filed with the company, states Arim Holding Sarl held 6,091,386 ordinary shares at that date.",
+    "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+  },
+  "reviewed": false
+}
