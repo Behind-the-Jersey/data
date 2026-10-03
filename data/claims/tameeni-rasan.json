@@ -1,0 +1,34 @@
+{
+  "id": "tameeni-rasan",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni is Rasan Information Technology's insurance platform: Rasan's 2024 IPO prospectus lists Tameeni Electronic Insurance Brokerage Limited as wholly owned by the company. Rasan listed 30% of its shares on the Saudi Exchange main market in June 2024.",
+  "short": "Tameeni is wholly owned by Tadawul-listed Rasan.",
+  "source": {
+    "name": "Rasan Information Technology Company Prospectus (CMA)",
+    "date": "2024-05",
+    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+    "quote": "Tameeni Electronic Insurance Brokerage Limited, a limited liability company established and existing in the Kingdom of Saudi Arabia ... wholly owned by the Company",
+    "note": "Subsidiaries chapter of the prospectus (p. 16 of the PDF). The substantial-shareholders table on the same page lists Impact46 funds and private individuals.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Rasan: Our IPO",
+      "date": "2024",
+      "url": "https://rasan.co/en/ipo",
+      "quote": "providing seamless services through our flagship subsidiaries, including Tameeni",
+      "note": "Same page: the IPO comprised 22,740,000 shares (30%) on the Main Market of the Saudi Exchange. Page undated; opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

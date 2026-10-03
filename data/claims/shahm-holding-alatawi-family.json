@@ -1,0 +1,21 @@
+{
+  "id": "shahm-holding-alatawi-family",
+  "kind": "ownership",
+  "ownerIds": [
+    "alatawi-family"
+  ],
+  "text": "Shahm Holding is a family holding company founded by Muammar Al-Atawi (chairman) with his brothers Nayef Al-Atawi (vice chairman) and Ahmed Al-Atawi (CEO and managing director).",
+  "short": "Shahm Holding is the Al-Atawi brothers' family holding.",
+  "source": {
+    "name": "Shahm Holding: About",
+    "date": "2026",
+    "url": "https://shahmholding.sa/en/about",
+    "quote": "I had the honor of founding this family holding company alongside my brother, Nayef Alatawi, Vice Chairman of the Board, and my brother, Ahmed Alatawi, CEO and Managing Director.",
+    "note": "Page undated; opened 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
