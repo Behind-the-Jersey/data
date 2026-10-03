@@ -1,12 +1,15 @@
 {
   "id": "plus",
   "name": "PLUS",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "hanwha-life-insurance-co",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "plus-hanwha-life-division",
+    "hanwha-life-shareholders"
+  ],
   "aliases": [],
-  "note": "Korean Golf Club partner; logo has no hyperlink and the brand behind it is unconfirmed (livgolf.com/korean-golf-club, fetched 2026-09-25)."
+  "note": "Multi-year founding partner of Korean Golf Club, described by LIV Golf (May 2026) as 'a division at Hanwha Life'; the exact brand entity within Hanwha is unclear (Hanwha Life operates the LIFEPLUS brand at lifeplus.co.kr). Hanwha Life's shareholder list includes state agency Korea Deposit Insurance Corporation (10%); per METHOD.md a South Korean public holder is not a link to abuse. Company check (2026-10-03, review): nothing found against Hanwha Life itself, BUT Hanwha Aerospace (Hanwha Group, whose holding company Hanwha Corporation owns 43.24% of Hanwha Life) has repeated worker deaths at its Daejeon plant: explosions in 2018 (5 dead) and 2019 (3 dead) - court rulings found severe safety negligence and the guilty verdict against the responsible person was upheld on appeal (Chosun Ilbo, 2026-06-03) - and a third explosion in June 2026 killed 5 more, after which the Ministry of Employment and Labor found 473 legal violations, sent 189 for criminal proceedings and booked CEO Son Jae-il under the Serious Accidents Punishment Act (Yonhap, 2026-10-01; Chosun, 2026-06-08). Hanwha Ocean also has repeated fatal shipyard accidents (2024-2025) under MOEL investigation. Whether METHOD.md's company test reaches Hanwha Corporation (and thereby this sponsor) or only its operating subsidiaries is a maintainer decision; until then this sponsor is unrated."
 }

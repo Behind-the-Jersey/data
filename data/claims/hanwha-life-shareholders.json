@@ -1,0 +1,21 @@
+{
+  "id": "hanwha-life-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "hanwha-life-insurance-co"
+  ],
+  "text": "Hanwha Life's shareholding page lists its shareholders as of 31 December 2025: Hanwha Corporation 43.24%, treasury stock 13.49%, retail investors (incl. employee ownership) 12.84%, foreign institutional investors 10.2%, Korea Deposit Insurance Corporation (KDIC) 10%, domestic corporations 8.48% and Hanwha Galleria Timeworld Co., Ltd. 1.75%.",
+  "short": "Hanwha Life's largest shareholder is Hanwha Corporation with 43.24% (31 December 2025).",
+  "source": {
+    "name": "Hanwha Life: Shareholding Structure",
+    "date": "2025-12-31",
+    "url": "https://company.hanwhalife.com/en/governance/shareholders",
+    "quote": "Hanwha Corporation 43.24 % Treasury Stock 13.49 % Retail Investors (incl. employee ownership) 12.84 % Foreign Institutional Investors 10.2 % KDIC 10 %",
+    "note": "Figures as of 31 December 2025. KDIC is the Korea Deposit Insurance Corporation, a South Korean state agency.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,12 +1,18 @@
 {
   "id": "amazing-cre",
   "name": "Amazing CRE",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Korean Golf Club partner; logo links to a collection on sokimnewyork.com (livgolf.com/korean-golf-club, fetched 2026-09-25)."
+  "ownerId": "grande-clip",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Korean golfwear brand run by AMCR, acquired in 2024 by a consortium led by Grande Clip, the company builder of Baedal Minjok founder Kim Bong-jin. Nothing found.",
+  "claimIds": [
+    "amazingcre-amcr-grande-clip"
+  ],
+  "aliases": [
+    "AMAZINGCRE",
+    "AmazingCre",
+    "어메이징크리"
+  ],
+  "note": "Korean Golf Club's performance apparel partner for the 2026 LIV Golf season (livgolf.com announcement, 2026-02-02). Partner logo links to a collection on sokimnewyork.com, a New York retailer stocking the brand. Quick company check (2026-10-03): no court, regulator, UN or major-NGO human-rights finding against AMCR, AmazingCre or Grande Clip found."
 }

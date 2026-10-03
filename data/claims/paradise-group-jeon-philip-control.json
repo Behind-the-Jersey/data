@@ -1,0 +1,21 @@
+{
+  "id": "paradise-group-jeon-philip-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "paradise-group"
+  ],
+  "text": "Paradise Group's control structure runs chairman Philip Jeon -> holding company Paradise Global -> affiliates: Jeon holds 67.3% of Paradise Global and through it controls major affiliates including Paradise Hotel Busan (CEO Score Daily).",
+  "short": "Chairman Philip Jeon controls Paradise Group, including Paradise Hotel Busan, via 67.3% of Paradise Global.",
+  "source": {
+    "name": "CEO Score Daily: 전필립 회장의 특별한 '처가 경영'…파라다이스 5개 계열사 처남에 몰아줘",
+    "date": "2026-01-27",
+    "url": "https://www.ceoscoredaily.com/page/view/2026012312360788920",
+    "quote": "전필립 회장은 이 회사 지분 67.3%를 보유한 최대주주로, 이를 통해 파라다이스, 비노파라다이스, 파라다이스에이치앤알, 파라다이스플래닝, 파라다이스세가사미, 파라다이스호텔 부산 등 주요 계열사를 지배하고 있다",
+    "note": "Korean; translation: 'Chairman Philip Jeon is the largest shareholder of this company (holding company Paradise Global) with a 67.3% stake, and through it controls major affiliates including Paradise, Vino Paradise, Paradise H&R, Paradise Planning, Paradise Sega Sammy and Paradise Hotel Busan.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
