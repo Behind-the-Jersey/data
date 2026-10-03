@@ -1,0 +1,32 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni, Saudi Arabia's online insurance aggregator, is a flagship subsidiary of Rasan Information Technology Co., which listed 22.74 million shares (30% of its capital) on the Main Market of the Saudi Exchange in June 2024. MENAbytes names Saudi venture-capital firm Impact46 as Rasan's largest shareholder.",
+  "short": "Tameeni is a flagship subsidiary of Rasan Information Technology, listed on the Saudi Exchange; Impact46 named largest shareholder.",
+  "source": {
+    "name": "Rasan Information Technology – Investor Relations: Our IPO",
+    "date": "2024",
+    "url": "https://www.rasan.co/en/ipo",
+    "quote": "providing seamless services through our flagship subsidiaries, including Tameeni",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "MENAbytes: Saudi fintech Rasan goes public on Tadawul, shares surge 30 percent pushing market cap close to $1 billion",
+      "date": "2024-06-22",
+      "url": "https://www.menabytes.com/rasan-goes-public",
+      "quote": "Impact46, the Saudi VC is the largest shareholder in the firm",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
