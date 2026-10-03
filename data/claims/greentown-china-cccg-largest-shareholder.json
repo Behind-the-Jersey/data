@@ -1,0 +1,36 @@
+{
+  "id": "greentown-china-cccg-largest-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "greentown-china",
+    "cccg",
+    "government-of-china"
+  ],
+  "text": "China Communications Construction Group (Limited) (CCCG), a wholly state-owned company, is Greentown China Holdings Limited's single largest shareholder, interested in approximately 28.88% of the company (733,456,293 shares as at 30 June 2026) through wholly-owned subsidiaries.",
+  "short": "Wholly state-owned CCCG is Greentown China's single largest shareholder (~28.88%).",
+  "source": {
+    "name": "Greentown China Holdings Limited — Interim Report 2026 (HKEX filing via irasia.com), corporate profile and substantial shareholders' interests",
+    "date": "2026",
+    "url": "https://doc.irasia.com/listco/hk/greentownchina/interim/2026/intrepc.pdf",
+    "quote": "CCCG, Greentown China’s single largest shareholder, was interested in approximately 28.88% of the total issued share capital of the Company.",
+    "note": "The substantial-shareholders table (as at 30 June 2026) lists CCCG deemed interested in 733,456,293 shares (28.881%) through CCCG Real Estate Holding Limited (100,000,000), CCCG Holding (HK) Limited (602,952,793) and CCCG (HK) Holding Limited (30,503,500), each wholly owned by CCCG. The report's definitions state: 'CCCG China Communications Construction Group (Limited), a wholly state-owned company established in the PRC and a substantial Shareholder of the Company.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "中房网 (China Real Estate Network) via Tencent News: 绿城中国：制衡型股权结构下的“央企＋市场化”双重优势",
+      "date": "2026-02-06",
+      "url": "https://news.qq.com/rain/a/20260206A04U2600",
+      "quote": "其第一大股东为中国交通建设集团有限公司（中交集团），持股比例为28.94%",
+      "note": "Translation: 'its largest shareholder is China Communications Construction Group (CCCG), with a shareholding of 28.94%, not reaching absolute control (over 50%)'. The figure is the CCCG group stake as disclosed in the 2025 annual report cycle (28.88% in the mid-2026 filing). The same article reports that CCCG's party-committee standing member Liu Chengyun became Greentown China's board chairman in March 2025.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
