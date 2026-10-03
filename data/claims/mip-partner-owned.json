@@ -1,0 +1,42 @@
+{
+  "id": "mip-partner-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "mexico-infrastructure-partners"
+  ],
+  "text": "MIP Real Assets (Mexico Infrastructure Partners) is an independent, partner-owned energy and infrastructure investment manager, founded in 2012 and headquartered in Mexico City.",
+  "short": "MIP: independent, partner-owned Mexican infrastructure manager.",
+  "source": {
+    "name": "Mexico Infrastructure Partners: MIP Real Assets Plans to Invest $12+ Billion to Support Mexico's Next Infrastructure Cycle",
+    "date": "2026-05-04",
+    "url": "https://mexicoinfra.com/en/mexico-infrastructure-partners-mip-anuncia-su-plan-de-12000-millones-de-dolares-para-impulsar-el-proximo-ciclo-de-infraestructura-de-mexico/",
+    "quote": "An independent, partner-owned firm headquartered in Mexico City with international presence in the Americas, Europe and the Gulf Region",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "BNamericas: Mexico Infrastructure Partners company profile",
+      "date": "2026",
+      "url": "https://www.bnamericas.com/en/company-profile/mip",
+      "quote": "The firm’s ownership structure has remained partner-led.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Mexico News Daily: Mexico Infrastructure Partners announces plan to invest US $12B across key sectors",
+      "date": "2026-05-06",
+      "url": "https://mexiconewsdaily.com/news/mexico-infrastructure-partners-investment-plan",
+      "quote": "On its website, Mexico Infrastructure Partners describes itself as a “leading independent energy and infrastructure investment manager in Latin America,”",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
