@@ -12,22 +12,34 @@
       "sponsorId": "icelandic-glacial",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Cleeks GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/cleeks-gc"
+        "name": "Icelandic Glacial - Cleeks Golf Club Partners with Icelandic Glacial Ahead of 2026 LIV Golf Season",
+        "date": "2026-02-02",
+        "url": "https://icelandicglacial.com/blogs/news-events/cleeks-icelandic-glacial-partnership",
+        "quote": "Cleeks Golf Club today announced a partnership with premium natural spring water brand Icelandic Glacial ahead of the 2026 LIV Golf season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club partnership announcement carried on Icelandic Glacial's site; brand is featured on the players' golf bags as part of the team's on-course identity."
       }
     },
     {
       "sponsorId": "new-era",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - Cleeks GC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/cleeks-gc"
+        "name": "LIV Golf - Our Partners (New Era, Official Suppliers)",
+        "date": "2026",
+        "url": "https://www.livgolf.com/partners",
+        "quote": "New Era is a supplier partner and the Official Cap of LIV Golf and it's 13 teams",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide official supplier; New Era's logo is one of the two partner logos on the official Cleeks GC team page (livgolf.com/cleeks-gc, opened 2026-10-03). Page undated; opened 2026-10-03."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Team partners 2026: Icelandic Glacial, New Era. Captain: Martin Kaymer.",
+  "sponsorsComplete": true,
+  "summary": "Team partners 2026: Icelandic Glacial and New Era. Captain: Martin Kaymer.",
   "change": null
 }
