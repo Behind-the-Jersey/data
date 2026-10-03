@@ -1,12 +1,17 @@
 {
   "id": "santini",
   "name": "Santini",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "UCI Official Partner (UCI kit supplier)."
+  "ownerId": "vibria-srl",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Santini Spa's sole shareholder (socio unico) is Vibria Srl; the UCI describes Santini as an Italian family company founded by Pietro Santini. Nothing found.",
+  "claimIds": [
+    "santini-vibria-ownership"
+  ],
+  "aliases": [
+    "santini cycling",
+    "santini spa"
+  ],
+  "note": "Italian cycling-apparel maker; Lidl-Trek's kit supplier since 2017 (Trek-Segafredo era). Rated none: the only state-less ownership found; who owns Vibria Srl itself is not published on the pages checked - see PR."
 }

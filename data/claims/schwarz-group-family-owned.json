@@ -1,0 +1,21 @@
+{
+  "id": "schwarz-group-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "schwarz-group",
+    "dieter-schwarz"
+  ],
+  "text": "Forbes's profile of Dieter Schwarz says he owns Schwarz Group and that the group is held by a foundation while he maintains full control and is the effective owner.",
+  "short": "Schwarz Group is owned by Dieter Schwarz via a foundation.",
+  "source": {
+    "name": "Forbes - Dieter Schwarz profile",
+    "date": "2026-03-10",
+    "url": "https://www.forbes.com/profile/dieter-schwarz/",
+    "quote": "Schwarz Group is owned by a foundation, technically a limited liability company, but Dieter maintains full control and is the effective owner.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

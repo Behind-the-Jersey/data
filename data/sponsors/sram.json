@@ -1,12 +1,14 @@
 {
   "id": "sram",
   "name": "SRAM",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "day-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "SRAM LLC is a private US company owned by the Day family and the management team. Nothing found.",
+  "claimIds": [
+    "sram-day-family-ownership"
+  ],
   "aliases": [],
-  "note": "Chicago-based component manufacturer; co-title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
+  "note": "Chicago-based component manufacturer; co-title sponsor of Canyon//SRAM (Cyclist, 2026-07-14) and a Lidl-Trek kit sponsor (chest). Rated none: private family/management ownership, no state stake, and no human-rights finding against SRAM was found in this run."
 }

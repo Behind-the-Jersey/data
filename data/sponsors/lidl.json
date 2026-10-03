@@ -1,14 +1,18 @@
 {
   "id": "lidl",
   "name": "Lidl",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "schwarz group"
+  "ownerId": "schwarz-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Lidl is a division of the privately held Schwarz Group, owned by Dieter Schwarz via a foundation. Nothing found.",
+  "claimIds": [
+    "lidl-schwarz-group-ownership",
+    "schwarz-group-family-owned"
   ],
-  "note": "German discount supermarket chain (Schwarz Group); majority owner of the team."
+  "aliases": [
+    "schwarz group",
+    "lidl stiftung & co. kg"
+  ],
+  "note": "German discount supermarket chain; majority owner of the Lidl-Trek team (Cyclingnews, 2025-12-11). Rated none: the ownership chain (Lidl - Schwarz Group - Dieter Schwarz) carries no state stake and no human-rights finding against Lidl or Schwarz Group was found in this run."
 }

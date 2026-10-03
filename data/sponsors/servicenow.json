@@ -1,12 +1,14 @@
 {
   "id": "servicenow",
   "name": "ServiceNow",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "servicenow-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "ServiceNow, Inc. is a listed US company; its largest shareholders are BlackRock (8.8%) and The Vanguard Group (8.7%). Nothing found.",
+  "claimIds": [
+    "servicenow-ownership"
+  ],
   "aliases": [],
-  "note": "BAL partner (bal.nba.com/partners)."
+  "note": "US software company; Official AI Partner of Lidl-Trek from the 2026 kit (front of jersey and shorts). Previously recorded as an NBA Ball Arena partner; now also rated none from the Lidl-Trek run."
 }

@@ -1,11 +1,18 @@
 {
   "id": "gatorade",
   "name": "Gatorade",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "pepsico-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Gatorade is a brand of PepsiCo, a Nasdaq-listed US company whose largest holders are The Vanguard Group (10.1%) and BlackRock (8.2%). Nothing found.",
+  "claimIds": [
+    "pepsico-owns-gatorade",
+    "pepsico-inc-listed",
+    "pepsico-inc-shareholders"
+  ],
+  "aliases": [
+    "gatorade portfolio"
+  ],
+  "note": "Sports drink brand; Lidl-Trek partner from the 2026 kit (jersey and race socks per the launch coverage). Rated none: PepsiCo is listed, its large holders are investment firms, and no human-rights finding against PepsiCo was found in this run."
 }

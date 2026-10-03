@@ -1,0 +1,20 @@
+{
+  "id": "servicenow-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "servicenow-inc"
+  ],
+  "text": "ServiceNow's 2026 proxy statement lists its only shareholders above 5% as BlackRock, Inc. (8.8%) and The Vanguard Group, Inc. (8.7%); the rest is widely held.",
+  "short": "ServiceNow is a listed US company; BlackRock 8.8% and Vanguard 8.7% are its largest holders.",
+  "source": {
+    "name": "ServiceNow, Inc.: 2026 Proxy Statement (DEF 14A), security ownership of certain beneficial owners (SEC EDGAR)",
+    "date": "2026-04-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000039/now-20260406.htm",
+    "quote": "Greater than 5% Shareholders: BlackRock, Inc. (1) 91,252,660 8.8% The Vanguard Group, Inc. (2) 90,591,730 8.7%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

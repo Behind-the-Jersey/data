@@ -1,12 +1,16 @@
 {
   "id": "trek",
   "name": "Trek",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "US bicycle manufacturer."
+  "ownerId": "trek-bicycle-corp",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Trek Bicycle Corporation, a family-owned US bike maker (owned by the employees and the founding family). Nothing found.",
+  "claimIds": [
+    "trek-bicycle-ownership"
+  ],
+  "aliases": [
+    "trek bicycle corporation"
+  ],
+  "note": "US bicycle manufacturer, Waterloo, Wisconsin; co-title sponsor (with Lidl) of the Lidl-Trek men's and women's teams and kit supplier sponsor. Rated none: private family/employee ownership, no state stake, and no human-rights finding against Trek was found in this run."
 }
