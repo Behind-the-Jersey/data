@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "A.R.M. Holding: homepage (armholding.ae)",
+      "date": "2026",
+      "url": "https://www.armholding.ae/",
+      "quote": "We are a UAE-based private investment and real estate company focused on building scalable ventures with lasting social and economic value across diverse sectors.",
+      "note": "Undated homepage intro text; the site's footer gives a Dubai, United Arab Emirates address.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout PR #1217 review (OpenCode, model kimi-k3-abliterated)"
+      }
+    }
+  ],
   "reviewed": false
 }

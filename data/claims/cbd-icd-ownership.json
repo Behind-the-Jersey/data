@@ -5,14 +5,14 @@
     "investment-corporation-of-dubai",
     "government-of-dubai"
   ],
-  "text": "Commercial Bank of Dubai's 2025 annual report lists the Investment Corporation of Dubai - the investment arm of the Government of Dubai - as a 20 percent shareholder; Forbes Middle East calls ICD the bank's largest shareholder with a 20% stake.",
+  "text": "Commercial Bank of Dubai's 2025 annual report lists the Investment Corporation of Dubai (ICD) as a 20 percent shareholder, and its related-party note states that ICD is wholly owned by the Government of Dubai; Forbes Middle East calls ICD the bank's largest shareholder with a 20% stake.",
   "short": "The Government of Dubai's Investment Corporation of Dubai holds 20% of Commercial Bank of Dubai.",
   "source": {
     "name": "Commercial Bank of Dubai: Annual Report 2025 (shareholder structure)",
     "date": "2026",
     "url": "https://www.cbd.ae/docs/default-source/revamp-doc/annualreports/cbd-annual-report-2025-english.pdf?sfvrsn=25fe036b_1",
     "quote": "Investment Corporation of Dubai - 20% Al Futtaim Private Company LLC - 17.46% Orient Insurance PJSC - 8.84%",
-    "note": "Major-shareholder breakdown on page 17 of the PDF (pypdf extraction). The same page lists Ghobash Trading & Investment 6.37% and Abdul Wahed Al Rostamani Group 7.68%.",
+    "note": "Major-shareholder breakdown on physical page 18 of the PDF ('CBD at a Glance'), pypdf extraction; the same page lists Abdul Wahed Al Rostamani (AWR) Group 7.68% and Ghobash Trading & Investment 6.37%. Note 33 (Related party transactions, physical page 72) states: 'the Investment Corporation of Dubai (\"ICD\") owns 20% share capital of the Group. ICD is a wholly-owned entity by the Government of Dubai (the \"Government\").'",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
