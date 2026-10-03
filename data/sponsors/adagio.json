@@ -3,9 +3,9 @@
   "name": "Adagio",
   "ownerId": "adagio-jv",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Adagio is a joint venture created in France in 2007 between Accor and Pierre & Vacances Center Parcs. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "adagio-accor-pvcp-ownership"
   ],
@@ -13,5 +13,5 @@
     "Aparthotels Adagio",
     "Adagio City"
   ],
-  "note": "Rating note: major partner of FDJ United-Suez since June 2025, on the front and back of the jersey for four years (club communiqué). Both parents are listed companies; their major shareholders were not traced (a state would need roughly 10% of one parent to reach 5% of a 50/50 joint venture)."
+  "note": "Major partner of FDJ United-Suez since June 2025, on the front and back of the jersey for four years (club communiqué). Ownership is sourced (adagio-accor-pvcp-ownership): a joint venture between Accor and Pierre & Vacances Center Parcs. Left not rated for a maintainer: the JV's split between its parents is not sourced, and the claim does not reach the parents' large shareholders. Accor's 2025 Universal Registration Document (section 7.4 'Ownership structure', as at 31 December 2025, assets.group.accor.com) shows Qatar Holding LLC — a subsidiary of Qatar's sovereign fund QIA — at 6.61% of Accor's capital and 11.16% of voting rights, with two directors on Accor's board under a 2016 shareholders' pact, while JinJiang International Holdings is down to 1.02%. At an (unsourced) 50/50 JV split QIA's effective reach to Adagio would be about 3.3%; whether its Accor board seats count under METHOD.md's board-seat rule at this depth is a maintainer decision."
 }
