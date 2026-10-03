@@ -1,14 +1,16 @@
 {
   "id": "decathlon",
   "name": "Decathlon",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "decathlon",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "French sports retailer listed by Le Journal des Entreprises among the companies held by the Association Famille Mulliez, the Mulliez family association; its road-cycling brand Van Rysel equips the team. Nothing found.",
+  "claimIds": [
+    "decathlon-afm-ownership"
+  ],
   "aliases": [
     "van rysel"
   ],
-  "note": "French sports retailer, family-owned (Leclercq/Mulliez families and employees)."
+  "note": "Family-held (Association Famille Mulliez). France doesn't count as a record state under METHOD.md (decided September 2026 for Renault), so the link leads to a state without a qualifying record: Nothing found."
 }

@@ -1,0 +1,20 @@
+{
+  "id": "ledger-owner-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ledger-owner"
+  ],
+  "text": "LEDGER is a trademark owned by Ledger SAS, a company registered at 106 Rue du Temple, 75003 Paris, France.",
+  "short": "Ledger SAS owns the LEDGER trademark (Paris).",
+  "source": {
+    "name": "Ledger – trademark notice",
+    "date": "2026",
+    "url": "https://www.ledger.com/legal",
+    "quote": "Ledger, Ledger Stax, Ledger Flex, Ledger Nano, Ledger Nano S, Ledger OS, Ledger Wallet, [LEDGER] (logo), and [L] (logo) are trademarks owned by Ledger SAS",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

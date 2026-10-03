@@ -1,0 +1,22 @@
+{
+  "id": "wacoal-corp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "wacoal-corp",
+    "wacoal-holdings-corp"
+  ],
+  "text": "Wacoal Corp. is a full subsidiary of Wacoal Holdings Corporation: on 1 October 2005 Wacoal moved to a holding-company structure, and the newly established Wacoal Corp. became a full subsidiary of Wacoal Holdings Corporation.",
+  "short": "Wacoal Corp. has been a full subsidiary of Wacoal Holdings Corp. since 2005.",
+  "source": {
+    "name": "Wacoal Holdings: Wacoal Corp. (company profile)",
+    "date": "2026",
+    "url": "https://www.wacoalholdings.jp/en/group/wacoal/",
+    "quote": "the newly established Wacoal Corp. became a full subsidiary of Wacoal Holdings Corporation",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page without a date; employee figure on it is dated 'As of March 2026'."
+  },
+  "reviewed": false
+}

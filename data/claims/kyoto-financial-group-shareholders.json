@@ -1,0 +1,21 @@
+{
+  "id": "kyoto-financial-group-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "kyoto-financial-group"
+  ],
+  "text": "Kyoto Financial Group, Inc. (TSE Prime code 5844) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 12.37%), Nippon Life Insurance Company (3.84%), State Street Bank and Trust Company 505001 (3.54%), Meiji Yasuda Life Insurance Company (3.52%), Custody Bank of Japan, Ltd. (trust account, 3.12%), Northern Trust Co. (2.57%), Kyocera Corporation (2.24%), Sumitomo Life Insurance Company (1.85%) and the group's employee stock-ownership association (1.79%).",
+  "short": "Kyoto Financial Group is Tokyo-listed; its largest holder is Master Trust at 12.37%.",
+  "source": {
+    "name": "京都フィナンシャルグループ: 株式・社債情報 (Kyoto Financial Group: stock and bond information)",
+    "date": "2026-03-31",
+    "url": "https://www.kyoto-fg.co.jp/ir/stock/stock-information/",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 35,153 12.37",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page headed 大株主の状況（2026年3月31日現在）, 'status of major shareholders (as of 31 March 2026)'. Ratios net of treasury shares."
+  },
+  "reviewed": false
+}

@@ -2,6 +2,21 @@
   "clubId": "memphis-grizzlies",
   "channels": [
     {
+      "type": "contact-form",
+      "value": "https://www.nba.com/grizzlies/contact-us",
+      "label": "Grizzlies Contact Us form",
+      "source": {
+        "name": "Grizzlies Contact Us (nba.com/grizzlies)",
+        "url": "https://www.nba.com/grizzlies/contact-us",
+        "date": "2026",
+        "quote": "Grizzlies Contact Us",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@memgrizz",
       "source": {
@@ -20,5 +35,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

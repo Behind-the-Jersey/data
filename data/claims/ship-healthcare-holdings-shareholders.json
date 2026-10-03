@@ -1,0 +1,20 @@
+{
+  "id": "ship-healthcare-holdings-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "ship-healthcare-holdings"
+  ],
+  "text": "Ship Healthcare Holdings, Inc. is listed on the Tokyo Stock Exchange Prime Market (code 3360). Its largest shareholders (as of 2025-09-30) were The Master Trust Bank of Japan (trust account, 11.24%), Kokko Co., Ltd. (8.65%), State Street Bank and Trust Company (7.97%) and Custody Bank of Japan (trust account, 5.03%); no state or sovereign shareholder appears in the company's top-10 list.",
+  "short": "Ship Healthcare Holdings is TSE-Prime listed (3360); top holders are trust banks and private companies, no state shareholder.",
+  "source": {
+    "name": "シップヘルスケアホールディングス株式会社 IR: 株式の状況 — 大株主の状況",
+    "date": "2025-09-30",
+    "url": "https://www.shiphd.co.jp/ir/stock_bond/zyoukyou/",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 10,358 11.24 株式会社コッコー 7,977 8.65 STATE STREET BANK AND TRUST COMPANY 505001 7,348 7.97",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
