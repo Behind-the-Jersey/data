@@ -204,21 +204,6 @@
       }
     },
     {
-      "sponsorId": "jayco",
-      "placement": "shorts",
-      "source": {
-        "name": "Team Jayco AlUla: GreenEDGE Cycling + MAAP show off fresh new look for 2026 (kit launch)",
-        "date": "2026-01-06",
-        "url": "https://greenedgecycling.com/2026/%F0%9F%94%A5-greenedge-cycling-maap-show-off-fresh-new-look-for-2026%F0%9F%94%A5/",
-        "quote": "Thanks to MAAP for once again dropping a fresh and unique look for the new year, our 15th season in the UCI WorldTour.",
-        "note": "The launch photo of the men's team riding (https://greenedgecycling.com/2024/wp-content/uploads/2026/01/Y2A5397-1024x683.jpg) and the MAAP product side view of the bibs (..._PDP_05.jpg) show 'Jayco' running down the leg of the bib shorts.",
-        "checked": {
-          "on": "2026-10-01",
-          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
-        }
-      }
-    },
-    {
       "sponsorId": "cadex",
       "placement": "shorts",
       "source": {
@@ -226,7 +211,22 @@
         "date": "2026",
         "url": "https://maap.cc/greenedge-cycling",
         "quote": "Created for Team Jayco AlUla and Liv AlUla Jayco ahead of cycling's biggest race, the 2026 GreenEDGE Swap-Out Kit brings a fresh look to the WorldTour.",
-        "note": "The MAAP product photo of the team bib (https://maap-mmds-prismic-images.b-cdn.net/maap-mmds/3IawSOqJQSMInNgh_MPMBS262126_ODWT.GreenEDGE26TeamBibEvo_LP_FLATLAY.png) shows 'CADEX' on both legs, and the launch photo (https://greenedgecycling.com/2024/wp-content/uploads/2026/01/Y2A5397-1024x683.jpg) shows CADEX down the leg of the racing bibs.",
+        "note": "The MAAP product photo of the team bib (https://maap-mmds-prismic-images.b-cdn.net/maap-mmds/3IawSOqJQSMInNgh_MPMBS262126_ODWT.GreenEDGE26TeamBibEvo_LP_FLATLAY.png) shows 'CADEX' on both legs, and the launch photo of riders from the front (https://greenedgecycling.com/2024/wp-content/uploads/2026/01/Y2A6061-1024x683.jpg) shows CADEX on the riders' bib legs.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "maap",
+      "placement": "shorts",
+      "source": {
+        "name": "MAAP: MAAP + GreenEDGE (2026 GreenEDGE Swap-Out Kit page)",
+        "date": "2026",
+        "url": "https://maap.cc/greenedge-cycling",
+        "quote": "Created for Team Jayco AlUla and Liv AlUla Jayco ahead of cycling's biggest race, the 2026 GreenEDGE Swap-Out Kit brings a fresh look to the WorldTour.",
+        "note": "The MAAP product photo of the team bib (https://maap-mmds-prismic-images.b-cdn.net/maap-mmds/3IawSOqJQSMInNgh_MPMBS262126_ODWT.GreenEDGE26TeamBibEvo_LP_FLATLAY.png) shows three stacked green 'MAAP' marks on each hip of the bib shorts; the launch photo of the men's team riding from behind (https://greenedgecycling.com/2024/wp-content/uploads/2026/01/Y2A5397-1024x683.jpg) shows the same stacked marks on the racing bibs' hips. (Review note: no Jayco mark appears anywhere on the bib shorts in the launch photos or MAAP product photos; the rear riding photo shows ALULA across the seat and on the back of the legs.)",
         "checked": {
           "on": "2026-10-01",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
@@ -235,6 +235,6 @@
     }
   ],
   "sponsorsComplete": true,
-  "summary": "2026 UCI WorldTeam kit by MAAP, launched 6 January 2026 in the 'Aurora' purple look with a flame motif. Jayco fills the chest and upper back, with AlUla (Arabic script over ALULA) under it on the chest, across the back and on the seat of the bib shorts; Jayco also runs down the leg of the bibs. GIANT is on the upper chest and down both sleeves, CADEX is on the upper chest, the sleeves and both legs of the bibs, three stacked MAAP marks sit on the upper chest with smaller MAAP marks on the back, and letsgo sits at the collar and on the lower back. Marked complete: the club's launch photos and MAAP's product photos of the jersey and bib (front, back and both sides) show no other sponsor. 'GreenEDGE Cycling' is the team's own wordmark, the UCI WorldTeam badge is an award and '#ExperienceAlUla' is AlUla's hashtag; none has a sponsor record. Giant also supplies the team's bikes and MAAP makes the kit.",
+  "summary": "2026 UCI WorldTeam kit by MAAP, launched 6 January 2026 in the 'Aurora' purple look with a flame motif. Jayco fills the chest and upper back, with AlUla (Arabic script over ALULA) under it on the chest, across the back and on the seat and back of the legs of the bib shorts. GIANT is on the upper chest and down both sleeves, CADEX is on the upper chest, the sleeves and both legs of the bibs, three stacked MAAP marks sit on the upper chest with smaller MAAP marks on the back and stacked marks on the hips of the bibs, and letsgo sits at the collar and on the lower back. Marked complete: the club's launch photos and MAAP's product photos of the jersey and bib (front, back and both sides) show no other sponsor, and no Jayco mark on the bib shorts (a Jayco bib-leg entry in an earlier revision was removed on review as unsupported). 'GreenEDGE Cycling' is the team's own wordmark, the UCI WorldTeam badge is an award and '#ExperienceAlUla' is AlUla's hashtag; none has a sponsor record. Giant also supplies the team's bikes and MAAP makes the kit.",
   "change": null
 }
