@@ -3,9 +3,9 @@
   "name": "Enterprise Rent-A-Car",
   "ownerId": "enterprise-holdings",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Enterprise Rent-A-Car is part of Enterprise Holdings, the holding company the Taylor family created for its car rental and transportation services, which also owns National and Alamo. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "enterprise-holdings-taylor-ownership"
   ],
@@ -14,5 +14,5 @@
     "enterprise mobility",
     "enterprise holdings"
   ],
-  "note": "Rating note: private US family company (St. Louis); no state or fund in the chain → none. On Al-Ettifaq sleeves per the SPL 2026-27 kit gallery photos; listed among the club's current partners on ettifaq.com."
+  "note": "Rating note: ownership chain reaches Enterprise Holdings, the holding company the Taylor family created for its car-rental portfolio (St. Louis; family-owned per enterprisemobility.com heritage page) - no state or fund in the chain. But METHOD.md's company test plausibly matches: on 17 July 2019 a U.S. Department of Labor administrative law judge ordered Enterprise RAC Company of Baltimore LLC to pay $6.6M to 2,336 rejected African-American applicants, after an OFCCP investigation and the judge found a pattern and practice of hiring discrimination in its management-trainee programme between 2007 and 2017, plus indefinite debarment from federal contracts (WBAL-TV, 1 Aug 2019: https://www.wbaltv.com/article/judge-orders-enterprise-pay-6-million-discrimination-case-linthicum-department-of-labor/28578501 - live page geo-blocks, opened via the Wayback Machine; also Baltimore Sun, 1 Aug 2019). The decision was appealable to the DOL Administrative Review Board; the appeal outcome was not determined, so the rating is left for a maintainer. On Al-Ettifaq's 2026-27 sleeves per the SPL Eastern Derby album photo; listed among the club's current partners on ettifaq.com."
 }
