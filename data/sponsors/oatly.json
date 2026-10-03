@@ -1,12 +1,18 @@
 {
   "id": "oatly",
   "name": "Oatly",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "oatly-group-ab",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "oatly-nativus-largest-shareholder",
+    "oatly-nativus-crvv-jv",
+    "oatly-blossom-key-crh-cre",
+    "china-resources-holdings-state-ownership"
+  ],
   "aliases": [],
-  "note": "Swedish oat-drink maker listed on the New York Stock Exchange; co-title sponsor of EF Education-Oatly (Cyclist, 2026-07-14; EF partner page)."
+  "note": "Swedish oat-drink maker; Oatly Group AB (publ) listed on Nasdaq (OTLY). Largest shareholder Nativus Company Limited (44.6% as of 2026-03-11), wholly owned by CR Verlinvest Health Investment Ltd, a 50/50 joint venture of Verlinvest S.A. and Blossom Key (Hong Kong) Holdings Ltd, a wholly owned subsidiary of China Resources (Holdings) Company Limited; China's SASAC performs the investor duty for China Resources Company Limited (90.0222%) on behalf of the State Council (Oatly FY2025 Form 20-F). Along the chain the Chinese state reaches about 20% of Oatly (0.446 x 0.5 x 0.900222). Co-title sponsor of EF Education-Oatly since 2025. Tier proposal: concern (see pull request)."
 }

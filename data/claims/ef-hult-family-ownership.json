@@ -1,0 +1,22 @@
+{
+  "id": "ef-hult-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ef-education-first",
+    "hult-family"
+  ],
+  "text": "EF Education First is Bertil Hult's company, run by his three oldest sons; it offers educational travel and language training in 111 countries.",
+  "short": "EF Education First is Bertil Hult's company, run by his three oldest sons.",
+  "source": {
+    "name": "Forbes — Bertil Hult profile (#1578 billionaires)",
+    "date": "2026-03-10",
+    "url": "https://www.forbes.com/profile/bertil-hult/",
+    "quote": "Today his company, EF Education First, run by his three oldest sons, offers educational travel and language training in 111 countries.",
+    "note": "Forbes billionaire profile; page shows 'Last Updated Mar 10, 2026'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
