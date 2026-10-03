@@ -1,12 +1,14 @@
 {
   "id": "stifel",
   "name": "Stifel Financial",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "stifel-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Stifel Financial Corp. Nothing found.",
+  "claimIds": [
+    "stifel-owner-record"
+  ],
   "aliases": [],
-  "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "note": "Rating note: New York Stock Exchange-listed US financial services company (stifel-owner-record); no state or state fund is in its ownership chain, so nothing passes the METHOD.md test. Its 2026 proxy names BlackRock and FMR as the only holders of more than 5% of its common stock, neither a state."
 }

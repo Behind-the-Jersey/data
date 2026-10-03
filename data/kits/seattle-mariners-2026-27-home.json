@@ -12,13 +12,19 @@
       "sponsorId": "nintendo",
       "placement": "patch",
       "source": {
-        "name": "Seattle Mariners (MLB.com)",
-        "date": "2026-03-27",
-        "url": "https://mariners.com/Nintendo"
+        "name": "MLB.com press release (archived): Seattle Mariners expand relationship with Nintendo with team's first-ever jersey sleeve partnership",
+        "date": "2025-03-20",
+        "url": "http://web.archive.org/web/20260312015727/https://www.mlb.com/press-release/press-release-seattle-mariners-expand-relationship-with-nintendo-with-team-s-first-ever-jersey-sleeve-partnership",
+        "quote": "Nintendo of America Inc. has expanded upon their long-standing relationship with the club, becoming the team's first-ever official jersey sleeve partner.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The club's own fan page (archived 2026-04-10, https://web.archive.org/web/20260410154045/https://www.mlb.com/mariners/fans/nintendo) says the racetrack logo is on home jerseys and the Switch 2 logo on away jerseys. Blinkfire's 2026 MLB jersey patch list (2026-04-20) names 'Seattle Mariners – Nintendo'; no other patch sponsor is listed for the club."
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Jersey patch: Nintendo (Nintendo of America).",
+  "summary": "Jersey sleeve patch: Nintendo (Nintendo of America). The home jersey carries the Nintendo racetrack logo, the road jersey the Nintendo Switch 2 logo.",
   "change": null
 }

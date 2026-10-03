@@ -1,0 +1,32 @@
+{
+  "id": "aws-amazon-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "amazon-com-inc"
+  ],
+  "text": "Amazon Web Services (AWS) is an Amazon.com company and one of the three segments through which Amazon.com, Inc. reports its operations.",
+  "short": "AWS is an Amazon.com company",
+  "source": {
+    "name": "Amazon.com, Inc. Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2026-02-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+    "quote": "We have organized our operations into three segments: North America, International, and Amazon Web Services (“AWS”).",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Seattle Seahawks: 'Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider'",
+      "date": "2019-11-25",
+      "url": "https://www.seahawks.com/news/seattle-seahawks-select-aws-as-its-cloud-machine-learning-and-artificial-intelli",
+      "quote": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

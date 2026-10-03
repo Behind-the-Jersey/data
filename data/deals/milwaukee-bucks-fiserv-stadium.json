@@ -4,13 +4,18 @@
   "orgName": "Fiserv",
   "sponsorId": "fiserv",
   "placement": "stadium",
-  "from": null,
+  "from": "2018",
   "to": null,
   "value": null,
   "source": {
     "name": "Fiserv, Inc. investor newsroom",
     "date": "2018-07-26",
-    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks"
+    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks",
+    "quote": "Fiserv has signed an exclusive naming rights agreement for the nearly completed Wisconsin Entertainment and Sports Center, now called Fiserv Forum.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Fiserv Forum. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-07-26."
+  "note": "Arena naming rights: Fiserv Forum, 25-year agreement, announced 2018-07-26; financial terms not disclosed."
 }
