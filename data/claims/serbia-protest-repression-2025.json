@@ -1,0 +1,33 @@
+{
+  "id": "serbia-protest-repression-2025",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-serbia"
+  ],
+  "text": "During the 2025 nationwide protests, Serbian police detained hundreds of protesters arbitrarily; detainees were slapped and kicked while restrained and some were threatened with rape, violence and death. Authorities also used unlawful spyware and forensic tools against journalists and activists.",
+  "short": "Serbia's 2025 crackdown: arbitrary detention and abuse of protesters.",
+  "source": {
+    "name": "Amnesty International: The State of the World's Human Rights — Serbia 2025 (via ecoi.net mirror, doc #2139349)",
+    "date": "2026-04-21",
+    "url": "https://www.ecoi.net/en/document/2139349.html",
+    "quote": "Police detained hundreds of protesters arbitrarily. Dozens were subjected to slapping and kicking while already restrained, and some detainees were threatened with rape, violence and death.",
+    "note": "Full text of Amnesty's Serbia 2025 annual-report chapter, published 21 April 2026; the amnesty.org page blocks scripted access, so the Austrian Red Cross ecoi.net mirror is linked.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Human Rights Watch: World Report 2026 — Serbia/Kosovo (Events of 2025)",
+      "date": "2026-01",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/serbia/kosovo",
+      "quote": "Authorities responded to nationwide protests with excessive force, arbitrary arrest, curbs on civil society, and attacks on journalists and independent media",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

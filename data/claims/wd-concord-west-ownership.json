@@ -1,0 +1,20 @@
+{
+  "id": "wd-concord-west-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "wd-concord-west-doo"
+  ],
+  "text": "W.D. Concord West d.o.o. is 50% owned by Željko Drčelić, the president of basketball club Crvena zvezda, and 50% by the company RAIMS Development.",
+  "short": "W.D. Concord West is held 50/50 by club president Željko Drčelić and RAIMS Development.",
+  "source": {
+    "name": "Nova ekonomija: Firma čiji je suvlasnik Željko Drčelić gradiće Prihvatilište za beskućnike na Voždovcu",
+    "date": "2025-05-24",
+    "url": "https://novaekonomija.rs/vesti-iz-zemlje/firma-ciji-je-suvlasnik-zeljko-drcelic-gradice-prihvatiliste-za-odrasla-i-stara-lica-na-vozdovcu",
+    "quote": "Kompanija W.D. Concord West d.o.o je, kao što je već pomenuto, 50 odsto u vlasništvu Željka Drčelića, dok drugih 50 odsto ima firma „RAIMS Development“",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
