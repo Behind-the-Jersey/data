@@ -7,8 +7,34 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "olimpbet",
+      "placement": "front",
+      "source": {
+        "name": "HC Admiral official site: 'OLIMPBET продлевает партнерство с ХК «Адмирал» еще на три года'",
+        "date": "2025-03-26",
+        "url": "https://hcadmiral.pro/press-center/team-news/olimpbet-prodlevaet-partnerstvo-s-khk-admiral-eshche-na-tri-goda.html",
+        "quote": "Букмекерская компания OLIMPBET и хоккейный клуб «Адмирал» объявили о продлении сотрудничества еще на три года.",
+        "note": "Club announcement (26 Mar 2025): Olimpbet partnership, begun in 2024/25, extended for three more years, so it covers 2026-27. Current-season player portraits on the club site (https://hcadmiral.pro/team/players/, e.g. the portrait at /upload/iblock/006/0cy67b93hi3aidoggy4963uzqh5nik3b.JPG) show gold OLIMPBET lettering across the lower front of the black home jersey; re-verified in review on 2026-10-03 (portrait viewed directly).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel); placement re-verified by Scout review (OpenCode, model kimi-k3-abliterated)"
+        }
+      }
+    },
+    {
+      "sponsorId": "t-bank",
+      "placement": "league-partner",
+      "source": {
+        "name": "HC Admiral official photo gallery: '«Адмирал» - «Нефтехимик» — 3:5' (27 Sep 2026)",
+        "date": "2026-09-27",
+        "url": "https://hcadmiral.pro/upload/iblock/7c8/5k23d0sii5tmo6ca515nflb97j7kd5lp.JPG",
+        "note": "Match photo from the club's official gallery (Admiral–Neftekhimik, 27 Sep 2026; EXIF 2026-09-28) shows a small white patch with the yellow T-Bank 'T' logo sewn on the upper back of Admiral's black home jersey; image opened and patch confirmed in review on 2026-10-03 (Scout review, OpenCode, model kimi-k3-abliterated). T-Bank is a KHL general partner, listed in the league sponsor board on hcadmiral.pro ('Партнёры Фонбет Чемпионата КХЛ сезона 2026/2027'), so this is recorded as a league-partner placement."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit. Olimpbet (OLIMPBET lettering across the lower front) per the club's 2025-03-26 partnership-extension announcement and current player portraits. A T-Bank league patch sits on the upper back in match photos. No sponsor logos seen on sleeves or pants in September 2026 match photos; helmet decals could not be identified, so the list is not marked complete.",
   "change": null
 }
