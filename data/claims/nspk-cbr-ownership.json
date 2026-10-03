@@ -1,0 +1,34 @@
+{
+  "id": "nspk-cbr-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "russian-federation"
+  ],
+  "text": "JSC NSPK, the operator of the Mir payment system, is 100% owned by the Central Bank of the Russian Federation.",
+  "short": "NSPK (Mir) is 100% owned by the Central Bank of Russia.",
+  "source": {
+    "name": "NSPK: О компании (archived copy; nspk.ru does not answer requests from this network)",
+    "date": "2026-09-25",
+    "url": "https://web.archive.org/web/20260925132143/https://www.nspk.ru/about/company",
+    "quote": "100% акций АО «НСПК» принадлежит Центральному банку Российской Федерации",
+    "note": "EN: '100% of the shares of JSC NSPK belong to the Central Bank of the Russian Federation.' Live URL https://www.nspk.ru/about/company blocked the script (transport error), so the Wayback capture of 25 Sep 2026 is cited.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Деловой Петербург, Кто есть Кто: Национальная система платежных карт (Платежная система \"МИР\")",
+      "date": "2026-10-03",
+      "url": "https://whoiswho.dp.ru/cart/company/3239759",
+      "quote": "100% акций АО \"НСПК\" принадлежит Центральному Банку Российской Федерации.",
+      "note": "EN: '100% of the shares of JSC NSPK belong to the Central Bank of the Russian Federation.' Undated company card, opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
