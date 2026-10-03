@@ -9,25 +9,217 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "ineos",
+      "sponsorId": "netcompany",
       "placement": "front",
       "source": {
-        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "Netcompany INEOS: partner page for Netcompany",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/netcompany/",
+        "quote": "will see the team renamed to the Netcompany INEOS Cycling Team and race in new kit and colours from the start of the 2026 Giro d'Italia",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race jersey show 'Netcompany' over 'INEOS' across the chest (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-01.jpg) and a Netcompany tab on the right side panel (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-04.jpg)."
       }
     },
     {
       "sponsorId": "netcompany",
+      "placement": "back",
+      "source": {
+        "name": "Netcompany INEOS: partner page for Netcompany",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/netcompany/",
+        "quote": "will see the team renamed to the Netcompany INEOS Cycling Team and race in new kit and colours from the start of the 2026 Giro d'Italia",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The back photo of the 2026 race jersey shows 'Netcompany INEOS' across the upper back and 'Netcompany' again above the jersey tail hem (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-02.jpg)."
+      }
+    },
+    {
+      "sponsorId": "netcompany",
+      "placement": "sleeve",
+      "source": {
+        "name": "Netcompany INEOS: partner page for Netcompany",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/netcompany/",
+        "quote": "will see the team renamed to the Netcompany INEOS Cycling Team and race in new kit and colours from the start of the 2026 Giro d'Italia",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The side photos of the 2026 race jersey show 'Netcompany' printed vertically along both sleeves (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-04.jpg, https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-05.jpg)."
+      }
+    },
+    {
+      "sponsorId": "ineos",
       "placement": "front",
       "source": {
-        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "Netcompany INEOS: partner page for INEOS",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/ineos/",
+        "quote": "In 2019 INEOS became the sole owners of Tour Racing Limited (the Team’s holding company)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race jersey show 'INEOS' large across the chest, under 'Netcompany' (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-01.jpg), and inside the collar (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-05.jpg)."
+      }
+    },
+    {
+      "sponsorId": "ineos",
+      "placement": "back",
+      "source": {
+        "name": "Netcompany INEOS: partner page for INEOS",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/ineos/",
+        "quote": "In 2019 INEOS became the sole owners of Tour Racing Limited (the Team’s holding company)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The back photo of the 2026 race jersey shows 'Netcompany INEOS' across the upper back (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-02.jpg)."
+      }
+    },
+    {
+      "sponsorId": "ineos",
+      "placement": "sleeve",
+      "source": {
+        "name": "Netcompany INEOS: partner page for INEOS",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/ineos/",
+        "quote": "In 2019 INEOS became the sole owners of Tour Racing Limited (the Team’s holding company)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race jersey show large vertical 'INEOS' letters down both sleeves (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-05.jpg, https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-01.jpg)."
+      }
+    },
+    {
+      "sponsorId": "ineos",
+      "placement": "shorts",
+      "source": {
+        "name": "Netcompany INEOS: partner page for INEOS",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/ineos/",
+        "quote": "In 2019 INEOS became the sole owners of Tour Racing Limited (the Team’s holding company)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race kit show large vertical 'INEOS' on the shorts thighs and 'GRENADIER' (the INEOS Grenadier vehicle brand) on the leg hems (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-01.jpg, https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-02.jpg)."
+      }
+    },
+    {
+      "sponsorId": "totalenergies",
+      "placement": "front",
+      "source": {
+        "name": "Netcompany INEOS: 'Meet our Partners'",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/",
+        "quote": "In 2025 the team announced a jersey partnership with leading global integrated energy company, TotalEnergies.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race jersey show the TotalEnergies mark on the white band across the lower chest (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-01.jpg)."
+      }
+    },
+    {
+      "sponsorId": "totalenergies",
+      "placement": "back",
+      "source": {
+        "name": "Netcompany INEOS: 'Meet our Partners'",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/",
+        "quote": "In 2025 the team announced a jersey partnership with leading global integrated energy company, TotalEnergies.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The back photo of the 2026 race jersey shows the TotalEnergies band with its logo across the mid back (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-02.jpg)."
+      }
+    },
+    {
+      "sponsorId": "totalenergies",
+      "placement": "sleeve",
+      "source": {
+        "name": "Netcompany INEOS: 'Meet our Partners'",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/",
+        "quote": "In 2025 the team announced a jersey partnership with leading global integrated energy company, TotalEnergies.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race jersey show the TotalEnergies mark on both sleeves, under 'INEOS' on the right sleeve and under 'wtw' on the left (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-05.jpg, https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-04.jpg)."
+      }
+    },
+    {
+      "sponsorId": "wtw",
+      "placement": "sleeve",
+      "source": {
+        "name": "Netcompany INEOS: 'Meet our Partners'",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/",
+        "quote": "WTW, a leading global advisory, broking and solutions company, are the exclusive global insurance partner of Netcompany INEOS.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race jersey show the 'wtw' wordmark large on the left sleeve (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-04.jpg; also visible on the left sleeve in https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-02.jpg)."
+      }
+    },
+    {
+      "sponsorId": "cafe-de-colombia",
+      "placement": "shorts",
+      "source": {
+        "name": "Netcompany INEOS: 'Meet our Partners'",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/",
+        "quote": "Our Official Coffee Partner, Café de Colombia",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Gobik's product photos of the 2026 race kit show the Café de Colombia logo on the upper back of the bib shorts (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-02.jpg, https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-04.jpg); ColombiaOne reported on 2026-04-23 that Cafe de Colombia joined as sponsor (https://colombiaone.com/2026/04/23/cafe-colombia-back-world-tour-ineos-grenadiers/)."
+      }
+    },
+    {
+      "sponsorId": "gobik",
+      "placement": "partner",
+      "source": {
+        "name": "Netcompany INEOS: 'Meet our Partners'",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/",
+        "quote": "Netcompany INEOS and Gobik are delighted to announce an exciting new long-term partnership commencing from 2024.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker, recorded as partner per existing convention. The kit is Gobik's own product ('REACTIVE Netcompany INEOS 26', https://gobik.com/en/products/short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26), and its photos show the GOBIK mark on the upper chest, the shorts thigh and the socks."
+      }
+    },
+    {
+      "sponsorId": "pinarello",
+      "placement": "partner",
+      "source": {
+        "name": "Netcompany INEOS: 'Meet our Partners'",
+        "date": "2026",
+        "url": "https://www.ineosgrenadiers.com/partners/",
+        "quote": "Bike partner Pinarello have provided Netcompany INEOS with race-winning bikes ever since their WorldTour debut in 2010.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Bike partner, recorded as partner per existing convention. Gobik's product photos of the 2026 race kit show 'PINARELLO' on the right chest (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-03.jpg), its swoosh on the upper back (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-02.jpg) and its bolt mark on the right thigh (https://gobik.com/cdn/shop/files/10-01-096-011-short-sleeve-jersey-reactive-2-0-men-netcompany-ineos-26-Web-04.jpg)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026 UCI WorldTeam. INEOS Grenadiers's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "sponsorsComplete": true,
+  "summary": "2026 UCI WorldTeam kit by Gobik, sold as 'REACTIVE Netcompany INEOS 26'. The team began the season as INEOS Grenadiers and rebranded to the Netcompany INEOS Cycling Team from the 2026 Giro d'Italia (May 2026), when Netcompany joined INEOS as co-title sponsor; this is the kit in use since. 'Netcompany / INEOS' is across the chest and the upper back, with Netcompany also down the sleeves and on a side-panel tab; TotalEnergies fills the band below them on the chest and back and sits on both sleeves; big INEOS letters run down both sleeves and both shorts' thighs, with 'GRENADIER' (the INEOS Grenadier vehicle brand) on the leg hems; 'wtw' is on the left sleeve; Café de Colombia is on the seat of the bib shorts; kit maker Gobik and bike brand Pinarello mark the chest, shorts and back. The small 'UCI WORLD TEAM' marks and the orange diamond '1' badge at the collar and cuffs are category or award marks, not sponsors. Marked complete: the kit maker's full set of photos (front, back, both sides, collar and sleeve close-ups) shows no other sponsor.",
   "change": null
 }

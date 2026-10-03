@@ -1,0 +1,31 @@
+{
+  "id": "cafe-de-colombia-fnc",
+  "kind": "ownership",
+  "ownerIds": [
+    "federacion-nacional-de-cafeteros"
+  ],
+  "text": "Café de Colombia is the flagship brand of the Federación Nacional de Cafeteros de Colombia (FNC), the federation of Colombian coffee growers, which announced the team's sponsorship itself.",
+  "source": {
+    "name": "Federación Nacional de Cafeteros de Colombia: 'INEOS Grenadiers anuncia alianza con el icónico Café de Colombia'",
+    "date": "2026-04",
+    "url": "https://federaciondecafeteros.org/listado-noticias/ineos-grenadiers-anuncia-alianza-con-el-iconico-cafe-de-colombia/",
+    "quote": "Café de Colombia, marca insignia de la Federación Nacional de Cafeteros de Colombia",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "ColombiaOne: 'Cafe de Colombia Makes High-profile Return to Cycling, Joins Ineos Grenadiers as Co-sponsor'",
+      "date": "2026-04-23",
+      "url": "https://colombiaone.com/2026/04/23/cafe-colombia-back-world-tour-ineos-grenadiers/",
+      "quote": "the National Federation of Coffee Growers (FNC), German Bahamon Jaramillo, announced on Wednesday, April 22, 2026, that Cafe de Colombia will serve as the official sponsor",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
