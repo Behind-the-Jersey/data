@@ -1,0 +1,21 @@
+{
+  "id": "senezhskaya-bobimex-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "bobimex"
+  ],
+  "text": "The Senezhskaya drinking-water brand is owned by Bobimex, a Russian producer of bottled water and soft drinks with more than 80 products.",
+  "short": "Bobimex owns the Senezhskaya drinking-water brand.",
+  "source": {
+    "name": "Forbes Russia: company profile «Бобимэкс» (archived copy)",
+    "date": "2026-05-21",
+    "url": "https://web.archive.org/web/20260521111942/https://www.forbes.ru/profile/549311-bobimeks",
+    "note": "Translation: 'Industry: food industry. Facts: owner of the Senezhskaya deep drinking-water brand, producer of soft drinks based on it. The company's portfolio contains more than 80 items.' The page is Forbes's company profile for Bobimex.",
+    "quote": "Отрасль Пищевая промышленность Факты Владелец бренда глубинной питьевой воды «Сенежская», производитель безалкогольных напитков на ее основе",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

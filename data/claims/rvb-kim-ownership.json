@@ -1,0 +1,33 @@
+{
+  "id": "rvb-kim-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rvb"
+  ],
+  "text": "RVB (Wildberries&Russ, the merged Wildberries/Russ company) is 65% owned by Wildberries founder Tatyana Kim; the remaining 35% belongs to the structures of outdoor advertising operator Russ registered through OOO 'Stinn'.",
+  "short": "Tatyana Kim owns 65% of RVB; the other 35% belongs to the Russ structures (OOO Stinn).",
+  "source": {
+    "name": "Forbes Kazakhstan: Основательница Wildberries Татьяна Ким стала беднее на $2 млрд",
+    "date": "2026-08-27",
+    "url": "https://forbes.kz/articles/osnovatelnitsa-wildberries-tatyana-kim-stala-bednee-na2mlrd",
+    "note": "Translation: 'Kim now owns 65% of the combined company RVB; the other 35% belongs to the Russ structures.' Same article: RVB LLC was founded by OOO Wildberries with a 65% share and OOO Stinn (owner of OOO Russ Outdoor).",
+    "quote": "Сейчас Ким принадлежит 65% объединенной компании РВБ, остальные 35% принадлежат структурам Russ.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AK&M Information Agency: V.Bakalchuk has ceased to be a co-owner of Wildberries",
+      "date": "2026-10-03",
+      "url": "https://www.akm.ru/eng/news/v-bakalchuk-has-ceased-to-be-a-co-owner-of-wildberries/",
+      "quote": "Vladislav Bakalchuk has ceased to be a co-owner of Wildberries LLC, now 100% of the company belongs to its founder Tatiana Kim.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

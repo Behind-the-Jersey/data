@@ -12,13 +12,154 @@
       "sponsorId": "vtb",
       "placement": "partner",
       "source": {
-        "name": "HC Dynamo Moscow official site",
-        "date": "2026-09-25",
-        "url": "https://dynamo.ru/"
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English: 'Sponsors and partners of the club: VTB, Olimpbet, RVB (Wildberries&Russ), Transfin-M, Senezhskaya, Yandex Market, Pango Cars, Yandex Eda, Papa John's, Yandex PRO.' The club's separate partners page (archived 2025-11-11) labels VTB 'General sponsor'.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "olimpbet",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note. Sports.ru (2026-08-19) calls Olimpbet the club's 'unchanged official partner' for 2026-27.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "rvb",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note. RVB = RVB LLC (Wildberries&Russ).",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "transfin-m",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "senezhskaya",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note. Senezhskaya = drinking-water brand of Bobimex.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "yandex-market",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note. Yandex Market = IPJSC Yandex marketplace.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pango-cars",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "yandex-eda",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note. Yandex Eda = IPJSC Yandex food-delivery service.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "papa-johns-russia",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note. Papa John's = Russian Papa John's chain (PJ Western).",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "yandex-pro",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dynamo Moscow official site, sponsors & partners footer (archived copy of dynamo.ru, 2026-07-06)",
+        "date": "2026-07-06",
+        "url": "https://web.archive.org/web/20260706095427/https://dynamo.ru/",
+        "note": "English translation in the VTB entry's note. Yandex PRO = IPJSC Yandex business-advertising service.",
+        "quote": "Спонсоры и партнеры клуба ВТБ Олимпбет РВБ Трансфин М Сенежская Яндекс Маркет Pango Cars Яндекс Еда Папа Джонс Яндекс ПРО",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. VTB shown as the club's general sponsor on the official site; front-of-shirt sponsor not yet sourced.",
+  "summary": "2026-27 home kit. The club site's sponsors & partners footer (archived 2026-07-06) lists VTB (general sponsor per the club's partners page), Olimpbet, RVB (Wildberries&Russ), Transfin-M, Senezhskaya, Yandex Market, Pango Cars, Yandex Eda, Papa John's and Yandex PRO. On-jersey placements (front/sleeve/patch) for the 2026-27 KHL jersey could not be verified from a source readable by script, so every entry sits at 'partner' and sponsorsComplete stays false.",
   "change": null
 }

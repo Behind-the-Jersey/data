@@ -1,0 +1,42 @@
+{
+  "id": "yandex-consortium-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "yandex"
+  ],
+  "text": "The Russian Yandex group (IPJSC 'Yandex'), whose services include Yandex Market, Yandex Eda and Yandex PRO, was sold by its Dutch parent Yandex N.V. in 2024 to the 'Consortium.First' purchaser consortium. Yandex N.V. names the members as: FMP (owned by senior managers of the Russian businesses), Argonaut (a fund ultimately wholly owned by PJSC Lukoil), Infinity Management (wholly owned by Alexander Chachava), IT.Elaboration (wholly owned by Pavel Prass) and Meridian-Servis (wholly owned by Alexander Ryazanov), and says none of them will have a controlling stake. Yandex's own shareholder-structure page (data as of 31 January 2025) shows 79.2% 'Principal Shareholders' and 17.2% free float.",
+  "short": "IPJSC Yandex's principal owners are the 2024 purchaser consortium: Yandex managers' FMP, Lukoil's Argonaut fund, and vehicles of Alexander Chachava, Pavel Prass and Alexander Ryazanov; no single member controls it.",
+  "source": {
+    "name": "Yandex N.V.: Binding Agreement to Divest its Russia-based Businesses",
+    "date": "2024-02-05",
+    "url": "https://ir.yandex/press-releases?year=2024&id=05-02-2024",
+    "quote": "The Purchaser consortium, led by members of the senior management team of our Russian businesses, and supported by four financial investors, is described below. None of the members will have a controlling stake in the Purchaser consortium.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Yandex N.V.: successful initial closing of the divestment of its Russia-based businesses",
+      "date": "2024-05-17",
+      "url": "https://ir.yandex/press-releases?year=2024&id=01-17-05-2024",
+      "quote": "At this first closing, YNV has sold approximately 68% of the Target",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Yandex Investor Relations: Shareholder Structure",
+      "date": "2025-01-31",
+      "url": "https://ir.yandex/shareholder-structure",
+      "quote": "Principal Shareholders 79.2",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
