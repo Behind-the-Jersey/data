@@ -12,22 +12,44 @@
       "sponsorId": "coral-cerveja",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Coral Cerveja main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Footy Headlines: CD Nacional 26-27 Home Kit Released",
+        "date": "2026-08-02",
+        "url": "https://www.footyheadlines.com/3666428021/cd-nacional-26-27-home-kit-released.html",
+        "quote": "yellow Omni logos along the shoulders and sleeves that match the brand logo on the chest and the main sponsor logo, CORAL Cerveja",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "FootyLogos' 2026-27 kit page also lists 'Front sponsor: Coral Cerveja'. The ECM-Nacional sponsorship was renewed in 2023 for three years (DNOTICIAS, 11 Aug 2023): \"A ECM que produz, vende e distribui as marcas Coral e Brisa ... vai continuar a patrocinar a equipa 'alvinegra', com destaque para a inclusão de publicidade camisola de jogo\"."
       }
     },
     {
       "sponsorId": "madeira-tao-tua",
       "placement": "back",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua back)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "CD Nacional official store: Camisola Kappa Principal - Listada - 2026/2027",
+        "date": "2026-08",
+        "url": "https://www.cdnacional.pt/loja/camisola-kappa-principal-listada-2026-2027/",
+        "note": "Opened 2026-10-03. No text on the page names the back mark; the club's official product photos on this page show the 'Madeira . Tão tua' destination logo on the lower back hem below the numbers, and the club's kit launch article of 1 Aug 2026 (https://www.cdnacional.pt/eis-a-nova-camisola-uma-tradicao-que-orgulha-uma-autenticidade-que-apaixona/) links to this page. Footy Headlines' 26-27 third-kit article (23 Aug 2026) describes the same 'regional Madeira sponsor emblem along the lower back hem' on the purple third shirt. 'Madeira. Tão tua!' is the Associação de Promoção da Madeira's destination brand (see claim madeira-tao-tua-apm-ownership)."
+      }
+    },
+    {
+      "sponsorId": "kappa",
+      "placement": "partner",
+      "source": {
+        "name": "CD Nacional: Eis a nova camisola: \"Uma tradição que orgulha, uma autenticidade que apaixona\"",
+        "date": "2026-08-01",
+        "url": "https://www.cdnacional.pt/eis-a-nova-camisola-uma-tradicao-que-orgulha-uma-autenticidade-que-apaixona/",
+        "quote": "Em parceria com a marca italiana Kappa, o Nacional apresenta um equipamento que honra a sua essência.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Translation: 'In partnership with the Italian brand Kappa, Nacional presents a kit that honours its essence.' Kit maker, recorded as partner per existing convention."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by the Madeira Brewery (Pestana Group) via Coral beer.",
+  "sponsorsComplete": true,
+  "summary": "Front paid for by the Madeira Brewery (Empresa de Cervejas da Madeira, part of the Pestana Group) via Coral beer; the Madeira destination brand 'Madeira. Tão tua' sits on the lower back. Kappa made the kit; the right sleeve carries only the Liga Portugal Betclic badge and there is no shorts or commercial sleeve sponsor (checked against the club's official product photos, 3 Oct 2026).",
   "change": null
 }
