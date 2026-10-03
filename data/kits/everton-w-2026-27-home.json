@@ -9,6 +9,35 @@
   "photos": {},
   "sponsors": [
     {
+      "sponsorId": "cmc-markets",
+      "placement": "front",
+      "source": {
+        "name": "Royal Blue Mersey (SB Nation): Everton unveil new home kits for 2026-27 season",
+        "date": "2026-07-02",
+        "url": "https://royalbluemersey.sbnation.com/everton-news/80996/everton-unveil-new-home-kits-for-2026-27-season-castore-cmc-stake-sponsors",
+        "quote": "will become Everton’s front-of-shirt partner from the 2026-27 season, with its distinctive branding appearing on the Club’s senior Men’s, Women’s and Under-21s kits",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "stake",
+      "placement": "sleeve",
+      "source": {
+        "name": "Royal Blue Mersey (SB Nation): Everton unveil new home kits for 2026-27 season",
+        "date": "2026-07-02",
+        "url": "https://royalbluemersey.sbnation.com/everton-news/80996/everton-unveil-new-home-kits-for-2026-27-season-castore-cmc-stake-sponsors",
+        "quote": "Former main shirt sponsor Stake will move their logo to the sleeve.",
+        "note": "The launched shirt (described as featuring 'Main Partner, CMC Markets, and sleeve partner, Stake') is modelled in the article by Everton Women players Megan Finnigan, Courtney Brosnan, Aurora Galli and Honoka Hayashi alongside the men's team.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "sponsorId": "ggm-gastro",
       "placement": "shorts",
       "source": {
@@ -17,9 +46,23 @@
         "url": "https://www.evertonfc.com/news/2025/october/10/everton-women-partner-with-ggm-gastro/",
         "note": "GGM Gastro became an Official Partner of Everton Women in their first season at Goodison Park, with the brand mark on the back of the shorts worn by Everton Women; article body read via the club's news CMS (article bf9b9b90-a5c2-11f0-a06d-1b26a8313bb6)."
       }
+    },
+    {
+      "sponsorId": "christopher-ward",
+      "placement": "training-kit",
+      "source": {
+        "name": "Prolific North: Everton makes history with latest commercial partnership announcement",
+        "date": "2026-07-09",
+        "url": "https://www.prolificnorth.co.uk/news/everton-makes-history-with-latest-commercial-partnership-announcement/",
+        "quote": "From the 2026/27 season, Christopher Ward branding will appear on the training wear of Everton’s men’s and women’s first teams",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "German catering-equipment supplier GGM Gastro pays for the back of the Everton Women shorts.",
+  "summary": "CMC Markets is on the front and Stake on the sleeve of the Everton Women home shirt; GGM Gastro pays for the back of the shorts and Christopher Ward marks the training wear.",
   "change": null
 }
