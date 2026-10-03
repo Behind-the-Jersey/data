@@ -12,14 +12,36 @@
       "sponsorId": "dazn-bet-club",
       "placement": "front",
       "source": {
-        "name": "AC Monza",
-        "date": "2026-07-01",
-        "url": null,
-        "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey"
+        "name": "AC Monza - DAZN BET CLUB È IL NUOVO OFFICIAL SPONSOR (Internet Archive capture of the club announcement)",
+        "date": "2026-08-13",
+        "url": "https://web.archive.org/web/20260814050012/https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor/",
+        "short": "AC Monza",
+        "quote": "essere Official Sponsor con la presenza sul petto della maglia del club significa condividere questi valori",
+        "note": "Words of Donato Nigro, General Manager of DAZN Bet Club, in the club's announcement of 13-08-2026: 'Official Sponsor with the presence on the chest of the club's shirt'. The same announcement opens: 'AC Monza e DAZN Bet Club annunciano una nuova partnership che vedrà il brand diventare Official Sponsor sulla maglia del Club'. The live club URL (https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor) returned 404 on 2026-10-03, so the Internet Archive capture is cited. The club shop's product photo of the home shirt shows the DAZN Bet Club logo on the chest (https://shop.acmonza.com/maglia-uomo-nike-ac-monza-home-20262027).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "zeroplayer",
+      "placement": "sleeve",
+      "source": {
+        "name": "AC Monza - I nostri sponsors / Partners page (Internet Archive capture)",
+        "date": "2026-09-21",
+        "url": "https://web.archive.org/web/20260921113034/https://www.acmonza.com/it/partners/",
+        "short": "AC Monza",
+        "quote": "SLEEVE SPONSOR",
+        "note": "The club's partners page lists one logo under the 'SLEEVE SPONSOR' heading, linking to zeroplayer.it (AC Monza shop page). The club shop's product photo of the 2026/27 home shirt shows the 'ZeroPlayer by 3R Sport' wordmark on the sleeve (https://shop.acmonza.com/maglia-uomo-nike-ac-monza-home-20262027).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "Nike home shirt in the first season back in Serie A: DAZN Bet Club on the front, ZeroPlayer by 3R Sport on the sleeve. The club's partners page lists no other shirt placement, and the club shop's product photos of the shirt and shorts show no back or shorts sponsor. Nike replaced Lotto as technical sponsor."
 }
