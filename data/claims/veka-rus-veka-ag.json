@@ -1,0 +1,21 @@
+{
+  "id": "veka-rus-veka-ag",
+  "kind": "ownership",
+  "ownerIds": [
+    "veka-ag"
+  ],
+  "text": "The VEKA window business partnering HC Sibir is a subsidiary of the VEKA AG group.",
+  "short": "Veka's Russian operation is a VEKA AG subsidiary.",
+  "source": {
+    "name": "HC Sibir official site: Founders and partners",
+    "date": "2026-10-03",
+    "url": "https://hcsibir.ru/club/founders-and-sponsors/",
+    "quote": "Окна VEKA — является дочерней производственной компанией концерна VEKA AG",
+    "note": "Page has no publication date; fetched 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
