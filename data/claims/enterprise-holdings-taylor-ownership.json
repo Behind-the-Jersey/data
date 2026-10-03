@@ -17,5 +17,18 @@
     },
     "note": "Same page: 'see how a family-owned organization has become a global mobility leader'; 2007 entry: 'the Taylor family acquires the National Car Rental and Alamo Rent a Car brands'."
   },
+  "additionalSources": [
+    {
+      "name": "OFCCP v. Enterprise RAC Company of Baltimore, LLC — ALJ Recommended Findings and Order, July 17, 2019 (copy hosted by Roffman Horvitz PLC), Conclusions of Law no. 3",
+      "date": "2019-07-17",
+      "url": "https://roffmanhorvitz.com/documents/roffman-horvitz-plc-2019-dol-decisions-alj-ofc-2016-enterprise-rac-2016-ofc-00006-july-17-2009.pdf",
+      "quote": "Enterprise is a wholly-owned subsidiary of Enterprise Holdings, Inc.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Stipulation of the parties in the DOL administrative case, tying the Enterprise car-rental subsidiary to Enterprise Holdings, Inc."
+    }
+  ],
   "reviewed": false
 }

@@ -1,0 +1,34 @@
+{
+  "id": "enterprise-arb-reversal-2021",
+  "kind": "record",
+  "ownerIds": [
+    "enterprise-holdings"
+  ],
+  "text": "In November 2021 the U.S. Department of Labor's Administrative Review Board unanimously reversed the 2019 administrative law judge's ruling against Enterprise RAC Company of Baltimore and remanded the case to a different administrative law judge.",
+  "short": "DOL Administrative Review Board reversed the 2019 Enterprise Baltimore ruling (Nov 2021)",
+  "source": {
+    "name": "Employment Advisory Services (EASI): Unanimous ARB Reverses Pro-OFCCP Ruling, Finds ALJ Applied Wrong Legal Theories",
+    "date": "2022-06-24",
+    "url": "https://www.easiconsultants.com/easi-insights/unanimous-arb-reverses-pro-ofccp-ruling-finds-alj-applied-wrong-legal-theories/",
+    "quote": "has unanimously reversed a 2019 DOL administrative law judge’s (ALJ) ruling that a federal contractor violated Executive Order (E.O.) 11246 by committing hiring discrimination",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Decision OFCCP v. Enterprise RAC Co. of Baltimore, LLC, ARB Case No. 2019-0072, dated November 3, 2021. Same article: 'the case has been remanded to a different ALJ for further proceedings consistent with the ARB’s ruling'."
+  },
+  "additionalSources": [
+    {
+      "name": "DirectEmployers Association, OFCCP Week In Review: Unanimous Appellate Court Struck Down ALJ Decision Finding Baltimore Enterprise Rent-a-Car Guilty of Unlawful Race Discrimination",
+      "date": "2022-05-31",
+      "url": "https://directemployers.org/2022/05/31/unanimous-appellate-court-struck-down-alj-decision-finding-baltimore-enterprise-rent-a-car-guilty-of-unlawful-race-discrimination-judge-did-not-understand-title-vii-law/",
+      "quote": "a unanimous Administrative Review Board of the USDOL reversed and remanded the entirety of the 2019 Recommended Decision and Order of USDOL Administrative Law Judge Morris Davis",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same article: a new ALJ (Judge Deidra Howard) was assigned in May 2022 to render a fresh Recommended Decision and Order; the remand outcome is not covered."
+    }
+  ],
+  "reviewed": false
+}
