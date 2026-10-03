@@ -1,0 +1,22 @@
+{
+  "id": "sporting-kansas-city-saint-lukes-sleeve",
+  "clubId": "sporting-kansas-city",
+  "orgName": "Saint Luke's Health System",
+  "sponsorId": "saint-lukes-health-system",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "SportingKC.com: 'Sporting Kansas City and Saint Luke’s team up for new community-affiliated partnership'",
+    "date": "2025-12",
+    "url": "https://www.sportingkc.com/skcii/news/sporting-kansas-city-and-saint-luke-s-team-up-for-new-community-affiliated-partnership",
+    "quote": "The historic Saint Luke’s logo will be proudly worn as a patch on the right sleeve of Sporting KC’s primary and secondary jerseys on gamedays",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Multi-year partnership announced December 2025, effective from the 2026 MLS season. The Kansas City Star reports (citing the Kansas City Business Journal, paywalled) that the pact runs through 2031; that end date could not be verified by script, so 'to' is null."
+  },
+  "note": "Right-sleeve patch plus training-gear fronts; official health care provider. Value not disclosed."
+}
