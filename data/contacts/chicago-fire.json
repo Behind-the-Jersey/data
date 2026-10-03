@@ -2,23 +2,54 @@
   "clubId": "chicago-fire",
   "channels": [
     {
+      "type": "website",
+      "value": "https://www.chicagofirefc.com",
+      "label": "Club website",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.chicagofirefc.com",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.chicagofirefc.com/inquiries",
+      "label": "General inquiries page - no fan email address published",
+      "source": {
+        "name": "Club website – General Inquiries",
+        "url": "https://www.chicagofirefc.com/inquiries",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 872-710-0790",
+      "label": "Customer Service / Lost & Found",
+      "source": {
+        "name": "Club website – General Inquiries",
+        "url": "https://www.chicagofirefc.com/inquiries",
+        "date": "2026-10-02",
+        "quote": "Chicago Fire Football Club Customer Service / Lost & Found: 872-710-0790"
+      }
+    },
+    {
       "type": "x",
       "value": "@ChicagoFire",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website",
         "url": "https://www.chicagofirefc.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-02"
       }
     },
     {
       "type": "instagram",
       "value": "@chicagofire",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website",
         "url": "https://www.chicagofirefc.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-02"
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-02"
 }
