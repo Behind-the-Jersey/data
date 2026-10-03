@@ -1,0 +1,44 @@
+{
+  "id": "aroya-cruise-saudi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "cruise-saudi",
+    "saudi-pif"
+  ],
+  "text": "AROYA Cruises is a cruise line launched by Cruise Saudi, a company owned by Saudi Arabia's Public Investment Fund (PIF).",
+  "short": "AROYA Cruises belongs to Cruise Saudi, a PIF-owned company.",
+  "source": {
+    "name": "Public Investment Fund (Newswire): PIF-owned Cruise Saudi launches new cruise line",
+    "date": "2023-06-18",
+    "url": "https://www.pif.gov.sa/en/news-and-insights/newswire/2023/pif-owned-cruise-saudi-launches-new-cruise-line",
+    "quote": "Cruise Saudi, a PIF company, has announced the launch of its own cruise line",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Saudi Press Agency: Aroya Cruises Sets Sail for Mediterranean Ahead of New Season Launch",
+      "date": "2025-06-13",
+      "url": "https://spa.gov.sa/en/N2339205",
+      "note": "Page shows Hijri date 1446-12-17; the article's published timestamp is 13 June 2025.",
+      "quote": "Aroya Cruises, the first Arab cruise line in the Kingdom and a subsidiary of the Public Investment Fund’s (PIF) wholly-owned Cruise Saudi",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Breaking Travel News: AROYA Cruises Renews Sponsorship Agreement with Al Nassr FC for the 2026-27 Season",
+      "date": "2026-07-30",
+      "url": "https://www.breakingtravelnews.com/news/article/aroya-cruises-renews-sponsorship-agreement-with-al-nassr-fc-for-the-2026-27/",
+      "quote": "AROYA Cruises, the first Arabian cruise line, launched by Cruise Saudi, a Public Investment Fund owned company",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
