@@ -1,12 +1,18 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Online insurance broker wholly owned by Rasan, a Saudi-listed fintech. Nothing found.",
+  "claimIds": [
+    "tameeni-rasan-ownership",
+    "rasan-substantial-shareholders"
+  ],
+  "aliases": [
+    "Tameeni",
+    "تأميني"
+  ],
+  "note": "Rating note: Rasan's shareholders with 5% or more are private funds and individuals per its IPO prospectus; none is a state or state fund, so the link to a state record fails (METHOD.md). Al Riyadh announced Tameeni as a sponsor on 28 Aug 2025 (riyadhclub.sa)."
 }

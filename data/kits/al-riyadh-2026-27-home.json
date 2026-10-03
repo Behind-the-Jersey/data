@@ -15,17 +15,27 @@
         "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
         "date": "2026-06-15",
         "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "quote": "Al-Riyadh | Science Technology | Black Panther",
+        "note": "Table of each club's main shirt sponsor and kit manufacturer; the page says the details reflect confirmed 2025/26 contracts carrying into 2026/27.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "tameeni-insurance",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Al Riyadh Club – Tameeni official sponsor of Al Riyadh (riyadhclub.sa)",
+        "date": "2025-08-28",
+        "url": "https://riyadhclub.sa/%D8%AA%D8%A3%D9%85%D9%8A%D9%86%D9%8A-%D8%B1%D8%A7%D8%B9%D9%8A%D9%8B%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A%D9%8B%D8%A7-%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+        "quote": "أعلنت إدارة نادي الرياض عن توقيع عقد رعاية جديد مع منصة “تأميني” الرائدة في مجال وساطة التأمين الطبي وتأمين السيارات",
+        "note": "Club announcement that Tameeni is a sponsor (English: the club management announced a new sponsorship contract with the Tameeni platform, a leader in medical insurance brokerage and car insurance). The front placement is kept from the season's kit listings; no text source confirms it on the 2026/27 home shirt (Tameeni appears on the chest of the club's 2025/26 away player shirt).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -35,21 +45,26 @@
         "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
         "date": "2026-08-24",
         "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "note": "Official league gallery of the 2026-27 kits (photo gallery; the back placement is read from the Al Riyadh kit photo, which a script cannot quote)."
       }
     },
     {
       "sponsorId": "black-panther",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Al-Riyadh. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "quote": "Al-Riyadh | Science Technology | Black Panther",
+        "note": "Same table: Black Panther is listed as Al-Riyadh's kit manufacturer for 2026/27. The league's kit gallery photos also carry the Black Panther logo.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Black Panther home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "summary": "Black Panther home kit (unchanged design from 2025/26). 433FC lists Science Technology as main shirt sponsor and Black Panther as kit maker for 2026/27; the club announced Tameeni as a sponsor in August 2025. The launch and retail shirt images carry no sponsor print, and the back/sleeve breakdown is not confirmed by a text source, so the sponsor list is not complete.",
   "change": null
 }

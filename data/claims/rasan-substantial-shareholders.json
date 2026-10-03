@@ -1,0 +1,19 @@
+{
+  "id": "rasan-substantial-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "The shareholders who directly own 5% or more of Rasan Information Technology Company are Impact Funds for Financial Technology Company, Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan, Mohammed Muheideb Ali AlMuheideb and Assets Custody Development Impact Company for Communications and Information Technology.",
+  "source": {
+    "name": "Rasan Information Technology Company Prospectus (CMA), Substantial Shareholders",
+    "date": "2024-05",
+    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+    "quote": "Substantial Shareholders who directly own 5% or more of the Company’s Shares are: (1) Impact Funds for Financial Technology Company, (2) Theib Hudeiban Ghallab AlMutairi, (3) Muheideb Ali Mohammed AlMuheideb",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
