@@ -74,12 +74,12 @@
         "name": "SailGP team page - NorthStar Canada (Team Suppliers)",
         "date": "2026-10-03",
         "url": "https://www.sailgp.com/teams/canada/",
-        "quote": "Canada SailGP Team | Team Suppliers",
+        "quote": "Qinetix Logo White - Canada SailGP Team Supplier",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         },
-        "note": "The team page is fully client-rendered, so no partner name survives in the page's script-stripped text; the page's data lists Qinetix (with its logo, qinetixsolutions.co.uk) in the 'Canada SailGP Team | Team Suppliers' group. No press release for this partnership was found."
+        "note": "The team page is fully client-rendered: its partner data (including each partner's logo title) is embedded in the page source, and the rendered partner block shows Qinetix, with a link to qinetixsolutions.co.uk, in the 'Canada SailGP Team | Team Suppliers' group. The quote is the title of the Qinetix logo asset as carried on the page (view-source: \"Qinetix Logo White - Canada SailGP Team Supplier\"). No press release for this partnership was found."
       }
     },
     {
@@ -113,6 +113,6 @@
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Canada's team has no title sponsor; NorthStar is the team's own brand since its November 2024 rebrand from Canada SailGP Team (sail-world.com, 6 Nov 2024). The team page's partner block (sailgp.com/teams/canada, opened 2026-10-03) lists Official Partners Butterfield, FlyHouse and Juvenescence and Team Suppliers Quiksilver, Qinetix, Sports Illustrated and Waterspeed, each documented here by a team, partner or company announcement. Not recorded as sponsors: WeCANFoil, listed under Purpose Partners (the team's community/Impact-League programme), and the team's own name NorthStar, which is not a separate sponsor company.",
+  "summary": "Canada's team has no title sponsor; NorthStar is the team's own brand since its November 2024 rebrand from Canada SailGP Team (sail-world.com, 6 Nov 2024). The team page's partner block (sailgp.com/teams/canada, opened 2026-10-03) lists Official Partners Butterfield, FlyHouse and Juvenescence and Team Suppliers Quiksilver, Qinetix, Sports Illustrated and Waterspeed, each documented here by a team, partner or company announcement. Not recorded as sponsors: WeCANFoil, listed under the page's Purpose Partner group (the team's community/Impact-League programme), and the team's own name NorthStar, which is not a separate sponsor company.",
   "change": null
 }
