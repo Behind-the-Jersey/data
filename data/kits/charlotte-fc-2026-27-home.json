@@ -12,13 +12,64 @@
       "sponsorId": "ally",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "Charlotte FC: 'Charlotte FC Reveals New Primary Kit Ahead of 2026 Season'",
+        "date": "2026-02-10",
+        "url": "https://www.charlottefootballclub.com/news/charlotte-fc-reveals-new-primary-kit-ahead-of-2026-season",
+        "quote": "Ally Financial, Charlotte FC’s lead and founding partner, is represented as the front-of-kit sponsor as it has for each kit in the Club’s history.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club announcement of the 2026 primary kit, the Carolina Kit: Crowns Up by adidas. For Soccer's 2026 MLS jersey-sponsor review (2026-02-17) lists the same front partner: 'Charlotte FC | Ally | Financial Services'."
+      }
+    },
+    {
+      "sponsorId": "rugs-com",
+      "placement": "sleeve",
+      "source": {
+        "name": "Charlotte FC: 'Charlotte FC Reveals New Primary Kit Ahead of 2026 Season'",
+        "date": "2026-02-10",
+        "url": "https://www.charlottefootballclub.com/news/charlotte-fc-reveals-new-primary-kit-ahead-of-2026-season",
+        "quote": "Rugs.com will also be the sleeve sponsor for the third season and can be found on the right sleeve of the kit.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Rugs.com became the club's official sleeve partner in July 2024 (club announcement of 2024-07-02); the 2026 kit release confirms the third season on the right sleeve."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "Sportico: 'MLS to Allow Teams to Sell Ads on Lower Back of Jerseys'",
+        "date": "2026-02-26",
+        "url": "https://www.sportico.com/business/sponsorship/2026/mls-jersey-patch-lower-back-ads-1234885704/",
+        "quote": "A second sleeve patch was sold to Apple, the league’s media partner, for all 30 teams.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide left-sleeve patch; For Soccer's 2026 review lists Apple TV on the left sleeve of every MLS club, including Charlotte FC."
+      }
+    },
+    {
+      "sponsorId": "frigidaire",
+      "placement": "back",
+      "source": {
+        "name": "Charlotte FC: 'Charlotte FC Names Frigidaire as First-Ever Back-of-Kit Partner'",
+        "date": "2026-08-13",
+        "url": "https://www.charlottefootballclub.com/news/charlotte-fc-names-frigidaire-as-first-ever-back-of-kit-partner",
+        "quote": "logo will appear below player numbers on the back of all Charlotte FC kits",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Full sentence on the page: 'Beginning with this weekend's match against the Columbus Crew, the Frigidaire® logo will appear below player numbers on the back of all Charlotte FC kits.' MLS opened the lower-back ad space after the 2026 All-Star break."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "The Carolina Kit: Crowns Up, the club's 2026 primary kit by adidas. Ally Financial is on the front for the fifth season; Rugs.com is on the right sleeve for a third season; the league-wide Apple TV+ patch sits on the left sleeve; from August 2026 Frigidaire's logo appears below the numbers on the back under a new MLS back-of-kit asset."
 }
