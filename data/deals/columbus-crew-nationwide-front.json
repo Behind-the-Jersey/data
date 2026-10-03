@@ -1,0 +1,29 @@
+{
+  "id": "columbus-crew-nationwide-front",
+  "clubId": "columbus-crew",
+  "orgName": null,
+  "sponsorId": "nationwide",
+  "placement": "front",
+  "from": "2021",
+  "to": null,
+  "value": {
+    "amount": 3,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 3
+  },
+  "source": {
+    "name": "SportsPro – 'Columbus Crew score US$3m a year Nationwide shirt deal from 2021'",
+    "date": "2020-02-28",
+    "url": "https://www.sportspro.com/news/columbus-crew-nationwide-shirt-sponsor-deal-2021-mls/",
+    "quote": "the club are reportedly set to earn more than US$3 million per season from the deal, according to the Columbus Dispatch.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "short": "SportsPro"
+  },
+  "note": "Multi-year jersey partnership beginning in 2021; Nationwide remains the front sponsor on the 2026-27 home kit. The figure is a Columbus Dispatch report cited by SportsPro, and the article says 'more than US$3 million per season', so it is a floor rather than a cap. In 2026 Nationwide also agreed to buy a reported 37% stake in the Crew's ownership group (Sportico, 29 May 2026; club/PR Newswire announcement, 25 June 2026) — a club-ownership fact, not a shirt deal."
+}
