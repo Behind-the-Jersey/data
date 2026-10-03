@@ -7,10 +7,10 @@
   "text": "The Bank of Russia is the Central Bank of the Russian Federation; its status, goals, functions and powers are defined by the federal law 'On the Central Bank of the Russian Federation (Bank of Russia)'.",
   "short": "Bank of Russia is the Russian Federation's central bank",
   "source": {
-    "name": "Bank of Russia (cbr.ru): О Банке России (About the Bank of Russia)",
+    "name": "Bank of Russia (cbr.ru): О Банке России (About the Bank of Russia) — archived copy, snapshot 2025-01-14",
     "date": "2025",
-    "url": "https://www.cbr.ru/about_br/",
-    "note": "Official page of the central bank (Russian). Undated; the page shows 'Last updated: 16.12.2025'. English translation of the quote: 'The status, goals, functions and powers of the Bank of Russia are determined by the federal law of 10.07.2002 No. 86-FZ \"On the Central Bank of the Russian Federation (Bank of Russia)\"'.",
+    "url": "https://web.archive.org/web/20250114122312/https://cbr.ru/about_br/",
+    "note": "Archived copy of the central bank's official page (Russian). English translation of the quote: 'The status, goals, functions and powers of the Bank of Russia are determined by the federal law of 10.07.2002 No. 86-FZ \"On the Central Bank of the Russian Federation (Bank of Russia)\"'. The live page (https://www.cbr.ru/about_br/, last updated 16.12.2025) carries the same statement but answers the checker's scripts with 403, so the archived copy is cited.",
     "quote": "Статус, цели, функции и полномочия Банка России определяются Федеральным законом от 10.07.2002 № 86-ФЗ «О Центральном банке Российской Федерации (Банке России)»",
     "checked": {
       "on": "2026-10-03",
@@ -19,10 +19,10 @@
   },
   "additionalSources": [
     {
-      "name": "NSPK (National Payment Card System): О компании (About NSPK)",
+      "name": "NSPK (National Payment Card System): О компании (About NSPK) — live page",
       "date": "2026",
       "url": "https://www.nspk.ru/about/company/",
-      "note": "The same page names the owner as the 'Центральный банк Российской Федерации' (Central Bank of the Russian Federation). The site's TLS chain fails Python's verification for our checker; quote verified with curl.",
+      "note": "The NSPK page names the owner as the 'Центральный банк Российской Федерации' (Central Bank of the Russian Federation). Its TLS chain fails Python's verification for our checker (verified with curl); an archived copy is cited on the nspk-owned-by-bank-of-russia claim.",
       "quote": "100% акций АО «НСПК» принадлежит Центральному банку Российской Федерации",
       "checked": {
         "on": "2026-10-03",
