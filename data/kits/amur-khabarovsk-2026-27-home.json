@@ -12,13 +12,34 @@
       "sponsorId": "olimpbet",
       "placement": "partner",
       "source": {
-        "name": "HC Amur official site",
-        "date": "2026-09-25",
-        "url": "https://hcamur.ru/"
+        "name": "HC Amur official site, club partners block",
+        "date": "2026-10-03",
+        "url": "https://hcamur.ru/",
+        "note": "The \"Партнёры ХК «Амур»\" block lists the Olimpbet logo as official partner; the caption under the logo is quoted. Olimpbet logos also appear on the goaltender mask in September 2026 home fixtures.",
+        "quote": "Официальный партнёр",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "laggar",
+      "placement": "partner",
+      "source": {
+        "name": "HC Amur official site, club partners block",
+        "date": "2026-10-03",
+        "url": "https://hcamur.ru/",
+        "note": "The Laggar logo is listed as the club's supplier (\"Поставщик\") in the same partners block; listed as partner per the convention for equipment suppliers.",
+        "quote": "Официальный партнёр Поставщик Правительство Хабаровского края",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. Olimpbet official partner per the club site; front-of-shirt sponsor not yet sourced.",
+  "summary": "2026-27 home kit. The club site lists Olimpbet (official partner; its logo is also on the goaltender mask in September 2026 home fixtures) and Laggar (supplier) as club partners, plus the Khabarovsk Krai government coat of arms without a role label. Match photos show no club sponsor on the shirt chest, sleeves or back — only KHL league marks (Mir chest patch, Sogaz on helmets); the goaltender's blocker and pants could not be fully checked.",
   "change": null
 }
