@@ -1,12 +1,17 @@
 {
   "id": "cenomi",
   "name": "Cenomi",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Al-Ahli back sponsor."
+  "ownerId": "cenomi-centers",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Cenomi Centers, a Saudi-listed shopping-centre developer; its largest shareholder is the Alhokair family's FAS Real Estate Company (26.89% at 31 December 2025). Nothing in its ownership chain passes the rating test.",
+  "claimIds": [
+    "cenomi-centers-largest-shareholder"
+  ],
+  "aliases": [
+    "Cenomi Centers",
+    "Cenomi Centers (Arabian Centres Company)"
+  ],
+  "note": "Al-Ahli partner since December 2024; the Cenomi logo appears on the back of the first team's jersey under the partnership extended to 2031."
 }

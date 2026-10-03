@@ -1,0 +1,33 @@
+{
+  "id": "lean-pif-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lean-business-services",
+    "saudi-pif"
+  ],
+  "text": "The Public Investment Fund's 2024 consolidated financial statements list Lean Company for Business Services among its subsidiaries, with a 100% ownership interest.",
+  "short": "PIF owns 100% of Lean Business Services",
+  "source": {
+    "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 40 (list of subsidiaries)",
+    "date": "2025-06-29",
+    "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+    "quote": "Lean Company for Business Services Information Technology 100.00%  100.00%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Lean Business Services: Lean Business Services, a Gold Sponsor for Al Ahli FC for the 2026–2027 Season",
+      "date": "2026-08-11",
+      "url": "https://lean.sa/en/news/lean-business-services-a-gold-sponsor-for-al-ahli-fc-for-the-2026-2027-season",
+      "quote": "Lean Business Services, a Public Investment Fund (PIF) company, will join its official partner portfolio as a Gold Sponsor for the 2026–2027 season",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cenomi-centers-largest-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "cenomi-centers"
+  ],
+  "text": "Cenomi Centers' annual report for 2025 lists FAS Real Estate Company Limited as its largest shareholder, with 26.89% of its capital as of 31 December 2025.",
+  "short": "Cenomi Centers' largest shareholder is the Alhokair family's FAS Real Estate (26.89%)",
+  "source": {
+    "name": "Cenomi Centers: Annual Report 2025 (substantial-shareholdings table, Tadawul records as of 31/12/2025)",
+    "date": "2026-04",
+    "url": "https://centers.cenomi.com/wp-content/uploads/sites/2/2026/04/CENOMI_EN_Annual_Report_Tadwul.pdf",
+    "quote": "FAS Real Estate Company Limited 133,143,550 28.03% 127,706,683 26.89%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
