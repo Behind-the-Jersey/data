@@ -12,22 +12,94 @@
       "sponsorId": "placard",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Moreirense FC: Placard.pt é o novo main sponsor do Moreirense",
+        "date": "2026",
+        "url": "https://moreirensefc.pt/placard-pt-e-o-novo-main-sponsor-do-moreirense",
+        "quote": "Esta parceria contempla a presença de marca na frente das camisolas da equipa principal",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club announcement (page undated). Translation: 'This partnership includes brand presence on the front of the first team's shirts.' The same page names Placard.pt's owner as SAS Apostas Sociais, Jogos e Apostas Online S.A. (Jogos Santa Casa). The brand sits across the chest of the 2026/27 home shirt in the club's own shop and in launch photography."
       }
     },
     {
       "sponsorId": "tvi",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (tvi front)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Moreirense FC official shop: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+        "quote": "Camisola Principal Temporada 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The page's front render of the 2026/27 home shirt (Camisola_Frente_S_Liga.png, embedded in the customizer) shows the 'tvi' logo at the top of the chest, above the Placard.pt main sponsor; same in worn kit at launch and in match photography. Page undated."
+      }
+    },
+    {
+      "sponsorId": "lus-iadas",
+      "placement": "sleeve",
+      "source": {
+        "name": "Moreirense FC official shop: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+        "quote": "Camisola Principal Temporada 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The page's front render (Camisola_Frente_S_Liga.png) shows the 'Lusíadas' logo on the right sleeve; worn-kit launch photography (footylogos.com/kits/moreirense-2026-27) shows Lusíadas on both sleeves. Page undated."
+      }
+    },
+    {
+      "sponsorId": "nutribio",
+      "placement": "back",
+      "source": {
+        "name": "Moreirense FC official shop: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+        "quote": "Camisola Principal Temporada 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The page's back render (Camisola_Tras.png, embedded in the customizer) shows 'NUTRIBIO THE BIO LIFESTYLE' on the upper back, above the number area. Page undated."
+      }
+    },
+    {
+      "sponsorId": "zome-guimaraes-asa",
+      "placement": "back",
+      "source": {
+        "name": "Moreirense FC official shop: Camisola Principal 26/27",
+        "date": "2026",
+        "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+        "quote": "Camisola Principal Temporada 26/27",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The page's back render (Camisola_Tras.png) shows 'ZOME REAL ESTATE GUIMARÃES ASA' on the lower back, below the number area. Page undated."
+      }
+    },
+    {
+      "sponsorId": "cdt",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Moreirense 26-27 Home Kit Revealed",
+        "date": "2026-07-16",
+        "url": "https://www.footyheadlines.com/7659720662/moreirense-26-27-home-kit-revealed.html",
+        "quote": "Made by CDT, the new kit will be worn in the upcoming Portuguese Primeira Liga campaign.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker, recorded as partner per existing convention; CDT's own site lists Moreirense FC under 'Sponsor' (cdt-equipamentos.com/moreirense-fc)."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Jogos Santa Casa via Placard; TVI on the front.",
+  "summary": "Placard.pt (Jogos Santa Casa) across the front, tvi at the top of the chest, Lusíadas on the sleeve, Nutribio and Zome Guimarães ASA on the back; kit made by CDT. Not marked complete: no cited source shows the back of the shorts.",
   "change": null
 }
