@@ -1,17 +1,17 @@
 {
   "id": "letsgo",
   "name": "Let's Go Motorhomes",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "ownerId": "jayco-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Australian motorhome rental company owned by Jayco, the family-owned RV maker; nothing found.",
   "claimIds": [
-    "letsgo-jayco-backed-ownership"
+    "letsgo-jayco-acquisition-ownership"
   ],
   "aliases": [
     "lets go motorhomes",
     "let's go motorhomes"
   ],
-  "note": "Australian motorhome and campervan rental company; its 'letsgo' mark is on the collar and lower back of the 2026 Team Jayco AlUla jersey. Its own site says it is 'proudly backed by Jayco, Australia's largest manufacturer of recreational vehicles' (claim letsgo-jayco-backed-ownership) — that says 'backed by', not 'owned by', so the owner is not identified and the sponsor stays unrated per the method (a 'Nothing found' rating needs a claim that names its owner). Stronger but uncitable lead: a third-party blog (hittheroad.rentals) calls Let's Go Motorhomes 'the rental arm of Jayco'; the site's own pages don't state ownership. No human-rights finding about Let's Go Motorhomes was found."
+  "note": "Australian motorhome and campervan rental company; its 'letsgo' mark is on the collar and lower back of the 2026 Team Jayco AlUla jersey. A January 2017 press release says Jayco acquired the rental company Around Australia Motorhomes and rebranded it as Let's Go Motorhomes, and the company's own site still says it is 'proudly backed by Jayco' (claim letsgo-jayco-acquisition-ownership), so Jayco Corporation is the owner. No human-rights finding about Let's Go Motorhomes was found."
 }
