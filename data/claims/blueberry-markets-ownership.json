@@ -1,0 +1,32 @@
+{
+  "id": "blueberry-markets-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "blueberry-markets"
+  ],
+  "text": "Blueberry is the brand of Blueberry Markets, an Australian forex trading company whose managing director is Dean Hyde.",
+  "short": "Blueberry is the brand of Blueberry Markets.",
+  "source": {
+    "name": "Blueberry Markets: It's always a good time to make your money work for you",
+    "date": "2021-04-01",
+    "url": "https://blueberrymarkets.com/market-analysis/its-always-a-good-time-to-make-your-money-work-for-you",
+    "quote": "Dean Hyde, managing director of our Australian Forex trading company, Blueberry Markets.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Blueberry Markets: Legal Documentation",
+      "date": "2026",
+      "url": "https://blueberrymarkets.com/legal-documents",
+      "quote": "2026 Blueberry Markets Pty Ltd. All rights reserved.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

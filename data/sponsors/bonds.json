@@ -1,14 +1,26 @@
 {
   "id": "bonds",
   "name": "Bonds",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "gildan-activewear",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Bonds is a HanesBrands brand; Gildan Activewear acquired HanesBrands on 1 December 2025. A proposed Concern rating (2023 Honduran Supreme Court ruling against Gildan) awaits a maintainer, and Gildan's agreed sale of the HanesBrands Australia business, which includes Bonds, to BBFIT Investments Pte Ltd is expected to close in the second half of 2026.",
+  "claimIds": [
+    "gildan-san-miguel-court",
+    "gildan-hanesbrands-bonds-ownership"
+  ],
   "aliases": [
     "BONDS"
   ],
-  "note": "Australian clothing brand; title sponsor of the rebranded BONDS Flying Roos since June 2025 (SailGP press release, 5 Jun 2025). Ownership chain (Hanesbrands, then Gildan, per Wikipedia lead) not verified to a primary source; ownerId left null."
+  "why": {
+    "text": "Bonds is a brand of HanesBrands, which the listed Canadian apparel maker Gildan Activewear acquired on 1 December 2025. In 2023 Honduras' Supreme Court of Justice ruled that Gildan's San Miguel factory had violated workers' human and labour rights and unjustly dismissed five women workers who had occupational illnesses or injuries.",
+    "claimIds": [
+      "gildan-san-miguel-court",
+      "gildan-hanesbrands-bonds-ownership"
+    ],
+    "messageLine": "In 2023 Honduras' Supreme Court of Justice found that Gildan's San Miguel factory had violated workers' human and labour rights and unjustly dismissed five women workers with occupational injuries.",
+    "status": "draft"
+  },
+  "note": "Rating note (proposed concern): the link is the ownership claim gildan-hanesbrands-bonds-ownership - Bonds is a HanesBrands brand, and Gildan acquired HanesBrands (Ragtrader; Gildan's own FAQ). The record is the claim gildan-san-miguel-court - a 2023 judgment of Honduras' Supreme Court of Justice against Gildan San Miguel, corroborated by PRI and CoDevelopment Canada, within 20 years. Judgement call for a maintainer: METHOD.md's company test lists forced or child labour, deaths or injuries, discrimination and abuse of communities; the court found violations of workers' human and labour rights and the unjust dismissal of five women with occupational injuries, which this proposes reads as a labour-rights/injury finding. Not used: the Fair Labor Association's 2018 Third Party Complaint report on Gildan's Star facility (freedom of association), and the 2023 San Miguel closure that followed the ruling. Open issue: Gildan agreed in July 2026 to sell the HanesBrands Australia business (which includes Bonds) to BBFIT Investments Pte Ltd, expected to close in the second half of 2026; this rating rests on Gildan as the owner while the sale is pending."
 }
