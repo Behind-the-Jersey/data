@@ -1,0 +1,60 @@
+{
+  "id": "akkodis-asp-team-2026-home",
+  "clubId": "akkodis-asp-team",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "akkodis",
+      "placement": "front",
+      "source": {
+        "name": "FIAWEC.com — Akkodis unveils new-look Lexus for LMGT3 title tilt",
+        "date": "2026-01-31",
+        "url": "https://www.fiawec.com/en/news/akkodis-unveils-new-look-lexus-for-lmgt3-title-tilt/8624",
+        "note": "The championship's report on the team's 2026 launch. The title sponsor Akkodis is carried in the team's name (mapped to front, mirroring the MotoGP research); the team's presentation page records that AKKA Technologies became the title sponsor in 2015 and the site now carries the Akkodis name with links to akkodis.com.",
+        "quote": "Akkodis ASP Team has taken the wraps off the pair of Lexus RC F LMGT3 cars with which it will head into battle in the FIA World Endurance Championship this season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "lexus",
+      "placement": "partner",
+      "source": {
+        "name": "Lexus Europe Newsroom — Lexus on pole position at Spa-Francorchamps",
+        "date": "2026-05-08",
+        "url": "https://newsroom.lexus.eu/lexus-on-pole-position-at-spa-francorchamps/",
+        "note": "Lexus's own newsroom report on the 2026 FIA WEC season: the manufacturer's RC F LMGT3 cars are entered by AKKODIS ASP Team.",
+        "quote": "Two RC F LMGT3 cars entered by AKKODIS ASP Team will compete in the 6 Hours of Spa-Francorchamps on Saturday",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "matmut",
+      "placement": "partner",
+      "source": {
+        "name": "Akkodis ASP Team — presentation (The Matmut Partnership)",
+        "date": "2026",
+        "url": "https://www.akkodis-asp-team.com/en/presentation.php",
+        "note": "The team's own presentation page, under 'The Matmut Partnership'. Matmut's logo also stands as a featured partner on the team's homepage. The sourced support covers the team as a whole (its 2026 FFSA GT4 programme), not a named position on a shirt; no placement on the WEC car or team wear is documented.",
+        "quote": "Matmut continues its active support within Akkodis ASP Team in 2026",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 Akkodis ASP Team, running the #78 and #87 Lexus RC F LMGT3 entries in the FIA World Endurance Championship. Akkodis, the digital-engineering brand in the team's name, is the title sponsor (front); Lexus supplies the cars, and Matmut continues its support of the team in 2026 per the team's own presentation page. The team's homepage shows seven more partners as logos only (Minerva, BLS Remorques, Beaubelique, Ice Cap, HBI, Alizon, HaloP1), without names or descriptions, so they aren't sourced yet.",
+  "change": null
+}
