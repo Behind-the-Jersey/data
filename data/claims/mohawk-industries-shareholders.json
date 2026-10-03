@@ -1,0 +1,21 @@
+{
+  "id": "mohawk-industries-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "mohawk-industries"
+  ],
+  "text": "Mohawk Industries Inc. (NYSE: MHK), the listed US parent of Unilin, is widely held: its 2026 proxy statement names as its only known holders of more than 5% of its common stock Jeffrey S. Lorberbaum (16.5% beneficially, including the 13.3% held by the family partnership Aladdin Partners, L.P.) and the asset managers BlackRock, Inc. (9.9%) and Dimensional Fund Advisors (5.1%); no state or state fund is listed.",
+  "short": "Mohawk Industries 5%+ holders: Lorberbaum/Aladdin 16.5%, BlackRock 9.9%, Dimensional 5.1%.",
+  "source": {
+    "name": "Mohawk Industries, Inc. DEF 14A 2026 Proxy Statement (SEC EDGAR)",
+    "date": "2026-04-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/851968/000110465926039491/tm261333-4_def14a.htm",
+    "quote": "known by the Company to beneficially own more than five percent (5%) of the outstanding shares of the Common Stock",
+    "note": "Stock Ownership Information table, beneficial ownership as of 27 March 2026: Jeffrey S. Lorberbaum 10,078,475 shares (16.5%), of which 8,132,685 (13.3%) are held by Aladdin Partners, L.P.; BlackRock, Inc. 6,071,097 (9.9%, Schedule 13G of 21 Jan 2026); Dimensional Fund Advisors LP 3,138,557 (5.1%).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

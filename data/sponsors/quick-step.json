@@ -1,14 +1,19 @@
 {
   "id": "quick-step",
   "name": "Quick-Step",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "unilin",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "unilin"
+  "status": "being-rated",
+  "verdict": "Quick-Step is an Unilin flooring brand; Unilin is part of the US-listed Mohawk Industries Inc.",
+  "claimIds": [
+    "quick-step-unilin-brand",
+    "unilin-mohawk",
+    "mohawk-industries-shareholders"
   ],
-  "note": "Flooring brand; part of the Unilin Group."
+  "aliases": [
+    "unilin",
+    "quick-step floors"
+  ],
+  "note": "Unilin flooring brand. Mohawk Industries is widely held; its 5%+ holders are documented in the mohawk-industries-shareholders claim (2026 proxy): Lorberbaum family 16.5%, BlackRock 9.9%, Dimensional 5.1%, no state or state fund. Rating note: on hold for a maintainer. NewsChannel 9 (WTVC, 2018-03-20, https://newschannel9.com/news/local/mohawk-worker-killed-in-accident-at-murray-county-plant-tuesday) reports two worker deaths at Mohawk's Chatsworth, Georgia plant within six months: Vickie Dyer, killed 1 September 2017, for which OSHA fined Mohawk almost $13,000, and Roy Glenn Bass, killed 20 March 2018 (OSHA notified; outcome not opened). Whether a paid OSHA penalty for a fatal industrial accident is a regulator finding of deaths or injuries under METHOD (which would set Concern) is a maintainer's decision."
 }

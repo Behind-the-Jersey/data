@@ -1,0 +1,21 @@
+{
+  "id": "safety-jogger-cortina",
+  "kind": "ownership",
+  "ownerIds": [
+    "cortina-group"
+  ],
+  "text": "Safety Jogger is a brand of the Cortina Group: Cortina is a family-owned Belgian shoe company founded in 1950, and Safety Jogger (founded 2000) is one of its main brands.",
+  "short": "Safety Jogger is a brand of the family-owned Cortina Group.",
+  "source": {
+    "name": "Safety Jogger: About Safety Jogger",
+    "date": "2026",
+    "url": "https://www.safetyjogger.com/en/eu/about",
+    "quote": "Our roots go back to 1950, when a small and family-owned shoe company Cortina was founded in Belgium.",
+    "note": "Same page: 'Safety Jogger was founded in 2000 and quickly became one of the main brands' and 'Being part of Cortina allowed us to grow fast'; footer names FLA Europe NV, Oudenaarde. Page without a date; opened 2026-10-01.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

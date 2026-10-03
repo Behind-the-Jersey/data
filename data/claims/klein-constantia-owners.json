@@ -1,0 +1,21 @@
+{
+  "id": "klein-constantia-owners",
+  "kind": "ownership",
+  "ownerIds": [
+    "klein-constantia-estate"
+  ],
+  "text": "Klein Constantia was acquired in May 2011 by Zdenek Bakala and Charles Harman, who still steward the estate.",
+  "short": "Klein Constantia is owned by Zdenek Bakala and Charles Harman since 2011.",
+  "source": {
+    "name": "Klein Constantia: Our Story",
+    "date": "2026",
+    "url": "https://www.kleinconstantia.com/our-story/",
+    "quote": "In May 2011, the estate is acquired by Zdenek Bakala and Charles Harman",
+    "note": "Page without a date; timeline section '2011 – A New Chapter'. Opened 2026-10-01.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
