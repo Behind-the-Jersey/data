@@ -1,0 +1,34 @@
+{
+  "id": "betitaly-pay-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gi-lu-pi-srl"
+  ],
+  "text": "The BetItalyPay brand's website is published under the company details of GI.LU.PI. S.r.l. a S.U., a single-member company with registered office in Tricase, in the province of Lecce, whose PEC address (gilupi@arubapec.it) the same page lists under contacts.",
+  "short": "BetItalyPay is run by GI.LU.PI. S.r.l. of Tricase (Lecce)",
+  "source": {
+    "name": "BetItalyPay – 'BetItalyPay Celebra i 117 Anni dell'U.S. Lecce sulla Maglia Commemorativa' (company news page with site footer)",
+    "date": "2025-04-30",
+    "url": "https://www.betitalypay.it/news/betitalypay-celebra-i-117-anni-dellu-s-lecce-sulla-maglia-commemorativa",
+    "quote": "GI.LU.PI. S.R.L. a S.U. P.I. 03350310755 Via Lecce, 22 - 73039 Tricase (LE)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Company details taken from the site footer, which also carries the BetItalyPay logo; the same footer appears on the Chi Siamo page. The page itself is dated 30 Aprile 2025."
+  },
+  "additionalSources": [
+    {
+      "name": "US Lecce, 'U.S. Lecce e BetItalyPAY'",
+      "date": "2023-06-28",
+      "url": "https://uslecce.it/u-s-lecce-e-betitalypay",
+      "quote": "BetItalyPAY, società salentina operante nel settore dei servizi, mette a disposizione gratuitamente una vasta gamma di servizi",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The club's own release describes BetItalyPAY as a Salento services company."
+    }
+  ],
+  "reviewed": false
+}

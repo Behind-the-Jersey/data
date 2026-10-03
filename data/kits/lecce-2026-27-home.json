@@ -12,13 +12,79 @@
       "sponsorId": "deghi",
       "placement": "front",
       "source": {
-        "name": "Corriere Salentino",
-        "date": "2025-11-01",
-        "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/"
+        "name": "Corriere Salentino, 'Deghi S.p.A. e U.S. Lecce rinnovano l'accordo di Main Sponsorship per il quinquennio 2026–2031'",
+        "date": "2025-11-21",
+        "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/",
+        "quote": "annunciano congiuntamente il rinnovo della partnership di Main Sponsor per il periodo 2026–2031, confermando un rapporto iniziato nel 2021",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "DEGHI renewed as Main Sponsor for 2026-2031; the deal covers the first team and the Primavera."
+      }
+    },
+    {
+      "sponsorId": "betitaly-pay",
+      "placement": "front",
+      "source": {
+        "name": "LecceSette, 'Lecce e BetitalyPay ancora insieme: rinnovata partnership per la prossima stagione'",
+        "date": "2026-08-01",
+        "url": "https://www.leccesette.it/news/45323030022/lecce-e-betitalypay-rinnovata-partnership-per-stagione-26-27",
+        "quote": "sarà ancora sponsor ufficiale e co-sponsor di maglia del Lecce nella stagione 2026/27, confermando la presenza sulle nuove divise Adidas",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The club's sponsor page (uslecce.it/sponsors, opened 2026-10-03) lists Betitaly as 'Second Sponsor'; the club's official 2026-27 home-kit photos show the BetItalyPay logo on the front of the shirt, above the Deghi logo."
+      }
+    },
+    {
+      "sponsorId": "dr-automobiles",
+      "placement": "back",
+      "source": {
+        "name": "US Lecce, 'DR Automobiles Groupe è back sponsor di maglia'",
+        "date": "2023-07-25",
+        "url": "https://uslecce.it/dr-automobiles-groupe-e-back-sponsor-di-maglia",
+        "quote": "DR è infatti il nuovo back sponsor di maglia dell’U.S. Lecce.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Back sponsor since 2023-24. The club's current sponsor page (uslecce.it/sponsors, opened 2026-10-03) still lists DR as 'Back Sponsor', and the official store's 2026-27 home-shirt product photos (usleccestore.it, 'Maglia Home U.S. Lecce 2026/27') show the dr logo on the lower back."
+      }
+    },
+    {
+      "sponsorId": "banca-popolare-pugliese",
+      "placement": "sleeve",
+      "source": {
+        "name": "Banca Popolare Pugliese, 'Banca Popolare Pugliese finanzia la passione giallorossa' (Campagna Abbonamenti U.S. Lecce 2026/2027)",
+        "date": "2026-08-03",
+        "url": "https://www.bpp.it/news-notizie-utili/bacheca-avvisi-bpp/2026/08/03/campagna-abbonamenti-us-lecce-2026-2027",
+        "quote": "presenza di Banca Popolare Pugliese come sleeve sponsor dell’U.S. Lecce",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "BPP's own site confirms it is sleeve sponsor for 2026/2027; the club's sponsor page (uslecce.it/sponsors, opened 2026-10-03) lists Banca Popolare Pugliese as 'Sleeve sponsor', and the official kit photos show the BPP logo on the sleeve."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "US Lecce, 'U.S. Lecce e adidas presentano il nuovo Home Kit'",
+        "date": "2026-07-30",
+        "url": "https://uslecce.it/u-s-lecce-e-adidas-presentano-il-nuovo-home-kit",
+        "quote": "Sulle spalle spiccano le iconiche tre strisce di adidas, di colore rosso, mentre sul petto lo stemma del Club si affianca al logo del brand tedesco.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. adidas became technical sponsor from 2026-27, replacing the in-house brand M908."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "DEGHI renewed as Main Sponsor for 2026-2031; BetItalyPay also on the front."
+  "summary": "Deghi on the front (main sponsor, renewed to 2031), BetItalyPay above it on the front (second sponsor, renewed for 2026-27), DR Automobiles on the back, Banca Popolare Pugliese on the sleeve; kit made by adidas, the club's first adidas shirt after eight years of in-house M908 kits."
 }
