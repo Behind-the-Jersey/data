@@ -1,16 +1,19 @@
 {
   "id": "mir-nspk",
   "name": "MIR (NSPK payment system)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "russian-federation",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "nspk-cbr-ownership",
+    "russian-federation-record"
+  ],
   "aliases": [
     "МИР",
     "Mir card",
     "НСПК"
   ],
-  "note": "League official partner for 2026-27 (replaced SBP, the 2025/26 official partner, in the syndicated club-site widget)."
+  "note": "МИР chest patch on HC CSKA Moscow's 2026-27 jerseys (club photo galleries, September 2026); NSPK also appears as an official partner in the KHL partners block syndicated on club sites. NSPK, the operator of the Mir payment system, is 100% owned by the Central Bank of the Russian Federation. RBC reported in July 2026 that the CBR may sell a stake from 2027."
 }

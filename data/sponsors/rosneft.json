@@ -1,15 +1,18 @@
 {
   "id": "rosneft",
   "name": "Rosneft",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "russian-federation",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "rosneft-state-stake",
+    "russian-federation-record"
+  ],
   "aliases": [
     "Роснефть",
     "rosneft.ru"
   ],
-  "note": "General sponsor of HC CSKA Moscow. Lead: majority state-owned; primary document not yet opened."
+  "note": "General sponsor of HC CSKA Moscow; РОСНЕФТЬ wordmark across the lower band of the 2026-27 jerseys (front and back) and on the sleeves, plus the Rosneft derrick logo on the upper back (club photo galleries, 2026-09). State stake: 40.4% via Rosneftegaz, which is in 100% federal ownership (RIA Novosti 2024-12-27; rosneft.com shareholder page, register data as of 1 July 2021)."
 }
