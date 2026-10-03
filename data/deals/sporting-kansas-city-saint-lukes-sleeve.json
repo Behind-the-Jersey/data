@@ -5,7 +5,7 @@
   "sponsorId": "saint-lukes-health-system",
   "placement": "sleeve",
   "from": "2026",
-  "to": null,
+  "to": "2031",
   "value": null,
   "source": {
     "name": "SportingKC.com: 'Sporting Kansas City and Saint Luke’s team up for new community-affiliated partnership'",
@@ -16,7 +16,7 @@
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     },
-    "note": "Multi-year partnership announced December 2025, effective from the 2026 MLS season. The Kansas City Star reports (citing the Kansas City Business Journal, paywalled) that the pact runs through 2031; that end date could not be verified by script, so 'to' is null."
+    "note": "Multi-year partnership announced 12 December 2025 (the club page renders no date; the Kansas City Star dated the announcement Friday, December 12, 2025), effective from the 2026 MLS season. The Kansas City Star reports the arrangement 'runs through 2031, according to the Kansas City Business Journal' (https://www.kansascity.com/sports/soccer/sporting-kc/article313663940.html, opened via the Wayback Machine capture of 13 Dec 2025), so 'to' is 2031."
   },
   "note": "Right-sleeve patch plus training-gear fronts; official health care provider. Value not disclosed."
 }
