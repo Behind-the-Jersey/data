@@ -9,7 +9,7 @@
   "short": "JFE Steel is under JFE Holdings, the JFE Group's wholly-owning parent.",
   "source": {
     "name": "JFE Holdings: About JFE Group",
-    "date": "2026-10-03",
+    "date": "2026",
     "url": "https://www.jfe-holdings.co.jp/en/g-about/",
     "quote": "September 2002, NKK and Kawasaki Steel jointly established JFE Holdings, a wholly owning parent company through share transfer.",
     "checked": {
@@ -18,5 +18,18 @@
     },
     "note": "No date on the page; opened 2026-10-03."
   },
+  "additionalSources": [
+    {
+      "name": "JFE Holdings: JFE GROUP REPORT 2025, Data – Main Domestic Group Companies",
+      "date": "2025",
+      "url": "https://www.jfe-holdings.co.jp/en/common/pdf/investor/library/group-report/2025/7.pdf",
+      "quote": "Steel Business JFE Steel Head office Chiyoda-ku, Tokyo",
+      "note": "The report's 'Main Domestic Group Companies (As of April 1, 2025)' section lists JFE Steel as the group's steel business.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-reviewer (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }

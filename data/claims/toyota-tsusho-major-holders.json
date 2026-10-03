@@ -17,5 +17,17 @@
     },
     "note": "The page notes that the June 2026 completion of a repurchase of 118,095,432 own shares changed the major-shareholder list; details in the company's notice of 3 June 2026."
   },
+  "additionalSources": [
+    {
+      "name": "Toyota Tsusho: Notice Concerning Results of the Tender Offer for Own Shares, Completion of the Share Repurchase, Change in Major Shareholders, and the Cancellation of Own Shares",
+      "date": "2026-06-03",
+      "url": "https://www.toyota-tsusho.com/english/press/upload_files/202606031530_en.pdf",
+      "quote": "Toyota Industries Corporation (“Toyota Industries”), which is a major shareholder of Toyota Tsusho, tendered in the Tender Offer all 118,095,402 Toyota Tsusho common shares held by it",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-reviewer (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
