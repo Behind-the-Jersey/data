@@ -3,6 +3,7 @@
   "kind": "ownership",
   "ownerIds": [
     "ak-bars-bank",
+    "svyazinvestneftekhim",
     "republic-of-tatarstan"
   ],
   "text": "Ak Bars Bank's largest shareholders, each above 10% of its capital, are the State Housing Fund under the President of the Republic of Tatarstan (20.41%), the Republic of Tatarstan (19.79%), AO Svyazinvestneftekhim (13.61%) and PAO Tatneft (10.41%), per the bank's Cbonds profile.",
@@ -12,7 +13,7 @@
     "date": "2026-10-03",
     "url": "https://cbonds.ru/company/AKBARS/",
     "quote": "Крупнейшими акционерами банка, с долей более 10% капитала, являются: Государственный жилищный фонд при Президенте РТ – 20.41%, Республика Татарстан – 19.79%, АО Связьинвестнефтехим – 13.61%, ПАО Татнефть – 10.41%",
-    "note": "Translation: 'The bank's largest shareholders, holding more than 10% of capital, are: the State Housing Fund under the President of the Republic of Tatarstan – 20.41%, the Republic of Tatarstan – 19.79%, AO Svyazinvestneftekhim – 13.61%, PAO Tatneft – 10.41%.' Date of the profile's information not stated on the page; the site is current (news feed to 2026). Single independent source found: the bank's own site and e-disclosure block scripted access.",
+    "note": "Translation: 'The bank's largest shareholders, holding more than 10% of capital, are: the State Housing Fund under the President of the Republic of Tatarstan – 20.41%, the Republic of Tatarstan – 19.79%, AO Svyazinvestneftekhim – 13.61%, PAO Tatneft – 10.41%.' Vintage caution: the page gives no date for this list and the identical figures appear in Russian Wikipedia 'as of 15 June 2020', so the profile may echo the bank's June 2020 disclosure; Single independent source found: the bank's own site and e-disclosure block scripted access, and its 2025 published IFRS statements redact shareholder detail as 'sensitive information'. Svyazinvestneftekhim identifies the Republic of Tatarstan as its sole shareholder (claim svyazinvestneftekhim-republic-of-tatarstan).",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"

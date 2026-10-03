@@ -1,0 +1,22 @@
+{
+  "id": "svyazinvestneftekhim-republic-of-tatarstan",
+  "kind": "ownership",
+  "ownerIds": [
+    "svyazinvestneftekhim",
+    "republic-of-tatarstan"
+  ],
+  "text": "Svyazinvestneftekhim's own website states that the Republic of Tatarstan is its sole shareholder, acting through the republic's Ministry of Land and Property Relations; the company's site describes it as the vehicle created to manage the republic's state-owned stakes in its largest enterprises.",
+  "short": "Svyazinvestneftekhim is wholly owned by the Republic of Tatarstan.",
+  "source": {
+    "name": "АО «Связьинвестнефтехим» — Информация об акционере (company's own shareholder-information page)",
+    "date": "2026-10-03",
+    "url": "http://sin-x.ru/data/33.php",
+    "quote": "Единственным акционером АО «Связьинвестнефтехим» является Республика Татарстан, права и обязанности акционера от имени которой осуществляет Министерство земельных и имущественных отношений Республики Татарстан.",
+    "note": "Translation: 'The sole shareholder of AO Svyazinvestneftekhim is the Republic of Tatarstan, whose shareholder rights and obligations are exercised by the Ministry of Land and Property Relations of the Republic of Tatarstan.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
