@@ -4,11 +4,26 @@
   "ownerId": "royal-commission-for-alula",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Paid for by the Saudi state: AlUla is the destination brand of the Royal Commission for AlUla, a Saudi government body chaired by Crown Prince Mohammed bin Salman.",
+  "claimIds": [
+    "saudi-executions-2024",
+    "saudi-migrant-worker-abuse-2025",
+    "alula-rcu-ownership"
+  ],
   "aliases": [
     "experience alula"
   ],
-  "note": "Saudi destination brand run by the Royal Commission for AlUla; co-title sponsor of Team Jayco AlUla."
+  "note": "Saudi destination brand run by the Royal Commission for AlUla; co-title sponsor of Liv AlUla Jayco and Team Jayco AlUla. Rating note: on hold for a maintainer; the pull request proposes serious. The link is alula-rcu-ownership (RCU's own site: the crown prince chairs RCU; Guardian 2022: RCU is 'an arm of the Saudi Arabian government', elevated to naming-rights sponsor; the brand site is RCU's). The record is saudi-executions-2024 (Amnesty + HRW) and saudi-migrant-worker-abuse-2025 (HRW + Amnesty).",
+  "ownerVerb": "paid for by",
+  "why": {
+    "text": "AlUla is the destination brand of the Royal Commission for AlUla, a Saudi government body chaired by Crown Prince Mohammed bin Salman. Human Rights Watch and Amnesty International report widespread labour abuse of migrant workers in Saudi Arabia, including wage theft and workers dying in avoidable workplace accidents, and the country carried out a record 345 executions in 2024. A tourism brand on a famous jersey makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2024",
+      "saudi-migrant-worker-abuse-2025",
+      "alula-rcu-ownership"
+    ],
+    "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+    "status": "draft"
+  }
 }

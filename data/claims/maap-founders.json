@@ -1,0 +1,32 @@
+{
+  "id": "maap-founders",
+  "kind": "ownership",
+  "ownerIds": [
+    "maap"
+  ],
+  "text": "MAAP was founded in Melbourne in 2014 by Jarrad Smith and Oliver Cousins; co-founder Oliver Cousins told Cycling Weekly in 2025 that MAAP is a private company with no one else to answer to and no venture capital.",
+  "short": "MAAP was founded by Jarrad Smith and Oliver Cousins in 2014 and is a private company with no venture capital.",
+  "source": {
+    "name": "Lamont Magazine: MAAP, breaking away from the pack",
+    "date": "2017-11-28",
+    "url": "https://lamontmag.com/maap-breaking-away-from-the-pack/",
+    "quote": "Founded in 2014 by keen cyclists and long time friends, Oliver Cousins and Jarrad Smith",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cycling Weekly: 'We're not just trying to build a cycling brand, we want to build a global brand' - meeting MAAP's founders, Jarrad Smith and Oliver Cousins",
+      "date": "2025-03-02",
+      "url": "https://www.cyclingweekly.com/news/were-not-just-trying-to-build-a-cycling-brand-we-want-to-build-a-global-brand-meeting-maaps-founders-jarrad-smith-and-oli-cousins",
+      "quote": "We’re a private company, so we’ve got no one else to answer to, there’s no stock price, there’s no minimum growth or venture capital",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
