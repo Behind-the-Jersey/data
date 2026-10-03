@@ -12,32 +12,49 @@
       "sponsorId": "boylesports",
       "placement": "front",
       "source": {
-        "name": "SportsMint Media (quoting West Ham announcement)",
+        "name": "SportsMint Media (quoting West Ham United's 30 June 2026 announcement)",
         "date": "2026-06-30",
-        "url": "https://sportsmintmedia.com/boyle-sports-takes-centre-stage-on-west-ham-united-shirts-for-2026-27/"
+        "url": "https://sportsmintmedia.com/boyle-sports-takes-centre-stage-on-west-ham-united-shirts-for-2026-27/",
+        "note": "West Ham United announced on 30 June 2026 that BOYLE Sports continues as front-of-shirt sponsor for 2026/27, with the logo on the men's and women's home, away, third and training kits. The club's own news page (whufc.com) is JavaScript-rendered and could not be quoted by script.",
+        "quote": "the brand will remain as the club’s front-of-shirt sponsor for the 2026-27 season, with the brand’s emblem appearing on the men’s and women’s home, away, third and training shirts",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "lilley-plummer-risks",
       "placement": "sleeve",
       "source": {
-        "name": "SportsMint Media (quoting West Ham announcement)",
-        "date": "2026-07-03",
-        "url": "https://sportsmintmedia.com/lilley-plummer-risks-upgrades-partnership-to-become-west-ham-uniteds-sleeve-sponsor/",
-        "note": "Announced as official sleeve partner for the club's first-team training apparel; women's-shirt sleeve placement not stated explicitly."
+        "name": "fcbusiness (West Ham United announcement)",
+        "date": "2026-07-02",
+        "url": "https://fcbusiness.co.uk/news/west-ham-united-lilley-plummer-risks-expands-partnership/",
+        "note": "Lilley Plummer Risks became the Club's Official Sleeve Partner from the start of 2026/27, on the playing shirts of the men's, women's and Academy teams. West Ham's partner page (whufc.com) confirms the branding features 'on the sleeve of West Ham United men's, women's, and academy match shirts and training wear'.",
+        "quote": "will feature on the playing shirts of the men’s, women’s and Academy teams as well as continuing to appear on both training wear sleeves",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "paul-robinson-solicitors",
       "placement": "back",
       "source": {
-        "name": "SportsMint Media",
-        "date": "2025-07-15",
-        "url": "https://sportsmintmedia.com/paul-robinson-solicitors-joins-west-ham-united-women-as-back-of-shirt-partner/"
+        "name": "West Ham United FC, Women's Team Partners & Suppliers page",
+        "date": "2026",
+        "url": "https://www.whufc.com/en/the-club/partners-and-suppliers/womens-team-partners-and-suppliers",
+        "note": "Page undated (viewed 2026-10-03); lists the club's current women's-team partners. Paul Robinson Solicitors became the women's team's Official Back of Shirt Partner in July 2025 (SportsMint Media, 2025-07-15: https://sportsmintmedia.com/paul-robinson-solicitors-joins-west-ham-united-women-as-back-of-shirt-partner/).",
+        "quote": "Paul Robinson Solicitors Back of Shirt Partner",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "BoyleSports betting sits on the front of the West Ham Women shirt.",
+  "sponsorsComplete": true,
+  "summary": "BoyleSports betting sits on the front of the West Ham Women shirt, with Lilley Plummer Risks on the sleeve and Paul Robinson Solicitors on the back. Kit maker: New Balance (Technical Partner).",
   "change": null
 }
