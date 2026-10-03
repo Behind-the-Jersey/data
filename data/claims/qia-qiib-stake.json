@@ -1,0 +1,34 @@
+{
+  "id": "qia-qiib-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "qia",
+    "qiib"
+  ],
+  "text": "The Qatar Investment Authority (QIA) is the largest shareholder of QIIB (Qatar International Islamic Bank), holding 17% of the bank through its subsidiary Qatar Holdings Company; Forbes Middle East reported the stake as 16.62% as of May 2024.",
+  "short": "QIA is QIIB's largest shareholder, with about 16-17%.",
+  "source": {
+    "name": "QIIB: Investors' Presentation HY-2025, 'QIIB Snapshot > Shareholder Structure' (archived 2026-02-07)",
+    "date": "2025",
+    "url": "https://web.archive.org/web/20260207045339/https://www.qiib.com.qa/Documents/Download/356",
+    "quote": "The Qatar Investment Authority (QIA) is the largest shareholder (17%) of QIIB through its subsidiary, Qatar Holdings Company.",
+    "note": "QIIB's own investor presentation, captured by the Wayback Machine on 2026-02-07. The live copy is qiib.com.qa/Documents/Download/356.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Forbes Middle East, Top 100 Listed Companies 2024: #77 Qatar International Islamic Bank (QIIB)",
+      "date": "2024-06-09",
+      "url": "https://www.forbesmiddleeast.com/lists/top-100-listed-companies-2024/qatar-international-islamic-bank-qiib/",
+      "quote": "The Qatar Investment Authority is the largest shareholder in QIIB, with a 16.62% stake as of May 2024.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
