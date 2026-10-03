@@ -13,44 +13,44 @@
       "placement": "partner",
       "source": {
         "name": "LIV Golf: Swannies Golf announced as official on-course apparel partner of RangeGoats GC",
-        "date": "2025",
+        "date": "2025-01-22",
         "url": "https://www.livgolf.com/news/swannies-golf-announced-official-apparel-partner-rangegoats-gc",
         "quote": "RangeGoats Golf Club today announced a team partnership deal with Swannies Golf.",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         },
-        "note": "Article announces the multi-year deal ahead of the February 2025 season; the page shows only '20 months ago', no exact date. The RangeGoats team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Swannies as a partner, by logo link."
+        "note": "Article announces the multi-year deal ahead of the February 2025 season; the page displays only a relative date ('20 months ago'), so 2025-01-22 is taken from the page's own datePublished metadata. The RangeGoats team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Swannies as a partner, by logo link."
       }
     },
     {
       "sponsorId": "convoy-of-hope",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf: Rangegoats GC launches community impact program 'Goats Give Back'",
-        "date": "2024",
+        "name": "LIV Golf: Rangegoats GC launches community impact program ‘Goats Give Back’",
+        "date": "2024-07-22",
         "url": "https://www.livgolf.com/news/rangegoats-gc-launches-community-impact-program-goats-give-back",
         "quote": "RangeGoats GC today announced the launch of its community impact program, Goats Give Back, in cooperation with Convoy of Hope.",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         },
-        "note": "The page shows only '26 months ago', no exact date. The RangeGoats team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Convoy of Hope as a partner, by logo link."
+        "note": "The page displays only a relative date ('26 months ago'), so 2024-07-22 is taken from the page's own datePublished metadata. The RangeGoats team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Convoy of Hope as a partner, by logo link."
       }
     },
     {
       "sponsorId": "freddys",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf: RangeGoats Golf Club announces purpose-led sponsorship with Freddy's Frozen Custard & Steakburgers for 2026 Season",
-        "date": "2026",
+        "name": "LIV Golf: RangeGoats Golf Club announces purpose-led sponsorship with Freddy’s Frozen Custard & Steakburgers for 2026 Season",
+        "date": "2026-02-02",
         "url": "https://www.livgolf.com/news/rangegoats-gc-announces-purpose-led-sponsorship-with-freddy-s-frozen-custard-steakburgers-for-2026-season",
         "quote": "RangeGoats Golf Club of the LIV Golf League has announced a new and expanded sponsorship with Freddy’s Frozen Custard & Steakburgers",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         },
-        "note": "The page shows only '8 months ago', no exact date; the article announces the 2026 deal. Freddy's becomes official QSR partner with its logo on the golf bags of all four players throughout 2026. The team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Freddy's as a partner."
+        "note": "The page displays only a relative date ('8 months ago'), so 2026-02-02 is taken from the page's own datePublished metadata; the article announces the 2026 deal. Freddy's becomes official QSR partner with its logo on the golf bags of all four players throughout 2026. The team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Freddy's as a partner."
       }
     },
     {
@@ -65,6 +65,6 @@
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Team partners 2026: Swannies (official on-course apparel), Convoy of Hope (Goats Give Back impact partner), Freddy's (official QSR partner), New Era (official cap). Captain: Bubba Watson.",
+  "summary": "Team partners 2026: Swannies (official on-course apparel), Convoy of Hope (Goats Give Back impact partner), Freddy's (official QSR partner), New Era (official cap). Captain: Bubba Watson. Not sponsorsComplete: the team page shows partners only as logo links and no documented shirt placements, so completeness cannot be certified.",
   "change": null
 }
