@@ -1,0 +1,33 @@
+{
+  "id": "tawazun-council-uae-government-entity",
+  "kind": "ownership",
+  "ownerIds": [
+    "tawazun-council"
+  ],
+  "text": "Tawazun Council for Defence Enablement is an independent government entity that works closely with the UAE's Ministry of Defense and security agencies.",
+  "short": "Tawazun Council is a UAE government entity.",
+  "source": {
+    "name": "Tawazun Council: 'About / Who we are'",
+    "date": "2026",
+    "url": "https://www.tawazun.gov.ae/en/about-us/",
+    "quote": "Tawazun Council is an independent government entity that works closely with the Ministry of Defense and security agencies in the United Arab Emirates",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Al Ain Club: Partners page, Tawazun entry",
+      "date": "2026",
+      "url": "https://alainclub.ae/en/partners/?lang=en",
+      "quote": "Tawazun Council is an independent government entity that works closely with the Ministry of Defence and security agencies in the UAE.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Different publisher, but the text is Tawazun's own boilerplate; noted in the PR."
+    }
+  ],
+  "reviewed": false
+}
