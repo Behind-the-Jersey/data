@@ -1,0 +1,20 @@
+{
+  "id": "inspired-by-km-mbappe-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kylian-mbappe"
+  ],
+  "text": "Inspired by KM is Kylian Mbappé's foundation and the DS Automobiles SailGP Team France's official charity partner.",
+  "short": "Inspired by KM is Kylian Mbappé's foundation.",
+  "source": {
+    "name": "K-Challenge: DS Automobiles SailGP Team France (Partners / Team)",
+    "date": "2026",
+    "url": "https://www.k-challenge.fr/en/sailgp",
+    "quote": "Flying the colours of Mbappé's foundation, Inspired by KM — the team's official charity partner",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
