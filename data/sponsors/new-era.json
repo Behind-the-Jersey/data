@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "new-era-koch-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "New Era Cap is a family-owned company, led by fourth-generation CEO Christopher H. Koch. Nothing found.",
+  "claimIds": [
+    "new-era-koch-family-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Official Cap of the LIV Golf League (livgolf.com announcement, Sportcal 2024-04-17); appears on every team page's partner bar including Legion XIII. Rated none 2026-10-03: family-owned (new-era-koch-family-ownership; not connected to Koch, Inc.). The 2001-02 Worker Rights Consortium findings at the Derby, NY plant are more than 20 years old and were reported remediated, and the 2019 plant closure drew union protest but no finding, so neither passes METHOD.md's record test."
 }

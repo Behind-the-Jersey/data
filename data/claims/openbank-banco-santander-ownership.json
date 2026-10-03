@@ -1,0 +1,20 @@
+{
+  "id": "openbank-banco-santander-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "banco-santander-sa"
+  ],
+  "text": "Openbank is a division of Santander Bank, N.A., which is a wholly owned, indirect subsidiary of the listed Spanish banking group Banco Santander, S.A.",
+  "short": "Openbank is a Santander Bank division, wholly owned indirectly by Banco Santander, S.A.",
+  "source": {
+    "name": "Openbank by Santander: Terms of use",
+    "date": "2025",
+    "url": "https://www.openbank.us/terms-of-use",
+    "quote": "Openbank is a division of Santander Bank, N.A., Member FDIC, and a wholly owned, indirect subsidiary of Banco Santander, S.A.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

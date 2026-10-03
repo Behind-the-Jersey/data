@@ -1,14 +1,16 @@
 {
   "id": "greyson",
   "name": "Greyson Clothiers",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "greyson-clothiers",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Greyson Clothiers is a private, founder-led US apparel company (founder and CEO Charlie Schaefer). Nothing found.",
+  "claimIds": [
+    "greyson-clothiers-ownership"
+  ],
   "aliases": [
     "Greyson"
   ],
-  "note": "Legion XIII and Ripper GC partner (team pages, fetched 2026-09-25)."
+  "note": "Official apparel partner of Legion XIII (multi-year, Golf Business News 2025-02-03) and Ripper GC. Rated none 2026-10-03: private founder-led company; no state or fund in the chain and no human-rights finding found."
 }

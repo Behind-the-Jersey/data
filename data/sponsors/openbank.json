@@ -1,12 +1,16 @@
 {
   "id": "openbank",
   "name": "Openbank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
+  "ownerId": "banco-santander-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Openbank is a division of Santander Bank, N.A., wholly owned by the listed Spanish banking group Banco Santander, S.A. Nothing found.",
+  "claimIds": [
+    "openbank-banco-santander-ownership"
+  ],
+  "aliases": [
+    "Openbank by Santander"
+  ],
+  "note": "Openbank logo worn by Legion XIII captain Jon Rahm and team on the shirt in all competitions (Santander press release, 2024-04-09). Rated none 2026-10-03: same owner and reasoning as sponsor santander (banco-santander-sa is ES-listed, no state shareholder)."
 }
