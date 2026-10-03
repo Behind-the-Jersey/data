@@ -1,0 +1,46 @@
+{
+  "id": "rugby-argentina-2026-27-home",
+  "clubId": "rugby-argentina",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "visa",
+      "placement": "front",
+      "source": {
+        "name": "Olé: 'La nueva camiseta de Los Pumas: ¡miren quién volvió!'",
+        "date": "2026-05-26",
+        "url": "https://www.ole.com.ar/rugby/pumas-presentacion-camiseta_0_Ahs93pCCaG.html",
+        "quote": "Se arregló y volvió la marca al pecho de Los Pumas.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Olé (29 April 2026) had reported the Visa logo absent from the front 'por primera vez en 30 años'; this follow-up says the UAR and Visa settled on Wednesday 20 May 2026 and the sponsor 'volvió a ocupar su lugar habitual' - the front chest it has occupied since 1996. Visa is 'el main sponsor de la UAR, el más importante dentro de los 17 que acompañan a la Unión'. Second publisher: ClickCorrientes (26.05.2026), 'la UAR negoció y se llegó a un acuerdo con VISA para que siga en la ropa de los seleccionados'; lospumas.com.ar's live sponsors page lists Visa as 'main sponsor'. Article undated on the page; date from its image path (2026/05/26) and its report of the 25 May launch. Caveat: the official UAR Store fan-shirt product description lists only the UAR crest and the Le Coq Sportif logo, and a retailer lists the fan jersey as 'CON SPONSOR' - the fan replica may differ from the match shirt."
+      }
+    },
+    {
+      "sponsorId": "le-coq-sportif",
+      "placement": "partner",
+      "source": {
+        "name": "UAR: 'Le Coq Sportif y la Unión Argentina de Rugby presentan las nuevas camisetas de Los Pumas para la temporada 2026'",
+        "date": "2026-05-25",
+        "url": "https://uar.com.ar/le-coq-sportif-y-la-union-argentina-de-rugby-presentan-las-nuevas-camisetas-de-los-pumas-para-la-temporada-2026/",
+        "quote": "Le Coq Sportif y la Unión Argentina de Rugby (UAR) presentan oficialmente las nuevas camisetas titular y alternativa de Los Pumas",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. Olé (26 May 2026): 'la indumentaria oficial que provee Le Coq Sportif, que sigue siendo el responsable de la ropa de todos los equipos de la UAR'; lospumas.com.ar lists Le Coq Sportif as 'Sponsor Indumentaria' since 2024."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Visa back on the front of the sky-blue and white hooped Le Coq Sportif home shirt (the deal was renewed on 20 May 2026 after a two-month absence), with Le Coq Sportif as kit maker; the UAR launch description, the official store listing and the press name no other sponsor on the shirt, shorts or socks.",
+  "change": null,
+  "shortLine": "Visa on the front"
+}
