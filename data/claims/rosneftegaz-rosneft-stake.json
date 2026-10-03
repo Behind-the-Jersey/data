@@ -1,0 +1,35 @@
+{
+  "id": "rosneftegaz-rosneft-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "rosneftegaz",
+    "rosneft"
+  ],
+  "text": "JSC Rosneftegaz holds a 40.40% equity stake in Rosneft.",
+  "short": "Rosneftegaz holds 40.40% of Rosneft.",
+  "source": {
+    "name": "Rosneft Oil Company: Shareholder structure (shareholders register data as of July 1, 2021)",
+    "date": "2021-07-01",
+    "url": "https://www.rosneft.com/Investors/Equity/Shareholder_structure/",
+    "quote": "JSC ROSNEFTEGAZ 1 (shareholder) 4,281,663,840 40.40",
+    "note": "Rosneft's shareholder table; the largest stake listed. The '1' is a footnote marker; footnote 1 says JSC ROSNEFTEGAZ is in 100% federal ownership. Register data is dated July 1, 2021.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Коммерсантъ: Путин разрешил «Роснефти» совершать сделки с ее акциями",
+      "date": "2024-12-20",
+      "url": "https://www.kommersant.ru/doc/7399732",
+      "quote": "Крупнейшим акционером «Роснефти» является государственная компания «Роснефтегаз»: ей принадлежит 40,4% акций.",
+      "note": "Translation: 'Rosneft's largest shareholder is the state company Rosneftegaz: it owns 40.4% of the shares.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,15 +1,19 @@
 {
   "id": "rosneft",
   "name": "Rosneft",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "rosneft",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "rosneftegaz-rosneft-stake",
+    "rosneftegaz-state-owned",
+    "russian-federation-record"
+  ],
   "aliases": [
     "Роснефть",
     "rosneft.ru"
   ],
-  "note": "General sponsor of HC CSKA Moscow. Lead: majority state-owned; primary document not yet opened."
+  "note": "General sponsor of HC CSKA Moscow (club partners page) and main sponsor of HC Salavat Yulaev per Sport-Express (2026-04-21: 1.5bn RUB of 2026 financing unpaid since January). Owner chain: state-owned JSC Rosneftegaz holds 40.40% of Rosneft (register footnote: 100% federal ownership). Tier proposal: concern — the Russian state, whose war in Ukraine is documented, holds ~40% of the sponsor through Rosneftegaz; control (>50%, golden share, board seat) is not sourced, so concern rather than serious. A maintainer sets the tier."
 }
