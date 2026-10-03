@@ -19,12 +19,12 @@
   },
   "additionalSources": [
     {
-      "name": "Türkiye Wealth Fund: Our Portfolio, Financial Services (undated page, read October 2026)",
-      "date": "2026-10",
-      "url": "https://www.tvf.com.tr/en/our-portfolio/financial-services",
-      "quote": "Fund ownership rate %76.10",
-      "note": "The fund's own portfolio entry for Türkiye Sigorta A.Ş. (establishment 1957).",
-      "short": "TWF portfolio",
+      "name": "Türkiye Today: Türkiye Wealth Fund divests $150M stake in top insurer to foreign investors",
+      "date": "2026-05-15",
+      "url": "https://www.turkiyetoday.com/business/turkiye-wealth-fund-divests-150m-stake-in-top-insurer-to-foreign-investors-3220030",
+      "quote": "Following the sale, TWF’s ownership in Türkiye Sigorta fell to 76.1%, while the portion of shares publicly traded on the stock market rose to 23.9%.",
+      "note": "The same article says the Türkiye Wealth Fund is owned entirely by the Turkish government and that the 5% stake sale was announced by the fund.",
+      "short": "Türkiye Today",
       "checked": {
         "on": "2026-10-04",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
