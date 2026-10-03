@@ -3,14 +3,14 @@
   "name": "Goodyear",
   "ownerId": "goodyear-tire-rubber",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Nasdaq-listed (GT); its 2026 proxy's largest reported owners are index managers BlackRock (11.5%), Vanguard (10.2%), Wellington (8.8%) and Dimensional (5.8%). Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Nasdaq-listed (GT); its 2026 proxy's only reported owners of more than 5% are BlackRock (11.5%), Vanguard (10.2%), Wellington Management (8.8%) and Dimensional Fund Advisors (5.8%).",
   "aliases": [
     "goodyear racing"
   ],
   "claimIds": [
     "goodyear-shareholders-ownership"
   ],
-  "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages; Iron Lynx also lists Goodyear in its own partner block (ironlynx.com, checked 2026-10-03)."
+  "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages; Iron Lynx also lists Goodyear in its own partner block (ironlynx.com, checked 2026-10-03). On hold for a maintainer: Malaysia's Industrial Court ordered Goodyear Malaysia (the owner's Malaysian subsidiary) in 2020 and again in June 2021 to pay back wages to some migrant workers and comply with the collective agreement, after 185 migrant workers complained of unpaid wages, wrongful deductions and threats; Goodyear appealed and later said it had committed to a settlement, and US Homeland Security Investigations also questioned workers about conditions (Reuters, 'U.S. investigators question Goodyear Malaysia workers over labour practices', 2021-11-23, https://www.reuters.com/world/asia-pacific/exclusive-us-investigators-question-goodyear-malaysia-workers-over-labour-2021-11-23/). Whether that Industrial Court decision is a human-rights finding under METHOD.md's company test is a maintainer's call."
 }
