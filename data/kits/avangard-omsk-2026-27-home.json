@@ -14,20 +14,138 @@
       "source": {
         "name": "HC Avangard official site, partners page",
         "date": "2026-09-25",
-        "url": "https://hawk.ru/partners/"
+        "url": "https://hawk.ru/partners/",
+        "quote": "In 2009, Gazprom Neft started partnership cooperation with Avangard hockey club",
+        "note": "Gazprom Neft is listed under 'General partners' on the club's partners page.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gazprom-neft",
+      "placement": "patch",
+      "side": "front",
+      "source": {
+        "name": "Sports.ru: Avangard presents its 2026-27 kit (photo gallery, photos from the club's official Telegram channel)",
+        "date": "2026-08-09",
+        "url": "https://www.sports.ru/hockey/1117328274-avangard.html",
+        "quote": "«Авангард» продемонстрировал комплект игровой формы на предстоящий сезон Fonbet КХЛ",
+        "note": "The launch photos show the orange Gazprom Neft G-brand ('G-Drive'/'G-Energy') mark on the shoulders of the home jersey.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gazprom-neft",
+      "placement": "back",
+      "source": {
+        "name": "Sports.ru: Avangard presents its 2026-27 kit (photo gallery, photos from the club's official Telegram channel)",
+        "date": "2026-08-09",
+        "url": "https://www.sports.ru/hockey/1117328274-avangard.html",
+        "quote": "«Авангард» продемонстрировал комплект игровой формы на предстоящий сезон Fonbet КХЛ",
+        "note": "The launch photos show the G-ENERGY wordmark (Gazprom Neft's engine-oil brand) across the lower back hem of the home jersey.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gazprom-neft",
+      "placement": "shorts",
+      "source": {
+        "name": "Sports.ru: Avangard presents its 2026-27 kit (photo gallery, photos from the club's official Telegram channel)",
+        "date": "2026-08-09",
+        "url": "https://www.sports.ru/hockey/1117328274-avangard.html",
+        "quote": "«Авангард» продемонстрировал комплект игровой формы на предстоящий сезон Fonbet КХЛ",
+        "note": "The launch photos show the G-ENERGY wordmark across the back of the game pants.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fonbet",
+      "placement": "front",
+      "source": {
+        "name": "Sports.ru: Avangard presents its 2026-27 kit (photo gallery, photos from the club's official Telegram channel)",
+        "date": "2026-08-09",
+        "url": "https://www.sports.ru/hockey/1117328274-avangard.html",
+        "quote": "«Авангард» продемонстрировал комплект игровой формы на предстоящий сезон Fonbet КХЛ",
+        "note": "The launch photos show the FONBET wordmark across the lower front of the home jersey, above the hem. FONBET is also the KHL's title partner, so this marking may be league-wide (see PR).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fonbet",
+      "placement": "sleeve",
+      "source": {
+        "name": "Sports.ru: Avangard presents its 2026-27 kit (photo gallery, photos from the club's official Telegram channel)",
+        "date": "2026-08-09",
+        "url": "https://www.sports.ru/hockey/1117328274-avangard.html",
+        "quote": "«Авангард» продемонстрировал комплект игровой формы на предстоящий сезон Fonbet КХЛ",
+        "note": "The launch photos show the FONBET wordmark on both sleeves above the sleeve numbers.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fonbet",
+      "placement": "partner",
+      "source": {
+        "name": "HC Avangard official site, partners page",
+        "date": "2026-09-25",
+        "url": "https://hawk.ru/partners/",
+        "quote": "Fonbet's partners, alongside Avangard Hockey Club, are the Russian national football team, the KHL",
+        "note": "Fonbet listed under 'Partners' on the club's partners page; a club partner of Avangard since 2019.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "alfa-bank",
       "placement": "partner",
       "source": {
-        "name": "HC Avangard official site, partners page",
-        "date": "2026-09-25",
-        "url": "https://hawk.ru/partners/"
+        "name": "Vedomosti (press-release section): Альфа-Банк стал партнером хоккейного клуба «Авангард»",
+        "date": "2025-12-05",
+        "url": "https://www.vedomosti.ru/press_releases/2025/12/05/alfa-bank-stal-partnerom-hokkeinogo-kluba-avangard",
+        "quote": "Альфа-Банк объявляет о начале партнёрства с хоккейным клубом «Авангард» из Омска",
+        "note": "English: 'Alfa-Bank announces the start of a partnership with Omsk hockey club Avangard'; the signing took place on 4 December 2025.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "alfa-bank",
+      "placement": "shorts",
+      "source": {
+        "name": "Sports.ru: Avangard presents its 2026-27 kit (photo gallery, photos from the club's official Telegram channel)",
+        "date": "2026-08-09",
+        "url": "https://www.sports.ru/hockey/1117328274-avangard.html",
+        "quote": "«Авангард» продемонстрировал комплект игровой формы на предстоящий сезон Fonbet КХЛ",
+        "note": "The launch photos show Alfa-Bank's red logo patch (white letters) on the game pants.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. Gazprom Neft general partner per the club partners page; front-of-shirt sponsor not yet sourced.",
+  "summary": "2026-27 home kit: the chest carries only the club crest; FONBET wordmark on the lower front and both sleeves, Gazprom Neft's orange G-brand on the shoulders, G-ENERGY on the back hem and pants, Alfa-Bank patch on the pants (club kit-launch photos, 9 August 2026). A white decal on the helmets is illegible, and the potential kit-manufacturer mark is unconfirmed, so the sponsor list is not certain to be complete.",
   "change": null
 }

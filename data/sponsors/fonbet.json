@@ -1,15 +1,17 @@
 {
   "id": "fonbet",
   "name": "FONBET",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "valentin-golovanov",
+  "ownership": "part-owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The KHL's press service names Valentin Golovanov as FONBET's managing shareholder. Nothing found.",
+  "claimIds": [
+    "fonbet-managing-shareholder"
+  ],
   "aliases": [
     "Фонбет",
     "Fon.Bet"
   ],
-  "note": "League title partner; the KHL championship carries the FONBET name. Private betting company; ownership not traced."
+  "note": "Rating note: Russian private betting company; title partner of the KHL since 2022-23 (the championship carries the FONBET name, deal extended to 2027/28) and club partner of Avangard since 2019. Managing shareholder named by the KHL's press service; no state link and no abuse record found."
 }
