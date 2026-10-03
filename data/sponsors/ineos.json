@@ -3,8 +3,8 @@
   "name": "INEOS",
   "ownerId": "ineos-group-limited",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
+  "tier": "unrated",
+  "status": "being-rated",
   "verdict": "The brand of INEOS Group, privately owned by founder Sir Jim Ratcliffe and co-owners Andy Currie and John Reece.",
   "claimIds": [
     "ineos-group-limited-record"
@@ -12,5 +12,5 @@
   "aliases": [
     "INEOS Grenadier"
   ],
-  "note": "UK chemicals and energy group. INEOS has owned the team outright since 2019 (Tour Racing Limited); co-title sponsor of Netcompany INEOS, with INEOS on the chest, back, sleeves and shorts of the 2026 kit and 'GRENADIER' (the INEOS Grenadier 4x4 brand) on the leg hems."
+  "note": "UK chemicals and energy group. INEOS has owned the team outright since 2019 (Tour Racing Limited); co-title sponsor of Netcompany INEOS, with INEOS on the chest, back, sleeves and shorts of the 2026 kit and 'GRENADIER' (the INEOS Grenadier 4x4 brand) on the leg hems. Rating note: ownership is sourced (ineos-group-limited-record) and no state is involved, but INEOS is a large petrochemicals and energy group and METHOD's company test plausibly passes on court findings of worker injury: on 8 March 2024 Falkirk Sheriff Court fined Ineos £430,000 after it admitted exposing a technician to a risk to his health and safety resulting in serious injury — he was submerged to the top of his thigh in a caustic soda sump at the Grangemouth KG plant in November 2019, suffering chemical burns and permanent scarring (BBC, 2024-03-08, https://www.bbc.com/news/uk-scotland-tayside-central-68502529); separately, Ineos Chemicals Grangemouth Ltd was fined £400,000 in 2023 over a 2017 cracked pipe that created a flammable gas cloud with 97 workers on site (HSE case 4550724, reported by The Ferret). ON HOLD: whether these health-and-safety convictions count as a finding of 'deaths or injuries' under METHOD's company test is a maintainer's call; if they do, the tier is not none."
 }
