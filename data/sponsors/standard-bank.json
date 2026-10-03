@@ -4,9 +4,25 @@
   "ownerId": "standard-bank-group",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25); largest shareholder ICBC 19.7% (1H26) per standardbank.com shareholder information."
+  "status": "being-rated",
+  "verdict": "Standard Bank is a brand of JSE-listed Standard Bank Group, whose largest shareholder is the Chinese state-controlled ICBC with 19.7% (1H26).",
+  "claimIds": [
+    "sbg-icbc-stake",
+    "icbc-huijin-mof-ownership",
+    "china-xinjiang-un-assessment"
+  ],
+  "aliases": [
+    "Standard Bank Group"
+  ],
+  "why": {
+    "text": "China's state bodies Central Huijin and the Ministry of Finance hold 34.79% and 31.14% of ICBC, and ICBC is Standard Bank Group's largest shareholder with 19.7%. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So part of the money behind Standard Bank is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "sbg-icbc-stake",
+      "icbc-huijin-mof-ownership"
+    ],
+    "messageLine": "The UN found that China's large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Southern Guards GC team partner 2026 (livgolf.com/southern-guards-gc, opened 2026-10-03). Rating note: proposed 'concern' for a maintainer. The link: ICBC is Standard Bank Group's largest shareholder with 19.7% as at 30 June 2026 (claim sbg-icbc-stake, two sources), and China's Ministry of Finance and Central Huijin hold 31.14%+34.79% of ICBC (claim icbc-huijin-mof-ownership, two sources) - effective Chinese-state interest in the group about 13%, above the 5% rule of METHOD.md; press also reports the 2007 deal came with two SBG board seats (finhive.africa). The record: china-xinjiang-un-assessment (UN OHCHR 2022 + HRW 2026). Same shape as the Standard Chartered/Temasek precedent (concern, set 2026-09-27). Counterweights in the top 10 (all below the ICBC line): Government Employees Pension Fund (PIC) 14.3% - South Africa is a state without a sourced record; SAFE Investment Company (China's FX reserve vehicle) 1.0%. FinHive gives ICBC's holding as 19.6% vs SBG's own 19.7% as at 30 June 2026."
 }

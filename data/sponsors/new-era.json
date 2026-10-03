@@ -1,14 +1,16 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "new-era-cap",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The brand of New Era Cap Company, controlled by its founding Koch family of Buffalo, New York; ACON Investments and the NFL, NBA and MLB hold minority stakes. Nothing found.",
+  "claimIds": [
+    "new-era-koch-family-ownership"
+  ],
   "aliases": [
     "New Era Cap"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  "note": "Official Cap of LIV Golf and shown on every team page (livgolf.com/southern-guards-gc, opened 2026-10-03). The Koch family here is the founding Buffalo family of New Era Cap (Ehrhardt Koch, 1920) - unrelated to Koch Industries: the company is controlled by its founding family and led by fourth-generation Chris Koch (Reuters via Yahoo Finance, 2023-09-07; SGB Media, 2023-09-09, opened 2026-10-03). ACON's 2022 ~$700m continuation round made the NFL, NBA and MLB minority investors (frontofficesports.com). No human-rights findings against the company came up."
 }

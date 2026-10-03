@@ -1,14 +1,16 @@
 {
   "id": "we-buy-cars",
   "name": "WeBuyCars",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "we-buy-cars-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The brand of JSE-listed We Buy Cars Holdings; its largest disclosed shareholder is the Public Investment Corporation, South Africa's state pension-fund manager, with 15.775%. Nothing found.",
+  "claimIds": [
+    "wbc-major-shareholders"
+  ],
   "aliases": [
     "We Buy Cars"
   ],
-  "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  "note": "Southern Guards GC team partner 2026 (livgolf.com/southern-guards-gc, opened 2026-10-03). Listed on the JSE (WBC) in April 2024 after Transaction Capital's unbundling; Transaction Capital no longer holds shares. Disclosed major holders: PIC 15.775%, Coronation 14.87%, I VDW Holdings 5.65%, Allan Gray 5.16%, Camissa 5.05% (sashares.co.za, from SENS beneficial-interest notices, opened 2026-10-03). South Africa is not a state with a sourced record under METHOD.md, so the PIC stake does not rate; the rest are private asset managers or a family vehicle."
 }

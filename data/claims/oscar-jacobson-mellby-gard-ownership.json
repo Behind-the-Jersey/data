@@ -1,0 +1,35 @@
+{
+  "id": "oscar-jacobson-mellby-gard-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "scandinavian-heritage",
+    "mellby-gard"
+  ],
+  "text": "Oscar Jacobson is one of two brands of Scandinavian Heritage, the renamed Oscar Jacobson Group, which sits in the portfolio of Mellby Gård. Mellby Gård describes itself as a family-owned, long-term investor founded by Rune Andersson in 1986; his son Johan Andersson became its chairman in 2025.",
+  "short": "Oscar Jacobson belongs to Scandinavian Heritage, in the portfolio of the Andersson family's Mellby Gård group.",
+  "source": {
+    "name": "Mellby Gård: Company overview, Scandinavian Heritage",
+    "date": "2026",
+    "url": "https://mellby-gaard.se/en/the-group/company-overview/consumer-goods/scandinavian-heritage",
+    "quote": "The Oscar Jacobson Group, now Scandinavian Heritage, consists of the two Swedish fashion brands Oscar Jacobson and Filippa K.",
+    "note": "The page is part of Mellby Gård's own group company overview; it shows a '90%* Share' figure with the footnote 'In Companies with 90%, Mellby Gårds share is >90%'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Mellby Gård: Mellby Gård in brief",
+      "date": "2026",
+      "url": "https://mellby-gaard.se/en/about-mellby-gard/mellby-gard-in-brief",
+      "quote": "In 2025, Johan Andersson, son of Rune Andersson, takes over as chairman of the board of Mellby Gård.",
+      "note": "Same page: 'Mellby Gård was founded in 1986 when Rune Andersson acquired the Mellby Gård farm in Sösdala', and 'Mellby Gård is a family-owned, long-term investor'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

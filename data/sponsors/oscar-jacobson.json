@@ -1,12 +1,14 @@
 {
   "id": "oscar-jacobson",
   "name": "Oscar Jacobson",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "scandinavian-heritage",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A Swedish menswear and golfwear brand in Scandinavian Heritage, a portfolio company of the Andersson family's Mellby Gård group. Nothing found.",
+  "claimIds": [
+    "oscar-jacobson-mellby-gard-ownership"
+  ],
   "aliases": [],
-  "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  "note": "Southern Guards GC team partner 2026 (livgolf.com/southern-guards-gc, opened 2026-10-03). Chain: Oscar Jacobson -> Scandinavian Heritage (Oscar Jacobson says it has been 'part of Scandinavian Heritage' since 2025) -> Mellby Gård, which describes itself as a family-owned long-term investor (mellby-gaard.se, opened 2026-10-03). No state or fund capital, no human-rights findings found."
 }

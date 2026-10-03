@@ -1,0 +1,35 @@
+{
+  "id": "sbg-icbc-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "standard-bank-group",
+    "icbc"
+  ],
+  "text": "The Industrial and Commercial Bank of China is Standard Bank Group's largest shareholder, with 325.0 million shares, 19.7%, as at 30 June 2026. South Africa's Government Employees Pension Fund (PIC) is the second-largest holder, with 14.3%.",
+  "short": "ICBC is Standard Bank Group's largest shareholder, with 19.7% as at 30 June 2026.",
+  "source": {
+    "name": "Standard Bank Group: Shareholder information",
+    "date": "2026",
+    "url": "https://www.standardbank.com/sbg/standard-bank-group/investor-relations/equity-investors/shareholder-information",
+    "quote": "Industrial and commercial Bank of China 325.0 19.7",
+    "note": "Top-10 shareholders table, 1H26 column: 'Beneficial holdings determined from the share register and investigations conducted on our behalf in terms of section 56 of the Companies Act as at 30 June 2026'; second line: 'Government Employees Pension Fund (PIC) 235.7 14.3'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "FinHive Africa: Who Owns Africa's Biggest Banks?",
+      "date": "2026-05-28",
+      "url": "https://finhive.africa/who-owns-africas-biggest-banks-inside-the-capital-behind-the-continents-lenders",
+      "quote": "ICBC’s 19.6% stake in Standard Bank remains the single largest strategic investment in African banking",
+      "note": "FinHive gives the stake as 19.6% (325 million shares, 'held for 19 years' without reduction) against Standard Bank Group's own 19.7%, and says the 2007 deal came with two board seats, including the right to nominate a deputy chairman.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wbc-major-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "we-buy-cars-holdings"
+  ],
+  "text": "WeBuyCars is the brand of We Buy Cars Holdings, listed on the JSE Main Board (share code WBC) since April 2024 after Transaction Capital's unbundling. Its largest disclosed shareholders are the Public Investment Corporation (15.775%, March 2026), Coronation Fund Managers (14.87%, September 2025), I VDW Holdings (5.65%, February 2026), Allan Gray (5.16%, July 2026) and Camissa Asset Management (5.05%, July 2026).",
+  "short": "We Buy Cars Holdings is JSE-listed; its largest disclosed holder is the Public Investment Corporation with 15.775%.",
+  "source": {
+    "name": "SA Shares: We Buy Cars Holdings major shareholders (aggregated from JSE SENS beneficial-interest disclosures)",
+    "date": "2026-10-02",
+    "url": "https://sashares.co.za/we-buy-cars-shares",
+    "quote": "Public Investment Corporation: 15.775% on 30 March 2026 - Coronation Fund Managers: 14.87% on 30 September 2025",
+    "note": "The same list shows I VDW Holdings Proprietary Limited: 5.65% on 2 February 2026; Allan Gray Proprietary Limited: 5.1557% on 14 July 2026; Camissa Asset Management Proprietary Limited: 5.05% on 15 July 2026. The page also says the company 'listed separately on the JSE Main Board under the share code WBC on 11 April 2024 during Transaction Capital's unbundling. Transaction Capital no longer owns shares in the group.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
