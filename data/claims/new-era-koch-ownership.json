@@ -1,0 +1,20 @@
+{
+  "id": "new-era-koch-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "koch-family"
+  ],
+  "text": "New Era Cap is controlled by its founding Koch family (fourth-generation CEO Chris Koch); private equity firm ACON Investments holds a significant stake.",
+  "short": "New Era Cap is controlled by its founding Koch family; ACON Investments holds a significant stake.",
+  "source": {
+    "name": "Reuters via Yahoo Finance Canada: New Era Cap to acquire '47 in lifestyle brand tie-up, sources say",
+    "date": "2024-06-06",
+    "url": "https://ca.finance.yahoo.com/news/era-cap-acquire-47-lifestyle-191738981.html",
+    "quote": "New Era is controlled by its founding family, and private equity firm ACON Investments holds a significant stake.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

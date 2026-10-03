@@ -12,27 +12,45 @@
       "sponsorId": "edgeconnex",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - OKGC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/okgc"
+        "name": "KFOR via Yahoo Sports: LIV Golf introduces OKGC as its first U.S. regional franchise",
+        "date": "2026-04-21",
+        "url": "https://sports.yahoo.com/articles/liv-golf-introduces-okgc-first-184613297.html",
+        "note": "Names EdgeConneX an OKGC pillar partner; the Edge ConneX logo also sits in the partner grid of the official OKGC team page (livgolf.com/okgc, opened 2026-10-03). The original kfor.com article 403s for scripts, so the Yahoo syndication is cited.",
+        "quote": "OKGC will launch with pillar partnerships from NOBULL and EdgeConnex",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "no-bull",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - OKGC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/okgc"
+        "name": "KFOR via Yahoo Sports: LIV Golf introduces OKGC as its first U.S. regional franchise",
+        "date": "2026-04-21",
+        "url": "https://sports.yahoo.com/articles/liv-golf-introduces-okgc-first-184613297.html",
+        "note": "Names NOBULL an OKGC pillar partner; the No Bull logo also sits in the partner grid of the official OKGC team page (livgolf.com/okgc, opened 2026-10-03). The original kfor.com article 403s for scripts, so the Yahoo syndication is cited.",
+        "quote": "OKGC will launch with pillar partnerships from NOBULL and EdgeConnex",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "new-era",
       "placement": "partner",
       "source": {
-        "name": "LIV Golf - OKGC team page",
-        "date": "2026-09-25",
-        "url": "https://www.livgolf.com/okgc"
+        "name": "LIV Golf press release: New Era Cap and LIV Golf announce multi-year partnership",
+        "date": "2024-04",
+        "url": "https://www.livgolf.com/news/new-era-cap-and-liv-golf-announce-multi-year-partnership",
+        "note": "League-wide deal: New Era Cap is Official Cap of the LIV Golf League and its products are worn by LIV Golf players of every team, including OKGC; the New Era logo sits in the OKGC team page partner grid (livgolf.com/okgc, opened 2026-10-03). The page shows only a relative date ('29 months ago', read 2026-10-03); the partnership was announced and covered in April 2024.",
+        "quote": "announced a multi-year partnership in which New Era Cap will become the Official Cap of the LIV Golf League",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
