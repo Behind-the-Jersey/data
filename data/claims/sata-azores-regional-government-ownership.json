@@ -4,8 +4,8 @@
   "ownerIds": [
     "sata-group"
   ],
-  "text": "The SATA group is ultimately controlled by the Portuguese Autonomous Region of the Azores: the regional government owns SATA Holding, the parent of Azores Airlines, and is selling at least 75% of the airline in a privatisation process still running in September 2026.",
-  "short": "The Regional Government of the Azores controls the SATA group and owns its holding company",
+  "text": "The SATA group is ultimately controlled by the Portuguese Autonomous Region of the Azores; the group's privatisation of Azores Airlines (sale of at least 75% of its capital) was still running in September 2026.",
+  "short": "The European Commission: the SATA group is ultimately controlled by the Autonomous Region of the Azores",
   "source": {
     "name": "European Commission press release: State aid: Commission approves €453.25 million Portuguese restructuring aid in favour of SATA Group (IP/22/3525)",
     "date": "2022-06-07",
@@ -18,10 +18,11 @@
   },
   "additionalSources": [
     {
-      "name": "Herald News (Reuters/O Jornal): Eight investors eye majority stake in Portugal's Azores Airlines",
-      "date": "2026-09-08",
-      "url": "https://www.heraldnews.com/story/news/local/ojornal/2026/09/08/eight-investors-eye-majority-stake-in-azores-airlines/91664391007/",
-      "quote": "SATA Holding, which is owned by the Azores regional government, is seeking to sell at least a 75% stake in Azores Airlines",
+      "name": "Azores Airlines: SATA Holding recebe oito manifestações de interesse",
+      "date": "2026-09",
+      "url": "https://www.azoresairlines.pt/pt-pt/node/1983",
+      "note": "Page without a date; opened 2026-10-03. English: 'At issue is the disposal of at least 75% of the company's share capital.' The notice refers to the expression-of-interest deadline of 6 September 2026, so the privatisation was still running then. Reuters (via O Jornal/Herald News, 8 Sept 2026) adds that SATA Holding 'is owned by the Azores regional government'.",
+      "quote": "Em causa está a alienação de, pelo menos, 75% do capital social da empresa",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
