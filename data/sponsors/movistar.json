@@ -1,14 +1,19 @@
 {
   "id": "movistar",
   "name": "Movistar",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "telefonica",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Movistar is Telefónica's commercial brand for Spain and Hispanic America; Telefónica has no controlling shareholder, and its significant holders include SEPI (10.00%), CriteriaCaixa (9.99%) and Saudi Arabia's PIF (9.97% via Green Bridge/stc, with a board seat).",
+  "claimIds": [
+    "saudi-executions-2024",
+    "telefonica-significant-shareholders-2025",
+    "telefonica-stc-board-seat",
+    "movistar-telefonica-brand"
+  ],
   "aliases": [
     "telefonica"
   ],
-  "note": "Spanish telecoms brand of Telefónica (listed)."
+  "note": "Spanish telecoms brand of Telefónica (listed). Title sponsor of the men's UCI WorldTeam and the women's UCI Women's WorldTeam. Rating note: on hold for a maintainer. Proposal: concern — Saudi Arabia's Public Investment Fund held 9.97% of Telefónica at 31 December 2025 (telefonica-significant-shareholders-2025) and stc's CEO sits on Telefónica's board (telefonica-stc-board-seat); Saudi Arabia's record of 345 executions in 2024 is documented in saudi-executions-2024."
 }
