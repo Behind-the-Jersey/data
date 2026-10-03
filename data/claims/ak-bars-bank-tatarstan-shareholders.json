@@ -6,18 +6,31 @@
     "svyazinvestneftekhim",
     "republic-of-tatarstan"
   ],
-  "text": "Ak Bars Bank's largest shareholders, each above 10% of its capital, are the State Housing Fund under the President of the Republic of Tatarstan (20.41%), the Republic of Tatarstan (19.79%), AO Svyazinvestneftekhim (13.61%) and PAO Tatneft (10.41%), per the bank's Cbonds profile.",
+  "text": "As of 29 October 2020, Ak Bars Bank's own register of shareholders listed the State Housing Foundation under the President of the Republic of Tatarstan with 20.41%, the Republic of Tatarstan (through its Ministry of Land and Property Relations) with 19.79%, Svyazinvestneftekhim with 13.61% and Tatneft with 10.41%. The bank's Cbonds profile carries the same four largest stakes without a date.",
   "short": "Tatarstan state bodies and companies are Ak Bars Bank's largest shareholders, above 50% combined.",
   "source": {
-    "name": "Cbonds: Ак Барс Банк company profile",
-    "date": "2026-10-03",
-    "url": "https://cbonds.ru/company/AKBARS/",
-    "quote": "Крупнейшими акционерами банка, с долей более 10% капитала, являются: Государственный жилищный фонд при Президенте РТ – 20.41%, Республика Татарстан – 19.79%, АО Связьинвестнефтехим – 13.61%, ПАО Татнефть – 10.41%",
-    "note": "Translation: 'The bank's largest shareholders, holding more than 10% of capital, are: the State Housing Fund under the President of the Republic of Tatarstan – 20.41%, the Republic of Tatarstan – 19.79%, AO Svyazinvestneftekhim – 13.61%, PAO Tatneft – 10.41%.' Vintage caution: the page gives no date for this list and the identical figures appear in Russian Wikipedia 'as of 15 June 2020', so the profile may echo the bank's June 2020 disclosure; Single independent source found: the bank's own site and e-disclosure block scripted access, and its 2025 published IFRS statements redact shareholder detail as 'sensitive information'. Svyazinvestneftekhim identifies the Republic of Tatarstan as its sole shareholder (claim svyazinvestneftekhim-republic-of-tatarstan).",
+    "name": "Ak Bars Bank — Principal Shareholders (bank's own site, archived 20 Jan 2021 by the Wayback Machine)",
+    "date": "2021-01-20",
+    "url": "https://web.archive.org/web/20210120131715/https://www.akbars.ru/en/investor-relations/corporate-governance/principal-shareholders/",
+    "quote": "Register of shareholders of Ak Bars Bank holding at least 1% of the Bank’s shares As of 29.10.2020 Name of shareholder Share in authorized capital (in %) Non-Profit Organization «State Housing Foundation under the President of the Republic of Tatarstan» 20,410 Republic of Tatarstan",
+    "note": "The bank's own register page, archived by the Wayback Machine because akbars.ru blocks scripted access from datacenter IPs. The register continues: Republic of Tatarstan (via its Ministry of Land and Property Relations) 19.789%, Svyazinvestneftekhim 13.610%, Tatneft 10.413%.",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Cbonds: Ак Барс Банк company profile",
+      "date": "2026-10-03",
+      "url": "https://cbonds.ru/company/AKBARS/",
+      "quote": "Крупнейшими акционерами банка, с долей более 10% капитала, являются: Государственный жилищный фонд при Президенте РТ – 20.41%, Республика Татарстан – 19.79%, АО Связьинвестнефтехим – 13.61%, ПАО Татнефть – 10.41%",
+      "note": "Translation: 'The bank's largest shareholders, holding more than 10% of capital, are: the State Housing Fund under the President of the Republic of Tatarstan – 20.41%, the Republic of Tatarstan – 19.79%, AO Svyazinvestneftekhim – 13.61%, PAO Tatneft – 10.41%.' Vintage caution: Cbonds' profile gives no date; its figures exactly match the bank's own October 2020 register. Later registers could not be opened from this environment (akbars.ru times out, e-disclosure.ru returns 403), and the bank's 2025 published IFRS statements redact shareholder detail as 'sensitive information'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }

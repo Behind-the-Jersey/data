@@ -18,5 +18,18 @@
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Kommersant-Kazan: «Связьинвестнефтехим» станет крупнейшим акционером банка «Ак барс»",
+      "date": "2009-08-08",
+      "url": "https://www.kommersant.ru/doc/1218541",
+      "quote": "100% акций СИНХ владеет правительство Татарстана.",
+      "note": "Translation: '100% of SINKh [Svyazinvestneftekhim] shares are owned by the government of Tatarstan.' Same article, quoting the bank's press office in 2009: 'the government of Tatarstan, through ministries, state organizations and related companies, controls 96% of the bank's charter capital'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
