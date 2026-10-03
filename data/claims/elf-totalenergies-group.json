@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "TotalEnergies – Lubricants page, products and services section (totalenergies.com)",
+      "date": "2026-10-03",
+      "url": "https://www.totalenergies.com/en/lubricants",
+      "quote": "Lubricants: https://lubricants.totalenergies.com/ https://elf.com/en",
+      "note": "TotalEnergies' own site lists elf.com among its lubricants websites. The page carries no publication date; the date given is the date the page was opened.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
