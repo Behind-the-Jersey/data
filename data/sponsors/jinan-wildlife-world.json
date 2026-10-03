@@ -1,0 +1,29 @@
+{
+  "id": "jinan-wildlife-world",
+  "name": "Jinan Wildlife World (济南野生动物世界)",
+  "ownerId": "jinan-culture-tourism-group",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Jinan Wildlife World is a park managed and operated by Jinan Culture & Tourism Development Group, which lists Jinan Wildlife World Co., Ltd. among its investments; the group is 93.19% held and controlled by the Jinan municipal SASAC. Back-of-shirt sponsor of Shandong Taishan for the 2026 CSL season.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "jinan-wildlife-world-jctg-operations",
+    "jctg-jinan-sasac-ownership"
+  ],
+  "aliases": [
+    "济南野生动物世界",
+    "Jinan Wild Animal World"
+  ],
+  "why": {
+    "text": "Jinan Wildlife World, advertised on the back of the shirt, is managed and operated by Jinan Culture & Tourism Development Group, whose largest shareholder and actual controller (93.19%) is the Jinan municipal state-assets commission. The UN human rights office found in 2022 that serious human rights violations were committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind the back of the shirt is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "jinan-wildlife-world-jctg-operations",
+      "jctg-jinan-sasac-ownership"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Back-of-shirt sponsor of Shandong Taishan in the 2026 Chinese Super League season (named press: Tencent News / 九五体育, 2026-03-17). Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims jinan-wildlife-world-jctg-operations + jctg-jinan-sasac-ownership: the park is managed and operated by Jinan Culture & Tourism Development Group, which lists Jinan Wildlife World Co., Ltd. among its investments, and the group's 93.19% shareholder and actual controller is the Jinan municipal SASAC; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment: UN OHCHR 2022 Xinjiang assessment plus Human Rights Watch 2026) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers)."
+}

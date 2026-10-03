@@ -1,0 +1,46 @@
+{
+  "id": "jctg-jinan-sasac-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "jinan-culture-tourism-group",
+    "jinan-municipal-government"
+  ],
+  "text": "The Jinan municipal State-owned Assets Supervision and Administration Commission holds 93.19% of Jinan Culture & Tourism Development Group and is its largest shareholder and actual controller; Shandong Caixin Asset Operation Co., Ltd. holds 6.81%.",
+  "short": "Jinan SASAC holds 93.19% of Jinan Culture & Tourism Group and controls it.",
+  "source": {
+    "name": "搜狐/金融界 (Sohu / JRJ.com, via 经济导报 Economic Herald): 济南文旅集团换帅！总经理王学军接任法定代表人，白冰退出董事长岗位",
+    "date": "2026-07-21",
+    "url": "https://www.sohu.com/a/1052927235_114984",
+    "quote": "股权结构显示，公司大股东、实际控制人济南市国资委持股93.19%；山东省财欣资产运营有限公司持股6.81%。",
+    "note": "Translation: 'The shareholding structure shows the company's largest shareholder and actual controller, the Jinan Municipal SASAC, holds 93.19%; Shandong Caixin Asset Operation Co., Ltd. holds 6.81%.' The article cites the National Enterprise Credit Information Publicity System and the Economic Herald (经济导报).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "澎湃新闻·澎湃号·媒体/山东财经报道 (The Paper / Shandong Business Report): 济南文旅集团换帅！总经理王学军接任法定代表人",
+      "date": "2026-07-21",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33628569",
+      "quote": "股权结构显示，公司大股东、实际控制人济南市国资委持股93.19%；山东省财欣资产运营有限公司持股6.81%。",
+      "note": "Translation as for the Sohu source; the same Shandong Business Report (山东财经报道) copy carried by The Paper's media channel.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "山东人才就业网 (Shandong Talent Employment Network): 2026年济南文旅发展集团有限公司校园招聘公告（20人）",
+      "date": "2026-04-03",
+      "url": "https://www.sdrcjy.com.cn/index.php?g=Wap&a=shows&catid=66&id=53204",
+      "quote": "济南文旅发展集团有限公司(以下简称集团)是济南市政府2017年6月批准设立的市属一级国有企业",
+      "note": "Translation: 'Jinan Culture & Tourism Development Group Co., Ltd. (the Group) is a first-level municipal state-owned enterprise established with the approval of the Jinan municipal government in June 2017.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

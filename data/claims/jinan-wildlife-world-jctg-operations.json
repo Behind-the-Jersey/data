@@ -1,0 +1,34 @@
+{
+  "id": "jinan-wildlife-world-jctg-operations",
+  "kind": "ownership",
+  "ownerIds": [
+    "jinan-culture-tourism-group"
+  ],
+  "text": "Jinan Culture & Tourism Development Group manages and operates Jinan Wildlife World, and lists Jinan Wildlife World Co., Ltd. among its outward investments.",
+  "short": "Jinan Culture & Tourism Group operates Jinan Wildlife World.",
+  "source": {
+    "name": "山东人才就业网 (Shandong Talent Employment Network): 2026年济南文旅发展集团有限公司校园招聘公告（20人）",
+    "date": "2026-04-03",
+    "url": "https://www.sdrcjy.com.cn/index.php?g=Wap&a=shows&catid=66&id=53204",
+    "quote": "现管理运营天下第一泉风景区(5A)、济南奥体中心、济南野生动物世界、济南鲜花港等核心资源资产",
+    "note": "Translation: 'It currently manages and operates core assets including the First Spring Under Heaven scenic area (5A), Jinan Olympic Sports Center, Jinan Wildlife World and Jinan Flower Port.' The group's own 2026 campus recruitment announcement.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "澎湃新闻·澎湃号·媒体/山东财经报道 (The Paper / Shandong Business Report): 济南文旅集团换帅！总经理王学军接任法定代表人",
+      "date": "2026-07-21",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33628569",
+      "quote": "企查查显示，济南文旅发展集团有限公司对外投资中国绿发投资集团有限公司、山东泰山足球俱乐部股份有限公司、济南野生动物世界有限公司等23家企业",
+      "note": "Translation: 'Qichacha shows that Jinan Culture & Tourism Development Group has outward investments in 23 companies including China Green Development Investment Group, Shandong Taishan Football Club Co., Ltd. and Jinan Wildlife World Co., Ltd.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

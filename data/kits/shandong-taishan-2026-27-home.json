@@ -1,0 +1,60 @@
+{
+  "id": "shandong-taishan-2026-27-home",
+  "clubId": "shandong-taishan",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "first-spring-under-heaven",
+      "placement": "front",
+      "source": {
+        "name": "腾讯新闻·九五体育：三大行业，成为中超球队胸前广告的赞助商 (Tencent News: the three industries behind CSL clubs' chest sponsors)",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "note": "Named press reports Shandong Taishan's 2026 chest (front-of-shirt) advert is '天下第一泉' (First Spring Under Heaven) — Baotu Spring — promoted by the club controlled by Jinan Culture & Tourism Development Group.",
+        "quote": "山东泰山足球俱乐部的胸前广告是“天下第一泉”",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "jinan-wildlife-world",
+      "placement": "back",
+      "source": {
+        "name": "腾讯新闻·九五体育：三大行业，成为中超球队胸前广告的赞助商 (Tencent News: the three industries behind CSL clubs' chest sponsors)",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "note": "Same named-press article: the back-of-shirt advert is also from the culture-and-tourism side — Jinan Wildlife World.",
+        "quote": "甚至球衣的背后广告也同样来自文旅方面——济南野生动物世界",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "note": "Kit supplier for all 16 CSL clubs in 2026, including Shandong Taishan (bespoke home design; the launch render carries no printed sponsors).",
+        "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 CSL home kit by Nike (orange, bespoke design). Front sponsor 'First Spring Under Heaven' (天下第一泉, the Jinan scenic-area brand) and back sponsor Jinan Wildlife World, both culture-and-tourism brands tied to club owner Jinan Culture & Tourism Development Group, per named press two rounds into the 2026 season. Not complete: the official launch render shows no printed sponsors, and no openable source names sleeve, shorts or league-patch placements; the club's December 2025 sponsor roster (State Grid, Shandong Energy Group, China Green Development, the Yingda trio, Jinan Rail Transit, Jinan Culture & Tourism, Qingdao Bank, FAW-Volkswagen, Baotu Spring Liquor — Sohu, 2025-12-11) gives no shirt placements.",
+  "change": null
+}
