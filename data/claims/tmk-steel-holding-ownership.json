@@ -1,0 +1,20 @@
+{
+  "id": "tmk-steel-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tmk-steel-holding"
+  ],
+  "text": "MKOOO TMK Steel Holding holds 85.27% of the shares of PAO TMK (Trubnaya Metallurgicheskaya Kompaniya); the remaining 14.73% are in free float.",
+  "source": {
+    "name": "TMK — Struktura aktsionernogo kapitala (share capital structure), tmk-group.ru",
+    "date": "2026",
+    "url": "https://www.tmk-group.ru/Share_capital_structure",
+    "quote": "МК ООО «ТМК СТИЛ ХОЛДИНГ» 85,27 В свободном обращении 14,73",
+    "note": "Russian; company's own investor page: 'MKOOO TMK STEEL HOLDING 85.27, free float 14.73'. Page undated (site copyright 2020-2026).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

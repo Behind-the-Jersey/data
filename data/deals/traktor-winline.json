@@ -1,0 +1,22 @@
+{
+  "id": "traktor-winline",
+  "clubId": "traktor-chelyabinsk",
+  "orgName": null,
+  "sponsorId": "winline",
+  "placement": "partner",
+  "from": "2022-07",
+  "to": "2024-25",
+  "value": null,
+  "source": {
+    "name": "HC Traktor official site — 'Winline stal ofitsialnym partnerom chelyabinskogo Traktora'",
+    "date": "2022-07",
+    "url": "https://hctraktor.org/media/news/43652-winline-stal-ofitsialnym-partnerom-chelyabinskogo-traktora/",
+    "quote": "Договор, вступивший в силу 15 июля, рассчитан до конца сезона 2024/2025.",
+    "note": "Russian; 'The contract, in force from 15 July, runs to the end of the 2024/25 season.' The club page shows no dateline; its sister Metaratings piece on the same deal is dated 15.07.2022. Reported value: 'up to 450 million roubles' over the term, per Metaratings (https://metaratings.ru/news/traktor-poluchit-do-450-millionov-rubley-po-mnogoletnemu-soglasheniyu-s-vinlayn-1312396/, 15.07.2022, opened 2026-10-03); the figure is in roubles, which the deal schema's currency enum (GBP/EUR/USD) does not support, so value is null.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Deal effective 15 July 2022 and running to the end of the 2024/25 season per the club's announcement (the source cited here); reported value up to RUB 450m over the term per Metaratings (see source note). stavka.tv (Oct 2026) still lists HC Traktor among Winline's 2026 club partners."
+}

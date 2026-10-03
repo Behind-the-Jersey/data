@@ -1,12 +1,17 @@
 {
   "id": "winline",
   "name": "Winline",
-  "ownerId": "winline",
+  "ownerId": "uk-nks",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Krasnodar shirt sponsor per its partner page; also a Zenit partner."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Russian bookmaker run by OOO UK NKS; largest shareholder Andrey Myslivtsev (45%). Nothing found.",
+  "claimIds": [
+    "winline-uk-nks-ownership"
+  ],
+  "aliases": [
+    "Винлайн",
+    "Winline.ru"
+  ],
+  "note": "Partner of HC Traktor since July 2022 (club announcement); the club's 2026-27 match photos show the Winline mark above the back number and on the sleeve. Also a Krasnodar shirt sponsor per its partner page, and a Zenit partner. Aliases updated."
 }
