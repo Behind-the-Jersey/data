@@ -1,0 +1,21 @@
+{
+  "id": "betcity-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "betcity"
+  ],
+  "text": "The Betcity bookmaker chain is run by LLC Fortuna, controlled by the holding ООО «Бетсити»; in early 2025 founder Sergey Samsonenko's 60% stake in that holding passed to a personal fund «Мак» whose owners are undisclosed.",
+  "short": "Betcity (Fortuna) control moved from founder Samsonenko to a personal fund with undisclosed owners.",
+  "source": {
+    "name": "Город N (gorodn.ru): «Контроль за букмекерской сетью «Бетсити» передан в личные фонды»",
+    "date": "2025-02-08",
+    "url": "https://gorodn.ru/razdel/novosti_kompaniy/praktika_biznesa/kontrol-za-bukmekerskoy-setyu-_betsiti_-peredan-v-lichnye-fondy/",
+    "note": "Translation: 'The controlling stake in Betcity (60%) passed from Sergey Samsonenko to the personal fund Mak. … Details of the funds' owners are hidden.' The article describes ООО «Бетсити» as controlling LLC Fortuna, which runs the Betcity bookmaker chain.",
+    "quote": "Контрольный пакет акций «Бетсити» (60%) перешел от Сергея Самсоненко в личный фонд «Мак».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

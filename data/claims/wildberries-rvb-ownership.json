@@ -1,0 +1,21 @@
+{
+  "id": "wildberries-rvb-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rvb"
+  ],
+  "text": "Wildberries operates through ООО «РВБ», the combined Wildberries–Russ company: 65% of RVB belongs to ООО «Вайлдберриз», wholly owned by Tatyana Kim, and 35% to ООО «Стинн» of the Russ group.",
+  "short": "Wildberries is in RVB: 65% Tatyana Kim's Вайлдберриз, 35% Russ's Stinn.",
+  "source": {
+    "name": "Т—Ж (Tinkoff Journal): «Кому принадлежит Wildberries в 2026: кто сейчас владелец маркетплейса» (archived copy)",
+    "date": "2026-07-30",
+    "url": "https://web.archive.org/web/20260801182428/https://t-j.ru/whose-wb/",
+    "note": "Translation: 'As of July 2026 the main legal entity of the combined Wildberries and Russ business is ООО «РВБ». 65% of this company belongs to ООО «Вайлдберриз», wholly owned by Tatyana Kim, and the remaining 35% to ООО «Стинн».'",
+    "quote": "65% этой компании принадлежит ООО «Вайлдберриз», которым полностью владеет Татьяна Ким, а остальные 35% — ООО «Стинн».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
