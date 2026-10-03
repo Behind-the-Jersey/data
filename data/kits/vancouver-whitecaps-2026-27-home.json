@@ -12,13 +12,48 @@
       "sponsorId": "telus",
       "placement": "front",
       "source": {
-        "name": "mlssoccer.com",
+        "name": "Vancouver Whitecaps FC – 'Vancouver Whitecaps FC unveil The Peak jersey'",
+        "date": "2025",
+        "url": "https://www.whitecapsfc.com/news/vancouver-whitecaps-fc-unveil-the-peak-jersey",
+        "quote": "the jersey features premier partner TELUS across the chest and a refreshed take on the iconic hoop",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club launch of the current white home shirt ('The Peak'), worn since the 2025 season and carried into 2026 (adidas 25/26 two-year cycle; For Soccer's 2026 MLS jersey sponsors survey lists Telus as Vancouver's jersey partner for 2026: https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/)."
+      }
+    },
+    {
+      "sponsorId": "blg",
+      "placement": "sleeve",
+      "source": {
+        "name": "BLG – 'BLG is official law firm and jersey sleeve partner of Vancouver Whitecaps FC'",
+        "date": "2025-05-30",
+        "url": "https://www.blg.com/en/about-us/news/2025/05/blg-is-official-law-firm-and-jersey-sleeve-partner-of-vancouver-whitecaps-fc",
+        "quote": "unveiling BLG as the club’s Official Law Firm and Jersey Sleeve Partner",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Right sleeve per For Soccer's 2026 MLS jersey sponsors survey, sleeve table row 'Vancouver Whitecaps | Apple TV | Media | BLG | Law': https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER",
         "date": "2026-02-17",
-        "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-fc-announce-telus-as-new-front-of-jersey-sponsor"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. The white home shirt ('The Peak') carries premier partner TELUS across the chest and the BLG sleeve patch on the right sleeve."
 }
