@@ -1,0 +1,21 @@
+{
+  "id": "hsbc-major-shareholders-2025",
+  "kind": "ownership",
+  "ownerIds": [
+    "hsbc-holdings"
+  ],
+  "text": "HSBC Holdings plc is a listed company (London, Hong Kong, New York, Bermuda). Its 2025 Form 20-F ('Notifiable interests in share capital') reports that it received no notification of major holdings of voting rights under UK DTR Rule 5 during 2025, and lists the notified interests on its Hong Kong SFO section 336 register as: BlackRock, Inc., long position of 9.09% of ordinary shares (notice of 16 July 2025); Ping An Asset Management Co., Ltd., long position of 7.98% of ordinary shares (notice of 10 May 2024); and The Bank of New York Mellon Corporation, long position of 6.01% as depositary for the HSBC ADSs (notice of 17 October 2025).",
+  "short": "HSBC Holdings' notified major interests: BlackRock 9.09%, Ping An Asset Management 7.98%, BNY Mellon 6.01% (ADS depositary).",
+  "source": {
+    "name": "HSBC: Form 20-F 2025 (as filed with the SEC 26 February 2026), 'Notifiable interests in share capital'",
+    "date": "2026-02-26",
+    "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2025/annual/pdfs/hsbc-holdings-plc/260226-hsbc-holdings-plc-form-20-f.pdf",
+    "quote": "BlackRock, Inc. gave notice on 16 July 2025 that on 11 July 2025 it had the following interests in HSBC Holdings ordinary shares",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Same section (p. 283): 'Ping An Asset Management Co., Ltd. gave notice on 10 May 2024 that on 7 May 2024 it had a long position of 1,502,584,731 in HSBC Holdings ordinary shares, representing 7.98%'; BNY Mellon 6.01% long as depositary for the HSBC ADSs; 'During 2025, HSBC Holdings did not receive any notification of major holdings of voting rights' under DTR Rule 5."
+  },
+  "reviewed": false
+}

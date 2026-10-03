@@ -1,0 +1,34 @@
+{
+  "id": "seamless-digital-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "seamless-digital-holdings"
+  ],
+  "text": "Seamless Digital is the brand of Seamless Digital Ltd (UK company 13846251, Towcester; founder and CEO Mark Turner), whose Companies House persons-with-significant-control register names Seamless Digital Holdings Limited (no. 14628781) with 75% or more of its shares and voting rights and the right to appoint or remove directors. The Holdings company's own PSC register names two individuals, Mark Antony Castro Turner and Robert Rodrigues Decastro Turner, each with more than 25% but not more than 50% of shares and voting rights.",
+  "short": "Seamless Digital is controlled by Seamless Digital Holdings Limited, owned by Mark Antony Castro Turner and Robert Rodrigues Decastro Turner.",
+  "source": {
+    "name": "Companies House: persons with significant control, SEAMLESS DIGITAL LTD (13846251)",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13846251/persons-with-significant-control",
+    "quote": "1 active person with significant control / 0 active statements Seamless Digital Holdings Limited Active",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Register page without a date, opened 2026-10-03. Same page: nature of control 'Ownership of shares – 75% or more', 'Ownership of voting rights - 75% or more', 'Right to appoint or remove directors', notified 3 July 2023. seamlessdigital.com/about-us names Mark Turner as Founder and CEO of Seamless Digital and carries the footer '© 2022 Seamless Digital Ltd'."
+  },
+  "additionalSources": [
+    {
+      "name": "Companies House: persons with significant control, SEAMLESS DIGITAL HOLDINGS LIMITED (14628781)",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/14628781/persons-with-significant-control",
+      "quote": "2 active persons with significant control / 0 active statements Mark Antony Castro Turner Active",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Register page without a date, opened 2026-10-03. The second PSC, Mr Robert Rodrigues Decastro Turner, has the same nature of control: 'More than 25% but not more than 50%' of shares and voting rights."
+    }
+  ],
+  "reviewed": false
+}
