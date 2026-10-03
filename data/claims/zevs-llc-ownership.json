@@ -1,0 +1,21 @@
+{
+  "id": "zevs-llc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zevs-llc"
+  ],
+  "text": "ZEVS LLC (ООО «ЗЕВС») is owned 50% by Darina Borisovna Denisova and 50% by Andrey Nikolaevich Petukhov.",
+  "short": "ZEVS is owned 50/50 by Darina Denisova and Andrey Petukhov.",
+  "source": {
+    "name": "Checko.ru: ООО «ЗЕВС» company profile (EGRUL extract)",
+    "date": "2026-10-03",
+    "url": "https://checko.ru/company/zevs-1197746286924",
+    "quote": "Денисова Дарина Борисовна ИНН 770901264436 с 20 октября 2021 г. 210 млн руб. 50% 2. Петухов Андрей Николаевич ИНН 770871288500 с 8 ноября 2021 г. 210 млн руб. 50%",
+    "note": "Russian company registry (EGRUL) data: ZEVS founders table lists Darina Denisova 50% since 20 Oct 2021 and Andrey Petukhov 50% since 8 Nov 2021.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

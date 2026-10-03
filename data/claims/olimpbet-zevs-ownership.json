@@ -1,0 +1,21 @@
+{
+  "id": "olimpbet-zevs-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zevs-llc"
+  ],
+  "text": "ZEVS LLC holds 97.5% of BK Olimp LLC (ООО «БК «ОЛИМП»), the Moscow bookmaker operating the Olimpbet brand (olimp.bet). The remaining 2.5% is held by the company's director Sergey Kozyavkin.",
+  "short": "Olimpbet (BK Olimp LLC) is 97.5% owned by ZEVS LLC.",
+  "source": {
+    "name": "Checko.ru: ООО «БК ОЛИМП» company profile (EGRUL extract)",
+    "date": "2026-10-03",
+    "url": "https://checko.ru/company/bk-olimp-1127747004648",
+    "quote": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗЕВС\" ОГРН 1197746286924 с 25 сентября 2020 г. 150 млн руб. 97.5%",
+    "note": "Russian company registry (EGRUL) data: ZEVS LLC, registered 25 Sep 2020, holds a 97.5% share (150 mln RUB) of BK Olimp LLC; preceding row shows Kozyavkin S.G. with 2.5%. Page also lists help@olimp.bet as company email, tying the legal entity to the Olimpbet brand.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
