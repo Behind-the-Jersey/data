@@ -2,7 +2,8 @@
   "id": "telefonica-significant-shareholders-2025",
   "kind": "ownership",
   "ownerIds": [
-    "telefonica"
+    "telefonica",
+    "saudi-pif"
   ],
   "text": "At 31 December 2025 the Public Investment Fund of Saudi Arabia held 9.97% of Telefónica's voting rights, indirectly through Green Bridge Investment Company SCS, which is controlled by Saudi Telecom Company (stc), itself controlled by PIF; the same report lists SEPI (Spanish state holding company) at 10.00% and says no person or entity exercises control over Telefónica.",
   "short": "PIF holds 9.97% of Telefónica indirectly via Green Bridge / stc; SEPI 10%; no controlling shareholder.",
@@ -17,5 +18,29 @@
     },
     "note": "PDF pp. 12 and 75 (printed)/A.2 table: 'Sociedad Estatal de Participaciones Industriales (SEPI) 10.00' and 'Public Investment Fund 0.00 9.97 0.00 0.00 9.97'; section 4.2.2 states there is no individual or legal entity that exercises or may exercise control over Telefónica."
   },
+  "additionalSources": [
+    {
+      "name": "Data Center Dynamics: 'STC secures Spanish gov't approval to snap up 9.9% stake in Telefónica'",
+      "date": "2024-11-29",
+      "url": "https://www.datacenterdynamics.com/en/news/stc-secures-spanish-govt-approval-to-snap-up-99-stake-in-telefonica/",
+      "quote": "STC is able to increase its voting rights from 4.97 percent to 9.97 percent and the right to appoint a board member in Telefónica",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The same report states: 'The company is 64 percent owned by the sovereign wealth fund of Saudi Arabia, the Public Investment Fund (PIF).'"
+    },
+    {
+      "name": "Cinco Días (El País): 'STC convierte por fin su 5% de Telefónica y alcanza el 9,97% del capital'",
+      "date": "2025-02-06",
+      "url": "https://cincodias.elpais.com/companias/2025-02-06/stc-convierte-por-fin-su-5-de-telefonica-y-alcanza-el-997-del-capital.html",
+      "quote": "ha convertido en acciones el 5% que posee en derivados para alcanzar el 9,97% del capital de Telefónica",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'converted into shares the 5% it held in derivatives to reach 9.97% of Telefónica's capital'. The article also describes stc as 'participada mayoritariamente por el fondo soberano PIF de Arabia Saudí' (majority-owned by Saudi Arabia's sovereign fund PIF)."
+    }
+  ],
   "reviewed": false
 }

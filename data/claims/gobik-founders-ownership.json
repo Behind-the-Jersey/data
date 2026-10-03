@@ -1,0 +1,21 @@
+{
+  "id": "gobik-founders-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gobik-sport-wear"
+  ],
+  "text": "Gobik is owned by its two founders, José Ramón Ortín and Alberto García, who split the company's share capital fifty-fifty.",
+  "short": "Gobik is owned 50/50 by its founders José Ramón Ortín and Alberto García.",
+  "source": {
+    "name": "Palco23 (Mundo Deportivo): 'La murciana Gobik invertirá 15 millones de euros en su nueva fábrica en Yecla'",
+    "date": "2026-07-10",
+    "url": "https://palco23.mundodeportivo.com/equipamiento/el-fabricante-de-equipamiento-ciclista-gobik-acelera-su-expansion-con-15-millones",
+    "quote": "Los fundadores de la compañía, que se reparten el capital al cincuenta por ciento",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The same article names the founders: 'según han confirmado a Modaes los fundadores de la empresa, José Ramón Ortín y Alberto García'. Translation of the quote: 'The company's founders, who split the capital fifty-fifty'."
+  },
+  "reviewed": false
+}
