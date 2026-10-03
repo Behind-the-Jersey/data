@@ -1,0 +1,29 @@
+{
+  "id": "lonase",
+  "name": "LONASE (Loterie Nationale Sénégalaise)",
+  "ownerId": "government-of-senegal",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Senegal's public lottery and games-of-chance operator, a named sponsor of ASC Ville de Dakar's 2026 BAL campaign.",
+  "claimIds": [
+    "lonase-state-ownership",
+    "senegal-protest-crackdown-2021-2024"
+  ],
+  "aliases": [
+    "Loterie Nationale Sénégalaise",
+    "Loterie Nationale Senegalaise",
+    "Senegal National Lottery"
+  ],
+  "ownerVerb": "paid for by",
+  "why": {
+    "text": "Amnesty International says Senegalese security forces killed at least 65 protesters and arrested a further 2,000 people between 2021 and 2024. LONASE, one of the club's sponsors, is Senegal's public lottery operator, a public enterprise of the Senegalese state.",
+    "claimIds": [
+      "senegal-protest-crackdown-2021-2024",
+      "lonase-state-ownership"
+    ],
+    "messageLine": "Amnesty International says Senegalese security forces killed at least 65 protesters between 2021 and 2024.",
+    "status": "draft"
+  },
+  "note": "Rating note: on hold for a maintainer. Propose 'serious' per METHOD.md — LONASE is a Senegalese public enterprise ('entreprise publique', '100% Public' per its own site; created as a 'Société Nationale' by law in 1987), so the state with the documented 2021–2024 protest-crackdown record (Amnesty, HRW) controls it. Same France/Renault caveat as the Port Autonome de Dakar: the protest-policing character of the record is for a maintainer to weigh."
+}

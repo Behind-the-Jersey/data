@@ -1,0 +1,34 @@
+{
+  "id": "senegal-protest-crackdown-2021-2024",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-senegal"
+  ],
+  "text": "Between 2021 and 2024, Senegalese security forces routinely used excessive and lethal force against protesters; Amnesty International and other civil-society organizations counted at least 65 people killed, the majority by firearms, with at least 1,000 wounded and a further 2,000 arrested.",
+  "short": "Senegal 2021–2024: at least 65 protesters killed, 2,000 arrested (Amnesty)",
+  "source": {
+    "name": "Amnesty International: Senegal — Authorities must deliver justice to victims of violent repression of protests since 2021",
+    "date": "2025-03-06",
+    "url": "https://www.amnesty.org/en/latest/news/2025/03/senegal-authorities-must-deliver-justice-to-victims-of-violent-repression-of-protests-since-2021/",
+    "quote": "security forces routinely deployed excessive and lethal use of force against protesters. According to figures gathered by Amnesty International and other civil society organizations, at least 65 people were killed",
+    "note": "Amnesty's statement on the first anniversary of Senegal's 2024 amnesty law; the same release says a further 2,000 people were arrested and at least 1,000 wounded.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Human Rights Watch — World Report 2024, Senegal chapter",
+      "date": "2024-01",
+      "url": "https://www.hrw.org/world-report/2024/country-chapters/senegal",
+      "quote": "During 2023, arbitrary arrests of opposition figures and activists, security force use of excessive force, unjustified restrictions on civic space, and other human rights violations continued in Senegal.",
+      "note": "HRW's chapter also records the interior minister putting the June 2023 violence at 16 deaths and 500 arrests, and the arrests of journalists and opposition leaders.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
