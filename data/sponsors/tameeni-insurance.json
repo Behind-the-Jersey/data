@@ -1,12 +1,18 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Tameeni Electronic Insurance Brokerage is wholly owned by Rasan Information Technology, a Saudi company listed on the Saudi Exchange (8313); its 5%+ shareholders are Impact46-linked fund vehicles and four individuals. Nothing found.",
+  "claimIds": [
+    "tameeni-rasan-ownership",
+    "rasan-substantial-shareholders"
+  ],
+  "aliases": [
+    "Tameeni",
+    "تأميني"
+  ],
+  "note": "Insurance-comparison platform; badge on the upper chest of many Saudi Pro League shirts in 2026-27."
 }

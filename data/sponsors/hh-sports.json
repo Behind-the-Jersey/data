@@ -1,12 +1,16 @@
 {
   "id": "hh-sports",
   "name": "HH Sports",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit supplier to Al-Fayha."
+  "ownerId": "hh-sport",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "HH Sport is a Kuwait-based sportswear company founded and led by its founder and CEO, former Kuwait captain Hussain Hakim. Nothing found.",
+  "claimIds": [
+    "hh-sport-hussain-hakim-ownership"
+  ],
+  "aliases": [
+    "HH Sport"
+  ],
+  "note": "Kit supplier to Al-Fayha (2026-27 home, away and third); also makes kits for Kuwait SC, Al-Arabi and Kazma."
 }
