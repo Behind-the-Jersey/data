@@ -1,0 +1,75 @@
+{
+  "id": "chengdu-rongcheng-2026-home",
+  "clubId": "chengdu-rongcheng",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "chengdu-rongcheng",
+      "placement": "front",
+      "source": {
+        "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "quote": "成都蓉城足球俱乐部的胸前广告是“成都蓉城、成都建工”",
+        "note": "Translation: 'Chengdu Rongcheng FC's chest advertisement is \"Chengdu Rongcheng, Chengdu Jian Gong\".' The club's own wordmark 成都蓉城 and the sponsor's name 成都建工 form the combined chest-ad text, per the same article and (with match photos) Q队长's 28 June 2026 report.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "chengdu-jian-gong",
+      "placement": "front",
+      "source": {
+        "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "quote": "成都建工集团有限公司与俱乐部同样隶属于成都兴城投资集团有限公司，背后的实际控制人均为成都市国资委",
+        "note": "Translation: 'Chengdu Construction Engineering Group Co., Ltd. and the club are both under Chengdu Xingcheng Investment Group Co., Ltd., and the actual controller behind both is the Chengdu Municipal SASAC.' Named press also documented with match photos that the chest ad still read 成都蓉城 + 成都建工 through 27 June 2026 (Q队长, Tencent News, 2026-06-28).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "wanshi-zhenshui",
+      "placement": "front",
+      "source": {
+        "name": "懂球帝转成都蓉城俱乐部公告 (Dongqiudi, reprint of the club's official announcement): 官方：蓉酒酒业成为成都蓉城战略合作伙伴，获得球衣胸前广告",
+        "date": "2026-05-18",
+        "url": "https://m.dongqiudi.com/article/5855106.html",
+        "quote": "成都蓉酒酒业有限公司正式成为成都蓉城2026赛季战略合作伙伴，其核心品牌“萬世珍水”将闪耀亮相球队一线队球衣胸前",
+        "note": "Translation: 'Chengdu Rongjiu Liquor Co., Ltd. formally becomes Chengdu Rongcheng's 2026-season strategic partner; its core brand \"Wanshi Zhenshui\" will appear on the first-team shirt chest.' Disagreement: a 28 June 2026 press report with match photos (Q队长, Tencent News) found the chest advertisement unchanged through 27 June 2026 — the brand had not yet appeared on the shirt.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "note": "Kit supplier for all 16 CSL clubs in 2026, including Chengdu Rongcheng (bespoke home design).",
+        "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 CSL home kit by Nike (red with black trim, launched 28 January 2026). The chest advertisement in CSL play is the combined 成都蓉城 + 成都建工 wordmark — the club's own brand and group sibling Chengdu Construction Engineering Group, both under Chengdu Xingcheng Investment Group (Chengdu SASAC 90%) — per Tencent News' March 2026 survey, and still unchanged in match photos through 27 June per a second report. On 18 May 2026 the club announced Chengdu Rongjiu Liquor (brand 萬世珍水, 51% Chengdu Industrial Investment Group) as strategic partner for the shirt chest; the same June report found it not yet on the shirt. Back, shorts and sleeve placements not documented in sources we could open, and the Nike launch render carries no printed sponsors, so the list is not complete.",
+  "change": null
+}

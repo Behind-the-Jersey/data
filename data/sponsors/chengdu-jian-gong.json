@@ -1,0 +1,30 @@
+{
+  "id": "chengdu-jian-gong",
+  "name": "Chengdu Jian Gong (成都建工)",
+  "ownerId": "chengdu-construction-engineering-group",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Chengdu Jian Gong is the brand of Chengdu Construction Engineering Group, a wholly owned subsidiary of Chengdu Xingcheng Investment Group; its name forms part of Chengdu Rongcheng's chest advertisement in CSL play.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "chengdu-jiangong-xingcheng-subsidiary",
+    "xingcheng-group-sasac-ownership"
+  ],
+  "aliases": [
+    "成都建工",
+    "成都建工集团有限公司",
+    "CHENGDU CONSTRUCTION"
+  ],
+  "why": {
+    "text": "Chengdu Jian Gong is the brand of Chengdu Construction Engineering Group, which is wholly owned by Chengdu Xingcheng Investment Group, whose controlling shareholder with 90% is the Chengdu municipal state-assets commission. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Chengdu Jian Gong is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "chengdu-jiangong-xingcheng-subsidiary",
+      "xingcheng-group-sasac-ownership"
+    ],
+    "messageLine": "The UN human rights office found that China's large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims chengdu-jiangong-xingcheng-subsidiary + xingcheng-group-sasac-ownership: Chengdu Jian Gong is the brand of a group wholly owned by Chengdu Xingcheng Investment Group, and Chengdu SASAC holds 90% of that group and is its actual controller; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment: UN OHCHR 2022 Xinjiang assessment plus Human Rights Watch 2026) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers)."
+}

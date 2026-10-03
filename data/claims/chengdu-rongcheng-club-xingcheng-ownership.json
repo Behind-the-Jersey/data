@@ -1,0 +1,45 @@
+{
+  "id": "chengdu-rongcheng-club-xingcheng-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "chengdu-xingcheng-investment-group"
+  ],
+  "text": "Chengdu Rongcheng FC Co., Ltd. (成都蓉城足球俱乐部有限公司) is a 95.00%-owned subsidiary of Chengdu Xingcheng Investment Group (established by investment, culture/sports/entertainment business), per the group's credit rating report; the group's own website lists the club company among its member enterprises.",
+  "short": "Chengdu Rongcheng FC is 95% owned by state-owned Chengdu Xingcheng Investment Group.",
+  "source": {
+    "name": "联合资信 (Lianhe Ratings): 成都兴城投资集团有限公司主体长期信用评级报告 (Chengdu Xingcheng Investment Group credit rating report), annex 1-3, second-tier subsidiaries as at end of March 2026",
+    "date": "2026-07-21",
+    "url": "https://www.lhratings.com/uploads/file/20260722/20260722105716822485.pdf",
+    "quote": "成都蓉城足球俱乐部有限公司 文化、体育和娱乐 95.00% 投资设立",
+    "note": "Translation: 'Chengdu Rongcheng FC Co., Ltd. — culture, sports and entertainment — 95.00% held — established by investment.' The report's subsidiary table (data provided by the company).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+      "date": "2026-03-17",
+      "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+      "quote": "成都建工集团有限公司与俱乐部同样隶属于成都兴城投资集团有限公司，背后的实际控制人均为成都市国资委",
+      "note": "Translation: 'Chengdu Construction Engineering Group Co., Ltd. and the club are both under Chengdu Xingcheng Investment Group Co., Ltd., and the actual controller behind both is the Chengdu Municipal SASAC.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "成都兴城投资集团有限公司官网 (Chengdu Xingcheng Investment Group official site), 关于兴城 — 成员企业 (About — member enterprises), via the Wayback Machine",
+      "date": "2025-07-25",
+      "url": "http://web.archive.org/web/20250725090709/https://www.cdxctz.com/about.aspx?t=3",
+      "quote": "成都蓉城足球俱乐部有限公司",
+      "note": "The club company appears in the group's member-enterprise list on its own website (page captured 25 July 2025).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
