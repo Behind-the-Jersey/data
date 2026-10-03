@@ -12,24 +12,64 @@
       "sponsorId": "rsk-group",
       "placement": "front",
       "source": {
-        "name": "Charlton Athletic FC, official announcement",
-        "date": "2025-05-22",
-        "url": "https://www.cafc.co.uk/news/charlton-announce-new-partnership-rsk"
+        "name": "RSK Group: 'RSK Group and Charlton Athletic renew partnership for 2026-27 season'",
+        "date": "2026-07-02",
+        "url": "https://rskgroup.com/news/rsk-group-and-charlton-athletic-renew-partnership/",
+        "quote": "RSK has announced that it will continue as the club’s principal sustainability partner and front-of-shirt sponsor for the 2026–2027 season, extending its support across the men’s, women’s and academy teams.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "todaytix",
       "placement": "back",
       "source": {
-        "name": "Charlton Athletic FC, TodayTix announcement",
-        "date": "2026-06-30",
-        "url": "https://www.cafc.co.uk/news/todaytix-announced-official-experience-partner",
-        "note": "Two-year deal from June 2026 puts the TodayTix logo on the back of the men's and women's first-team shirts; confirmed on the 2026/27 Reebok home kit (2 Jul 2026) and away kit (19 Aug 2026), which women's first-teamers modelled."
+        "name": "SportsMint Media: 'Charlton Athletic FC bring in TodayTix as official experience partner for two years'",
+        "date": "2026-07-01",
+        "url": "https://sportsmintmedia.com/charlton-athletic-fc-bring-in-todaytix-as-official-experience-partner-for-two-years/",
+        "quote": "The TodayTix logo will appear on the back of the men’s and women’s first team shirts throughout the two-year pact",
+        "note": "Club announcement (cafc.co.uk, 30 Jun 2026) is behind an AWS WAF challenge for scripts; SportsMint reports the same deal. Two-year deal from June 2026.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sofnfree",
+      "placement": "sleeve",
+      "source": {
+        "name": "The Guardian: 'Women's Super League 2026-27 preview No 5: Charlton Athletic'",
+        "date": "2026-08-26",
+        "url": "https://www.theguardian.com/football/2026/aug/26/womens-super-league-2026-27-preview-no-5-charlton-athletic",
+        "quote": "A record-breaking partnership has seen haircare brand Sofnfree become the women’s team’s official sleeve partner. The branding will feature on all playing and replica shirts",
+        "note": "Club announcement 'Charlton Women announce record-breaking Sofnfree partnership' (cafc.co.uk, 19 Aug 2026) is behind an AWS WAF challenge for scripts; the Guardian confirms sleeve branding on all women's playing and replica shirts this season.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "reebok",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 'Charlton Athletic 26-27 Home Kit Released'",
+        "date": "2026-07-02",
+        "url": "https://www.footyheadlines.com/1548392840/charlton-athletic-26-27-home-kit-released.html",
+        "quote": "Charlton Athletic’s 26-27 home kit, manufactured by Reebok,",
+        "note": "The women's first team plays in the same 2026/27 Reebok home shirt (sold by the club shop as the WSL home shirt and worn by women's first-teamers in WSL matches).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "RSK Group, a UK engineering and environmental services group, fronts the Charlton Women shirt, with TodayTix on the back.",
+  "sponsorsComplete": true,
+  "summary": "RSK Group, a UK engineering and environmental services group, fronts the Charlton Women shirt, with TodayTix on the back and haircare brand Sofnfree on the sleeve, on a shirt made by Reebok. No shorts sponsor found: London.Bet's back-of-shorts deal covers the men's first team only.",
   "change": {
     "kind": "better",
     "text": "New to the WSL: promoted from WSL2 as play-off winners",

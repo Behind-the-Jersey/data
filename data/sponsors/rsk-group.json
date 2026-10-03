@@ -1,14 +1,16 @@
 {
   "id": "rsk-group",
   "name": "RSK Group",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "alan-ryder",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "rsk-group-ownership"
+  ],
   "aliases": [
     "rsk"
   ],
-  "note": "UK environmental, engineering and technical services group; Charlton's sole front-of-shirt sponsor for men's and women's first teams since 2025/26."
+  "note": "UK environmental, engineering and technical services group (RSK Group Limited, 03761340, Helsby, Cheshire); Charlton's sole front-of-shirt sponsor for men's and women's first teams since 2025/26, renewed for 2026-27 (rskgroup.com). Companies House PSC: Alan Ryder Investments Limited (25-50% of shares and voting rights), itself 75%+ owned by RSK founder and CEO Dr Alasdair Alan Ryder. RSK also took a £500m preferred equity investment from a Searchlight Capital Partners-led consortium with Ares Management (June 2024, searchlightcap.com); preferred equity, no ordinary-share control disclosed. No record evidence found. Propose: none."
 }
