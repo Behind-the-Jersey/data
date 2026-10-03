@@ -1,0 +1,34 @@
+{
+  "id": "limak-hotels-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "limak-holding"
+  ],
+  "text": "Limak Hotels (Limak Turizm) is the hotel business of Limak Şirketler Grubu (Limak Holding), which its own site describes as the owner and operator of one of Türkiye's largest hotel chains, running 9 hotels. Forbes profiles Sezai Bacaksız and Nihat Özdemir as the billionaire partners who founded Limak Construction in 1976.",
+  "short": "Limak Hotels is Limak Holding's hotel arm; Limak was founded by Nihat Özdemir and Sezai Bacaksız.",
+  "source": {
+    "name": "Limak Holding: Turizm sector page",
+    "date": "2026",
+    "url": "https://www.limak.com.tr/sektorler/turizm",
+    "quote": "Türkiye'nin en büyük otel zincirlerinden birinin sahibi ve işletmecisi olan Limak Şirketler Grubu, konuk ağırlama hizmetlerini uluslararası ölçekte genişletmeyi sürdürüyor.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Undated page; year date per repo convention. Same page links limakhotels.com as 'Limak Turizm' and lists the 9 Limak hotels."
+  },
+  "additionalSources": [
+    {
+      "name": "Forbes: Sezai Bacaksiz profile",
+      "date": "2026-03-10",
+      "url": "https://www.forbes.com/profile/sezai-bacaksiz/",
+      "quote": "Sezai Bacaksiz and his billionaire partner, Nihat Ozdemir, met as students at Gazi University and founded Limak Construction in 1976.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Profile 'last updated Mar 10, 2026'. Limak's own founders page still lists Özdemir and Bacaksız as honorary chairs; some low-quality Turkish blogs claim Bacaksız left in 2019."
+    }
+  ],
+  "reviewed": false
+}

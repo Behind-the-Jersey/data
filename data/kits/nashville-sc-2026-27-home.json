@@ -12,13 +12,48 @@
       "sponsorId": "renasant-bank",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "Nashville SC: 'Nashville Soccer Club Introduces ‘Reverb’ Primary Jersey for 2026 and 2027 Seasons'",
+        "date": "2026-02-10",
+        "url": "https://www.nashvillesc.com/news/nashville-sc-introduces-reverb-primary-jersey",
+        "quote": "Renasant, remains the club’s official jersey sponsor with its wordmark proudly displayed across the chest",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The club's kit-launch release for the 'Reverb' primary jersey, worn from the 2026 season opener on 21 February 2026."
+      }
+    },
+    {
+      "sponsorId": "hyundai",
+      "placement": "sleeve",
+      "source": {
+        "name": "Nashville SC: 'Nashville Soccer Club Introduces ‘Reverb’ Primary Jersey for 2026 and 2027 Seasons'",
+        "date": "2026-02-10",
+        "url": "https://www.nashvillesc.com/news/nashville-sc-introduces-reverb-primary-jersey",
+        "quote": "the Hyundai Motor Company returns as the team’s primary sleeve partner",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The live page returns 403 to automated requests from datacenter IPs; quote verified against the Wayback Machine capture of 2026-08-15 (https://web.archive.org/web/20260815091059/https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/), and re-verified on 2026-10-03 during review."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "The 'Reverb' kit, the club's gold primary jersey for 2026 and 2027, with a center crest for the first time in club history. Renasant stays on the front; Hyundai returns as the primary sleeve partner; the league-wide Apple TV+ patch is on the left sleeve of every MLS kit."
 }

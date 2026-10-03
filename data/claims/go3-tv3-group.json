@@ -1,0 +1,20 @@
+{
+  "id": "go3-tv3-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "tv3-group"
+  ],
+  "text": "Go3 is TV3 Group's streaming service; TV3 Group is a portfolio company of Bitė Group and Providence Equity Partners.",
+  "source": {
+    "name": "Viaplay Group: Viaplay Group and TV3 Group enter Baltic agreement",
+    "date": "2024-02-01",
+    "url": "https://www.viaplaygroup.com/en/newsroom/press-releases/viaplay-group-and-tv3-group-enter-baltic-agreement-2199161",
+    "quote": "TV3 Group, the leading media group in Baltics, is a portfolio company of Bite Group and Providence Equity Partners",
+    "note": "Same page describes Go3 as 'TV3 Group's streaming service'.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
