@@ -4,7 +4,7 @@
   "ownerIds": [
     "servicenow-inc"
   ],
-  "text": "ServiceNow, Inc. is listed on the New York Stock Exchange; per its 2026 proxy statement, the owners of more than 5% of its common stock are BlackRock, Inc. (8.8%) and The Vanguard Group, Inc. (8.7%). No state or sovereign-fund holder is listed among them.",
+  "text": "ServiceNow, Inc. is listed on the New York Stock Exchange; per its 2026 proxy statement, the owners of more than 5% of its common stock are BlackRock, Inc. (8.8%) and The Vanguard Group, Inc. (8.7%).",
   "short": "ServiceNow is NYSE-listed; BlackRock (8.8%) and Vanguard (8.7%) are its only disclosed >5% holders.",
   "source": {
     "name": "ServiceNow, Inc., 2026 Proxy Statement (DEF 14A)",
@@ -23,7 +23,7 @@
       "date": "2026-01-29",
       "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm",
       "note": "Supports the NYSE listing stated in the claim: the 10-K cover page registers the common stock on 'The New York Stock Exchange' under the symbol NOW, and Item 5 states the sentence quoted.",
-      "quote": "Our common stock is listed on the New York Stock Exchange under the symbol \"NOW.\"",
+      "quote": "Our common stock is listed on the New York Stock Exchange under the symbol “NOW.”",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
