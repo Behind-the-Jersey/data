@@ -12,13 +12,33 @@
       "sponsorId": "gillette",
       "placement": "front",
       "source": {
-        "name": "revolutionsoccer.net",
+        "name": "revolutionsoccer.net: New England Revolution welcome Gillette as official jersey sponsor in expanded multi-year partnership",
         "date": "2025-02-11",
-        "url": "https://www.revolutionsoccer.net/news/revolution-welcome-gillette-as-official-jersey-sponsor-in-expanded-multi-year-partnership"
+        "url": "https://www.revolutionsoccer.net/news/revolution-welcome-gillette-as-official-jersey-sponsor-in-expanded-multi-year-partnership",
+        "quote": "an expanded multi-year partnership that welcomes the Boston-based men’s grooming brand as the official front-of-jersey sponsor",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The club's announcement (February 11, 2025) makes Gillette the front-of-jersey sponsor; Sports Business Journal reports the partnership runs through the 2031 MLS season, and FOR SOCCER's 2026 MLS Jersey Sponsors list (https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/) shows Gillette as the Revolution's 2026 jersey partner."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportsLogos.Net: MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Gillette, the Boston-based grooming brand, is on the front of the Revolution's shirt in an expanded multi-year partnership announced in February 2025; the league-wide Apple TV+ patch is on the left sleeve, and FOR SOCCER's 2026 list shows no right-sleeve partner for the club. All MLS clubs wear Adidas."
 }
