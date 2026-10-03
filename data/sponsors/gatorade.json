@@ -3,9 +3,9 @@
   "name": "Gatorade",
   "ownerId": "pepsico-inc",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Gatorade is a brand of PepsiCo, a Nasdaq-listed US company whose largest holders are The Vanguard Group (10.1%) and BlackRock (8.2%). Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": null,
   "claimIds": [
     "pepsico-owns-gatorade",
     "pepsico-inc-listed",
@@ -14,5 +14,5 @@
   "aliases": [
     "gatorade portfolio"
   ],
-  "note": "Sports drink brand; Lidl-Trek partner from the 2026 kit (jersey and race socks per the launch coverage). Rated none: PepsiCo is listed, its large holders are investment firms, and no human-rights finding against PepsiCo was found in this run."
+  "note": "Sports drink brand; Lidl-Trek partner from the 2026 kit (jersey front per the launch coverage). Gatorade is a division of PepsiCo, a listed US company whose largest holders are Vanguard (10.1%) and BlackRock (8.2%) per its 2026 proxy. ON HOLD: the ownership chain is state-free, but major-NGO investigations have tied PepsiCo to child and forced labour findings within the last 20 years - Amnesty International's 2016 'The Great Palm Oil Scandal' (amnesty.org/en/latest/news/2016/11/palm-oil-global-brands-profiting-from-child-and-forced-labour/) names PepsiCo among companies whose palm oil was produced with children working in hazardous conditions, and the 2016-2017 RAN/ILRF/OPPUK investigations (ran.org press releases) found child labour and worker exploitation at Indofood plantations, Indofood being PepsiCo's joint-venture partner producing PepsiCo snacks in Indonesia. Whether these pass METHOD.md's company test is for a maintainer."
 }
