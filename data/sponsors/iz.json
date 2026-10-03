@@ -1,11 +1,20 @@
 {
   "id": "iz",
   "name": "iz",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "alinma-bank",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "iz-alinma-app",
+    "alinma-pif-stake",
+    "saudi-executions-2024",
+    "khashoggi-assessment"
+  ],
+  "aliases": [
+    "IZ by Alinma",
+    "عز"
+  ],
+  "note": "Back-of-shirt sponsor as 'IZ by alinma' (club store product photos, 2026/27). Rating note: proposed concern — IZ is Alinma Bank's app (the link), Alinma is a listed bank in which Saudi Arabia's PIF holds 10%, a 5%-or-more state stake without control, and the record is Saudi Arabia's (saudi-executions-2024, khashoggi-assessment)."
 }
