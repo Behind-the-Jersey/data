@@ -12,13 +12,47 @@
       "sponsorId": "providence",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
+        "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "Seattle Sounders FC Providence Health",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "emerald-queen-casino",
+      "placement": "sleeve",
+      "source": {
+        "name": "Seattle Sounders FC: 'Sounders FC and the Puyallup Tribe of Indians' Emerald Queen Casino announce new naming rights deal, proudly introducing the Emerald Queen Casino Pitch at Lumen Field'",
+        "date": "2022-09-07",
+        "url": "https://www.soundersfc.com/news/sounders-fc-and-the-puyallup-tribe-of-indians-emerald-queen-casino-announce-new-",
+        "quote": "most visibly logo placement on the right sleeve of all Sounders FC kits, with the primary kit featuring the EQC logo",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Right-sleeve partnership announced 2021-03-24, running through 2027 (MLSsoccer.com). FOR SOCCER's February 2026 MLS jersey-sponsor list confirms the EQC/Puyallup Tribe logo is on the right sleeve of the 2026 kit."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Providence fronts the Sounders' primary shirt; the Emerald Queen Casino (Puyallup Tribe) logo is on the right sleeve."
 }
