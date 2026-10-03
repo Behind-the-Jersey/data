@@ -1,11 +1,18 @@
 {
   "id": "tamweel-aloula",
   "name": "Tamweel Aloula",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "alkifah-holding",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Saudi financing company presented among AlKifah Holding's financial-services investments. Nothing found.",
+  "claimIds": [
+    "tamweel-aloula-alkifah-ownership"
+  ],
+  "aliases": [
+    "تمويل الأولى",
+    "Tamweel AlOula",
+    "Tamweel Al Oula"
+  ],
+  "note": "Arabic brand name تمويل الأولى. Al-Fateh's 'Main Sponsor' per the club's partners page; its logo runs across the upper back of the 2026/27 home shirt, and the club's stadium is named Maydan Tamweel Aloula. Rating note: AlKifah Holding's website presents Tamweel AlOula under its financial-services investments; AlKifah is a private Eastern Province group whose overview says it was established in 1970 by Sheikh Hassan Al Afaleq. Tamweel Aloula itself is licensed by the Saudi Central Bank as a single-person (closed) joint-stock company; its site does not name the shareholder. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 3 Oct 2026)."
 }

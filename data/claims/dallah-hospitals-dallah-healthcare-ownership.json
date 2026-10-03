@@ -1,0 +1,33 @@
+{
+  "id": "dallah-hospitals-dallah-healthcare-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dallah-healthcare"
+  ],
+  "text": "Dallah Healthcare Company acquired Al Ahsa Hospital in Al Ahsa and renamed it Dallah Al Ahsa Hospital; Dallah Hospitals is Dallah Healthcare's hospital group.",
+  "source": {
+    "name": "Dallah Hospital – Dallah Hospitals expand to the Eastern Province",
+    "date": "2026-10-03",
+    "url": "https://www.dallah-hospital.com/english/dallah-hospitals-expand-to-the-eastern-province",
+    "quote": "Dallah Hospitals expand to the Eastern Province following Dallah Healthcare’s acquisition of Al Salam Hospital in Khobar and Al Ahsa Hospital in Al Ahsa",
+    "note": "Announcement on the Dallah Hospitals website; the page is undated, so the date is the day it was opened. Al-Fateh's partner is listed as 'مستشفيات دله الأحساء' (Dallah Hospitals Al-Ahsa) on the club's partners page.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Dallah Health – 500 Million SAR Expected Increase in Dallah Healthcare's Revenues … Acquisition of Al Salam and Al Ahsa Hospitals",
+      "date": "2026-10-03",
+      "url": "https://www.dallahhealth.com/english/media-center/500-million-sar-expected-increase-in-dallah-healthcares-revenues-in-the-first-year-after-completing-the-acquisition-of-al-salam-and-al-ahsa-hospitals-in-the-eastern-province",
+      "quote": "the completion of its acquisition of Ayan Investment Company’s shares in Al Ahsa and Al Salam Hospitals in the Eastern Province",
+      "note": "Dallah Healthcare press release; it says the company acquired 97.41% of Al Ahsa Medical Services Company (Al Ahsa Hospital). The page is undated; the date is the day it was opened.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

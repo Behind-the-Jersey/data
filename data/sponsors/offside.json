@@ -1,12 +1,18 @@
 {
   "id": "offside",
   "name": "Offside",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab."
+  "ownerId": "rayat-al-tahadi-investment",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Saudi sportswear brand operated by Rayat Al-Tahadi Investment Company. Nothing found.",
+  "claimIds": [
+    "offside-rayat-al-tahadi-ownership"
+  ],
+  "aliases": [
+    "أوفسايد",
+    "Offside Sport",
+    "OffLimits"
+  ],
+  "note": "Kit supplier to Al-Fateh for 2026/27 (433FC kit-sponsor table; the club's partners page lists أوفسايد linking offsideksa.com, and Offside's own store sells the club's 26/27 shirts). Also supplies Abha, Al-Shabab, Al-Taawoun and Al-Hazem in the Saudi Pro League. Rating note: Al-Kas sports newspaper (3 December 2025) identifies Rayat Al-Tahadi Investment Company as the company behind the OffSide – OffLimits trade name. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 3 Oct 2026)."
 }
