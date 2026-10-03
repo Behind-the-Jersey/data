@@ -3,12 +3,12 @@
   "name": "Compass Minerals",
   "ownerId": "compass-minerals",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Owned by Compass Minerals International, Inc.. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Owned by Compass Minerals International, Inc. (NYSE: CMP).",
   "claimIds": [
     "compass-minerals-record"
   ],
   "aliases": [],
-  "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
+  "note": "Rating note: Koch Industries' 16.81% (DEF 14A 5% stockholders table) is private capital, so no state link. Held unrated for a maintainer because METHOD's company test plausibly passes: MSHA's final report finds contract electrician Shawn Clements died on 15 Aug 2019 after contacting an energized circuit at Compass Minerals Louisiana's Cote Blanche salt mine because 'mine management did not ensure the victim de-energized and locked out the electrical circuit', and a 104(a) Citation (No. 8966039) was issued to Compass Minerals Louisiana Inc. (https://www.msha.gov/data-reports/fatality-reports/2019/august-15-2019-fatality/final-report); and an Ontario court fined Compass Minerals Canada Corp. $75,000 on 14 Jan 2025 after a guilty plea over a worker critically injured at its Goderich salt mine on 19 Dec 2022 (https://news.ontario.ca/en/court/1005779/workplace-injury-results-in-75000-fine-for-goderich-salt-mining-company). Whether these regulator/court findings on a death and injuries pass the company test is a maintainer call. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
 }
