@@ -1,11 +1,16 @@
 {
   "id": "tcl",
   "name": "TCL",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "tcl-electronics-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "TCL is the consumer-electronics brand of TCL Electronics Holdings (HKEX: 01070), controlled by TCL Industries Holdings. Nothing found.",
+  "claimIds": [
+    "tcl-electronics-ownership"
+  ],
+  "aliases": [
+    "TCL Electronics"
+  ],
+  "note": "Al-Ittihad sponsor for two seasons from October 2025 (men's and women's first teams), signed through Alesayi Electronics, TCL's exclusive distributor in Saudi Arabia; the TCL logo sits on the right shoulder of the men's team jerseys."
 }
