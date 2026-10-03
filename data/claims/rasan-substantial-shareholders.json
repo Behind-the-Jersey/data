@@ -1,0 +1,21 @@
+{
+  "id": "rasan-substantial-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Rasan Information Technology's 2024 IPO prospectus names the shareholders owning 5% or more: Impact Funds for Financial Technology Company and Assets Custody Development Impact Company (both Impact46-linked fund vehicles), plus four individuals: Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan and Mohammed Muheideb Ali AlMuheideb.",
+  "short": "Rasan's 5%+ shareholders are two Impact46-linked companies and four individuals.",
+  "source": {
+    "name": "Capital Market Authority (Saudi Arabia): Rasan Information Technology IPO prospectus, Substantial Shareholders table",
+    "date": "2024-05",
+    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+    "quote": "The Company's Substantial Shareholders who directly own 5% or more of the Company's Shares are: (1) Impact Funds for Financial Technology Company, (2) Theib Hudeiban Ghallab AlMutairi",
+    "note": "Same table lists (3) Muheideb Ali Mohammed AlMuheideb, (4) Samer Mohammed Raslan, (5) Mohammed Muheideb Ali AlMuheideb and (6) Assets Custody Development Impact Company for Communications and Information Technology; largest post-offering stake is 13.06% (Impact Funds).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
