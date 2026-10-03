@@ -3,10 +3,12 @@
   "name": "HSBC",
   "ownerId": "hsbc-holdings",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "HSBC is the banking brand of HSBC Holdings plc, listed in London, Hong Kong and New York. Its 2025 Form 20-F lists the notified major interests in its shares: BlackRock (9.09% long), Ping An Asset Management (7.98% long) and BNY Mellon (6.01% long, as ADS depositary). None is a state or state fund, and no human-rights finding of the kind in METHOD.md. Nothing found.",
+  "claimIds": [
+    "hsbc-major-shareholders-2025"
+  ],
   "aliases": [],
-  "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
+  "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC. Ping An Asset Management is an asset management company of China's Ping An Insurance (Group), itself a listed company; no state appears in HSBC's disclosed major holdings and Ping An holds no board seat."
 }

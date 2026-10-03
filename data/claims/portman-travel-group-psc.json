@@ -1,0 +1,21 @@
+{
+  "id": "portman-travel-group-psc",
+  "kind": "ownership",
+  "ownerIds": [
+    "the-portman-travel-group"
+  ],
+  "text": "The Portman Travel Group Limited's Companies House persons-with-significant-control register records an active statement, notified on 1 January 2018, that 'the company knows or has reasonable cause to believe that there is no registrable person or registrable relevant legal entity in relation to the company'.",
+  "short": "No registrable person with significant control is recorded for The Portman Travel Group Limited.",
+  "source": {
+    "name": "Companies House: persons with significant control, THE PORTMAN TRAVEL GROUP LIMITED (08831424)",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08831424/persons-with-significant-control",
+    "quote": "there is no registrable person or registrable relevant legal entity in relation to the company",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Register page without a date, opened 2026-10-03: '0 active persons with significant control / 1 active statement'. The one ceased PSC entry, Dr Nasser Aqeel Al Tayyar (Saudi national; more than 25% but not more than 50% of shares), ceased on 1 January 2018."
+  },
+  "reviewed": false
+}

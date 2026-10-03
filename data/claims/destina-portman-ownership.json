@@ -1,0 +1,34 @@
+{
+  "id": "destina-portman-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "the-portman-travel-group"
+  ],
+  "text": "Destina is the brand of Destination Sport Limited (UK company 09564446, Manchester), whose Companies House persons-with-significant-control register names The Portman Travel Group Limited (no. 08831424) with 75% or more of its shares and voting rights and the right to appoint or remove its directors; Portman Travel Group describes Destination Sport Group as the sports travel division of its travel-brand portfolio.",
+  "short": "Destina (Destination Sport) is controlled by The Portman Travel Group Limited (UK).",
+  "source": {
+    "name": "Companies House: persons with significant control, DESTINATION SPORT LIMITED (09564446)",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09564446/persons-with-significant-control",
+    "quote": "1 active person with significant control / 0 active statements The Portman Travel Group Limited Active",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Register page without a date, opened 2026-10-03. Same page gives the nature of control: 'Ownership of shares – 75% or more', 'Ownership of voting rights - 75% or more', 'Right to appoint or remove directors', notified 6 April 2016."
+  },
+  "additionalSources": [
+    {
+      "name": "Portman Travel Group: About us",
+      "date": "2026",
+      "url": "https://portmantravelgroup.com/about-us/",
+      "quote": "Sports Travel: Managed by Destination Sport Group, a global leader in team and spectator sports travel.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page without a date, opened 2026-10-03; from the FAQ 'What travel brands are part of the Portman Travel Group?'"
+    }
+  ],
+  "reviewed": false
+}
