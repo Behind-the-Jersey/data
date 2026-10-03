@@ -4,15 +4,16 @@
   "ownerIds": [
     "guggenheim-owner"
   ],
-  "text": "The Los Angeles Dodgers were bought in 2012 by the private investor group operating as Guggenheim Baseball Management (including Mark Walter, Todd Boehly, Peter Guber, Magic Johnson and Bobby Patton) -- a privately held ownership group, not a company with public institutional or retail shareholders.",
+  "text": "Guggenheim Baseball Management closed its $2 billion purchase of the Los Angeles Dodgers and Dodger Stadium in May 2012; Mark Walter, CEO of Guggenheim Partners, was the controlling partner, and the investor group included Peter Guber, Todd Boehly and Bobby Patton.",
   "source": {
-    "name": "MLB article on Dodgers sale to Guggenheim",
+    "name": "MLB.com: Dodgers sale to Guggenheim Baseball Management closed",
     "date": "2012-05-01",
     "url": "https://www.mlb.com/news/dodgers-sale-to-guggenheim-baseball-management-closed-c30125872",
-    "quote": "The investor group includes Mandalay Entertainment chairman Peter Guber, Guggenheim Partners president Todd Boehly and Texas energy investor Bobby Patton.",
+    "quote": "The sale of the Los Angeles Dodgers became official on Tuesday as Guggenheim Baseball Management closed its $2 billion purchase of the club and Dodger Stadium from Frank McCourt.",
+    "note": "mlb.com returns 403 to scripts; the page was opened via the Wayback Machine capture of 2026-08-25, where the quote appears verbatim.",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
   "reviewed": false

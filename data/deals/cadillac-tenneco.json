@@ -3,14 +3,20 @@
   "clubId": "cadillac",
   "orgName": null,
   "sponsorId": "tenneco",
-  "placement": "partner",
+  "placement": "front",
   "from": "2026",
   "to": null,
   "value": null,
   "source": {
-    "name": "Cadillac Formula 1 Team – Official Partners",
-    "date": "2026-09-24",
-    "url": "https://www.cadillacf1team.com/partners"
+    "name": "GM Authority - Cadillac F1 Team Makes Its Statement With 2026 Livery: Video",
+    "date": "2026-02-08",
+    "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-team-makes-its-statement-with-2026-livery-video/",
+    "quote": "The rest of the Cadillac F1 race car’s nose is populated by sponsor logos, showcasing whiskey distiller Jim Beam, emissions control system manufacturer Tenneco, and clothing brand Tommy Hilfiger.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "On the nose."
   },
-  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+  "note": "Cadillac Formula 1 Team front partner on the 2026 car."
 }

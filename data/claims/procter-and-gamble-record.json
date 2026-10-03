@@ -15,5 +15,17 @@
       "by": "source-audit-2026-09-26"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Procter & Gamble – Brands",
+      "date": "2026-10-01",
+      "url": "https://us.pg.com/brands/",
+      "quote": "Personal Grooming Gillette Visit Site Razors & Skin Care",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
