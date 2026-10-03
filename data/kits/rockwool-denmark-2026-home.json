@@ -12,13 +12,49 @@
       "sponsorId": "rockwool",
       "placement": "front",
       "source": {
-        "name": "SailGP team page - ROCKWOOL Denmark (Title Partner)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/rockwool-denmark/"
+        "name": "PR Newswire / SailGP - ROCKWOOL renews multi-year commitment to SailGP to 2032",
+        "date": "2025-11-27",
+        "url": "https://www.prnewswire.com/news-releases/rockwool-renews-multi-year-commitment-to-sailgp-to-2032-marking-leagues-longest-standing-team-partnership-302627607.html",
+        "note": "SailGP's own press release: ROCKWOOL is the team's Title Partner (since 2019, through 2032). SailGP's team page (sailgp.com/teams/rockwool-denmark/) also lists ROCKWOOL as Title Partner.",
+        "quote": "ROCKWOOL has renewed its multi-year commitment to SailGP, extending its title partnership of the Danish-flagged ROCKWOOL Racing SailGP Team through to the end of 2032.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "american-magic",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - ROCKWOOL Denmark (Official Partners)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/rockwool-denmark/",
+        "note": "Team page partner listings are rendered in the page's embedded data: group 'ROCKWOOL Denmark SailGP Team | Official Partners' lists American Magic. Since February 2026 American Magic owns and operates the team."
+      }
+    },
+    {
+      "sponsorId": "sail-racing",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - ROCKWOOL Denmark (Official Suppliers)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/rockwool-denmark/",
+        "note": "Group 'ROCKWOOL Denmark SailGP Team | Official Suppliers' lists Sail Racing and 100%."
+      }
+    },
+    {
+      "sponsorId": "100-percent",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - ROCKWOOL Denmark (Official Suppliers)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/rockwool-denmark/",
+        "note": "Group 'ROCKWOOL Denmark SailGP Team | Official Suppliers' lists Sail Racing and 100%."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Denmark's F50 races under Danish insulation maker ROCKWOOL's name: the team's Title Partner.",
+  "summary": "Denmark's F50 races under Danish insulation maker ROCKWOOL's name: the team's Title Partner. American Magic, the team's new owner-operator, tops the partner block; Sail Racing and 100% are listed suppliers.",
   "change": null
 }

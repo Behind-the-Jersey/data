@@ -1,15 +1,19 @@
 {
   "id": "rockwool",
   "name": "ROCKWOOL",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "rockwool-a-s",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Danish stone-wool maker listed on Nasdaq Copenhagen; largest shareholder is the family-founded ROCKWOOL Foundation (23% of shares, 28% of votes). Nothing found.",
+  "claimIds": [
+    "rockwool-foundation-largest-shareholder"
+  ],
   "aliases": [
     "Rockwool",
-    "ROCKWOOL Racing"
+    "ROCKWOOL Racing",
+    "ROCKWOOL Group",
+    "ROCKWOOL International A/S"
   ],
-  "note": "Danish insulation multinational (Hedehusene); Title Partner of the Denmark team, which races as ROCKWOOL Racing (sailgp.com team page, fetched 2026-09-25). Ownership stake in the team not published."
+  "note": "ROCKWOOL brand of ROCKWOOL A/S (Hedehusene, Denmark); Title Partner of the Denmark SailGP team (ROCKWOOL Racing SailGP Team) since 2019, renewed November 2025 through the end of 2032 (PR Newswire/SailGP release, checked 2026-10-03). Since February 2026 the team itself is owned and operated by American Magic (Doug DeVos). Ownership chain tops out at ROCKWOOL A/S; its largest single shareholder is the non-commercial ROCKWOOL Foundation, with no state or state fund anywhere in the chain."
 }
