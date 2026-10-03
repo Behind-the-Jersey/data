@@ -1,0 +1,23 @@
+{
+  "id": "monza-dazn-bet-club-front",
+  "clubId": "monza",
+  "orgName": null,
+  "sponsorId": "dazn-bet-club",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "AC Monza - DAZN BET CLUB È IL NUOVO OFFICIAL SPONSOR (Internet Archive capture of the club announcement)",
+    "date": "2026-08-13",
+    "url": "https://web.archive.org/web/20260814050012/https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor/",
+    "short": "AC Monza",
+    "quote": "AC Monza e DAZN Bet Club annunciano una nuova partnership che vedrà il brand diventare Official Sponsor sulla maglia del Club",
+    "note": "Club announcement of 13-08-2026. The front placement is in the DAZN Bet Club General Manager's quote on the same page: 'essere Official Sponsor con la presenza sul petto della maglia del club significa condividere questi valori' (presence on the chest of the shirt). The live club URL (https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor) returned 404 on 2026-10-03, so the Internet Archive capture is cited. No deal value reported (Calcio e Finanza, 2026-08-13, https://www.calcioefinanza.it/2026/08/13/sponsor-maglia-monza-dazn-bet-club, gives none). English translation of the quote: 'AC Monza and DAZN Bet Club announce a new partnership that will see the brand become Official Sponsor on the Club's shirt'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "New front-of-shirt partnership announced 13 August 2026, for the 2026-27 season back in Serie A. It replaced Ford Pro as main sponsor; Calcio e Finanza (2026-08-13) reports that in 2025-26 Ford Pro was main sponsor with ZeroPlayer above it near the collar. Term and value not disclosed."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "brustor-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "brustor"
+  ],
+  "text": "Brustor, the solar-shading and pergola maker producing in West Flanders, is a Belgian family business, founded in 1965 by Louis Brutsaert.",
+  "short": "Brustor is a Belgian family business.",
+  "source": {
+    "name": "Brustor: 'About Brustor'",
+    "date": "2026",
+    "url": "https://www.brustor.com/en-us/about-brustor",
+    "quote": "Brustor is a Belgian family business that has become a top international player in the solar shading and pergola market over the years.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
