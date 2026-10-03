@@ -1,0 +1,21 @@
+{
+  "id": "car-fare-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "car-fare-group"
+  ],
+  "text": "Car Fare Group, the UAE car-rental group behind Car Fare Rent a Car, was founded by Mr. K.S. Bassi and Mrs. Jasbir Bassi; Jasbir Bassi serves as chairperson.",
+  "short": "Car Fare is a family company founded by K.S. Bassi and Jasbir Bassi.",
+  "source": {
+    "name": "Car Fare: Chairperson Profile (carfarellc.com)",
+    "date": "2026",
+    "url": "https://www.carfarellc.com/chairperson_profile",
+    "quote": "Founders of Car Fare Group Mr. K.S Bassi & Mrs. Jasbir Bassi",
+    "note": "Undated company page; the same page profiles 'JASBIR BASSI' as chairperson and says Car Fare is 'an organic, home-grown local entity'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

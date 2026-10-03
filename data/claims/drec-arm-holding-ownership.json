@@ -1,0 +1,21 @@
+{
+  "id": "drec-arm-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "a-r-m-holding"
+  ],
+  "text": "Dubai Real Estate Centre (DREC), a Dubai property company, is part of A.R.M. Holding, which describes itself as a UAE-based private investment firm.",
+  "short": "Dubai Real Estate Centre is part of A.R.M. Holding.",
+  "source": {
+    "name": "Dubai Real Estate Centre: About us (drec.ae)",
+    "date": "2026",
+    "url": "https://drec.ae/about-us",
+    "quote": "As part of A.R.M. Holding, we consider the long-term vision and pair it with attentive service",
+    "note": "Undated company about page. ARM Holding's own site (armholding.ae) lists 'Dubai Real Estate Centre' in its companies and says DREC 'manages over 3,200 residential and commercial units'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
