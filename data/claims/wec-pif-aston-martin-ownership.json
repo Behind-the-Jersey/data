@@ -17,5 +17,17 @@
       "by": "claude-review-282"
     }
   },
+  "additionalSources": [
+    {
+      "name": "The Guardian - Aston Martin raises £650m as Saudi Arabia takes a stake",
+      "date": "2022-07-15",
+      "url": "https://www.theguardian.com/business/2022/jul/15/aston-martin-raises-650m-as-saudi-arabia-takes-a-stake",
+      "quote": "the PIF will be entitled to two seats on Aston Martin’s board",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
