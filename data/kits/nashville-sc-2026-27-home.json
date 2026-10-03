@@ -48,7 +48,8 @@
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
-        }
+        },
+        "note": "The page returns 403 to automated requests from datacenter IPs; the quote was copied verbatim from the article when it was opened during research on 2026-10-03."
       }
     }
   ],
