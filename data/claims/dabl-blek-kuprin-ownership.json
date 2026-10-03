@@ -1,0 +1,22 @@
+{
+  "id": "dabl-blek-kuprin-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dabl-blek-ooo",
+    "kuprin-evgeny"
+  ],
+  "text": "The Saby (SBIS) company-registry profile of OOO «Дабл Блэк» (Double Black LLC, Moscow, INN 9715296056) lists Evgeny Kuprin in its owners ('Владельцы') section; Kuprin has been the company's general director since 15 March 2017. The registry masks the share amount and percentage for unauthorised visitors.",
+  "short": "OOO «Дабл Блэк»'s registry-listed owner is Evgeny Kuprin, its general director",
+  "source": {
+    "name": "Saby (SBIS) company registry: OOO «Дабл Блэк» (saby.ru/profile/9715296056-774301001)",
+    "date": "2026-10-03",
+    "url": "https://saby.ru/profile/9715296056-774301001",
+    "note": "Row under the 'Владельцы' (owners) heading of the registry card; translates as 'Evgeny Alyazovich Kuprin, Moscow, 771596029202'. The share columns ('Сумма, ₽' and '%') show masked values (XXXXX XXX) to unauthorised visitors; the related-persons block reads 'Руководитель: … (с 15.03.17); Учредители: … (100%)' with the founder's name masked in the served HTML.",
+    "quote": "Куприн Евгений Алязович Москва 771596029202",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
