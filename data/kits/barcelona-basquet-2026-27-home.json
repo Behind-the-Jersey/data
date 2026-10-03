@@ -7,8 +7,39 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "assistencia-sanitaria",
+      "placement": "front",
+      "source": {
+        "name": "Crónica Global (Culemanía): Laporta diversifica els patrocinadors de les seccions — Assistència Sanitària perd pes mentre el Barça busca soci per al nou Palau",
+        "date": "2026-08-30",
+        "url": "https://www.cronicaglobal.cat/culemania/llotja/20260830/laporta-diversifica-patrocinadors-assistencia-sanitaria-barca-palau/1003742790315_0.html",
+        "quote": "L'equip de bàsquet encara conservarà el logotip de la companyia asseguradora catalana en el curs 26-27.",
+        "note": "Placement on the front of the chest per the club store's photos of the 2026/27 EuroLeague home jersey (https://store.fcbarcelona.com/cdn/shop/files/FOTOSECOMMERCEBASKETBRIZUELA.png, product page https://store.fcbarcelona.com/products/mens-basketball-jersey-home-kit-26-27); the away jersey's product photos likewise show the logo on the chest. EgyptAir, the club's new main partner, takes the handball front, not the basketball shirt.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Crónica Global (Culemanía): Laporta diversifica els patrocinadors de les seccions — Assistència Sanitària perd pes mentre el Barça busca soci per al nou Palau",
+        "date": "2026-08-30",
+        "url": "https://www.cronicaglobal.cat/culemania/llotja/20260830/laporta-diversifica-patrocinadors-assistencia-sanitaria-barca-palau/1003742790315_0.html",
+        "quote": "El soci blaugrana encara apareix com a patrocinador principal dels esports indoor, només per darrere de Nike.",
+        "note": "Kit maker, recorded as partner per existing convention: the Nike logo sits on the chest of the 2026/27 home jersey, above the Assistència Sanitària wordmark (https://store.fcbarcelona.com/cdn/shop/files/FOTOSECOMMERCEBASKETBRIZUELA.png).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "2026/27 home (EuroLeague) jersey: Assistència Sanitària across the front of the chest (Crónica Global, 30 Aug 2026: the basketball team keeps the insurer's logo in 2026-27; club store photos show it under the Nike logo and the centenary crest), with Nike as kit maker. Not complete: the club store's back-view photo of the jersey (https://store.fcbarcelona.com/cdn/shop/files/Home-basket.jpg) shows the Barça Foundation logo above the back number, but no club or press text source names the Foundation on the back of the basketball shirt; the home shorts (https://store.fcbarcelona.com/cdn/shop/files/IW2583-498_1.jpg) carry no sponsor beyond the Nike swoosh and the club crest; the badge on the other side of the chest is the EuroLeague's own mark with its partner Etihad (see the euroleague-etihad deal), not a club sponsor.",
   "change": null
 }

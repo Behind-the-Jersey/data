@@ -1,0 +1,21 @@
+{
+  "id": "van-rysel-decathlon-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "van-rysel",
+    "decathlon"
+  ],
+  "text": "Decathlon's bike-guarantee page lists Van Rysel among 'nos vélos' (our bikes), alongside Rockrider and Btwin, and covers them with Decathlon's commercial guarantee.",
+  "short": "Van Rysel bikes are Decathlon's own bikes",
+  "source": {
+    "name": "Decathlon Support — Garantie vélos Decathlon (Van Rysel, Btwin, Rockrider)",
+    "date": "2026",
+    "url": "https://support.decathlon.fr/garantie-velos-decathlon-van-rysel-btwin-rockrider",
+    "quote": "Nos vélos (Van Rysel, Rockrider, Btwin) sont garantis à vie (avec présentation de la facture d’origine, transférable) sur les pièces suivantes",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
