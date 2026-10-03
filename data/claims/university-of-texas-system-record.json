@@ -4,12 +4,17 @@
   "ownerIds": [
     "university-of-texas-system"
   ],
-  "text": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT System, and its financial statements are those of a division of the System funded by state appropriations plus the Permanent University Fund and philanthropy.",
-  "short": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
+  "text": "MD Anderson, the Houston Dynamo front sponsor, is part of the University of Texas System.",
+  "short": "MD Anderson is part of the University of Texas System.",
   "source": {
-    "name": "UT MD Anderson - About MD Anderson ('Part of the University of Texas System')",
+    "name": "UT MD Anderson – About UT MD Anderson ('Part of the University of Texas System')",
     "date": "2026",
-    "url": "https://www.mdanderson.org/about-md-anderson.html"
+    "url": "https://www.mdanderson.org/about-md-anderson.html",
+    "quote": "Part of the University of Texas System, UT MD Anderson is one of the world’s most respected centers devoted exclusively to cancer patient care, research, education and prevention.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "reviewed": false
 }
