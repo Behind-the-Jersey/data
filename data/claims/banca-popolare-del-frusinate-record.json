@@ -4,16 +4,16 @@
   "ownerIds": [
     "banca-popolare-del-frusinate"
   ],
-  "text": "Banca Popolare del Frusinate is a Frosinone-based 'Societa Cooperativa per Azioni' with share capital of EUR 31,883,700 fully paid as at 31 December 2025 - i.e. owned by its own member-shareholders rather than by a listed or state parent. Italian cooperative banks carry no state equity. Record is unremarkable at this size; its Frosinone/Lazio lending limits human-rights relevance to ordinary banking conduct.",
-  "short": "Banca Popolare del Frusinate is a Frosinone-based 'Societa Cooperativa per Azioni' with share capital of EUR 31,883,700 fully paid as at 31 December 2025 - i.e.",
+  "text": "Banca Popolare del Frusinate is a 'Società Cooperativa per Azioni' with its legal seat in Frosinone and share capital of EUR 31,883,700, fully paid up, as at 31 December 2025.",
+  "short": "Frosinone-based cooperative bank (Società Cooperativa per Azioni); share capital EUR 31,883,700 fully paid up at 31 December 2025.",
   "source": {
     "name": "Banca Popolare del Frusinate - Dati Societari (company details)",
     "date": "2026-05-21",
     "url": "https://www.bpf.it/dati-societari/",
     "quote": "Capitale Sociale al 31.12.2025 31.883.700€ Interamente versato.",
     "checked": {
-      "on": "2026-09-26",
-      "by": "source-audit-2026-09-26"
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
   "reviewed": false
