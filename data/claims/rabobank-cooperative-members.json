@@ -1,0 +1,21 @@
+{
+  "id": "rabobank-cooperative-members",
+  "kind": "ownership",
+  "ownerIds": [
+    "rabobank"
+  ],
+  "text": "Rabobank is an international cooperative bank with Dutch origins; it is a bank without shareholders, with more than 2.3 million members among its customers in the Netherlands.",
+  "short": "Rabobank is a cooperative bank without shareholders, owned by its members.",
+  "source": {
+    "name": "Rabobank: Rabobank at a glance (About us)",
+    "date": "2025-07-08",
+    "url": "https://web.archive.org/web/20250708215255/https://www.rabobank.com/en/about-rabobank/cooperative/index.html",
+    "quote": "Being a cooperative bank sets us apart. We are a bank without shareholders, but with members and client councils. More than 2.3 million of our customers in the Netherlands are already members.",
+    "note": "Archived copy of Rabobank's 'Rabobank at a glance' page (rabobank.com was unreachable from our network on 2026-10-03). The same page opens with: 'Rabobank is an international cooperative bank with Dutch origins.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

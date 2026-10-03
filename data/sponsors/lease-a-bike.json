@@ -1,12 +1,15 @@
 {
   "id": "lease-a-bike",
   "name": "Lease a Bike",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "pon",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Lease a Bike is a bike-leasing brand of Pon, a family-owned Dutch multinational. Nothing found.",
+  "claimIds": [
+    "lease-a-bike-pon-brand",
+    "pon-family-owned"
+  ],
   "aliases": [],
-  "note": "Dutch bike-leasing venture owned by the Pon conglomerate."
+  "note": "Dutch bike-leasing platform for companies and their employees, operating in Germany, Austria, the Netherlands, Belgium, Sweden and the United States. Rating note: family-owned owner (claims lease-a-bike-pon-brand, pon-family-owned); no relevant record found."
 }

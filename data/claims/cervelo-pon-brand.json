@@ -1,0 +1,21 @@
+{
+  "id": "cervelo-pon-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "pon"
+  ],
+  "text": "Cervélo, the Canadian-Dutch racing-bike maker, is one of the bicycle brands in Pon's portfolio.",
+  "short": "Cervélo is one of Pon's bicycle brands.",
+  "source": {
+    "name": "Pon: About us",
+    "date": "2026",
+    "url": "https://www.pon.com/en/about-pon",
+    "quote": "Our portfolio includes premium and high-end leading bicycle brands like Gazelle, Cannondale, Kalkhoff, Urban Arrow, Caloi, Santa Cruz, Schwinn, Mongoose, Veloretti and Cervélo.",
+    "note": "Pon's own company page for the brand (https://www.pon.com/en/companies/cervelo) also notes (in Dutch): 'Geen wonder dat Cervélo hoofdsponsor is van Team Visma | Lease a Bike' — 'No wonder Cervélo is main sponsor of Team Visma | Lease a Bike'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

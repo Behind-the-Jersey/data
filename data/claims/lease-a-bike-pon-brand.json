@@ -1,0 +1,21 @@
+{
+  "id": "lease-a-bike-pon-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "pon"
+  ],
+  "text": "Lease a Bike is one of the bike-leasing brands of Pon, offered through Pon's Bike Mobility Services business, a joint venture with Volkswagen Financial Services.",
+  "short": "Lease a Bike is a Pon brand.",
+  "source": {
+    "name": "Pon: About us",
+    "date": "2026",
+    "url": "https://www.pon.com/en/about-pon",
+    "quote": "Through our Bike Mobility Services business – a joint venture with Volkswagen Financial Services – and brands such as Lease a Bike and BusinessBike, we've popularized bike leasing",
+    "note": "Sentence continues: '...and supported corporate mobility across Europe.' Pon's company page for the brand (https://www.pon.com/en/companies/lease-a-bike) describes Lease a Bike's leasing platform in six countries.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "visma-hg-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "hg-capital"
+  ],
+  "text": "Hg Capital & co-investors own 70.5% of Visma, making the London-based private equity firm the majority owner.",
+  "short": "Hg Capital & co-investors own 70.5% of Visma.",
+  "source": {
+    "name": "Visma: Investors — Governance (Board and shareholders)",
+    "date": "2026",
+    "url": "https://www.visma.com/investors/governance",
+    "quote": "Hg Capital & Co-investors own 70.5% of Visma.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Guardian: Norway's €19bn software company Visma picks London for IPO",
+      "date": "2025-06-26",
+      "url": "https://www.theguardian.com/business/2025/jun/26/norways-19bn-software-company-visma-picks-london-for-ipo",
+      "quote": "Visma, headquartered in Oslo, is 70%-owned by the London-based private equity firm Hg Capital.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
