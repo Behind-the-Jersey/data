@@ -1,0 +1,20 @@
+{
+  "id": "aisin-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "aisin-corporation"
+  ],
+  "text": "AISIN CORPORATION's major shareholders (its IR 'Stock Information' page, as of June 18, 2025) are Toyota Motor Corporation with 22.34% of voting rights and The Master Trust Bank of Japan (trust account) with 10.94%; other large holders are trust accounts, Toyota group companies, insurers and an employee stock ownership association.",
+  "short": "Toyota Motor is Aisin's largest holder with 22.34% of voting rights.",
+  "source": {
+    "name": "AISIN CORPORATION: Stock Information and Ratings",
+    "date": "2025-06-18",
+    "url": "https://www.aisin.com/en/investors/stock/",
+    "quote": "Toyota Motor Corporation 161,828 22.34",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

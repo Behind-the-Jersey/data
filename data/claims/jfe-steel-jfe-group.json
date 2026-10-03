@@ -1,0 +1,22 @@
+{
+  "id": "jfe-steel-jfe-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "jfe-steel-corporation",
+    "jfe-holdings-inc"
+  ],
+  "text": "JFE Steel Corporation sits in the JFE Group: JFE Holdings, Inc. is the group's wholly-owning parent company, formed in September 2002 by NKK and Kawasaki Steel by share transfer.",
+  "short": "JFE Steel is under JFE Holdings, the JFE Group's wholly-owning parent.",
+  "source": {
+    "name": "JFE Holdings: About JFE Group",
+    "date": "2026-10-03",
+    "url": "https://www.jfe-holdings.co.jp/en/g-about/",
+    "quote": "September 2002, NKK and Kawasaki Steel jointly established JFE Holdings, a wholly owning parent company through share transfer.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "No date on the page; opened 2026-10-03."
+  },
+  "reviewed": false
+}

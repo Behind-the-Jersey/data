@@ -1,0 +1,22 @@
+{
+  "id": "toyota-auto-body-100-toyota",
+  "kind": "ownership",
+  "ownerIds": [
+    "toyota-auto-body-co",
+    "toyota-motor-corporation"
+  ],
+  "text": "Toyota Auto Body Co., Ltd. is 100% held by Toyota Motor Corporation, per its own company outline.",
+  "short": "Toyota Auto Body is 100% held by Toyota Motor.",
+  "source": {
+    "name": "Toyota Auto Body: Company Outline",
+    "date": "2026-10-03",
+    "url": "https://www.toyota-body.co.jp/english/corporate/profile",
+    "quote": "Stockholder: 100% held by Toyota Motor Corporation",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "No date shown on the page; capital figure marked 'as of end of March 2025'. Opened 2026-10-03."
+  },
+  "reviewed": false
+}
