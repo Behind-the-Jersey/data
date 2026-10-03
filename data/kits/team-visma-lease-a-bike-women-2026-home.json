@@ -159,6 +159,21 @@
       }
     },
     {
+      "sponsorId": "founders-of-loyalty",
+      "placement": "back",
+      "source": {
+        "name": "Team Visma | Lease a Bike partners: L - founders of loyalty",
+        "date": "2026",
+        "url": "https://www.teamvismaleaseabike.com/partners/l-founders-of-loyalty/",
+        "quote": "The L-logo on the Team Visma | Lease a Bike kits represents Founders of Loyalty, a leading company specialized in designing and implementing innovative loyalty programs for retailers.",
+        "note": "The shop's back product photo (https://d1lk6qpkbduawh.cloudfront.net/69038900-512-04_back.jpg) shows the yellow L and 'founders of loyalty' on the lower back, on the black section above the pockets.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (PR #1179 review)"
+        }
+      }
+    },
+    {
       "sponsorId": "visma",
       "placement": "shorts",
       "source": {
@@ -219,7 +234,7 @@
       }
     }
   ],
-  "sponsorsComplete": true,
-  "summary": "2026 UCI Women's WorldTeam in the Nimbl-made yellow home kit shared with the men's squad: Visma and Lease a Bike on chest and back, Cervélo on the chest, Rabobank down the side panel and on the shorts, SRAM on the sleeves, Jumbo and nimbl.cc on the lower back. The 'yellow b.' mark on the chest and shorts is the team's own company name, not an outside sponsor.",
+  "sponsorsComplete": false,
+  "summary": "2026 UCI Women's WorldTeam kit, developed in collaboration with Nimbl and read off the team's official webshop replica photos: Visma and Lease a Bike on chest and back, Cervélo on the chest, Nimbl by the collar and on the cuffs, Rabobank down the side panel and on the shorts, SRAM on the sleeves, Jumbo and nimbl.cc on the lower back, and the L-logo of premium partner Founders of Loyalty on the lower back. The 'yellow b.' mark is the team's own company name, not an outside sponsor. sponsorsComplete is false: the black 'e' marks on both shoulders are unidentified (no team partner page names them), so the sponsor list cannot be confirmed complete.",
   "change": null
 }

@@ -1,15 +1,20 @@
 {
   "id": "lease-a-bike",
   "name": "Lease a Bike",
-  "ownerId": "pon",
+  "ownerId": "bike-mobility-services",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Lease a Bike is a bike-leasing brand of Pon, a family-owned Dutch multinational. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": null,
   "claimIds": [
+    "bms-vwfs-stake",
     "lease-a-bike-pon-brand",
-    "pon-family-owned"
+    "pon-family-owned",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership",
+    "qatar-migrant-worker-abuse-2025"
   ],
   "aliases": [],
-  "note": "Dutch bike-leasing platform for companies and their employees, operating in Germany, Austria, the Netherlands, Belgium, Sweden and the United States. Rating note: family-owned owner (claims lease-a-bike-pon-brand, pon-family-owned); no relevant record found."
+  "note": "Bike-leasing platform for companies and their employees, a brand of Bike Mobility Services (BMS), operating in Germany, Austria, the Netherlands, Belgium, Sweden and the United States. Rating note: ON HOLD for a maintainer — the PR's 'none' cannot stand. Pon sold a 49% stake in BMS to Volkswagen Financial Services in 2023, with joint control (bms-vwfs-stake). Volkswagen AG's third-largest shareholder is Qatar Holding LLC, wholly owned by the Qatar Investment Authority, with 10.4% of the capital and 17.0% of the voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); the sponsor 'volkswagen' is rated concern on this link, with Qatar's documented migrant-worker abuses as the record (qatar-migrant-worker-abuse-2025). Multiplied along the chain (10.4% x 49%), Qatar's effective stake in BMS is about 5.1%, just over METHOD.md's 5% threshold. Whether that longer chain reaches Lease a Bike is a maintainer's call. Pon keeps 51% and is family-owned (pon-family-owned)."
 }
