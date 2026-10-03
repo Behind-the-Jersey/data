@@ -1,0 +1,21 @@
+{
+  "id": "goodyear-shareholders-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "goodyear-tire-rubber"
+  ],
+  "text": "The Goodyear Tire & Rubber Company is Nasdaq-listed and widely held: its 2026 proxy statement lists the only reported beneficial owners of more than 5% of its common stock as BlackRock (11.5%), The Vanguard Group (10.2%), Wellington Management (8.8%) and Dimensional Fund Advisors (5.8%); no state or state fund is named.",
+  "short": "Goodyear is stock-exchange listed; its largest reported owners are BlackRock, Vanguard, Wellington and Dimensional.",
+  "source": {
+    "name": "The Goodyear Tire & Rubber Company: 2026 definitive proxy statement (Schedule 14A, filed 6 March 2026, SEC EDGAR)",
+    "date": "2026-03-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/42582/000162828026015463/a2026goodyearproxystatement.htm",
+    "quote": "The persons identified in the table below have reported that they beneficially owned more than 5% of the outstanding shares of the Common Stock as follows",
+    "note": "The table that follows lists BlackRock, Inc. 32,825,572 shares (11.5%); The Vanguard Group, Inc. 29,095,385 (10.2%); Wellington Management Group LLP 25,253,689 (8.8%); Dimensional Fund Advisors LP 16,501,512 (5.8%).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

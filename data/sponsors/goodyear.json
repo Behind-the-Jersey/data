@@ -1,14 +1,16 @@
 {
   "id": "goodyear",
   "name": "Goodyear",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "ownerId": "goodyear-tire-rubber",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Nasdaq-listed (GT); its 2026 proxy's largest reported owners are index managers BlackRock (11.5%), Vanguard (10.2%), Wellington (8.8%) and Dimensional (5.8%). Nothing found.",
   "aliases": [
     "goodyear racing"
   ],
-  "claimIds": [],
-  "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages. Goodyear Tire & Rubber Company is Nasdaq-listed; ownership chain not researched here."
+  "claimIds": [
+    "goodyear-shareholders-ownership"
+  ],
+  "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages; Iron Lynx also lists Goodyear in its own partner block (ironlynx.com, checked 2026-10-03)."
 }

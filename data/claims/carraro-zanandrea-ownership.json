@@ -1,0 +1,21 @@
+{
+  "id": "carraro-zanandrea-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zanandrea-family"
+  ],
+  "text": "Caffè Carraro, the coffee roaster behind the Carraro 1927 brand, has been in the Zanandrea family since 1986: the company's own history records that Giuseppe Zanandrea took the business over from the founding Carraro family that year.",
+  "short": "Caffè Carraro is a Zanandrea-family company since 1986.",
+  "source": {
+    "name": "Caffè Carraro: Our story (history page)",
+    "date": "2026",
+    "url": "https://www.carraro1927.com/en/content/9-our-history",
+    "quote": "Giuseppe Zanandrea takes over from the Carraro family",
+    "note": "The timeline entry is dated '1986'. The same site's bar-owner page lists Caffè Carraro S.p.A. (P.IVA 01845560240).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
