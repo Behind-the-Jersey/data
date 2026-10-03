@@ -1,11 +1,17 @@
 {
   "id": "zoho-corporation",
   "name": "Zoho Corporation",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "vembu-family",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "zoho-vembu-ownership"
+  ],
+  "aliases": [
+    "Zoho",
+    "Zoho Corp"
+  ],
+  "note": "Back-of-shirt sponsor (club store product photos, 2026/27). Proposed none: privately held, majority-owned by founder Sridhar Vembu and his siblings (Forbes); no state stake found."
 }

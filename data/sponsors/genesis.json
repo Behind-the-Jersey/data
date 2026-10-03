@@ -1,14 +1,17 @@
 {
   "id": "genesis",
   "name": "Genesis",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "hyundai-motor-group",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "genesis worldwide"
+  "claimIds": [
+    "genesis-hyundai-brand"
   ],
-  "note": "Title sponsor of the Genesis Scottish Open and Genesis Championship (event names, 2026). Genesis is Hyundai Motor Group's luxury car brand; the event pages name no sponsor details, so no owner linked here pending a primary source."
+  "aliases": [
+    "Genesis worldwide",
+    "제네시스"
+  ],
+  "note": "Front-of-shirt sponsor above the main sponsor (club store product photos, 2026/27) and a club partner. Rating note: Genesis is Hyundai Motor's luxury brand (genesis-hyundai-brand). See the hyundai sponsor, which is held as being-rated pending the US child-labor case against Hyundai Motor Manufacturing Alabama; I propose the same treatment here rather than none."
 }

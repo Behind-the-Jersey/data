@@ -1,0 +1,34 @@
+{
+  "id": "iz-alinma-app",
+  "kind": "ownership",
+  "ownerIds": [
+    "alinma-bank"
+  ],
+  "text": "IZ is a digital banking app by Alinma Bank.",
+  "short": "IZ is Alinma Bank's digital banking app.",
+  "source": {
+    "name": "Al Qadsiah FC – Partnerships (IZ)",
+    "date": "2026",
+    "url": "https://alqadsiah.com/en/partnerships",
+    "quote": "IZ is a smart digital banking app by Alinma Bank, created for the new generation seeking simplicity and control",
+    "note": "The club's own partners page; it loads its text with JavaScript, so a script can't check the quote. Page without a visible date; opened 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "iz.com.sa – IZ app website (footer)",
+      "date": "2026",
+      "url": "https://iz.com.sa/",
+      "quote": "تطبيق عز من الإنماء | خاضع لرقابة وإشراف البنك المركزي السعودي",
+      "note": "Arabic: 'The iz app from Alinma | under the control and supervision of the Saudi Central Bank'. Page without a visible date; opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

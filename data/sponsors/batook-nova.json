@@ -1,11 +1,17 @@
 {
   "id": "batook-nova",
-  "name": "Batook Nova",
-  "ownerId": null,
-  "ownership": null,
+  "name": "Nova (Batook)",
+  "ownerId": "batook",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "nova-batook-brand"
+  ],
+  "aliases": [
+    "Nova",
+    "NOVA"
+  ],
+  "note": "Shorts sponsor as NOVA (club store product photos, 2026/27). Nova is Batook's chewing-gum brand, launched in 1996 (batook.com/about). Proposed none: private Saudi company founded in 1981 by brothers Saeed and Omar Batook; no state stake found."
 }
