@@ -237,10 +237,10 @@
       "placement": "league-partner",
       "source": {
         "name": "FIAWEC – Technical sheet, Alpine Endurance Team #36 (2026)",
-        "date": "2026-10-03",
+        "date": "2026",
         "url": "https://www.fiawec.com/en/car/2026/36",
         "quote": "Tyre partner",
-        "note": "The official FIA WEC entry sheet for the #36 Alpine A424 shows a 'Tyre partner' logo; the logo is Michelin's (the image's own alt text reads 'Michelin'). Michelin is the championship's tyre supplier. The page carries no publication date; the date given is the date the page was opened.",
+        "note": "date precision: year; the page carries no publication date. The official FIA WEC entry sheet for the #36 Alpine A424 shows a 'Tyre partner' logo; the logo is Michelin's (the image's own alt text reads 'Michelin'). Michelin is the championship's tyre supplier.",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
