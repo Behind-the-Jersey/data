@@ -69,17 +69,32 @@
       }
     },
     {
-      "sponsorId": "berain",
+      "sponsorId": "tameeni-insurance",
       "placement": "patch",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "quote": "Fresh Fit: Kits of 2026-27 RSL",
-        "note": "The league's official 2026-27 kit gallery; its 'Al Fateh Home + Away 26-27' photo shows a light-blue Berain patch on the right chest of the home shirt. Berain is also on the club's partners list (fatehclub.sa/en/sponsors, alt text 'بيرين', linking berain.com.sa).",
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "قميص الفتح الأساسي 26/27",
+        "note": "The kit maker's product-gallery photos of the 2026/27 Al-Fateh home shirt show a light-blue تأميني (Tameeni) patch on the right chest. Tameeni is also on the club's official partners list (fatehclub.sa/en/sponsors, 'تأميني' linking tameeni.com). The page is undated; the date is the day it was opened.",
         "checked": {
           "on": "2026-10-03",
-          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          "by": "btj-scout (OpenCode, model kimi-k3, review of PR #1109)"
+        }
+      }
+    },
+    {
+      "sponsorId": "healthy-nook",
+      "placement": "sleeve",
+      "source": {
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "قميص الفتح الأساسي 26/27",
+        "note": "The kit maker's product-gallery photos of the 2026/27 Al-Fateh home shirt show a white 'HEALTHY NOOK' wordmark on the sleeve. Healthy Nook is on the club's official partners list (fatehclub.sa/en/sponsors, 'هلثي نوك'). The page is undated; the date is the day it was opened.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3, review of PR #1109)"
         }
       }
     },
@@ -100,6 +115,6 @@
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Offside home kit. Al-Asasyah/GREE lockup on the chest centre, Berain patch on the right chest, Tamweel Aloula and Dallah Hospitals on the back. A small white sleeve logo is visible in kit photos but not identified from available sources; shorts not checked.",
+  "summary": "Offside home kit. Al-Asasyah/GREE lockup on the chest centre, Tameeni patch on the right chest, HEALTHY NOOK on the sleeve, Tamweel Aloula and Dallah Hospitals on the back. Other club partners on the club's partners page (Berain, Golden Scent, Al-Tayyar Dates, Sama, Gulf Carton, Al-Jabr Laundries) were not found on the shirt in available photos; shorts not checked, so sponsorsComplete stays false.",
   "change": null
 }
