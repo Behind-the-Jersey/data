@@ -1,14 +1,18 @@
 {
   "id": "fenix",
   "name": "Fenix",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "fenix 2025"
+  "ownerId": "arpa-industriale",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Fenix is an interior-materials brand of the Italian manufacturer Arpa Industriale, part of Broadview Holding and controlled by HAL Holding N.V. (listed in Amsterdam via HAL Trust). Nothing found.",
+  "claimIds": [
+    "fenix-arpa-ownership",
+    "arpa-broadview-hal-ownership"
   ],
-  "note": "Official apparel partner of the International Series, labelled 'Fenix 2025' on the partners page (fetched 2026-09-25). The brand entity behind Fenix and its ownership are unconfirmed - see unsourced."
+  "aliases": [
+    "fenix 2025",
+    "FENIX"
+  ],
+  "note": "The FENIX interior-materials brand of Arpa Industriale (Bra, Italy); namesake of the women's team Fenix-Premier Tech and on the lower back of the 2026 Alpecin-Premier Tech jersey. Rating note: brand link confirmed via fenixforinteriors.com (claim fenix-arpa-ownership); Arpa Industriale is part of Broadview Holding, controlled by HAL Holding N.V., Amsterdam-listed via HAL Trust (claim arpa-broadview-hal-ownership); no state or state fund in the chain, no relevant record found. Open question kept from previous research: a 'Fenix 2025' apparel partner of golf's International Series (deal international-series-fenix) may be a different brand, and the deal record may need splitting."
 }

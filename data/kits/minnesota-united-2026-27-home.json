@@ -12,13 +12,49 @@
       "sponsorId": "target",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
+        "name": "Minnesota United: 'Minnesota United Presents 2026 \"Decade Kit\"'",
+        "date": "2026-02-10",
+        "url": "https://www.mnufc.com/news/minnesota-united-presents-2026-decade-kit",
+        "quote": "Target returns as the primary kit partner and will continue to be featured on the front of the jersey as they have been since the club’s inaugural MLS season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The page's publication date (2026-02-10) is from its datePublished metadata; the page body shows no date line. FOR SOCCER's 2026 MLS jersey-sponsor survey (Feb 17, 2026) lists Target as Minnesota United's front-of-jersey partner, agreeing."
+      }
+    },
+    {
+      "sponsorId": "nutrisource",
+      "placement": "sleeve",
+      "source": {
+        "name": "Minnesota United: 'Minnesota United Presents 2026 \"Decade Kit\"'",
+        "date": "2026-02-10",
+        "url": "https://www.mnufc.com/news/minnesota-united-presents-2026-decade-kit",
+        "quote": "For a second consecutive season, Minnesota United’s jerseys will feature NutriSource Pet Foods and Finley’s Pet Treats as the club’s exclusive sleeve sponsors.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "One joint patch on the right sleeve carries both brands; FOR SOCCER's 2026 survey lists the right sleeve as 'NutriSource / Finley's', agreeing."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide Apple TV patch on the left sleeve; the survey's per-club table lists 'Apple TV' on Minnesota United's left sleeve. The league deal is recorded in data/deals/mls-apple-tv.json (clubId null)."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "The 'Decade Kit', Minnesota United's 2026 primary jersey marking ten MLS seasons: Target on the front as it has been since the club's 2017 MLS debut, NutriSource Pet Foods and Finley's Pet Treats together on the right sleeve for a second season, and the league-wide Apple TV patch on the left sleeve of every MLS kit. No back-of-jersey or shorts sponsor exists: the club's kit launch names no others, and MLS only opens back-of-jersey ad space after the 2026 All-Star Break (SportsLogos.Net, Mar 2, 2026)."
 }
