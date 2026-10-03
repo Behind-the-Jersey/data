@@ -14,7 +14,21 @@
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
-    }
+    },
+    "note": "Quote is from page 152 of the 519-page prospectus PDF; the PDF parses with warnings, so the additional source carries the same ownership in plain HTML."
   },
+  "additionalSources": [
+    {
+      "name": "Rasan: Revolutionizing Insurance and Financial Services (IPO page)",
+      "date": "2024",
+      "url": "https://rasan.co/en/ipo",
+      "quote": "providing seamless services through our flagship subsidiaries, including Tameeni",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same page: '30% of its share capital to the public through an IPO and listing its shares on the Main Market of the Saudi Exchange in May 2024' (Rasan is the listed parent; Tadawul: 8313)."
+    }
+  ],
   "reviewed": false
 }
