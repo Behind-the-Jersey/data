@@ -1,0 +1,21 @@
+{
+  "id": "banca-popolare-pugliese-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "banca-popolare-pugliese"
+  ],
+  "text": "Banca Popolare Pugliese S.C.p.A. is an Italian cooperative joint-stock bank (Società Cooperativa per Azioni), formed on 2 June 1994 from the merger of Banca Popolare Sud Puglia and Banca Popolare di Lecce, and is registered in the register of cooperative societies.",
+  "short": "Banca Popolare Pugliese is a cooperative bank owned by its members",
+  "source": {
+    "name": "Banca Popolare Pugliese – 'BPP' (company page, bpp.it/chi-siamo/bpp)",
+    "date": "2026-10-03",
+    "url": "https://www.bpp.it/chi-siamo/bpp",
+    "quote": "nasce il 2 giugno 1994 dalla fusione tra due realtà “storiche” della finanza salentina, la Banca Popolare Sud Puglia e Banca Popolare di Lecce",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page title names 'BANCA POPOLARE PUGLIESE S.C.p.A.' and the site footer reads 'Banca Popolare Pugliese - Società Cooperativa per Azioni'; the same page states 'Iscritta all'Albo delle Società Cooperative al n. A166106'. Page undated; the date given is the day the page was opened. As a cooperative, the bank is owned by its member-shareholders ('soci')."
+  },
+  "reviewed": false
+}

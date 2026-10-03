@@ -1,0 +1,21 @@
+{
+  "id": "intermountain-health-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "intermountain-health"
+  ],
+  "text": "Intermountain Health is the largest nonprofit health system in the Intermountain West, based in Salt Lake City, Utah.",
+  "short": "Intermountain Health is the largest nonprofit health system in the Intermountain West, based in Salt Lake City.",
+  "source": {
+    "name": "Intermountain Health – About us",
+    "date": "2026-09-27",
+    "url": "http://web.archive.org/web/20260927113649/https://intermountainhealthcare.org/about",
+    "quote": "Intermountain Health is the largest nonprofit health system in the Intermountain West.",
+    "note": "Live page (intermountainhealthcare.org/about) returns 403 to scripts; quote taken from this archived copy of 27 September 2026.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

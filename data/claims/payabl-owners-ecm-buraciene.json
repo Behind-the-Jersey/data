@@ -1,0 +1,20 @@
+{
+  "id": "payabl-owners-ecm-buraciene",
+  "kind": "ownership",
+  "ownerIds": [
+    "payabl-group"
+  ],
+  "text": "Limassol-based payments company payabl. has reportedly agreed to sell a 50% stake to private equity firm ECM Partners, with Group CEO Ugne Buračienė retaining the remaining 50% (reported August 2026).",
+  "source": {
+    "name": "Finance Magnates: payabl. Reportedly Agrees €100M+ Deal as ECM Partners Acquires 50% Stake",
+    "date": "2026-08-17",
+    "url": "https://www.financemagnates.com/fintech/payments/payabl-agrees-100m-deal-as-ecm-partners-acquires-50-stake/",
+    "quote": "has reportedly agreed to sell a 50% stake to private equity firm ECM Partners",
+    "note": "Article continues: 'Ugne Buračienė, payabl.’s Group CEO, will retain the remaining 50% stake and continue leading the company.'",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

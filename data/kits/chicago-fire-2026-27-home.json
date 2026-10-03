@@ -12,13 +12,48 @@
       "sponsorId": "carvana",
       "placement": "front",
       "source": {
-        "name": "chicagofirefc.com",
-        "date": "2026-02-14",
-        "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-unveils-new-forever-red-kit-to-heat-up-2026-season"
+        "name": "chicagofirefc.com – 'Chicago Fire FC Unveils New \"Forever Red\" Kit to Heat Up 2026 Season'",
+        "date": "2026-02-10",
+        "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-unveils-new-forever-red-kit-to-heat-up-2026-season",
+        "quote": "Chicago's soccer Club drops newest jersey – featuring front-of-kit partner Carvana – with Valentine's Day launch event",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide left-sleeve patch; Apple pays MLS, not the club (see deal mls-apple-tv)."
+      }
+    },
+    {
+      "sponsorId": "magellan-corporation",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "Chicago Fire FC Apple TV Media Magellan Corporation Distribution / Supply Chain",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Right sleeve for 2026, from the sleeves table's Chicago Fire FC row. The club announced Magellan as Official Jersey Sleeve Sponsor on 2024-05-03: https://www.chicagofirefc.com/news/chicago-fire-fc-announces-magellan-corporation-as-official-jersey-sleeve-sponsor"
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Carvana fronts the jersey and Magellan Corporation is on the right sleeve."
 }

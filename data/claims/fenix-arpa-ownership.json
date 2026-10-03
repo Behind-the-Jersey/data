@@ -1,0 +1,20 @@
+{
+  "id": "fenix-arpa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "arpa-industriale"
+  ],
+  "text": "FENIX is an interior-design materials brand of the Italian manufacturer Arpa Industriale (Bra, Italy).",
+  "short": "FENIX is a brand of Arpa Industriale.",
+  "source": {
+    "name": "FENIX for interiors: home page",
+    "date": "2026",
+    "url": "https://www.fenixforinteriors.com/en",
+    "quote": "FENIX® are the innovative materials created for interior design by Arpa Industriale in 2013.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
