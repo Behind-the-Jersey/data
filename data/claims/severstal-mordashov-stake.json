@@ -1,0 +1,35 @@
+{
+  "id": "severstal-mordashov-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "severstal-pao",
+    "alexei-mordashov"
+  ],
+  "text": "Alexey Mordashov holds 77.03% of PAO Severstal through Russian structures; the remaining 22.97% of the steel company's shares are free float.",
+  "short": "Alexey Mordashov controls Severstal with a 77.03% stake.",
+  "source": {
+    "name": "PAO Severstal Investor Relations: Share capital",
+    "date": "2026-10-03",
+    "url": "https://severstal.com/eng/ir/share-capital/",
+    "quote": "A.Mordashov (through Russian structures) 77.03% Free float 22.97%",
+    "note": "No publication date shown on the page; checked 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Forbes profile: Alexey Mordashov & family",
+      "date": "2026-03-10",
+      "url": "https://www.forbes.com/profile/alexey-mordashov/",
+      "quote": "Alexey Mordashov is the majority shareholder in steel company Severstal, which he ran as CEO for 19 years before resigning in 2015.",
+      "note": "The profile also states: 'Severstal, in which he still has a 77% stake'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
