@@ -1,12 +1,17 @@
 {
   "id": "flynas",
   "name": "flynas",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Saudi low-cost airline."
+  "ownerId": "flynas",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Listed on Tadawul; substantial shareholders are Prince Khalid bin Sultan's National Flight Services Co (28.88%), Prince Alwaleed's Kingdom Holding (27.44%) and Nasser Al Rashid (6.53%); PIF's indirect stake is 4.63%, below the 5% test. Nothing found.",
+  "claimIds": [
+    "flynas-ownership"
+  ],
+  "aliases": [
+    "flynas airlines",
+    "nas air"
+  ],
+  "note": "Saudi low-cost airline. Upper-chest sponsor on Al-Hilal's 2026/27 home shirt (league kit gallery)."
 }
