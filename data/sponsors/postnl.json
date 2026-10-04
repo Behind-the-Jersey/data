@@ -1,12 +1,18 @@
 {
   "id": "postnl",
   "name": "PostNL",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Dutch listed postal/parcel company."
+  "ownerId": "postnl-nv",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Dutch listed postal and parcel company (Euronext Amsterdam: PNL); its largest notified shareholder is Daniel Kretinsky with 29.64% of capital and voting rights. Nothing found.",
+  "claimIds": [
+    "postnl-listing-ownership",
+    "postnl-kretinsky-afm"
+  ],
+  "aliases": [
+    "PostNL N.V.",
+    "Koninklijke PostNL"
+  ],
+  "note": "Dutch listed postal/parcel company. Rating note: Listed on Euronext Amsterdam; per the AFM register its largest notified shareholder is D. Kretinsky (29.64%, via EP Investment S.à r.l., EP Equity Investment S.à r.l. and VESA Equity Investment S.à r.l., 7 May 2026), with Saba Capital at 5.02% (27 Aug 2026) — asset managers and private investors, no state or state-fund holding notified at 3% or more. No human-rights finding against PostNL found."
 }

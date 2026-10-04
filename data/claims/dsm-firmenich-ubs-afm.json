@@ -1,0 +1,19 @@
+{
+  "id": "dsm-firmenich-ubs-afm",
+  "kind": "ownership",
+  "ownerIds": [
+    "dsm-firmenich-ag"
+  ],
+  "text": "Per the Dutch AFM register of substantial holdings, UBS Group AG notified on 18 September 2026 a total capital interest of 7.27% (and 7.27% of voting rights) in DSM-Firmenich AG, held indirectly through UBS asset-management and bank entities.",
+  "source": {
+    "name": "AFM register of substantial holdings and gross short positions: UBS Group AG – DSM-Firmenich AG",
+    "date": "2026-09-18",
+    "url": "https://www.afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=200489&KeyWords=dsm-firmenich",
+    "quote": "Person obliged to notify UBS Group AG Issuing institution DSM-Firmenich AG",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

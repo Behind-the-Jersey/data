@@ -1,0 +1,19 @@
+{
+  "id": "lapierre-accell-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "accell-group"
+  ],
+  "text": "Cycles Lapierre is a bike brand of the Accell Group, the Dutch bicycle group that also owns Raleigh, Batavus, Sparta, Koga, Haibike, Winora, Ghost, Babboe and XLC.",
+  "source": {
+    "name": "Cycling Weekly: Raleigh and Lapierre owner declared bankrupt, potential sale to Irish company on horizon",
+    "date": "2026-08-13",
+    "url": "https://www.cyclingweekly.com/news/raleigh-and-lapierre-owner-declared-bankrupt-potential-sale-to-irish-company-on-horizon",
+    "quote": "The owner of iconic British bike company Raleigh and French brand Lapierre, the Accell Group, has been declared bankrupt",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

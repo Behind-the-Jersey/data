@@ -1,0 +1,19 @@
+{
+  "id": "postnl-kretinsky-afm",
+  "kind": "ownership",
+  "ownerIds": [
+    "postnl-nv"
+  ],
+  "text": "Per the Dutch AFM register of substantial holdings, D. Kretinsky notified on 7 May 2026 a 29.64% capital interest and 29.64% of voting rights in PostNL N.V., held indirectly through EP Investment S.à r.l., EP Equity Investment Holding S.à r.l., EP Equity Investment S.à r.l. and VESA Equity Investment S.à r.l.",
+  "source": {
+    "name": "AFM register of substantial holdings and gross short positions: D. Kretinsky – PostNL N.V.",
+    "date": "2026-05-07",
+    "url": "https://www.afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=199977&KeyWords=PostNL",
+    "quote": "Person obliged to notify D. Kretinsky Issuing institution PostNL N.V.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

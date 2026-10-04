@@ -1,0 +1,32 @@
+{
+  "id": "moa-sport-mantovani-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "moa-sport"
+  ],
+  "text": "MOA Sport, the company behind the Nalini cycling-apparel brand, was founded in 1970 by Claudio Mantovani together with his brother Vincenzo and remains their company (MOA Sport Mantovani Vincenzo Srl, Castel d'Ario, Italy).",
+  "source": {
+    "name": "MOA Sport: Welcome to MOA Sport (company page)",
+    "date": "2026",
+    "url": "https://www.moasport.it/en/company",
+    "quote": "Welcoming you and shaking your hand will be the patron of MOA Sport, Claudio Mantovani, who, with his brother Vincenzo, founded in 1970 this production hub",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Nalini: Cycling clothing online shop (homepage)",
+      "date": "2026",
+      "url": "https://www.nalini.com/en",
+      "quote": "All Nalini garments are developed in Italy by Moa Sport which presides over every phase of the process: from the design and from the spinning and processing of the fabrics to the finished garment.",
+      "note": "The Nalini brand site's footer also credits 'MOA SPORT MANTOVANI VINCENZO SRL - P.I. 01335840201'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (Scout review of PR #1178, OpenCode)"
+      }
+    }
+  ],
+  "reviewed": false
+}
