@@ -1,0 +1,20 @@
+{
+  "id": "pepsico-owns-gatorade",
+  "kind": "ownership",
+  "ownerIds": [
+    "pepsico-inc"
+  ],
+  "text": "PepsiCo's own Gatorade contact site describes the Gatorade Portfolio, which brings together Gatorade, Propel, Muscle Milk, Evolve and Fast Twitch, as a division of PepsiCo.",
+  "short": "Gatorade is a division of PepsiCo.",
+  "source": {
+    "name": "PepsiCo (contact.pepsico.com) - Gatorade: About Us",
+    "date": "2026",
+    "url": "https://contact.pepsico.com/gatorade/about-us",
+    "quote": "The Gatorade Portfolio, a division of PepsiCo (NASDAQ: PEP), is a connected performance and wellness ecosystem built to fuel all athletes and exercisers.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
