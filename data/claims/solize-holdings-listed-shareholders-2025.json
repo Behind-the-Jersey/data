@@ -1,0 +1,33 @@
+{
+  "id": "solize-holdings-listed-shareholders-2025",
+  "kind": "ownership",
+  "ownerIds": [
+    "solize-holdings"
+  ],
+  "text": "SOLIZE Holdings Corporation is listed on the Tokyo Stock Exchange, Standard Market (stock code 5871). Its FY2025 annual securities report lists its major shareholders, as of December 31, 2025, as the SOLIZE Employee Stock Ownership Association (21.08%), Miyuki Furukawa (14.09%), Keiichi Shinohara (6.44%) and Tokyo Small and Medium Business Investment & Development Co., Ltd. (5.60%).",
+  "short": "SOLIZE Holdings is TSE-listed (5871); top holder is its employee stock association",
+  "source": {
+    "name": "SOLIZE Holdings Corporation: Securities report, 36th term (fiscal year ended December 31, 2025), section 'Status of major shareholders' (English machine translation)",
+    "date": "2026-08-06",
+    "url": "https://www.solize.com/en/ir/library/securities/00.pdf",
+    "quote": "SOLIZE Employee Stock Ownership Association",
+    "note": "The major-shareholders table (report page - 55 -, as of December 31, 2025) lists: SOLIZE Employee Stock Ownership Association 21.08% (1,129,800 shares), Miyuki Furukawa 14.09% (754,800), Keiichi Shinohara 6.44% (345,000), Tokyo Small and Medium Business Investment & Development Co., Ltd. 5.60% (300,000), Mizuho Trust & Banking trust accounts 3.22% each, SBI Securities 1.60%, Mizuki Tanaka 1.54%. The column layout extracts scrambled, so only the contiguous holder name is quoted here.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SOLIZE Holdings Corporation: Company Overview",
+      "date": "2026",
+      "url": "https://www.solize.com/en/corporate/company/",
+      "quote": "Listed Market Tokyo Stock Exchange, Standard Market (Stock code : 5871)",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
