@@ -1,0 +1,22 @@
+{
+  "id": "bk-olimp-zevs-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bk-olimp",
+    "zevs"
+  ],
+  "text": "OOO \"Zevs\" (OGRN 1197746286924) holds 97.5% of OOO \"BK Olimp\", the company behind Olimpbet; BK Olimp's general director Sergey Gennadyevich Kozyavkin holds the remaining 2.5% (EGRUL founder data).",
+  "short": "OOO Zevs owns 97.5% of BK Olimp",
+  "source": {
+    "name": "checko.ru: OOO \"BK Olimp\" company profile (EGRUL founder data)",
+    "date": "2026-10-03",
+    "url": "https://checko.ru/company/bk-olimp-1127747004648",
+    "note": "Founders table on the page lists OOO \"Zevs\" with a 97.5% share and Sergey Kozyavkin with 2.5%.",
+    "quote": "Компания ООО \"БК \"ОЛИМП\" из Москвы входит в структуру владения, где контрольная доля принадлежит ООО \"ЗЕВС\"",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

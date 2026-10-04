@@ -1,0 +1,32 @@
+{
+  "id": "lpr-clear-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "the-clear-group"
+  ],
+  "text": "The Clear Group announced on 29 October 2024 the acquisition of Lloyd's wholesale broker Lilley Plummer Risks Limited, a marine and property specialist; Clear described it as its largest acquisition in terms of gross written premium, adding circa £150m of GWP to the group.",
+  "short": "The Clear Group acquired Lilley Plummer Risks in October 2024.",
+  "source": {
+    "name": "Clear Group — Clear Group enters the wholesale space with the acquisition of Lilley Plummer Risks Limited",
+    "date": "2024-10-29",
+    "url": "https://clearinsurancemanagement.com/news/clear-group-enters-the-wholesale-space-with-the-acquisition-of-lilley-plummer-risks-limited/",
+    "quote": "We’re delighted to announce the acquisition of Lloyd’s wholesale broker, Lilley Plummer Risks Limited – a marine and property specialist.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Insurance Journal — Clear Group Acquires Lilley Plummer Risks, Entering Wholesale Lloyd's Broker Space",
+      "date": "2024-10-29",
+      "url": "https://www.insurancejournal.com/news/international/2024/10/29/798981.htm",
+      "quote": "Clear Group, the UK independent insurance broker that is owned by Private Equity at Goldman Sachs Alternatives, has entered the wholesale Lloyd’s broker space with the acquisition of Lilley Plummer Risks Ltd.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

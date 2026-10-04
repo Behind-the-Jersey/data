@@ -1,11 +1,16 @@
 {
   "id": "tcl",
   "name": "TCL",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "tcl-electronics-holdings",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "tcl-electronics-ownership"
+  ],
+  "aliases": [
+    "TCL Electronics"
+  ],
+  "note": "Al-Ittihad sponsor for two seasons from October 2025 (men's and women's first teams), signed through Alesayi Electronics, TCL's exclusive distributor in Saudi Arabia; the TCL logo sits on the right shoulder of the men's team jerseys. Unrated (changed back 2026-10-03 by BTJ Scout review): the ownership chain ends at TCL Industries Holdings Co., Ltd., a private PRC holding company whose own shareholders are not named in the sources opened (TCL Electronics IR FAQ; HKEX major-transaction announcement of 15 July 2026). Media reporting on that transaction (36kr/Damo Finance, 2026-07-17) describes TCL founder Li Dongsheng as the actual controller of TCL Electronics through TCL Industries, and says the 2019 restructuring introduced CITIC Industrial Fund as a shareholder of TCL Industries; no source opened gives the size or current status of that or any other stake in TCL Industries Holdings."
 }

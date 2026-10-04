@@ -1,15 +1,19 @@
 {
   "id": "offside",
   "name": "Offside",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "Offside Sport",
-    "أوفسايد"
+  "ownerId": "rayat-al-tahadi-investment",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Offside is the trade name of Rayat Al-Tahadi Investment Co, a sportswear company. Nothing found.",
+  "claimIds": [
+    "offside-rayat-al-tahadi-ownership"
   ],
-  "note": "Saudi sportswear brand. Kit supplier to Al-Shabab, Al-Fateh, Abha and Al-Taawoun (2026-27). Trade name of Raya Al-Tahaddi Investment Co., Khobar (per al-kas.com, Dec 2025); its ultimate individual owners are not published."
+  "aliases": [
+    "OffSide",
+    "أوفسايد",
+    "OffLimits",
+    "Offside Sport"
+  ],
+  "note": "Saudi sportswear brand; kit supplier to Al-Hazem for 2026/27 (club announcement, 2026-07-04) and to other Saudi clubs including Al-Shabab, Al-Fateh and Al-Taawoun (offsideksa.com). Trade name of Rayat Al-Tahadi Investment Co (al-kas.com, 2025-12-03). No state body or fund found in the chain, and no human-rights finding against the company found (searched 2026-10-03)."
 }
