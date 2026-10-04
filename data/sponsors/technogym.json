@@ -1,0 +1,28 @@
+{
+  "id": "technogym",
+  "name": "Technogym",
+  "ownerId": "technogym-spa",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Saudi Arabia's Public Investment Fund sits at the head of the control structure of NIF Holding (Italy) S.r.l., which holds 6% of Technogym. On hold for a maintainer; the pull request proposes concern.",
+  "claimIds": [
+    "saudi-executions-2024",
+    "technogym-nif-pif-stake",
+    "technogym-tgh-stake"
+  ],
+  "aliases": [
+    "TECHNOGYM",
+    "Technogym S.p.A."
+  ],
+  "note": "Rating note: on hold for a maintainer; the pull request proposes concern. The link is technogym-nif-pif-stake (Technogym's 2025 annual report: NIF Holding (Italy) S.r.l. holds 6% of the share capital, with Saudi Arabia's PIF 'at the head of its control structure'; corroborated by Argaam/Reuters on the December 2023 purchase); the record is saudi-executions-2024 (Amnesty + HRW). 6% is above METHOD.md's 5% threshold. Technogym itself is a listed company: TGH S.r.l. holds 33.78% of capital / 60.47% of voting rights, 52.02% free float.",
+  "why": {
+    "text": "Saudi Arabia's Public Investment Fund sits at the head of the control structure of NIF Holding (Italy) S.r.l., which holds 6% of Technogym. Saudi Arabia carried out a record 345 executions in 2024. A famous shirt makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2024",
+      "technogym-nif-pif-stake"
+    ],
+    "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+    "status": "draft"
+  }
+}

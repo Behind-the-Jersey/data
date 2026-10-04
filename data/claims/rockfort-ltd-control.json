@@ -1,0 +1,22 @@
+{
+  "id": "rockfort-ltd-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "rockfort-ltd-uk",
+    "rockfort-engineering-holdings"
+  ],
+  "text": "Rockfort Engineering Holdings Limited (companies-house no. 14616380) holds 75% or more of the shares and voting rights in Rockfort Limited (SC553173).",
+  "short": "Rockfort Limited is controlled by Rockfort Engineering Holdings Limited.",
+  "source": {
+    "name": "Companies House: ROCKFORT LIMITED (SC553173), persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/SC553173/persons-with-significant-control",
+    "quote": "Ownership of shares – 75% or more : Ownership of voting rights – 75% or more : Right to appoint or remove directors",
+    "note": "PSC entry for Rockfort Engineering Holdings Limited (14616380), notified 21 May 2024.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
