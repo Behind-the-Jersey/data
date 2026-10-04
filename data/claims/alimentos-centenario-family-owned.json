@@ -4,18 +4,31 @@
   "ownerIds": [
     "alimentos-centenario"
   ],
-  "text": "Alimentos Centenario, the Uruguayan food company behind the Centenario brand, is family-run: it has been managed by the same family since its founding in 1959.",
-  "short": "Alimentos Centenario is run by the founding family",
+  "text": "Alimentos Centenario, the Uruguayan food company behind the Centenario brand, is a family company founded by Américo Szabolcs in 1959 and run by the Szabolcs family's third generation.",
+  "short": "Alimentos Centenario is run by the founding Szabolcs family",
   "source": {
-    "name": "Alimentos Centenario official site: Nuestra empresa",
-    "date": "2026-10-04",
-    "url": "https://www.centenario.net.uy/nuestra-empresa/",
-    "quote": "Centenario es una empresa familiar, manejada desde su inicio por la misma familia.",
-    "note": "English: 'Centenario is a family company, run by the same family since its beginnings.' Undated company page; the date given is the day it was opened. The same page states the company was founded in 1959 and is in its third generation of the same family.",
+    "name": "Montevideo Portal: 'Alimentos Centenario inauguró su nueva planta de distribución en Montevideo'",
+    "date": "2024-03-18",
+    "url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Alimentos-Centenario-inauguro-su-nueva-planta-de-distribucion-en-Montevideo-uc882915",
+    "quote": "Alimentos Centenario es una empresa familiar fundada por Don Américo Szabolcs hace 65 años. Hoy son sus nietos quienes llevan adelante la dirección de la empresa familiar",
+    "note": "English: 'Alimentos Centenario is a family company founded by Don Américo Szabolcs 65 years ago. Today his grandchildren run the family company.'",
     "checked": {
       "on": "2026-10-04",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Alimentos Centenario official site: Nuestra empresa",
+      "date": "2026-10-04",
+      "url": "https://www.centenario.net.uy/nuestra-empresa/",
+      "quote": "Centenario es una empresa familiar, manejada desde su inicio por la misma familia.",
+      "note": "English: 'Centenario is a family company, run by the same family since its beginnings.' Undated company page; the date given is the day it was opened. The same page states the company was founded in 1959 and is in its third generation of the same family.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
