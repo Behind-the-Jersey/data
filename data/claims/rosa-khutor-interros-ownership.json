@@ -1,0 +1,21 @@
+{
+  "id": "rosa-khutor-interros-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "interros"
+  ],
+  "text": "The Rosa Khutor mountain resort is part of the Interros holding; Interros, one of Russia's largest investment companies, was founded by Vladimir Potanin in 1990.",
+  "short": "Rosa Khutor is part of Vladimir Potanin's Interros holding.",
+  "source": {
+    "name": "Роза Хутор (resort's own press office): В руководстве «Роза Хутор» произошли кадровые изменения",
+    "date": "2025-09-17",
+    "url": "https://rosakhutor.ru/news/v-rukovodstve-roza-khutor-proizoshli-kadrovye-izmeneniya-2025/",
+    "quote": "Горный курорт «Роза Хутор» входит в экосистему Интерроса. Это одна из крупнейших инвестиционных компаний России, основана в 1990 году Владимиром Потаниным.",
+    "note": "Resort press release on the appointment of CEO Konstantin Nesterov.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
