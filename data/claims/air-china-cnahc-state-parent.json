@@ -1,0 +1,46 @@
+{
+  "id": "air-china-cnahc-state-parent",
+  "kind": "ownership",
+  "ownerIds": [
+    "air-china",
+    "china-national-aviation-holding"
+  ],
+  "text": "Air China's parent and ultimate holding company is China National Aviation Holding Corporation Limited (CNAHC), a PRC state-owned enterprise under the supervision of the State Council; CNAHC and its wholly-owned subsidiary CNACG collectively hold 53.71% of Air China.",
+  "short": "Air China's ultimate holding company is state-owned CNAHC (53.71% with CNACG)",
+  "source": {
+    "name": "Air China Limited: Interim Report 2025 (note 1, Corporate Information)",
+    "date": "2025-08-28",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091701034.pdf",
+    "quote": "the Company’s parent and ultimate holding company is China National Aviation Holding Corporation Limited (“CNAHC”), a PRC state-owned enterprise under the supervision of the State Council",
+    "note": "Interim report for the six months ended 30 June 2025, authorised for issue on 28 August 2025. Note 1, Corporate Information. The same report's substantial shareholders table (page 23) shows CNAHC as beneficial owner of 7,421,462,701 A Shares, 42.53% of the total issued shares, plus 7.64% of A Shares and 3.54% of H Shares by virtue of CNAHC's 100% interest in CNACG.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Air China Limited via Investegate (RNS): Announcement in relation to the voluntary undertaking by the controlling shareholder not to reduce shareholdings",
+      "date": "2025-04-10",
+      "url": "https://www.investegate.co.uk/announcement/rns/air-china-ltd---airc/voluntary-undertaking-by-controlling-shareholder/8824102",
+      "quote": "As at the date of this announcement, CNAHC and CNACG collectively hold 53.71% of the Company's shares.",
+      "note": "Announcement dated 8 April 2025, distributed via the London Stock Exchange's RNS and published by Investegate on 10 April 2025. Same announcement: the notice came 'from the controlling shareholder of the Company, China National Aviation Holding Corporation Limited (\"CNAHC\") and its wholly-owned subsidiary, China National Aviation Corporation (Group) Limited (\"CNACG\")'.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Cathay Pacific Airways Limited: Annual Report 2025 (Directors' Report, substantial shareholders note)",
+      "date": "2026-04-09",
+      "url": "https://www.cathaypacific.com/content/dam/cx/about-us/investor-relations/interim-annual-reports/en/2025_cx_annual_report_en.pdf",
+      "quote": "CNAHC was deemed to be interested in a total of 4,827,269,423 ordinary shares of the Company, in which its subsidiary Air China was deemed interested.",
+      "note": "Annual Report 2025 for the year ended 31 December 2025, published on 9 April 2026. Note (b) to the substantial shareholders table, corroborating that CNAHC is Air China's parent company from Cathay Pacific's side.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

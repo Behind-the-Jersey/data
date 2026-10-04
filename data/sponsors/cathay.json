@@ -1,0 +1,21 @@
+{
+  "id": "cathay",
+  "name": "Cathay",
+  "ownerId": "cathay-pacific-airways",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Cathay is the brand of Cathay Pacific Airways, a listed Hong Kong airline. Air China, whose ultimate parent is the Chinese state (CNAHC/CNACG 53.71%), holds an effective interest of 29.98% — roughly 16% along the chain from the state. Proposed: concern, pending a maintainer's review.",
+  "claimIds": [
+    "cathay-pacific-air-china-stake",
+    "cathay-pacific-swire-stake",
+    "air-china-cnahc-state-parent",
+    "china-xinjiang-un-assessment"
+  ],
+  "aliases": [
+    "Cathay Pacific",
+    "Cathay Pacific Airways"
+  ],
+  "note": "On hold for a maintainer: the chain government-of-china → CNAHC/CNACG (53.71% of Air China, Air China RNS of 8 April 2025) → Air China (effective interest 29.98% in Cathay Pacific, interim report 2025 note 12) puts the Chinese state at roughly 16% of Cathay along the chain, above the 5% threshold, and the government of China's Xinjiang record is documented (china-xinjiang-un-assessment, UN OHCHR + HRW) → concern. Swire Pacific (approximately 43.09%) is the largest shareholder; the Swire group's stake in Swire Pacific (64.45% equity, 70.97% voting rights per Cathay's Annual Report 2025) is private (John Swire & Sons), no state in that path. Qatar Airways' 9.57% at 31 December 2025 was bought back by Cathay in February 2026 (Annual Report 2025, note (d) to the substantial shareholders table). Stake sources disagree slightly by date: 44.98% for Swire at 30 June 2025 (Air China interim) vs 43.09% at 31 December 2025 (Cathay annual report). Back-of-shirt sponsor of the Hong Kong China 2026/27 15s home shirt (HKCR shop product photos).",
+  "ownerVerb": "owned by"
+}
