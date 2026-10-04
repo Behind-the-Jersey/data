@@ -12,13 +12,92 @@
       "sponsorId": "prima-assicurazioni",
       "placement": "front",
       "source": {
-        "name": "MotoGP.com - Prima Pramac Yamaha take the covers off 2026",
-        "date": "2026-01-13",
-        "url": "https://www.motogp.com/en/news/2026/01/13/prima-pramac-yamaha-take-the-covers-off-2026/825075"
+        "name": "Yamaha Motor: Prima Pramac Yamaha MotoGP Unveils Its 2026 Project in Siena, Where The Journey Began",
+        "date": "2026-01-14",
+        "url": "https://global.yamaha-motor.com/race/release/2026/001/",
+        "quote": "Prima Assicurazioni will once again be the title sponsor of Prima Pramac Yamaha MotoGP for the 2026 season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "alpine",
+      "placement": "partner",
+      "source": {
+        "name": "Cycle News press release: Prima Pramac Yamaha MotoGP Visits Alpine F1 Team Headquarters Ahead of Silverstone",
+        "date": "2026-08-08",
+        "url": "https://www.cyclenews.com/2026/08/article/prima-pramac-yamaha-motogp-visits-alpine-f1-team-headquarters-ahead-of-silverstone/",
+        "quote": "taking the opportunity to strengthen the relationship between the two Alpine-sponsored teams",
+        "note": "Prima Pramac Yamaha's own press release, carried by Cycle News in August 2026, confirms the Alpine partnership is still live in the 2026 season. The original deal was announced by Alpine as main partner for the 2025 season (media.alpinecars.com release, 27 January 2025); that announcement covers 2025 only, so it cannot itself source the 2026 kit entry.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "scout-review-1232"
+        }
+      }
+    },
+    {
+      "sponsorId": "21-com",
+      "placement": "partner",
+      "source": {
+        "name": "RTR Sports Marketing: 21.com secures Prima Pramac Yamaha MotoGP sponsorship",
+        "date": "2026",
+        "url": "https://rtrsports.com/en/portfolio-posts/21-com-secures-prima-pramac-yamaha-motogp-sponsorship/",
+        "quote": "21.com partnered with Pramac Racing Yamaha in the MotoGP world championship",
+        "note": "Case study by the sponsorship agency that brokered the deal (no date on the page). It says 21.com's brand goes on the side fairings of the YZR-M1, the riders' caps and racing suits. 21.com is also listed as a Main Partner on the team's partners page (checked 2026-10-03).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fiamm",
+      "placement": "partner",
+      "source": {
+        "name": "FIAMM press release: FIAMM al fianco di Prima Pramac Yamaha MotoGP per il triennio 2026–2028",
+        "date": "2026-01-19",
+        "url": "https://www.fiamm.com/fileadmin/ComunicatiStampa/Ita/2026/FIAMM_Sponsorship_Pramac_Racing_ITA.pdf",
+        "quote": "Prima Pramac Yamaha è lieta di annunciare il rinnovo della collaborazione con FIAMM per il triennio 2026–2028",
+        "note": "Translation: Prima Pramac Yamaha announces the renewal of the partnership with FIAMM for 2026-2028; the release adds FIAMM's logo goes on the bikes' windscreens.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "corpay",
+      "placement": "partner",
+      "source": {
+        "name": "Corpay newsroom: Corpay Cross-Border Named the Official Commercial FX Partner of Prima Pramac Racing",
+        "date": "2026-02-17",
+        "url": "https://www.corpay.com/resources/newsroom/corpay-cross-border-named-the-official-commercial-fx-partner-of-prima-pramac",
+        "quote": "Under the agreement, Corpay becomes Pramac Racing's Official Commercial Foreign Exchange (FX) Partner and a Premium Partner of the team",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "accm",
+      "placement": "partner",
+      "source": {
+        "name": "Finance Magnates: Racing, but Not F1: CFD Broker ACCM to Promote Brand as a MotoGP Team Sponsor",
+        "date": "2026-02-06",
+        "url": "https://www.financemagnates.com/forex/racing-but-not-f1-cfd-broker-accm-to-promote-brand-as-a-motogp-team-sponsor/",
+        "quote": "it has become a multi-year sponsor of the Prima Pramac Yamaha MotoGP team",
+        "note": "Named press; the broker is the team's Official Partner.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Title sponsor Prima Assicurazioni on the front (Yamaha's 2026 launch release); Alpine, 21.com, FIAMM, Corpay and ACCM are sourced team partners. Not complete: the team's partners page (pramacracing.com) names further partners by logo only, without matching text a script can quote — Motul, AON, Synergie, Sunenergy, Quint, Dainese, Michelin, Akrapovic, Beta, WRS, Accossato, RCB, Kappa, Cetilar, RDS, Baladin, Cecchi and Cirfood — plus title partner Pramac (the team's own company, in the Generac group since 2016) and manufacturer partner Yamaha, which aren't added as shirt sponsors.",
   "change": null
 }

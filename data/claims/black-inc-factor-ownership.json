@@ -1,0 +1,20 @@
+{
+  "id": "black-inc-factor-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "factor-bikes"
+  ],
+  "text": "Black Inc is the carbon component brand of Factor Bikes; Factor is Black Inc's parent.",
+  "short": "Black Inc is the component brand of Factor Bikes.",
+  "source": {
+    "name": "Bicycle Retailer and Industry News: CORRECTION: Chinese manufacturer Zhonglu buys minority share in Factor Bikes",
+    "date": "2025-03-10",
+    "url": "https://www.bicycleretailer.com/international/2025/03/10/chinese-manufacturer-zhonglu-buys-majority-share-factor-bikes",
+    "quote": "Factor is the parent of the Black Inc. carbon component brand.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

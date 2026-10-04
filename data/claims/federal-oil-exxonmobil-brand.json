@@ -1,0 +1,21 @@
+{
+  "id": "federal-oil-exxonmobil-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "pt-federal-karyatama"
+  ],
+  "text": "The Federal Oil brand is the trademark of PT Federal Karyatama, an Indonesian lubricant manufacturer that ExxonMobil acquired in 2018.",
+  "short": "Federal Oil is the trademark of PT Federal Karyatama, acquired by ExxonMobil in 2018.",
+  "source": {
+    "name": "ExxonMobil - ExxonMobil Indonesia: Our operations",
+    "date": "2026",
+    "url": "https://corporate.exxonmobil.com/locations/indonesia/our-operations",
+    "quote": "ExxonMobil acquired PT Federal Karyatama (FKT) in 2018. PT FKT is a lubricant manufacturer with Federal Oil™ as its trademark",
+    "note": "Page undated; footer shows © Copyright 2003-2026 Exxon Mobil Corporation.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

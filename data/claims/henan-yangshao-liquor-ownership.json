@@ -1,0 +1,34 @@
+{
+  "id": "henan-yangshao-liquor-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "henan-yangshao-liquor"
+  ],
+  "text": "Hou Jianguang (侯建光) holds 65.91% of Henan Yangshao Liquor Industry Co., Ltd. and is its chairman and the core of its control (its actual controller); the other shareholders are natural persons, with no institutional investors, according to company data cited in press reports.",
+  "short": "Chairman Hou Jianguang controls Henan Yangshao Liquor (65.91%); all shareholders natural persons.",
+  "source": {
+    "name": "搜狐号 (Sohu, 华商精英圈): 探秘河南三门峡第3匹“大黑马”：国有企业改制，年入28.654亿",
+    "date": "2023-05-06",
+    "url": "https://www.sohu.com/a/673291014_120763115",
+    "quote": "根据天眼查APP最新资料显示，侯建光持股比例占65.91%，为河南仰韶酒业有限公司控制权的核心人员、董事长兼总经理",
+    "note": "Translation: 'Per the latest Tianyancha app data, Hou Jianguang holds a 65.91% stake and is the core person in the control of Henan Yangshao Liquor Industry Co., Ltd., its chairman and general manager.' The same paragraph names the other shareholders (Wang Kun 11.36%, Zhang Jianfeng, Wei Kai 6.82% each, Zhang Hongqin, Zhang Huwen 4.55% each) — all natural persons.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "新浪财经头条号 (Sina Finance, 智趣财经): 仰韶酒业的突围战，为什么越打越难？ (Why Yangshao Liquor's breakout battle keeps getting harder)",
+      "date": "2026-04-16",
+      "url": "https://cj.sina.com.cn/articles/view/3093070657/b85c834100101qz9u",
+      "quote": "侯建光以65.91%的绝对控股成为实际控制人，股东全是自然人",
+      "note": "Translation: 'Tianyancha shows Hou Jianguang holds 65.91% absolute control and is the actual controller; the shareholders are all natural persons.' The sentence continues on the page '没有任何机构投资者' ('there are no institutional investors'); the quote is cut at a point the page wraps in a hyperlink so the script can match it.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

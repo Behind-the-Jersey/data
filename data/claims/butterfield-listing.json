@@ -1,0 +1,20 @@
+{
+  "id": "butterfield-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "butterfield-group"
+  ],
+  "text": "The Bank of N.T. Butterfield & Son Limited's voting ordinary shares trade on the New York Stock Exchange under the symbol NTB and on the Bermuda Stock Exchange under the symbol NTB.BH.",
+  "short": "Butterfield is listed on the NYSE (NTB) and the Bermuda Stock Exchange (NTB.BH)",
+  "source": {
+    "name": "The Bank of N.T. Butterfield & Son Limited Form 20-F FY2025 (SEC EDGAR)",
+    "date": "2026-02-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1653242/000165324226000006/ntb-20251231.htm",
+    "quote": "The Bank's common shares trade on the New York Stock Exchange under the symbol \"NTB\" and on the Bermuda Stock Exchange (\"BSX\") under the symbol \"NTB.BH\".",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,14 +1,18 @@
 {
   "id": "butterfield",
   "name": "Butterfield",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "Butterfield Bank"
+  "ownerId": "butterfield-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The Bank of N.T. Butterfield & Son Limited, a Bermuda bank listed on the NYSE and the Bermuda Stock Exchange. Nothing found.",
+  "claimIds": [
+    "butterfield-listing",
+    "butterfield-shareholders"
   ],
-  "note": "Official financial services partner of NorthStar Canada (SailGP press release, 18 Jul 2025)."
+  "aliases": [
+    "Butterfield Bank",
+    "The Bank of N.T. Butterfield & Son Limited"
+  ],
+  "note": "Official Offshore Financial Services Partner of the NorthStar SailGP Team in a three-and-a-half-year agreement signed in July 2025 (SailGP press release, 18 Jul 2025). Rating note (2026-10-03): Butterfield is The Bank of N.T. Butterfield & Son Limited, whose voting ordinary shares trade on the NYSE (NTB) and the Bermuda Stock Exchange (NTB.BH); its known 5%-or-more beneficial owners are BlackRock, Inc. (7.1%) and FMR LLC (6.9%) (Form 20-F FY2025). No state or state-fund holder in its chain, and no human-rights finding against the company was found."
 }

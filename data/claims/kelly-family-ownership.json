@@ -1,0 +1,33 @@
+{
+  "id": "kelly-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kelly-benefits"
+  ],
+  "text": "Kelly Benefits Strategies is the direct sales and marketing division of Kelly & Associates Insurance Group (Kelly Benefits), a company founded by Janet and Frank Kelly that remains family-owned and is guided by their four sons.",
+  "short": "Kelly Benefits Strategies is a division of the family-owned Kelly & Associates Insurance Group.",
+  "source": {
+    "name": "Kelly Benefits: Our History (via the Wayback Machine, capture 2026-02-06)",
+    "date": "2026",
+    "url": "http://web.archive.org/web/20260206115425/https://kellybenefits.com/about/our-history/",
+    "quote": "Kelly Benefits Strategies (KBS), the direct sales and marketing division of Kelly & Associates Insurance Group, is one of the largest privately owned benefits brokers and consultants in the country.",
+    "note": "The live page returned HTTP 418 to scripts, so the Wayback capture was checked. The same page states: 'Still family-owned, Kelly Benefits now delivers so much more. Over the years, Janet and Frank’s four sons, Frank III (1986), John (1987), David (1989) and Bryan (1991), joined the business.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "I95 Business: Kelly Benefits Celebrates 50 Years of Service, Innovation, and Community Impact",
+      "date": "2026-03-18",
+      "url": "https://i95business.com/releases/7813",
+      "quote": "Today, Kelly Benefits remains family-owned and guided by Frank and Janet’s sons—Frank III, John, David, and Bryan—as well as several of their grandchildren.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
