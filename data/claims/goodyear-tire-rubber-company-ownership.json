@@ -1,0 +1,20 @@
+{
+  "id": "goodyear-tire-rubber-company-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "goodyear-the-tire-and-rubber-company"
+  ],
+  "text": "The Goodyear Tire & Rubber Company is a listed US company whose largest shareholders are investment firms: its 2026 proxy statement lists BlackRock, Inc. (32,825,572 shares, 11.5%), The Vanguard Group (29,095,385 shares, 10.2%), Wellington Management (8.8%) and Dimensional Fund Advisors (5.8%) as holders of more than 5% of its common stock.",
+  "short": "Goodyear Tire & Rubber is Nasdaq-listed; its 2026 proxy lists BlackRock (11.5%) and Vanguard (10.2%) as the largest holders.",
+  "source": {
+    "name": "The Goodyear Tire & Rubber Company: 2026 Proxy Statement (DEF 14A), Beneficial Ownership of Common Stock (SEC EDGAR)",
+    "date": "2026-03-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/42582/000162828026015463/a2026goodyearproxystatement.htm",
+    "quote": "BlackRock, Inc. 50 Hudson Yards New York, NY 10001 32,825,572 (1) 11.5 % The Vanguard Group, Inc. 100 Vanguard Blvd. Malvern, PA 19355 29,095,385 (2) 10.2 %",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
