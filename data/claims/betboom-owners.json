@@ -1,0 +1,21 @@
+{
+  "id": "betboom-owners",
+  "kind": "ownership",
+  "ownerIds": [
+    "danilova-ovsepyan"
+  ],
+  "text": "BetBoom's shareholders are OOO Asna-Grupp (50%) and OOO BK 369 (50%); RB Business reported in August 2021, citing the EGRUL register, that the bookmaker's ultimate beneficiaries remain Marina Danilova and Arman Ovsepyan.",
+  "short": "BetBoom is owned 50/50 by Asna-Grupp and BK 369; beneficiaries Danilova and Ovsepyan (RB Business, 2021).",
+  "source": {
+    "name": "RB Business (Рейтинг Букмекеров): Букмекеры BetBoom и bet365 сменили владельцев",
+    "date": "2021-08-09",
+    "url": "https://bookmaker-ratings.ru/news/bukmekery-betboom-i-bet365-smenili-vladel-tsev/",
+    "quote": "Состав акционеров BetBoom теперь выглядит следующим образом: 50% находятся в собственности компании ООО «Асна-Групп», остальные акции принадлежат ООО «БК 369». При этом конечными бенефициарами букмекеров, несмотря на смену владельцев, остаются Марина Данилова и Арман Овсепян.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    },
+    "note": "RB Business (Bookmaker Ratings), citing EGRUL register changes. BetBoom's own trademark page (https://betboom.ru/pages/tovznak, opened 3 Oct 2026) identifies the bookmaker's legal entity as OOO Firma STOM; not cited as a source because script checks can't extract the page's text. Ownership data is from August 2021; no newer ownership reporting found."
+  },
+  "reviewed": false
+}
