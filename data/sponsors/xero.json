@@ -1,12 +1,16 @@
 {
   "id": "xero",
   "name": "Xero",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  "ownerId": "xero-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Xero Limited is listed on the Australian Securities Exchange; its FY26 annual report's Top 20 holders list (as at 9 April 2026) is headed by custody nominees — HSBC Custody Nominees (Australia) Limited (29.44%), J P Morgan Nominees Australia (23.20%) and Citicorp Nominees (16.43%). Nothing found.",
+  "claimIds": [
+    "xero-ownership"
+  ],
+  "aliases": [
+    "xero limited"
+  ],
+  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners, checked 2026-10-04)."
 }

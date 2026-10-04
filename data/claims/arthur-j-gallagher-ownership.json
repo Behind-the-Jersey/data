@@ -1,0 +1,34 @@
+{
+  "id": "arthur-j-gallagher-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "arthur-j-gallagher-co"
+  ],
+  "text": "Arthur J. Gallagher & Co. is an insurance brokerage and risk management company whose common stock trades on the New York Stock Exchange under the symbol AJG; its 2026 proxy statement names its 5% stockholders as The Vanguard Group (9.9%), JP Morgan Chase & Co. (7.8%), BlackRock, Inc. (6.9%) and Capital World Investors (5.0%).",
+  "short": "Arthur J. Gallagher & Co. is NYSE-listed; largest holders are asset managers",
+  "source": {
+    "name": "Arthur J. Gallagher & Co. Form 10-K for fiscal year 2025 (SEC EDGAR), cover page",
+    "date": "2026-02-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026008662/ajg-20251231.htm",
+    "quote": "Common Stock, par value $1.00 per share AJG New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Securities registered pursuant to Section 12(b) of the Act, as shown on the 10-K cover page; 2026-02-17 is the EDGAR filing date."
+  },
+  "additionalSources": [
+    {
+      "name": "Arthur J. Gallagher & Co. 2026 Notice of Annual Meeting & Proxy Statement (SEC EDGAR), Security Ownership by Certain Beneficial Owners and Management",
+      "date": "2026-03-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/354190/000035419026000101/ajg-20260323.htm",
+      "quote": "5% Stockholders The Vanguard Group (3) 100 Vanguard Blvd. Malvern, PA 19355 25,553,064 — — 25,553,064 9.9%",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same table: 'JP Morgan Chase & Co. (4) 383 Madison Ave, New York, NY 10179 20,155,017 — — 20,155,017 7.8%' 'BlackRock, Inc. (5) 50 Hudson Yards New York, NY 10001 17,725,659 — — 17,725,659 6.9%' and 'Capital World Investors (6) 333 South Hope St, 55th Floor, Los Angeles, CA 90071 12,951,790 — — 12,951,790 5.0%'. 2026-03-23 is the EDGAR filing date."
+    }
+  ],
+  "reviewed": false
+}

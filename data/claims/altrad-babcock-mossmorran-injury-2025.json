@@ -1,0 +1,34 @@
+{
+  "id": "altrad-babcock-mossmorran-injury-2025",
+  "kind": "record",
+  "ownerIds": [
+    "altrad-babcock"
+  ],
+  "text": "Altrad Babcock admitted health and safety breaches after a metal coil fell on rigger Darren Spagnoletta during furnace refurbishment at the Mossmorran petrochemical plant in Fife, leaving him with three skull fractures and a broken shoulder; the firm was fined £900,000 plus a £67,500 victim surcharge at Kirkcaldy Sheriff Court in November 2025.",
+  "short": "Altrad Babcock fined £967,500 over rigger's skull fractures",
+  "source": {
+    "name": "BBC News: 'Firm fined nearly £1m after plant worker struck by falling metal'",
+    "date": "2025-11-05",
+    "url": "https://www.bbc.co.uk/news/articles/ce3xg1z0neqo",
+    "quote": "Contractors Altrad Babcock admitted health and safety breaches by failing to carry out an adequate risk assessment after being forced to change their plans for the operation.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Same article: 'The firm was fined £900,000 plus a £67,500 victim surcharge, used to support victims of crime, at Kirkcaldy Sheriff Court on Tuesday.' and 'He was struck on the back and head, causing three skull fractures and severe cuts... His shoulder was also broken and he was off work for 15 months.'"
+  },
+  "additionalSources": [
+    {
+      "name": "The National (Newsquest): 'Altrad Babcock fined £967k after worker suffered three fractures to his skull'",
+      "date": "2025-11-04",
+      "url": "https://www.thenational.scot/news/25596801.babcock-fined-967k-worker-suffered-three-fractures-skull/",
+      "quote": "The contractor carrying out the project, Babcock, was today fined £967,500 for health and safety failings at Kirkcaldy Sheriff Court.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same article: 'Now known as Altrad Babcock... the company admitted that... it failed to ensure the health, safety and welfare at work of its employees', and Sheriff Robert More 'said the firm's culpability was \"high\"'."
+    }
+  ],
+  "reviewed": false
+}
