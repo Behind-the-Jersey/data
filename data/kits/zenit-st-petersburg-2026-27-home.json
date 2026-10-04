@@ -12,18 +12,79 @@
       "sponsorId": "gazprom",
       "placement": "front",
       "source": {
-        "name": "FC Zenit official site: Club kit (history page)",
+        "name": "RPLstat: Форма «Зенит» на сезон 2026/27",
         "date": "2026",
-        "url": "https://en.fc-zenit.ru/club/fczenit_kit/",
-        "quote": "in 1997 the team shirts got the Gazprom logo",
+        "url": "https://rplstat.ru/kit/zenit/",
+        "quote": "Производитель JOGEL Титульный спонсор Газпром",
+        "note": "Kit details table for the 2026/27 season. Gazprom front placement confirmed against the club's 14 July 2026 launch photos (en.fc-zenit.ru news 'Passion and Order: Our new kits for the 2026/27 Season'), the club shop product photo (shop.fc-zenit.ru, art. ЦБ-00008293), and CC BY-SA match photos of 2 Aug 2026 on Wikimedia Commons (File:FC_Orenburg_vs._FC_Zenit_Saint_Petersburg_02.08.2026_9.jpg).",
         "checked": {
-          "on": "2026-09-27",
-          "by": "claude-review-282"
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "winline",
+      "placement": "patch",
+      "source": {
+        "name": "FC Zenit official site: Our partners and sponsors",
+        "date": "2026",
+        "url": "https://en.fc-zenit.ru/biz/partners/",
+        "quote": "Winline are a rapidly growing betting company and one of the Russian market leaders.",
+        "note": "Right-chest patch with Winline's WIN logo, per the club's 14 July 2026 kit launch photos (en.fc-zenit.ru news) and the CC BY-SA match photo of 2 Aug 2026 (commons.wikimedia.org, File:FC_Orenburg_vs._FC_Zenit_Saint_Petersburg_02.08.2026_9.jpg).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "winline",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Zenit official site: Our partners and sponsors",
+        "date": "2026",
+        "url": "https://en.fc-zenit.ru/biz/partners/",
+        "quote": "Winline are a rapidly growing betting company and one of the Russian market leaders.",
+        "note": "Sleeve patch reading WINLINE, on the sleeve below the Aeroflot patch, per the club's 14 July 2026 kit launch photos (en.fc-zenit.ru news).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "megafon",
+      "placement": "patch",
+      "source": {
+        "name": "FC Zenit official site: Our partners and sponsors",
+        "date": "2026",
+        "url": "https://en.fc-zenit.ru/biz/partners/",
+        "quote": "MegaFon — is one of the leading Russian telecommunications providers.",
+        "note": "Left-shoulder patch reading «МегаФон», per the club's 14 July 2026 kit launch photos and the CC BY-SA match photo of 2 Aug 2026 (commons.wikimedia.org, File:FC_Orenburg_vs._FC_Zenit_Saint_Petersburg_02.08.2026_9.jpg).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "aeroflot",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Zenit official site: Our partners and sponsors",
+        "date": "2026",
+        "url": "https://en.fc-zenit.ru/biz/partners/",
+        "quote": "Rossiya Airlines is part of the Aeroflot Group and is the second largest carrier in the Russian Federation in terms of aircraft fleet size.",
+        "note": "Sleeve patch reading «АЭРОФЛОТ», above the Winline sleeve patch, per the club's 14 July 2026 kit launch photos (en.fc-zenit.ru news).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Gazprom general sponsor on the front of the Zenit shirt; other partners (Winline, Aeroflot, MegaFon) per the club partners page but shirt placement not confirmed.",
+  "sponsorsComplete": true,
+  "summary": "Jogel home kit launched 14 July 2026, debut in the Russian Super Cup on 18 July 2026. Gazprom on the front (also the only sponsor on the retail shirt); Winline WIN patch on the right chest and a WINLINE patch on the sleeve; MegaFon patch on the left shoulder; Aeroflot sleeve patch. No back-of-shirt or shorts sponsor: the launch photos and the club shop product photos show only the crest, Jogel marks, player numbers and the RPL champion badge.",
   "change": null
 }

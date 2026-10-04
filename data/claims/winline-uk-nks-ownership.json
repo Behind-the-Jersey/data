@@ -1,0 +1,33 @@
+{
+  "id": "winline-uk-nks-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "winline"
+  ],
+  "text": "The Winline bookmaker is part of OOO Upravlyayushchaya kompaniya NKS, in which the largest share (45%) belongs to Andrei Myslivtsev.",
+  "short": "Winline is run by OOO UK NKS; Andrei Myslivtsev holds the largest share (45%).",
+  "source": {
+    "name": "Stavka.TV: Компания Винлайн: кто основатель и владелец",
+    "date": "2026-10-01",
+    "url": "https://stavka.tv/bookmakers/winline/about",
+    "quote": "Компания входит в ООО «Управляющая компания НКС» с уставным капиталов 120 миллионов рублей. Основной долей владеет Андрей Мысливцев.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Legalbet: Владелец Винлайн: кому принадлежит букмекерская контора",
+      "date": "2026-10-02",
+      "url": "https://legalbet.ru/shkola-bettinga/vladeletc-vinlajn-komu-prinadlezhit-bukmekerskaya-kontora/",
+      "quote": "основной хозяин компании — Дмитрий Мысливцев, у него наибольшая доля",
+      "note": "Legalbet names the main owner 'Дмитрий Мысливцев'; Stavka.TV's dated owner table (1 Oct 2026) and its founder section say 'Андрей Мысливцев'. The surname and largest-share statement agree.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
