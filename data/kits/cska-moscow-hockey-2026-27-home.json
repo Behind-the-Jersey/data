@@ -10,11 +10,62 @@
   "sponsors": [
     {
       "sponsorId": "rosneft",
-      "placement": "partner",
+      "placement": "front",
       "source": {
-        "name": "HC CSKA Moscow official site, partners page",
-        "date": "2026-09-25",
-        "url": "https://cska-hockey.ru/club/partners/"
+        "name": "HC CSKA Moscow official site: photo gallery, 29.09.2026 CSKA–SKA",
+        "date": "2026-09-29",
+        "url": "https://cska-hockey.ru/photos/gallery/29_09_2026_tsska_ska/",
+        "note": "Club photos show the РОСНЕФТЬ wordmark in white across the red lower band on the front waist of the jersey. Same layout on the 2026-27 red home kit seen in the 07.09.2026 CSKA–Spartak gallery (/photos/gallery/07_09_2026_tsska_spartak/). Photo page: no text to quote."
+      }
+    },
+    {
+      "sponsorId": "rosneft",
+      "placement": "back",
+      "source": {
+        "name": "HC CSKA Moscow official site: photo gallery, 29.09.2026 CSKA–SKA",
+        "date": "2026-09-29",
+        "url": "https://cska-hockey.ru/photos/gallery/29_09_2026_tsska_ska/",
+        "note": "Club photos show the РОСНЕФТЬ wordmark across the lower band on the back of the jersey and the Rosneft derrick logo above the nameplate. Photo page: no text to quote."
+      }
+    },
+    {
+      "sponsorId": "rosneft",
+      "placement": "sleeve",
+      "source": {
+        "name": "HC CSKA Moscow official site: photo gallery, 07.09.2026 CSKA–Spartak",
+        "date": "2026-09-07",
+        "url": "https://cska-hockey.ru/photos/gallery/07_09_2026_tsska_spartak/",
+        "note": "Club photos show the РОСНЕФТЬ wordmark and derrick logo on the upper sleeve, above the sleeve number. Photo page: no text to quote."
+      }
+    },
+    {
+      "sponsorId": "mir-nspk",
+      "placement": "patch",
+      "source": {
+        "name": "HC CSKA Moscow official site: photo gallery, 07.09.2026 CSKA–Spartak",
+        "date": "2026-09-07",
+        "url": "https://cska-hockey.ru/photos/gallery/07_09_2026_tsska_spartak/",
+        "note": "Club photos show a МИР (NSPK payment system) patch on the right chest of the jersey. NSPK is listed as an official partner in the KHL partners block syndicated on the club site footer. Photo page: no text to quote."
+      }
+    },
+    {
+      "sponsorId": "t-bank",
+      "placement": "patch",
+      "source": {
+        "name": "HC CSKA Moscow official site: photo gallery, 29.09.2026 CSKA–SKA",
+        "date": "2026-09-29",
+        "url": "https://cska-hockey.ru/photos/gallery/29_09_2026_tsska_ska/",
+        "note": "Club photos show a Т-Банк (T-Bank) logo patch on the upper back of the jersey, beside the Rosneft derrick above the nameplate (e.g. players 19 and 51). T-Bank is a KHL league general partner. Photo page: no text to quote."
+      }
+    },
+    {
+      "sponsorId": "olimpbet",
+      "placement": "shorts",
+      "source": {
+        "name": "HC CSKA Moscow official site: photo gallery, 29.09.2026 CSKA–SKA",
+        "date": "2026-09-29",
+        "url": "https://cska-hockey.ru/photos/gallery/29_09_2026_tsska_ska/",
+        "note": "Club photos show an OLIMPBET logo patch on the red pants (e.g. players 2, 51, 65). The same patch sits on SKA's pants in the same game, so the pants branding is league-wide, not a club deal. Photo page: no text to quote."
       }
     },
     {
@@ -22,12 +73,18 @@
       "placement": "partner",
       "source": {
         "name": "HC CSKA Moscow official site, partners page",
-        "date": "2026-09-25",
-        "url": "https://cska-hockey.ru/club/partners/"
+        "date": "2026",
+        "url": "https://cska-hockey.ru/club/partners/",
+        "quote": "Официальный партнер",
+        "note": "The page's partners block shows the Olimpbet logo under the heading Официальный партнер, linking to olimp.bet with a CSKA promocode; the label below the logo is image-rendered. No Olimpbet branding seen on the 2026-27 jersey itself in club photos (the Olimpbet patch on the pants is a separate league-wide placement, recorded above).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026-27 home kit. Rosneft general sponsor and Olimpbet official partner per the club partners page; front-of-shirt sponsor not yet sourced.",
+  "sponsorsComplete": true,
+  "summary": "2026-27 home kit. Rosneft (the club's general sponsor per cska-hockey.ru/club/partners/) carries the jersey: the РОСНЕФТЬ wordmark across the red lower band front and back and on the upper sleeves, plus the Rosneft derrick above the nameplate on the back. A МИР (NSPK) patch sits on the right chest (SKA players wear the same patch in the same match) and a Т-Банк patch on the upper back; NSPK is listed in the syndicated KHL partners block on the club site and T-Bank is a KHL league general partner. An OLIMPBET patch is on the red pants — also on SKA's pants, so the pants branding is league-wide; Olimpbet is additionally an official club partner off the shirt. Socks carry no advertising in club photos; helmets carry СОГАЗ and РОСНЕФТЬ decals, for which the schema has no placement; the KHL league mark and the hockey-80-years patch are not sponsors. All placements checked against the club's 07.09 and 29.09.2026 photo galleries.",
   "change": null
 }
