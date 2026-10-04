@@ -1,0 +1,21 @@
+{
+  "id": "sram-day-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sram-day-family"
+  ],
+  "text": "SRAM, the Chicago-based bicycle-component manufacturer, is a private company owned by the Day family and its management team (co-founder Stan Day, who stepped down as CEO in January 2019 and stayed on as chairman).",
+  "short": "SRAM is owned by the Day family and its management team.",
+  "source": {
+    "name": "Pinkbike (via Wayback Machine): 'SRAM CEO Stan Day Steps Down After 31 Years'",
+    "date": "2019-01-09",
+    "url": "https://web.archive.org/web/20211005225904/https://www.pinkbike.com/news/stan-day-steps-down-after-31-years-as-ceo-of-sram.html",
+    "quote": "SRAM will continue to be a private company owned by the Day Family and the management team. It will continue to focus its innovation and business within the bike industry.",
+    "note": "Quote is from co-founder Stan Day's own statement in the article; the live pinkbike.com URL (403 for scripts) is archived here. Article text adds: 'Reportedly, SRAM is a privately owned corporation, with most of its shares owned by the Day family and the company founders'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

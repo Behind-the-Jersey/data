@@ -1,0 +1,20 @@
+{
+  "id": "casio-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "casio-computer-co-ltd"
+  ],
+  "text": "Casio Computer Co., Ltd. is listed on the Tokyo Stock Exchange. Its major shareholders as of 31 March 2026 were The Master Trust Bank of Japan (trust account) with 15.70%, Custody Bank of Japan (trust account) with 8.37% and Nippon Life Insurance Company with 5.78%; Kashio family members and their trust account hold single-digit percentages.",
+  "short": "Casio is listed in Tokyo; top holders are trust banks and an insurer.",
+  "source": {
+    "name": "Casio: Stocks and Bonds – Share and Shareholder Information",
+    "date": "2026",
+    "url": "https://world.casio.com/ir/stock/",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 35,295 15.70",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

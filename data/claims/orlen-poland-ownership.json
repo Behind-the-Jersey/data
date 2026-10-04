@@ -1,0 +1,20 @@
+{
+  "id": "orlen-poland-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-poland"
+  ],
+  "text": "ORLEN's shareholders-structure page lists the Polish State Treasury holding 579,310,079 shares, i.e. 49.90% of ORLEN S.A.'s share capital and total vote, with data according to the company's Ordinary General Meeting convened for 9 June 2026.",
+  "short": "Polish State Treasury holds 49.90% of ORLEN S.A.",
+  "source": {
+    "name": "ORLEN: Shareholders structure",
+    "date": "2026-06-09",
+    "url": "https://www.orlen.pl/en/about-the-company/company/bodies-and-structure/shareholders-structure",
+    "quote": "State Treasury* 579 310 079 579 310 079 49.90% 49.90%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
