@@ -4,8 +4,8 @@
   "ownerIds": [
     "pentland-group"
   ],
-  "text": "Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion'; its Pentland Brands arm owns Canterbury ('It owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre').",
-  "short": "Canterbury is owned by Pentland Brands, part of family-owned Pentland Group.",
+  "text": "Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion'; its Pentland Brands arm owns Canterbury ('It owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'). Bailiwick Express, reporting The Sunday Times, describes Pentland Group as 'owned by the billionaire Rubins family'.",
+  "short": "Canterbury is owned by Pentland Brands, part of Pentland Group, a family business owned by the Rubin family.",
   "source": {
     "name": "Pentland Group: About Us",
     "date": "2026",
@@ -17,5 +17,18 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Bailiwick Express: Billionaire sports empire family move £518m to Jersey",
+      "date": "2023-02-20",
+      "url": "https://www.bailiwickexpress.com/news/one-uks-richest-families-moves-518m-jersey-says-media-report/",
+      "quote": "The Sunday Times says UK-based Pentland Group – owned by the billionaire Rubins family – was demerged last October into two Jersey entities.",
+      "note": "Named news outlet (Jersey), reporting The Sunday Times. The same article says: 'The privately owned Pentland Group is chaired by Stephen Rubin OBE, whose father founded the firm in Liverpool in 1932.'",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
