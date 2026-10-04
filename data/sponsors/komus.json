@@ -1,14 +1,16 @@
 {
   "id": "komus",
   "name": "Komus",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "tpgk",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Komus group, owned by founder Sergey Bobrikov (96% via ООО «ТПГК»). Nothing found.",
+  "claimIds": [
+    "komus-ownership"
+  ],
   "aliases": [
     "Комус"
   ],
-  "note": "Partner of HC Spartak Moscow."
+  "note": "Partner of HC Spartak Moscow. Russian office-supplies group; owned by founder Sergey Bobrikov through ООО «ТПГК» (96%, with 4% held by CFO Gennady Lomasov), per Forbes reported by vc.ru (2020). No human-rights findings against the company or owners identified."
 }
