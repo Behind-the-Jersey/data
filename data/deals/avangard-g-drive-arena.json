@@ -1,0 +1,22 @@
+{
+  "id": "avangard-g-drive-arena",
+  "clubId": "avangard-omsk",
+  "orgName": "G-Drive Arena",
+  "sponsorId": "gazprom-neft",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Vedomosti (press-release section): Альфа-Банк стал партнером хоккейного клуба «Авангард»",
+    "date": "2025-12-05",
+    "url": "https://www.vedomosti.ru/press_releases/2025/12/05/alfa-bank-stal-partnerom-hokkeinogo-kluba-avangard",
+    "quote": "Церемония подписания состоялась 4 декабря на 12-тысячной G-Drive Арене.",
+    "note": "English: 'The signing ceremony took place on 4 December at the 12,000-seat G-Drive Arena.' G-Drive is a Gazprom Neft fuel brand (the club's partners page: G-Drive fuel sold at Gazpromneft filling stations; Gazprom Neft 'started the construction of the new home arena for the club'). Naming-rights start and value not published.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "note": "Avangard's home arena is branded G-Drive Arena, a Gazprom Neft brand; naming terms not published."
+}

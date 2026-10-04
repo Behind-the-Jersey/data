@@ -1,0 +1,35 @@
+{
+  "id": "alfa-bank-kosogov-largest-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "andrey-kosogov",
+    "alfa-bank"
+  ],
+  "text": "Alfa-Bank's largest shareholder is Andrey Kosogov: he has held a 41% stake since 2022, and co-founders Mikhail Fridman and Petr Aven sold their shares to him in a sale closed in 2024.",
+  "short": "Alfa-Bank's largest shareholder is Andrey Kosogov.",
+  "source": {
+    "name": "Kommersant: Чем известен акционер Альфа-банка Андрей Косогов",
+    "date": "2023-03-10",
+    "url": "https://www.kommersant.ru/doc/5872702",
+    "quote": "В марте того же года господин Косогов стал крупнейшим бенефициаром Альфа-банка с долей 41%.",
+    "note": "Russian original; English: 'In March of that year [2022] Mr Kosogov became Alfa-Bank's largest beneficiary with a 41% stake.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Deutsche Welle (Russian service): Фридман и Авен из-за санкций продали доли в \"Альфа-Банке\"",
+      "date": "2025-02-06",
+      "url": "https://www.dw.com/ru/fridman-i-aven-prodali-doli-v-alfabanke-ctoby-vyjti-izpod-sankcij/a-71525002",
+      "quote": "Тем самым Косогов, не находящийся под санкциями, стал крупнейшим акционером \"Альфа-Банка\"",
+      "note": "English: 'Kosogov, who is not under sanctions, thereby became the largest shareholder of Alfa-Bank.' Citing the Financial Times, the article reports the sale of Fridman's and Aven's stakes was closed in 2024.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

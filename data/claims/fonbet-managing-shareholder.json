@@ -1,0 +1,22 @@
+{
+  "id": "fonbet-managing-shareholder",
+  "kind": "ownership",
+  "ownerIds": [
+    "valentin-golovanov",
+    "fonbet"
+  ],
+  "text": "Valentin Golovanov is FONBET's managing shareholder.",
+  "short": "FONBET's managing shareholder is Valentin Golovanov.",
+  "source": {
+    "name": "KHL press service: «10 лет на одной линии»: КХЛ и FONBET отмечают десятилетие партнёрства",
+    "date": "2026-09-21",
+    "url": "https://www.khl.ru/news/2026/09/21/566078.html",
+    "quote": "Валентин Голованов, управляющий акционер FONBET",
+    "note": "Russian original; English: 'Valentin Golovanov, managing shareholder of FONBET' — speaker attribution in the league's official article marking ten years of the KHL-FONBET partnership.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

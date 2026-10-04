@@ -1,14 +1,16 @@
 {
   "id": "alfa-bank",
   "name": "Alfa-Bank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "andrey-kosogov",
+  "ownership": "part-owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Largest shareholder is banker Andrey Kosogov, who took over the sanctioned co-founders' stakes. Nothing found.",
+  "claimIds": [
+    "alfa-bank-kosogov-largest-owner"
+  ],
   "aliases": [
     "Альфа-банк"
   ],
-  "note": "Partner of HC Avangard."
+  "note": "Rating note: Russia's largest private bank; title sponsor of the Russian Premier League and partner of HC Avangard since December 2025. US, EU and UK sanctioned the bank in 2022-23; sanctions records don't count towards a tier. No human-rights finding against the bank itself was found."
 }
