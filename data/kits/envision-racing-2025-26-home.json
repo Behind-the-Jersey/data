@@ -12,7 +12,7 @@
       "sponsorId": "envision-group",
       "placement": "front",
       "source": {
-        "name": "FIA Formula E - Envision Racing team page (Season 12 team name and title brand)",
+        "name": "FIA Formula E - Envision Racing team page",
         "date": "2026",
         "url": "https://www.fiaformulae.com/en/teams/envision-racing",
         "quote": "ENVISION RACING",
@@ -69,6 +69,36 @@
       }
     },
     {
+      "sponsorId": "superdry",
+      "placement": "partner",
+      "source": {
+        "name": "Envision Racing - Partners (Superdry card), archived 7 January 2026",
+        "date": "2026",
+        "url": "https://web.archive.org/web/20260107060235/https://envision-racing.com/partners/",
+        "quote": "As an Envision Racing partner, Superdry brings sustainable style to the world of motorsport",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-scout (OpenCode, model kimi-k3-abliterated, review of PR #1223)"
+        },
+        "note": "Wayback Machine capture of the club's partners page (undated) taken 7 January 2026, mid-Season 12; the 9 December 2025 capture shows the same. Superdry also appears in the OFFICIAL Partners logo strip on that capture. No longer on the live page (fetched 2026-10-04)."
+      }
+    },
+    {
+      "sponsorId": "algorand",
+      "placement": "partner",
+      "source": {
+        "name": "Envision Racing - Partners (Algorand card), archived 7 January 2026",
+        "date": "2026",
+        "url": "https://web.archive.org/web/20260107060235/https://envision-racing.com/partners/",
+        "quote": "As an Envision Racing partner, Algorand helps to showcase how digital innovation can accelerate the transition to a net zero future",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-scout (OpenCode, model kimi-k3-abliterated, review of PR #1223)"
+        },
+        "note": "Wayback Machine capture of the club's partners page (undated) taken 7 January 2026, mid-Season 12; the 9 December 2025 capture shows the same. Algorand also appears in the OFFICIAL Partners logo strip on that capture. No longer on the live page (fetched 2026-10-04)."
+      }
+    },
+    {
       "sponsorId": "omp",
       "placement": "partner",
       "source": {
@@ -80,11 +110,26 @@
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         },
-        "note": "Listed under 'TECHNICAL Partners' on the club's partners page (undated) - OMP supplies the team's racewear."
+        "note": "Listed under 'TECHNICAL PARTNERS' on the club's partners page (undated), both on the live page and in the archived captures of 9 December 2025 and 7 January 2026 - OMP supplies the team's racewear."
+      }
+    },
+    {
+      "sponsorId": "raw-charging",
+      "placement": "partner",
+      "source": {
+        "name": "Envision Racing - Partners (RAW card, Technical Partners), archived 7 January 2026",
+        "date": "2026",
+        "url": "https://web.archive.org/web/20260107060235/https://envision-racing.com/partners/",
+        "quote": "RAW Charging are the leading charge point operator in the hospitality leisure and retail sectors",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-scout (OpenCode, model kimi-k3-abliterated, review of PR #1223)"
+        },
+        "note": "Wayback Machine capture of the club's partners page (undated) taken 7 January 2026, mid-Season 12; RAW is listed under 'TECHNICAL PARTNERS' alongside OMP. The 9 December 2025 capture shows the same. No longer on the live page (fetched 2026-10-04)."
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Season 12 (2025/26) Jaguar I-Type 7, raced as Envision Racing: Envision (Envision Group, the team's owner and title brand) on the front; Teijin, Sand Technologies and Southwire as official partners and OMP as technical partner, per the club's partners page and its partnership announcements. Paysafe became Title Partner only for the GEN4 era (2026-27), announced 14 August 2026, so it is not on this season's kit. Car-livery positions don't map to the schema's placements (league note), so partners are recorded as 'partner'.",
+  "summary": "Season 12 (2025/26) Jaguar I-Type 7, raced as Envision Racing: Envision (Envision Group, the team's owner and title brand) on the front; official partners Teijin, Sand Technologies, Southwire, Superdry and Algorand and technical partners OMP and RAW Charging, per the club's partners page as archived on 9 December 2025 and 7 January 2026 (during Season 12) and the club's partnership announcements. The live partners page (fetched 2026-10-04) reflects the 2026/27 season - it lists Paysafe as Title Partner and no longer shows Superdry, Algorand or RAW Charging - so the archived captures are the completeness source for this season. Paysafe became Title Partner only for the GEN4 era (2026-27), announced 14 August 2026, so it is not on this season's kit. Car-livery positions don't map to the schema's placements (league note), so partners are recorded as 'partner'.",
   "change": null
 }
