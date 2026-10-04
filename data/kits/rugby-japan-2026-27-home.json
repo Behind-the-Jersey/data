@@ -39,21 +39,6 @@
       }
     },
     {
-      "sponsorId": "smbc",
-      "placement": "shorts",
-      "source": {
-        "name": "Japan Rugby Football Union: 日本代表トップパートナー、オフィシャルパートナー、オフィシャルスポンサー、オフィシャルサポーター決定のお知らせ (Top partner, official partners, official sponsors and official supporters decided)",
-        "date": "2020-04-01",
-        "url": "https://www.rugby-japan.jp/braveblossoms/topics/50457",
-        "quote": "株式会社 東芝 株式会社三井住友銀行 セコム株式会社",
-        "checked": {
-          "on": "2026-10-04",
-          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
-        },
-        "note": "JRFU announcement naming Sumitomo Mitsui Bank (SMBC) a men's Japan national team official partner from FY2020; still listed on the live JRFU sponsor page (checked 2026-10-04), and SMBC's own rugby site (smbc.co.jp/sponsorship/rugby/) says 'SMBCはラグビー男子日本代表のオフィシャルパートナーとして応援していきます' (page is Shift-JIS, so scripts can't verify the quote). The official launch-day promo image (JRFU 2025-06-22, https://rugby-japan.s3.ap-northeast-1.amazonaws.com/image/article/199397_1000x1250.jpg) shows a dark patch with a white serif wordmark on the shorts hem of the front player - partially turned away, consistent with SMBC's wordmark - and the Japan crest on the other leg; no other commercial mark on the shorts."
-      }
-    },
-    {
       "sponsorId": "canterbury",
       "placement": "partner",
       "source": {
@@ -69,8 +54,8 @@
       }
     }
   ],
-  "sponsorsComplete": true,
-  "summary": "Lipovitan D (Taisho Pharmaceutical) across the front chest, TOSHIBA across the upper back and an SMBC patch on the shorts of the white Canterbury home shirt, with Canterbury as kit maker. The kabuki-themed design launched on 2025-06-22 and is unchanged into 2026/27; the sleeves carry only a Japan flag patch. SECOM, the other men's official partner, shows no logo on the match jersey in the official photos.",
+  "sponsorsComplete": false,
+  "summary": "Lipovitan D (Taisho Pharmaceutical) across the front chest and TOSHIBA across the upper back of the white Canterbury home shirt, with Canterbury as kit maker. The kabuki-themed design launched on 2025-06-22 and is unchanged into 2026/27; the sleeves carry only a Japan flag patch. sponsorsComplete is false: the shorts in the official launch-day promo photo carry a dark wordmark patch on one leg, but no source names the sponsor and the wordmark is not legible in any available photo (SMBC is a documented men's official partner, but nothing ties it to the shorts), so no shorts sponsor is listed. SECOM, the other men's official partner, shows no logo on the match jersey in the official photos.",
   "change": null,
   "shortLine": "Lipovitan D on the front"
 }
