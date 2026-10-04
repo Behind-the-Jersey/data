@@ -1,0 +1,20 @@
+{
+  "id": "regina-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "regina-catene-calibrate"
+  ],
+  "text": "Regina is the chain brand of Regina Catene Calibrate S.p.A. (Regina Group) of Cernusco Lombardone, Italy. The company's About page says that Regina, established in 1919, 'is now owned by the same family since 4 generations'.",
+  "short": "Regina chain maker is owned by its founding family.",
+  "source": {
+    "name": "Regina Group – About Regina",
+    "date": "2026",
+    "url": "https://www.reginachain.net/about-us/",
+    "quote": "Established in 1919, Regina is now owned by the same family since 4 generations.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

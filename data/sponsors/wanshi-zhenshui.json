@@ -1,0 +1,30 @@
+{
+  "id": "wanshi-zhenshui",
+  "name": "Wanshi Zhenshui (萬世珍水)",
+  "ownerId": "chengdu-rongjiu-liquor",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Wanshi Zhenshui is the core brand of Chengdu Rongjiu Liquor, a state-owned liquor company controlled (51%) by Chengdu Industrial Investment Group; announced by Chengdu Rongcheng FC on 18 May 2026 as a 2026-season strategic partner whose brand is to appear on the first-team shirt chest.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "chengdu-rongjiu-industrial-group-ownership",
+    "chengdu-rongjiu-sasac-actual-controller"
+  ],
+  "aliases": [
+    "萬世珍水",
+    "万世珍水",
+    "成都蓉酒酒业有限公司"
+  ],
+  "why": {
+    "text": "Wanshi Zhenshui is the core brand of Chengdu Rongjiu Liquor, whose five state-owned shareholders are led by Chengdu Industrial Investment Group with a controlling 51%, and whose actual controller is the Chengdu municipal state-assets commission. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Wanshi Zhenshui is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "chengdu-rongjiu-industrial-group-ownership",
+      "chengdu-rongjiu-sasac-actual-controller"
+    ],
+    "messageLine": "The UN human rights office found that China's large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims chengdu-rongjiu-industrial-group-ownership + chengdu-rongjiu-sasac-actual-controller: a controlling 51% state stake and the Chengdu Municipal SASAC as actual controller; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers). Shirt placement: the club's 18 May 2026 announcement says the brand will appear on the first-team shirt chest; a 28 June 2026 press report with match photos found the chest advertisement unchanged (成都蓉城/成都建工) through 27 June (Q队长: 咦，成都蓉城的胸前广告还是老样子, Tencent News, 2026-06-28, https://view.inews.qq.com/a/20260628A08RGZ00), so whether and when the brand reached the shirt is not yet documented."
+}
