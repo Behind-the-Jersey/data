@@ -10,8 +10,8 @@
     "name": "ABN Lookup (Australian Business Register): current details for ABN 31 696 229 848",
     "date": "2026",
     "url": "https://abr.business.gov.au/ABN/View/31696229848",
-    "note": "Live registry lookup, undated. The page's Business name(s) table lists 'Wadam Living' (from 17 Mar 2026) for WADAM HOMES PTY LTD; quote covers the entity name and type rows.",
-    "quote": "Entity name: WADAM HOMES PTY LTD ABN status: Active from 17 Mar 2026 Entity type: Australian Private Company",
+    "note": "Live registry lookup, undated. The page is the ABN record for WADAM HOMES PTY LTD (entity type Australian Private Company, active from 17 Mar 2026, main business location NSW 2284); the quote covers the page's Business name(s) table, which lists 'Wadam Living' for it.",
+    "quote": "Business name From Wadam Living 17 Mar 2026",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"

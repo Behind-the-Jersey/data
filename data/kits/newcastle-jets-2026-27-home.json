@@ -15,7 +15,7 @@
         "name": "Footy Headlines: Newcastle Jets 26-27 AFC Champions League Elite Home & Away Kits Released",
         "date": "2026-09-11",
         "url": "https://www.footyheadlines.com/3631243899/newcastle-jets-26-27-afc-champions-league-elite-home-away-kits-released.html",
-        "note": "The ACL Elite home kit is a separate shirt from the club's 2026/27 A-League home jersey (which carries Oz Shipping Containers on the front, per the club's 2 Oct 2026 announcement). Wadam Living sits across the midriff, also visible in the club shop's product photos for the '2026/27 Newcastle Jets ACLE Home Jersey'.",
+        "note": "The ACL Elite home kit is a separate shirt from the club's 2026/27 A-League home jersey (which carries Oz Shipping Containers on the front, per the club's 2 Oct 2026 announcement: https://newcastlejetsfc.com.au/news/oz-shipping-increases-commitment-to-newcastle-jets-as-new-major-partner/). Wadam Living sits across the midriff.",
         "quote": "Both shirts feature the club crest, New Balance logos, and the Wadam Living sponsor across the midriff, as well as the official AFC Champions League Elite tournament sleeve patch on the right arm",
         "checked": {
           "on": "2026-10-03",
@@ -39,9 +39,9 @@
       }
     }
   ],
-  "sponsorsComplete": true,
-  "summary": "Newcastle Jets 2026/27 AFC Champions League Elite home kit (New Balance supplier), a 2009-throwback shirt separate from the club's 2026/27 A-League home jersey. Front: Wadam Living across the midriff. Both sleeves carry the AFC Champions League Elite patch (competition badge, not a sponsor; confirmed in the club shop product text and close-up photos). Back carries player name and number only (match photos from Kashima Antlers 7-1 Newcastle Jets, 15 Sep 2026); shorts carry the New Balance logo and club crest only. The club's 2026/27 A-League Men's home jersey instead has Oz Shipping Containers on the front (club announcement, 2 Oct 2026).",
+  "sponsorsComplete": false,
+  "summary": "Newcastle Jets 2026/27 AFC Champions League Elite home kit (New Balance supplier), a 2009-throwback shirt separate from the club's 2026/27 A-League Men's home jersey, which per the club's 2 Oct 2026 announcement has Oz Shipping Containers on the front. The cited source (Footy Headlines, 11 Sep 2026) records the front sponsor (Wadam Living across the midriff), the club crest, the New Balance logos and the AFC Champions League Elite competition patch on the right arm. sponsorsComplete is false: no cited source enumerates every placement — the back, shorts and any back-of-shirt sponsor are not covered by a cited source (club-shop and match photos were used by the researcher but aren't cited here).",
   "change": null,
-  "headline": "The shirt is {level}: Wadam Living, a Newcastle property business, pays for the front of the ACL Elite shirt.",
+  "headline": "The shirt is {level}: Wadam Living, business name of a Newcastle-area private company, pays for the front of the ACL Elite shirt.",
   "shortLine": "Wadam Living on the front"
 }
