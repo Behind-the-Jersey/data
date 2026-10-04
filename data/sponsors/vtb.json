@@ -1,16 +1,19 @@
 {
   "id": "vtb",
   "name": "VTB",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "vtb",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "russian-federation-record",
+    "vtb-state-control"
+  ],
   "aliases": [
     "ВТБ",
     "vtb.ru",
     "Банк ВТБ"
   ],
-  "note": "General sponsor of HC Dynamo Moscow; VTB Bank (Belarus) partners HC Dinamo Minsk. Lead: state-controlled bank; primary document not yet opened."
+  "note": "General sponsor of HC Dynamo Moscow; VTB Bank (Belarus) partners HC Dinamo Minsk. Majority state-controlled per VTB's own IR shareholder-structure page; US Treasury confirms the Russian state designation. Tier proposed in pull request (issue #409)."
 }
