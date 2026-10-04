@@ -1,12 +1,17 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "claimIds": [
+    "tameeni-rasan-ownership"
+  ],
+  "aliases": [
+    "Tameeni",
+    "تاميني"
+  ],
+  "note": "Not rated: Tameeni is a flagship subsidiary of Rasan Information Technology, listed on the Saudi Exchange Main Market in June 2024 (30% floated). At the IPO, Saudi VC fund Impact46 was its largest shareholder (18.65% pre-IPO, 13.06% after, per MENAbytes), and the rest sat with founders and the float. Impact46's own site now lists Rasan among its exits ('Rasan's 918M SAR Exit', impact46.sa/about-us), so its current stake is unverified; Rasan publishes no shareholder register, and Impact46's fund LPs are undisclosed, so a possible state-fund 5%+ position cannot be excluded. No human-rights finding found. Present on several Saudi shirts (front/back)."
 }

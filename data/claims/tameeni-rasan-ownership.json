@@ -1,0 +1,43 @@
+{
+  "id": "tameeni-rasan-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni, Saudi Arabia's online insurance aggregator, is a flagship subsidiary of Rasan Information Technology Co., which listed 22.74 million shares (30% of its capital) on the Main Market of the Saudi Exchange in June 2024. At the IPO, MENAbytes named Saudi venture-capital firm Impact46 as Rasan's largest shareholder, with 18.65% pre-IPO diluting to 13.06% after the offering.",
+  "short": "Tameeni is a flagship subsidiary of Rasan Information Technology, listed on the Saudi Exchange in June 2024; at the IPO its largest shareholder was Saudi VC firm Impact46 (13.06%).",
+  "source": {
+    "name": "Rasan Information Technology – Investor Relations: Our IPO",
+    "date": "2024",
+    "url": "https://www.rasan.co/en/ipo",
+    "quote": "providing seamless services through our flagship subsidiaries, including Tameeni",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "MENAbytes: Saudi fintech Rasan goes public on Tadawul, shares surge 30 percent pushing market cap close to $1 billion",
+      "date": "2024-06-22",
+      "url": "https://www.menabytes.com/rasan-goes-public",
+      "quote": "Impact46, the Saudi VC is the largest shareholder in the firm",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "MENAbytes: Saudi VC Impact46 to get its second IPO with the Tadawul listing of Rasan",
+      "date": "2024-05-09",
+      "url": "https://www.menabytes.com/impact46-rasan/",
+      "quote": "Impact46 is its single largest shareholder owning 18.65 percent stake in the company, which would dilute to 13.06 percent after the IPO",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "BTJ Scout review of PR #1102 (OpenCode, model kimi-k3-abliterated)"
+      },
+      "note": "Impact46's own site (impact46.sa/about-us) now lists 'Rasan's 918M SAR Exit' among its exits, so the stake described here may since have been reduced or sold."
+    }
+  ],
+  "reviewed": false
+}

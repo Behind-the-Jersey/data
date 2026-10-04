@@ -9,27 +9,77 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "yelo",
+      "sponsorId": "tameeni-insurance",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Abha Club – Partners page (الرعاة)",
+        "date": "2026",
+        "url": "https://abhafc.sa/clients",
+        "quote": "الراعي الذهبي",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club partners page: 'gold sponsors' (الراعي الذهبي) section links tameeni.com. Tameeni's blue wordmark box is visible on the upper chest of the white home shirt in RSL broadcast stills (Al Ettifaq v Abha, matchweek 5, Sep 2026)."
       }
     },
     {
-      "sponsorId": "offside",
+      "sponsorId": "basic-electronics",
+      "placement": "front",
+      "source": {
+        "name": "Abha Club – Partners page (الرعاة)",
+        "date": "2026",
+        "url": "https://abhafc.sa/clients",
+        "quote": "الشريك الأستراتيجي",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club partners page: 'strategic partner' (الشريك الأستراتيجي) logo is the AS/BASIC mark of Basic Electronics Co. Ltd. (al-asasyah.com). The red BASIC wordmark is visible on the lower front of the home shirt in RSL broadcast stills (Al Ettifaq v Abha, matchweek 5, Sep 2026)."
+      }
+    },
+    {
+      "sponsorId": "hayat-national-hospitals",
+      "placement": "back",
+      "source": {
+        "name": "Abha Club – Partners page (الرعاة)",
+        "date": "2026",
+        "url": "https://abhafc.sa/clients",
+        "quote": "الراعي الذهبي",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club partners page: 'gold sponsors' (الراعي الذهبي) section links hayathospitals.com (club announced Hayat National Hospitals as medical sponsor on 25 Aug 2026). HNH wordmark visible above the back name on Abha match shirts (RSL broadcast, Abha v Al Khaleej, matchweek 3, 25 Aug 2026)."
+      }
+    },
+    {
+      "sponsorId": "florina-shoes",
+      "placement": "back",
+      "source": {
+        "name": "Abha Club – Partners page (الرعاة)",
+        "date": "2026",
+        "url": "https://abhafc.sa/clients",
+        "note": "Club partners page: 'advertisers' (المعلنين) section links florina.sa (that section contains only the heading and a linked logo, so there is no longer passage to quote). The red FLORINA patch is visible below the back number on Abha match shirts (RSL broadcast, Abha v Al Khaleej, matchweek 3, 25 Aug 2026)."
+      }
+    },
+    {
+      "sponsorId": "puma",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "Footy Headlines: Abha FC 26-27 Home Kit Released",
+        "date": "2026-08-10",
+        "url": "https://www.footyheadlines.com/4703394766/abha-fc-26-27-home-kit-released.html",
+        "quote": "have presented their new home shirt for the 26-27 season, manufactured by Puma",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit manufacturer. Puma cat logo also visible on the club/league kit presentation photos."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Offside home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "summary": "Puma home kit. Sponsors verified from the club's partners page and in-play broadcast stills: Tameeni (front, upper chest), Basic Electronics (front, lower), Hayat National Hospitals (back, above name) and Florina (back, below number). Sleeves and shorts not checked against match photos. Earlier Yelo/Offside entries removed: the 2026-27 shirt is made by Puma (Footy Headlines, Aug 2026) and showed no Yelo branding.",
   "change": null
 }
