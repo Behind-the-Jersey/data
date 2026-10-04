@@ -1,0 +1,22 @@
+{
+  "id": "lic-tech-mahindra-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "life-insurance-corporation-of-india",
+    "tech-mahindra-ltd"
+  ],
+  "text": "Life Insurance Corporation Of India held 112,606,132 shares (11.49%) of Tech Mahindra Limited as of 31 December 2025.",
+  "short": "LIC holds about 11.5% of Tech Mahindra.",
+  "source": {
+    "name": "Tech Mahindra — Shareholding pattern for Q3 FY 2025-26 (quarter ended 31 December 2025)",
+    "date": "2025-12-31",
+    "url": "https://insights.techmahindra.com/investors/shareholding-pattern-for-q3-2025-26.pdf",
+    "quote": "Life Insurance Corporation Of India 112606132 112606132 11.49",
+    "note": "Public-shareholder table, section B1(e) 'Insurance Companies', disclosure of shareholders holding 1% or more; the figure after the name is the share count and percentage of total shares. LIC's promoter is the President of India (96.50%, per LIC's own pattern as on 1 June 2026).",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-scout (OpenCode, model kimi-k3, review of PR #1227)"
+    }
+  },
+  "reviewed": false
+}

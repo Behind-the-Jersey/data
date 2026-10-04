@@ -3,15 +3,16 @@
   "name": "Pininfarina",
   "ownerId": "pininfarina-spa",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Part of the Mahindra Group since 2016 (Tech Mahindra-led consortium bought 76.06% in 2015). Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Controlled by PF Holdings B.V. (78.82%), the Mahindra group consortium vehicle; state-owned Life Insurance Corporation of India holds 11.49% of consortium member Tech Mahindra. On hold for a maintainer.",
   "claimIds": [
+    "lic-tech-mahindra-stake",
     "pininfarina-mahindra-group",
     "pininfarina-techm-acquisition"
   ],
   "aliases": [
     "Pininfarina S.p.A."
   ],
-  "note": "Rating note: Mahindra Group companies (private/listed, India and Italy); no state in the chain. A Tech Mahindra/Mahindra & Mahindra consortium agreed to buy 76.06% of Pininfarina S.p.A. in 2015; Pininfarina's own site says it is 'part of the Mahindra galaxy since 2016'. No human-rights finding against the company identified."
+  "note": "Rating note: on hold for a maintainer, changed from none during review of PR #1227. A Tech Mahindra/Mahindra & Mahindra consortium agreed to buy 76.06% of Pininfarina S.p.A. in 2015 and Pininfarina's own site says it is 'part of the Mahindra galaxy since 2016'; its 2024 corporate-governance report (ownership structure as of 31 December 2024) says it is 'controlled by PF Holdings B.V., which holds 78.82% of the Company's share capital'. LIC, whose promoter is the President of India (96.50%), holds 11.49% of Tech Mahindra (quarter ended 31 December 2025); multiplied along the PF Holdings chain that indirect state stake may pass METHOD.md's 5% mark, and whether it counts depends on how India is treated as a state record — a maintainer decision. No human-rights finding against the company itself was identified."
 }

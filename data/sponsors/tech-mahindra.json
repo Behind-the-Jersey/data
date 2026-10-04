@@ -3,12 +3,13 @@
   "name": "Tech Mahindra",
   "ownerId": "mahindra-mahindra-ltd",
   "ownership": "part-owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "A listed associate of Mahindra & Mahindra Ltd. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "A listed associate of Mahindra & Mahindra Ltd; Life Insurance Corporation of India, owned by the Government of India, holds 11.49% of its shares. On hold for a maintainer.",
   "claimIds": [
+    "lic-tech-mahindra-stake",
     "tech-mahindra-mnm-ownership"
   ],
   "aliases": [],
-  "note": "Rating note: Mahindra & Mahindra's Integrated Annual Report 2025-26 describes Tech Mahindra Limited as a 'listed Associate of the Company' (significant influence, not control). Tech Mahindra is the team's Digital Transformation Partner per Mahindra Racing's official partners page. No state in the chain; no human-rights finding against the company identified."
+  "note": "Rating note: on hold for a maintainer, changed from none during review of PR #1227. Mahindra & Mahindra's Integrated Annual Report 2025-26 describes Tech Mahindra Limited as a 'listed Associate of the Company' (promoter group holds 34.98% per the Q3 FY26 pattern). Tech Mahindra's shareholding pattern for the quarter ended 31 December 2025 shows Life Insurance Corporation Of India holding 112,606,132 shares (11.49%); LIC's promoter is the President of India (96.50%). The data has no record claim for India, and whether a state-owned Indian insurer's stake above 5% counts for a rating (i.e. whether India is treated as a state with a record of serious abuses) is a maintainer decision. No human-rights finding against the company itself was identified. Tech Mahindra is the team's Digital Transformation Partner per Mahindra Racing's official partners page."
 }
