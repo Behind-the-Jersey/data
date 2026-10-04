@@ -1,12 +1,18 @@
 {
   "id": "pick-n-pay",
   "name": "Pick n Pay",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+  "ownerId": "pick-n-pay-stores",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Pick n Pay is the retail brand of JSE- and A2X-listed Pick n Pay Stores Limited, whose largest voting shareholder is the founding Ackerman family (36.8%). No state owner in the chain and no qualifying human-rights finding found. Nothing found.",
+  "claimIds": [
+    "pnp-stores-listed",
+    "pnp-ackerman-voting-interest"
+  ],
+  "aliases": [
+    "pick n pay",
+    "PnP"
+  ],
+  "note": "Back-of-shirt sponsor of the Springboks: a four-year Tier 1 contract signed in March 2025 put the gold Pick n Pay logo on the back of the matchday jersey; it appears on the upper back of the 2026/27 home jersey. Rated in the rugby-south-africa rating sweep (issue #727)."
 }
