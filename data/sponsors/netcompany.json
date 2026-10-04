@@ -1,12 +1,16 @@
 {
   "id": "netcompany",
   "name": "Netcompany",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Danish listed IT company; joined as co-title sponsor May 2026."
+  "ownerId": "netcompany-group-a-s",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A Copenhagen-listed IT company whose only 5%+ holders are the founders' holding company, the Danish labour-market pension scheme ATP and Goldman Sachs.",
+  "claimIds": [
+    "netcompany-ownership"
+  ],
+  "aliases": [
+    "Netcompany Group"
+  ],
+  "note": "Danish technology company. Joined as co-title sponsor of the cycling team in a five-year partnership from May 2026, the team racing in new kit as Netcompany INEOS from the 2026 Giro d'Italia (team announcement on its partner page)."
 }
