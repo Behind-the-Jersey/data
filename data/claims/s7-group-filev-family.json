@@ -1,0 +1,21 @@
+{
+  "id": "s7-group-filev-family",
+  "kind": "ownership",
+  "ownerIds": [
+    "s7-group"
+  ],
+  "text": "S7 Airlines (the former 'Sibir' airline) is part of S7 Group, which belongs to spouses Natalia and Vladislav Filev.",
+  "short": "S7 Group (S7 Airlines' holding) belongs to the Filev family.",
+  "source": {
+    "name": "Континент Сибирь Online: S7 Group сменит название",
+    "date": "2018-12-24",
+    "url": "https://ksonline.ru/335432/s7-group-smenit-nazvanie/",
+    "quote": "Группа принадлежит супругам Наталии и Владиславу Филевым.",
+    "note": "Same article: 'В состав S7 Group входят около 15 компаний, в том числе авиакомпании «Сибирь» и «Глобус»'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
