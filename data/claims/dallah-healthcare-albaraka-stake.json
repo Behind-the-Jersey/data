@@ -1,0 +1,21 @@
+{
+  "id": "dallah-healthcare-albaraka-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "dallah-healthcare",
+    "dallah-albaraka-holding"
+  ],
+  "text": "Dallah Al-Baraka Holding Company holds 47.4% of Dallah Healthcare Company (Tadawul: 4004).",
+  "source": {
+    "name": "Dallah Health – 2025 Annual Report (English), Shareholders' Information",
+    "date": "2026",
+    "url": "https://www.dallahhealth.com/Library/Assets/Downloads/Dallah_Health_English_2025.pdf",
+    "quote": "Major shareholders Dallah Al-Baraka Holding Company 47.4%",
+    "note": "FY2025 annual report PDF (about 17 MB). The exact publication date is not stated in the PDF text; the report covers the year ended 31 December 2025.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

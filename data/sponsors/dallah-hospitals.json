@@ -1,11 +1,19 @@
 {
   "id": "dallah-hospitals",
   "name": "Dallah Hospitals",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "dallah-healthcare",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The hospital group of Dallah Healthcare Company (Tadawul: 4004), 47.4% held by Dallah Albaraka Holding. Nothing found.",
+  "claimIds": [
+    "dallah-hospitals-dallah-healthcare-ownership",
+    "dallah-healthcare-albaraka-stake"
+  ],
+  "aliases": [
+    "مستشفيات دلة",
+    "Dallah Al Ahsa Hospital",
+    "مستشفيات دله الأحساء"
+  ],
+  "note": "Al-Fateh's partner is listed as 'مستشفيات دله الأحساء' (Dallah Hospitals Al-Ahsa) on the club's partners page; its logo sits below the player number on the back of the 2026/27 home shirt. Rating note: Dallah Healthcare acquired Al Ahsa Hospital (renamed Dallah Al Ahsa Hospital) and its 2025 annual report shows Dallah Al-Baraka Holding Company as major shareholder with 47.4%. Dallah Albaraka is a private Jeddah-based group founded by Saleh Abdullah Kamel; no state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 3 Oct 2026)."
 }

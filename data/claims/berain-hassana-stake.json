@@ -1,0 +1,57 @@
+{
+  "id": "berain-hassana-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "hassana-investment",
+    "government-of-saudi-arabia",
+    "rajhi-invest"
+  ],
+  "text": "Hassana Investment Company, the investment manager of Saudi Arabia's General Organization for Social Insurance (GOSI), acquired a 40% stake in Berain Water Company in March 2025 from Mohammed Abdulaziz Al-Rajhi & Sons Investment Company (Rajhi Invest).",
+  "source": {
+    "name": "Yahoo Finance (Just Drinks) – Saudi water business Berain gets new investor",
+    "date": "2025-03-25",
+    "url": "https://finance.yahoo.com/news/saudi-water-business-berain-gets-122736779.html",
+    "quote": "Hassana Investment Company has acquired a 40% stake in Berain from local investment group Mohammed Abdulaziz Al-Rajhi & Sons Investment Company",
+    "note": "The same article states: 'Hassana Investment Company is the investment manager of Saudi Arabia's General Organization for Social Insurance, the government agency concerned with social insurance in the country.' The article was originally published by Just Drinks.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "WAYA – Saudi's Hassana Acquires 40% Stake in Berain Water",
+      "date": "2025-03-19",
+      "url": "https://waya.media/saudis-hassana-acquires-40-stake-in-berain-water/",
+      "quote": "Hassana Investment Company (Hassana) acquired a 40% stake in Berain Water Company (Berain), a bottled water company in Saudi Arabia",
+      "note": "The article adds that the acquisition was from Mohammed Abdulaziz Al-Rajhi & Sons Investment Company (Rajhi-Invest).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Enterprise – Hassana Investment buys into Berain Water",
+      "date": "2025-03-19",
+      "url": "https://enterpriseam.com/ksa/2025/03/19/hassana-investment-buys-into-berain-water",
+      "quote": "the investment manager of the General Organization of Social Ins. — acquired a 40% stake in Berain Water from Rajhi Invest",
+      "note": "Ties Hassana to the General Organization for Social Insurance (GOSI), a Saudi state institution.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Argaam – Hassana acquires 40% of Berain Water",
+      "date": "2025-03-18",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1798248",
+      "quote": "Hassana Investment Co. completed the acquisition of a 40% stake in Berain Water Co., a Saudi bottled water manufacturer.",
+      "note": "Independent Saudi financial-news coverage; the same article describes Hassana as 'the investment arm of the General Organization for Social Insurance (GOSI)'. The article shows the date 18/03/2025.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

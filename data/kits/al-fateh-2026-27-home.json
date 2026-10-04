@@ -9,77 +9,112 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "fuchsia-bakery",
+      "sponsorId": "gree",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "طباعة الرعايات ا لأساسية - GREE ( + 10.00 ر.س )",
+        "note": "The kit maker's product page for the Al-Fateh 2026/27 home shirt (قميص الفتح الأساسي 26/27) lists the shirt's sponsor prints: Al-Asasyah – GREE, Tamweel Aloula and Dallah Hospitals. Worn-shirt photos on the same page show the combined 'الأساسية AS GREE' lockup on the chest centre. The page is undated; the date is the day it was opened. Translation of the quote: 'Sponsor printing: Al-Asasyah - GREE (+10.00 SAR)'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
-      "sponsorId": "tameeni-insurance",
+      "sponsorId": "al-asasyah",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "طباعة الرعايات ا لأساسية - GREE ( + 10.00 ر.س )",
+        "note": "Al-Asasyah (الأساسية, Basic Electronics Company, GREE's agent in Saudi Arabia) shares the chest-centre lockup with the GREE brand: the club's partners page lists one partner as 'الأساسية - GREE' linking al-asasyah.com, and the shirt photos show the AS/الأساسية oval mark above the GREE wordmark. Translation of the quote: 'Sponsor printing: Al-Asasyah - GREE (+10.00 SAR)'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "tamweel-aloula",
       "placement": "back",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "تمويل الأولى - TAMWEEL ALOULA ( + 10.00 ر.س )",
+        "note": "The club's partners page names Tamweel Aloula 'Main Sponsor' (fatehclub.sa/en/sponsors). The club's own kit-reveal video (Snapchat spotlight, 22 Aug 2026, https://www.snapchat.com/@fatehclub/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeHdhbmFlcnVpAaAqBe0VAaAqApOVAAAAAw) shows the 2026/27 home shirt's back with the Tamweel Aloula logo across the upper back above the player name and number. Translation of the quote: 'Tamweel Aloula (+10.00 SAR)'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "dallah-hospitals",
       "placement": "back",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "مستشفيات دلة - DALLAH HOSPITALS ( + 10.00 ر.س )",
+        "note": "The club's own kit-reveal video (Snapchat spotlight, 22 Aug 2026, https://www.snapchat.com/@fatehclub/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeHdhbmFlcnVpAaAqBe0VAaAqApOVAAAAAw) shows the 2026/27 home shirt's back with the Dallah Hospitals logo below the player number. The club's partners page lists 'مستشفيات دله الأحساء' (Dallah Hospitals Al-Ahsa) linking dallahhealth.com. Translation of the quote: 'Dallah Hospitals (+10.00 SAR)'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
-      "sponsorId": "orinex",
-      "placement": "sleeve",
+      "sponsorId": "tameeni-insurance",
+      "placement": "patch",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "قميص الفتح الأساسي 26/27",
+        "note": "The kit maker's product-gallery photos of the 2026/27 Al-Fateh home shirt show a light-blue تأميني (Tameeni) patch on the right chest. Tameeni is also on the club's official partners list (fatehclub.sa/en/sponsors, 'تأميني' linking tameeni.com). The page is undated; the date is the day it was opened.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3, review of PR #1109)"
+        }
       }
     },
     {
-      "sponsorId": "freshly-kitchen",
+      "sponsorId": "healthy-nook",
       "placement": "sleeve",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "name": "Offside (kit maker) store – Al-Fateh 2026/27 home shirt product page",
+        "date": "2026-10-03",
+        "url": "https://offsideksa.com/products/Al-Fateh-27",
+        "quote": "قميص الفتح الأساسي 26/27",
+        "note": "The kit maker's product-gallery photos of the 2026/27 Al-Fateh home shirt show a white 'HEALTHY NOOK' wordmark on the sleeve. Healthy Nook is on the club's official partners list (fatehclub.sa/en/sponsors, 'هلثي نوك'). The page is undated; the date is the day it was opened.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3, review of PR #1109)"
+        }
       }
     },
     {
       "sponsorId": "offside",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "quote": "Al-Fateh | TBC | Offside",
+        "note": "Kit-maker table row: Offside makes the Al-Fateh 2026/27 shirt (the front sponsor was 'TBC' when the article was published on 15 June 2026). The club's partners page lists أوفسايد (Offside) linking offsideksa.com, and Offside's store sells the Al-Fateh 26/27 shirts.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Offside home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "summary": "Offside home kit. Al-Asasyah/GREE lockup on the chest centre, Tameeni patch on the right chest, HEALTHY NOOK on the sleeve, Tamweel Aloula and Dallah Hospitals on the back. Other club partners on the club's partners page (Berain, Golden Scent, Al-Tayyar Dates, Sama, Gulf Carton, Al-Jabr Laundries) were not found on the shirt in available photos; shorts not checked, so sponsorsComplete stays false.",
   "change": null
 }
