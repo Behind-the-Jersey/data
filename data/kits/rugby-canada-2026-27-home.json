@@ -1,0 +1,46 @@
+{
+  "id": "rugby-canada-2026-27-home",
+  "clubId": "rugby-canada",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "picton-investments",
+      "placement": "front",
+      "source": {
+        "name": "Rugby Canada: 'Earned Not Given' campaign reaches new heights as Rugby Canada secures Picton Investments as front-of-jersey sponsor",
+        "date": "2026-07-03",
+        "url": "https://rugby.ca/en/news/2026/07/earned-not-given-campaign-reaches-new-heights-as-rugby-canada-secures-picton-investments-as-front-of-jersey-sponsor",
+        "quote": "Picton Mahoney Asset Management (\"PICTON Investments\") has become the new front-of-jersey sponsor across Canada's Men's and Women's Rugby Teams through 2027",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Page header date is 03/07/2026 (posted 3 July 2026); the press release in the body is datelined June 30, 2026. Players first wore the Picton-front shirts in the July 2026 Nations Cup. The announcement's own release photo shows the red home shirt with 'PICTON INVESTMENTS' across the chest."
+      }
+    },
+    {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "Rugby Canada: Rugby Canada unveils new Macron match jerseys",
+        "date": "2021-07-01",
+        "url": "https://rugby.ca/en/news/2021/07/rugby-canada-unveils-new-macron-match-jerseys",
+        "quote": "Rugby Canada are excited to unveil new national team jerseys provided by Premier partner Macron. The new home and away jersey will be worn by all national teams in both 15s and 7s.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. Still current: Macron is listed under 'Premier Partners' on Rugby Canada's partners page (opened 2026-10-04), the Macron Hero logo sits on the right chest of the current Picton-front match shirt (Rugby Canada's 30 June 2026 release photo), and the identical 25/26 replica design is sold as 'Canada Rugby Home Jersey 25/26 - Macron' (rugbyshop.com)."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "PICTON INVESTMENTS wordmark across the chest of the red Macron home shirt (deal announced 30 June 2026, through 2027); Macron logo on the right chest and the red shorts. No sleeve, back or shorts sponsor: checked against Rugby Canada's official Picton release photo (front/sleeves/shorts) and the official Macron replica product photos of the identical 25/26 home shirt (store.rugby.ca, SKU 700020180001, front, back, side and collar views). The small 'Canada' federal wordmark and flag on the left sleeve is the national-identifier mark, not a commercial sponsor; the replica back carries only tonal maple-leaf artwork and the side panels list the provinces and territories.",
+  "change": null,
+  "shortLine": "PICTON Investments on the front"
+}

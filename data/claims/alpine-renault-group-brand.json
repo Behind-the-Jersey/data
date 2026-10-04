@@ -1,0 +1,20 @@
+{
+  "id": "alpine-renault-group-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "renault-group"
+  ],
+  "text": "Alpine is the sports-car brand of Renault Group; the Alpine Business Unit was created in 2021 within the group.",
+  "short": "Alpine is a Renault Group brand",
+  "source": {
+    "name": "Alpine media: Alpine becomes the new main partner of Prima Pramac Yamaha MotoGP for the MotoGP 2025 season",
+    "date": "2025-01-27",
+    "url": "https://www.media.alpinecars.com/alpine-becomes-the-new-main-partner-of-prima-pramac-yamaha-motogp-for-the-motogp-2025-season/?lang=eng",
+    "quote": "The dedicated brand innovates authentic and exclusive sports cars within Renault Group",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

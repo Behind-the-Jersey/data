@@ -1,0 +1,35 @@
+{
+  "id": "yufu-capital-yufu-holdings-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "chongqing-yufu-capital",
+    "chongqing-yufu-holdings"
+  ],
+  "text": "Chongqing Yufu Capital Operation Group Co., Ltd. (重庆渝富资本运营集团有限公司) is a wholly-owned subsidiary of Chongqing Yufu Holdings Group Co., Ltd. (重庆渝富控股集团有限公司).",
+  "short": "Yufu Capital is wholly owned by Chongqing Yufu Holdings Group.",
+  "source": {
+    "name": "重庆市国有资产监督管理委员会 (Chongqing Municipal SASAC portal): 重庆渝富控股集团有限公司所属子公司总经理公开招聘公告",
+    "date": "2023-07-31",
+    "url": "https://gzw.cq.gov.cn/gqzp/202307/t20230731_12199503_wap.html",
+    "quote": "重庆渝富资本运营集团有限公司（以下简称“渝富资本”）为重庆渝富控股集团有限公司全资子公司",
+    "note": "Translation: 'Chongqing Yufu Capital Operation Group Co., Ltd. (Yufu Capital) is a wholly-owned subsidiary of Chongqing Yufu Holdings Group Co., Ltd.' Published in the recruitment column of the Chongqing Municipal SASAC's own portal; the notice also gives Yufu Capital's registered capital as RMB 10 billion.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "西南证券股份有限公司收购报告书 (Southwest Securities Co., Ltd. acquisition report), Shanghai Stock Exchange filing",
+      "date": "2025-01-08",
+      "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-1/2025-01-08/10698877.PDF",
+      "quote": "本次股份划转的国有股份的划出方为划入方的全资子公司",
+      "note": "Translation: 'The transferor of the state-owned shares in this share transfer is a wholly-owned subsidiary of the recipient.' The transferor is Yufu Capital and the recipient Yufu Holdings; the report's core-enterprise table also lists Yufu Capital at 100.00% under Yufu Holdings.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

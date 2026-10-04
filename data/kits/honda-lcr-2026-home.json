@@ -14,11 +14,44 @@
       "source": {
         "name": "MotoGP.com - Zarco's Castrol Honda LCR & Moreira's all-new Pro Honda LCR liveries revealed",
         "date": "2026-02-01",
-        "url": "https://www.motogp.com/en/news/2026/02/01/zarcos-castrol-honda-lcr-moreiras-all-new-pro-honda-lcr-liveries-revealed/827151"
+        "url": "https://www.motogp.com/en/news/2026/02/01/zarcos-castrol-honda-lcr-moreiras-all-new-pro-honda-lcr-liveries-revealed/827151",
+        "quote": "revealing a few updates for Johann Zarco’s popular Castrol Honda LCR livery",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pro-honda",
+      "placement": "front",
+      "source": {
+        "name": "Honda Global: Sponsorship Agreement Reached with LCR Honda; Full-Season MotoGP Entry as Pro Honda LCR",
+        "date": "2026-01-09",
+        "url": "https://global.honda/en/newsroom/news/2026/c260109ceng.html",
+        "quote": "the team will introduce a second entry titled Pro Honda LCR, with Pro Honda—Honda’s genuine oil and chemical brand—serving as title sponsor",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "solize",
+      "placement": "partner",
+      "source": {
+        "name": "SOLIZE: Castrol Honda LCR and Pro Honda LCR Conclude Sponsorship Agreement for the 2026 MotoGP Season",
+        "date": "2026-02-09",
+        "url": "https://partners.solize.com/en/news/2026/0209",
+        "quote": "the SOLIZE Group logo will appear on the front fenders of both machines ridden by Johann Zarco of Castrol Honda LCR and Diogo Moreira of Pro Honda LCR",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Castrol and Pro Honda are the title sponsors of the two 2026 bikes (Zarco and Moreira); SOLIZE Group's logo is on both bikes' front fenders. Not complete: other small partner logos on the livery and leathers are not sourced.",
   "change": null
 }
