@@ -10,33 +10,81 @@
   "sponsors": [
     {
       "sponsorId": "severstal",
-      "placement": "partner",
+      "placement": "front",
       "source": {
-        "name": "HC Severstal official site",
-        "date": "2026-09-25",
-        "url": "https://www.severstalclub.ru/"
+        "name": "Sports.ru, KHL press service (КХЛ.Маркетинг): Форма и логотипы всех клубов КХЛ: что изменилось в новом сезоне?",
+        "date": "2026-09-13",
+        "url": "https://www.sports.ru/hockey/blogs/3467674.html",
+        "quote": "На груди леттеринг Severstal и уменьшенный логотип",
+        "note": "Translation: the chest carries the lettering 'Severstal' and a smaller crest. Severstal (the steel company) is the club's general sponsor per the club partners page; the chest lettering is both the club name and the general sponsor's brand. The article notes sponsor marks on renders may differ from the final version.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "olimpbet",
       "placement": "partner",
       "source": {
-        "name": "HC Severstal official site",
-        "date": "2026-09-25",
-        "url": "https://www.severstalclub.ru/"
+        "name": "HC Severstal official site: «Северсталь» и OLIMPBET продлили сотрудничество (Severstal and Olimpbet extend cooperation)",
+        "date": "2025-08-13",
+        "url": "https://severstalclub.ru/news/severstal-i-olimpbet-prodlili-sotrudnichestvo-d4084685c1/",
+        "quote": "Хоккейный клуб «Северсталь» и букмекерская компания OLIMPBET продлили сотрудничество ещё на три года — до завершения сезона 2027/28.",
+        "note": "Translation: 'HC Severstal and bookmaker OLIMPBET have extended their cooperation for three more years, until the end of the 2027/28 season.' The club's partners page also lists Olimpbet as an official partner as of 2026-10-03.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "sovcombank",
       "placement": "partner",
       "source": {
-        "name": "HC Severstal official site",
-        "date": "2026-09-25",
-        "url": "https://www.severstalclub.ru/"
+        "name": "HC Severstal official site: Спонсоры и партнеры (Sponsors and partners)",
+        "date": "2026-10-03",
+        "url": "https://severstalclub.ru/sponsors-partners/",
+        "quote": "Совкомбанк Официальный банк",
+        "note": "Translation: 'Sovcombank — Official bank'. No publication date on the page; club sponsors list as shown on 2026-10-03.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "vostok-service",
+      "placement": "partner",
+      "source": {
+        "name": "HC Severstal official site: Спонсоры и партнеры (Sponsors and partners)",
+        "date": "2026-10-03",
+        "url": "https://severstalclub.ru/sponsors-partners/",
+        "quote": "Восток Сервис Официальный партнер",
+        "note": "Translation: 'Vostok Service — Official partner'. No publication date on the page; club sponsors list as shown on 2026-10-03.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "q-center",
+      "placement": "partner",
+      "source": {
+        "name": "HC Severstal official site: Спонсоры и партнеры (Sponsors and partners)",
+        "date": "2026-10-03",
+        "url": "https://severstalclub.ru/sponsors-partners/",
+        "quote": "Кью Центр Официальный партнер",
+        "note": "Translation: 'Q Center — Official partner'. No publication date on the page; club sponsors list as shown on 2026-10-03.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. Severstal general sponsor, Olimpbet and Sovcombank official partners per the club site; front-of-shirt sponsor not yet sourced.",
+  "summary": "2026-27 home kit. The chest carries the 'Severstal' lettering (the club's general sponsor) per the KHL press-service kit review; the club's partners page names Olimpbet, Vostok Service and Q Center as official partners and Sovcombank as official bank. Back and sleeve placements could not be verified from an openable source; media/information partners listed by the club (Sports.ru, TV Start, Sovetsky Sport) are not modelled as kit sponsors.",
   "change": null
 }

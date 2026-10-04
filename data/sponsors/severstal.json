@@ -1,15 +1,27 @@
 {
   "id": "severstal",
   "name": "Severstal",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "severstal-pao",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "severstal-mordashov-stake",
+    "severstal-yakovlevsky-miner-death-2026"
+  ],
   "aliases": [
     "Северсталь",
     "severstal.com"
   ],
-  "note": "General sponsor of HC Severstal. Lead: controlled by Alexei Mordashov; primary document not yet opened."
+  "note": "General sponsor of HC Severstal Cherepovets; the 2026-27 home jersey carries the 'Severstal' lettering on the chest (KHL press-service kit review on sports.ru). PAO Severstal is majority-owned by Alexey Mordashov (77.03%). Proposed tier: concern — the regulator finding at subsidiary Yakovlevsky GOK (claim severstal-yakovlevsky-miner-death-2026) is a company human-rights finding under METHOD.md (deaths, found by a regulator); a maintainer sets the tier. Mordashov's EU/UK/US sanctions do not count under METHOD.md.",
+  "why": {
+    "text": "Severstal is majority-owned by Russian billionaire Alexey Mordashov. Russia's industrial safety regulator Rostechnadzor found that failures in work organisation and safety supervision at Yakovlevsky GOK, a Severstal company, caused a miner's death in an underground rock collapse on 30 April 2026; the company was fined 1 million rubles. Sponsoring the shirt of the local steel town's club puts the name on the chest while the regulator's findings sit in the background.",
+    "claimIds": [
+      "severstal-yakovlevsky-miner-death-2026",
+      "severstal-mordashov-stake"
+    ],
+    "messageLine": "Russia's safety regulator found that failures at Severstal's Yakovlevsky mine caused a miner's death in April 2026.",
+    "status": "draft"
+  }
 }

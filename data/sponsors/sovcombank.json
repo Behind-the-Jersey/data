@@ -1,14 +1,16 @@
 {
   "id": "sovcombank",
   "name": "Sovcombank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "sovco-capital-partners",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Sovcombank's principal shareholder is IJSC Sovco Capital Partners, the private co-owners' holding company, with 71.6%; the bank is listed on the Moscow Exchange. Nothing found.",
+  "claimIds": [
+    "sovcombank-sovco-capital-partners"
+  ],
   "aliases": [
     "Совкомбанк"
   ],
-  "note": "Official bank of HC Severstal."
+  "note": "Rating note: none (2026-10-03). Official bank of HC Severstal per the club's partners page. No state control: the bank's July 2024 disclosure grouped 'sovereign funds of the Russian Federation, the Middle East and Asia' at 6.7% in aggregate, with no individual sovereign fund among the disclosed 5%+ holders; after later placements Sovco Capital Partners stands at 71.6% (Interfax, 2025-07-18). Sovcombank is under US/UK/EU sanctions, a financial record that doesn't count under METHOD.md. No court, regulator, UN-body or major-NGO human-rights finding against the bank found (searched 2026-10-03)."
 }

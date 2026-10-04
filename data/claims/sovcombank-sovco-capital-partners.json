@@ -1,0 +1,33 @@
+{
+  "id": "sovcombank-sovco-capital-partners",
+  "kind": "ownership",
+  "ownerIds": [
+    "sovco-capital-partners"
+  ],
+  "text": "IJSC Sovco Capital Partners, the holding company of Sovcombank's co-owners, is Sovcombank's principal shareholder with 71.6% of shares; the free float is 14.5%. Sovcombank is listed on the Moscow Exchange.",
+  "short": "Sovco Capital Partners, the co-owners' vehicle, holds 71.6% of Sovcombank.",
+  "source": {
+    "name": "Interfax: Sovcombank minority shareholder seeks to sell 5% stake through Avito - paper",
+    "date": "2025-07-18",
+    "url": "https://interfax.com/newsroom/top-stories/112761/",
+    "quote": "Sovcombank, like many other Russian lenders, does not disclose its ownership structure in detail. IJSC Sovco Capital Partners is the bank's principal shareholder with 71.6%, and the free float is 14.5%.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AK&M: Sovcombank has introduced a new share capital structure",
+      "date": "2024-07",
+      "url": "https://www.akm.ru/eng/news/sovcombank-has-introduced-a-new-share-capital-structure/",
+      "quote": "New joint–stock structure as of July 24, 2024: treasury shares on the balance sheet - 0.4%; MKAO Sovco Capital Partners and affiliates (owners of more than 5% of shares, top management) – 82.8%; sovereign funds of the Russian Federation, the Middle East and Asia – 6.7%",
+      "note": "The article repeats a Sovcombank message; after the further 2024-2025 sales Sovco was at 71.6% (Interfax, above). The sovereign-fund bucket of 6.7% aggregates funds of several states; no individual sovereign fund appears among the disclosed 5%+ holders. The AK&M page re-serves this old article with the current date in the header.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
