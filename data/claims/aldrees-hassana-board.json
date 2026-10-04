@@ -1,0 +1,34 @@
+{
+  "id": "aldrees-hassana-board",
+  "kind": "ownership",
+  "ownerIds": [
+    "gosi"
+  ],
+  "text": "Aldrees' FY2024 board of directors includes two executives of Hassana Investment Company — Basil Ali Al Faris (Director of Alternative Investments Department) and Mohamad Salem Ali Musa (Portfolio Manager). Hassana is the investment manager of Saudi Arabia's General Organization for Social Insurance (GOSI).",
+  "short": "Two directors on Aldrees' board are executives of Hassana, GOSI's investment manager",
+  "source": {
+    "name": "Aldrees Petroleum & Transport Services Co — Annual Report 2024, Board of Directors (members' bios)",
+    "date": "2024",
+    "url": "https://www.aldrees.com/english/fileUpload/820366_1767164048.pdf",
+    "quote": "Director of Alternative Investments Department Hassana Investment Company Director of International Listed Markets Hassana Investment Company",
+    "note": "Board-members table (p. 97): Basil Ali Al Faris, current position 'Director of Alternative Investments Department, Hassana Investment Company' (previously 'Director of International Listed Markets, Hassana'), and Mohamad Salem Ali Musa, current position 'Portfolio Manager, Hassana Investment Company'. The third member the first version of this claim listed, Farraj Saad Al-Qabbani, is shown as Acting CEO of Saudi Medical Care Group, not Hassana.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Hassana Investment Company — Who we are",
+      "date": "2026",
+      "url": "https://www.hassana.com.sa/en/who-we-are",
+      "quote": "We invest on behalf of all Saudi generations for their future pensions, as the investment manager of the General Organization for Social Insurance (GOSI).",
+      "note": "The same page's leadership section lists Basel Alfaris as Head of Alternative Investments (at Hassana since 2014), matching the annual report's bio.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

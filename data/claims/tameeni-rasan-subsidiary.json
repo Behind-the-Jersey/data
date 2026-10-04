@@ -1,0 +1,34 @@
+{
+  "id": "tameeni-rasan-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "rasan-information-technology"
+  ],
+  "text": "Tameeni is operated by Tameeni Company (Tameeni Electronic Insurance Brokerage), a wholly owned subsidiary that Rasan Information Technology Company established in November 2022.",
+  "short": "Tameeni is a wholly owned subsidiary of Rasan",
+  "source": {
+    "name": "Rasan Information Technology Company Prospectus (CMA), Definition of terms / Group history",
+    "date": "2024-03-25",
+    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+    "quote": "The Group has since established a wholly owned subsidiary in November 2022G, Tameeni Company, which obtained the requisite SAMA e-brokerage license in May 2023G",
+    "note": "The prospectus's definitions (p. 59) identify Tameeni Company as 'Tameeni Electronic Insurance Brokerage Single Person Company ... wholly by the Company'; its subsidiaries table (p. 249) shows Rasan holding 100% of Tameeni Company.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Rasan — IPO page (company website)",
+      "date": "2024-05",
+      "url": "https://www.rasan.co/en/ipo",
+      "quote": "providing seamless services through our flagship subsidiaries, including Tameeni",
+      "note": "Same publisher as the prospectus (the company itself), kept as corroboration only.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

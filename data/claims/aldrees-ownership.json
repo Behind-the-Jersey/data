@@ -1,0 +1,21 @@
+{
+  "id": "aldrees-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "aldrees-petroleum-transport"
+  ],
+  "text": "Aldrees Petroleum & Transport Services Company was established as a family company in 1957 and has been a joint-stock company since 2006.",
+  "short": "Family-founded Saudi joint-stock company (since 2006)",
+  "source": {
+    "name": "ALDREES – About Us: History (company timeline)",
+    "date": "2026",
+    "url": "https://www.aldrees.com/english/history",
+    "quote": "In 2006 the company witnessed a large stride forward transforming into a joint stock company.",
+    "note": "The same page's timeline also states: 'ALDREES was established as a family company in 1957 by selling oil products.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
