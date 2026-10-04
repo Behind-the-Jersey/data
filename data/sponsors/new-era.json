@@ -1,16 +1,17 @@
 {
   "id": "new-era",
   "name": "New Era",
-  "ownerId": "new-era-cap",
+  "ownerId": "koch-family-buffalo",
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Owned by New Era Cap, LLC, a family-owned (Koch) company with a significant ACON Investments stake. Nothing found.",
+  "verdict": "Controlled by its founding family, the Koch family of Buffalo; private equity firm ACON Investments holds a significant stake and MLB, the NFL and the NBA became minority owners in 2022.",
   "claimIds": [
-    "new-era-cap-ownership"
+    "new-era-koch-family-ownership"
   ],
   "aliases": [
-    "New Era Cap"
+    "New Era Cap",
+    "New Era Cap Company"
   ],
-  "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Rating note: family-owned by the Koch family (fourth-generation CEO Christopher H. Koch), first institutional investor ACON Investments holds a significant stake; MLB, the NFL and the NBA became minority owners through ACON's August 2022 continuation fund (ACON's own release; Apollo, GCM Grosvenor, Hamilton Lane and Neuberger Berman backed the fund on behalf of managed funds). No state or state-fund owner identified."
+  "note": "Official Cap of LIV Golf and its 13 teams (livgolf.com/partners); one of the two partner logos on the Cleeks GC team page. US leagues are private bodies, not states; no state in the owner chain found."
 }
