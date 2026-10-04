@@ -1,15 +1,17 @@
 {
   "id": "prima-assicurazioni",
   "name": "Prima Assicurazioni",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "prima-assicurazioni-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Italian insurance group 48% held by founder Teodoro D'Ambrosio, with Blackstone 27%, Goldman Sachs 15%, management 8% and Carlyle 2% (as reported in February 2025). Nothing found.",
+  "claimIds": [
+    "prima-assicurazioni-ownership"
+  ],
   "aliases": [
     "prima",
     "Prima Seguros"
   ],
-  "note": "Title sponsor of Prima Pramac Yamaha MotoGP, confirmed again for the 2026 season (Yamaha Motor race release, 2026-01-14). Ownership not yet researched (prima.it blocks fetching). Prima Seguros, Prima's Spanish brand, is on the upper back of Real Betis's match shirt from 2025-26 to 2027-28 (club announcement, 2025-06-10)."
+  "note": "Title sponsor of Prima Pramac Yamaha MotoGP, confirmed again for the 2026 season (Yamaha Motor race release, 2026-01-14). Rating note: shareholding as reported by Milano Finanza, 17 February 2025 (prima-assicurazioni-ownership); a reshuffle or listing has been discussed in the Italian press since 2023, so the stakes may have changed since. No state or state fund in the chain; no human-rights finding against Prima or its named owners found (checked 2026-10-03). Prima Seguros, Prima's Spanish brand, is on the upper back of Real Betis's match shirt from 2025-26 to 2027-28 (club announcement, 2025-06-10)."
 }

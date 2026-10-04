@@ -1,0 +1,20 @@
+{
+  "id": "soudal-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "soudal"
+  ],
+  "text": "Soudal, the Turnhout sealants and adhesives maker, was established in 1966 by Mr Vic Swerts and is 100% family owned.",
+  "short": "Soudal is 100% family owned.",
+  "source": {
+    "name": "Soudal Industry: About Soudal",
+    "date": "2026",
+    "url": "https://www.soudal-industry.com/about-soudal",
+    "quote": "The company, established in 1966 by Mr Vic Swerts, is 100% family owned.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "reitan-as-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "reitan-as"
+  ],
+  "text": "REITAN AS is owned by Odd Reitan and his sons Ole Robert Reitan and Magnus Reitan, with their families.",
+  "short": "REITAN AS is owned by Odd Reitan and sons Ole Robert and Magnus Reitan with family.",
+  "source": {
+    "name": "Reitan: Våre eiere (Our owners)",
+    "date": "2026",
+    "url": "https://www.reitan.no/no/artikkel/1056/vare-eiere",
+    "quote": "REITAN AS eies av Odd Reitan og sønnene Ole Robert Reitan og Magnus Reitan med familie.",
+    "note": "English: 'REITAN AS is owned by Odd Reitan and the sons Ole Robert Reitan and Magnus Reitan, with family.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

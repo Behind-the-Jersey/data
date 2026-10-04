@@ -1,0 +1,21 @@
+{
+  "id": "prima-assicurazioni-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "prima-assicurazioni-owner"
+  ],
+  "text": "The share capital of Prima Assicurazioni is held 48% by Teodoro D'Ambrosio, 27% by Blackstone, 15% by Goldman Sachs, 8% by top management and 2% by Carlyle, as reported by Milano Finanza in February 2025.",
+  "short": "Prima Assicurazioni: D'Ambrosio 48%, Blackstone 27%, Goldman Sachs 15%, management 8%, Carlyle 2% (Feb 2025)",
+  "source": {
+    "name": "Milano Finanza: Polizze, ora Prima Assicurazioni fa gola ai big",
+    "date": "2025-02-17",
+    "url": "https://www.milanofinanza.it/news/polizze-ora-prima-assicurazioni-fa-gola-ai-big-202502171848393137",
+    "quote": "il top management all'8%, Blackstone e Goldman Sachs rispettivamente al 27% e al 15%, Carlyle al 2%, mentre il restante 48% è nelle mani di Teodoro D'Ambrosio",
+    "note": "Translation: the current shareholding sees top management at 8%, Blackstone and Goldman Sachs at 27% and 15% respectively, Carlyle at 2%, and the remaining 48% in the hands of Teodoro D'Ambrosio.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

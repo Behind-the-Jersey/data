@@ -1,11 +1,14 @@
 {
   "id": "alpinestars",
   "name": "Alpinestars",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "alpinestars",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Alpinestars S.p.A. (Mazzarolo family). Nothing found.",
+  "claimIds": [
+    "alpinestars-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Family ownership from the company's own about page; no dated shareholder register published. Same owner as 'alpinestars-c' and 'alpinestars-h'."
 }

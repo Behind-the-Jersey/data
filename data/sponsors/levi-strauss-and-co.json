@@ -3,12 +3,12 @@
   "name": "Levi Strauss & Co. (Levi's)",
   "ownerId": "levi-strauss-and-co-levi-s-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Owned by Levi Strauss & Co.. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "levi-strauss-and-co-levi-s-owner-record"
   ],
   "aliases": [],
-  "note": "Rating note: Levi Strauss & Co. is a publicly traded apparel company; no state stake or serious conduct record identified."
+  "note": "Publicly traded apparel company (NYSE: LEVI, per its SEC DEF 14A). Held unrated pending a person's review: the Worker Rights Consortium's June 2024 factory assessment (https://www.workersrights.org/our-work/factory-investigations/ozak) found Levi's supplier Oezak/Kuebrateks in Tuerkiye committed or was complicit in violence, arrests, the retaliatory mass firing of roughly 400 workers and blacklisting after they joined the union BIRTEK-SEN; Levi's called the mass firing a \"zero tolerance violation\" of its supplier standards, then continued placing orders without the reinstatement it had demanded, and the WRC states there has been no remediation. Whether this supplier-factory record reaches the company itself is for a maintainer to decide. Also pending: a Dutch Clean Clothes Campaign lawsuit over labour-related advertising claims (filed 2026-04-21, cleanclothes.org/news/2026/ccc-announces-court-case-against-levis-for-misleading-claims), not yet a finding."
 }
