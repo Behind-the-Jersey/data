@@ -1,12 +1,14 @@
 {
   "id": "soudal",
   "name": "Soudal",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "soudal-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Soudal is 100% family owned through the Soudal Group of founder Vic Swerts. Nothing found.",
+  "claimIds": [
+    "soudal-family-owned"
+  ],
   "aliases": [],
-  "note": "Belgian adhesives/sealants company owned by founder Vic Swerts."
+  "note": "Belgian manufacturer of sealants, adhesives and PU foams. Only record found is an EU antitrust (cartel) litigation against Soudal NV (Cases T-201/16 etc., appeal C-734/23 P), which does not count under the method."
 }

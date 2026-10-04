@@ -1,0 +1,21 @@
+{
+  "id": "quick-step-unilin-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "unilin"
+  ],
+  "text": "Quick-Step is a flooring brand of the Unilin group (Unilin Flooring division), alongside Pergo and Moduleo.",
+  "short": "Quick-Step is an Unilin brand.",
+  "source": {
+    "name": "Unilin: We are Unilin",
+    "date": "2026",
+    "url": "https://www.unilin.com/en/about",
+    "quote": "Today Unilin is a global player with a portfolio of strong brands such as Quick-Step, Pergo and Moduleo.",
+    "note": "Page without a date; the same page shows the Unilin Flooring division carries the Quick-Step brand. Opened 2026-10-01.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

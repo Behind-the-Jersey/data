@@ -1,0 +1,21 @@
+{
+  "id": "castelli-mvc-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "mvc-group"
+  ],
+  "text": "Castelli is a brand of the MVC Group (Manifattura Valcismon S.p.A.), an Italian sportswear group that describes itself as family owned since 1946.",
+  "short": "Castelli is a brand of the family-owned MVC Group.",
+  "source": {
+    "name": "MVC Group: About Us",
+    "date": "2026",
+    "url": "https://www.mvcgroup.com/en/about-us",
+    "quote": "We are an Italian house of brands, family owned since 1946 and specialized in sportswear.",
+    "note": "The group's brand list on the same site (Our brands) is Sportful, Castelli, Karpos and Zoot; the Castelli brand page is mvcgroup.com/en/castelli. Page without a date; opened 2026-10-01.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
