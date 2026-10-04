@@ -1,11 +1,18 @@
 {
   "id": "theeb-rent-a-car",
   "name": "Theeb Rent A Car",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "theeb-rent-a-car",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Theeb Rent A Car Company is a listed Saudi company (Tadawul 4261); after its 2021 IPO the largest shareholders were the founding Al-Theeb family members, 23% each. Nothing found.",
+  "claimIds": [
+    "theeb-al-theeb-shareholders"
+  ],
+  "aliases": [
+    "theeb",
+    "ذيّب",
+    "theeb rent a car company"
+  ],
+  "note": "Car-rental company; Al-Shabab shirt sponsor in 2024-25 and 2025-26 - Theeb announced it had taken the upper chest of the team's shirts for the 2024-25 and 2025-26 seasons (Theeb Rent a Car LinkedIn post, September 2024, https://ae.linkedin.com/posts/theebrentacar_), and its triangle 'ذيّب Theeb' mark sits centre-chest on the 2025/26 home shirt sold in the club's official Offside store. NOT on the 2026-27 kit record: no 2026-27 placement evidence was found (the deal covered two seasons, to 2025-26), so theeb was removed from the al-shabab-2026-27-home kit in this PR. No human-rights finding against the company was found."
 }
