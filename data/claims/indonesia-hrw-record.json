@@ -16,5 +16,18 @@
       "by": "claude-review-282"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Mongabay: UN calls out Indonesia's Merauke food estate for displacing Indigenous communities",
+      "date": "2025-06-24",
+      "url": "https://news.mongabay.com/2025/06/un-calls-out-indonesias-merauke-food-estate-for-displacing-indigenous-communities/",
+      "quote": "U.N. special rapporteurs have raised concerns that Indonesia’s food estate project in Merauke district is displacing Indigenous communities, clearing forests without consent, and using military forces to suppress dissent",
+      "note": "Mongabay's report on the joint communication by nine UN special rapporteurs (AL IDN (1.2025), 7 March 2025) and also covers a 'five infantry battalions' deployment the UN letter raises. Supports the Papua/Merauke part of the claim.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
 }

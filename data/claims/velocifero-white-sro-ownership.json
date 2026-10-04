@@ -1,0 +1,21 @@
+{
+  "id": "velocifero-white-sro-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "white-sro"
+  ],
+  "text": "The Velocifero trademark is exclusively owned by White SRO of Kosice, Slovak Republic, per the trademark's own legal notice.",
+  "short": "Velocifero is a trademark exclusively owned by White SRO (Kosice, Slovakia).",
+  "source": {
+    "name": "Velocifero (velocifero.eu): homepage legal notice",
+    "date": "2026",
+    "url": "https://www.velocifero.eu/",
+    "quote": "Velocifero is a registered trademark exclusively owned by White SRO.",
+    "note": "The legal notice in the homepage footer reads: 'Velocifero is a registered trademark exclusively owned by White SRO... White Sro, Letna, 45 - 04022 - Kosice - Slovak Republic'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
