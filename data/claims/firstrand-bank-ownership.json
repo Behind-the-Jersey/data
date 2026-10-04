@@ -16,5 +16,17 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Sharenet SENS: FirstRand Bank Limited - Availability of the Annual Report",
+      "date": "2025-09-11",
+      "url": "https://www.sharenet.co.za/v3/sens_display.php?tdate=20250911084500&seq=16",
+      "quote": "FRB is a wholly owned subsidiary of FirstRand Limited (FirstRand or the group).",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
 }

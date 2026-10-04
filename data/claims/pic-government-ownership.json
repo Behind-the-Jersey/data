@@ -1,0 +1,33 @@
+{
+  "id": "pic-government-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "public-investment-corporation",
+    "government-of-south-africa"
+  ],
+  "text": "The Public Investment Corporation is wholly owned by the South African government, with the Minister of Finance as its shareholder representative.",
+  "short": "The PIC is wholly owned by the South African government.",
+  "source": {
+    "name": "Public Investment Corporation Integrated Annual Report 2024/25 (PDF)",
+    "date": "2025",
+    "url": "https://static.pmg.org.za/PIC_2025_Integrated_Annual_Report.pdf",
+    "quote": "The PIC is wholly owned by the South African government, with the Minister of Finance as a Shareholder representative.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Government Employees Pension Fund Annual Report 2024/25 (PDF)",
+      "date": "2025",
+      "url": "https://gepf.co.za/wp-content/uploads/2025/11/GEPF_AR_2025_digital.pdf",
+      "quote": "Established in 1911, the PIC is South Africa’s largest Asset Manager and a government-owned entity represented by the Minister of Finance.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}

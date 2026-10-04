@@ -3,16 +3,19 @@
   "name": "Pick n Pay",
   "ownerId": "pick-n-pay-stores",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Pick n Pay is the retail brand of JSE- and A2X-listed Pick n Pay Stores Limited, whose largest voting shareholder is the founding Ackerman family (36.8%). No state owner in the chain and no qualifying human-rights finding found. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Pick n Pay is the retail brand of JSE- and A2X-listed Pick n Pay Stores Limited; the Public Investment Corporation, wholly owned by the South African government, is its second-largest shareholder (12%).",
   "claimIds": [
     "pnp-stores-listed",
-    "pnp-ackerman-voting-interest"
+    "pnp-pic-stake",
+    "pnp-ackerman-voting-interest",
+    "pic-government-ownership",
+    "south-africa-marikana-killings"
   ],
   "aliases": [
     "pick n pay",
     "PnP"
   ],
-  "note": "Back-of-shirt sponsor of the Springboks: a four-year Tier 1 contract signed in March 2025 put the gold Pick n Pay logo on the back of the matchday jersey; it appears on the upper back of the 2026/27 home jersey. Rated in the rugby-south-africa rating sweep (issue #727)."
+  "note": "Back-of-shirt sponsor of the Springboks: a four-year Tier 1 contract signed in March 2025 put the gold Pick n Pay logo on the back of the matchday jersey; it appears on the upper back of the 2026/27 home jersey. Rating note: on hold for a maintainer. Proposed concern: the Public Investment Corporation (PIC), wholly owned by the South African government, holds 12% of Pick n Pay Stores (pnp-pic-stake) - the company's accounts list the PIC-managed Government Employees Pension Fund block at 15.6% - over the 5% threshold - and South Africa's record is documented (south-africa-marikana-killings). First set to none in the rating sweep before the state-fund stake was known; reset to unrated after the review flagged it (issue #727)."
 }

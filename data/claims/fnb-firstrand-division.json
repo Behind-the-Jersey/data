@@ -16,5 +16,17 @@
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "FirstRand Limited Group Annual Financial Statements 2025 (PDF)",
+      "date": "2025",
+      "url": "https://www.firstrand.co.za/media/investors/reports/firstrand-annual-financial-statements-2025.pdf",
+      "quote": "FirstRand Limited is the holding company of the FirstRand group of companies. FirstRand’s portfolio of integrated financial services businesses comprises FNB, RMB, WesBank and Aldermore",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
 }
