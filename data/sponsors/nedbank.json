@@ -1,12 +1,21 @@
 {
   "id": "nedbank",
   "name": "Nedbank",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "nedbank-zimbabwe",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Title sponsor of the Nedbank Golf Challenge (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  "claimIds": [
+    "nedbank-sables-headline-sponsor",
+    "nedbank-zimbabwe-group-ownership",
+    "nedbank-group-listed",
+    "nedbank-group-oldmutual-stake",
+    "nedbank-group-pic-stake"
+  ],
+  "aliases": [
+    "Nedbank Zimbabwe",
+    "Nedbank Group"
+  ],
+  "note": "Front-of-shirt sponsor of the Zimbabwe Sables, worn at the World Rugby Nations Cup 2026 (official ZRU match-day graphic, 1 July 2026). The brand on the shirt is Nedbank Zimbabwe, Nedbank Group's resident entity in Zimbabwe; Nedbank Group's primary listing is the JSE. Proposed 'none' was not kept: the group's own 2025 Integrated Report names the Public Investment Corporation (SA) - wholly owned by the South African government - as its largest shareholder at 14.9% (December 2025), above METHOD.md's 5% test. Whether that yields 'concern' depends on whether South Africa counts as a state with a record of serious abuses under METHOD.md - a maintainer's decision - so the sponsor is left unrated. Old Mutual's 19.9% stake is as stated for the 2018 unbundling; its current size was not separately sourced, and Old Mutual is not in the group's December 2025 top-10 shareholder table. No human-rights finding of the kind METHOD.md counts was found against Nedbank Zimbabwe, Nedbank Group or Old Mutual. Nedbank's brand name also titles the Nedbank Golf Challenge (event name, 2026 Race to Dubai schedule)."
 }
