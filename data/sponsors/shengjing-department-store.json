@@ -1,0 +1,30 @@
+{
+  "id": "shengjing-department-store",
+  "name": "Shengjing Department Store",
+  "ownerId": "shenyang-shengjing-department-store",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Shengjing Department Store (盛京百货) is part of Shenyang Shengjing Assets Management Group, a wholly state-owned company of the Shenyang city government; China has a documented record of serious abuses in Xinjiang.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "shengjing-baihuo-shengjing-assets",
+    "shengjing-assets-shenyang-government"
+  ],
+  "aliases": [
+    "盛京百货",
+    "沈阳盛京百货管理（集团）有限公司",
+    "Shengjing Baihuo"
+  ],
+  "note": "Front-of-shirt sponsor of Liaoning Tieren for the 2026 Chinese Super League season (Tencent News, 2026-03-17); the club announced the strategic partnership on 11 January 2026 with the signing done by the department-store group's management (Dongqiudi/Tencent News). Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link: claims shengjing-baihuo-shengjing-assets + shengjing-assets-shenyang-government: the company is a subsidiary of Shengjing Assets Management Group, wholly state-owned by the Shenyang city government whose SASAC performs the investor's duties), and the record is claim china-xinjiang-un-assessment (UN OHCHR 2022 Xinjiang assessment; Human Rights Watch 2026). Same rating logic as laoshan-cola and huayuan-securities. ON HOLD: a proposed 'serious' rating awaits a maintainer's review; a maintainer sets the tier.",
+  "why": {
+    "text": "Shengjing Department Store is part of Shenyang Shengjing Assets Management Group, a wholly state-owned company of the Shenyang city government whose SASAC performs the state's investor duties, so the Chinese state controls the sponsor. The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Shengjing Department Store is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "shengjing-baihuo-shengjing-assets",
+      "shengjing-assets-shenyang-government"
+    ],
+    "messageLine": "Shengjing Department Store: owned within Shenyang city's state-assets system; the UN has documented serious abuses in Xinjiang.",
+    "status": "draft"
+  }
+}

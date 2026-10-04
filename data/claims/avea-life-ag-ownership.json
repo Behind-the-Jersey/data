@@ -1,0 +1,20 @@
+{
+  "id": "avea-life-ag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "avea-life-ag"
+  ],
+  "text": "AVEA is a registered trademark of AVEA Life AG, a Switzerland-based longevity-supplements startup founded in 2021 in Zug by Duri Granziol, Sophie Chabloz, Teresa Budetta and Pascal Rode.",
+  "short": "AVEA is the brand of AVEA Life AG, a Swiss startup founded in 2021 in Zug.",
+  "source": {
+    "name": "AVEA: About",
+    "date": "2026",
+    "url": "https://avea-life.com/pages/about",
+    "quote": "AVEA® is a registered trademark of AVEA Life AG, a Switzerland-based longevity startup founded in 2021 in Zug.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

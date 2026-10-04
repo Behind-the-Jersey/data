@@ -1,14 +1,16 @@
 {
   "id": "megafon",
   "name": "MegaFon",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "usm",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "megafon-usm-ownership"
+  ],
   "aliases": [
     "megafon"
   ],
-  "note": "Zenit and Krylia Sovetov partner."
+  "note": "Zenit and Krylia Sovetov partner. Shorts sponsor of HC Metallurg Magnitogorsk (МЕГАФОН on the 2026/27 game shorts): logo visible on the season kit render and a 2026-09-06 match photo via the KHL.Marketing kits article on sports.ru; Megafon's own press release of 2026-02-26 confirms the continuing club partnership. Wholly owned by Alisher Usmanov's USM Holding (claim megafon-usm-ownership); MegaFon's 2022 annual report states the state does not participate in the company's charter capital. Proposed tier: none (see PR)."
 }

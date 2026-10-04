@@ -1,0 +1,34 @@
+{
+  "id": "hailiang-agriculture-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "shanghai-hailiang-agriculture-group"
+  ],
+  "text": "Liaoning Hailiang Agriculture Group Co., Ltd. (辽宁海粮农业集团有限公司), the Hailiang company that signed the strategic partnership with Liaoning Tieren, is a wholly-owned subsidiary of the Hailiang Agriculture Group (per the group's own site). The group's parent, Shanghai Hailiang Agriculture Group Co., Ltd. (founded 2023-02, registered capital RMB 2 billion), is a limited-liability company registered as invested in and controlled by natural persons (有限责任公司（自然人投资或控股）); its legal representative is Lu Yiming (卢一铭), and company-registration aggregator Qichamao's shareholders section lists two natural-person shareholders, Lu Yiming and Wang Abing (王阿兵).",
+  "short": "Hailiang Agriculture is a private grain group held by natural persons Lu Yiming and Wang Abing.",
+  "source": {
+    "name": "海粮农业 (Shanghai Hailiang Agriculture Group, hlnygroup.com): 旗下子公司 (subsidiaries page)",
+    "date": "",
+    "url": "http://www.hlnygroup.com/subsidiaries.html",
+    "quote": "辽宁海粮农业集团有限公司成立于2019年9月，注册资本2亿，是海粮农业集团全资子公司",
+    "note": "Translation: 'Liaoning Hailiang Agriculture Group Co., Ltd., founded September 2019, registered capital RMB 200 million, is a wholly-owned subsidiary of Hailiang Agriculture Group.' Page without a date; opened 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "企查猫 (Qichamao company-registration aggregator): 上海海粮农业集团有限公司",
+      "date": "2026-02-22",
+      "url": "https://www.qichamao.com/orgcompany/searchitemdtl/061c1e6fced870822b3b325567f099be.html",
+      "quote": "有限责任公司（自然人投资或控股）",
+      "note": "Translation: 'limited-liability company (invested in or controlled by natural persons)' — the company's registered type. The page (shown 'updated 2026-02-22') names Lu Yiming as legal representative and its 股东信息 (shareholders) section lists two natural-person shareholders, Lu Yiming and Wang Abing; the section renders server-side but the percentages need a login, and scripted fetches hit a login wall.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

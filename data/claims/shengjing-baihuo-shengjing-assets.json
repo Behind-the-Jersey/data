@@ -1,0 +1,35 @@
+{
+  "id": "shengjing-baihuo-shengjing-assets",
+  "kind": "ownership",
+  "ownerIds": [
+    "shenyang-shengjing-department-store",
+    "shenyang-shengjing-assets-group"
+  ],
+  "text": "Shenyang Shengjing Department Store Management (Group) Co., Ltd. (沈阳盛京百货管理（集团）有限公司), which operates the 'Shengjing Department Store' (盛京百货) stores, is a subsidiary of Shenyang Shengjing Assets Management Group Co., Ltd.: the Shenyang SASAC published the department-store group's recruitment notice as a subsidiary of Shengjing Assets, and the department store's retail business sits inside Shengjing Assets' commercial-retail sector.",
+  "short": "Shengjing Department Store is a subsidiary of Shengjing Assets Management Group.",
+  "source": {
+    "name": "中国工业新闻网 via Sohu (大东北生活资讯): 盛京资产推动国有资本做强做优做大 形成“平台+实体”产业布局",
+    "date": "2025-10-28",
+    "url": "https://www.sohu.com/a/948259839_121106822",
+    "quote": "盛京百货成功构建“6大主力门店+2大配套板块”的商业集群",
+    "note": "Translation: 'Shengjing Department Store has built a commercial cluster of six anchor stores plus two supporting sectors' — inside an article laying out Shengjing Assets Management Group's state-owned business sectors (commercial retail being one). Also, in the club's official signing report (Dongqiudi/Tencent News, 2026-01-11), Shengjing Department Store's party secretary and chairman Jiang Yanbo described the Liaoning Tieren deal as Shengjing Assets Group implementing the city government's guidance.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "沈阳市国资委 (Shenyang SASAC): 沈阳盛京资产管理集团有限公司所属子公司沈阳盛京百货管理（集团）有限公司招聘公告 (recruitment notice of the subsidiary)",
+      "date": "2026-06-08",
+      "url": "https://gzw.shenyang.gov.cn/rcdwjszl/202606/t20260608_5037712.html",
+      "quote": "沈阳盛京资产管理集团有限公司所属子公司沈阳盛京百货管理（集团）有限公司",
+      "note": "Translation: the notice title, on the Shenyang SASAC site: 'Shenyang Shengjing Department Store Management (Group) Co., Ltd., a subsidiary of Shenyang Shengjing Assets Management Group Co., Ltd., recruitment notice'. The notice body is images.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
