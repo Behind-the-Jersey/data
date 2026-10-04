@@ -1,0 +1,21 @@
+{
+  "id": "mouwasat-hospitals-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "mouwasat-medical-services"
+  ],
+  "text": "The Mouwasat hospitals network in the kingdom's major cities is the network of Mouwasat Medical Services Company, as stated on the group's own corporate site.",
+  "short": "The Mouwasat hospital network belongs to Mouwasat Medical Services Company",
+  "source": {
+    "name": "Mouwasat Medical Services: Shareholders & Major Client (corporate site)",
+    "date": "2026",
+    "url": "https://www.mouwasat.com/en/shareholders-major-client",
+    "quote": "Mouwasat Medical Services company is honored of its hospitals’ network in the kingdom's major cities to provide its medical services",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Company site of the hospital group (the club's partner logo on ettifaq.com links to mouwasat.com). Same page: 'For details of the company's major shareholders, please refer to TADAWUL'."
+  },
+  "reviewed": false
+}
