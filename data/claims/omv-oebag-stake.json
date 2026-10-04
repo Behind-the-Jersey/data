@@ -1,0 +1,35 @@
+{
+  "id": "omv-oebag-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "omv",
+    "government-of-austria"
+  ],
+  "text": "ÖBAG, the Austrian state holding company managing the investments of the Republic of Austria, holds 31.5% of OMV.",
+  "short": "Austrian state (ÖBAG) holds 31.5% of OMV",
+  "source": {
+    "name": "OMV: Shareholder structure (omv.com)",
+    "date": "2026-10-04",
+    "url": "https://www.omv.com/en/investors/omv-on-the-capital-markets/more-insights/shareholder-structure",
+    "quote": "ÖBAG (Österreichische Beteiligungs AG) is the Austrian state-owned holding company managing the investments of the Republic of Austria.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Footnote 1 of OMV's shareholder-structure page; the same page lists ÖBAG's stake at 31.5%. Date is the day the page was opened."
+  },
+  "additionalSources": [
+    {
+      "name": "ADNOC press release: ADNOC Closes Acquisition of 24.9% Stake in OMV",
+      "date": "2024-02-29",
+      "url": "https://www.adnoc.ae/en/news-and-media/press-releases/2023/adnoc-closes-acquisition-of-249-stake-in-omv/",
+      "quote": "Österreichische Beteiligungs AG (ÖBAG), an Austrian independent holding company, holds 31.5%",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "ADNOC's announcement of the completion of its purchase of 24.9% of OMV, describing the remaining shareholder structure."
+    }
+  ],
+  "reviewed": false
+}
