@@ -1,0 +1,32 @@
+{
+  "id": "racing-force-saye-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "racing-force-spa"
+  ],
+  "text": "SAYE S.p.A. holds 49.27% of Racing Force S.p.A.'s share capital and 50.52% is free float ('Market'), per the company's shareholders page; Racing Force's director biography says chairman and CEO Paolo Delprato has been a shareholder and director of SAYE, the holding that is the Racing Force Group's main shareholder, since 2006.",
+  "short": "SAYE S.p.A. holds 49.27% of Racing Force; the rest is free float.",
+  "source": {
+    "name": "Racing Force Group: Shareholders' Information",
+    "date": "2026",
+    "url": "https://www.racingforce.com/investors-relations/shareholders-information/",
+    "quote": "SAYE S.p.A. 13.566.895,00 49.27% Treasury shares 59.578,00 0.22% Market 13.910.517,00 50.52%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Racing Force Group: director biography of Paolo Delprato (Group Chairman & CEO)",
+      "date": "2026",
+      "url": "https://www.racingforce.com/director/paolo-del-prato/",
+      "quote": "Since 2006 he has been a shareholder and director of SAYE, which operates as a holding company for investments and services and is the main shareholder of the Racing Force Group.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
