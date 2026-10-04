@@ -9,77 +9,25 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "yelo",
-      "placement": "front",
-      "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-      }
-    },
-    {
-      "sponsorId": "tameeni-insurance",
-      "placement": "front",
-      "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-      }
-    },
-    {
-      "sponsorId": "mezaj-maghribhi",
-      "placement": "back",
-      "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
-      }
-    },
-    {
-      "sponsorId": "florina-shoes",
-      "placement": "back",
-      "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
-      }
-    },
-    {
-      "sponsorId": "elba-cookers",
-      "placement": "back",
-      "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
-      }
-    },
-    {
-      "sponsorId": "saudi-qaid-transport",
-      "placement": "sleeve",
-      "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
-      }
-    },
-    {
       "sponsorId": "kappa",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Al-Kholood. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "Footy Headlines – Al-Kholood 26-27 Home & Away Kits Released",
+        "date": "2026-08-13",
+        "url": "https://www.footyheadlines.com/3476010080/al-kholood-26-27-home-away-kits-released.html",
+        "short": "Footy Headlines",
+        "quote": "white Kappa Omini logos positioned on the chest and shoulders alongside the circular Al Kholood club badge",
+        "note": "Kit supplier, listed as partner per the convention for kit suppliers. The launch write-up describes the whole home shirt – base colour, tonal graphic, white trim on the V-neck collar and sleeve cuffs, the Kappa Omini logos on chest and shoulders and the club badge – and nothing else: no commercial sponsor on any placement, and the launch photos show the same. The club's own store page for the players' home jersey 26/27 (https://alkholoodstore.com/products/al-kholood-fc-home-jersey-202526-2, undated, opened 2026-10-03) likewise lists the shirt's only marks: 'شعار البرج على الصدر، وشعار Kappa على الصدر والأكمام' ('the tower crest on the chest, and the Kappa logo on the chest and sleeves') plus a '1970' shield inside the collar and at the top of the back; its product photos show no sponsor logo on front or back. The Saudi Pro League's 'Fresh Fit: Kits of 2026-27 RSL' gallery (https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl) shows the same sponsor-free shirts in its Al Kholood launch photo. Footy Headlines' article calls the deep-red zig-zag shirt the home one and the cream shirt with green raglan sleeves the away one; the club's own store and launch graphics call the cream shirt the home kit and the red one the reserve kit (الطقم الأساسي vs الطقم الاحتياطي). 433FC's pre-season table (https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/, 2026-06-15) lists 'Yelo Rent a Car' as main shirt sponsor, but it states its details 'reflect confirmed 2025/26 contracts carrying into 2026/27', and no 2026-27 shirt (launch, store or league gallery) shows any sponsor logo.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Kappa home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
-  "change": null
+  "sponsorsComplete": true,
+  "summary": "Kappa home kit (the cream shirt with dark-green raglan sleeves and polo collar per the club's store; Footy Headlines' launch write-up swaps the home/reserve labels). No commercial shirt sponsor on any placement – front, back, sleeves and shorts carry only the club crest, the Kappa Omini and the 1970 collar shield – as launched in August 2026 and as sold in the club's own store.",
+  "change": null,
+  "headline": "The shirt is {level}: it carries no commercial sponsors. Kappa makes the kit.",
+  "shortLine": "No shirt sponsors. Kappa made."
 }
