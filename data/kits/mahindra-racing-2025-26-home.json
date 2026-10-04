@@ -27,7 +27,7 @@
       "sponsorId": "tech-mahindra",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"TECH MAHINDRA\",\"slug\":\"tech-mahindra\"",
@@ -42,7 +42,7 @@
       "sponsorId": "shell",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"SHELL\",\"slug\":\"shell\"",
@@ -57,7 +57,7 @@
       "sponsorId": "nippon-audio",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"NIPPON AUDIO\",\"slug\":\"nippon-audio\"",
@@ -72,7 +72,7 @@
       "sponsorId": "pininfarina",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"PININFARINA\",\"slug\":\"pininfarina\"",
@@ -87,7 +87,7 @@
       "sponsorId": "one8",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"ONE8\",\"slug\":\"one8\"",
@@ -102,7 +102,7 @@
       "sponsorId": "castore",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"CASTORE\",\"slug\":\"castore\"",
@@ -117,7 +117,7 @@
       "sponsorId": "rockfort-engineering",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"ROCKFORT ENGINEERING\",\"slug\":\"rockfort-engineering\"",
@@ -132,7 +132,7 @@
       "sponsorId": "omp",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"OMP\",\"slug\":\"omp\"",
@@ -147,7 +147,7 @@
       "sponsorId": "coral-eyewear",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"CORAL EYEWEAR\",\"slug\":\"coral-eyewear\"",
@@ -162,7 +162,7 @@
       "sponsorId": "technogym",
       "placement": "partner",
       "source": {
-        "name": "Mahindra Racing — Official Partners",
+        "name": "Mahindra Racing: Partners",
         "date": "2026",
         "url": "https://www.mahindraracing.com/partners",
         "quote": "\"name\":\"TECHNOGYM\",\"slug\":\"technogym\"",
@@ -175,6 +175,6 @@
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Season 12 (2025/26) works team. No front-shirt sponsor: the brand in the team name ('Mahindra Racing') is the owner's own (Mahindra & Mahindra Ltd bought the team company, Mahindra Racing UK Ltd, outright in FY26), following the Porsche Formula E precedent of not listing the works brand as a sponsor. Every partner named on the team's official partners page is listed: Valvoline (named Official Partner in the M12Electro launch release), Tech Mahindra, Shell, Nippon Audio, Pininfarina, one8, Castore, Rockfort Engineering, OMP, Coral Eyewear and Technogym. Formula E teams have no shirt; partners sit on the car and team apparel, so all carry the schema's 'partner' placement.",
+  "summary": "Season 12 (2025/26) works team. No front-shirt sponsor: the brand in the team name ('Mahindra Racing') is the owner's own (Mahindra & Mahindra Ltd bought the team company, Mahindra Racing UK Ltd, outright in FY26), following the Porsche Formula E precedent of not listing the works brand as a sponsor; the partners page also carries a 'MAHINDRA & MAHINDRA LTD' entry (no partner type), that same works brand, which is excluded on that basis. Every other partner named on the team's official partners page is listed: Valvoline (named Official Partner in the M12Electro launch release), Tech Mahindra, Shell, Nippon Audio, Pininfarina, one8, Castore, Rockfort Engineering, OMP, Coral Eyewear and Technogym. Formula E teams have no shirt; partners sit on the car and team apparel, so all carry the schema's 'partner' placement.",
   "change": null
 }
