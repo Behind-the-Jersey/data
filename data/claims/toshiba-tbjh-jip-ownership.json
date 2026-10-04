@@ -1,0 +1,33 @@
+{
+  "id": "toshiba-tbjh-jip-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "toshiba-corporation"
+  ],
+  "text": "Toshiba Corporation was taken private in 2023: the tender offer by TBJH Inc. succeeded and Toshiba's shares were delisted on December 20, 2023. TBJH Inc. is wholly owned by TBJ Holding Inc., 75% of whose shares are held by TB Investment Limited Partnership, managed by Japan Industrial Partners and its affiliates.",
+  "short": "Toshiba is owned by a JIP-led buyout vehicle since its December 2023 delisting.",
+  "source": {
+    "name": "Toshiba Corporation IR: About Tender Offer for the Shares of Toshiba Corporation (FAQ)",
+    "date": "2024-04-24",
+    "url": "https://www.global.toshiba/ww/ir/corporate/tender-offer.html",
+    "quote": "TBJH Inc. is a company wholly owned by TBJ Holding Inc., 75% of the issued and outstanding shares of which is held by TB Investment Limited Partnership, which is managed by Japan Industrial Partners, Inc. (“JIP”) and its affiliates",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The same page states: 'The TBJH’s tender offer for Toshiba Corporation’s shares succeeded, and the shares of Toshiba Corporation were delisted on Dec. 20, 2023.' The FAQ's delisting schedule was last updated April 24, 2024; the ownership FAQ was updated October 2, 2023."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Xinhua: Toshiba delisted in Japan after 74 years as public firm",
+      "date": "2023-12-20",
+      "url": "https://english.news.cn/asiapacific/20231220/9675b8e53cc5435b9214f4463dfcf1e9/c.html",
+      "quote": "A 2-trillion yen takeover bid for Toshiba by a consortium led by Japan Industrial Partners (JIP) succeeded in September",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}
