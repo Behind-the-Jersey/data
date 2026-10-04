@@ -1,14 +1,16 @@
 {
   "id": "superfile",
   "name": "SuperFile",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "superfile-inc",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "superfile-ownership"
+  ],
   "aliases": [
     "superfile trackhouse"
   ],
-  "note": "Multi-year title partner of Trackhouse MotoGP from 2026 (SportsMint Media, 2026-06-10); the team competes as SuperFile Trackhouse MotoGP Team. Ownership not yet researched."
+  "note": "Rating note: title partner of Trackhouse MotoGP since June 2026 — multi-year naming-rights deal; the team races as SuperFile Trackhouse MotoGP Team (club press release, 2026-06-05, via Wayback Machine; SportsMint Media, 2026-06-10). SuperFile's logos are on the bike bodywork and riders' race suits from the 2026 Hungarian GP. SuperFile Inc. is a private Chicago-based digital file-security company founded and led by Shane Valdez (Founder & CEO, per the club press release). No shareholder register or investor list found (checked 2026-10-03), so an owner cannot be named and the sponsor stays not rated yet; if 'founder & CEO' of a private startup counts as the named owner, propose none. No human-rights finding found against the company (checked 2026-10-03)."
 }

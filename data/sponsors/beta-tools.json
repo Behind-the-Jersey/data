@@ -1,14 +1,16 @@
 {
   "id": "beta-tools",
   "name": "Beta",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "beta-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Beta Group, a company of the Ciceri family with TIP as co-shareholder. Nothing found.",
+  "claimIds": [
+    "beta-ciceri-ownership"
+  ],
   "aliases": [
     "Beta Utensili"
   ],
-  "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  "note": "MotoGP partner of SuperFile Trackhouse MotoGP Team per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine), and technical partner of the Ducati Lenovo Team. Ownership (gruppo-beta.com): Italian family company of the Ciceri family, led by Roberto Ciceri, founder's great-grandson; TIP (Tamburi Investment Partners) co-shareholder since 2016 (beta-ciceri-ownership). No state stake and no human-rights finding found (checked 2026-10-03)."
 }

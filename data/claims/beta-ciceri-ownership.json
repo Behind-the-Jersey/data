@@ -1,0 +1,33 @@
+{
+  "id": "beta-ciceri-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "beta-group"
+  ],
+  "text": "Beta Utensili and the Beta Group are a Ciceri family company led by Roberto Ciceri, the founder's great-grandson (President and CEO); since 2016 the Italian investment company TIP has been a co-shareholder alongside him.",
+  "short": "Beta is a Ciceri family company, with TIP as co-shareholder since 2016.",
+  "source": {
+    "name": "Beta Utensili: 100 years of Beta (group history)",
+    "date": "2026",
+    "url": "https://gruppo-beta.com/en/the-group/our-history/",
+    "quote": "Alongside Roberto Ciceri, the founder's great-grandson, came the Italian company TIP, while Beta continued to grow thanks to new and innovative products",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Beta Utensili: Company profile",
+      "date": "2026",
+      "url": "https://gruppo-beta.com/en/the-group/company-profile/",
+      "quote": "In a century of history the company has grown thanks to the entrepreneurial spirit of the Ciceri family, culminating in the foundation of Beta Group",
+      "note": "The same page attributes its lead paragraph to 'Roberto Ciceri, President and CEO'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
