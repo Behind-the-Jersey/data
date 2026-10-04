@@ -1,0 +1,33 @@
+{
+  "id": "clear-group-goldman-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "the-clear-group",
+    "goldman-sachs-group"
+  ],
+  "text": "The Clear Group, the UK independent insurance broker, is owned by Private Equity at Goldman Sachs Alternatives; Business Insurance separately reports that Clear Insurance Management Ltd. is majority owned by The Goldman Sachs Group, Inc.",
+  "short": "The Clear Group is owned by Goldman Sachs (Private Equity at Goldman Sachs Alternatives).",
+  "source": {
+    "name": "Insurance Journal — Clear Group Acquires Lilley Plummer Risks, Entering Wholesale Lloyd's Broker Space",
+    "date": "2024-10-29",
+    "url": "https://www.insurancejournal.com/news/international/2024/10/29/798981.htm",
+    "quote": "Clear Group, the UK independent insurance broker that is owned by Private Equity at Goldman Sachs Alternatives, has entered the wholesale Lloyd’s broker space",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Business Insurance — Clear Group buys Lilley Plummer Holdings from B.P. Marsh",
+      "date": "2024-10-30",
+      "url": "https://www.businessinsurance.com/clear-group-buys-lilley-plummer-holdings-from-b-p-marsh/",
+      "quote": "U.K.-based chartered insurance broker Clear Insurance Management Ltd., majority owned by The Goldman Sachs Group, Inc., has acquired specialist Lloyd’s broker Lilley Plummer Holdings Ltd.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
