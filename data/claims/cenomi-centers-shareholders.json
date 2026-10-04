@@ -1,0 +1,21 @@
+{
+  "id": "cenomi-centers-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "cenomi-centers"
+  ],
+  "text": "Cenomi Centers is chaired by Fawaz Al Hokair; its 2024 annual report's Major Shareholders List names FAS Real Estate Co. (28.0% at the end of 2024), Abdulmajid Al-Hokair (7.9%), Salman Al-Hokair (7.3%), Al Farida Al-Thaniah Co. (3.8%) and Fawaz Al-Hokair (3.2%).",
+  "short": "Cenomi Centers is led by the Al Hokair family and FAS Real Estate.",
+  "source": {
+    "name": "Cenomi Centers: Annual Report 2024 (p. 90: Major Shareholders List)",
+    "date": "2025-04",
+    "url": "https://centers.cenomi.com/wp-content/uploads/sites/2/2025/04/2024_Annual_Report_EN.pdf",
+    "quote": "FAS Real Estate Co. 176,757,322 37.2% 133,143,550 28.0%",
+    "note": "Major Shareholders List (p. 90, year-end 2024; PDF reviewed via text extraction on 2026-10-04). Fawaz Al Hokair is chairman per the report ('Fawaz Alhokair, Chairman', p. 3).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
