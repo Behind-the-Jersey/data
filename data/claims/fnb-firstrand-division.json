@@ -1,0 +1,20 @@
+{
+  "id": "fnb-firstrand-division",
+  "kind": "ownership",
+  "ownerIds": [
+    "firstrand-bank-limited"
+  ],
+  "text": "First National Bank - a division of FirstRand Bank Limited.",
+  "short": "FNB is a division of FirstRand Bank Limited.",
+  "source": {
+    "name": "FNB (First National Bank) website - Bank page footer",
+    "date": "2026",
+    "url": "https://www.fnb.co.za/bank.html",
+    "quote": "First National Bank - a division of FirstRand Bank Limited. An Authorised Financial Services and Credit Provider 1929/001225/06 (NCRCP20).",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

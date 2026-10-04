@@ -1,14 +1,18 @@
 {
   "id": "fnb",
   "name": "FNB",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "first national bank"
+  "ownerId": "firstrand-bank-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "FNB is a division of FirstRand Bank Limited, a wholly owned subsidiary of JSE-listed FirstRand Limited. No state owner in the chain and no qualifying human-rights finding found. Nothing found.",
+  "claimIds": [
+    "fnb-firstrand-division",
+    "firstrand-bank-ownership"
   ],
-  "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
+  "aliases": [
+    "first national bank",
+    "First National Bank"
+  ],
+  "note": "Front-of-shirt sponsor of the Springboks since the March 2025 announcement (first worn vs Italy, 5 July 2025); the gold FNB logo sits centre chest on the 2026/27 home jersey. Rated in the rugby-south-africa rating sweep (issue #727)."
 }
