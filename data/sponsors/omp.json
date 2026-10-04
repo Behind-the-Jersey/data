@@ -3,15 +3,15 @@
   "name": "OMP",
   "ownerId": "racing-force-spa",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of Racing Force S.p.A. (Euronext Growth Milan): SAYE S.p.A. holds 49.27%, the rest is free float. Nothing found.",
   "claimIds": [
-    "omp-racing-force-brand",
-    "racing-force-saye-stake"
+    "omp-racing-force-ownership",
+    "racing-force-saye-ownership"
   ],
   "aliases": [
     "OMP Racing"
   ],
-  "note": "Technical Partner of Envision Racing (racewear). OMP is a brand of Racing Force Group (Racing Force S.p.A.), listed on Euronext Growth Milan; its shareholder page shows SAYE S.p.A. with 49.27% of the share capital and the remaining 50.52% on the market. SAYE S.p.A.'s own ownership was not sourced in this pass, so the chain does not reach the real owner of the largest stake and the sponsor stays unrated. No human-rights finding of the kind METHOD.md counts was located."
+  "note": "Iron Lynx partner, listed in the team's partner block after ItalianGesture and before Prisma (ironlynx.com/racing, checked 2026-10-03). Also Technical Partner of Envision Racing in Season 12 (2025/26): OMP is listed under 'TECHNICAL PARTNERS' on the club's partners page (live page and archived captures of 9 December 2025 and 7 January 2026)."
 }

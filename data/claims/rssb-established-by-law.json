@@ -1,0 +1,34 @@
+{
+  "id": "rssb-established-by-law",
+  "kind": "ownership",
+  "ownerIds": [
+    "rssb",
+    "government-of-rwanda"
+  ],
+  "text": "Rwanda's Law N° 009/2021 of 16/02/2021 established the Rwanda Social Security Board (RSSB), and its supervising authority is Rwanda's Ministry in charge of finance. Ecofin Agency described RSSB as \"a major public institution\".",
+  "short": "RSSB is a Rwandan state institution supervised by the Ministry in charge of finance",
+  "source": {
+    "name": "Official Gazette of the Republic of Rwanda: LAW N° 009/2021 OF 16/02/2021 establishing Rwanda Social Security Board",
+    "date": "2021-02-17",
+    "url": "https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Laws_of_Rwanda_v2/Domestic_laws/Laws_in_force/10._Business/10.4._Insurance/10.4.4._Social_Security/10.4.4.3_establishing_Rwanda_Social_Security_Board_law_no_009_of_2021.pdf",
+    "note": "Articles 2 and 5: RSSB is established as a specialised organ; 'The supervising authority of RSSB is the Ministry in charge of finance.'",
+    "quote": "The supervising authority of RSSB is the Ministry in charge of finance.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Ecofin Agency: Rwanda's RSSB Tigers hand country first continental basketball crown amid growing sports economy ambitions",
+      "date": "2026-06-01",
+      "url": "https://www.ecofinagency.com/news-culture/0106-56024-rwandas-rssb-tigers-hand-country-first-continental-basketball-crown-amid-growing-sports-economy-ambitions",
+      "quote": "the club was taken over by the Rwanda Social Security Board (RSSB) in 2025 and rebranded as RSSB Tigers. The acquisition gave the club the backing of a major public institution",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hph-optum-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "optum"
+  ],
+  "text": "Human Powered Health is a US healthcare company and a subsidiary of Optum, which is itself part of UnitedHealth Group.",
+  "short": "Human Powered Health is a subsidiary of Optum, part of UnitedHealth Group.",
+  "source": {
+    "name": "The Inner Ring: Women's Pro Team Sponsors Explained",
+    "date": "2026-08-05",
+    "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/",
+    "quote": "a subsidiary of Optum which is itself part of UnitedHealth group, the American health and insurance giant",
+    "note": "The full sentence describes Human Powered Health as 'a US healthcare company that specialises helping to promote athletic health, offering nutritional advice and VO2 max testing for example and a subsidiary of Optum which is itself part of UnitedHealth group, the American health and insurance giant.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

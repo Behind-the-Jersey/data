@@ -1,0 +1,54 @@
+{
+  "id": "silk-road-fund-sibur-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "sibur",
+    "silk-road-fund",
+    "government-of-china"
+  ],
+  "text": "China's Silk Road Fund closed its acquisition of a 10% stake in SIBUR in January 2017, with the right to nominate a member of SIBUR's board of directors; SIBUR's latest disclosure (2024) lists Silk Road Fund with 8.5% of SIBUR Holding. Russia's Federal Antimonopoly Service described the acquiring entity as the Silk Road Fund subsidiary 'controlled by the People's Republic of China'.",
+  "short": "China's state Silk Road Fund holds 8.5% of SIBUR Holding.",
+  "source": {
+    "name": "Interfax: SIBUR nearly doubles RAS profit to 166 bln rubles in 9M",
+    "date": "2024-11-05",
+    "url": "https://interfax.com/newsroom/top-stories/107356/",
+    "quote": "SIBUR's principal shareholders, according to the latest disclosure, are Leonid Mikhelson with 31%, Gennady Timchenko with 14.45%, China's Sinopec and Silk Road Fund with 8.5% each, Sogaz with 10.625%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SIBUR press release: Silk Road Fund successfully closed the Acquisition of a 10% Stake in SIBUR",
+      "date": "2017-01-25",
+      "url": "https://www.sibur.ru/en/press-center/news-and-press/SilkRoadFundsuccessfullyclosedtheAcquisitionofa10StakeinSIBUR/",
+      "quote": "the shareholders of SIBUR, the largest gas processing and petrochemicals group in Russia, and the Silk Road Fund (SRF), a Chinese investment fund closed the deal on acquisition of 10% equity stake in SIBUR by SRF",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "SIBUR press release: 10% stake in SIBUR to be sold to China's Silk Road Fund",
+      "date": "2016-12-14",
+      "url": "https://www.sibur.ru/en/press-center/news-and-press/10stakeinSIBURtobesoldtoChinasSilkRoadFund/",
+      "quote": "The Silk Road Fund is a financial investor and will have an opportunity to nominate its representative to SIBUR's Board of Directors.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "TASS: Russia approves Silk Road Fund subsidiary purchasing 10% stake in Sibur",
+      "date": "2017-01-11",
+      "url": "https://tass.com/economy/924458",
+      "quote": "acquisition of a 10% stake in Russian Sibur holding by the Silk Road Fund subsidiary, controlled by the People's Republic of China",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

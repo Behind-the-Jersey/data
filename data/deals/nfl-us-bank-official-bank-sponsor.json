@@ -1,0 +1,22 @@
+{
+  "id": "nfl-us-bank-official-bank-sponsor",
+  "clubId": null,
+  "orgName": "NFL",
+  "sponsorId": "us-bank",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "U.S. Bancorp - NFL and U.S. Bank Announce Partnership Centered on Banking and Wealth Management",
+    "date": "2026-04-07",
+    "url": "https://ir.usbank.com/news-events/news/news-details/2026/NFL-and-U-S--Bank-Announce-Partnership-Centered-on-Banking-and-Wealth-Management/default.aspx",
+    "quote": "The National Football League and U.S. Bank announced today a multi-year partnership, naming U.S. Bank as a new official bank and wealth management sponsor of the NFL.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "leagueId": "nfl",
+  "note": "Multi-year league partnership from 2026: U.S. Bank is presenting sponsor of the Super Bowl MVP Award (from Super Bowl LXI) and a top-tier sponsor of the NFL FLAG Championships. The 49ers' own U.S. Bank deals are separate records."
+}
