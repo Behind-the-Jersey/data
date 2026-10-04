@@ -1,0 +1,21 @@
+{
+  "id": "bmw-ag-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "bmw-ag"
+  ],
+  "text": "Per BMW AG's report for financial year 2025, the direct or indirect holdings exceeding 10% of BMW AG's voting rights at 31 December 2025 (based on voluntary notifications by the shareholders) are Stefan Quandt (0.2% direct, 27.5% indirect, via the AQTON vehicles) and Susanne Klatten (0.2% direct, 22.3% indirect, incl. via Susanne Klatten Beteiligungs GmbH).",
+  "short": "Holders of voting-rights stakes over 10% in BMW AG are Stefan Quandt (27.7% incl. AQTON vehicles) and Susanne Klatten (22.5%).",
+  "source": {
+    "name": "BMW Group Report 2025 (BMW AG), 'Disclosures Relevant for Takeovers', p. 267",
+    "date": "2026",
+    "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/bericht/BMW-Group-Report-2025-en.pdf",
+    "note": "Trailing digits are the table's footnote markers (27.5% footnote 2, 22.3% footnote 5). The page header reads 'the following direct or indirect holdings exceeding 10% of the voting rights at the end of the reporting period were held at the stated reporting date'.",
+    "quote": "Stefan Quandt, Germany 0.2 27.52 AQTON SE, Bad Homburg v. d. Höhe, Germany 9.7 17.83 AQTON Verwaltung GmbH, Bad Homburg v. d. Höhe, Germany – 17.84 AQTON GmbH & Co. KG für Automobilwerte, Bad Homburg v. d. Höhe, Germany 17.8 – Susanne Klatten, Germany 0.2 22.35",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

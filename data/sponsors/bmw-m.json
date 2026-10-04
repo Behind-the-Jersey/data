@@ -2,13 +2,16 @@
   "id": "bmw-m",
   "name": "BMW M",
   "ownerId": "bmw-ag",
-  "ownership": null,
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "bmw-m-ownership",
+    "bmw-ag-shareholders"
+  ],
   "aliases": [
     "bmw m gmbh"
   ],
-  "note": "Official Car of MotoGP (motogp.com/en/sponsors). BMW M is BMW AG's high-performance/motorsport division; BMW AG is a Frankfurt-listed manufacturer with no state shareholder."
+  "note": "Title carried in the team name 'BMW M Team WRT' (BMW M Motorsport's WEC/IMSA works team operated by WRT). Ownership is sourced: BMW M GmbH is a 100% subsidiary of BMW AG (bmw-m-ownership); BMW AG's only voting-rights holdings above 10% are Stefan Quandt's (0.2% direct, 27.5% indirect via the AQTON vehicles) and Susanne Klatten's (0.2% direct, 22.3% indirect) (bmw-ag-shareholders). Left unrated (review of 2026-10-03, 'none' not kept): The Bureau of Investigative Journalism's 31 May 2025 investigation 'Did coerced labour build your car?' (https://www.thebureauinvestigates.com/stories/2025-05-31/did-coerced-labour-build-your-car) reports that 'car parts made by coerced workers in Hubei, Shandong and other manufacturing hubs across China have ended up in some of the world's most famous car brands: Mercedes, BMW, Volvo and Citroen', that Chinese state media says the Jinrui Technology engine-parts factory - where TBIJ found 2024 videos of Uyghur transfer workers - 'has also supplied BMW, General Motors, and the EVs of Jaguar Land Rover and BYD', and that BMW said it was investigating at least one supplier in response. The same TBIJ investigation already backs a record claim in this repo against Dongfeng (dongfeng-xinjiang-labour-transfers), so whether it passes the company record test for BMW needs a maintainer decision. Related lead: Sheffield Hallam/NomoGaia's 'Driving Force' report lists BMW among Joyson's automotive customers (unsourced here)."
 }
