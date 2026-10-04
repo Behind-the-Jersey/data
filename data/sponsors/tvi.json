@@ -1,15 +1,18 @@
 {
   "id": "tvi",
   "name": "TVI",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "media-capital",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Grupo Media Capital, SGPS, S.A., listed on Euronext Lisbon; its large shareholders are private Portuguese investment vehicles and individuals, largest Pluris Investments (37.11%), the vehicle of chairman Mário Ferreira. Nothing found.",
+  "claimIds": [
+    "media-capital-tvi-ownership",
+    "media-capital-shareholders-2025"
+  ],
   "aliases": [
     "televisao independente",
     "media capital"
   ],
-  "note": "Portuguese free-to-air TV channel (Media Capital group). Front-of-shirt sponsor at Moreirense in 2026-27."
+  "note": "Portuguese free-to-air TV channel of the Media Capital group. Upper-chest sponsor at Moreirense in 2026-27. Prisa (Spain) controlled Media Capital until November 2020; the group has no state in its chain (its own shareholder disclosure, 15 Sep 2025)."
 }

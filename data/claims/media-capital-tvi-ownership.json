@@ -1,0 +1,21 @@
+{
+  "id": "media-capital-tvi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "media-capital"
+  ],
+  "text": "TVI is the generalist television channel of Portuguese media group Grupo Media Capital, SGPS, S.A.: Media Capital's own website describes TVI on its 'Televisão' business page.",
+  "short": "TVI is part of the Media Capital group.",
+  "source": {
+    "name": "Media Capital: Televisão (group business page for TVI)",
+    "date": "2026",
+    "url": "https://mediacapital.pt/televisao/",
+    "quote": "A TVI é o canal generalista que revolucionou a televisão portuguesa no início do século XXI.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page undated; the 'Televisão' business area of mediacapital.pt. Translation: 'TVI is the generalist channel that revolutionised Portuguese television in the early 21st century.'"
+  },
+  "reviewed": false
+}
