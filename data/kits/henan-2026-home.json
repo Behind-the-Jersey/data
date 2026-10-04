@@ -1,0 +1,45 @@
+{
+  "id": "henan-2026-home",
+  "clubId": "henan",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "yangshao-caitaofang",
+      "placement": "front",
+      "source": {
+        "name": "足球报 (Soccer News) via Tencent News: 中超新气象：11队更换胸前广告，首轮上座再超去年 (New CSL picture: 11 clubs changed front-of-shirt ads)",
+        "date": "2026-03-09",
+        "url": "https://news.qq.com/rain/a/20260309A04NI200",
+        "note": "Translation: 'Henan changed its front-of-shirt advertising from Dukang and Huahuaniu to Yangshao Caitaofang.' Reporter: Lu Mi (记者鲁蜜). The Yangshao Liquor naming deal itself was signed at the club's 4 March 2026 season-launch ceremony (Dahe Finance Cube), after which the team competes as 'Henan FC Caitaofang'.",
+        "quote": "河南队将胸前广告从杜康、花花牛更换为仰韶彩陶坊",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "note": "Kit supplier for all 16 CSL clubs in 2026; Henan FC has its own section in the article (bespoke home design). Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers.",
+        "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 CSL home kit by Nike (league-wide release 28 January 2026). Front sponsor Yangshao Caitaofang (仰韶彩陶坊), the baijiu brand of Henan Yangshao Liquor; the naming-rights deal was signed at the 4 March 2026 season-launch ceremony and the club competes as 'Henan FC Caitaofang' this season. Back, sleeve and shorts placements could not be verified from sources we could open (Henan Daily's kit-launch page returns 403 to scripts; footballkitarchive.com 403s; the club's January sponsorship notice offered chest, back and kit-advertising slots but names no taker), so the list is not marked complete. 2025's front carried Dukang and Huahuaniu per the Soccer News report.",
+  "change": null
+}

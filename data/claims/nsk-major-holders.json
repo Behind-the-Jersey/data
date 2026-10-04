@@ -1,0 +1,20 @@
+{
+  "id": "nsk-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "nsk-ltd"
+  ],
+  "text": "NSK Ltd. is listed on the Prime Market of the Tokyo Stock Exchange. Its top ten shareholders as of 31 March 2026 were led by The Master Trust Bank of Japan (trust account) with 13.86%, Custody Bank of Japan (trust account) with 5.74% and Meiji Yasuda Life Insurance with 5.53%.",
+  "short": "NSK is listed on TSE Prime; top holders are trust banks and insurers.",
+  "source": {
+    "name": "NSK: Stock & Bond Information",
+    "date": "2026-03-31",
+    "url": "https://www.nsk.com/company/investors/stock-and-bond/",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 69,118 13.86%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

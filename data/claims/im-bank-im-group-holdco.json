@@ -1,0 +1,20 @@
+{
+  "id": "im-bank-im-group-holdco",
+  "kind": "ownership",
+  "ownerIds": [
+    "im-group-plc"
+  ],
+  "text": "I&M Group PLC, formerly I&M Holdings, is a non-operating holding company licensed under Kenya's Banking Act following a reverse takeover of City Trust Limited by I&M Bank Limited in June 2013.",
+  "source": {
+    "name": "I&M Group PLC: About Us (Who We Are)",
+    "date": "2025-08-02",
+    "url": "http://web.archive.org/web/20250802133940/https://www.imbankgroup.com/about-us/",
+    "quote": "licensed and approved as a non-operating holding company in accordance with the provisions of the Banking Act, Cap 488 Laws of Kenya following a reverse takeover of CTL by I&M Bank Limited",
+    "note": "Wayback Machine capture of 2 Aug 2025; the live imbankgroup.com page blocks automated access (Cloudflare 403).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

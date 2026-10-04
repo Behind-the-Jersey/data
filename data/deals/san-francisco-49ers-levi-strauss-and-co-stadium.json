@@ -4,13 +4,25 @@
   "orgName": "Levi Strauss & Co. (Levi's)",
   "sponsorId": "levi-strauss-and-co",
   "placement": "stadium",
-  "from": null,
-  "to": null,
-  "value": null,
-  "source": {
-    "name": "Levi Strauss & Co.",
-    "date": "2024-01-25",
-    "url": "https://levistrauss.com/2024/01/25/lsco-extends-levis-stadium-naming-rights-and-49ers-partnership"
+  "from": "2013",
+  "to": "2043",
+  "value": {
+    "amount": 170,
+    "currency": "USD",
+    "unit": "million",
+    "per": "10-year extension, naming rights and team sponsorship combined",
+    "upTo": false,
+    "usdApprox": 170000000
   },
-  "note": "Arena naming rights: Levi's Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-01-25."
+  "source": {
+    "name": "Levi Strauss & Co. - LS&Co. Extends Levi's Stadium Naming Rights and 49ers Partnership",
+    "date": "2024-01-25",
+    "url": "https://levistrauss.com/2024/01/25/lsco-extends-levis-stadium-naming-rights-and-49ers-partnership",
+    "quote": "announced the proposal for a 10-year extension to the naming rights for Levi’s® Stadium and team sponsorship, worth a combined $170 million",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Stadium naming rights: Levi's Stadium. LS&Co. secured the naming rights in 2013; the January 2024 proposal extends them through the 2043 NFL season. The $170 million is the reported value of the 10-year extension (naming rights plus team sponsorship combined), not of the whole 2013-2043 relationship."
 }
