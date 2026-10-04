@@ -1,0 +1,35 @@
+{
+  "id": "oatly-nativus-china-resources-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "nativus-company-limited",
+    "china-resources-group",
+    "government-of-china"
+  ],
+  "text": "As of 31 December 2025, Oatly Group AB's largest shareholder is Nativus Company Limited and affiliated entities, holding about 43.5% of voting power. Nativus is a wholly owned subsidiary of CR Verlinvest Health Investment Limited, a 50/50 joint venture of Verlinvest S.A. and China Resources' Blossom Key (Hong Kong) Holdings Limited, wholly owned up to China Resources Company Limited, where China's State-owned Assets Supervision and Administration Commission and the National Council for Social Security Fund perform the duty of investor on behalf of the State Council. CRVV's CEO Yawen Wu sits on Oatly's board of directors.",
+  "short": "Oatly's largest shareholder (~43.5% of votes) is a wholly-owned vehicle of the China Resources–Verlinvest joint venture; the Chinese state performs the investor duty over China Resources.",
+  "source": {
+    "name": "Oatly Group AB — Form 20-F for 2025, filed with the SEC",
+    "date": "2026-03-13",
+    "url": "https://www.sec.gov/Archives/edgar/data/1843586/000184358626000004/otly-20251231.htm",
+    "quote": "our largest shareholder, Nativus Company Limited and entities affiliated with CR Verlinvest Health Investment Limited (“CRVV”) owned, in the aggregate, approximately 43.5% of the voting power",
+    "note": "Same filing: 'Nativus Company Limited is a wholly owned subsidiary of CRVV, which is a joint venture that is 50% owned by Verlinvest S.A. and 50% owned by Blossom Key (Hong Kong) Holdings Limited'; 'The State-owned Assets Supervision and Administration Commission of the State Council and the National Council for Social Security Fund of the People’s Republic of China perform the duty of investor (as to 90.0222% and 9.9778%) of China Resources Company Limited'; and director biography: Yawen Wu 'has served as a member of our Board of Directors since January 2021' and 'as CEO at CR Verlinvest Health Investment Limited since September 2019'.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "ION Analytics / Mergermarket: Oatly Group explores China business carveout",
+      "date": "2025-07-16",
+      "url": "https://ionanalytics.com/insights/mergermarket/oatly-group-explores-china-business-carveout/",
+      "quote": "The company’s biggest shareholder is China Resources Verlinvest Health Investment, with a 45.4% stake.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

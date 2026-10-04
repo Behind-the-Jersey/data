@@ -1,0 +1,28 @@
+{
+  "id": "poc",
+  "name": "POC",
+  "ownerId": "investcorp",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Owned by Investcorp since 2015; Abu Dhabi's sovereign wealth fund Mubadala holds 20% of Investcorp and a board seat (Investcorp's March 2026 corporate presentation). The UAE has a documented record of jailing dissidents in a mass trial.",
+  "claimIds": [
+    "uae-mass-trial-2024",
+    "poc-investcorp-acquisition",
+    "investcorp-mubadala-stake"
+  ],
+  "aliases": [
+    "POC Sports"
+  ],
+  "note": "Swedish helmet and apparel maker; small 'poc' logo at the jersey collar (front and the top of the back) on EF Education-EasyPost's 2026 kit. Rating note: proposed 'concern' — Mubadala, wholly owned by the Government of Abu Dhabi (mubadala-abu-dhabi-ownership), holds 20% of POC's owner Investcorp and sits on its board (both above the 5%/board-seat threshold, no control); the UAE record is on main (uae-mass-trial-2024). 'Other GCC sovereign entities' hold a further 33% of Investcorp but are unnamed (three shareholders); the same presentation's board list also names Sh. Abdulrahman Al-Thani, 'Minister of State, State of Qatar', as a director. ON HOLD: a proposed 'concern' rating awaits a maintainer's review.",
+  "why": {
+    "text": "POC is owned by Investcorp, and Abu Dhabi's sovereign wealth fund Mubadala holds 20% of Investcorp along with a seat on its board, per Investcorp's own March 2026 corporate presentation. In July 2024 a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "poc-investcorp-acquisition",
+      "investcorp-mubadala-stake"
+    ],
+    "messageLine": "POC: Abu Dhabi's state fund Mubadala owns 20% of POC's owner Investcorp and sits on its board; UAE courts jailed dissidents for life after a mass trial.",
+    "status": "draft"
+  }
+}

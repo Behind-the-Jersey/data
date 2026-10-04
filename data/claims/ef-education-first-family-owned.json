@@ -1,0 +1,20 @@
+{
+  "id": "ef-education-first-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "ef-education-first"
+  ],
+  "text": "EF Education First is a family-owned independent company, founded in Sweden by Bertil Hult, according to EF's own site (EF Study Abroad, © Signum International AG).",
+  "short": "EF Education First is family-owned, founded by Bertil Hult.",
+  "source": {
+    "name": "EF Study Abroad: Who we are",
+    "date": "2026",
+    "url": "https://www.efstudyabroad.com/about-us/who-we-are",
+    "quote": "Founded over 50 years ago in Sweden by Bertil Hult, EF is a family-owned independent company",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
