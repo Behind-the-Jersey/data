@@ -1,0 +1,20 @@
+{
+  "id": "ebury-santander-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "banco-santander-sa"
+  ],
+  "text": "Banco Santander, S.A. is Ebury's majority shareholder with a 55% stake, and remains so after the April 2026 funding rounds led by Centerbridge.",
+  "short": "Banco Santander keeps a 55% majority stake in Ebury.",
+  "source": {
+    "name": "Ebury: Ebury, Santander's international payments fintech, secures c.£550 million to accelerate growth and global expansion (press release)",
+    "date": "2026-04-30",
+    "url": "https://ebury.com/company/press-releases/ebury-santanders-international-payments-fintech-secures-c-ps550-million-to-accelerate-growth-and-global-expansion",
+    "quote": "Santander invest £50 million and remain Ebury's majority shareholder with a 55% stake",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
