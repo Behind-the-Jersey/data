@@ -1,12 +1,16 @@
 {
   "id": "flyhouse",
   "name": "FlyHouse",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  "ownerId": "flyhouse",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A private US private-aviation company founded by its chairman, Sanford Michelman. Nothing found.",
+  "claimIds": [
+    "flyhouse-michelman-ownership"
+  ],
+  "aliases": [
+    "FlyHouse Aviation"
+  ],
+  "note": "Official Race Partner of the NorthStar SailGP Team since the 2025 Season; the partnership continues into the 2026 Season (SailGP press releases, 7 Mar 2025 and 15 Jan 2026). Rating note (2026-10-03): FlyHouse's founder and chairman is Sanford Michelman (Business Jet Traveler, 6 Jan 2026); his own law-firm bio says he 'founded and is Chairman of FlyHouse'. Its share register isn't public; no source names a state or state-fund shareholder, and no human-rights finding against the company was found."
 }
