@@ -1,0 +1,20 @@
+{
+  "id": "deutsche-bank-ag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "deutsche-bank-ag"
+  ],
+  "text": "Deutsche Bank is Deutsche Bank AG, Frankfurt am Main, a listed German stock corporation whose shares are widely held. Its disclosed major shareholders under s.33 of the German Securities Trading Act are BlackRock Inc. (8.14% of voting rights), Paramount Service Holding Ltd. (4.91%) and Amundi S.A. (3.02%).",
+  "short": "Deutsche Bank AG is a listed German company; largest disclosed holders are BlackRock (8.14%), Paramount Service Holding (4.91%) and Amundi (3.02%).",
+  "source": {
+    "name": "Deutsche Bank Investor Relations: Shareholder Structure",
+    "date": "2026",
+    "url": "https://investor-relations.db.com/share/shareholder-structure",
+    "quote": "overall 8.14% of the voting rights. held by BlackRock Inc., Wilmington, Delaware, USA",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -2,13 +2,16 @@
   "id": "ag-insurance",
   "name": "AG Insurance",
   "ownerId": "ageas",
-  "ownership": "part-owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "AG Insurance is wholly owned by Ageas, Belgium's largest insurer, listed on Euronext Brussels; BNP Paribas holds 22.5% of Ageas with a board nomination. Nothing found.",
+  "claimIds": [
+    "ageas-ag-insurance-sole-owner",
+    "bnp-paribas-ageas-stake"
+  ],
   "aliases": [
     "ag insurance - soudal"
   ],
-  "note": "Belgian insurer founded 1824, 75% owned by Ageas, 25% by BNP Paribas Fortis; title sponsor of AG Insurance-Soudal (Cyclist, 2026-07-14)."
+  "note": "Belgian insurer founded 1824; co-title sponsor of AG Insurance-Soudal (team kit launch, 2025-12-17). Rating note: Ageas completed the buy-out of BNP Paribas Fortis's 25% stake in 2026 (claims ageas-ag-insurance-sole-owner, bnp-paribas-ageas-stake). Ageas is Euronext-listed; largest shareholder BNP Paribas (French listed company) holds 22.5%; the Belgian state holding SFPI/FPIM stake in BNP Paribas (~5%) would reach AG Insurance at only ~1.1%, and neither Belgium nor France has a record under METHOD.md. BNP Paribas's 2014 Sudan sanctions case is a financial/sanctions record, excluded by METHOD.md. No human-rights finding against AG Insurance or Ageas found."
 }

@@ -1,0 +1,34 @@
+{
+  "id": "megafon-usm-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "usm"
+  ],
+  "text": "MegaFon PJSC is wholly owned by Alisher Usmanov's USM Holding: MegaFon's CEO told RIA Novosti in 2020 that all MegaFon shares were consolidated at shareholder USM, and MegaFon's 2022 annual report lists OOO USM Telecom (50%) and OOO AF Telecom Holding (50%, whose sole owner is USM Telecom) as its only shareholders.",
+  "short": "MegaFon is 100% owned by Alisher Usmanov's USM Holding.",
+  "source": {
+    "name": "Prime via finance.rambler.ru: Холдинг USM консолидировал 100% акций \"Мегафона\"",
+    "date": "2020-03-26",
+    "url": "https://finance.rambler.ru/business/43911193-holding-usm-konsolidiroval-100-aktsiy-megafona/",
+    "quote": "USM Holding Алишера Усманова консолидировал 100% акций \"Мегафона\", сообщил РИА Новости гендиректор оператора Геворк Вермишян.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Translation: 'Alisher Usmanov's USM Holding consolidated 100% of MegaFon shares, MegaFon CEO Gevork Vermishyan told RIA Novosti.' Same page, quoting Vermishyan: 'все акции \"Мегафона\" будут консолидированы у акционера компании – USM' (all MegaFon shares consolidated at shareholder USM), and on the pre-deal structure: AF Telecom Holding's sole owner is USM Telecom (ООО \"ЮэСэМ Телеком\")."
+  },
+  "additionalSources": [
+    {
+      "name": "MegaFon PJSC: Годовой отчет за 2022 год (annual report, PDF), p. 2",
+      "date": "2023",
+      "url": "https://corp.megafon.ru/download/~federal/corp/investoram/report/year_reports/megafon_year_report_2022.pdf",
+      "quote": "акционерами ПАО «МегаФон» являлись ООО «АФ Телеком Холдинг» (50%) и ООО «ЮэСэМ Телеком» (50%), которые в совокупности владели 100% уставного капитала Компании",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'the shareholders of MegaFon PJSC were AF Telecom Holding LLC (50%) and USM Telecom LLC (50%), which together owned 100% of the company's charter capital.' Same page: 'Государство в уставном капитале Компании не участвует' (the state does not participate in the company's charter capital). MegaFon's 2025 IFRS financial statements (p. 9, https://corp.megafon.ru/download/~federal/corp/investoram/report/msfo/megafon_2025_ifrs_fs_rus.pdf) state that as of 31.12.2025 the shares are held 50/50 by 'Participant 1' and its 100% owner 'Participant 2', both ultimately controlled by 'Participant 3', itself owned by a group of participants no single one of which controls it; disclosure is limited under Government Decree No 1102 of 04.07.2023."
+    }
+  ],
+  "reviewed": false
+}

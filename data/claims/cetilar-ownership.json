@@ -1,0 +1,21 @@
+{
+  "id": "cetilar-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pharmanutra"
+  ],
+  "text": "Cetilar is a brand of PharmaNutra S.p.A.",
+  "short": "Cetilar is a brand of PharmaNutra S.p.A.",
+  "source": {
+    "name": "Cetilar – Cetilar.com home page (footer)",
+    "date": "2026",
+    "url": "https://www.cetilar.com/en/",
+    "note": "The Cetilar brand's own site states the owner in its footer. The page itself is undated.",
+    "quote": "Cetilar is a brand of Pharmanutra S.p.A.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
