@@ -3,9 +3,9 @@
   "name": "Hailiang Agriculture",
   "ownerId": "shanghai-hailiang-agriculture-group",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Hailiang Agriculture (海粮农业), a private Chinese grain group: Liaoning Hailiang Agriculture Group, which signed the Liaoning Tieren partnership, is a wholly-owned subsidiary, and parent Shanghai Hailiang Agriculture Group is held by natural persons Lu Yiming and Wang Abing. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "hailiang-agriculture-ownership"
   ],
@@ -15,5 +15,5 @@
     "辽宁海粮农业集团有限公司",
     "上海海粮农业集团有限公司"
   ],
-  "note": "Back-of-shirt sponsor of Liaoning Tieren for the 2026 CSL season; the club announced the strategic partnership on 11 January 2026 (Dongqiudi/Tencent News). Rating note: ownership documented (claim hailiang-agriculture-ownership: two natural-person shareholders, per the group's own subsidiaries page and a registry aggregator). No state in the chain, and a check for court, regulator, UN or major-NGO human-rights findings against the group found none (searched 2026-10-03)."
+  "note": "Back-of-shirt sponsor of Liaoning Tieren for the 2026 CSL season; the club announced the strategic partnership on 11 January 2026 (Dongqiudi/Tencent News). Rating note: the group's own subsidiaries page confirms Liaoning Hailiang Agriculture Group is a wholly-owned subsidiary of the Hailiang Agriculture Group (claim hailiang-agriculture-ownership). The claim's named real owners (two natural persons, Lu Yiming and Wang Abing, per registry aggregator Qichamao) could not be verified: qichamao.com answers every address — real or made up — with the same login-wall page, so neither CI nor this review could open it, and no other openable page names the shareholders. 'nothing found' needs a claim naming the owner (CONTRIBUTING), so the sponsor stays unrated until a person opens the Qichamao page and confirms the shareholders section; if it holds, the record supports none (no state in the chain; a check for court, regulator, UN or major-NGO human-rights findings against the group found none, searched 2026-10-03)."
 }
