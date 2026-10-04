@@ -1,0 +1,29 @@
+{
+  "id": "national-maritime-museum-of-china",
+  "name": "National Maritime Museum of China (国海博)",
+  "ownerId": "national-maritime-museum-of-china",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "The National Maritime Museum of China, a state-run public institution in Tianjin's Binhai New Area, is Tianjin Jinmen Tiger's 2026 chest sponsor under its '国海博' wordmark.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "nmmc-state-co-management"
+  ],
+  "aliases": [
+    "国海博",
+    "国家海洋博物馆",
+    "天津·国家海洋博物馆",
+    "National Maritime Museum of China"
+  ],
+  "why": {
+    "text": "The National Maritime Museum of China — '国海博' on Tianjin Jinmen Tiger's shirt — is a public institution co-managed by China's Ministry of Natural Resources and the Tianjin municipal government. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind the museum's shirt deal is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "nmmc-state-co-management"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claim nmmc-state-co-management: the museum is a public-benefit cultural institution co-built and co-managed by the Ministry of Natural Resources and the Tianjin Municipal People's Government, directly under the Binhai New Area People's Government; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment: UN OHCHR 2022 Xinjiang assessment plus Human Rights Watch 2026) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers)."
+}

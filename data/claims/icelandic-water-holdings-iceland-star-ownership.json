@@ -1,0 +1,43 @@
+{
+  "id": "icelandic-water-holdings-iceland-star-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "icelandic-water-holdings",
+    "iceland-star-property"
+  ],
+  "text": "In 2023 Icelandic Glacial's shareholders sold a substantial stake in the business to a new investor group investing through Liechtenstein-based holding company Iceland Star Property Ltd., which became the new incoming majority shareholder; the Icelandic founders and Blackrock-managed funds remained significant shareholders.",
+  "short": "Iceland Star Property Ltd. became Icelandic Water Holdings' incoming majority shareholder in 2023",
+  "source": {
+    "name": "PR Newswire - Icelandic Glacial Announces new investment, new shareholder structure and expansion of operations",
+    "date": "2023-09-06",
+    "url": "https://www.prnewswire.com/news-releases/icelandic-glacial-announces-new-investment-new-shareholder-structure-and-expansion-of-operations-301918562.html",
+    "quote": "The new investor group, through an investment holding company based in Liechtenstein, will acquire a substantial stake",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Icelandic Glacial - Icelandic Glacial Announces New Investment, New Shareholder Structure and Expansion of Operations (company press page)",
+      "date": "2023-09-05",
+      "url": "https://icelandicglacial.com/blogs/news-events/icelandic-glacial-announces-new-investment-new-shareholder-structure-and-expansion-of-operations",
+      "quote": "to remain as significant shareholders in the company to together strengthen and support the growth of the business with the new incoming majority shareholder",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "BevNET - Icelandic Glacial Plans Facility Expansion, Retail Growth After Fundraise",
+      "date": "2023-09-08",
+      "url": "https://www.bevnet.com/news/2023/icelandic-glacial-plans-facility-expansion-retail-growth-after-fundraise",
+      "quote": "sell a \"substantial stake\" in the international brand to Iceland Star Property Ltd., a holding company based in Liechtenstein",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

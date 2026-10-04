@@ -1,0 +1,30 @@
+{
+  "id": "manthey-dk-engineering-2026-home",
+  "clubId": "manthey-dk-engineering",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 WEC season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "dk-engineering",
+      "placement": "front",
+      "source": {
+        "name": "FIAWEC.com: Manthey targets title hat-trick with 'strong' 2026 driving crews",
+        "date": "2025-12-17",
+        "url": "https://www.fiawec.com/en/news/manthey-targets-title-hat-trick-with-strong-2026-driving-crews/8600",
+        "note": "The front placement maps from the team title carried in the entry's full team name 'MANTHEY DK ENGINEERING' (fiawec.com car page for #91), as the WEC league notes provide. Manthey's own announcement of the line-up says the same: 'James Cottingham, Timur Boguslavskiy and Ayhancan Güven will be at the wheel of the 'Manthey DK Engineering' Porsche' (https://www.manthey-racing.com/manthey-unveils-strong-driver-line-2026-fia-world-endurance-championship-season, page without a date, first Wayback capture 15 January 2026).",
+        "quote": "In the sister #91 'Manthey DK Engineering' car, James Cottingham, Timur Boguslavskiy and Ayhancan Güven provide a blend of experience and new blood.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 FIA WEC LMGT3 #91 'Manthey DK Engineering' Porsche 911 GT3 R (James Cottingham, Timur Boguslavskiy, Ayhancan Güven), run by Manthey. DK Engineering, a British Ferrari specialist whose managing director drives the car, is the title partner, entered here as the front placement mapped from the team title. Only the title sponsor is recorded: car-livery placements do not fit the kit schema yet (WEC league notes), and the launch sources name no other partner on the #91 livery, so the sponsor list is not marked complete.",
+  "change": null
+}

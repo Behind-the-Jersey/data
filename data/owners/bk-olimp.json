@@ -1,8 +1,9 @@
 {
   "id": "bk-olimp",
-  "name": "ООО «БК «Олимп» (OLIMPBET bookmaker)",
+  "name": "OOO BK Olimp (bookmaker Olimpbet)",
   "type": "private-company",
+  "parentId": "zevs",
   "country": "Russia",
-  "parentId": "zevs-ooo",
-  "note": "Licensed bookmaker (ФНС/EGRUL: ООО \"БК \"Олимп\", ИНН 7726705980) operating the OLIMPBET brand (olimp.bet). Per EGRUL data republished by RusProfile (archived 2025-12-22), 97.5% is held by ООО «Зевс» and 2.5% by its long-time general director Sergey Kozyavkin."
+  "via": "OOO Zevs holds 97.5%; BK Olimp general director Sergey Kozyavkin holds 2.5%",
+  "note": "Russian bookmaker (OGRN 1127747004648, Moscow) that operates the Olimpbet brand."
 }

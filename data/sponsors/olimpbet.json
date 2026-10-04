@@ -5,14 +5,15 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Operated by ООО «БК «Олимп», 97.5% held by ООО «Зевс» of private individuals A. Petukhov and D. Denisova (50/50). Nothing found.",
+  "verdict": "Brand of Russian bookmaker OOO BK Olimp, whose owners are private individuals. Nothing found.",
   "claimIds": [
-    "bk-olimp-ownership",
-    "zevs-ooo-ownership"
+    "olimpbet-bk-olimp",
+    "bk-olimp-zevs-ownership",
+    "zevs-denisova-petukhov"
   ],
   "aliases": [
     "Олимпбет",
     "olimp.bet"
   ],
-  "note": "Russian bookmaker, brand of the licensed operator ООО \"БК \"Олимп\" (ИНН 7726705980). Official partner of HC Spartak Moscow and several other KHL clubs (CSKA, Severstal, Sochi, Amur). Ownership traced to private individuals via EGRUL data (RusProfile); no human-rights findings against the company or owners identified."
+  "note": "Betting brand; official partner of several KHL clubs (CSKA, Severstal, Spartak, Sochi, Amur) and of SKA per the archived club site. Ownership traced to private individuals: OOO BK Olimp is 97.5% held by OOO Zevs, which is owned 50/50 by Darina Denisova and Andrey Petukhov (EGRUL via checko.ru)."
 }
