@@ -12,24 +12,79 @@
       "sponsorId": "atlantis-pak",
       "placement": "front",
       "source": {
-        "name": "FC Rostov – Sponsors and partners",
-        "date": "2026-09-25",
-        "url": "https://fc-rostov.ru/club/sponsors",
-        "note": "Титульный спонсор Атлантис-Пак."
+        "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+        "date": "2026-07-23",
+        "url": "https://t.me/s/fcrostov_official/31560",
+        "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+        "note": "Translation: 'Juicy summer photos of the shirts of our home kit.' The Atlantis-Pak (Атлантис-Пак) wordmark runs across the centre of the chest in the club's kit-launch photos (also carried by Sports.ru, 23 July 2026, and sold in the club shop, product 30406).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "fonbet",
-      "placement": "back",
+      "placement": "front",
       "source": {
-        "name": "FC Rostov – Sponsors and partners",
-        "date": "2026-09-25",
-        "url": "https://fc-rostov.ru/club/sponsors",
-        "note": "Официальный букмекер ФК \"Ростов\"."
+        "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+        "date": "2026-07-23",
+        "url": "https://t.me/s/fcrostov_official/31560",
+        "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+        "note": "The FONBET wordmark sits on the upper chest between the Jogel maker logo and the club crest, visible in the kit-launch photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fonbet",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+        "date": "2026-07-23",
+        "url": "https://t.me/s/fcrostov_official/31560",
+        "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+        "note": "A stacked FONBET wordmark is printed on the shirt sleeve, visible in several photos of the club's kit-launch set.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "alfa-bank",
+      "placement": "league-partner",
+      "source": {
+        "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+        "date": "2026-07-23",
+        "url": "https://t.me/s/fcrostov_official/31560",
+        "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+        "note": "The league sleeve patch (orange Alfa-Bank wordmark over a bear emblem on a blue shield) is visible on the sleeve; the league is branded 'Альфа-Банк РПЛ' (deal russian-premier-league-alfa-bank).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "jogel",
+      "placement": "partner",
+      "source": {
+        "name": "Sports.ru: «Ростов» показал желтую домашнюю форму сезона-2026/27",
+        "date": "2026-07-23",
+        "url": "https://www.sports.ru/football/1117309681-rostov-pokazal-zheltuyu-domashnyuyu-formu-sezona-2026-27.html",
+        "quote": "Комплект от бренда Jogel выполнен в традиционном для клуба желтом цвете, края рукавов и горловина отделаны тонкими черными полосками.",
+        "note": "Translation: 'The kit by the Jogel brand comes in the club's traditional yellow, with thin black trim on the sleeve cuffs and collar.' Jogel is the technical sponsor; its logo is on the right chest of the shirt. Photos: t.me/fcrostov_official/31560.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Atlantis-Pak title sponsor and Fonbet official bookmaker per the club sponsors page; shirt placements not confirmed against a kit launch.",
+  "summary": "2026/27 home kit by Jogel: Atlantis-Pak across the chest (front), FONBET on the upper chest and sleeve, the Alfa-Bank RPL league patch on the sleeve. All marks verified against the club's kit-launch photos (Telegram post 31560, 23 July 2026); no back-view photo was published, so back placements are unchecked, and premium sponsors MegaFon and Sovcombank have no confirmed shirt placement.",
   "change": null
 }
