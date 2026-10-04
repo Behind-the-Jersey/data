@@ -3,9 +3,9 @@
   "name": "MegaFon",
   "ownerId": "megafon",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "The MegaFon mobile operator is 100% owned by USM Group, the private holding of Alisher Usmanov. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "megafon-usm-ownership"
   ],
@@ -13,5 +13,5 @@
     "megafon",
     "МегаФон"
   ],
-  "note": "Owner attribution is from named press (The Moscow Times, Jan 2023; RBC, Feb 2023); MegaFon's own 2025 IFRS statements no longer name the controlling party (see owner note). Rating note: private owner; personal sanctions against Usmanov are not a record under METHOD.md, and no human-rights finding against MegaFon itself was found."
+  "note": "Zenit and Krylia Sovetov partner. Rating note: not rated. As of early 2023 named press (The Moscow Times, 30 Jan 2023; RBC, 21 Feb 2023) reported MegaFon 100% owned by Alisher Usmanov's private USM Group (claim megafon-usm-ownership, made historical). Since then the chain has gone opaque: MegaFon's 2025 IFRS statements (audited 5 Mar 2026) say the shares are held 50/50 by two Russia-registered companies whose common ultimate controlling entity is itself owned by a group of participants no one of whom controls it alone, with names withheld under Russia's 2023 sensitive-information rules (see the owner record). In 2023 Kommersant and RBC also reported state-controlled Rostelecom sought government approval to buy MegaFon; no completed sale is on record, and the 2024 annual report says the state holds no charter capital. The current ultimate owner is not publicly identified, so no 'none' rating can be justified until it is."
 }
