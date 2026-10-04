@@ -1,12 +1,20 @@
 {
   "id": "nedbank",
   "name": "Nedbank",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Title sponsor of the Nedbank Golf Challenge (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  "ownerId": "nedbank-zimbabwe",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The Nedbank brand on the Sables' shirt is Nedbank Zimbabwe, the Zimbabwean bank of JSE-listed Nedbank Group, in which Old Mutual holds a 19.9% minority stake. Nothing found.",
+  "claimIds": [
+    "nedbank-sables-headline-sponsor",
+    "nedbank-zimbabwe-group-ownership",
+    "nedbank-group-listed",
+    "nedbank-group-oldmutual-stake"
+  ],
+  "aliases": [
+    "Nedbank Zimbabwe",
+    "Nedbank Group"
+  ],
+  "note": "Front-of-shirt sponsor of the Zimbabwe Sables, worn at the World Rugby Nations Cup 2026 (official ZRU match-day graphic, 1 July 2026). Nedbank's brand name also titles the Nedbank Golf Challenge (event name, 2026 Race to Dubai schedule). Old Mutual's 19.9% stake is as stated for the 2018 unbundling; its current size was not separately sourced. No human-rights record of the kind METHOD.md counts was found for Nedbank Zimbabwe, Nedbank Group or Old Mutual."
 }

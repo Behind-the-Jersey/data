@@ -1,0 +1,21 @@
+{
+  "id": "nedbank-group-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "nedbank-group"
+  ],
+  "text": "Nedbank Group's primary listing is on the Johannesburg Stock Exchange (JSE).",
+  "short": "Nedbank Group is listed on the JSE.",
+  "source": {
+    "name": "Nedbank Group, 2025 Integrated Report",
+    "date": "2026",
+    "url": "https://group.nedbank.co.za/content/dam/group/pdf/21_integrated-reports/2025/integrated-report/2025-integrated-report-nedbank.pdf",
+    "quote": "Our financial reporting boundary covers reporting on the primary activities and financial results of Nedbank Group, with its primary listing on the JSE",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Page 5 of the 2025 Integrated Report (year ended 31 December 2025)."
+  },
+  "reviewed": false
+}
