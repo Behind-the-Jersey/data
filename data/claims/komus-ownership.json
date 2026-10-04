@@ -1,0 +1,22 @@
+{
+  "id": "komus-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tpgk",
+    "sergey-bobrikov"
+  ],
+  "text": "The Komus group's companies are owned by founder Sergey Bobrikov through ООО «ТПГК»; in that company he holds 96% and the remaining 4% is held by Komus CFO Gennady Lomasov (per Forbes, reported by vc.ru).",
+  "short": "Komus is owned by founder Sergey Bobrikov (96%, via ООО «ТПГК»); 4% is held by CFO Gennady Lomasov.",
+  "source": {
+    "name": "vc.ru: Forbes оценил состояние основателя «Комуса» Сергея Бобрикова в $800 млн",
+    "date": "2020-02-10",
+    "url": "https://vc.ru/money/106194-forbes-ocenil-sostoyanie-osnovatelya-komusa-sergeya-bobrikova-v-800-mln",
+    "quote": "В группу «Комус» входит более 20 компаний, которыми Бобриков владеет через ООО «ТПГК», уточняет Forbes. По данным издания, в этой компании ему принадлежит 96%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Russian: The Komus group comprises more than 20 companies owned by Bobrikov through ООО ТПГК; he holds 96% there, with the remaining 4% held by Gennady Lomasov. vc.ru report citing Forbes."
+  },
+  "reviewed": false
+}
