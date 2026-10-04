@@ -1,0 +1,34 @@
+{
+  "id": "bitburger-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bitburger-holding"
+  ],
+  "text": "Wera Werkzeuge, the Wuppertal screwing-tools maker, was taken over by Bitburger Holding in 2016; the Simon entrepreneur family behind Bitburger acts as Wera's shareholder. Bitburger Holding lists Wera as a majority share in its portfolio.",
+  "short": "Wera is majority-owned by Bitburger Holding (Simon family) since 2016.",
+  "source": {
+    "name": "kfz-betrieb (Vogel): 'Bitburger Holding kauft Werkzeughersteller Wera'",
+    "date": "2016-09-01",
+    "url": "https://www.kfz-betrieb.vogel.de/bitburger-holding-kauft-werkzeughersteller-wera-a-548717/",
+    "quote": "Die Bitburger Holding übernimmt im Herbst den Wuppertaler Werkzeughersteller Wera. Wie der Werkzeugspezialist mitteilte, wird künftig die Unternehmerfamilie Simon, die hinter Bitburger steht, als Gesellschafter von Wera auftreten",
+    "note": "Bitburger Holding is taking over the Wuppertal tool maker Wera in the autumn; in future the Simon entrepreneur family behind Bitburger will act as Wera's shareholder - provided the Federal Cartel Office approves the takeover.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bitburger Holding: Our Shareholdings",
+      "date": "2026",
+      "url": "https://www.bitburger-holding.de/en/shareholdings",
+      "quote": "Bitburger Holding currently holds stakes in five successful companies with long-term prospects.",
+      "note": "The page presents each holding by logo: the 'Tools' entry shows the Wera logo linking to www-de.wera.de, described as development and production of screwing tools, and captioned 'Majority share'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
