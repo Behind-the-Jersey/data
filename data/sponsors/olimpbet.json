@@ -5,14 +5,15 @@
   "ownership": "owned",
   "tier": "none",
   "status": "rated",
-  "verdict": "Russian bookmaker; its operator BK Olimp is 97.5% owned by Zevs LLC, a Moscow company belonging to private individuals Andrey Petukhov and Darina Denisova. Nothing found.",
+  "verdict": "Brand of Russian bookmaker OOO BK Olimp, whose owners are private individuals. Nothing found.",
   "claimIds": [
+    "olimpbet-bk-olimp",
     "bk-olimp-zevs-ownership",
-    "zevs-petukhov-denisova-ownership"
+    "zevs-denisova-petukhov"
   ],
   "aliases": [
     "Олимпбет",
     "olimp.bet"
   ],
-  "note": "Betting brand; official partner of several KHL clubs (CSKA, Dynamo, Spartak, Severstal, Amur, Admiral, Neftekhimik, Sochi, SKA) and title partner of the MHL and VHL. On Neftekhimik's shirt shoulders under a three-year deal announced September 2025. Ownership traced to private individuals, no state body or fund in the chain; no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 3 Oct 2026)."
+  "note": "Betting brand; official partner of several KHL clubs (CSKA, Severstal, Spartak, Sochi, Amur) and of SKA per the archived club site. Ownership traced to private individuals: OOO BK Olimp is 97.5% held by OOO Zevs, which is owned 50/50 by Darina Denisova and Andrey Petukhov (EGRUL via checko.ru)."
 }

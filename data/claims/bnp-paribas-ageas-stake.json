@@ -1,0 +1,22 @@
+{
+  "id": "bnp-paribas-ageas-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "bnp-paribas",
+    "ageas"
+  ],
+  "text": "Parallel to the sale of its AG Insurance stake, BNP Paribas Cardif increased its stake in Ageas from 14.9% to 22.5% with a €1.1 billion investment, and BNP Paribas nominated a non-executive director to the Ageas board.",
+  "short": "BNP Paribas holds 22.5% of Ageas, with a board nomination.",
+  "source": {
+    "name": "Reinsurance News: Ageas becomes sole owner of AG Insurance, renews bancassurance partnership with BNP Paribas",
+    "date": "2026-05-01",
+    "url": "https://www.reinsurancene.ws/ageas-becomes-sole-owner-of-ag-insurance-renews-bancassurance-partnership-with-bnp-paribas/",
+    "quote": "BNP Paribas Cardif has increased its stake in Ageas from 14.9% to 22.5% through a €1.1 billion investment",
+    "note": "Same article: 'BNP Paribas nominated Renaud Dumora for appointment as a non-executive member of the Board of Directors of Ageas SA/NV'. The 8 December 2025 Ageas press release (newsroom.ag.be) caps BNP Paribas at 25% minus one share.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

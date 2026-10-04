@@ -1,0 +1,21 @@
+{
+  "id": "ridley-belgian-cycling-factory-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "belgian-cycling-factory"
+  ],
+  "text": "Ridley is the bike brand of Belgian Cycling Factory of Beringen, Belgium, which describes itself as a 100% family-run company; the brand was founded by Jochim Aerts, who is the company's CEO.",
+  "short": "Ridley belongs to Belgian Cycling Factory, a 100% family-run Belgian company.",
+  "source": {
+    "name": "Ridley: About Ridley",
+    "date": "2026",
+    "url": "https://www.ridley-bikes.com/en_BE/about-ridley",
+    "quote": "Working at Belgian Cycling Factory, the parent company of Ridley, means working with passionate colleagues every day.",
+    "note": "Same page: 'To this day, Ridley remains a 100% family-run company' and 'Our founder and CEO Jochim Aerts'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

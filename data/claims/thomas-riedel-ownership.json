@@ -1,0 +1,32 @@
+{
+  "id": "thomas-riedel-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "thomas-riedel"
+  ],
+  "text": "The Riedel Group (Riedel Communications Group, Wuppertal) is fully privately owned by its founder Thomas Riedel.",
+  "short": "Riedel Group is fully privately owned by founder Thomas Riedel.",
+  "source": {
+    "name": "RIEDEL Networks: About us",
+    "date": "2026",
+    "url": "https://riedel-networks.net/en/about-us",
+    "quote": "As part of the RIEDEL Communications Group in Wuppertal, Germany, we are fully privately owned by Thomas Riedel",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Riedel Communications: About Riedel",
+      "date": "2026",
+      "url": "https://www.riedel.net/about/",
+      "quote": "The Riedel Group, led by founder and Group CEO Thomas Riedel, unites a diverse portfolio of technology companies and service providers",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

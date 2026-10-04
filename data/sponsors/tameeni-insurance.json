@@ -1,12 +1,17 @@
 {
   "id": "tameeni-insurance",
   "name": "Tameeni Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Present on several Saudi shirts (front/back)."
+  "ownerId": "rasan-information-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Tameeni is a subsidiary of Rasan Information Technology, a Saudi fintech listed on the Saudi Exchange (Tadawul: 8313). Nothing found.",
+  "claimIds": [
+    "tameeni-rasan-ownership"
+  ],
+  "aliases": [
+    "تأميني",
+    "Tameeni"
+  ],
+  "note": "Saudi insurance-comparison platform; front of several Saudi Pro League shirts in 2026/27, including Al-Hazem. Owner traced to Rasan Information Technology, a Saudi joint-stock company listed on the Saudi Exchange (listed 2024-06-13); founded by the Alfallaj brothers. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03)."
 }

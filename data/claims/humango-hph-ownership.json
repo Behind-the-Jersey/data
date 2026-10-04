@@ -1,0 +1,21 @@
+{
+  "id": "humango-hph-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "human-powered-health-labs"
+  ],
+  "text": "HumanGO is Human Powered Health's AI-powered fitness and endurance training application.",
+  "short": "HumanGO is Human Powered Health's training app.",
+  "source": {
+    "name": "Human Powered Health (blog): Human Powered Health Announces Launch of Upgraded AI-Powered Training Platform",
+    "date": "2025-05",
+    "url": "https://humanpoweredhealth.com/blog/humango-update-may2025",
+    "quote": "the recent release of significant upgrades to its HumanGO AI-powered fitness and endurance training application",
+    "note": "The full sentence reads: 'Human Powered Health is proud to announce the recent release of significant upgrades to its HumanGO AI-powered fitness and endurance training application.' The post also quotes 'HumanGO Founder and CEO Eric Abecassis'. The date is taken from the page URL (blog/humango-update-may2025); the page itself shows no date line.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

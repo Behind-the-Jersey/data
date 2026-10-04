@@ -1,12 +1,15 @@
 {
   "id": "icelandic-glacial",
   "name": "Icelandic Glacial",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "icelandic-water-holdings",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "icelandic-glacial-water-holdings-ownership",
+    "icelandic-water-holdings-iceland-star-ownership"
+  ],
   "aliases": [],
-  "note": "Cleeks GC partner (livgolf.com/cleeks-gc, fetched 2026-09-25)."
+  "note": "Cleeks GC partner 2026; the brand is featured on the players' golf bags (club partnership announcement, 2026-02-02). Rating note: brand of Icelandic Water Holdings ehf; since the September 2023 recapitalisation the incoming majority shareholder is Iceland Star Property Ltd., a Liechtenstein holding company whose own owners are not disclosed in any source found, so the owner chain does not reach the real owner. Icelandic founders and funds managed by BlackRock's US Private Credit team remain significant shareholders. Anheuser-Busch took a 20% stake in Icelandic Water Holdings in 2007 and raised it to 23.3% in 2011 (icelandicglacial.com press releases); its current stake is unconfirmed. Proposed tier: none if Iceland Star Property's owners are identified."
 }

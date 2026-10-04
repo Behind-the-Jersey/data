@@ -3,33 +3,20 @@
   "kind": "ownership",
   "ownerIds": [
     "bk-olimp",
-    "zevs-llc"
+    "zevs"
   ],
-  "text": "OlimpBet is the brand of BK Olimp LLC, which is 97.5% owned by Zevs LLC and 2.5% by its general director Sergey Kozyavkin.",
-  "short": "BK Olimp (OlimpBet) is 97.5% owned by Zevs LLC, 2.5% by its director.",
+  "text": "OOO \"Zevs\" (OGRN 1197746286924) holds 97.5% of OOO \"BK Olimp\", the company behind Olimpbet; BK Olimp's general director Sergey Gennadyevich Kozyavkin holds the remaining 2.5% (EGRUL founder data).",
+  "short": "OOO Zevs owns 97.5% of BK Olimp",
   "source": {
-    "name": "Rusprofile (EGRUL register data): ООО «БК „Олимп“»",
-    "date": "2025-12-22",
-    "url": "https://web.archive.org/web/20251222233502/https://www.rusprofile.ru/id/6757485",
-    "quote": "Основным владельцем выступает юридическое лицо ООО \"ЗЕВС\" с долей 97,5%, тогда как сам директор владеет 2,5% уставного капитала",
-    "note": "Russian company register (EGRUL) data for BK Olimp LLC, via a Wayback Machine snapshot of 22 Dec 2025; rusprofile.ru serves 403 to scripts. Translation: the main owner is the legal entity ZEVS LLC with a 97.5% stake, while the director himself owns 2.5% of the charter capital.",
+    "name": "checko.ru: OOO \"BK Olimp\" company profile (EGRUL founder data)",
+    "date": "2026-10-03",
+    "url": "https://checko.ru/company/bk-olimp-1127747004648",
+    "note": "Founders table on the page lists OOO \"Zevs\" with a 97.5% share and Sergey Kozyavkin with 2.5%.",
+    "quote": "Компания ООО \"БК \"ОЛИМП\" из Москвы входит в структуру владения, где контрольная доля принадлежит ООО \"ЗЕВС\"",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
-  "additionalSources": [
-    {
-      "name": "Stavka.tv: Компания Олимпбет: кто создал и кто владелец",
-      "date": "2026-10-01",
-      "url": "https://stavka.tv/bookmakers/olimpbet/about",
-      "quote": "ООО «Зевс» — владеет 97,5% доли",
-      "note": "Names Zevs LLC as holder of 97.5% of BK Olimp and Sergey Kozyavkin as holder of 2.5%; says the figures come from public registers.",
-      "checked": {
-        "on": "2026-10-03",
-        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-      }
-    }
-  ],
   "reviewed": false
 }
