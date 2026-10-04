@@ -3,9 +3,9 @@
   "name": "OMP",
   "ownerId": "racing-force-spa",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "OMP is a brand of Racing Force S.p.A., a company listed on Euronext Growth Milan whose largest shareholder is SAYE S.p.A. (49.27%). Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
     "omp-racing-force-brand",
     "racing-force-saye-stake"
@@ -13,5 +13,5 @@
   "aliases": [
     "OMP Racing"
   ],
-  "note": "Technical Partner of Envision Racing (racewear). Brand of Racing Force Group; listed parent, largest shareholder an Italian company (SAYE S.p.A., 49.27%) whose own ownership was not researched in this pass. No state or state-fund holder found, and no human-rights finding of the kind METHOD.md counts was located."
+  "note": "Technical Partner of Envision Racing (racewear). OMP is a brand of Racing Force Group (Racing Force S.p.A.), listed on Euronext Growth Milan; its shareholder page shows SAYE S.p.A. with 49.27% of the share capital and the remaining 50.52% on the market. SAYE S.p.A.'s own ownership was not sourced in this pass, so the chain does not reach the real owner of the largest stake and the sponsor stays unrated. No human-rights finding of the kind METHOD.md counts was located."
 }

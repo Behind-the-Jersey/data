@@ -8,14 +8,14 @@
   "short": "Sand Technologies is founder-led; Fred Swaniker is founder and CEO.",
   "source": {
     "name": "Sand Technologies: Fred Swaniker (Founder and CEO) bio",
-    "date": "2026-10-03",
+    "date": "2026",
     "url": "https://www.sandtech.com/author/fred-swaniker/",
     "quote": "Fred Swaniker is the Founder and CEO of Sand Technologies, a global technology company that builds enterprise-grade artificial intelligence applications",
     "checked": {
       "on": "2026-10-03",
       "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     },
-    "note": "The page is undated; the date given is the day the page was opened. The page returned HTTP 403 to plain scripted requests in the CI-style check (it loads in a normal browser); the quote was verified against the page text at check time. No state or state-fund owner found."
+    "note": "The page is undated. It returns HTTP 403 to plain scripted requests but loads in a normal browser; the quote was verified against the page text."
   },
   "reviewed": false
 }

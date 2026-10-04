@@ -13,7 +13,7 @@
       "placement": "front",
       "source": {
         "name": "FIA Formula E - Envision Racing team page (Season 12 team name and title brand)",
-        "date": "2026-10-03",
+        "date": "2026",
         "url": "https://www.fiaformulae.com/en/teams/envision-racing",
         "quote": "ENVISION RACING",
         "checked": {
@@ -28,14 +28,14 @@
       "placement": "partner",
       "source": {
         "name": "Envision Racing - Partners (Teijin card)",
-        "date": "2026-10-03",
+        "date": "2026",
         "url": "https://envision-racing.com/partners/",
         "quote": "As an official partner of Envision Racing, Teijin provides cutting-edge material technologies",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         },
-        "note": "Club's official partners page (undated; date is the fetch date). Teijin's partnership dates from 2020 and was renewed for multiple years on 12 July 2022 (envision-racing.com, 'ENVISION RACING ANNOUNCE MULTI-YEAR PARTNERSHIP RENEWAL WITH TEIJIN')."
+        "note": "Club's official partners page (undated). Teijin's partnership dates from 2020 and was renewed for multiple years on 12 July 2022 (envision-racing.com, 'ENVISION RACING ANNOUNCE MULTI-YEAR PARTNERSHIP RENEWAL WITH TEIJIN')."
       }
     },
     {
@@ -73,14 +73,14 @@
       "placement": "partner",
       "source": {
         "name": "Envision Racing - Partners (OMP card, Technical Partners)",
-        "date": "2026-10-03",
+        "date": "2026",
         "url": "https://envision-racing.com/partners/",
         "quote": "Global motorsport safety and performance brand, designing advanced racewear, seats, and equipment to protect and empower drivers worldwide",
         "checked": {
           "on": "2026-10-03",
           "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         },
-        "note": "Listed under 'TECHNICAL Partners' on the club's partners page (undated; date is the fetch date) - OMP supplies the team's racewear."
+        "note": "Listed under 'TECHNICAL Partners' on the club's partners page (undated) - OMP supplies the team's racewear."
       }
     }
   ],
