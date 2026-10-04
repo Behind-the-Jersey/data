@@ -1,0 +1,34 @@
+{
+  "id": "dow-bhopal-un-experts-2024",
+  "kind": "record",
+  "ownerIds": [
+    "dow-inc"
+  ],
+  "text": "UN human-rights experts said in December 2024 that the Indian company controlled by Union Carbide Corporation, which is now owned by The Dow Chemical Company, dumped and mismanaged hazardous substances and wastes at its pesticide facility in Bhopal, creating a sacrifice zone where pollution from the contaminated site continues to poison people, many living in poverty.",
+  "short": "UN experts: Dow-owned Union Carbide's Bhopal site still poisons communities.",
+  "source": {
+    "name": "OHCHR: Bhopal: A lingering legacy of contamination and injustice",
+    "date": "2024-12-02",
+    "url": "https://www.ohchr.org/en/press-releases/2024/12/bhopal-lingering-legacy-contamination-and-injustice",
+    "note": "Press release of 2 December 2024 by UN experts marking the 40th anniversary of the Bhopal gas leak. The live ohchr.org page sits behind a script challenge; the quote was verified on the Wayback Machine snapshot of 25 August 2026 (web.archive.org/web/20260825062203/https://www.ohchr.org/en/press-releases/2024/12/bhopal-lingering-legacy-contamination-and-injustice).",
+    "quote": "the Indian company controlled by Union Carbide Corporation, which is now owned by the Dow Chemical Company, dumped and mismanaged hazardous substances and wastes in its pesticide facility in Bhopal",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International: Global: Dow's failure to offer remedy for the Bhopal disaster has created a \"sacrifice zone\"",
+      "date": "2024-03-28",
+      "url": "https://www.amnesty.org/en/latest/news/2024/03/global-dows-failure-to-offer-remedy-for-the-bhopal-disaster-has-created-a-sacrifice-zone/",
+      "note": "Press release for Amnesty's report 'Bhopal: 40 years of Injustice', ahead of the disaster's 40th anniversary. The quoted words are from Amnesty's Head of Business and Human Rights, Mark Dummett.",
+      "quote": "Dow, as well as the actions of the US and Indian authorities, have created a sacrifice zone in which half a million people across multiple generations are suffering.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
