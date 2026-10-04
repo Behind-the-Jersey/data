@@ -1,0 +1,28 @@
+{
+  "id": "teda-nangang-group",
+  "name": "TEDA Nangang Group (泰达南港集团)",
+  "ownerId": "teda-nangang-group",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "TEDA Nangang Group, the state-owned operator of Tianjin Economic-Technological Development Area's Nangang industrial zone, is a 2026 shirt sponsor of Tianjin Jinmen Tiger.",
+  "claimIds": [
+    "china-xinjiang-un-assessment",
+    "teda-nangang-group-teda-control"
+  ],
+  "aliases": [
+    "泰达南港集团",
+    "天津经济技术开发区南港发展集团有限公司",
+    "Tianjin Economic-Technological Development Area Nangang Development Group Co., Ltd."
+  ],
+  "why": {
+    "text": "TEDA Nangang Group is controlled by the state-assets supervision bureau of Tianjin Economic-Technological Development Area, in Tianjin municipality. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind TEDA Nangang's shirt deal is the Chinese state's.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "teda-nangang-group-teda-control"
+    ],
+    "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  },
+  "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claim teda-nangang-group-teda-control: the group's actual controller is the TEDA State-owned Assets Supervision and Administration Bureau, and the zone formed the group in June 2020; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment: UN OHCHR 2022 Xinjiang assessment plus Human Rights Watch 2026) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers)."
+}

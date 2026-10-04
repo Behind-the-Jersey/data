@@ -1,0 +1,21 @@
+{
+  "id": "mvc-group-castelli",
+  "kind": "ownership",
+  "ownerIds": [
+    "mvc-group"
+  ],
+  "text": "Castelli has been a brand of Manifattura Valcismon (MVC Group) since 2003; the group was founded in 1946 by Olindo and Irma Cremonese, and the investment fund Equinox acquired a 40% minority share in 2019.",
+  "short": "Castelli is a brand of the Cremonese-founded MVC Group; Equinox holds a 40% minority.",
+  "source": {
+    "name": "MVC Group: History",
+    "date": "2026",
+    "url": "https://www.mvcgroup.com/en/history",
+    "quote": "We were created in 1946 by Olindo and Irma Cremonese.",
+    "note": "Same page: 2003 'Acquisition of the cycling clothing brand Castelli' by Manifattura Valcismon; 2019: 'The entrance of Equinox in the assets of Manifattura Valcismon through the acquisition of a minority share of 40%'. MVC's governance page (mvcgroup.com/en/management-and-control, opened 2026-10-03) lists Alessio Cremonese as Executive Chairman plus Alberto Olindo, Gioia and Dario Cremonese on an eight-member board.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

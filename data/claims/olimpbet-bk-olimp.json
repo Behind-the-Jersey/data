@@ -1,0 +1,20 @@
+{
+  "id": "olimpbet-bk-olimp",
+  "kind": "ownership",
+  "ownerIds": [
+    "bk-olimp"
+  ],
+  "text": "Olimpbet is the brand of the Russian bookmaker OOO \"BK Olimp\" (OGRN 1127747004648, Moscow): the rules of the Olimpbet bonus programme on olimp.bet name OOO \"BK Olimp\" as the organiser.",
+  "short": "Olimpbet is run by OOO BK Olimp",
+  "source": {
+    "name": "olimp.bet: rules of the \"AMUR\" welcome-bonus programme",
+    "date": "2026-10-03",
+    "url": "https://www.olimp.bet/promo/landings/amur",
+    "quote": "Организатором Бонусной программы (далее — Программа), является ООО «БК «Олимп»",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

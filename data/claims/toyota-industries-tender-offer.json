@@ -1,0 +1,23 @@
+{
+  "id": "toyota-industries-tender-offer",
+  "kind": "ownership",
+  "ownerIds": [
+    "toyota-industries-corp",
+    "toyota-asset-preparatory-co",
+    "toyota-asset-co",
+    "toyota-fudosan-co"
+  ],
+  "text": "Toyota Industries Corporation became part of a private Toyota family holding chain on 30 March 2026: the tender offer by Toyota Asset Preparatory Co., Ltd. (established by Toyota Fudosan Co., Ltd.) completed on 23 March 2026 with a majority of voting rights, making the offeror Toyota Industries' parent company. Toyota Asset Preparatory is 100% held by Toyota Asset Co., Ltd., which is 100% held by Toyota Fudosan Co., Ltd.",
+  "short": "Toyota Industries is now controlled by Toyota Fudosan's tender-offer vehicle.",
+  "source": {
+    "name": "Toyota Industries Corporation: Notice Concerning Result of the Tender Offer for the Company Shares by Toyota Fudosan Co., Ltd. and Changes in Parent Company, Major Shareholders (TSE/filing translation)",
+    "date": "2026-03-24",
+    "url": "https://www.toyota-industries.com/news/item/20260324_document_e01.pdf",
+    "quote": "the Offeror will newly become the Company's parent company, major shareholder, and the largest shareholder of major shareholders",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

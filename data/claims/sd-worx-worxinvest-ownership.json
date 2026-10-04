@@ -1,0 +1,33 @@
+{
+  "id": "sd-worx-worxinvest-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sd-worx",
+    "worxinvest"
+  ],
+  "text": "WorxInvest is the parent company of SD Worx and holds 77.5% of it (November 2023); in June 2023 CVC Strategic Opportunities II became a minority shareholder, with WorxInvest remaining majority shareholder.",
+  "short": "WorxInvest holds 77.5% of SD Worx; CVC Strategic Opportunities II is a minority shareholder.",
+  "source": {
+    "name": "SD Worx press release: Gimv welcomes WorxInvest as reference shareholder",
+    "date": "2023-11-30",
+    "url": "https://www.sdworx.com/en-en/about-sd-worx/press/gimv-welcomes-worxinvest-reference-shareholder",
+    "quote": "In June 2023 it announced CVC Strategic Opportunities II as a new partner and minority shareholder in SD Worx. WorxInvest currently owns 77.5% of SD Worx.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Flanders Investment & Trade: CVC invests in HR services provider SD Worx (reported by newspaper De Tijd)",
+      "date": "2023-07-25",
+      "url": "https://invest.flandersinvestmentandtrade.com/en/news/cvc-invests-hr-services-provider-sd-worx-flanders",
+      "quote": "British private equity giant CVC has acquired a 22.5% stake in SD Worx, a leading HR services provider headquartered in Antwerp, Flanders.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

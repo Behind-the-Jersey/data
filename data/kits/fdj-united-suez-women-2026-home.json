@@ -12,22 +12,169 @@
       "sponsorId": "fdj",
       "placement": "front",
       "source": {
-        "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+        "name": "The Inner Ring — Women's Pro Team Sponsors Explained",
         "date": "2026-08-05",
-        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/",
+        "quote": "FDJ United-Suez sees the French state lottery provider and now Europe's second biggest gambling company alongside Suez",
+        "note": "FDJ United and Suez are the team's two headline (title) names; the club's partners page lists both under 'Partenaires Titres'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "suez",
       "placement": "front",
       "source": {
-        "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-        "date": "2026-07-14",
-        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        "name": "The Inner Ring — Women's Pro Team Sponsors Explained",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/",
+        "quote": "FDJ United-Suez sees the French state lottery provider and now Europe's second biggest gambling company alongside Suez",
+        "note": "FDJ United and Suez are the team's two headline (title) names in 2026; the club's partners page lists both under 'Partenaires Titres'. Suez has co-sponsored the team since 2022 (Cyclist, archived 1 September 2025).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gan",
+      "placement": "front",
+      "source": {
+        "name": "FDJ-SUEZ — Gan Assurances (Groupe Groupama) renoue avec le cyclisme (communiqué officiel)",
+        "date": "2025-06-06",
+        "url": "https://www.fdj-suez.fr/gan-assurances-groupe-groupama-renoue-avec-le-cyclisme/",
+        "quote": "le logo Gan Assurances figurera sur les manches et la poitrine droite du maillot FDJ-SUEZ, pour une durée de 3 ans",
+        "note": "Translation: 'the Gan Assurances logo will appear on the sleeves and right chest of the FDJ-SUEZ jersey, for three years.'",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gan",
+      "placement": "sleeve",
+      "source": {
+        "name": "FDJ-SUEZ — Gan Assurances (Groupe Groupama) renoue avec le cyclisme (communiqué officiel)",
+        "date": "2025-06-06",
+        "url": "https://www.fdj-suez.fr/gan-assurances-groupe-groupama-renoue-avec-le-cyclisme/",
+        "quote": "le logo Gan Assurances figurera sur les manches et la poitrine droite du maillot FDJ-SUEZ, pour une durée de 3 ans",
+        "note": "Translation: 'the Gan Assurances logo will appear on the sleeves and right chest of the FDJ-SUEZ jersey, for three years.'",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "adagio",
+      "placement": "front",
+      "source": {
+        "name": "FDJ-SUEZ — Adagio devient partenaire majeur de l'équipe FDJ-SUEZ (communiqué officiel)",
+        "date": "2025-06-16",
+        "url": "https://www.fdj-suez.fr/adagio-devient-partenaire-majeur-de-lequipe-fdj-suez/",
+        "quote": "Adagio s’affichera fièrement sur la face avant et le dos du maillot de l’équipe FDJ-SUEZ",
+        "note": "Translation: 'Adagio will proudly appear on the front and back of the FDJ-SUEZ team jersey' (from 25 June 2025, for four years).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "adagio",
+      "placement": "back",
+      "source": {
+        "name": "FDJ-SUEZ — Adagio devient partenaire majeur de l'équipe FDJ-SUEZ (communiqué officiel)",
+        "date": "2025-06-16",
+        "url": "https://www.fdj-suez.fr/adagio-devient-partenaire-majeur-de-lequipe-fdj-suez/",
+        "quote": "Adagio s’affichera fièrement sur la face avant et le dos du maillot de l’équipe FDJ-SUEZ",
+        "note": "Translation: 'Adagio will proudly appear on the front and back of the FDJ-SUEZ team jersey' (from 25 June 2025, for four years).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "cartes-bancaires",
+      "placement": "partner",
+      "source": {
+        "name": "The Inner Ring — Women's Pro Team Sponsors Explained",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/",
+        "quote": "Beyond the two headline names the jersey is notable for more blue chip names like Gan insurance and CB which is France's answer to Visa payments",
+        "note": "CB is Cartes Bancaires; also a 'Partenaire Majeur' on the club's partners page. The exact on-shirt position is not stated.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "red-bull",
+      "placement": "partner",
+      "source": {
+        "name": "FDJ UNITED-SUEZ — Red Bull rejoint FDJ United-Suez comme partenaire majeur de l'équipe (communiqué officiel)",
+        "date": "2026-08-01",
+        "url": "https://www.fdj-suez.fr/red-bull-rejoint-fdj-united-suez-comme-partenaire-majeur-de-lequipe/",
+        "quote": "Red Bull devient partenaire majeur et Official Energy Drink Partner de l’équipe, et son logo s’affichera sur les casques des athlètes FDJ UNITED-SUEZ",
+        "note": "Translation: 'Red Bull becomes a major partner and Official Energy Drink Partner of the team, and its logo will appear on the helmets of the FDJ UNITED-SUEZ athletes.' The logo is on the helmets, not the jersey; the schema has no helmet placement, so it is recorded as 'partner'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gobik",
+      "placement": "partner",
+      "source": {
+        "name": "FDJ-SUEZ — FDJ-SUEZ dévoile son maillot 2026 à l'occasion du Tour de France (communiqué officiel)",
+        "date": "2025-07-23",
+        "url": "https://www.fdj-suez.fr/fdj-suez-devoile-son-maillot-2026-a-loccasion-du-tour-de-france/",
+        "quote": "La tenue Gobik équipera ensuite l’équipe FDJ-SUEZ sur l’ensemble de la saison 2026",
+        "note": "Translation: 'The Gobik kit will then outfit the FDJ-SUEZ team for the whole 2026 season.' Gobik is the team's kit maker (équipementier); its brand is the maker of the jersey rather than a printed sponsor logo.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "specialized",
+      "placement": "partner",
+      "source": {
+        "name": "FDJ-SUEZ — FDJ-SUEZ et Specialized : une alliance au service de l'innovation et de la performance (communiqué officiel)",
+        "date": "2024-12-06",
+        "url": "https://www.fdj-suez.fr/fdj-suez-et-specialized-une-alliance-au-service-de-linnovation-et-de-la-performance/",
+        "quote": "Specialized, leader mondial de l’innovation dans le cyclisme, et l’équipe professionnelle FDJ-SUEZ annoncent avec enthousiasme le début de leur partenariat stratégique, à compter de 2025",
+        "note": "Translation: 'Specialized, world leader in cycling innovation, and the professional team FDJ-SUEZ enthusiastically announce the start of their strategic partnership, from 2025.' Bike supplier ('Partenaires Techniques' on the club's partners page).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "shimano",
+      "placement": "partner",
+      "source": {
+        "name": "FDJ-SUEZ — Un partenariat fait pour durer : FDJ-SUEZ et SHIMANO (communiqué officiel)",
+        "date": "2025-01-23",
+        "url": "https://www.fdj-suez.fr/un-partenariat-fait-pour-durer-fdj-suez-et-shimano/",
+        "quote": "Shimano accompagne fidèlement l’équipe et continuera d’être son partenaire technique officiel pour les saisons 2025 et 2026",
+        "note": "Translation: 'Shimano will continue as the team's official technical partner for the 2025 and 2026 seasons', supplying the DURA-ACE Di2 groupset ('Partenaires Techniques' on the club's partners page).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026 UCI Women's WorldTeam named for FDJ United and Suez; The Inner Ring also notes blue-chip jersey partners Gan insurance and CB.",
+  "summary": "2026 UCI Women's WorldTeam named for title partners FDJ United and Suez ('Partenaires Titres'). Club communiqués place Gan Assurances on the sleeves and right chest (2025-06-06), Adagio on the front and back (2025-06-16) and Gobik as kit maker for the whole 2026 season; The Inner Ring (Aug 2026) adds Cartes Bancaires (CB) on the jersey; Red Bull (major partner from 1 Aug 2026) shows its logo on the riders' helmets; Specialized (bikes) and Shimano (groupsets) are technical partners. sponsorsComplete stays false: on-shirt positions beyond those named above could not be checked from text sources, and the club's partners page also lists institutional partners, official suppliers and local partner clubs not recorded here.",
   "change": null
 }
