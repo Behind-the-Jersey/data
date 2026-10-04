@@ -1,0 +1,21 @@
+{
+  "id": "rabobank-cooperative-members",
+  "kind": "ownership",
+  "ownerIds": [
+    "rabobank"
+  ],
+  "text": "Rabobank is one of the Netherlands' largest cooperatives, with nearly two million members; it has members rather than shareholders.",
+  "short": "Rabobank is a cooperative with members rather than shareholders.",
+  "source": {
+    "name": "Rabobank: A bank with members — Rabobank as cooperative",
+    "date": "2022-03-13",
+    "url": "https://web.archive.org/web/20220313070543/https://www.rabobank.com/en/about-rabobank/cooperative/index.html",
+    "quote": "What makes Rabobank as a cooperative different from other banks? We have members rather than shareholders.",
+    "note": "Archived copy of Rabobank's cooperative page (rabobank.com blocked our network on 2026-10-03); the same page states: 'Rabobank is one of the Netherlands’ largest cooperatives with nearly two million members.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

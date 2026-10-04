@@ -1,12 +1,25 @@
 {
   "id": "visma",
   "name": "Visma",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "hg-capital",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Visma is majority-owned by Hg Capital & co-investors (70.5%); GIC, Singapore's sovereign wealth fund, owns 14.2%.",
+  "claimIds": [
+    "visma-hg-majority",
+    "visma-gic-stake",
+    "singapore-drug-executions-2025"
+  ],
   "aliases": [],
-  "note": "Norwegian accounting/payroll software company (formerly Visma)."
+  "note": "Norwegian business-software company headquartered in Oslo, title sponsor of Team Visma | Lease a Bike since 2019. Rating note: on hold for a maintainer. Proposed Concern: GIC, Singapore's sovereign wealth fund, holds 14.2% of Visma (over the 5% threshold, without control), and Singapore's record of drug-offence executions is recorded (singapore-drug-executions-2025). Majority owner Hg Capital (70.5%) is a private equity firm with no known record. Smaller state-linked stakes below 5%: Folketrygdfondet (manages the Government Pension Fund Norway) 0.9% and CPP Investments (Canada) 1.9% — too small to count. Visma's shareholder page also lists two GIC staff on its board (Henry Ormond, Marie Gomez), a second, independent path to the same Concern.",
+  "why": {
+    "text": "Singapore, whose state investor GIC owns 14.2% of the team's title sponsor Visma, carried out 17 executions in 2025, 15 of them for drug-related offences — a use of the death penalty UN human-rights experts urged the country to end in August 2026.",
+    "claimIds": [
+      "singapore-drug-executions-2025",
+      "visma-gic-stake"
+    ],
+    "messageLine": "Ask Team Visma | Lease a Bike whether a sponsor 14.2%-owned by Singapore's state fund fits a team that markets itself on fair play.",
+    "status": "draft"
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "visma-gic-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "gic"
+  ],
+  "text": "GIC, the Singaporean state investor established to manage Singapore's foreign reserves, owns 14.2% of Visma.",
+  "short": "GIC, Singapore's sovereign wealth fund, owns 14.2% of Visma.",
+  "source": {
+    "name": "Visma: Investors — Governance (Board and shareholders)",
+    "date": "2026",
+    "url": "https://www.visma.com/investors/governance",
+    "quote": "GIC owns 14.2% of Visma. GIC is a leading global investment firm established in 1981 to manage Singapore's foreign reserves.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Guardian: Norway's €19bn software company Visma picks London for IPO",
+      "date": "2025-06-26",
+      "url": "https://www.theguardian.com/business/2025/jun/26/norways-19bn-software-company-visma-picks-london-for-ipo",
+      "quote": "Other investors include Singapore's sovereign wealth fund GIC, the Singaporean private equity firm Intermediate Capital Group, Canada's CPP Investments and the Texas-based private equity group TPG.",
+      "note": "The Guardian names GIC among Visma's investors but gives no percentage; the 14.2% figure is Visma's own disclosure.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
