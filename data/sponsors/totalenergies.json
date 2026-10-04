@@ -7,10 +7,11 @@
   "status": "unrated",
   "verdict": null,
   "claimIds": [
-    "totalenergies-ownership"
+    "totalenergies-ownership",
+    "totalenergies-eacop-uganda-2023"
   ],
   "aliases": [
     "total"
   ],
-  "note": "DS Penske partner (Season 12, 2025/26) and WEC Peugeot TotalEnergies title sponsor. Left unrated for a maintainer: the owner is sourced (totalenergies-ownership: listed, 95% free-float factor), but the company test isn't settled. Human Rights Watch's report 'Our Trust is Broken' (2023-07-10, https://www.hrw.org/report/2023/07/10/our-trust-broken/loss-land-and-livelihoods-oil-development-uganda) found that the land acquisition for TotalEnergies' East African Crude Oil Pipeline project 'has devastated thousands of people's livelihoods in Uganda', with delayed and inadequate compensation. French prosecutors opened a manslaughter investigation in March 2025 over the 2021 attack near its Mozambique LNG site (an investigation, not a finding)."
+  "note": "DS Penske partner (Season 12, 2025/26) and WEC Peugeot TotalEnergies title sponsor. Left unrated for a maintainer: the owner is sourced (totalenergies-ownership: listed, 95% free-float factor), but the company test isn't settled. Human Rights Watch's report 'Our Trust is Broken' (2023-07-10, https://www.hrw.org/report/2023/07/10/our-trust-broken/loss-land-and-livelihoods-oil-development-uganda) found that the land acquisition for TotalEnergies' East African Crude Oil Pipeline project 'has devastated thousands of people's livelihoods in Uganda', with delayed and inadequate compensation. French prosecutors opened a manslaughter investigation in March 2025 over the 2021 attack near its Mozambique LNG site (an investigation, not a finding). 2026-10-03 (issue #455 sweep): record claim totalenergies-eacop-uganda-2023 added with the HRW report and a 2025 University of Sheffield/Haki Defenders study reported by The Guardian as corroboration; concern tier proposed in the pull request, tier left to a maintainer."
 }
