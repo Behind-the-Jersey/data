@@ -1,0 +1,45 @@
+{
+  "id": "christopher-ward-ownership-chain",
+  "kind": "ownership",
+  "ownerIds": [
+    "christopher-ward-london-limited",
+    "christopher-ward-london-holdings"
+  ],
+  "text": "Christopher Ward is the brand of Christopher Ward London Limited (company 05167936, registered office in Maidenhead); Companies House lists Christopher Ward (London) Holdings Limited as its owner of 75% or more of shares and voting rights, and BGF GP Limited as the holding company's only active person with significant control.",
+  "short": "Christopher Ward London Limited is owned 75%+ by Christopher Ward (London) Holdings; its only active PSC is BGF GP Limited.",
+  "source": {
+    "name": "Companies House: Christopher Ward (London) Holdings Limited — persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09076361/persons-with-significant-control",
+    "quote": "Persons with significant control: 1 active person with significant control / 0 active statements Bgf Gp Limited",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Companies House: Christopher Ward London Limited — persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/05167936/persons-with-significant-control",
+      "quote": "Ownership of shares – 75% or more",
+      "note": "PSC page of Christopher Ward London Limited (05167936): Christopher Ward (London) Holdings Limited is the active person with significant control (ownership of shares and of voting rights 75% or more, right to appoint or remove directors).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Christopher Ward: Terms and conditions (sale)",
+      "date": "2026",
+      "url": "https://www.christopherward.com/terms-conditions.html",
+      "quote": "We are Christopher Ward London Limited a company registered in England and Wales. Our company registration number is 05167936",
+      "note": "Legal entity line in the online shop's terms of sale, tying the Christopher Ward brand to Christopher Ward London Limited.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

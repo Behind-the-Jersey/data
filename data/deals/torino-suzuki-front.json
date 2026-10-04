@@ -1,0 +1,26 @@
+{
+  "id": "torino-suzuki-front",
+  "clubId": "torino",
+  "orgName": null,
+  "sponsorId": "suzuki",
+  "placement": "front",
+  "from": "2013",
+  "to": null,
+  "value": {
+    "amount": 2.35,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "Toro.it, 'Serie A, ecco quanto guadagna il Torino dallo sponsor di maglia'",
+    "date": "2026-03-18",
+    "url": "https://www.toro.it/toro/primo-piano/sponsor-di-maglia-squadre-serie-a-marzo-26/1419600/",
+    "quote": "Il Torino guadagna, invece, 2,35 milioni da Suzuki.",
+    "note": "Translation: 'Torino, instead, earns 2.35 million from Suzuki.' Press estimate from a March 2026 survey of Serie A shirt-sponsor revenues, before the 2026/27 renewal; the club and Suzuki do not publish a figure. The club's renewal announcement (3 July 2026) says the partnership began in 2013 and reached its fourteenth consecutive season in 2026/27.",
+    "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+  },
+  "note": "Front-of-shirt deal renewed for 2026/27 (announced 3 July 2026)."
+}

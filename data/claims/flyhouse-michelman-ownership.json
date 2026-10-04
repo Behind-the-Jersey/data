@@ -1,0 +1,20 @@
+{
+  "id": "flyhouse-michelman-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "flyhouse"
+  ],
+  "text": "FlyHouse's founder and chairman is Sanford Michelman.",
+  "short": "FlyHouse was founded by its chairman, Sanford Michelman",
+  "source": {
+    "name": "Business Jet Traveler, 'FlyHouse Flies With The New York Jets' (Curt Epstein)",
+    "date": "2026-01-06",
+    "url": "https://bjtonline.com/business-jet-news/flyhouse-flies-with-the-new-york-jets",
+    "quote": "company founder and chairman Sanford Michelman told BJT",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

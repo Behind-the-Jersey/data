@@ -1,0 +1,46 @@
+{
+  "id": "chengdu-rongjiu-industrial-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "chengdu-rongjiu-liquor",
+    "chengdu-industrial-investment-group"
+  ],
+  "text": "Chengdu Rongjiu Liquor Co., Ltd. (成都蓉酒酒业有限公司), the company behind the 萬世珍水 (Wanshi Zhenshui) brand, was established with 500 million yuan registered capital and is held 51% by Chengdu Industrial Investment Group Co., Ltd., its controlling shareholder.",
+  "short": "Chengdu Industrial Investment Group holds a controlling 51% of Chengdu Rongjiu Liquor.",
+  "source": {
+    "name": "川观新闻·川商传媒 (Cover News / Sichuan Daily's Chuanshang Media): 斥资5亿元！成都五大国企联手，布局这一赛道→",
+    "date": "2025-11-25",
+    "url": "https://cbgc.scol.com.cn/news/7001298",
+    "quote": "成都产业投资集团有限公司认缴出资额2.55亿元，持股51%",
+    "note": "Translation: 'Chengdu Industrial Investment Group Co., Ltd. subscribed 255 million yuan, holding 51%.' The article lists all five state-owned shareholders from equity-penetration data (Qichacha).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "钛媒体 via 新浪财经 (TMTPost via Sina Finance): 成都5亿元国资合资企业落地，国资产区平台成白酒第三极，与巨头共舞？",
+      "date": "2025-11-28",
+      "url": "https://finance.sina.com.cn/cj/2025-11-28/doc-infyyanx9152393.shtml",
+      "quote": "成都产业投资集团有限公司持股51%、成都酒业集团有限公司持股34%",
+      "note": "Translation: 'Chengdu Industrial Investment Group Co., Ltd. holds 51% and Chengdu Liquor Group Co., Ltd. 34%.' Lists the same five state-owned shareholders; the article also states Chengdu Industrial Investment Group holds 51% as controlling shareholder (控股股东).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "网易号·懂球帝 (NetEase Hao, Dongqiudi, reprint of the club's announcement): 官方：蓉酒酒业成为成都蓉城战略合作伙伴，获得球衣胸前广告",
+      "date": "2026-05-18",
+      "url": "https://www.163.com/dy/article/KT734S4R0549BAP0.html",
+      "quote": "作为成都产投集团旗下国资酒企",
+      "note": "Translation: 'As a state-owned liquor company under Chengdu Industrial Investment Group.' The club's own announcement describing the sponsor's ownership (also on Dongqiudi, m.dongqiudi.com/article/5855106.html).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

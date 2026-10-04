@@ -1,0 +1,33 @@
+{
+  "id": "azartia-goldenpark-operator",
+  "kind": "ownership",
+  "ownerIds": [
+    "azartia"
+  ],
+  "text": "GoldenPark.pt is operated in Portugal by Azartia Games, S.A.: the regulator SRIJ announced Azartia Games, S.A., under the Golden Park brand, as the new online betting and gaming operator in Portugal, through the website www.goldenpark.pt.",
+  "short": "GoldenPark.pt is run by Azartia Games, S.A. (SRIJ).",
+  "source": {
+    "name": "SRIJ - Serviço de Regulação e Inspeção de Jogos: Azartia Games é a nova entidade exploradora a operar em Portugal",
+    "date": "2023-07-04",
+    "url": "https://www.srij.turismodeportugal.pt/pt/noticias/azartia-games-e-nova-entidade-exploradora-operar-em-portugal",
+    "quote": "A Azartia Games, S.A., com a marca Golden Park, é a nova entidade exploradora de jogos e apostas online a operar em Portugal, através do website www.goldenpark.pt.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Jogo Responsável: Operadores Licenciados (GOLDENPARK)",
+      "date": "2025-12-26",
+      "url": "https://jogoresponsavel.pt/jogo-a-dinheiro-operadores-licenciados",
+      "quote": "AZARTIA GAMES, S.A. Marca: GoldenPark Website: www.goldenpark.pt",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The licensed-operators list kept with the SRIJ framework shows Azartia Games, S.A. as the entity behind the GoldenPark brand and www.goldenpark.pt, holding SRIJ licences 029 and 030."
+    }
+  ],
+  "reviewed": false
+}
