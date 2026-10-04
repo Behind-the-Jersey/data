@@ -1,0 +1,46 @@
+{
+  "id": "omp-racing-force-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "racing-force-spa",
+    "saye-spa"
+  ],
+  "text": "OMP is a brand of Racing Force S.p.A., a company listed on Euronext Growth Milan whose shareholder table lists SAYE S.p.A., a family holding company, as its largest shareholder with 49.27% of the share capital.",
+  "short": "OMP is a brand of Racing Force S.p.A.; SAYE S.p.A. holds 49.27%.",
+  "source": {
+    "name": "Racing Force Group: Group (Who we Are)",
+    "date": "2026",
+    "url": "https://www.racingforce.com/group/",
+    "note": "Corporate page without a date; opened 2026-10-03.",
+    "quote": "Through its portfolio of brands – including OMP, Bell Racing, Zeronoise, and Racing Spirit – equips professional drivers",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Racing Force Group: Shareholders' Information",
+      "date": "2026",
+      "url": "https://www.racingforce.com/investors-relations/shareholders-information/",
+      "note": "Page without a date; opened 2026-10-03. The page's shareholder table lists SAYE S.p.A. with 13,566,895 shares, 49.27% of the share capital; it also describes Racing Force S.p.A. financial instruments as admitted to trading on Euronext Growth Milan.",
+      "quote": "SAYE S.p.A. 13.566.895,00 49.27%",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Racing Force S.p.A.: SAYE S.p.A. letter depositing a board-list (PDF)",
+      "date": "2024-04-22",
+      "url": "https://www.racingforce.com/wp-content/uploads/2025/05/Racing-Force-S.p.A.-Lettera-SAYE-x-deposito-lista-Accettazione-carica-CVelenco-cariche-membri-CDA.pdf",
+      "note": "Letter of 22 April 2024 from SAYE S.p.A. (signed by its legal representative Piero Paolo Delprato) depositing a candidate list for Racing Force S.p.A.'s Board of Directors; the attached CV states Delprato is Chairman and CEO of both companies. The same letter states SAYE held 52.7% of the share capital in April 2024; the current shareholder table shows 49.27%.",
+      "quote": "Chairman and CEO of SAYE S.p.A. (Family Holding Company) Chairman and CEO of Racing Force S.p.A. (parent company of Racing Force Group)",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

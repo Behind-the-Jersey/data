@@ -1,12 +1,30 @@
 {
   "id": "cupra",
   "name": "CUPRA",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "seat-sa",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "cupra-seat-vw-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership",
+    "qatar-migrant-worker-abuse-2025"
+  ],
   "aliases": [],
-  "note": "Title sponsor of the CUPRA Rotterdam Premier Padel P2 (FIP 2026 calendar) and of the Cupra FIP Tour; Official Automotive Partner of FIP (padelfip.com sponsor page, dated 23 Aug 2024). Ownership not yet researched."
+  "note": "Title partner (Co-Title Partner, in the team name CUPRA KIRO) of the CUPRA KIRO Formula E team; also title sponsor of the CUPRA Rotterdam Premier Padel P2 (FIP 2026 calendar) and of the Cupra FIP Tour, and Official Automotive Partner of FIP (padelfip.com sponsor page, dated 23 Aug 2024). Rating note (proposal for a maintainer): concern. The link: CUPRA is a brand of SEAT S.A., a member of the Volkswagen Group, in which Volkswagen AG holds direct or indirect interests (claim cupra-seat-vw-ownership); Qatar Holding LLC, a wholly owned subsidiary of the Qatar Investment Authority, the State of Qatar's sovereign wealth fund, holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (claims qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership) — 5% or more, without control. The record: Amnesty International and Human Rights Watch on migrant workers under Qatar's kafala system (existing claim qatar-migrant-worker-abuse-2025, two independent publishers). Same pattern as the already-rated volkswagen and skoda sponsors (both concern, maintainer decision 2026-10-01). Proposed concern 2026-10-03; a maintainer sets the tier.",
+  "why": {
+    "text": "CUPRA is a brand of SEAT S.A., a member of the Volkswagen Group. Qatar Holding LLC, a wholly owned subsidiary of the Qatar Investment Authority, the State of Qatar's sovereign wealth fund, holds 10.4% of Volkswagen AG's subscribed capital and 17.0% of its voting rights. Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses and exploitation under the kafala sponsorship system in 2025, despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "cupra-seat-vw-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses under the kafala sponsorship system.",
+    "status": "draft"
+  }
 }

@@ -1,0 +1,34 @@
+{
+  "id": "cupra-seat-vw-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "seat-sa",
+    "volkswagen-ag"
+  ],
+  "text": "SEAT S.A., a member of the Volkswagen Group, sells vehicles under the SEAT and CUPRA brands; Volkswagen AG, in its capacity as parent company, holds direct or indirect interests in SEAT S.A.",
+  "short": "CUPRA is a brand of SEAT S.A., a member of the Volkswagen Group.",
+  "source": {
+    "name": "SEAT S.A. media centre: SEAT S.A. at a glance",
+    "date": "2026",
+    "url": "https://www.seat-cupra-mediacenter.com/SEAT-sa/about-seat-sa/seat-sa-at-a-glance",
+    "note": "Corporate page without a date; opened 2026-10-03.",
+    "quote": "A member of the Volkswagen Group, SEAT S.A. sells vehicles under the SEAT and CUPRA brands",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Volkswagen Group Annual Report 2025: Structure and Business Activities",
+      "date": "2026-03-10",
+      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/structure-and-business-activities.html",
+      "quote": "In its capacity as parent company, Volkswagen AG holds direct or indirect interests in AUDI AG, SEAT S.A., Škoda Auto a.s.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
