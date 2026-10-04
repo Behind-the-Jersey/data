@@ -14,11 +14,32 @@
       "source": {
         "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
         "date": "2026-08-05",
-        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/",
+        "quote": "Movistar is the Spanish telecoms operate Telefonica and its mobile brand",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The Inner Ring's Tour de France Femmes review names Movistar, Telefónica's mobile brand, as the team's sponsor; the team title is mapped to the front placement per the league's convention (data/leagues/uci-womens-worldtour.json). Telefónica's president said at the 2026 kit presentation: 'Each cyclist carries the M of Movistar on their jersey' (GOBIK pressroom, 11 December 2025)."
+      }
+    },
+    {
+      "sponsorId": "gobik",
+      "placement": "partner",
+      "source": {
+        "name": "GOBIK pressroom: 'Movistar Team presents its 2026 project with a renewed identity and a real commitment to the future of cycling'",
+        "date": "2025-12-11",
+        "url": "https://gobik.com/en/blogs/pressroom/movistar-team-presenta-su-proyecto-2026-con-una-identidad-renovada-y-un-compromiso-real-con-el-futuro-del-ciclismo",
+        "quote": "The event also served to unveil the new jersey designed by GOBIK",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The presentation covered the men's, women's and development squads together."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026 UCI Women's WorldTeam sponsored by Movistar (Telefónica brand).",
+  "summary": "2026 UCI Women's WorldTeam. Movistar (Telefónica's commercial brand) carries the team name on the front of the mostly white jersey unveiled on 11 December 2025; the kit is made by GOBIK. Movistar is on hold as being-rated; other jersey placements (sleeves, back, shorts) could not be verified from text sources.",
   "change": null
 }

@@ -17,5 +17,28 @@
     },
     "note": "The same report's related-party table describes Mr. Alwetaid as 'CEO of Saudi Telecom Company (STC)' and his board biography says 'Currently, he is the CEO of the stc Group since 2021'."
   },
+  "additionalSources": [
+    {
+      "name": "SDxCentral: 'Telefónica appoints STC CEO Olayan Alwetaid to board'",
+      "date": "2025-02-27",
+      "url": "https://www.sdxcentral.com/news/telef%C3%B3nica-appoints-stc-ceo-olayan-alwetaid-to-board/",
+      "quote": "Telefónica has appointed STC CEO Olayan Alwetaid to its board of directors this week.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The same report adds: 'Alwetaid joins the board as proprietary director. His place on the board represents the shareholder Green Bridge Investment Company SCS / STC Group.'"
+    },
+    {
+      "name": "Telefónica S.A. Form 6-K filed with the US Securities and Exchange Commission: Changes in the composition of the Board of Directors",
+      "date": "2025-02-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/814052/000081405225000016/form6kchangeboard.htm",
+      "quote": "to appoint, by co-optation, Mr. Olayan Alwetaid as Proprietary Director to the Board of Directors of Telefónica, nominated by the shareholder Green Bridge Investment Company SCS / Stc Group",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }

@@ -1,0 +1,34 @@
+{
+  "id": "movistar-telefonica-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "telefonica"
+  ],
+  "text": "Movistar is the commercial brand of Telefónica for Spain and Hispanic America, and Telefónica calls the Movistar Team its longest-running sponsorship.",
+  "short": "Movistar is Telefónica's commercial brand for Spain and Hispanic America; the Movistar Team is Telefónica's longest-running sponsorship.",
+  "source": {
+    "name": "Telefónica: Our Brands",
+    "date": "2026-10-03",
+    "url": "https://www.telefonica.com/en/about-us/brands/",
+    "quote": "and is the one that leads all communications: Movistar for Spain and Hispanic America, O2 in Europe and Vivo in Brazil",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Undated corporate page; date is the day it was opened. The full sentence reads: 'Therefore, at local level, the commercial brand is the one that has a relationship with the different stakeholders, both for B2C and B2B, and is the one that leads all communications: Movistar for Spain and Hispanic America, O2 in Europe and Vivo in Brazil.'"
+  },
+  "additionalSources": [
+    {
+      "name": "GOBIK pressroom: 'Movistar Team presents its 2026 project with a renewed identity and a real commitment to the future of cycling'",
+      "date": "2025-12-11",
+      "url": "https://gobik.com/en/blogs/pressroom/movistar-team-presenta-su-proyecto-2026-con-una-identidad-renovada-y-un-compromiso-real-con-el-futuro-del-ciclismo",
+      "quote": "Movistar Team is one of Telefónica's great symbols. It is not only our longest-running sponsorship",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Statement of Borja Ochoa, Telefónica's president, as quoted in the kit maker's report of the team's 2026 presentation in Valencia."
+    }
+  ],
+  "reviewed": false
+}
