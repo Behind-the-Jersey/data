@@ -1,12 +1,16 @@
 {
   "id": "xero",
   "name": "Xero",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  "ownerId": "xero-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Xero Limited is listed on the Australian Securities Exchange; its share register is headed by custody nominees, with no named holder above 3.68%. Nothing found.",
+  "claimIds": [
+    "xero-ownership"
+  ],
+  "aliases": [
+    "xero limited"
+  ],
+  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners, checked 2026-10-04)."
 }

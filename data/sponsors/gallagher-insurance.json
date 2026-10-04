@@ -1,14 +1,17 @@
 {
   "id": "gallagher-insurance",
   "name": "Gallagher Insurance",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "arthur j. gallagher"
+  "ownerId": "arthur-j-gallagher-co",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Gallagher is the brand of Arthur J. Gallagher & Co., a US insurance broker listed on the New York Stock Exchange whose largest shareholders are asset managers (Vanguard 9.9%, JP Morgan Chase 7.8%, BlackRock 6.9%). Nothing found.",
+  "claimIds": [
+    "arthur-j-gallagher-ownership"
   ],
-  "note": "Official Platinum Partner of New Zealand Rugby (allblacks.com/partners)."
+  "aliases": [
+    "arthur j. gallagher",
+    "gallagher"
+  ],
+  "note": "Official Platinum Partner of New Zealand Rugby (allblacks.com/partners, checked 2026-10-04; the partner tile links to ajg.com, Arthur J. Gallagher & Co.'s site)."
 }

@@ -1,12 +1,14 @@
 {
   "id": "bupa",
   "name": "Bupa",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "bupa-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Bupa is a company limited by guarantee with no shareholders; profits are reinvested into healthcare. Nothing found.",
+  "claimIds": [
+    "bupa-ownership"
+  ],
   "aliases": [],
-  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners, checked 2026-10-04)."
 }

@@ -1,0 +1,35 @@
+{
+  "id": "altrad-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "altrad-group",
+    "mohed-altrad"
+  ],
+  "text": "The Altrad group is a privately held, family-owned industrial group controlled by its founder and chairman Mohed Altrad: its 2025 annual report names him with 96.95% of the shares, alongside minority shareholders Arkea and Tikehau (3.05%).",
+  "short": "Mohed Altrad holds 96.95% of the Altrad group",
+  "source": {
+    "name": "Altrad Annual Report 2025 (PDF): 3.1 Board structure",
+    "date": "2025",
+    "url": "https://newsmanager.altrad.com/files/altrad-group/news/2025/12/17_annual-report-2025/altrad-annual-report-2025.pdf",
+    "quote": "The Board members have been nominated by the shareholders: Mohed Altrad (96.95%), alongside minority shareholders (3.05%) including Arkea and Tikehau.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Same report, 'Our model' section, lists 'Family-owned' among the group's value-creation points and says 'Altrad Group continues to be led by its founder, Mohed Altrad'."
+  },
+  "additionalSources": [
+    {
+      "name": "Forbes: 'Who Is Mohed Altrad, The Billionaire Scaffolding King Found Guilty Of Rugby Bribery?'",
+      "date": "2022-12-13",
+      "url": "https://www.forbes.com/sites/chasewithorn/2022/12/13/who-is-mohed-altrad-the-billionaire-scaffolding-king-found-guilty-of-rugby-bribery/",
+      "quote": "making his stake (he owns 80% of the company) worth an estimated $1 billion",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Republishes Forbes' March 2015 profile 'From Bedouin To Billionaire', so the 80% figure is as of 2015; the annual report's 96.95% is the current figure."
+    }
+  ],
+  "reviewed": false
+}
