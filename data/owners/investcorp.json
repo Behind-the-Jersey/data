@@ -2,8 +2,8 @@
   "id": "investcorp",
   "name": "Investcorp",
   "type": "private-company",
-  "parentId": "mubadala",
+  "parentId": null,
   "country": "Bahrain",
   "via": "Bahrain-based global alternative investment manager; delisted from the Bahrain Bourse in 2021 and converted into a closed shareholding (private) company",
-  "note": "Mubadala, Abu Dhabi's state investment company, agreed in July 2016 to take a 20% interest in Investcorp and was still described as its biggest shareholder at the 2021 delisting (claims mubadala-investcorp-stake, poc-investcorp-ownership). Its private-equity portfolio includes POC, the Swedish helmet and protection brand, acquired from Black Diamond."
+  "note": "Mubadala, Abu Dhabi's state investment company, agreed in July 2016 to take a 20% interest in Investcorp and was still described as its biggest shareholder when it announced its 2021 delisting (claims mubadala-investcorp-stake, poc-investcorp-ownership). A 20% minority stake, so not its parent; parentId stays null. Its private-equity portfolio includes POC, the Swedish helmet and protection brand, acquired from Black Diamond."
 }
