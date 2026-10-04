@@ -1,0 +1,21 @@
+{
+  "id": "antel-state-entity",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-uruguay"
+  ],
+  "text": "Antel (Administración Nacional de Telecomunicaciones) is a decentralised public service of the Uruguayan state, created by Decree-Law 14.235 of 1974.",
+  "short": "Antel is Uruguay's state telecoms operator",
+  "source": {
+    "name": "IMPO (Uruguay's official law gazette): Decreto Ley N° 14.235, article 1",
+    "date": "1974-08-02",
+    "url": "https://www.impo.com.uy/bases/decretos-leyes-originales/14235-1974/1",
+    "quote": "Créase, con el nombre de Administración Nacional de Telecomunicaciones (ANTEL), un servicio público descentralizado.",
+    "note": "English: 'A decentralised public service is created under the name Administración Nacional de Telecomunicaciones (ANTEL).' The page is served in Latin-1, so accents drop out when read as UTF-8; the quote matches the page's characters exactly.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
