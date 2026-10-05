@@ -22,10 +22,10 @@
       "date": "2026-04",
       "url": "https://web.archive.org/web/20261003053747id_/https://centers.cenomi.com/wp-content/uploads/sites/2/2026/04/CENOMI_EN_Annual_Report_Tadwul.pdf",
       "quote": "FAS Real Estate Company Limited 133,143,550 28.03% 127,706,683 26.89%",
-      "note": "18.5 MB archived PDF, beyond the source-checker's fetch cap; the table quote and note 14.B.i wording were verified by hand in the archived file. The next-largest holder in the table holds 4.00%.",
+      "note": "18.5 MB archived PDF, beyond the source-checker's fetch cap; the table quote and note 14.B.i wording were verified by hand in the archived file (btj-scout review, 2026-10-03). The next-largest holder in the table holds 4.00%. Re-verified 2026-10-05 (BigBossRabbit, daily pass) after the review round's archive.org fetch failed transiently: the snapshot downloads HTTP 200 (18,514,819 bytes) and the substantial-shareholdings table row reads verbatim on p.52: FAS Real Estate Company Limited 133,143,550 28.03% 127,706,683 26.89%.",
       "checked": {
-        "on": "2026-10-03",
-        "by": "btj-scout review (OpenCode, model kimi-k3): table quote verified by hand in the archived PDF"
+        "on": "2026-10-05",
+        "by": "BigBossRabbit (daily cron pass): archived PDF downloaded and table row verified verbatim on p.52"
       }
     }
   ],
