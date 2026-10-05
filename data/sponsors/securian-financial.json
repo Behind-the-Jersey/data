@@ -3,13 +3,13 @@
   "name": "Securian Financial",
   "ownerId": "securian-financial-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Securian Financial Group, Inc., a St. Paul-based insurer wholly owned - through Securian Holding Company - by Minnesota Mutual Companies, Inc., a mutual holding company. Nothing found.",
   "claimIds": [
     "securian-financial-marketing-name",
     "securian-minnesota-mutual-ownership"
   ],
   "aliases": [],
-  "note": "Rating note: Securian Financial is the marketing name for Securian Financial Group, Inc., whose ultimate parent is Minnesota Mutual Companies, Inc. (per a 2017 SEC information statement). Previous rating note (removed 2026-09-25): its only claim then was an invented ownership record (#279)."
+  "note": "Rating note: Securian Financial is the marketing name for Securian Financial Group, Inc., whose ultimate parent is Minnesota Mutual Companies, Inc. (per a 2017 SEC information statement). Previous rating note (removed 2026-09-25): its only claim then was an invented ownership record (#279). Rated 2026-10-05: none - privately held (mutual) US insurer; the SEC DEF 14C names no state or state-fund anywhere in the chain, and nothing found against the company itself in the last 20 years."
 }
