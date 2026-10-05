@@ -3,12 +3,12 @@
   "name": "Cleveland-Cliffs",
   "ownerId": "cleveland-cliffs-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Cleveland-Cliffs Inc., an iron-ore and steel producer listed on the New York Stock Exchange (CLF). Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": null,
   "claimIds": [
     "cleveland-cliffs-ownership"
   ],
   "aliases": [],
-  "note": "Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Ownership traced 2026-10-01 from SEC filings: NYSE-listed (Form 10-K FY2025); the only holder above five percent named in the 2026 proxy statement is BlackRock, Inc. at 7.73%. Tier proposal: none (see pull request). Rated 2026-10-05: none - a listed US company; its 2026 proxy statement names no state or state-fund holder (the only holder above five percent is BlackRock, Inc. at 7.73%), so there is no state link for a tier above none."
+  "note": "Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Ownership traced 2026-10-01 from SEC filings: NYSE-listed (Form 10-K FY2025); the only holder above five percent named in the 2026 proxy statement is BlackRock, Inc. at 7.73%. Tier proposal none (#1278) not accepted 2026-10-05: METHOD.md's company test is unresolved. The NTSB's report RIR-24-06 on the 2023-03-07 death of a Norfolk Southern conductor at a private highway-railroad grade crossing in the Cleveland-Cliffs steel plant in Cleveland, Ohio found: 'Contributing to the accident was the design of the intersection at the private highway-railroad grade crossing preventing adequate sight distance for the driver to be able to determine if it was safe to cross the tracks' (www.ntsb.gov/investigations/AccidentReports/Reports/RIR2406.pdf, opened 2026-10-05); the report says Cleveland-Cliffs afterwards altered the crossing's design. Separately, a Phoenix Services contractor was killed at the Cleveland-Cliffs Burns Harbor plant in August 2026, with Indiana OSHA investigating and no citation located (CBS Chicago, 2026-08-16). Whether the NTSB finding passes the company test for a rating above none is a maintainer's call."
 }
