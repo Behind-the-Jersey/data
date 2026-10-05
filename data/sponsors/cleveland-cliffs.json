@@ -3,12 +3,12 @@
   "name": "Cleveland-Cliffs",
   "ownerId": "cleveland-cliffs-owner",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Cleveland-Cliffs Inc., an iron-ore and steel producer listed on the New York Stock Exchange (CLF). Nothing found.",
   "claimIds": [
     "cleveland-cliffs-ownership"
   ],
   "aliases": [],
-  "note": "Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Ownership traced 2026-10-01 from SEC filings: NYSE-listed (Form 10-K FY2025); the only holder above five percent named in the 2026 proxy statement is BlackRock, Inc. at 7.73%. Tier proposal: none (see pull request)."
+  "note": "Rating removed 2026-09-25: its only claim was an invented ownership record (#279). Ownership traced 2026-10-01 from SEC filings: NYSE-listed (Form 10-K FY2025); the only holder above five percent named in the 2026 proxy statement is BlackRock, Inc. at 7.73%. Tier proposal: none (see pull request). Rated 2026-10-05: none - a listed US company; its 2026 proxy statement names no state or state-fund holder (the only holder above five percent is BlackRock, Inc. at 7.73%), so there is no state link for a tier above none."
 }
