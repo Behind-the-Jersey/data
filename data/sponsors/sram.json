@@ -1,12 +1,17 @@
 {
   "id": "sram",
   "name": "SRAM",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Chicago-based component manufacturer; co-title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
+  "ownerId": "sram-day-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "SRAM is a private company owned by the Day family and its management team (co-founder Stan Day, Pinkbike, Jan 2019). Nothing found.",
+  "claimIds": [
+    "sram-day-family-ownership"
+  ],
+  "aliases": [
+    "SRAM LLC",
+    "SRAM Corporation"
+  ],
+  "note": "Chicago-based component manufacturer; co-title sponsor of Canyon//SRAM (Cyclist, 2026-07-14). Rating note: owned by the Day family and management (claim sram-day-family-ownership); no state capital found; no relevant human-rights record found. Trade-press coverage of Peter Bengtsen's Taiwan bicycle-industry investigations names SRAM only as one of the companies that adopted no-fee recruitment policies in late 2025 (Bengtsen 'Speeding Up', May 2026), not as a finding against SRAM."
 }

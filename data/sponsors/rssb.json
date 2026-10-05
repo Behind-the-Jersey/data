@@ -6,9 +6,22 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "rssb-established-by-law",
+    "rwanda-troops-m23"
+  ],
   "aliases": [
     "rssb rwanda"
   ],
-  "note": "Owner and name sponsor of RSSB Tigers, the 2026 BAL champions; took over Tigers BBC in 2025 (The New Times; Ecofin Agency)."
+  "note": "Owner and name sponsor of RSSB Tigers, the 2026 BAL champions; took over Tigers BBC in 2025 (The New Times; Ecofin Agency). Tier left to a maintainer: a state-controlled Rwandan institution plus the Government of Rwanda's documented record (UN Group of Experts, S/2024/432) points to Serious or Severe.",
+  "ownerVerb": "owned by",
+  "why": {
+    "text": "RSSB — the Rwanda Social Security Board — is the country's social-security board, established by Rwandan law and supervised by the Ministry in charge of finance; it owns the club outright and put its own name on it. Behind it sits the Rwandan state: UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
+    "claimIds": [
+      "rwanda-troops-m23",
+      "rssb-established-by-law"
+    ],
+    "messageLine": "UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
+    "status": "draft"
+  }
 }

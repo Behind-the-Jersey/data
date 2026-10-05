@@ -12,10 +12,15 @@
       "sponsorId": "visit-rwanda",
       "placement": "league-partner",
       "source": {
-        "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+        "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension (Wayback Machine capture; live page 403s scripts)",
         "date": "2023-06-19",
-        "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        "url": "https://web.archive.org/web/20260515172203/https://pr.nba.com/bal-rwanda-development-board-kigali/",
+        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide).",
+        "quote": "Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -23,9 +28,14 @@
       "placement": "partner",
       "source": {
         "name": "The New Times (Rwanda) - APR vs Tigers, a new rivalry taking over Rwandan basketball",
-        "date": "2026",
+        "date": "2026-07-29",
         "url": "https://www.newtimes.co.rw/article/37747/sports/basketball/apr-vs-tigers-a-new-rivalry-taking-over-rwandan-basketball/amp",
-        "note": "In 2025 'the Rwanda Social Security Board (RSSB) took full ownership of the club', which 'was subsequently renamed RSSB Tigers' - name-sponsor/owner relationship, not a bought shirt slot."
+        "note": "In 2025 'the Rwanda Social Security Board (RSSB) took full ownership of the club', which 'was subsequently renamed RSSB Tigers' - name-sponsor/owner relationship, not a bought shirt slot.",
+        "quote": "the Rwanda Social Security Board (RSSB) took full ownership of the club, which was subsequently renamed RSSB Tigers",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],

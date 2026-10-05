@@ -1,0 +1,34 @@
+{
+  "id": "electromin-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "electromin-owner"
+  ],
+  "text": "Electromin is the EV-charging subsidiary of Petromin Corporation, one of Nissan's authorized dealers in Saudi Arabia.",
+  "short": "Electromin is a Petromin Corporation subsidiary.",
+  "source": {
+    "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Electromin section)",
+    "date": "2026",
+    "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+    "note": "Press kit page without a date; opened 2026-10-03.",
+    "quote": "Electromin's parent company, Petromin Corporation, is one of our authorized Nissan dealers in Saudi Arabia",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Petromin: Company Profile (Our Evolution)",
+      "date": "2026",
+      "url": "https://petromin.com/our-profile/",
+      "note": "Page without a date (milestone year 2020); opened 2026-10-03.",
+      "quote": "Launches Electromin – The first EV solutions company in Saudi Arabia",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -12,31 +12,86 @@
       "sponsorId": "deutsche-bank",
       "placement": "front",
       "source": {
-        "name": "SailGP team page - Germany presented by Deutsche Bank (Title Partner)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/germany/"
+        "name": "Deutsche Bank Wealth Management: Germany SailGP Team partnership page",
+        "date": "2026",
+        "url": "https://wealth.db.com/en/about-us/our-partnerships/sailgp-partnership.html",
+        "quote": "Deutsche Bank is proud founding and co-title partner of the Germany SailGP Team.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "riedel",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - Germany (Official Partner)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/germany/"
+        "name": "SailGP team page - Germany presented by Deutsche Bank (Official Partner group)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/germany/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-10-03 from the page's embedded data (Official Partners: Riedel, Viessmann)."
       }
     },
     {
       "sponsorId": "viessmann",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - Germany (Official Partner)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/germany/"
+        "name": "Viessmann Generations Group: 'Viessmann and Germany SailGP Team Unveil New Official Partnership at ENEL Rio Sail Grand Prix Debut'",
+        "date": "2026-04-15",
+        "url": "https://www.viessmann.group/news/viessmann-and-germany-sailgp-team-unveil-new-official-partnership-at-enel-rio-sail-grand-prix-debut",
+        "quote": "Viessmann joins the Germany SailGP Team as a new Official Partner, with the brand featured prominently in the team's race environment.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "helly-hansen",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Germany presented by Deutsche Bank (Official Suppliers group)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/germany/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-10-03 from the page's embedded data (Official Suppliers: Helly Hansen, Flaxta, Wera, AVEA)."
+      }
+    },
+    {
+      "sponsorId": "flaxta",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Germany presented by Deutsche Bank (Official Suppliers group)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/germany/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-10-03 from the page's embedded data (Official Suppliers: Helly Hansen, Flaxta, Wera, AVEA)."
+      }
+    },
+    {
+      "sponsorId": "wera",
+      "placement": "partner",
+      "source": {
+        "name": "Wera: The Company (partnerships section)",
+        "date": "2026",
+        "url": "https://www.wera.de/en/company/wera-the-company",
+        "quote": "Wera is supporting the Germany SailGP Team this year as a tool partner during all pre-season preparations and is fully equipped to handle any fastening issues during the competitions.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "avea",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Germany presented by Deutsche Bank (Official Suppliers group)",
+        "date": "2026-10-03",
+        "url": "https://www.sailgp.com/teams/germany/",
+        "note": "Team page partner groups are rendered by script; contents confirmed on 2026-10-03 from the page's embedded data (Official Suppliers: Helly Hansen, Flaxta, Wera, AVEA)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Deutsche Bank presents Germany's team; Riedel - whose founder owns the team - and Viessmann are official partners.",
+  "sponsorsComplete": true,
+  "summary": "Deutsche Bank (co-title partner) presents Germany's team; Riedel - the company owned by the team's majority owner Thomas Riedel - and the Viessmann family group are official partners; Helly Hansen (Kontoor Brands), Flaxta, Wera (Bitburger Holding) and AVEA are official suppliers. The team's 'Purpose Partner' (Wir sind Wir, a pro-democracy campaign) is not recorded as a sponsor.",
   "change": null
 }

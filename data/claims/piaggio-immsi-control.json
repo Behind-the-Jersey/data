@@ -1,0 +1,21 @@
+{
+  "id": "piaggio-immsi-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "piaggio-group"
+  ],
+  "text": "The Piaggio Group, listed on the Milan Stock Exchange since 2006, is controlled by Immsi S.p.A., an industrial holding listed on the Milan Stock Exchange.",
+  "short": "Piaggio is controlled by Immsi S.p.A., a listed industrial holding.",
+  "source": {
+    "name": "Piaggio Group: FAQ",
+    "date": "2026",
+    "url": "https://www.piaggiogroup.com/en/faq",
+    "quote": "The Piaggio Group is controlled by Immsi S.p.A., an industrial holding listed on the Milan Stock Exchange.",
+    "note": "The same page also states: 'Piaggio has been listed on the Milan Stock Exchange since 11 July 2006 (ISIN code: IT0003073266).'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

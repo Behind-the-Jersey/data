@@ -1,12 +1,19 @@
 {
   "id": "ak-bars-bank",
   "name": "Ak Bars Bank",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "ak-bars-bank",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Official bank of FC Rubin."
+  "claimIds": [
+    "russian-federation-record",
+    "ak-bars-bank-tatarstan-shareholders",
+    "svyazinvestneftekhim-republic-of-tatarstan"
+  ],
+  "aliases": [
+    "Ак Барс Банк",
+    "Ак Барс"
+  ],
+  "note": "Official bank of FC Rubin; name on the upper front and logo patch on the sleeve of the 2026-27 home shirt (official club store product photos, 2026-10-03). Its own register page (Wayback, Jan 2021 capture) lists Tatarstan state bodies and companies with over 50% combined as of 29 Oct 2020, and Cbonds' profile reproduces the same list today; Svyazinvestneftekhim, the republic's holding vehicle, states on its own site that its sole shareholder is the Republic of Tatarstan (Kommersant reported 100% state ownership in 2009). Later registers could not be opened (akbars.ru blocks this network, e-disclosure.ru returns 403, and its 2025 published IFRS statements redact shareholder detail as sensitive information). Sponsor kept unrated; tier decision deferred to a maintainer."
 }

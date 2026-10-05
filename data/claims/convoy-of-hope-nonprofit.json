@@ -1,0 +1,34 @@
+{
+  "id": "convoy-of-hope-nonprofit",
+  "kind": "ownership",
+  "ownerIds": [
+    "convoy-of-hope"
+  ],
+  "text": "Convoy of Hope is a faith-based humanitarian organisation founded in 1994 by Hal Donaldson; it is a 501(c)(3) tax-exempt nonprofit organisation.",
+  "short": "Convoy of Hope is a 501(c)(3) nonprofit humanitarian organisation.",
+  "source": {
+    "name": "Convoy of Hope: About (European site)",
+    "date": "2026",
+    "url": "https://convoyofhope.eu/about/",
+    "quote": "Convoy of Hope is a 501(c)(3) tax-exempt organisation. All donations are tax-deductible where allowed by law.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Footer statement on the About page, which also states Convoy of Hope was founded in 1994 by Hal Donaldson. Cited from convoyofhope.eu: convoyofhope.org blocks scripts (403). Page has no date; opened 2026-10-03."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "ProPublica Nonprofit Explorer: Convoy Of Hope (EIN 68-0051386, Springfield, MO)",
+      "date": "2026-09-23",
+      "url": "https://projects.propublica.org/nonprofits/organizations/680051386",
+      "quote": "Designated as a 501(c)(3)",
+      "note": "IRS-derived Nonprofit Explorer profile for Convoy Of Hope, Springfield, MO, headed 'Designated as a 501(c)(3)' with 'Donations to this organization are tax deductible.' Date is the page's 'Updated' date.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}

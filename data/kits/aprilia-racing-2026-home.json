@@ -7,8 +7,54 @@
   "periodFrom": "2026",
   "periodTo": "2026",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "monster-energy",
+      "placement": "front",
+      "source": {
+        "name": "MotoGP.com: Aprilia Racing and Monster Energy sign a multi-year sponsorship agreement",
+        "date": "2026-05-29",
+        "url": "https://www.motogp.com/en/news/2026/05/29/aprilia-racing-and-monster-energy-sign-a-multi-year-sponsorship-agreement/1070549",
+        "quote": "the presence of the iconic, three-claw logo on the factory RS-GP bikes, on the riders’ leathers, and on the team’s key assets",
+        "note": "The quote is the second half of the sentence 'The collaboration between Aprilia Racing and Monster Energy will be highlighted by the presence of the iconic, three-claw logo...'. Announced at the Grand Prix of Italy: Monster Energy joins as main sponsor from the 2026 Italian GP and takes the title-sponsor role in 2027 (CEO Massimo Rivola: 'alongside us in 2026 as main sponsor and who will take on the role of title sponsor in 2027'). The release calls Monster Energy 'Aprilia Racing's first title sponsor', which is why the team began the 2026 season without a title sponsor.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fes-global-group",
+      "placement": "partner",
+      "source": {
+        "name": "FES Global Group: FES continues its partnership with Aprilia Racing in 2026",
+        "date": "2026-01-20",
+        "url": "https://www.fesglobalgroup.com/en/fes-continues-partnership-aprilia-racing-2026/",
+        "quote": "FES Global Group renews its partnership with Aprilia Racing for the 2026 MotoGP season, confirming its role as Official Sponsor of the Italian team",
+        "note": "FES's own announcement on the renewal for 2026. The sentence continues 'competing in the MotoGP World Championship'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sc-project",
+      "placement": "partner",
+      "source": {
+        "name": "Wide Magazine (Piaggio Group): Aprilia Racing and SC-Project still together for the 2026 MotoGP season",
+        "date": "2025-10-01",
+        "url": "https://wide.piaggiogroup.com/en/articles/racing/aprilia-racing-and-sc-project-still-together-for-the-2026-motogp-season/index.html",
+        "quote": "Aprilia Racing has renewed the technical partnership with SC-Project for the 2026 MotoGP season",
+        "note": "The same release says 'From 2022, SC-Project has been Aprilia Racing’s Exhaust Official Technical Supplier', developing exhausts for the RS-GP machines.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "2026 Aprilia Racing (Marco Bezzecchi, Jorge Martín). The factory team raced the first part of the season without a title sponsor; Monster Energy joined as main sponsor from the 2026 Grand Prix of Italy (announced 29 May 2026) and becomes title sponsor in 2027. Also recorded: FES Global Group, renewed Official Sponsor for 2026 (its own announcement of 20 Jan 2026), and SC-Project, Aprilia Racing's Exhaust Official Technical Supplier, whose partnership was renewed for 2026 (Piaggio Group's Wide Magazine, 1 Oct 2025). sponsorsComplete is false: Aprilia's own partner page (aprilia.com) is built in JavaScript and blocked to scripted access, so its full partner list could not be checked.",
   "change": null
 }
