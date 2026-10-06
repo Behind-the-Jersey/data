@@ -1,0 +1,35 @@
+{
+  "id": "samara-government-on-shirt",
+  "kind": "ownership",
+  "ownerIds": [
+    "samara-oblast-government",
+    "russian-federation"
+  ],
+  "text": "PFC Krylia Sovetov's 2026/27 home shirt carries the name 'Правительство Самарской области' — the Government of Samara Oblast, the regional government of this Russian federal subject — on the front.",
+  "short": "Government of Samara Oblast branding on Krylia Sovetov's 2026/27 home shirt.",
+  "source": {
+    "name": "PFC Krylia Sovetov store: Майка игровая темно-синяя Kelme сезон 26/27",
+    "date": "2026",
+    "url": "https://store.pfcks.ru/clothes/t-shirt-1/forma_569.html",
+    "quote": "На майке нанесены логотипы \"Ромб КС\", \"wb\", \"fonbet\", \"Правительство Самарской области\".",
+    "note": "The club store's description of the 2026/27 home ('домашняя') dark-blue shirt names 'Правительство Самарской области' among the logos applied to it. The club's kit-launch photos of 2026-07-23 (https://pfcks.ru/news/novosti_4846.html, e.g. https://pfcks.ru/netcat_files/multifile/464/4846/20260723bb.jpg) show it on the lower front, below the wing graphic.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout (review agent)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Sports.ru: «Крылья Советов» представили форму на сезон-2026/27. Домашний комплект вдохновлен космосом, гостевой – скафандром космонавта",
+      "date": "2026-07-23",
+      "url": "https://www.sports.ru/football/1117309539-krylya-sovetov-predstavili-domashnyuyu-formu-sezona-2026-27-czentralny.html",
+      "quote": "«Крылья Советов» показали форму нового сезона, вдохновленную космосом.",
+      "note": "Sports.ru republishes the club's launch photos (credited t.me/fckssamara_official). The page's text does not name the government — the fact is carried by the photos on the page: the home-shirt photo (https://photobooth.cdn.sports.ru/preset/news/8/a5/0da297c784fd7bc38839391f67df7.jpeg) shows 'ПРАВИТЕЛЬСТВО САМАРСКОЙ ОБЛАСТИ' in white on the lower front, below the wing graphic, as in the club's own launch photos.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (review agent, PR #1189)"
+      }
+    }
+  ],
+  "reviewed": false
+}
