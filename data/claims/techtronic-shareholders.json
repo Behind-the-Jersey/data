@@ -1,0 +1,21 @@
+{
+  "id": "techtronic-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "techtronic-industries"
+  ],
+  "text": "Techtronic Industries is publicly traded on the Hong Kong Stock Exchange; it says the Pudwill family remains its largest shareholder, with the remaining ownership held largely by institutional investors at North American and European-owned firms. The substantial-shareholders register in its 2026 interim report records no state or fund; at 30 June 2026 it lists only asset managers (JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates, at 5-11% each, largely custody and lending positions).",
+  "short": "TTI is listed on the Hong Kong Stock Exchange; the Pudwill family is its largest shareholder, the rest largely institutional investors.",
+  "source": {
+    "name": "Techtronic Industries 2026 Interim Report – Company Profile and Substantial Shareholders' Interests",
+    "date": "2026",
+    "url": "https://www.ttigroup.com/sites/default/files/2026-08/ir2026.pdf",
+    "quote": "The Pudwill family remains the company's largest shareholder, with the remaining ownership held largely by institutional investors at North American and European-owned firms. TTI is publicly traded on the Hong Kong Stock Exchange",
+    "note": "The same PDF's substantial-shareholders register (kept under section 336 of the SFO) lists, at 30 June 2026, JPMorgan Chase & Co. 11.24% long (including a 7.80% lending pool), The Bank of New York Mellon Corporation 7.45% long, The Capital Group Companies 7.13%, BlackRock, Inc. 5.10% and Pandanus Associates Inc. 5.08%. The report does not give the interim PDF a day-specific publication date; the interim results were announced in August 2026.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout review agent (OpenCode, model kimi-k3-abliterated)"
+    }
+  },
+  "reviewed": false
+}

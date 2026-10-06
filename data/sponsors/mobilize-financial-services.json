@@ -1,11 +1,15 @@
 {
   "id": "mobilize-financial-services",
   "name": "Mobilize Financial Services",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "renault-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A subsidiary of Renault Group, in which the French State holds 15.01%. Nothing found.",
+  "claimIds": [
+    "mobilize-fs-renault-subsidiary",
+    "renault-french-state-stake"
+  ],
+  "aliases": [],
+  "note": "The commercial brand of RCI Banque S.A. Joined the Alpine endurance programme for 2026 (club release 19/03/2026) and is also a BWT Alpine F1 Team partner. The French State's 15.01% Renault stake (renault-french-state-stake) is not a link under METHOD.md: France doesn't count as a state with a record of serious abuses (maintainers' decision, 30 September 2026)."
 }
