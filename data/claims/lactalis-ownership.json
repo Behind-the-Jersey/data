@@ -1,0 +1,20 @@
+{
+  "id": "lactalis-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lactalis"
+  ],
+  "text": "Puleva is part of Lactalis and is the flagship brand of Lactalis Puleva, Lactalis's milk and drinks unit based in Granada.",
+  "short": "Puleva is part of Lactalis and the flagship brand of its Lactalis Puleva unit.",
+  "source": {
+    "name": "Lactalis España: 'Nuestras marcas' (FAQ: ¿Puleva pertenece a Lactalis?)",
+    "date": "2026",
+    "url": "https://www.lactalis.es/conocenos/marcas",
+    "quote": "Sí. Puleva forma parte de Lactalis y es la marca más emblemática de Lactalis Puleva, la unidad especializada en leche y bebidas con sede en Granada.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
