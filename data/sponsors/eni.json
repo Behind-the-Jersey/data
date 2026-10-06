@@ -3,22 +3,13 @@
   "name": "Eni",
   "ownerId": "eni",
   "ownership": "owned",
-  "tier": "concern",
-  "status": "rated",
+  "tier": "unrated",
+  "status": "being-rated",
   "verdict": "Eni S.p.A.",
   "claimIds": [
     "eni-record",
     "eni-climate-suit"
   ],
   "aliases": [],
-  "note": "Re-rated 2026-10-06 (#183): concern - the link is the Italian state's 33.084% stake in Eni (MEF 2.166% direct + 30.918% via Cassa Depositi e Prestiti, itself 82.77% MEF-owned), per Eni's 2026 AGM filing and Eni's Form 20-F FY2025 (Item 7: the Ministry of Economy and Finance controls Eni), alongside golden-share powers. Matches the repo's part-state precedent (lenovo 29.04% state-owned CAS Holdings; motorola-mobility ~9.5% Chinese state; standard-chartered/Temasek; noon/PIF 50%). The 2026-09-28 hold is resolved: the two-source evidence chain is now on the claim, the unsourced conflict-exposure sentence has been dropped, and no sourced abuse claim against the MEF/CDP owner chain was found.",
-  "why": {
-    "text": "The Italian state holds 33.084% of Eni - the Ministry of Economy and Finance 2.166% directly and 30.918% through Cassa Depositi e Prestiti, which the ministry itself controls with 82.77% - and Eni's own 20-F states that the Ministry of Economy and Finance controls Eni. So about a third of the money behind Eni is the Italian state's, with golden-share powers beside it. On the record side: Eni, the ministry and CDP are all defendants in a pending climate-responsibility suit before the Civil Court of Rome brought by Greenpeace Onlus, ReCommon APS and 12 private citizens (disclosed in Eni's 20-F) - pending, not a finding - and no sourced court, regulator, UN or major-NGO finding against the state-owner chain was located. Concern on the state-stake link, with the record left for a maintainer to weigh.",
-    "claimIds": [
-      "eni-record",
-      "eni-climate-suit"
-    ],
-    "messageLine": "The Italian state holds about a third of Eni; Eni, the state holding ministry and its lender are defendants in a pending climate suit in Rome.",
-    "status": "draft"
-  }
+  "note": "Reviewed 2026-10-06 (#183). Ownership link now sourced and quote-checked (Eni 2026 AGM filing; Eni Form 20-F FY2025 Item 7: MEF 2.166% direct plus 30.918% via Cassa Depositi e Prestiti, itself 82.77% MEF-owned; the 20-F states the MEF controls Eni). The concern tier proposed in the PR was rejected by review: a tier needs a qualifying record - Italy has no sourced record of serious abuses covered by METHOD.md (state ownership alone is not a tier; the part-state precedents cited, lenovo/noon/g42 etc., are states with such records), and the Greenpeace/ReCommon suit is pending and is a climate claim, which the method excludes. Unresolved company-record question for a maintainer (oil-and-gas major test): the same 20-F (commitments and contingencies, F-90/F-91) discloses Italian administrative-court rulings of May 2024 and 27 December 2024 confirming Eni Rewind (EniChem successor) as responsible for pollution at the Trissino site, where the Province of Vicenza reported toxic and carcinogenic substances in the blood of about 53,000 people; not yet assessed or claimed against the company-record test."
 }
