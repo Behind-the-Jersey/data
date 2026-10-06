@@ -1,0 +1,19 @@
+{
+  "id": "smbc",
+  "name": "SMBC (Sumitomo Mitsui Banking Corporation)",
+  "ownerId": "sumitomo-mitsui-financial-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "SMBC is wholly owned by Tokyo-listed Sumitomo Mitsui Financial Group, whose largest shareholders are trust and custody banks. Nothing found.",
+  "claimIds": [
+    "smbc-smfg-wholly-owned",
+    "smfg-largest-shareholders"
+  ],
+  "aliases": [
+    "sumitomo mitsui banking corporation",
+    "三井住友銀行",
+    "smbc rugby"
+  ],
+  "note": "Rating note: core bank of Tokyo-listed Sumitomo Mitsui Financial Group; the largest holders are trust and custody banks, no state or fund with a record in the chain → none. Men's Japan national team official partner (JRFU)."
+}
