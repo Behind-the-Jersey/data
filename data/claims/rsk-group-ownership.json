@@ -1,0 +1,33 @@
+{
+  "id": "rsk-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "alan-ryder"
+  ],
+  "text": "RSK Group Limited's only active person with significant control is Alan Ryder Investments Limited, with more than 25% but not more than 50% of its shares and voting rights; Alan Ryder Investments Limited's only active person with significant control is RSK founder and chief executive Dr Alasdair Alan Ryder, with 75% or more of its shares and voting rights.",
+  "source": {
+    "name": "Companies House: RSK GROUP LIMITED persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03761340/persons-with-significant-control",
+    "quote": "Nature of control Ownership of shares – More than 25% but not more than 50%",
+    "note": "The page lists Alan Ryder Investments Limited as RSK Group Limited's only active person with significant control, with this nature of control over both shares and voting rights.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Companies House: ALAN RYDER INVESTMENTS LIMITED persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/04487141/persons-with-significant-control",
+      "quote": "Nature of control Ownership of shares – 75% or more",
+      "note": "The page lists Dr Alasdair Alan Ryder as Alan Ryder Investments Limited's only active person with significant control, with 75% or more of shares and voting rights. RSK's own site identifies Alan Ryder as 'RSK founder, Chief Executive Officer' (rskgroup.com/news/rsk-group-and-charlton-athletic-renew-partnership/).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

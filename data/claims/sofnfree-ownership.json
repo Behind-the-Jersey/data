@@ -1,0 +1,33 @@
+{
+  "id": "sofnfree-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "amka-products"
+  ],
+  "text": "Sofnfree is a haircare brand of Amka Products (AMKA), a family-owned beauty and personal care company headquartered in Pretoria, South Africa.",
+  "source": {
+    "name": "AMKA: Sofnfree brand page",
+    "date": "2026",
+    "url": "https://amka.com/amka-brands/sofnfree/",
+    "quote": "Sofnfree hair products are trusted by millions to deliver on shine, moisture and healthy hair",
+    "note": "AMKA's own brand page for Sofnfree (amka.com/amka-brands/sofnfree/, page title 'SofnFree - AMKA'), showing Sofnfree is an AMKA brand.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AMKA: About Us",
+      "date": "2026",
+      "url": "https://amka.com/about/",
+      "quote": "We’re a family-owned company that truly operates like a family",
+      "note": "AMKA's About page (South Africa address: 14 Ellman Street, Sunderland Ridge, Pretoria) describes the company as family-owned.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
