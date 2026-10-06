@@ -4,8 +4,8 @@
   "ownerIds": [
     "koch-family-buffalo"
   ],
-  "text": "New Era Cap is controlled by its founding family, the Koch family of Buffalo; private equity firm ACON Investments holds a significant stake.",
-  "short": "New Era is controlled by its founding Koch family",
+  "text": "New Era Cap is controlled by its founding family, the Koch family of Buffalo; private equity firm ACON Investments holds a significant stake. ACON's roughly $700 million continuation fund, closed in August 2022, made Major League Baseball, the National Football League and the National Basketball Association minority owners in New Era Cap.",
+  "short": "New Era is controlled by its founding Koch family; MLB, the NFL and the NBA took minority stakes in 2022.",
   "source": {
     "name": "Yahoo Finance Canada (Reuters) - New Era Cap to acquire '47 in lifestyle brand tie-up, sources say",
     "date": "2024-06-06",
@@ -22,10 +22,10 @@
       "name": "ACON Investments - ACON Investments Closes Approximately $700 Million Continuation Fund for New Era Cap, LLC",
       "date": "2022-08-04",
       "url": "https://aconinvestments.com/news/acon-investments-closes-approximately-700-million-continuation-fund-for-new-era-cap-llc",
-      "quote": "New Era Cap will continue to be led by Chris Koch, its fourth-generation CEO, whose great grandfather, Ehrhardt Koch, founded New Era Cap in 1920",
+      "quote": "As part of the transaction, Major League Baseball, the National Football League and the National Basketball Association will become minority owners in New Era Cap",
       "checked": {
-        "on": "2026-10-03",
-        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        "on": "2026-10-04",
+        "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel), PR #1090 review"
       }
     },
     {

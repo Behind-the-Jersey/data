@@ -1,14 +1,16 @@
 {
   "id": "underdog",
   "name": "Underdog",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "underdog-sports-holdings",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "underdog-ig-group-ownership"
+  ],
   "aliases": [
     "Underdog Fantasy"
   ],
-  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25, re-verified 2026-10-03). Unrated: who controls Underdog Sports Holdings, Inc. today is not publicly identified — the sources name co-founders Jeremy Levine (CEO) and Brandon Stakenborg (CPO) but not the company's shareholders. London-listed IG Group Holdings plc announced on 30 July 2026 that it had agreed to acquire the company for up to approximately $1.3 billion, conditional on US regulatory approvals and Hart-Scott-Rodino clearance; the acquisition was still subject to regulatory approvals as of 8 September 2026 (iggroup.com RNS and press releases). Re-rate once the acquisition closes or the current shareholders are published."
 }

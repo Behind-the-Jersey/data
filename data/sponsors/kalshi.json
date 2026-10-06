@@ -1,12 +1,14 @@
 {
   "id": "kalshi",
   "name": "Kalshi",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "kalshi-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Its own announcement names co-founder and CEO Tarek Mansour and backers Coatue, Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley and ARK Invest. Nothing found.",
+  "claimIds": [
+    "kalshi-inc-ownership"
+  ],
   "aliases": [],
-  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25). Rating note: co-founder and CEO Tarek Mansour, with the venture investors named in its own May 2026 announcement (Coatue, Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley, ARK Invest); no state or state-fund owner in its announced funding. Its CFTC litigation is regulatory, not a human-rights finding."
 }
