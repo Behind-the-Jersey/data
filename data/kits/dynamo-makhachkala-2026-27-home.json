@@ -12,24 +12,94 @@
       "sponsorId": "magnit",
       "placement": "front",
       "source": {
-        "name": "FC Dynamo Makhachkala – Club partners",
-        "date": "2026-09-25",
-        "url": "https://dinamo-mx.ru/",
-        "note": "Магнит (Основа) in the club partners carousel."
+        "name": "FC Dynamo Makhachkala: «Представляем первый комплект игровой формы на сезон-2026/27»",
+        "date": "2026-07-25",
+        "url": "https://dinamo-mx.ru/news/predstavlyaem-pervyj-komplekt-igrovoj-formy-na-sezon-2026-27/",
+        "note": "Club's home-kit launch; the photos show the Магнит wordmark across the front of the shirt.",
+        "quote": "«Динамо» представляет новый комплект игровой формы на сезон-2026/27.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "betcity",
+      "placement": "front",
+      "source": {
+        "name": "FC Dynamo Makhachkala: «Представляем первый комплект игровой формы на сезон-2026/27»",
+        "date": "2026-07-25",
+        "url": "https://dinamo-mx.ru/news/predstavlyaem-pervyj-komplekt-igrovoj-formy-na-sezon-2026-27/",
+        "note": "Club's home-kit launch; the photos show БЕТСИТИ under the Магнит wordmark on the front.",
+        "quote": "«Динамо» представляет новый комплект игровой формы на сезон-2026/27.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "wildberries",
+      "placement": "front",
+      "source": {
+        "name": "FC Dynamo Makhachkala: «Представляем первый комплект игровой формы на сезон-2026/27»",
+        "date": "2026-07-25",
+        "url": "https://dinamo-mx.ru/news/predstavlyaem-pervyj-komplekt-igrovoj-formy-na-sezon-2026-27/",
+        "note": "Club's home-kit launch; the photos show the Wildberries (wb) logo on the right chest. Wildberries is also in the club's partners carousel.",
+        "quote": "«Динамо» представляет новый комплект игровой формы на сезон-2026/27.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "betcity",
       "placement": "back",
       "source": {
-        "name": "FC Dynamo Makhachkala – Club partners",
-        "date": "2026-09-25",
-        "url": "https://dinamo-mx.ru/",
-        "note": "Бетсити first in the club partners carousel."
+        "name": "Dprofile (Кирилл Рыжов, kit designer): «Динамо МХ – комплекты форм 26/27»",
+        "date": "2026-08-13",
+        "url": "https://dprofile.ru/case/190387/dinamo-mx-komplekty-form-2627",
+        "note": "Designer case (photos credited to the club press service); the back-view photo shows БЕТСИТИ above the name and number.",
+        "quote": "Форма для футбольного клуба «Динамо» Махачкала",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mever",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Dynamo Makhachkala: «Представляем первый комплект игровой формы на сезон-2026/27»",
+        "date": "2026-07-25",
+        "url": "https://dinamo-mx.ru/news/predstavlyaem-pervyj-komplekt-igrovoj-formy-na-sezon-2026-27/",
+        "note": "Club's home-kit launch; the photos show the MEVER ГОРНАЯ logo on the sleeve. The other sleeve carries the league patch, not a sponsor.",
+        "quote": "«Динамо» представляет новый комплект игровой формы на сезон-2026/27.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "betcity",
+      "placement": "shorts",
+      "source": {
+        "name": "Dprofile (Кирилл Рыжов, kit designer): «Динамо МХ – комплекты форм 26/27»",
+        "date": "2026-08-13",
+        "url": "https://dprofile.ru/case/190387/dinamo-mx-komplekty-form-2627",
+        "note": "Designer case (photos credited to the club press service); match photos show БЕТСИТИ under the squad number on the shorts.",
+        "quote": "Форма для футбольного клуба «Динамо» Махачкала",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Magnit and Betcity in the club partners carousel; shirt placements not confirmed against a kit launch.",
+  "sponsorsComplete": true,
+  "summary": "2026-27 home kit, per the club's launch photos and the kit designer's case: Magnit on the front, Wildberries right chest, Betcity on the lower front, the back and the shorts, Mever on a sleeve. The other sleeve carries the RPL league patch; the crowd-of-people chest motif is part of the Dagestan-flag kit design, not a sponsor.",
   "change": null
 }
