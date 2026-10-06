@@ -1,0 +1,35 @@
+{
+  "id": "cathay-pacific-swire-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "cathay-pacific-airways",
+    "swire-pacific"
+  ],
+  "text": "Swire Pacific owns approximately 43.09% of the total number of issued ordinary shares of Cathay Pacific Airways as at 31 December 2025.",
+  "short": "Swire Pacific owns about 43.09% of Cathay Pacific",
+  "source": {
+    "name": "Cathay Pacific Airways Limited: Annual Report 2025 (Directors' Report, continuing connected transactions)",
+    "date": "2026-04-09",
+    "url": "https://www.cathaypacific.com/content/dam/cx/about-us/investor-relations/interim-annual-reports/en/2025_cx_annual_report_en.pdf",
+    "quote": "Swire is the holding company of Swire Pacific which owns approximately 43.09% of the total number of issued ordinary shares of the Company as at 31st December 2025",
+    "note": "Annual Report 2025 for the year ended 31 December 2025, published on 9 April 2026. Page 49 of the report.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Air China Limited: Interim Report 2025 (substantial shareholders, SFO register notes)",
+      "date": "2025-08-28",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091701034.pdf",
+      "quote": "Swire Pacific Limited’s approximately 44.98% equity interest in Cathay Pacific as at the end of the Reporting Period",
+      "note": "Interim report for the six months ended 30 June 2025, authorised for issue on 28 August 2025 and filed on HKEX on 17 September 2025 (page 24, note 2 to the substantial shareholders section). Air China's 44.98% (30 June 2025) and Cathay's own 43.09% (31 December 2025) describe Swire Pacific's stake at different dates.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -3,10 +3,15 @@
   "name": "HSBC",
   "ownerId": "hsbc-holdings",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "HSBC is owned by its listed holding company, HSBC Holdings plc. The major shareholdings notified to HSBC Holdings are asset managers and a depositary (BlackRock 9.09%, Ping An Asset Management 7.98%, BNY Mellon 6.01%); no state is in the chain. Nothing found.",
+  "claimIds": [
+    "hsbc-holdings-ownership"
+  ],
+  "aliases": [
+    "Hongkong and Shanghai Banking Corporation",
+    "HSBC Holdings"
+  ],
+  "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC. Front-of-shirt sponsor (Principal Partner) of the Hong Kong China Rugby men's and women's teams: HSBC's white hexagon is across the chest of the official 2026/27 15s home replica (HKCR shop product photos)."
 }
