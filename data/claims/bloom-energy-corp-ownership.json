@@ -16,5 +16,18 @@
       "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
-  "reviewed": false
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Bloom Energy Corp 2026 Proxy Statement (DEF 14A, SEC EDGAR), five-percent holders table as of February 27, 2026 (via Wayback capture - sec.gov rejects the checker UA)",
+      "date": "2026-04-08",
+      "url": "http://web.archive.org/web/20260914064039/https://www.sec.gov/Archives/edgar/data/1664703/000162828026024237/be-20260408.htm",
+      "note": "Original: https://www.sec.gov/Archives/edgar/data/1664703/000162828026024237/be-20260408.htm. Footnote markers kept in the verbatim quote: (2) AFI 13G/A of 2025-10-07, (3) BlackRock 13G/A of 2026-01-21. The same table names The Vanguard Group at 19,528,801 shares, 6.9% (13G/A of 2024-02-13). No state or state-fund holder appears in the table.",
+      "quote": "Ameriprise Financial, Inc. 2 145 Ameriprise Financial Center, Minneapolis, MN 55474 30,147,240 10.7 % BlackRock, Inc. 3 50 Hudson Yards, New York, NY 10001 22,345,779 7.9 %",
+      "checked": {
+        "on": "2026-10-06",
+        "by": "BigBossRabbit"
+      }
+    }
+  ]
 }

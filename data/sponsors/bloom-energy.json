@@ -3,12 +3,20 @@
   "name": "Bloom Energy",
   "ownerId": "bloom-energy-corp",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
+  "tier": "none",
+  "status": "rated",
   "verdict": null,
   "claimIds": [
     "bloom-energy-corp-ownership"
   ],
   "aliases": [],
-  "note": "Ownership is sourced (bloom-energy-corp-ownership): Bloom Energy Corp, a NYSE-listed company. Proposed tier: none (see PR)."
+  "note": "Rating note: re-rated 2026-10-06 (#136): none. Ownership: NYSE-listed (Form 10-K FY2025 cover page, claim bloom-energy-corp-ownership); the 2026 proxy statement's five-percent holders table names only Ameriprise Financial (10.7%), BlackRock (7.9%) and The Vanguard Group (6.9%) - no state or state-fund holder anywhere in the chain, and no sourced human-rights finding against the company was located. Prior rating removed 2026-09-25: its only claim was an invented ownership record (#279) - re-rated from the clean SEC-sourced claim. Ownership is sourced (bloom-energy-corp-ownership): Bloom Energy Corp, a NYSE-listed company. Proposed tier: none (see PR).",
+  "why": {
+    "text": "Bloom Energy Corp is listed on the New York Stock Exchange (BE) and its 2026 proxy statement's five-percent holders table names only asset managers: Ameriprise Financial 10.7%, BlackRock 7.9% and The Vanguard Group 6.9% - no state or state-fund holder anywhere in the chain. No sourced court, regulator, UN or major-NGO finding against the company was located, so nothing passes the test.",
+    "claimIds": [
+      "bloom-energy-corp-ownership"
+    ],
+    "messageLine": "Listed US fuel-cell maker; its proxy names only asset managers above five percent - no state in the chain.",
+    "status": "draft"
+  }
 }
