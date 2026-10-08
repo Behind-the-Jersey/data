@@ -1,0 +1,20 @@
+{
+  "id": "corpay-inc-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "corpay-inc"
+  ],
+  "text": "The Corpay brand belongs to Corpay, Inc., a global corporate payments company listed on the New York Stock Exchange (NYSE: CPAY) and part of the S&P 500.",
+  "short": "Corpay is Corpay, Inc., an S&P 500 company listed on the NYSE",
+  "source": {
+    "name": "Corpay newsroom: Corpay Cross-Border Named the Official Commercial FX Partner of Prima Pramac Racing",
+    "date": "2026-02-17",
+    "url": "https://www.corpay.com/resources/newsroom/corpay-cross-border-named-the-official-commercial-fx-partner-of-prima-pramac",
+    "quote": "Corpay, Inc. (NYSE: CPAY) is a global S&P500 corporate payments company",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aldyar-alarabiya-shahm-holding",
+  "kind": "ownership",
+  "ownerIds": [
+    "shahm-holding"
+  ],
+  "text": "Aldyar Alarabiya (Arabian Dyar Real Estate Development Company) is part of Shahm Holding Company, per its own website.",
+  "short": "Aldyar Alarabiya is part of Shahm Holding.",
+  "source": {
+    "name": "Arabian Dyar: About Us",
+    "date": "2026",
+    "url": "https://arabiandyar.sa/about-us/",
+    "quote": "Arabian Dyar, part of the SHAHM Holding Company, stands as a pioneering force in real estate and construction development within the Kingdom of Saudi Arabia.",
+    "note": "Page undated; opened 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "omp-racing-force-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "racing-force-spa"
+  ],
+  "text": "OMP is a brand of Racing Force Group (Racing Force S.p.A.), the motorsport safety equipment company listed on Euronext Growth Milan; Euronext's listing announcement states that all products of the Group are marketed under OMP, Bell Helmets, ZeroNoise and Racing Spirit brands.",
+  "short": "OMP is the brand of Racing Force S.p.A., listed on Euronext Growth Milan.",
+  "source": {
+    "name": "Euronext: 'Racing Force S.p.A. lists on Euronext Growth Milan' (press release)",
+    "date": "2021-11-16",
+    "url": "https://www.euronext.com/en/about/media/euronext-press-releases/racing-force-spa-lists-euronext-growth-milan",
+    "quote": "All products of the Group are marketed under OMP, Bell Helmets, ZeroNoise and Racing Spirit brands.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

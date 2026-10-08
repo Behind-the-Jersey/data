@@ -1,0 +1,20 @@
+{
+  "id": "ummc-makhmudov-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ummc"
+  ],
+  "text": "Iskander Makhmudov founded and owned Joint Stock Company Ural Mining and Metallurgical Company (UMMC), per the US Treasury's September 2023 Russia-related designations.",
+  "short": "UMMC founded and owned by Iskander Makhmudov (US Treasury).",
+  "source": {
+    "name": "U.S. Department of the Treasury: With Wide-Ranging New Sanctions, Treasury Targets Russian Military-Linked Elites and Industrial Base",
+    "date": "2023-09-14",
+    "url": "https://home.treasury.gov/news/press-releases/jy1731",
+    "quote": "Makhmudov, who founded and owned U.S.-designated Joint Stock Company Ural Mining and Metallurgical Company (UMMC), owns or sits on the board of other Russia-based metals and mining companies",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

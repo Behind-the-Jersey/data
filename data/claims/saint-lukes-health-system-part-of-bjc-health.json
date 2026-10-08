@@ -1,0 +1,21 @@
+{
+  "id": "saint-lukes-health-system-part-of-bjc-health",
+  "kind": "ownership",
+  "ownerIds": [
+    "bjc-health"
+  ],
+  "text": "Saint Luke's Health System serves the West Region of BJC Health, described by Sporting Kansas City as one of the largest nonprofit health care organizations in the United States.",
+  "short": "Saint Luke's Health System serves the West Region of BJC Health.",
+  "source": {
+    "name": "SportingKC.com: 'Sporting Kansas City and Saint Luke’s team up for new community-affiliated partnership'",
+    "date": "2025-12",
+    "url": "https://www.sportingkc.com/skcii/news/sporting-kansas-city-and-saint-luke-s-team-up-for-new-community-affiliated-partnership",
+    "quote": "Serving the West Region of BJC Health, one of the largest nonprofit health care organizations in the United States",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "From the 'About Saint Luke's' paragraph of the club's partnership announcement; page renders no date."
+  },
+  "reviewed": false
+}

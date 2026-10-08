@@ -1,12 +1,17 @@
 {
   "id": "cenomi",
   "name": "Cenomi",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Al-Ahli back sponsor."
+  "ownerId": "cenomi-centers",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Saudi mall operator (Cenomi Centers, formerly the Arabian Centres group) listed in Riyadh; largest disclosed holders are FAS Real Estate Co. and members of the Al Hokair family. Nothing found.",
+  "claimIds": [
+    "cenomi-centers-shareholders"
+  ],
+  "aliases": [
+    "Cenomi Centers",
+    "سينومي"
+  ],
+  "note": "Sleeve badge on Al-Taawoun's 2026-27 home kit (three-year club deal announced 2026-04-02, visible on the sleeve in the club's launch photos); Al-Ahli back sponsor."
 }

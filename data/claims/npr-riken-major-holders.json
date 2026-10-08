@@ -1,0 +1,20 @@
+{
+  "id": "npr-riken-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "npr-riken-corporation"
+  ],
+  "text": "NPR-RIKEN CORPORATION is listed on the Tokyo Stock Exchange Prime Market. Its major shareholders as of end of March 2026 were The Master Trust Bank of Japan (trust account) with 11.86%, Custody Bank of Japan (trust account) with 4.16%, Mizuho Bank with 3.62% and Nippon Life Insurance with 3.46%.",
+  "short": "NPR-Riken is listed on TSE Prime; top holder is a trust bank with 11.86%.",
+  "source": {
+    "name": "NPR-RIKEN: Stock Information – Major shareholders",
+    "date": "2026-03-31",
+    "url": "https://www.npr-riken.co.jp/en/ir/stock/",
+    "quote": "The Master Trust Bank of Japan, Ltd. -Trust Account- 3,190 11.86%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

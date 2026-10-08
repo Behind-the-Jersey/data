@@ -1,0 +1,20 @@
+{
+  "id": "sandmark-sa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sandmark-sa"
+  ],
+  "text": "The Sandmark website is owned and operated by Sandmark SA, a company registered in Geneva, Switzerland (CHE-403.942.030).",
+  "short": "Sandmark is owned and operated by Sandmark SA, Geneva.",
+  "source": {
+    "name": "Sandmark: Legal Mention",
+    "date": "2026",
+    "url": "https://www.sandmark.com/legal-mention/",
+    "quote": "The Website is owned and operated by Sandmark SA",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

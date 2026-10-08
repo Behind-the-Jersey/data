@@ -1,0 +1,43 @@
+{
+  "id": "underdog-ig-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "underdog-sports-holdings",
+    "ig-group-holdings"
+  ],
+  "text": "Underdog is the US daily fantasy sports and prediction markets business of Underdog Sports Holdings, Inc., led by its co-founders Jeremy Levine (Chief Executive Officer) and Brandon Stakenborg (Chief Product Officer). On 30 July 2026, London-listed IG Group Holdings plc announced that it had agreed to acquire Underdog for total consideration of up to approximately $1.3 billion, with completion conditional on regulatory approvals in the United States and clearance under the Hart-Scott-Rodino Act; IG said on 8 September 2026 the acquisition remained subject to regulatory approvals.",
+  "short": "Underdog, led by co-founders Jeremy Levine and Brandon Stakenborg, agreed on 30 July 2026 to be acquired by London-listed IG Group; still subject to US regulatory approvals on 8 September 2026.",
+  "source": {
+    "name": "IG Group: 'Acquisition of Underdog'",
+    "date": "2026-07-30",
+    "url": "https://www.iggroup.com/investor-relations/press-releases/2026/acquisition-of-underdog",
+    "quote": "announces that it has agreed to acquire Underdog (Underdog Sports Holdings, Inc.) (\"Underdog\")",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "IG Group Holdings plc: 'Notice of Underdog investor seminar'",
+      "date": "2026-09-08",
+      "url": "https://www.iggroup.com/investor-relations/press-releases/2026/notice-of-underdog-investor-seminar",
+      "quote": "the US daily fantasy sports and prediction markets business that IG agreed to acquire on 30 July 2026, subject to regulatory approvals",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel), PR #1090 review"
+      }
+    },
+    {
+      "name": "IG Group Holdings plc RNS PDF: 'Proposed acquisition of Underdog'",
+      "date": "2026-07-30",
+      "url": "https://www.iggroup.com/~/media/Files/I/IG-Group/documents/investors/financial-results/results-reports-and-presentations/2026/rns-acquisition-of-underdog.pdf",
+      "quote": "Underdog is led by its co-founder and Chief Executive Officer, Jeremy Levine, who previously founded DRAFT (acquired by Paddy Power Betfair, now Flutter) and StarStreet (acquired by DraftKings), and co-founder and Chief Product Officer Brandon Stakenborg",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel), PR #1090 review"
+      }
+    }
+  ],
+  "reviewed": false
+}

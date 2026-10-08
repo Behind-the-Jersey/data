@@ -1,0 +1,21 @@
+{
+  "id": "sovcombank-khotimsky-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "khotimsky-brothers"
+  ],
+  "text": "The founders and main shareholders of Sovcombank are the brothers Sergey and Dmitry Khotimsky.",
+  "short": "Sovcombank's main shareholders are the founding Khotimsky brothers.",
+  "source": {
+    "name": "The Moscow Times (Reuters): Братья Хотимские не будут участвовать в IPO Совкомбанка",
+    "date": "2023-12-13",
+    "url": "https://ru.themoscowtimes.com/2023/12/13/bratya-khotimskie-ne-budut-uchastvovat-v-ipo-sovkombanka-chtoby-vse-aktsii-ushli-v-rynok-a116085",
+    "quote": "Основатели и основные акционеры Совкомбанка братья Сергей и Дмитрий Хотимские решили не участвовать в IPO банка",
+    "note": "Reuters copy. Translation: 'The founders and main shareholders of Sovcombank, brothers Sergey and Dmitry Khotimsky, decided not to take part in the bank's IPO.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
