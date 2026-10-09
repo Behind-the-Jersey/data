@@ -4,10 +4,14 @@
   "ownerId": "armani",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
+  "status": "being-rated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "ea7-armani-sportswear-line",
+    "armani-operations-judicial-admin-2024"
+  ],
   "aliases": [
     "ea7"
-  ]
+  ],
+  "note": "Proposed for Concern in the PR for issue #620: Armani's sportswear line; Armani's production arm GA Operations was placed under judicial administration in April 2024 (revoked February 2025). Tier to be set by a maintainer."
 }

@@ -1,0 +1,33 @@
+{
+  "id": "ea7-armani-sportswear-line",
+  "kind": "ownership",
+  "ownerIds": [
+    "armani"
+  ],
+  "text": "EA7 Emporio Armani is the sportswear line of the Giorgio Armani S.p.A. group.",
+  "source": {
+    "name": "armani.com — EA7 Olimpia Milano page ('l'espressione sportiva della maison Giorgio Armani')",
+    "date": "2026",
+    "url": "https://www.armani.com/it-it/ea7/experience/olimpia-milano/",
+    "quote": "EA7 Emporio Armani Olimpia Milano è molto più di una squadra: è l’espressione sportiva della maison Giorgio Armani.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Undated brand page on armani.com, opened 1 October 2026."
+  },
+  "additionalSources": [
+    {
+      "name": "Mainline Menswear — EA7 brand page",
+      "date": "2026",
+      "url": "https://www.mainlinemenswear.com/ca/ea7-emporio-armani/",
+      "quote": "EA7 is the premium urban sportswear diffusion line by Emporio Armani",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Retailer brand page also headed 'Designed exclusively by Giorgio Armani S.P.A'; undated, opened 1 October 2026."
+    }
+  ],
+  "reviewed": false
+}
