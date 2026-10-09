@@ -1,0 +1,19 @@
+{
+  "id": "the-walt-disney-company-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "the-walt-disney-company"
+  ],
+  "text": "The Walt Disney Company's 2026 proxy statement names The Vanguard Group (8.5%) and BlackRock, Inc. (6.9%) as the only holders of more than 5% of its common stock, and states that no other person or entity is the beneficial owner of more than 5% of its voting power.",
+  "source": {
+    "name": "Walt Disney Co DEF 14A 2026 (SEC)",
+    "date": "2026-01-22",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm",
+    "quote": "The Vanguard Group 100 Vanguard Blvd. Malvern, PA 19355 151,434,588 1 8.5% Blackrock, Inc. 55 East 52nd Street New York, NY 10055 122,883,021 2 6.9%",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-scout-1021"
+    }
+  },
+  "reviewed": false
+}
