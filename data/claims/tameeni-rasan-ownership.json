@@ -7,17 +7,28 @@
   "text": "Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.",
   "short": "Tameeni is a subsidiary of Rasan Information Technology (listed on the Saudi Exchange, Tadawul: 8313).",
   "source": {
-    "name": "Rasan – homepage (company site)",
-    "date": "",
-    "url": "https://www.rasan.co/en",
-    "quote": "Rasan's subsidiary Tameeni signs insurance brokerage agreement with Saudi National Bank",
+    "name": "Rasan — Initial Public Offering (IPO), rasan.co",
+    "date": "2025",
+    "url": "https://rasan.co/en/investor-relations/ipo",
+    "quote": "One of the leading FinTech companies in the Middle East providing seamless services through our flagship subsidiaries, including Tameeni",
+    "note": "Quote verified on the live page 2026-10-09 (static HTML). Originally cited the rasan.co/en homepage, whose JS-rendered ticker carried the SNB brokerage headline when checked 2026-10-03; the raw HTML no longer shows it, so the primary source was re-pointed at this IPO page which states the same fact in static HTML.",
     "checked": {
-      "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      "on": "2026-10-09",
+      "by": "BigBossRabbit"
     }
   },
   "reviewed": false,
   "additionalSources": [
+    {
+      "name": "Rasan — homepage (company site)",
+      "date": "",
+      "url": "https://www.rasan.co/en",
+      "quote": "Tameeni marked the beginning of Rasan's disruption of Saudi Arabia's insurance market in 2017",
+      "checked": {
+        "on": "2026-10-09",
+        "by": "BigBossRabbit"
+      }
+    },
     {
       "name": "Rasan Information Technology Company Prospectus (CMA)",
       "date": "2024-05",
@@ -37,16 +48,6 @@
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
-      }
-    },
-    {
-      "name": "Rasan — Initial Public Offering (IPO), rasan.co",
-      "date": "2025",
-      "url": "https://rasan.co/en/investor-relations/ipo",
-      "quote": "One of the leading FinTech companies in the Middle East providing seamless services through our flagship subsidiaries, including Tameeni",
-      "checked": {
-        "on": "2026-10-03",
-        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     }
   ]
