@@ -1,15 +1,31 @@
 {
   "id": "gazprom-transgaz-belarus",
   "name": "Gazprom transgaz Belarus (GTB)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "gazprom",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "gtb-gazprom-wholly-owned",
+    "gazprom-state-control",
+    "russian-federation-record"
+  ],
   "aliases": [
     "ОАО «Газпром трансгаз Беларусь»",
-    "gtb.by"
+    "Газпром трансгаз Беларусь",
+    "gtb.by",
+    "belarus-tr.gazprom.ru"
   ],
-  "note": "General partner of HC Dinamo Minsk."
+  "note": "General partner of HC Dinamo Minsk; GTB logo is on the back of the 2026-27 home jersey below the numbers and on the front of the away jersey. Propose severe: GTB is a 100% subsidiary of Gazprom (club partners page and GTB's own About page), the Russian state controls Gazprom, and Russia's war in Ukraine goes on — mirrors the existing Gazprom sponsor rating.",
+  "why": {
+    "text": "Gazprom transgaz Belarus is a 100% subsidiary of Gazprom, which the Russian state controls with more than half of its shares. Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since. A famous jersey makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "russian-federation-record",
+      "gazprom-state-control",
+      "gtb-gazprom-wholly-owned"
+    ],
+    "messageLine": "Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since.",
+    "status": "draft"
+  }
 }

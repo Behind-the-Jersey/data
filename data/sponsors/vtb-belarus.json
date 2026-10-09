@@ -1,0 +1,30 @@
+{
+  "id": "vtb-belarus",
+  "name": "Bank VTB (Belarus)",
+  "ownerId": "vtb",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "vtb-belarus-in-vtb-group",
+    "vtb-state-control",
+    "russian-federation-record"
+  ],
+  "aliases": [
+    "ЗАО Банк ВТБ (Беларусь)",
+    "Банк ВТБ",
+    "vtb.by"
+  ],
+  "note": "Partner of HC Dinamo Minsk (club partners page). Propose severe: the bank is part of the VTB group; the Russian Federation controls VTB (Rosimushchestvo 60.93% of ordinary shares), and Russia's war in Ukraine goes on — mirrors the existing Gazprom rating.",
+  "why": {
+    "text": "Bank VTB (Belarus) is part of the VTB group, which the Russian state controls through Rosimushchestvo's 60.93% holding of its ordinary shares. Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since. A famous jersey makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "russian-federation-record",
+      "vtb-state-control",
+      "vtb-belarus-in-vtb-group"
+    ],
+    "messageLine": "Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since.",
+    "status": "draft"
+  }
+}
