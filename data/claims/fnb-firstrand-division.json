@@ -1,0 +1,42 @@
+{
+  "id": "fnb-firstrand-division",
+  "kind": "ownership",
+  "ownerIds": [
+    "firstrand-bank-limited"
+  ],
+  "text": "First National Bank - a division of FirstRand Bank Limited.",
+  "short": "FNB is a division of FirstRand Bank Limited.",
+  "source": {
+    "name": "FirstRand Bank Limited Annual Report 2023 (PDF)",
+    "date": "2023",
+    "url": "https://www.firstrand.co.za/media/investors/financial-results/firstrand-bank-annual-report-2023.pdf",
+    "quote": "The bank has three major divisions which are separately branded: First National Bank (FNB), WesBank and Rand Merchant Bank (RMB).",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "FNB (First National Bank) website - Bank page footer",
+      "date": "2026",
+      "url": "https://www.fnb.co.za/bank.html",
+      "quote": "First National Bank - a division of FirstRand Bank Limited. An Authorised Financial Services and Credit Provider 1929/001225/06 (NCRCP20).",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "FirstRand Limited Group Annual Financial Statements 2025 (PDF)",
+      "date": "2025",
+      "url": "https://www.firstrand.co.za/media/investors/reports/firstrand-annual-financial-statements-2025.pdf",
+      "quote": "FirstRand Limited is the holding company of the FirstRand group of companies. FirstRand’s portfolio of integrated financial services businesses comprises FNB, RMB, WesBank and Aldermore",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}
