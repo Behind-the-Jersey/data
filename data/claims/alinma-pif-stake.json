@@ -1,0 +1,35 @@
+{
+  "id": "alinma-pif-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "saudi-pif",
+    "alinma-bank"
+  ],
+  "text": "The Saudi Public Investment Fund holds 10% of Alinma Bank.",
+  "short": "Saudi Arabia's PIF holds 10% of Alinma Bank.",
+  "source": {
+    "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), investments in associates",
+    "date": "2025",
+    "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+    "quote": "Alinma Bank (a)  Financials  10%  10%   Kingdom of Saudi Arabia",
+    "note": "PIF's pif.gov.sa site blocks scripted downloads from this network; the archived copy of the official PDF was used (same document as the noon-pif-stake claim).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Mubasher: Alinma Bank (1150) company profile – ownership",
+      "date": "2026-10",
+      "url": "https://english.mubasher.info/markets/TDWL/stocks/1150/profile",
+      "quote": "Public Investment Fund (10.00%)",
+      "note": "Market-data page listing major shareholders; accessed 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
