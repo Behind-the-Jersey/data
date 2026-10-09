@@ -7,8 +7,59 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "rzd",
+      "placement": "partner",
+      "source": {
+        "name": "HC Lokomotiv Yaroslavl sponsors page (via club API, api.hclokomotiv.ru)",
+        "date": "2026-10-03",
+        "url": "https://api.hclokomotiv.ru/api/sponsors?populate%5Blogo%5D=*",
+        "note": "JSON data behind the club's sponsors page https://hclokomotiv.ru/sponsors (JavaScript-rendered). Lists ОАО «РЖД» first. Opened 2026-10-03. No jersey placement documented."
+      }
+    },
+    {
+      "sponsorId": "fgk",
+      "placement": "partner",
+      "source": {
+        "name": "HC Lokomotiv Yaroslavl sponsors page (via club API, api.hclokomotiv.ru)",
+        "date": "2026-10-03",
+        "url": "https://api.hclokomotiv.ru/api/sponsors?populate%5Blogo%5D=*",
+        "note": "JSON data behind the club's sponsors page https://hclokomotiv.ru/sponsors (JavaScript-rendered). Lists АО «Федеральная Грузовая Компания» (ФГК). Opened 2026-10-03."
+      }
+    },
+    {
+      "sponsorId": "beteltrans",
+      "placement": "partner",
+      "source": {
+        "name": "HC Lokomotiv Yaroslavl sponsors page (via club API, api.hclokomotiv.ru)",
+        "date": "2026-10-03",
+        "url": "https://api.hclokomotiv.ru/api/sponsors?populate%5Blogo%5D=*",
+        "note": "JSON data behind the club's sponsors page https://hclokomotiv.ru/sponsors (JavaScript-rendered). Lists АО «БетЭлТранс». Opened 2026-10-03."
+      }
+    },
+    {
+      "sponsorId": "elteza",
+      "placement": "partner",
+      "source": {
+        "name": "HC Lokomotiv Yaroslavl sponsors page (via club API, api.hclokomotiv.ru)",
+        "date": "2026-10-03",
+        "url": "https://api.hclokomotiv.ru/api/sponsors?populate%5Blogo%5D=*",
+        "note": "JSON data behind the club's sponsors page https://hclokomotiv.ru/sponsors (JavaScript-rendered). Lists ОАО «Элтеза». Opened 2026-10-03."
+      }
+    },
+    {
+      "sponsorId": "ccm",
+      "placement": "partner",
+      "source": {
+        "name": "HC Lokomotiv Yaroslavl sponsors page (via club API, api.hclokomotiv.ru)",
+        "date": "2026-10-03",
+        "url": "https://api.hclokomotiv.ru/api/sponsors?populate%5Blogo%5D=*",
+        "note": "JSON data behind the club's sponsors page https://hclokomotiv.ru/sponsors (JavaScript-rendered). Lists CCM (equipment supplier). Opened 2026-10-03."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit. All five sponsors on the club's official sponsors page (club API, opened 2026-10-03) are listed as partners: RZD, FGK, BetElTrans, Elteza, CCM. No jersey placement (front/back/sleeve) could be sourced: no kit-launch article or readable kit photo was found, so sponsorsComplete stays false.",
   "change": null
 }
