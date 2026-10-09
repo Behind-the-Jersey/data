@@ -1,0 +1,47 @@
+{
+  "id": "turkiye-basketball-2026-27-home",
+  "clubId": "turkiye-basketball",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "garanti-bbva",
+      "placement": "front",
+      "source": {
+        "name": "BBVA.com: Garanti BBVA Renews Its Long-Standing Sponsorship of the Turkish Basketball Federation",
+        "date": "2026-01-29",
+        "url": "https://www.bbva.com/en/garanti-bbva-renews-its-long-standing-sponsorship-of-the-turkish-basketball-federation/",
+        "quote": "Garanti BBVA will remain the main sponsor of all national teams over the next five years, which includes the men’s national basketball team, ‘12 Dev Adam,’",
+        "note": "The article's photo (bbva-patrocinio-baloncesto-garanti-1.jpg) shows the white home jersey with the Garanti BBVA logo on the chest, below the TÜRKİYE wordmark.",
+        "short": "BBVA",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "turkiye-sigorta",
+      "placement": "back",
+      "source": {
+        "name": "Sabah: Türkiye Sigorta, Tüm Gücüyle Basketbol Millî Takımlarının Arkasında",
+        "date": "2026-02-16",
+        "url": "https://www.sabah.com.tr/ekonomi/turkiye-sigorta-tum-gucuyle-basketbol-milli-takimlarinin-arkasinda-7525516",
+        "quote": "Anlaşma kapsamında, Türkiye Sigorta logosu Kadın ve Erkek Millî Takımlarımızın forma sırtlarında yer alacak.",
+        "note": "English: under the agreement, the Türkiye Sigorta logo appears on the backs of the women's and men's national teams' jerseys. Renewal announced at a press event with Türkiye Sigorta CEO Taha Çakmak and TBF president Hidayet Türkoğlu.",
+        "short": "Sabah",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Garanti BBVA sits on the front of the white home shirt (chest, below the TÜRKİYE wordmark — visible in the BBVA press photos from the 27 January 2026 renewal signing, where the deal is described as the national teams' main sponsorship) and Türkiye Sigorta is on the back (renewed as back-of-jersey sponsor on 16 February 2026). Not marked complete: no openable source lists every 2026/27 placement, and the sleeve and shorts placements are unchecked. The FIBA competition patch and the PUMA maker mark visible on the shirt are not sponsors.",
+  "change": null
+}
