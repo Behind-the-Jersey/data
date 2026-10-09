@@ -1,0 +1,34 @@
+{
+  "id": "cencosud-paulmann-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "paulmann-family"
+  ],
+  "text": "Cencosud S.A. is controlled by the Paulmann family: the family's London-registered vehicle PK One Limited held 1,463,132,371 shares, 52.15% of Cencosud, at 30 June 2026, and press reports identify PK One as the vehicle through which Horst Paulmann and his three eldest children exercise control.",
+  "short": "The Paulmann family's PK One Limited holds 52.15% of Cencosud S.A.",
+  "source": {
+    "name": "Cencosud S.A.: Estructura Accionaria (shareholder structure, al 30 de junio de 2026)",
+    "date": "2026-06-30",
+    "url": "https://www.cencosud.com/estructura-accionaria",
+    "quote": "1 PK ONE LIMITED 1.463.132.371 52,15%",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Cencosud's own shareholder-structure table (30 June 2026). The same table lists PAULMANN KEMNA HORST with 70.336.573 shares (2,51%)."
+  },
+  "additionalSources": [
+    {
+      "name": "The Clinic: Cencosud: familia Paulmann transfiere el control del grupo de retail desde Chile a sociedad en Inglaterra",
+      "date": "2023-05-23",
+      "url": "https://www.theclinic.cl/2023/05/23/cencosud-familia-paulmann-traspasa-control-grupo-inglaterra/",
+      "quote": "los controladores siguen siendo Horst Paulmann y los tres hijos mayores, pero se reajustó el vehículo de control",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Also on the page: 'la familia Paulmann mantenía el control de Cencosud con 55,04% de las acciones' and 'PK One Limited fue creada en noviembre de 2022 en Londres y los cuatro Paulmann ... son sus directores'."
+    }
+  ],
+  "reviewed": false
+}
