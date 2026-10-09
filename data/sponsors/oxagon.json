@@ -1,12 +1,28 @@
 {
   "id": "oxagon",
   "name": "Oxagon",
-  "ownerId": "oxagon",
+  "ownerId": "neom",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Oxagon is the industrial city of NEOM, the giga-project fully owned by Saudi Arabia's Public Investment Fund.",
+  "claimIds": [
+    "saudi-executions-2025",
+    "oxagon-part-of-neom",
+    "neom-pif-ownership",
+    "pif-chaired-by-crown-prince"
+  ],
   "aliases": [],
-  "note": "NEOM SC front-of-shirt sponsor (NEOM is the club's owner)."
+  "note": "Front-of-shirt sponsor of NEOM SC, the club owned by NEOM. Chain: Oxagon -> NEOM -> PIF -> Government of Saudi Arabia. Oxagon's original shirt deal ran to June 2026 (Football Business Journal, 2025-12-24); the official 2026-27 Adidas kit launch still shows OXAGON on the front. The pull request proposes serious: the record is saudi-executions-2025 (HRW + Amnesty, two sources); the link is oxagon-part-of-neom, neom-pif-ownership and pif-chaired-by-crown-prince (each two sources). Rating on hold for a maintainer.",
+  "why": {
+    "text": "Oxagon is the industrial city of NEOM, the Saudi giga-project fully owned by the Public Investment Fund, the state's sovereign wealth fund, which the Crown Prince chairs. Saudi Arabia executed at least 356 people in 2025, a record. The logo on NEOM SC's shirt is that state's money. That's called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2025",
+      "oxagon-part-of-neom",
+      "neom-pif-ownership",
+      "pif-chaired-by-crown-prince"
+    ],
+    "messageLine": "Saudi Arabia executed at least 356 people in 2025, a record.",
+    "status": "draft"
+  }
 }
