@@ -3,14 +3,20 @@
   "clubId": "haas",
   "orgName": null,
   "sponsorId": "singha",
-  "placement": "back",
+  "placement": "sleeve",
   "from": "2026",
   "to": null,
   "value": null,
   "source": {
-    "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
-    "date": "2026-01-19",
-    "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+    "name": "TGR Haas F1 Team – Partners: Singha",
+    "date": "2026",
+    "url": "https://www.haasf1team.com/partners/singha",
+    "quote": "TGR Haas F1 Team is proud to announce a new partnership with Singha Corporation ahead of the 2026 FIA Formula 1 World Championship",
+    "note": "Page undated; checked 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "TGR Haas F1 Team rear partner on the 2026 car."
+  "note": "On the 2026 team shirt the Singha mark sits at the top of the sleeve stack (store product photos); on the VF-26 car it is on the rear wing (Sector, 2026-01-19)."
 }
