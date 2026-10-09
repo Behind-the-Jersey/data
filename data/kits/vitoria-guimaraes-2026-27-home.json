@@ -12,13 +12,34 @@
       "sponsorId": "placard",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Expresso: Portugal joga contra a corrente: 83% dos clubes entram em campo com casas de apostas na camisola",
+        "date": "2026-08-10",
+        "url": "https://expresso.pt/empresas-negocios/2026-08-10-portugal-joga-contra-a-corrente-83-dos-clubes-entram-em-campo-com-casas-de-apostas-na-camisola-d6a03f3c",
+        "quote": "Jogo entre Vitória SC, patrocinado pelo Placard.pt, e Arouca, com Bwin na frente da camisola, na jornada inaugural da Primeira Liga",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "English: 'A match between Vitória SC, sponsored by Placard.pt, and Arouca, with Bwin on the front of the shirt, on the opening round of the Primeira Liga.' Photo caption for a picture of the opening-round fixture; the article says 15 of the 18 top-flight clubs started 2026-27 with a betting brand on their shirts. Placard.pt also heads the 'Patrocinadores Principais' list on the club's own sponsors page (vitoriasc.pt/patrocinadores, opened 2026-10-03)."
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Vitória Sport Clube: Vitória SC x hummel: uma parceria de futuro",
+        "date": "2026-06-18",
+        "url": "https://vitoriasc.pt/2026/06/18/vitoria-sc-x-hummel-uma-parceria-de-futuro/",
+        "quote": "As equipas e atletas do Vitória Sport Clube passam a vestir hummel a partir da época 2026/2027.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "English: 'The teams and athletes of Vitória Sport Clube will wear hummel from the 2026/2027 season.' The same announcement calls hummel the new official technical sponsor under a five-season deal, to 2030/2031. Kit maker, recorded as partner per existing convention."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+  "summary": "Hummel-made home shirt (five-year technical deal from 2026-27) with Placard.pt (Jogos Santa Casa) as the main shirt sponsor on the front. Not marked complete: Wikipedia's 2026-27 Primeira Liga kit table also lists Nortecar on the front, UZO and GuimarãeShopping on the back, FiniConde on the sleeves and Mood (moodimobiliaria.com) on the shorts, and the club's live sponsors page lists all five as current 'Patrocinadores Principais', but no club announcement or press article found names them on the 2026-27 shirt itself: the Briefing piece on GuimarãeShopping's renewal says only that its logo is on the new official kit (no position), and FiniConde's announced sleeve deal covered 2025-26.",
   "change": null
 }
