@@ -1,0 +1,31 @@
+{
+  "id": "thailand-uyghurs-forcible-return-2025",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-thailand"
+  ],
+  "text": "In February 2025, the Thai government forcibly returned 40 Uyghur men to China, where they could face torture, arbitrary detention and long-term imprisonment - a deportation documented by Human Rights Watch (World Report 2026) and condemned by the UN and governments.",
+  "source": {
+    "name": "Human Rights Watch: World Report 2026, Thailand chapter - 'Refugees, Asylum Seekers, and Migrant Workers'",
+    "date": "2026-01",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/thailand",
+    "quote": "On February 27, the Paetongtarn government sent 40 Uyghur men to China, where they could face torture, arbitrary detention, and long-term imprisonment.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International: State of the World's Human Rights report, Thailand 2025",
+      "date": "2026-04",
+      "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/thailand/report-thailand/",
+      "quote": "On 27 February, the authorities deported 40 Uyghurs to China, despite the real risk of serious human rights violations, and the prohibition of refoulement under Thailand’s anti-torture law.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
