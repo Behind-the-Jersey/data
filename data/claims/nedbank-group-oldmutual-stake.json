@@ -1,0 +1,21 @@
+{
+  "id": "nedbank-group-oldmutual-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "nedbank-group"
+  ],
+  "text": "Old Mutual's 52% stake in Nedbank was reduced to a 19.9% minority stake in the 2018 unbundling, held by Old Mutual Life Assurance Company South Africa Limited (OMLACSA).",
+  "short": "Old Mutual holds a 19.9% minority stake in Nedbank Group (as stated for the 2018 unbundling).",
+  "source": {
+    "name": "Old Mutual Limited, investor relations: Nedbank Unbundling",
+    "date": "2018-09-26",
+    "url": "https://www.oldmutual.com/investor-relations/old-mutual-plc/nedbank-unbundling",
+    "quote": "Old Mutual's 52% stake in the issued share capital of Nedbank has been reduced to a 19.9% minority stake, held by Old Mutual Life Assurance Company South Africa Limited (OMLACSA)",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Undated standing investor-relations page; the date is the announcement date given in the page's own text ('On 26 September 2018 Old Mutual announced the unbundling...'). The page also says 'Old Mutual is committed to being a significant minority shareholder in Nedbank with board nomination rights'. The stake is as stated for the 2018 unbundling; whether Old Mutual's holding in Nedbank Group is still 19.9% in 2026 was not separately sourced (a Businesstech article of 9 August 2025 repeats the 19.9% figure but sits behind a bot check, so it is not cited)."
+  },
+  "reviewed": false
+}
