@@ -1,0 +1,20 @@
+{
+  "id": "lg-electronics-inc-listed",
+  "kind": "ownership",
+  "ownerIds": [
+    "lg-electronics-inc"
+  ],
+  "text": "LG Electronics, Inc. is a listed Korean company publishing investor-relations stock information; at 31 December 2025 its largest shareholder was the group's holding company LG Corp. with 32% of its shares, while domestic investors held 37% and foreign investors 31%.",
+  "short": "LG Electronics' largest shareholder is LG Corp. (32%, end-2025); no controlling shareholder shown.",
+  "source": {
+    "name": "LG Electronics investor relations: Stock information - Shareholder composition (as of 31 December 2025)",
+    "date": "2025-12-31",
+    "url": "https://www.lg.com/global/investor-relations/stock-information",
+    "quote": "Shareholder composition Donut graph - LG Corp. : 32%, Domestic investors : 37%, Foreign investors : 31%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
