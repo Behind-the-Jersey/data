@@ -1,0 +1,21 @@
+{
+  "id": "bbk-foundation-kaniyev-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "kaniyev-family"
+  ],
+  "text": "The BBK Foundation (Berik and Bayan Kaniyev Foundation), a Barys partner since September 2026, describes itself as a private foundation whose projects Kaniyev family members are personally involved in.",
+  "short": "BBK Foundation is the Kaniyev family's private charitable foundation.",
+  "source": {
+    "name": "Berik and Bayan Kaniyev Foundation — bbkfoundation.kz",
+    "date": "2026",
+    "url": "https://www.bbkfoundation.kz/en",
+    "quote": "This is a private foundation that supports education, culture, sports, and social initiatives in Kazakhstan.",
+    "note": "The same page says: 'The Kaniyev family members are personally involved in the foundation's projects' and names Berik Kaniyev as its founder.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
