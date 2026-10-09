@@ -12,30 +12,35 @@
       "sponsorId": "nhc",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Al-Hilal Club: Al-Hilal and NHC: A Strategic Partnership Building the Future",
+        "date": "2026-07-18",
+        "url": "https://alhilal.com/en/news/al-hilal-and-nhc-a-strategic-partnership-building-the-future",
+        "quote": "the group becomes a main partner of Al-Hilal Club for three seasons",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club announcement of the NHC partnership; the official store product photos (store.alhilal.com, authentic home jersey 26/27) and the league kit gallery show the large NHC logo across the chest."
       }
     },
     {
       "sponsorId": "flynas",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits; the Al Hilal home photo shows the flynas logo on the upper right chest, also visible in the club's official store product photos."
       }
     },
     {
-      "sponsorId": "riyad-bank",
-      "placement": "back",
+      "sponsorId": "reef-perfumes",
+      "placement": "front",
       "source": {
         "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
         "date": "2026-08-24",
         "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "note": "Official league gallery of the 2026-27 kits; the Al Hilal home photo shows the REEF logo on the centre chest, and so do the product photos on the club's official store (store.alhilal.com). The club's partners page lists Reef as an official partner."
       }
     },
     {
@@ -45,11 +50,26 @@
         "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
         "date": "2026-08-24",
         "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "note": "Official league gallery of the 2026-27 kits; the Al Hilal home photo shows the 'tree' wordmark on the sleeve. The clearest view is the close-up in the club's official store product photos (store.alhilal.com), which blocks scripts (429)."
+      }
+    },
+    {
+      "sponsorId": "riyad-bank",
+      "placement": "back",
+      "source": {
+        "name": "Al-Hilal Club: Al-Hilal and Riyad Bank… An Extended Partnership",
+        "date": "2026-08-30",
+        "url": "https://alhilal.com/en/news/al-hilal-and-riyad-bank-an-extended-partnership",
+        "quote": "Riyad Bank logo will continue to appear on the upper back of the jerseys of the first football team",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club announcement of the five-season renewal of the Riyad Bank partnership on 30 Aug 2026."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Puma home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "sponsorsComplete": true,
+  "summary": "Puma home kit, launched 18 Jul 2026 ('One Crest, One Glory'). Front: NHC main, flynas upper chest, Reef centre chest; sleeve: tree (Tree Digital Insurance); upper back: Riyad Bank (renewed Aug 2026). Shorts carry only crest and Puma marks; every placement checked against the club's official store product photos, the league kit gallery and club announcements.",
   "change": null
 }
