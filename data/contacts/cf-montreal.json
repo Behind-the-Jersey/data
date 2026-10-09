@@ -2,23 +2,63 @@
   "clubId": "cf-montreal",
   "channels": [
     {
+      "type": "email",
+      "value": "members@cfmontreal.com",
+      "label": "Members Service",
+      "source": {
+        "name": "CF Montréal – Tickets FAQ",
+        "url": "https://en.cfmontreal.com/tickets/faq",
+        "date": "2026-10-02",
+        "quote": "contact our Members Service team at 514-328-3668 or members@cfmontreal.com",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+15143283668",
+      "label": "Members Service",
+      "source": {
+        "name": "CF Montréal – Tickets FAQ",
+        "url": "https://en.cfmontreal.com/tickets/faq",
+        "date": "2026-10-02",
+        "quote": "contact our Members Service team at 514-328-3668 or members@cfmontreal.com",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@cfmontreal",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.cfmontreal.com/",
-        "date": "2026-09-24"
+        "name": "CF Montréal – Follow Us: Social media",
+        "url": "https://en.cfmontreal.com/follow_us/social_media",
+        "date": "2026-10-02",
+        "quote": "Instagram YouTube Facebook X TikTok LinkedIn Threads Twitch",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@cfmontreal",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.cfmontreal.com/",
-        "date": "2026-09-24"
+        "name": "CF Montréal – Follow Us: Social media",
+        "url": "https://en.cfmontreal.com/follow_us/social_media",
+        "date": "2026-10-02",
+        "quote": "Instagram YouTube Facebook X TikTok LinkedIn Threads Twitch",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-02"
 }

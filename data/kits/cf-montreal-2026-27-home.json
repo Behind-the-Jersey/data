@@ -12,13 +12,46 @@
       "sponsorId": "bmo-bank",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
+        "name": "CF Montréal – 'CF Montréal unveils new primary jersey'",
+        "date": "2025",
+        "url": "https://en.cfmontreal.com/news/cf-montreal-unveils-new-primary-jersey",
+        "quote": "BMO Financial Group, CF Montréal's main partner, is once again featured prominently in the centre of the jersey for a 14th consecutive MLS season.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "telus",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "CF Montreal | Apple TV | Media | Telus | Telecommunications",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey, while 24 teams feature a brand logo on the right sleeves of their jerseys",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Blue-and-black striped 'Montréal Original' home kit, worn since 2025. BMO is on the front for a 14th straight MLS season; Telus has the right sleeve and the Apple TV league patch the left."
 }
