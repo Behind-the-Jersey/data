@@ -1,0 +1,35 @@
+{
+  "id": "regione-sardegna-italian-republic",
+  "kind": "ownership",
+  "ownerIds": [
+    "regione-autonoma-della-sardegna",
+    "italian-republic"
+  ],
+  "text": "The Autonomous Region of Sardinia has special autonomy under article 116 of the Italian Constitution.",
+  "short": "The Autonomous Region of Sardinia has special autonomy under article 116 of the Italian Constitution.",
+  "source": {
+    "name": "Regione Autonoma della Sardegna, 'Statuto'",
+    "date": "2023-10-04",
+    "url": "https://www.regione.sardegna.it/regione/istituzione/statuto",
+    "quote": "Sin dal 1948, l´articolo 116 della Costituzione ha previsto speciali condizioni di autonomia per la nostra isola e per altre quattro regioni.",
+    "note": "Italian.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Normattiva, 'Costituzione della Repubblica Italiana, art. 116'",
+      "date": "1947-12-27",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art116",
+      "quote": "Il Friuli Venezia Giulia, la Sardegna, la Sicilia, il Trentino-Alto Adige/Südtirol e la Valle d'Aosta/Vallee d'Aoste dispongono di forme e condizioni particolari di autonomia",
+      "note": "Italian. Article 116 of the Constitution lists Sardinia among the regions with a special statute.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
