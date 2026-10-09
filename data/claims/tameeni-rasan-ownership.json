@@ -4,18 +4,41 @@
   "ownerIds": [
     "rasan-information-technology"
   ],
-  "text": "Tameeni Electronic Insurance Brokerage Limited is wholly owned by Rasan Information Technology Company.",
+  "text": "Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.",
+  "short": "Tameeni is a subsidiary of Rasan Information Technology (listed on the Saudi Exchange, Tadawul: 8313).",
   "source": {
-    "name": "Rasan Information Technology Company Prospectus (CMA), Subsidiaries",
-    "date": "2024-05",
-    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
-    "quote": "Tameeni Electronic Insurance Brokerage Limited, a limited liability company established and existing in the Kingdom of Saudi Arabia under Commercial Registration No. 1010838913, dated 12/04/1444H (corresponding to 06/11/2022G), with a capital of five hundred thousand Saudi Riyals (SAR 500,000), wholly owned by the Company",
+    "name": "Rasan – homepage (company site)",
+    "date": "",
+    "url": "https://www.rasan.co/en",
+    "quote": "Rasan's subsidiary Tameeni signs insurance brokerage agreement with Saudi National Bank",
     "checked": {
       "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
     }
   },
+  "reviewed": false,
   "additionalSources": [
+    {
+      "name": "Rasan Information Technology Company Prospectus (CMA)",
+      "date": "2024-05",
+      "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+      "quote": "wholly owned by the Company (hereinafter referred to as",
+      "note": "Subsidiaries section of the prospectus: 'Tameeni Electronic Insurance Brokerage Limited ... wholly owned by the Company (hereinafter referred to as Tameeni Company)'. PDF opened and text extracted locally 2026-10-04.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-scout reviewer (OpenCode, model kimi-k3-abliterated)"
+      }
+    },
+    {
+      "name": "Argaam – Rasan's subsidiary signs insurance brokerage agreement with SNB",
+      "date": "2025-08-03",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1832642",
+      "quote": "Rasan Information Technology Co.'s subsidiary, Tameeni Electronic Insurance Broker, signed an agreement, on July 31, with the Saudi National Bank",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
     {
       "name": "Rasan — Initial Public Offering (IPO), rasan.co",
       "date": "2025",
@@ -26,6 +49,5 @@
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     }
-  ],
-  "reviewed": false
+  ]
 }

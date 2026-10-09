@@ -1,14 +1,16 @@
 {
   "id": "paysafe",
   "name": "Paysafe",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "paysafe",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Paysafe Limited is a NYSE-listed payments platform whose principal shareholders - funds of CVC (25.4%) and Blackstone (21.4%) and related parties - beneficially own about 54.4% of its common shares, and the filing calls it a 'Controlled Company'. Nothing found.",
+  "claimIds": [
+    "paysafe-cvc-blackstone-ownership"
+  ],
   "aliases": [
     "Paysafe Limited"
   ],
-  "note": "New Title Partner of Envision's Formula E team from 2026-27 (fiaformulae.com driver announcement, 2026-09-14). Ownership not researched in this pass."
+  "note": "New Title Partner of Envision's Formula E team from the GEN4 era (team renamed 'Paysafe Envision' for 2026-27; announced 14 August 2026). Ownership now researched: NYSE-listed, principal shareholders CVC and Blackstone funds (about 54.4% per the FY2025 20-F); no state or state-fund holder, and no human-rights finding of the kind METHOD.md counts was located."
 }

@@ -1,0 +1,22 @@
+{
+  "id": "reitan-retail-reitan-as-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "reitan-retail",
+    "reitan-as"
+  ],
+  "text": "Reitan Retail is one of the three independent companies in REITAN, covering the business areas REMA 1000 Norge, REMA 1000 Danmark, Reitan Convenience and Uno-X Mobility.",
+  "short": "Reitan Retail (incl. Uno-X Mobility and REMA 1000) is one of Reitan AS's three companies.",
+  "source": {
+    "name": "Reitan: Våre eiere (Our owners)",
+    "date": "2026",
+    "url": "https://www.reitan.no/no/artikkel/1056/vare-eiere",
+    "quote": "Reitan Retail er ett av tre selvstendige selskaper i REITAN, og omfatter forretningsområdene REMA 1000 Norge, REMA 1000 Danmark, Reitan Convenience og Uno-X Mobility.",
+    "note": "English: 'Reitan Retail is one of three independent companies in REITAN, and covers the business areas REMA 1000 Norway, REMA 1000 Denmark, Reitan Convenience and Uno-X Mobility.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

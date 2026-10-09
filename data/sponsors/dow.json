@@ -1,0 +1,29 @@
+{
+  "id": "dow",
+  "name": "Dow",
+  "ownerId": "dow-inc",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Dow is Dow Inc. (NYSE: DOW). UN experts say pollution from the Bhopal plant of the company it now owns continues to poison people; Amnesty International calls it a 'sacrifice zone' in which half a million people across generations are suffering.",
+  "claimIds": [
+    "dow-inc-holding-company",
+    "dow-major-holders-2026",
+    "dow-bhopal-un-experts-2024"
+  ],
+  "aliases": [
+    "Dow Inc.",
+    "The Dow Chemical Company",
+    "Dow Chemical"
+  ],
+  "note": "Rating note: on hold for a maintainer. Proposed tier: concern. The link: the team's Official Materials Science Partner (Jaguar TCS Racing launch release, 22 Oct 2025) is Dow Inc. itself — the listed company whose holding-company structure and NYSE listing are quoted from its Form 10-K FY2025, with Vanguard (11.4%) and BlackRock (6.6%) as its 5%+ holders (2026 proxy; corroborated by Vanguard's 13G/A). No state holds 5%+. The record: UN human-rights experts (December 2024) said the company now owned by The Dow Chemical Company dumped and mismanaged hazardous waste at Bhopal, creating a sacrifice zone where pollution continues to poison people; Amnesty International's March 2024 report 'Bhopal: 40 years of Injustice' documents the same ongoing abuse of communities. That is a human-rights finding against the company itself (abuse of communities, still going on), so the proposal is concern (METHOD.md).",
+  "why": {
+    "text": "The team's partner Dow is Dow Inc., the listed company that is the holding company of The Dow Chemical Company. UN human-rights experts said in December 2024 that the company now owned by The Dow Chemical Company dumped and mismanaged hazardous waste at its Bhopal pesticide facility, creating a sacrifice zone where pollution continues to poison people, many living in poverty; Amnesty International's 2024 report says Dow and the US and Indian authorities have created a sacrifice zone in which half a million people across multiple generations are suffering.",
+    "claimIds": [
+      "dow-bhopal-un-experts-2024",
+      "dow-inc-holding-company"
+    ],
+    "messageLine": "UN experts say pollution from the Bhopal plant of the company Dow now owns continues to poison people; Amnesty puts those suffering at half a million.",
+    "status": "draft"
+  }
+}

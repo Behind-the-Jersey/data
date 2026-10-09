@@ -1,0 +1,34 @@
+{
+  "id": "hexis-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "hexis-sas"
+  ],
+  "text": "HEXIS is the brand of HEXIS SAS, a French maker of self-adhesive films based in Frontignan. HEXIS says Michel Mateu founded the company in 1989; France's official companies directory (Recherche d'entreprises, RNE) lists Caroline Mateu as president of the SAS, Clement Mateu as director-general and Michel Mateu as deputy director-general.",
+  "short": "HEXIS SAS: founded by Michel Mateu (1989); the Mateu family holds its top offices.",
+  "source": {
+    "name": "HEXIS Graphics: Société (page title 'HEXIS - HEXIS Graphics')",
+    "date": "2026",
+    "url": "https://www.hexis-graphics.com/fr/societe/",
+    "quote": "Sous l'impulsion de son fondateur, Michel MATEU, HEXIS a intégré les valeurs du développement durable",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page without a date; opened 2026-10-03. French; translation: 'Guided by its founder, Michel Mateu, HEXIS has built sustainability values into the company'. Same page: 'HEXIS SAS, un acteur majeur du marché de l'adhésivage' (page meta description) and 'Fabricant de films adhésifs depuis 1989'."
+  },
+  "additionalSources": [
+    {
+      "name": "Annuaire des Entreprises / Recherche d'entreprises (French government, RNE): HEXIS, SIREN 351 372 677",
+      "date": "2026",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=hexis",
+      "quote": "\"nom\":\"MATEU\",\"prenoms\":\"CAROLINE NATHALIE\",\"annee_de_naissance\":\"1973\",\"date_de_naissance\":\"1973-01\",\"qualite\":\"Président de SAS\"",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Registry extract (data.gouv.fr API) as of 2026-10-03; same dirigeants block lists MATEU CLEMENT JEAN GERARD as 'Directeur Général' and MATEU MICHEL MARIE as 'Directeur général délégué' of HEXIS (SIREN 351372677)."
+    }
+  ],
+  "reviewed": false
+}

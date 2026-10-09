@@ -1,0 +1,20 @@
+{
+  "id": "panrico-vicky-foods-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vicky-foods"
+  ],
+  "text": "Vicky Foods, a family-owned Spanish food company, has agreed with Adam Foods to acquire the Panrico bakery brand for the Spanish and Portuguese markets.",
+  "short": "Vicky Foods acquired the Panrico bakery brand.",
+  "source": {
+    "name": "Vicky Foods: 'Vicky Foods adquiere Panrico y refuerza su liderazgo en el mercado del pan en Iberia'",
+    "date": "2026-03-17",
+    "url": "https://www.vickyfoods.es/actualidad/vicky-foods-adquiere-panrico",
+    "quote": "ha alcanzado un acuerdo con Adam Foods para la adquisición de la emblemática marca de panadería, Panrico",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

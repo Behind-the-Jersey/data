@@ -1,0 +1,32 @@
+{
+  "id": "established-blaupunkt-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "established-inc"
+  ],
+  "text": "The Blaupunkt brand belongs to Established. Inc., a US brand-licensing company backed by Ares Management and Crosstimbers Capital Group, which acquired the Blaupunkt trademark portfolio from GIP Development SARL (an AURELIUS entity) in June 2023.",
+  "short": "Blaupunkt is owned by Established. Inc., a US licensing company backed by Ares and Crosstimbers.",
+  "source": {
+    "name": "AURELIUS: 'GIP Development sells Blaupunkt brand'",
+    "date": "2023-06-30",
+    "url": "https://www.aurelius-group.com/gip-development-sells-blaupunkt-brand",
+    "quote": "GIP Development SARL, an AURELIUS entity, announces the disposal of the Blaupunkt brand to Established. (USA), a private equity backed brand licensing company with broad industry expertise globally.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Carlsquare: deal note on the sale of the Blaupunkt trademark portfolio to Established. incorporated",
+      "date": "2023",
+      "url": "https://carlsquare.com/deal-history/carlsquare-advised-gip-development-a-aurelius-group-entity-on-the-sale-of-the-blaupunkt-trademark-portfolio-to-an-us-based-licensing-company-established-incorporated/",
+      "quote": "Blaupunkt, an iconic German brand, has been acquired by Established. incorporated (Established.), a global licensing company backed by Ares Management and Crosstimbers Capital Group.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "caixa-popular-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "caixa-popular"
+  ],
+  "text": "Caixa Popular is a Valencian cooperative bank whose owners are its own employees.",
+  "short": "Caixa Popular is a cooperative bank owned by its own employees.",
+  "source": {
+    "name": "Caixa Popular: 'Quiénes somos / Sobre la entidad'",
+    "date": "2026",
+    "url": "https://www.caixapopular.es/es/particulares/sobre-entidad",
+    "quote": "En Caixa Popular, los propietarios somos los mismos compañeros y compañeras de trabajo",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
