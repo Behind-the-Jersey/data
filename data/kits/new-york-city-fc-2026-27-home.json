@@ -12,13 +12,48 @@
       "sponsorId": "etihad-airways",
       "placement": "front",
       "source": {
-        "name": "nycfc.com",
-        "date": "2026-07-01",
-        "url": "https://www.nycfc.com/news/the-all-nations-kit-new-york-city-fc-unveil-new-secondary-kit"
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "New York City FC Etihad Airways Travel",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Front-of-jersey table of For Soccer's 2026 MLS jersey-sponsor survey (checked via the Wayback capture of 2026-06-16; the live page answered slowly for scripts). The home shirt is the Excelsior Kit, unveiled 2025-02-12 and worn for the 2025 and 2026 seasons (club launch: https://www.newyorkcityfc.com/news/new-york-city-fc-launches-2025-home-jersey-celebrating-the-team-s-10th-anniversary); its launch story does not name the front sponsor."
+      }
+    },
+    {
+      "sponsorId": "capital-rx",
+      "placement": "sleeve",
+      "source": {
+        "name": "New York City FC – New York City FC and Capital Rx Announce Sleeve Partnership",
+        "date": "2024-02-06",
+        "url": "https://www.newyorkcityfc.com/news/new-york-city-fc-and-capital-rx-announce-sleeve-partnership",
+        "quote": "The Capital Rx logo will be featured on the right sleeve of NYCFC First Team kits",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Multi-year deal announced 2024-02-06 (date per PR Newswire's release of the same announcement; the club page itself shows no date). For Soccer's 2026 MLS jersey-sponsor survey confirms Capital Rx on NYCFC's right sleeve for the 2026 season."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Etihad Airways fronts the Excelsior Kit, with Capital Rx on the right sleeve."
 }
