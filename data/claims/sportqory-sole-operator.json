@@ -1,0 +1,33 @@
+{
+  "id": "sportqory-sole-operator",
+  "kind": "ownership",
+  "ownerIds": [
+    "sportqory"
+  ],
+  "text": "Sport Qory, Kazakhstan's Tourism and Sports Industry Support Fund, is the sole operator for allocating extra-budgetary funds for physical culture and sport; its board of trustees takes the decisions on projects, and in 2021 the Astana football, hockey and basketball clubs were taken under the fund's management, followed by the Astana Qazaqstan professional cycling team in 2024.",
+  "short": "Sport Qory is Kazakhstan's sole operator for extra-budgetary sport funding and manages the pro clubs incl. the cycling team.",
+  "source": {
+    "name": "SportQory official site — Қор туралы (About the Fund)",
+    "date": "2026-10-01",
+    "url": "https://sportqory.kz/about",
+    "quote": "Қор дене шынықтыру мен спортты дамытуға бағытталған бюджеттен тыс ақша қаражатын бөлу жөніндегі бірыңғай оператор болып табылады.",
+    "note": "Kazakh; means 'The Fund is the sole operator for the allocation of extra-budgetary funds aimed at developing physical culture and sport'. Same page, history section: '2021 ... «Астана» футбол клубы, «Барыс» хоккей клубы, «Астана» кәсіпқой баскетбол клубы Қордың басшылығына алынды' (the clubs were taken under the Fund's management) and '2024: Astana Qazaqstan Team кәсіби велокомандасы Қор Басқармасына берілді' (the cycling team was transferred to the Fund's management).",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "BAQ.kz — Профессиональный и массовый спорт: как финансируется Sport Qory",
+      "date": "2023-07-11",
+      "url": "https://rus.baq.kz/professionalnyy-i-massovyy-sport-kak-finansiruetsya-sport-qory_156097/",
+      "quote": "Фонд Sport Qory является \"единым оператором по распределению внебюджетных денежных средств, направленных на развитие физической культуры и спорта\", согласно закону \"О физической культуре и спорте\" и приказу профильного министерства.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,14 +1,19 @@
 {
   "id": "xds",
   "name": "XDS",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "xidesheng"
+  "ownerId": "xidesheng",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "XDS is the bicycle brand of a Shenzhen-based Chinese manufacturer (Xidesheng), a private company; it is the team's title sponsor and bike supplier. Nothing found.",
+  "claimIds": [
+    "xds-xidesheng-ownership"
   ],
-  "note": "Chinese bicycle manufacturer based in Shenzhen; private."
+  "aliases": [
+    "xidesheng",
+    "xds carbon-tech",
+    "x-lab"
+  ],
+  "note": "Rated none on 2026-10-01: sourced ownership claim shows a private Chinese manufacturer; no state in the ownership chain and no human-rights finding against the company found. XDS's premium line X-LAB supplies the team's bikes; the SPX marking on the 2026 jersey sleeve and shorts is a product-line marking of XDS itself, so it is not a separate sponsor.",
+  "ownerVerb": "owned by"
 }
