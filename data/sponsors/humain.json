@@ -4,9 +4,24 @@
   "ownerId": "humain",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "HUMAIN is a company owned by Saudi Arabia's Public Investment Fund, the state's sovereign wealth fund.",
+  "claimIds": [
+    "saudi-executions-2024",
+    "humain-pif-ownership",
+    "pif-chaired-by-crown-prince"
+  ],
   "aliases": [],
-  "note": "Al-Nassr main shirt sponsor from 2026/27."
+  "note": "Al-Nassr main shirt sponsor from 2026/27 (front of the home kit). Rating note: on hold for a maintainer; the pull request proposes serious. The link is humain-pif-ownership (PIF press release: 'the launch of HUMAIN, a PIF-owned company'; PR Newswire and Arab News call HUMAIN 'a PIF company'). The record is saudi-executions-2024 (Amnesty + HRW) via the PIF chain (humain -> saudi-pif -> government-of-saudi-arabia).",
+  "ownerVerb": "owned by",
+  "why": {
+    "text": "HUMAIN is owned by Saudi Arabia's Public Investment Fund, the state's sovereign wealth fund chaired by Crown Prince Mohammed bin Salman. Saudi Arabia carried out a record 345 executions in 2024. The front of a famous shirt is prime advertising space, and this is that state's money. That's called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2024",
+      "humain-pif-ownership",
+      "pif-chaired-by-crown-prince"
+    ],
+    "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+    "status": "draft"
+  }
 }

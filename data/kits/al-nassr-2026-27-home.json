@@ -12,44 +12,50 @@
       "sponsorId": "humain",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-      }
-    },
-    {
-      "sponsorId": "shg",
-      "placement": "front",
-      "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "PR Newswire (Humain): NASSR FC Football Club and HUMAIN Announce Landmark Strategic Sponsorship",
+        "date": "2026-07-28",
+        "url": "https://www.prnewswire.com/news-releases/nassr-fc-football-club-and-humain-announce-landmark-strategic-sponsorship-302836360.html",
+        "quote": "HUMAIN has been named the Club's Official Sponsor for the 2026–2027 season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Official announcement by the sponsor: 'HUMAIN will serve as the Club's leading jersey sponsor throughout the 2026–2027 season'. Also reported by Arab News (2026-07-28) and Footy Headlines' home-kit reveal (2026-07-30)."
       }
     },
     {
       "sponsorId": "gathern",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "SPORTFIVE (LinkedIn): three-year partnership between Gathern and ALNASSR Saudi Club",
+        "date": "2024-09",
+        "url": "https://www.linkedin.com/posts/sportfive_sportsbusiness-sponsorship-activity-7236674366636265472-GsQL",
+        "quote": "Gathern will proudly take its place on the upper chest of AlNassr’s jersey across all Saudi Pro League, King’s Cup and Saudi Super Cup matches",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Deal facilitator's announcement of a three-year jersey partnership (2024/25 to 2026/27). LinkedIn shows the post only as '2y' old; the post id decodes to 3 September 2024. Gathern is also visible on the upper chest in the official Saudi Pro League 2026-27 kit photo (spl.com.sa 'Fresh Fit' gallery)."
       }
     },
     {
       "sponsorId": "aroya-cruises",
       "placement": "sleeve",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "name": "Breaking Travel News: AROYA Cruises Renews Sponsorship Agreement with Al Nassr FC for the 2026-27 Season",
+        "date": "2026-07-30",
+        "url": "https://www.breakingtravelnews.com/news/article/aroya-cruises-renews-sponsorship-agreement-with-al-nassr-fc-for-the-2026-27/",
+        "quote": "AROYA Cruises will continue to feature on Al Nassr FC’s official playing kit throughout the 2026-27 season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "AROYA is on the left sleeve in the official Saudi Pro League 2026-27 kit photo (spl.com.sa 'Fresh Fit' gallery)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "sponsorsComplete": true,
+  "summary": "Adidas home kit. HUMAIN is the main front sponsor, Gathern sits on the upper chest, AROYA Cruises is on the sleeve; the back of the shirt is plain (product photos on store-alnassr.com). SHG, listed here in pre-season roundups, is not on this shirt.",
+  "shortLine": "HUMAIN on the front",
   "change": null
 }
