@@ -1,0 +1,34 @@
+{
+  "id": "polyplast-kingisepp-2019-explosion",
+  "kind": "record",
+  "ownerIds": [
+    "polyplast"
+  ],
+  "text": "On 16 January 2019 an explosion at the Kingisepp (Leningrad Oblast) plant of ООО «Полипласт Северо-Запад», a Polyplast group production company, injured workers (four per the prosecutor's reporting, five per local press). The Investigative Committee opened a criminal case under Article 217 of the Criminal Code (violation of safety rules at an explosive facility), the Leningrad Oblast prosecutor's office brought four administrative cases against the company and its officials, finding fire-safety and labour-law violations — including allowing staff to work without training or medical checks — and the plant was fined about 239,000 rubles.",
+  "short": "2019 explosion at Polyplast's Kingisepp plant injured workers; criminal case opened; the plant was fined for fire-safety and labour-law violations.",
+  "source": {
+    "name": "Форпост Северо-Запад (forpost-sz.ru): Взорвавшийся завод «Полипласт» в Кингисеппе оштрафовали на 239 тысяч рублей",
+    "date": "2019-02-01",
+    "url": "https://forpost-sz.ru/a/2019-02-01/vzorvavshijsya-zavod-poliplast-v-kingiseppe-oshtrafovali-na-239-tysyach-rublej",
+    "quote": "16 января на химическом заводе «Полипласт Северо-Запад» в Кингисеппе прогремел взрыв. Травмы различной степени тяжести получили четыре человека. Позже областной Следком возбудил уголовное дело",
+    "note": "Translation: 'On 16 January an explosion rocked the Polyplast Severo-Zapad chemical plant in Kingisepp. Four people were injured to varying degrees. Later the regional Investigative Committee opened a criminal case' (Art. 217 Criminal Code). The same article reports the regional prosecutor brought four administrative cases against the legal entity and officials over fire-safety and labour-law violations, and the plant was fined 239,000 rubles.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Маяк (mayaksbor.ru): Взорвавшийся в Кингисеппе завод «Полипласт» оштрафуют на 240 тысяч",
+      "date": "2019-02-01",
+      "url": "https://mayaksbor.ru/news/incidents/vzorvavshiysya_v_kingiseppe_zavod_poliplast_oshtrafuyut_na_240_tysyach/",
+      "quote": "на ООО \"Полипласт Северо-Запад\" нарушались правила противопожарной безопасности и нормативные требования охраны труда",
+      "note": "Translation: 'at OOO Polyplast Severo-Zapad, fire-safety rules and occupational-safety requirements were violated' — the article, citing the Leningrad Oblast prosecutor's office, also reports employees were allowed to work without training or medical/psychiatric examination, an order to remedy the violations, a fine of about 239–240 thousand rubles, and that five people were injured in the 16 January explosion.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
