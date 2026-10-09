@@ -1,0 +1,34 @@
+{
+  "id": "mahou-san-miguel-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mahou-san-miguel"
+  ],
+  "text": "Cervezas San Miguel is part of the Mahou San Miguel group, a drinks company described as family-owned and 100% Spanish.",
+  "short": "San Miguel beer is a brand of Mahou San Miguel, a family-owned, 100% Spanish drinks company.",
+  "source": {
+    "name": "Malagaes: Mahou San Miguel reconoce a Antonio Banderas, al Ayuntamiento de Málaga, al Unicaja Baloncesto y a Manuel Villafaina",
+    "date": "2026-09-29",
+    "url": "https://www.malagaes.com/mahou-san-miguel-reconoce-a-antonio-banderas-al-ayuntamiento-de-malaga-al-unicaja-baloncesto-y-a-manuel-villafaina-por-su-contribucion-al-desarrollo-de-la-provincia/",
+    "quote": "Mahou San Miguel, compañía familiar de bebidas 100% española y líder del sector cervecero en nuestro país",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "English: 'Mahou San Miguel, a family-owned, 100% Spanish drinks company and leader of the beer sector in our country.'"
+  },
+  "additionalSources": [
+    {
+      "name": "Rio Ave FC: Cervezas San Miguel é o novo Premium Partner do Rio Ave FC",
+      "date": "2025-04-25",
+      "url": "https://rioavefc.pt/destaque/cervezas-san-miguel-e-o-novo-premium-partner-do-rio-ave-fc/",
+      "quote": "Cervezas San Miguel, parte do grupo Mahou San Miguel, é o novo Premium Partner do Rio Ave Futebol Clube.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "English: 'Cervezas San Miguel, part of the Mahou San Miguel group, is Rio Ave FC's new Premium Partner.'"
+    }
+  ],
+  "reviewed": false
+}
