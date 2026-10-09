@@ -1,0 +1,32 @@
+{
+  "id": "giant-manufacturing-wro-2025",
+  "kind": "record",
+  "ownerIds": [
+    "giant-manufacturing"
+  ],
+  "text": "In September 2025 US Customs and Border Protection issued a Withhold Release Order against bicycles, bicycle parts and accessories manufactured in Taiwan by Giant Manufacturing Co. Ltd, based on information that reasonably indicates forced labour use.",
+  "source": {
+    "name": "U.S. Customs and Border Protection: CBP issues Withhold Release Order on Giant Manufacturing Co. Ltd. (archived copy of the cbp.gov release)",
+    "date": "2025-09-24",
+    "url": "https://web.archive.org/web/20251227172106/https://www.cbp.gov/newsroom/national-media-release/cbp-issues-withhold-release-order-giant-manufacturing-co-ltd",
+    "quote": "issued a Withhold Release Order against bicycles, bicycle parts, and accessories manufactured in Taiwan by Giant Manufacturing Co. Ltd, based on information that reasonably indicates forced labor use",
+    "note": "cbp.gov blocks scripted access (HTTP 403); opened via the Wayback Machine capture of 27 December 2025. The release adds that CBP's investigation identified ILO forced labor indicators including debt bondage, withholding of wages, abusive working and living conditions and excessive overtime.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Business and Human Rights Centre: Taiwan: Migrant workers at bike manufactures exporting worldwide charged high recruitment fees & at risk of debt bondage; incl. cos comments",
+      "date": "2026-06-29",
+      "url": "https://www.business-humanrights.org/en/latest-news/taiwan-migrant-workers-at-bike-manufactures-exporting-worldwide-charged-high-recruitment-fees-at-risk-of-debt-bondage-incl-cos-comments-2/",
+      "quote": "By September 2025, U.S. Customs and Border Protection imposed a Withhold Release Order on Giant’s Taiwan-made bicycles and components, the first such order against a Taiwanese manufacturer",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
