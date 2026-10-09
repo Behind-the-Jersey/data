@@ -1,0 +1,21 @@
+{
+  "id": "esa-nanotech-lmdv-capital-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lmdv-capital"
+  ],
+  "text": "ESA NanoTech's own website states that ESA NanoTech is part of the LMDV Capital group, the investment company founded by Leonardo Maria Del Vecchio.",
+  "short": "ESA NanoTech is part of LMDV Capital, founded by Leonardo Maria Del Vecchio.",
+  "source": {
+    "name": "ESA NanoTech: ESA NanoTech scende in pista con AF Corse: siglata la partnership per la partecipazione nel FIA World Endurance Championship",
+    "date": "2026-08-24",
+    "url": "https://esananotech.com/en/news/esananotech-scende-in-pista-con-af-corse-siglata-la-partnership-per-la-partecipazione-nel-fia-world-endurance-championship",
+    "quote": "ESA NanoTech è parte del gruppo LMDV Capital, la società di investimento fondata da Leonardo Maria Del Vecchio.",
+    "note": "Italian quote translates as: 'ESA NanoTech is part of the LMDV Capital group, the investment company founded by Leonardo Maria Del Vecchio.' From the About ESA NanoTech section of the article.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

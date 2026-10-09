@@ -12,13 +12,48 @@
       "sponsorId": "compass-minerals",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "SportingKC.com: 'Sporting KC announces Compass Minerals as new jersey front partner'",
+        "date": "2022-02",
+        "url": "https://www.sportingkc.com/news/sporting-kc-announces-compass-minerals-as-new-jersey-front-partner",
+        "quote": "Compass Minerals’ logo will now be prominently displayed on the front of all Sporting Kansas City jerseys from the start of the 2022 Major League Soccer season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club announcement; the page renders no date, but the same sentence runs 'until the end of 2028' and the embedded Compass Minerals post is dated February 10, 2022. For Soccer's 2026 MLS jersey-sponsor survey (2026-02-17) confirms Compass Minerals as SKC's front partner for 2026."
+      }
+    },
+    {
+      "sponsorId": "saint-lukes-health-system",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportingKC.com: 'Sporting Kansas City and Saint Luke’s team up for new community-affiliated partnership'",
+        "date": "2025-12",
+        "url": "https://www.sportingkc.com/skcii/news/sporting-kansas-city-and-saint-luke-s-team-up-for-new-community-affiliated-partnership",
+        "quote": "The historic Saint Luke’s logo will be proudly worn as a patch on the right sleeve of Sporting KC’s primary and secondary jerseys on gamedays",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club announcement (syndicated copy in the SKC II section); page renders no date, KSHB/KCTV reported the announcement on Friday 12 December 2025. Applied from the 2026 MLS season."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+        "date": "2026-03-02",
+        "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+        "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Compass Minerals is the front partner under a seven-season deal running to the end of 2028. Saint Luke's took the right-sleeve patch from the 2026 season; the league-wide Apple TV+ patch sits on the left sleeve. No back or shorts sponsor announced."
 }

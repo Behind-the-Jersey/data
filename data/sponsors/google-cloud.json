@@ -3,14 +3,15 @@
   "name": "Google Cloud",
   "ownerId": "alphabet-inc",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Alphabet Inc.. Nothing found.",
   "claimIds": [
-    "alphabet-inc-record"
+    "alphabet-inc-record",
+    "alphabet-inc-shareholders"
   ],
   "aliases": [
     "Google Cloud Platform"
   ],
-  "note": "Official Cloud and Preferred Technology Partner of the McLaren F1 team; also Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  "note": "Official Cloud and Preferred Technology Partner of the McLaren F1 team; also Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25). Rating note: Alphabet's 2026 proxy lists BlackRock (6.1% of Class A) as the only 'Other > 5% Security Holder'; co-founders Page and Brin hold the controlling Class B votes; no state or sovereign-fund holder identified."
 }

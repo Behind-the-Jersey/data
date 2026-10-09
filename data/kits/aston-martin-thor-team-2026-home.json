@@ -1,0 +1,37 @@
+{
+  "id": "aston-martin-thor-team-2026-home",
+  "clubId": "aston-martin-thor-team",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "the-heart-of-racing",
+      "placement": "front",
+      "source": {
+        "name": "FIA WEC – Aston Martin THOR Team #007 (official car page)",
+        "date": "2026",
+        "url": "https://www.fiawec.com/en/car/2026/007",
+        "quote": "ASTON MARTIN THOR TEAM",
+        "note": "Official 2026 FIA WEC grid page: full team name ASTON MARTIN THOR TEAM, linking to theheartofracing.com. Car-livery placements are not in the schema yet (see leagues/wec.json notes), so the team title in the name (THOR = The Heart of Racing) is mapped to the front placement, mirroring the MotoGP research. Aston Martin media release, 8 Dec 2025 (media.astonmartin.com/aston-martin-valkyrie-will-race-with-unchanged-line-up-in-2026/): 'The Aston Martin THOR Team will once again be represented by British duo Tom Gamble and Harry Tincknell in the #007 Valkyrie'."
+      }
+    },
+    {
+      "sponsorId": "michelin",
+      "placement": "partner",
+      "source": {
+        "name": "FIA WEC – Aston Martin THOR Team #007 (official car page)",
+        "date": "2026",
+        "url": "https://www.fiawec.com/en/car/2026/007",
+        "quote": "Tyre partner",
+        "note": "The car page's information block shows Michelin as the team's tyre partner (logo next to the words 'Tyre partner'). Michelin is also the WEC Hypercar tyre supplier named on the championship's partners page (leagues/wec.json notes). Michelin's own sponsor record is shared with other kits and is left unrated here."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 works Aston Martin Valkyrie AMR-LMH (Hypercar #007/#009), run by The Heart of Racing as the Aston Martin THOR Team. The team title (THOR) is on the front; Michelin is the tyre partner per the official FIA WEC car page. No commercial partner roster is published by the team, and car-livery placements (Aston Martin and Multimatic branding, Valkyrie wordmark, FIA logos on the official 2026 car image) do not fit the schema yet, so the list is not complete."
+}

@@ -4,18 +4,28 @@
   "ownerIds": [
     "rasan-information-technology"
   ],
-  "text": "Rasan Information Technology's 2024 IPO prospectus names the shareholders owning 5% or more: Impact Funds for Financial Technology Company and Assets Custody Development Impact Company (both Impact46-linked fund vehicles), plus four individuals: Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan and Mohammed Muheideb Ali AlMuheideb.",
-  "short": "Rasan's 5%+ shareholders are two Impact46-linked companies and four individuals.",
+  "text": "As of Rasan Information Technology Company's IPO prospectus of May 2024, the shareholders who directly owned 5% or more of the company were Impact Funds for Financial Technology Company, Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan, Mohammed Muheideb Ali AlMuheideb and Assets Custody Development Impact Company for Communications and Information Technology. On 13 March 2025, Impact46 announced its successful exit from Rasan through an accelerated bookbuild offering.",
   "source": {
-    "name": "Capital Market Authority (Saudi Arabia): Rasan Information Technology IPO prospectus, Substantial Shareholders table",
+    "name": "Rasan Information Technology Company Prospectus (CMA), Substantial Shareholders",
     "date": "2024-05",
     "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
-    "quote": "The Company's Substantial Shareholders who directly own 5% or more of the Company's Shares are: (1) Impact Funds for Financial Technology Company, (2) Theib Hudeiban Ghallab AlMutairi",
-    "note": "Same table lists (3) Muheideb Ali Mohammed AlMuheideb, (4) Samer Mohammed Raslan, (5) Mohammed Muheideb Ali AlMuheideb and (6) Assets Custody Development Impact Company for Communications and Information Technology; largest post-offering stake is 13.06% (Impact Funds).",
+    "quote": "Substantial Shareholders who directly own 5% or more of the Company’s Shares are: (1) Impact Funds for Financial Technology Company, (2) Theib Hudeiban Ghallab AlMutairi, (3) Muheideb Ali Mohammed AlMuheideb, (4) Samer Mohammed Raslan, (5) Mohammed Muheideb Ali AlMuheideb and (6) Assets Custody Development Impact Company for Communications and Information Technology",
     "checked": {
       "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Argaam – Impact46 exits Rasan; return reaches 10x initial investment",
+      "date": "2025-03-13",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1797009",
+      "quote": "Impact46, a leading fund manager in Saudi Arabia, licensed by the Capital Market Authority (CMA), focusing on investing in high growth technology companies, today announced its successful exit from Rasan Information Technology Company (“Rasan”) through an accelerated bookbuild offering.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (review of PR #1115)"
+      }
+    }
+  ],
   "reviewed": false
 }

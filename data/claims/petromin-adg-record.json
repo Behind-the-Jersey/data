@@ -1,0 +1,22 @@
+{
+  "id": "petromin-adg-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "petromin-corporation",
+    "al-dabbagh-group"
+  ],
+  "text": "Petromin is a Saudi-origin energy and mobility company under Al-Dabbagh Group.",
+  "short": "Petromin is under Al-Dabbagh Group.",
+  "source": {
+    "name": "Petromin: About Petromin (homepage)",
+    "date": "2026",
+    "url": "https://petromin.com/",
+    "note": "Page without a date; opened 2026-10-03.",
+    "quote": "Petromin is a Saudi-origin energy and mobility company under Al-Dabbagh Group, with operations across Saudi Arabia, the UAE, Egypt, India, Pakistan, Malaysia, and Morocco",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

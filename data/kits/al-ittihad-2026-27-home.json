@@ -12,34 +12,49 @@
       "sponsorId": "flow-progressive-logistics",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Al-Ittihad – Al-Ittihad Unveils 2026/2027 Home Kit (club announcement)",
+        "date": "2026-07-20",
+        "url": "https://www.ittihadclub.sa/en/news/al-ittihad-unveils-20262027-home-kit",
+        "quote": "Al-Ittihad Club has officially unveiled its 2026/27 Home Kit",
+        "note": "The launch photos on this page show the Flow logo on the right chest of the home shirt, above the Nike swoosh. The same picture is in the Saudi Pro League's official 2026-27 kit gallery (https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "tcl",
       "placement": "sleeve",
       "source": {
-        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-        "date": "2026-08-24",
-        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-        "note": "Official league gallery of the 2026-27 kits."
+        "name": "TN Media News – Al-Ittihad and TCL Electronics Unite to Inspire Greatness in Saudi Football",
+        "date": "2025-10-26",
+        "url": "https://tnmn.tv/al-ittihad-and-tcl-electronics-unite-to-inspire-greatness-in-saudi-football",
+        "quote": "the TCL logo will feature prominently on the right shoulder of the men's team jerseys and on the upper chest of the women's team jerseys",
+        "note": "Two-season deal signed in October 2025, so it covers 2026/27; the TCL logo also appears on the sleeve in the club's 26/27 home-kit launch photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "nike",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Al-Ittihad and Al-Qadsiah. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "Al-Ittihad – Al-Ittihad Unveils 2026/2027 Home Kit (club announcement)",
+        "date": "2026-07-20",
+        "url": "https://www.ittihadclub.sa/en/news/al-ittihad-unveils-20262027-home-kit",
+        "quote": "marking a new chapter in Al-Ittihad's journey while joining the world's leading clubs equipped with the latest Nike Aero-FIT technology",
+        "note": "Kit supplier: the club's launch photos show the Nike swoosh on the shirt, and the club's sponsor footer lists Nike (nike.sa).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Nike home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "sponsorsComplete": true,
+  "summary": "Nike home kit. Flow Progressive Logistics on the right chest (front) and TCL on the sleeve; the club's launch photos and shop photos show no back, shorts or patch sponsor for 2026/27.",
   "change": null
 }

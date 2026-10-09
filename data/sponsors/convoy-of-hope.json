@@ -1,12 +1,14 @@
 {
   "id": "convoy-of-hope",
   "name": "Convoy of Hope",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "convoy-of-hope",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Convoy of Hope is a US 501(c)(3) humanitarian nonprofit, founded in 1994 by Hal Donaldson. Nothing found.",
+  "claimIds": [
+    "convoy-of-hope-nonprofit"
+  ],
   "aliases": [],
-  "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  "note": "Rating note: nonprofit, faith-based humanitarian organisation (a 501(c)(3) tax-exempt organisation, convoyofhope.eu/about); no shareholders and no state involvement → none. Listed as a RangeGoats GC partner on livgolf.com/rangegoats-gc (impact partner of the team's Goats Give Back program)."
 }

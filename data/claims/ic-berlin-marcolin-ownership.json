@@ -1,0 +1,20 @@
+{
+  "id": "ic-berlin-marcolin-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "marcolin-spa"
+  ],
+  "text": "ic! berlin is a Marcolin-owned German eyewear brand.",
+  "short": "ic! berlin is a Marcolin-owned brand.",
+  "source": {
+    "name": "Audi Revolut F1 Team – Partners",
+    "date": "2026-10-01",
+    "url": "https://www.audif1.com/en/partners",
+    "quote": "The Marcolin-owned German brand creates eyewear",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

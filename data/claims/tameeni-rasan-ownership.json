@@ -4,31 +4,51 @@
   "ownerIds": [
     "rasan-information-technology"
   ],
-  "text": "Tameeni Electronic Insurance Brokerage Limited, the company behind the Tameeni insurance-comparison platform, is wholly owned by Rasan Information Technology Company, the Saudi fintech group listed on the Saudi Exchange since May 2024.",
-  "short": "Tameeni is wholly owned by listed Rasan Information Technology.",
+  "text": "Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.",
+  "short": "Tameeni is a subsidiary of Rasan Information Technology (listed on the Saudi Exchange, Tadawul: 8313).",
   "source": {
-    "name": "Capital Market Authority (Saudi Arabia): Rasan Information Technology IPO prospectus, subsidiaries table",
-    "date": "2024-05",
-    "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
-    "quote": "with a capital of five hundred thousand Saudi Riyals (SAR 500,000), wholly owned by the Company (hereinafter referred to as Tameeni Company)",
-    "note": "PDF; the line sits in the subsidiaries list under '2- Tameeni Electronic Insurance Brokerage Limited'.",
+    "name": "Rasan — Initial Public Offering (IPO), rasan.co",
+    "date": "2025",
+    "url": "https://rasan.co/en/investor-relations/ipo",
+    "quote": "One of the leading FinTech companies in the Middle East providing seamless services through our flagship subsidiaries, including Tameeni",
+    "note": "Quote verified on the live page 2026-10-09 (static HTML). Originally cited the rasan.co/en homepage, whose JS-rendered ticker carried the SNB brokerage headline when checked 2026-10-03; the raw HTML no longer shows it, so the primary source was re-pointed at this IPO page which states the same fact in static HTML.",
     "checked": {
-      "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      "on": "2026-10-09",
+      "by": "BigBossRabbit"
     }
   },
+  "reviewed": false,
   "additionalSources": [
     {
-      "name": "Rasan: IPO page",
-      "date": "2026",
-      "url": "https://www.rasan.co/en/ipo",
-      "quote": "providing seamless services through our flagship subsidiaries, including Tameeni",
-      "note": "Rasan describes Tameeni as one of its subsidiaries. Page without a date; opened 2026-10-03.",
+      "name": "Rasan — homepage (company site)",
+      "date": "",
+      "url": "https://www.rasan.co/en",
+      "quote": "Tameeni marked the beginning of Rasan's disruption of Saudi Arabia's insurance market in 2017",
+      "checked": {
+        "on": "2026-10-09",
+        "by": "BigBossRabbit"
+      }
+    },
+    {
+      "name": "Rasan Information Technology Company Prospectus (CMA)",
+      "date": "2024-05",
+      "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+      "quote": "wholly owned by the Company (hereinafter referred to as",
+      "note": "Subsidiaries section of the prospectus: 'Tameeni Electronic Insurance Brokerage Limited ... wholly owned by the Company (hereinafter referred to as Tameeni Company)'. PDF opened and text extracted locally 2026-10-04.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-scout reviewer (OpenCode, model kimi-k3-abliterated)"
+      }
+    },
+    {
+      "name": "Argaam – Rasan's subsidiary signs insurance brokerage agreement with SNB",
+      "date": "2025-08-03",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1832642",
+      "quote": "Rasan Information Technology Co.'s subsidiary, Tameeni Electronic Insurance Broker, signed an agreement, on July 31, with the Saudi National Bank",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     }
-  ],
-  "reviewed": false
+  ]
 }
