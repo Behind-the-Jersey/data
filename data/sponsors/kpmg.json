@@ -1,12 +1,16 @@
 {
   "id": "kpmg",
   "name": "KPMG",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Official Partner of SailGP; presenting partner of the Oracle Perth Sail Grand Prix and title partner of the KPMG Sydney Sail Grand Prix (sailgp.com partners overview and 2026 calendar, fetched 2026-09-25)."
+  "ownerId": "kpmg-international-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The KPMG name belongs to the network of independent member firms affiliated with KPMG International Limited, an English private company limited by guarantee. Nothing found.",
+  "claimIds": [
+    "kpmg-network-structure"
+  ],
+  "aliases": [
+    "KPMG España"
+  ],
+  "note": "Official Partner of SailGP; presenting partner of the Oracle Perth Sail Grand Prix and title partner of the KPMG Sydney Sail Grand Prix (sailgp.com partners overview and 2026 calendar, fetched 2026-09-25). Sleeve sponsor of Spain's men's and women's rugby XV national teams for 2025/26 and 2026/27 (KPMG España press release, 29 October 2025). Rating note: the KPMG network is a structure of legally independent member firms coordinated by KPMG International Limited (limited by guarantee, no shareholders); the Spanish sponsorship is by the member firm KPMG, S.A. No state stake or human-rights finding identified."
 }
