@@ -1,0 +1,35 @@
+{
+  "id": "taneco-part-of-tatneft-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "taneco",
+    "tatneft"
+  ],
+  "text": "TANECO is a company of the Tatneft Group: TANECO's own website describes the company as working to strengthen the Tatneft Group's competitive positions, and Tatneft's official list of group divisions and companies includes AO TANECO.",
+  "short": "TANECO is Tatneft Group's refining company.",
+  "source": {
+    "name": "AO TANECO: official site",
+    "date": "2026",
+    "url": "https://taneco.tatneft.ru/",
+    "quote": "АО «ТАНЕКО» – социально ориентированное динамично развивающееся предприятие, нацеленное на усиление долгосрочных конкурентных позиций Группы компаний «Татнефть»",
+    "note": "Russian: 'AO TANECO is a ... company aimed at strengthening the long-term competitive positions of the Tatneft Group of companies.' Site footer: © ПАО «Татнефть».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "PJSC TATNEFT: Сайты подразделений и компаний (sites of divisions and group companies)",
+      "date": "2026",
+      "url": "https://old.tatneft.ru/o-kompanii/predpriyatiya-gruppi-tatneft/?lang=ru",
+      "quote": "АО «ТАНЕКО» taneco.tatneft.ru",
+      "note": "Tatneft's official list of group divisions and companies includes AO TANECO.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
