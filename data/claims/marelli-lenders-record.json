@@ -1,0 +1,33 @@
+{
+  "id": "marelli-lenders-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "marelli-holdings"
+  ],
+  "text": "Marelli filed for Chapter 11 in the United States on 11 June 2025, and its restructuring provides for the DIP lenders to take ownership of the business upon emergence from chapter 11; the company names its principal lenders as Deutsche Bank, Strategic Value Partners, MBK Partners, Fortress Investment Group and Polus Capital Management.",
+  "short": "Marelli's principal lenders (Deutsche Bank, SVP, MBK, Fortress, Polus) are to own it on emergence from Chapter 11.",
+  "source": {
+    "name": "Marelli: Marelli Initiates Voluntary U.S. Chapter 11 Proceedings to Strengthen Financial Position and Facilitate a Value-Maximizing Restructuring",
+    "date": "2025-06-11",
+    "url": "https://marelli.com/en/news/marelli-voluntary-us-chapter-11.html",
+    "quote": "the DIP Lenders will take ownership of the business upon emergence from chapter 11, subject to a 45-day overbid process",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Marelli: Marelli Receives Court Approval of \"Second Day\" Motions to Support Business Operations",
+      "date": "2025-07-29",
+      "url": "https://www.marelli.com/en/news/marelli-receives-court-approval-of-second-day-motions-to-support-business-operations.html",
+      "note": "Same publisher (Marelli press releases); names the principal lenders and says the company expects to emerge from Chapter 11 in 2026 under their ownership.",
+      "quote": "The group of Marelli's principal lenders consists of Deutsche Bank, Strategic Value Partners, MBK Partners, Fortress Investment Group, and Polus Capital Management.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

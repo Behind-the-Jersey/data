@@ -12,13 +12,47 @@
       "sponsorId": "sandmark",
       "placement": "partner",
       "source": {
+        "name": "PR Newswire / Sandmark: Crypto News and Data Platform Sandmark Joins Artemis SailGP as Official Partner Ahead of 2026 Season",
+        "date": "2026-01-12",
+        "url": "https://www.prnewswire.com/news-releases/crypto-news-and-data-platform-sandmark-joins-artemis-sailgp-as-official-partner-ahead-of-2026-season-302657497.html",
+        "quote": "Sandmark has joined Artemis SailGP as an Official Partner, supporting the Swedish team as it competes in SailGP's high-tech 50-foot foiling catamarans",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "artemis-technologies",
+      "placement": "partner",
+      "source": {
         "name": "SailGP team page - Artemis (Official Partners)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/artemis/"
+        "date": "2026-10-02",
+        "url": "https://www.sailgp.com/teams/artemis/",
+        "note": "The team page renders its partner groups by script, so the quote can't be found by the checker; the embedded page data lists Artemis Technologies under the group 'Artemis Racing | Official Partners'.",
+        "quote": "Artemis Technologies",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pelle-p",
+      "placement": "partner",
+      "source": {
+        "name": "Pelle P: Pelle P Appointed Official Clothing Supplier of Artemis SailGP",
+        "date": "2026",
+        "url": "https://www.pellepetterson.com/en-gb/world-of-pelle-p/articles/sailgp-pressrelease/",
+        "quote": "The Swedish premium sailing brand Pelle P has been appointed Official Clothing Supplier of Artemis SailGP",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "New Swedish team Artemis has no title partner; Sandmark and Artemis Technologies are Official Partners, Pelle P supplies.",
+  "summary": "New Swedish team Artemis has no title partner; Sandmark (crypto news platform, joined as Official Partner January 2026), Artemis Technologies (Official Partner) and Pelle P (Official Clothing Supplier) are the commercial partners in the team page's partner block. Not marked complete: the same block lists the team's Purpose Partner, the Andrew Simpson Foundation, which is not recorded as a sponsor.",
   "change": null
 }

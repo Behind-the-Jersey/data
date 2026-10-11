@@ -1,0 +1,21 @@
+{
+  "id": "datashift-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "datashift"
+  ],
+  "text": "Datashift, a Mechelen data consultancy founded in 2015 by two co-founders and led by co-founder and CEO Nico Huybrechts, brought in private-equity player Finco as a strategic partner in 2024.",
+  "short": "Datashift is co-founder-led with private-equity firm Finco as partner.",
+  "source": {
+    "name": "Made in Mechelen: Datashift schakelt versnelling hoger",
+    "date": "2024-02-06",
+    "url": "https://www.made-in.be/mechelen/datashift-schakelt-versnelling-hoger/",
+    "quote": "Om die groeiambities kracht bij te zetten, neemt het bedrijf Finco onder de arm, een private equityspeler.",
+    "note": "Dutch; translation: 'To give force to those growth ambitions, the company brings Finco on board, a private-equity player.' Same article: the team initially consisted of 'de twee oprichters' (the two founders) and quotes 'Nico Huybrechts, medeoprichter en CEO van Datashift' (co-founder and CEO).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

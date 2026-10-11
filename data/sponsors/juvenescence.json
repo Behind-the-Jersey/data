@@ -1,12 +1,17 @@
 {
   "id": "juvenescence",
   "name": "Juvenescence",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Partner of NorthStar Canada (SailGP press release, 2024)."
+  "ownerId": "juvenescence",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A private drug-development company co-founded by Dr. Greg Bailey, Jim Mellon and Dr. Declan Doogan. Nothing found.",
+  "claimIds": [
+    "juvenescence-founders-ownership"
+  ],
+  "aliases": [
+    "Juvenescence Science",
+    "JuvLabs"
+  ],
+  "note": "Partner of the NorthStar SailGP Team 'to champion health, wellness and longevity' (SailGP press release, 22 Nov 2024). Rating note (2026-10-03): Juvenescence's co-founders are Dr. Greg Bailey, Jim Mellon and Dr. Declan Doogan (juvlabs.com/our-team); it is a private company, so its share register isn't public. Context: co-founder Dr. Greg Bailey acquired the Canada SailGP Team in 2024, which was renamed NorthStar (SailGP press release, 2 Oct 2024, sailgp.com/news/24/confirmed-canada-sailgp-team-sold-to-new-owners/). No state or state-fund holder was found, and no human-rights finding against the company was found. Juvenescence announced a UAE presence at Masdar City (juvlabs.com press release, 26 Feb 2026); a presence is not ownership."
 }

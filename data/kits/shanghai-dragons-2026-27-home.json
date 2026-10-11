@@ -7,8 +7,129 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "liga-stavok",
+      "placement": "partner",
+      "source": {
+        "name": "Stavki.ru: «Лига Ставок» стала премиальным партнёром ХК «Шанхай Дрэгонс»",
+        "date": "2026-09-02",
+        "url": "https://stavki.ru/sportnews/liga-stavok-stala-premialnym-partnyorom-hk-shanhaj-dregons/",
+        "quote": "Логотип «Лиги Ставок» уже размещён на форме команды и появится на домашней арене, а также на официальных цифровых площадках клуба.",
+        "note": "Named press: the club signed Liga Stavok as premium partner for the 2026/27 season; the article says the brand's logo is already on the team's kit. Exact jersey placement (front/back/sleeve) is not specified in the source.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "moya-stihiya",
+      "placement": "partner",
+      "source": {
+        "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+        "date": "2026",
+        "url": "https://hc-dragons.com/partnership/",
+        "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+        "note": "Moya Stikhiya (моястихия.рф) is listed under this heading with the label «Официальный партнер»; the partner appears as a logo linking to its site. The page itself is undated.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "domina",
+      "placement": "partner",
+      "source": {
+        "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+        "date": "2026",
+        "url": "https://hc-dragons.com/partnership/",
+        "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+        "note": "Domina (spb.dominarussia.com, Domina Pulkovo) is listed under this heading with the label «Официальный партнер». The page itself is undated.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "synergetic",
+      "placement": "partner",
+      "source": {
+        "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+        "date": "2026",
+        "url": "https://hc-dragons.com/partnership/",
+        "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+        "note": "Synergetic (synergetic.ru) is listed under this heading with the label «Официальный партнер». The page itself is undated.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sprts",
+      "placement": "partner",
+      "source": {
+        "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+        "date": "2026",
+        "url": "https://hc-dragons.com/partnership/",
+        "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+        "note": "sprts.cc is listed under this heading with the label «Информационный партнер»; the listed link sprts.cc/dragons returned HTTP 404 when checked on 2026-10-03.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "galeria",
+      "placement": "partner",
+      "source": {
+        "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+        "date": "2026",
+        "url": "https://hc-dragons.com/partnership/",
+        "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+        "note": "Listed under this heading with the label «Официальный партнер»; the logo links to galeria.spb.ru (Galeria shopping centre, St Petersburg) and the logo file is named 'logotip_gorizont'. The page itself is undated.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "therabody",
+      "placement": "partner",
+      "source": {
+        "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+        "date": "2026",
+        "url": "https://hc-dragons.com/partnership/",
+        "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+        "note": "Therabody (theragunrussia.ru) is listed under this heading with the label «Официальный партнер по восстановлению» (official recovery partner). The page itself is undated.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "love-radio",
+      "placement": "partner",
+      "source": {
+        "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+        "date": "2026",
+        "url": "https://hc-dragons.com/partnership/",
+        "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+        "note": "Love Radio (loveradio.ru) is listed under this heading with the label «Информационный партнер» (information partner). The page itself is undated.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit. Eight club partners per the club's own partnership page: Liga Stavok (premium partner, whose logo Stavki.ru reports is already on the kit), Moya Stikhiya, Domina, Synergetic, sprts.cc, Galeria, Therabody and Love Radio. No front-of-shirt or other named jersey placement is documented from a reachable source; KHL league partners (Fonbet, SOGAZ, T-Bank etc.) sit in data/deals/khl-*.",
   "change": null
 }

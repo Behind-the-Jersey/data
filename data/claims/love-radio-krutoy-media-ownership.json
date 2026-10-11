@@ -1,0 +1,21 @@
+{
+  "id": "love-radio-krutoy-media-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "krutoy-media"
+  ],
+  "text": "Love Radio is one of the national radio networks united by the Krutoy Media radio holding.",
+  "short": "Love Radio belongs to the Krutoy Media holding",
+  "source": {
+    "name": "Krutoy Media official site: О холдинге (About the holding)",
+    "date": "2026",
+    "url": "https://krutoymedia.ru/about/",
+    "quote": "Krutoy Media объединяет национальные радиовещательные сети Love Radio, «Радио Дача», «Радио Шансон»",
+    "note": "The page itself is undated; the site footer says © 2012–2026. The holding's own owners are not named on the page.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

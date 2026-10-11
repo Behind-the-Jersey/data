@@ -4,20 +4,26 @@
   "orgName": null,
   "sponsorId": "riyadh-air",
   "placement": "front",
-  "from": "2025-26",
-  "to": "2034-35",
+  "from": "2023-24",
+  "to": "2026-27",
   "value": {
     "amount": 40,
     "currency": "EUR",
     "unit": "m",
     "per": "year",
     "upTo": false,
-    "usdApprox": 46
+    "usdApprox": 43.9
   },
   "source": {
-    "name": "SportsPro",
-    "date": "2025-04",
-    "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/"
+    "name": "SportsPro: Atletico Madrid net '€40m per season' Riyadh Air shirt sponsorship",
+    "date": "2023-08-11",
+    "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/",
+    "quote": "2Playbook reports the deal is worth €40 million (US$43.9 million) per season and will run through the 2026/27 campaign",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "SportsPro also states Riyadh Air's logo debuted on Atlético's kits in the 2023/24 LaLiga opener against Granada on 14 August 2023."
   },
-  "note": "Reported €40m per season, until 2035."
+  "note": "Reported €40m per season (2Playbook via SportsPro), front of shirt from the 2023/24 season through 2026/27. A previous version of this record said from 2025-26 until 2034-35 (dated 2025-04); no openable source for those dates was found, so the record now follows its cited source. Separate naming-rights deal: Riyadh Air Metropolitano, announced October 2024, runs to 2033 (see atletico-de-madrid-riyadh-air-stadium)."
 }

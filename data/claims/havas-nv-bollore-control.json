@@ -1,0 +1,21 @@
+{
+  "id": "havas-nv-bollore-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "havas-nv"
+  ],
+  "text": "Vincent Bolloré controls Havas N.V.: a 19 February 2026 notification in the Dutch financial-markets authority's register of substantial holdings records V. Bolloré with a total holding of 53.05% of Havas N.V.'s capital and 53.55% of its voting rights, held indirectly through Bollore SE, Compagnie de l'Odet, Compagnie de l'Etoile des Mers and YB6.",
+  "short": "Vincent Bolloré holds 53.05% of Havas N.V.'s capital and 53.55% of its voting rights (AFM register, February 2026).",
+  "source": {
+    "name": "AFM register of substantial holdings and gross short positions – V. Bolloré – Havas N.V. (notification details)",
+    "date": "2026-02-19",
+    "url": "https://www.afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=188482",
+    "quote": "Date of transaction 19 feb 2026 Person obliged to notify V. Bolloré Issuing institution Havas N.V.",
+    "note": "The same page's Distribution in percentages table records for this notification a 'Total holding' of '53,05 %' of capital ('Kapitaalbelang') and '53,55 %' of voting rights ('Stemrecht'); its Distribution in numbers table attributes 30,786,476 shares held 'Middellijk (Bolloré SE and Compagnie de l'Odet)', 18,939,732 'Middellijk (Compagnie de l'Etoile des Mers)' and 2,883,663 'Middellijk (YB6)'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout review agent (OpenCode, model kimi-k3-abliterated)"
+    }
+  },
+  "reviewed": false
+}

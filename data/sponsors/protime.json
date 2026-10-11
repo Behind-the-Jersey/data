@@ -1,12 +1,16 @@
 {
   "id": "protime",
   "name": "Protime",
-  "ownerId": "worxinvest",
+  "ownerId": "sd-worx",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Protime is part of SD Worx, which is 77.5% owned by WorxInvest, a holding entirely owned by the Belgian cooperative SD Worx for Society, itself held by two private foundations. Nothing found.",
+  "claimIds": [
+    "protime-sd-worx-ownership",
+    "sd-worx-worxinvest-ownership",
+    "worxinvest-foundation-ownership"
+  ],
   "aliases": [],
-  "note": "Time-registration brand belonging to the SD Worx group; co-title sponsor of Team SD Worx-Protime (Cyclist, 2026-07-14)."
+  "note": "Time-registration and workforce-management brand, part of SD Worx (SD Worx press release, 2026-05-06); co-title sponsor of Team SD Worx-Protime. Rating note (issue #472, 2026-10-03): subsidiary of SD Worx; chain traced to foundation-held WorxInvest; no state owner, no human-rights finding found. 'none'."
 }

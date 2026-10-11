@@ -1,0 +1,20 @@
+{
+  "id": "jtekt-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "jtekt-corporation"
+  ],
+  "text": "JTEKT Corporation's shares are available on the Tokyo and Nagoya exchanges. Its major (top 10) shareholders as of 31 March 2026 were led by Toyota Motor Corporation with 24.3%, The Master Trust Bank of Japan with 15.7% and Custody Bank of Japan with 8.7%.",
+  "short": "Toyota Motor is JTEKT's largest holder with 24.3% (March 2026).",
+  "source": {
+    "name": "JTEKT: Share information – Major (top 10) shareholders",
+    "date": "2026-03-31",
+    "url": "https://www.jtekt.co.jp/e/ir/stockinfo.html",
+    "quote": "TOYOTA MOTOR CORPORATION 77,235 24.3",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

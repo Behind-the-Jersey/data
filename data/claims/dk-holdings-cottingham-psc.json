@@ -1,0 +1,21 @@
+{
+  "id": "dk-holdings-cottingham-psc",
+  "kind": "ownership",
+  "ownerIds": [
+    "d-k-engineering-holdings"
+  ],
+  "text": "The active person with significant control of D.K. Engineering (Holdings) Limited (company number 09461599) is James Roderick Cottingham, with ownership of more than 50% but less than 75% of its shares and voting rights, notified on 10 October 2025.",
+  "short": "D.K. Engineering (Holdings) Ltd is majority-owned by James Roderick Cottingham (Companies House PSC register).",
+  "source": {
+    "name": "Companies House: D.K. ENGINEERING (HOLDINGS) LIMITED (09461599), persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09461599/persons-with-significant-control",
+    "note": "Live register page, undated; opened 2026-10-03. One active PSC: Mr James Roderick Cottingham, notified 10 October 2025, ownership of shares and of voting rights of more than 50% but less than 75%. David Alan Cottingham and Katherine Mary Cottingham each ceased as PSCs on 10 October 2025 (previously more than 25% but not more than 50%).",
+    "quote": "Ownership of shares – More than 50% but less than 75%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

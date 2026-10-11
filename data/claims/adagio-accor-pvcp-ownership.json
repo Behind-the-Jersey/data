@@ -1,0 +1,21 @@
+{
+  "id": "adagio-accor-pvcp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "adagio-jv"
+  ],
+  "text": "Adagio, the European leader in aparthotels, was created in France in 2007 as a joint venture between Accor and Pierre & Vacances Center Parcs.",
+  "short": "Adagio is a joint venture of Accor and Pierre & Vacances Center Parcs",
+  "source": {
+    "name": "FDJ-SUEZ — Adagio devient partenaire majeur de l'équipe FDJ-SUEZ (communiqué officiel)",
+    "date": "2025-06-16",
+    "url": "https://www.fdj-suez.fr/adagio-devient-partenaire-majeur-de-lequipe-fdj-suez/",
+    "quote": "Créée en France en 2007 en tant que joint-venture entre Accor et Pierre & Vacances Center Parcs, Adagio compte aujourd’hui 130 sites",
+    "note": "Translation: 'Created in France in 2007 as a joint venture between Accor and Pierre & Vacances Center Parcs, Adagio today has 130 sites' (from the communiqué's 'À propos d'Adagio' section).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

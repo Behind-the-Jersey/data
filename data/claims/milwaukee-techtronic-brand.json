@@ -1,0 +1,21 @@
+{
+  "id": "milwaukee-techtronic-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "techtronic-industries"
+  ],
+  "text": "Techtronic Industries lists MILWAUKEE first among the brands on its corporate website (brands section: MILWAUKEE, RYOBI, AEG and others).",
+  "short": "MILWAUKEE is a brand of Techtronic Industries.",
+  "source": {
+    "name": "Techtronic Industries – MILWAUKEE brand page (ttigroup.com)",
+    "date": "2026",
+    "url": "https://www.ttigroup.com/en/brands/milwaukee",
+    "quote": "Brands Go to this section MILWAUKEE RYOBI AEG EMPIRE IMPERIAL BLADES STILETTO KANGO HOOVER ORECK VAX DIRT DEVIL",
+    "note": "date precision: year; the page carries no publication date. Quoted from the site's brands navigation on the MILWAUKEE brand page, whose title reads 'MILWAUKEE | Cordless Power Tools Leader - Techtronic Industries TTI'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

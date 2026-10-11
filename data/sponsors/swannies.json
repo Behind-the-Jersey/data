@@ -1,12 +1,17 @@
 {
   "id": "swannies",
   "name": "Swannies",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  "ownerId": "swannies-golf",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Swannies is a private Minnesota golf-apparel company founded and still led by co-founders Matt Stang and Adam Iversen. Nothing found.",
+  "claimIds": [
+    "swannies-founders-ownership"
+  ],
+  "aliases": [
+    "Swannies Golf",
+    "Swannies Golf Apparel"
+  ],
+  "note": "Rating note: founder-led private company founded 2015 in Minnesota (gener8tor founder series, opened 2026-10-03); no state or fund involvement → none. PitchBook lists one minority family-office investor (Sachse Family Fund); page blocks scripts, so it is not cited. Official on-course apparel partner of RangeGoats GC (LIV Golf announcement, 2025)."
 }

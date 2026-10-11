@@ -1,0 +1,22 @@
+{
+  "id": "ved-master-sumenko-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ved-master-ao",
+    "kirill-sumenko"
+  ],
+  "text": "The EGRUL company-registry record of AO «ВЭД-Мастер» (VED-Master JSC, Moscow, INN 9709114653), shown on checko.ru, lists a single founder: Kirill Sumenko (INN 502913125254), holding 100% of its capital (1,000,000 RUB) since 27 August 2026. Sumenko is also the company's general director since 29 October 2025.",
+  "short": "AO VED-Master is wholly owned by its founder and general director Kirill Sumenko",
+  "source": {
+    "name": "checko.ru (EGRUL record): АО «ВЭД-МАСТЕР», ИНН 9709114653",
+    "date": "2026",
+    "url": "https://checko.ru/company/ved-master-1247700558247",
+    "note": "checko.ru mirrors the official Russian EGRUL registry; its founders ('Учредитель') table list one founder: 'Суменко Кирилл Александрович ИНН 502913125254 с 27 августа 2026 г. 1 млн руб. 100%' (sole founder, 100% of the 1,000,000 RUB capital since 27 Aug 2026). The same page states 'Генеральный директор Суменко Кирилл Александрович ИНН 502913125254 с 29 октября 2025 г.' and describes the company as 'единственный учредитель Суменко Кирилл Александрович' (sole founder). The Saby/SBIS registry (saby.ru/profile/9709114653-970901001) shows the same entry but masks the share amount for unauthorised visitors.",
+    "quote": "Суменко Кирилл Александрович ИНН 502913125254 с 27 августа 2026 г. 1 млн руб. 100%",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

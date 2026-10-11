@@ -1,0 +1,20 @@
+{
+  "id": "vicky-foods-foundation-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vicky-foods"
+  ],
+  "text": "The Fundación Vicky Foods is the foundation through which the Vicky Foods group manages its social action.",
+  "short": "Fundación Vicky Foods is the social-action foundation of the Vicky Foods group.",
+  "source": {
+    "name": "Vicky Foods: 'Vicky Foods adquiere Panrico y refuerza su liderazgo en el mercado del pan en Iberia'",
+    "date": "2026-03-17",
+    "url": "https://www.vickyfoods.es/actualidad/vicky-foods-adquiere-panrico",
+    "quote": "y la Fundación Vicky Foods con la que vertebra la gestión de su acción social, centrándose en la innovación, la cultura y la educación",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

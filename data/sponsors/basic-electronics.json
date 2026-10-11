@@ -1,11 +1,18 @@
 {
   "id": "basic-electronics",
   "name": "Basic Electronics Company",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "basic-electronics-co-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Basic Electronics Co. Ltd (Al-Asasyah) is a limited liability company owned by its founder Mohammad Ahmad Al Arfaj and run by his family. Nothing found.",
+  "claimIds": [
+    "basic-electronics-arfaj-ownership"
+  ],
+  "aliases": [
+    "Al-Asasyah Electronics",
+    "Fisher",
+    "الأساسية"
+  ],
+  "note": "Front-of-shirt sponsor of Al-Fayha 2026-27; the shirt carries the Fisher brand, which Basic Electronics markets in Saudi Arabia (club announcement of 17 August 2026 calls the company '(فيشر)'). Al-Khaleej's 2026-27 front sponsor 'fisher-electronics' appears to be the same advertiser's brand."
 }
