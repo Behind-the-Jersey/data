@@ -1,0 +1,46 @@
+{
+  "id": "rugby-usa-2026-27-home",
+  "clubId": "rugby-usa",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "skyward-group",
+      "placement": "front",
+      "source": {
+        "name": "USA Rugby: Skyward Group unveiled as Official Front-of-Jersey sponsor of USA Rugby",
+        "date": "2026-04-08",
+        "url": "https://eagles.rugby/news/skyward-group-unveiled-as-official-frontofjersey-sponsor-usa-rugby-202647",
+        "quote": "USA Rugby is proud to announce Skyward Group as the Exclusive Insurance Partner and Official Front-of-Jersey sponsor for all USA Rugby National Teams.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Multi-year deal covering the men's and women's Eagles (XV), both Sevens teams and the developmental teams. The SKYWARD GROUP wordmark is on the front of the white home jersey in USA Rugby's studio launch photography (July 2026 Nations Cup previews) and on the navy jersey in Pacific Four match photos (April 2026). The live page rate-limited scripts (429); text verified on the Wayback Machine capture of 2026-04-30."
+      }
+    },
+    {
+      "sponsorId": "macron",
+      "placement": "partner",
+      "source": {
+        "name": "USA Rugby: Macron announced as new official Sportswear Partner of USA Rugby",
+        "date": "2024-10-18",
+        "url": "https://usa.rugby/news/macron-announced-as-new-official-sportswear-partner-of-usa-rugby-20241018",
+        "quote": "USA Rugby is proud to announce Macron as it’s all new official sportswear partner and USA Eagles outfitter.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker, listed as partner per the convention for kit suppliers."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Skyward Group on the front, announced 2026-04-08; Macron makes the kit. USA Rugby studio launch photos (July 2026) and Pacific Four match photos (April 2026) show a plain back, no sleeve or shorts sponsor: the only other marks are the crest, the Macron logo, a US flag sleeve patch and, for the 4 July 2026 fixture only, a one-off 'USA 250' commemorative sleeve patch. Shorts carry the crest and Macron logo only.",
+  "change": null,
+  "shortLine": "Skyward Group on the front"
+}

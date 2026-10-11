@@ -1,14 +1,16 @@
 {
   "id": "primo-golf-apparel",
   "name": "Primo Golf Apparel",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "primo-golf-founders",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Official apparel sponsor of HyFlyers GC; owned by its four founding cousins and, since March 2024, part-owner Grant Horvat. Nothing found.",
+  "claimIds": [
+    "primo-golf-apparel-ownership"
+  ],
   "aliases": [
     "Primo"
   ],
-  "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+  "note": "Rating note: ownership named (the four founding cousins and Grant Horvat) per DORMIED (2026-07-20); small Utah apparel company, no state or fund in the chain, nothing else sourced."
 }

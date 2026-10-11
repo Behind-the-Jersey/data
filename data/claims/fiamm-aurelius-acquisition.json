@@ -1,0 +1,20 @@
+{
+  "id": "fiamm-aurelius-acquisition",
+  "kind": "ownership",
+  "ownerIds": [
+    "aurelius"
+  ],
+  "text": "Aurelius completed its acquisition of FIAMM Energy Technology from Japan's Resonac Corporation on 1 December 2025, taking over all employees and business activities.",
+  "short": "FIAMM Energy Technology is owned by AURELIUS private equity since December 2025",
+  "source": {
+    "name": "FIAMM press release (fiamm.com): completion of the acquisition by Aurelius",
+    "date": "2025-12-01",
+    "url": "https://www.fiamm.com/fileadmin/ComunicatiStampa/Eng/2025/FIAMM_Completamento_acquisizione_Aurelius_ENG.pdf",
+    "quote": "Aurelius has successfully completed the acquisition of FIAMM Energy Technology from Resonac Corporation",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

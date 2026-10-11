@@ -1,0 +1,21 @@
+{
+  "id": "audi-pirelli",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "pirelli",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Audi Revolut F1 Team – Partners",
+    "date": "2026-10-01",
+    "url": "https://www.audif1.com/en/partners",
+    "quote": "Pirelli is the official supplier to Audi Revolut F1® Team",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Audi Revolut F1 Team partner on the 2026 car."
+}

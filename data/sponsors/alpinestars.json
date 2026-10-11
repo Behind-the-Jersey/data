@@ -1,11 +1,15 @@
 {
   "id": "alpinestars",
   "name": "Alpinestars",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "alpinestars",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Alpinestars S.p.A. (Mazzarolo family). Nothing found.",
+  "claimIds": [
+    "alpinestars-record",
+    "alpinestars-owner-record"
+  ],
+  "aliases": [],
+  "note": "Italian motorsport protection-gear maker (Asolo/Maser, Italy, founded 1963); supplier of race suits, gloves and boots to Nissan Formula E Team. Rating note: family ownership is stated by the company's own about page (claim alpinestars-record, reused from the alpinestars-c/alpinestars-h records); no dated shareholder register published. Bloomberg reported in September 2026 that Asian private-equity firms including FountainVest and HSG were considering bids valuing the company at about \u20ac1 billion; no sale was announced. Same owner as 'alpinestars-c' and 'alpinestars-h'. Long-standing partner named in Jaguar TCS Racing's Season 12 launch release (media.jlr.com, 22 Oct 2025) and on the club's partners page. No state stake or human-rights finding identified."
 }

@@ -1,0 +1,33 @@
+{
+  "id": "heart-of-racing-newell-backing",
+  "kind": "ownership",
+  "ownerIds": [
+    "gabe-newell"
+  ],
+  "text": "The Heart of Racing racing team receives backing through video game magnate Gabe Newell, who founded the team in 2014.",
+  "short": "Gabe Newell backs The Heart of Racing",
+  "source": {
+    "name": "Sportscar365: Heart of Racing to Run Valkyrie in IMSA, WEC in 2025",
+    "date": "2023-10-04",
+    "url": "https://sportscar365.com/lemans/wec/heart-of-racing-to-run-valkyrie-in-imsa-wec-in-2025/",
+    "quote": "The team receives backing through video game magnate Gabe Newell, who founded Heart of Racing in 2014",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Aston Martin media: Aston Martin returns to Le Mans to fight for overall victory with Valkyrie hypercar",
+      "date": "2023-10-04",
+      "url": "https://media.astonmartin.com/aston-martin-returns-to-le-mans-to-fight-for-overall-victory-with-valkyrie-hypercar/",
+      "quote": "Founded in 2014 by American businessman and philanthropist Gabe Newell, The Heart of Racing is a charity",
+      "note": "Aston Martin's own announcement of the Valkyrie programme; also quotes Executive Chairman Lawrence Stroll thanking 'Gabe Newell and Heart of Racing for partnering with Aston Martin on this programme'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

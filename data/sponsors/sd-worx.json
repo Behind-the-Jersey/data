@@ -3,10 +3,13 @@
   "name": "SD Worx",
   "ownerId": "worxinvest",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "SD Worx is 77.5% owned by WorxInvest, a holding entirely owned by the Belgian cooperative SD Worx for Society, itself held by two private foundations; CVC Strategic Opportunities II holds a minority stake. Nothing found.",
+  "claimIds": [
+    "sd-worx-worxinvest-ownership",
+    "worxinvest-foundation-ownership"
+  ],
   "aliases": [],
-  "note": "Belgian HR/payroll services company; title sponsor of Team SD Worx-Protime."
+  "note": "Belgian HR/payroll services company; title sponsor of Team SD Worx-Protime. Rating note (issue #472, 2026-10-03): chain traced to WorxInvest (77.5%) -> cooperative SD Worx for Society -> private foundations SD and SD Patrimonium; CVC Strategic Opportunities II minority (22.5%) since June 2023. No state owner; no human-rights finding against SD Worx, WorxInvest or CVC found. 'none'."
 }

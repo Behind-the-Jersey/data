@@ -1,0 +1,20 @@
+{
+  "id": "optum-unitedhealth-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "unitedhealth-group"
+  ],
+  "text": "Optum is one of UnitedHealth Group's two distinct and complementary businesses, alongside UnitedHealthcare.",
+  "short": "Optum is one of UnitedHealth Group's two businesses.",
+  "source": {
+    "name": "UnitedHealth Group: Our businesses",
+    "date": "2026",
+    "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+    "quote": "UnitedHealth Group is a healthcare and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare — working to help build a modern, high-performing health system.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

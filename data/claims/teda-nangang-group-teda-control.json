@@ -1,0 +1,35 @@
+{
+  "id": "teda-nangang-group-teda-control",
+  "kind": "ownership",
+  "ownerIds": [
+    "teda-nangang-group",
+    "government-of-tianjin"
+  ],
+  "text": "The actual controller of TEDA Nangang Group (Tianjin Economic-Technological Development Area Nangang Development Group Co., Ltd.) is the State-owned Assets Supervision and Administration Bureau of Tianjin Economic-Technological Development Area; the development zone formed the group in June 2020.",
+  "short": "TEDA Nangang Group's actual controller is the TEDA state-assets supervision bureau.",
+  "source": {
+    "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+    "date": "2026-03-17",
+    "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+    "quote": "另一赞助商是——泰达南港集团（即“天津经济技术开发区南港发展集团有限公司”），背后的实控人是天津经济技术开发区国有资产监督管理局",
+    "note": "Translation: 'The other sponsor is TEDA Nangang Group (that is, Tianjin Economic-Technological Development Area Nangang Development Group Co., Ltd.); the actual controller behind it is the State-owned Assets Supervision and Administration Bureau of Tianjin Economic-Technological Development Area.' The same passage names the museum wordmark 国海博 as the club's chest sponsor.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "天津经济技术开发区管理委员会 (TEDA Administrative Committee, teda.gov.cn): 天津经济技术开发区南港发展集团有限公司2026年公开招聘公告",
+      "date": "2026-06-29",
+      "url": "https://www.teda.gov.cn/contents/229/111227.html",
+      "quote": "2020年6月，天津经开区将南港工业区、中区、南区深度融合，组建成立泰达南港集团",
+      "note": "Translation: 'In June 2020, Tianjin Economic-Technological Development Area (TEDA) merged the Nangang industrial zone, the central zone and the southern zone in depth and formed TEDA Nangang Group.' The zone's own announcement describes the group's remit and its 12 controlled companies.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

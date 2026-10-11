@@ -1,0 +1,20 @@
+{
+  "id": "butterfield-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "butterfield-group"
+  ],
+  "text": "Butterfield's known beneficial owners of 5% or more of its common shares as at 10 February 2026 were BlackRock, Inc. (7.1%) and FMR LLC (6.9%).",
+  "short": "Butterfield's known 5%+ shareholders are BlackRock (7.1%) and FMR (6.9%)",
+  "source": {
+    "name": "The Bank of N.T. Butterfield & Son Limited Form 20-F FY2025 (SEC EDGAR), Item 7.A Major Shareholders",
+    "date": "2026-02-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1653242/000165324226000006/ntb-20251231.htm",
+    "quote": "BlackRock, Inc. (1) 2,802,975 7.1 % FMR LLC (2) 2,717,903 6.9 %",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

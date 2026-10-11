@@ -3,10 +3,12 @@
   "name": "HSBC",
   "ownerId": "hsbc-holdings",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Brand of HSBC Holdings plc, a listed UK company. Nothing found.",
+  "claimIds": [
+    "hsbc-holdings-ownership"
+  ],
   "aliases": [],
-  "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
+  "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC. Rating note: HSBC Holdings plc is incorporated in England and listed on the London, Hong Kong, New York and Bermuda stock exchanges (hsbc.com group-structure page); no controlling shareholder identified. Its money-laundering and sanctions fines are financial records, which the method does not count."
 }

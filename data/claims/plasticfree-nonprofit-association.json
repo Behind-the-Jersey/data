@@ -1,0 +1,21 @@
+{
+  "id": "plasticfree-nonprofit-association",
+  "kind": "ownership",
+  "ownerIds": [
+    "plasticfree"
+  ],
+  "text": "PlasticFree is Plastic Free Odv Onlus, a non-profit, non-partisan and independent volunteer association fighting plastic pollution, born from an idea of Luca De Gaetano and active in over 40 countries.",
+  "short": "PlasticFree is an Italian non-profit volunteer association.",
+  "source": {
+    "name": "Plastic Free Odv Onlus: Chi siamo (About us)",
+    "date": "2026",
+    "url": "https://www.plasticfreeonlus.it/chi-siamo/",
+    "quote": "Siamo un\u2019organizzazione di volontariato apartitica, indipendente e senza scopo di lucro",
+    "note": "Translation: 'We are a non-partisan, independent, non-profit volunteer organisation'. The same page adds 'Nata da un\u2019idea di Luca De Gaetano' (born from an idea of Luca De Gaetano) and identifies the association in the footer as 'Plastic Free Odv Onlus'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

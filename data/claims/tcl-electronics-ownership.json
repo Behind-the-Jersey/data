@@ -1,0 +1,34 @@
+{
+  "id": "tcl-electronics-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tcl-electronics-holdings"
+  ],
+  "text": "TCL Electronics' controlling shareholder is TCL Industries Holdings Co., Ltd.",
+  "short": "TCL Electronics is controlled by TCL Industries Holdings.",
+  "source": {
+    "name": "TCL Electronics Holdings Limited – Investor Relations FAQ",
+    "date": "2026",
+    "url": "https://electronics.tcl.com/en/ir/faq.php",
+    "quote": "TCL Electronics' controlling Shareholder is TCL Industries Holdings Co., Ltd. (\"TCL Industries\").",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Page without a date; opened 2026-10-03. The same FAQ gives the stock code (01070.HK) and the November 1999 main-board listing; the HKEX announcement below gives the stake."
+  },
+  "additionalSources": [
+    {
+      "name": "TCL Electronics Holdings Limited – HKEX announcement (major transaction), 15 July 2026",
+      "date": "2026-07-15",
+      "url": "https://doc.irasia.com/listco/hk/tclelectronics/announcement/a260715.pdf",
+      "quote": "representing approximately 54.54% of the total number of issued Shares, are held by T.C.L. Industries (H.K.), which in turn is held as to 100% by TCL Industries Holdings",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "HKEX filing: the 1,374,938,618 shares held by T.C.L. Industries (H.K.) are the stake described."
+    }
+  ],
+  "reviewed": false
+}

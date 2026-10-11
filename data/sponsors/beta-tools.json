@@ -1,14 +1,17 @@
 {
   "id": "beta-tools",
   "name": "Beta",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "roberto-ciceri",
+  "ownership": "part-owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Majority controlled by Roberto Ciceri (51%), with Tamburi Investment Partners as partner investor. Nothing found.",
+  "claimIds": [
+    "beta-ownership"
+  ],
   "aliases": [
+    "Beta Tools",
     "Beta Utensili"
   ],
-  "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026); also a partner of Red Bull KTM Tech3 (logo links to beta-tools.com); also a MotoGP partner of SuperFile Trackhouse MotoGP Team per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine). Rating note: 51% held by Roberto Ciceri per his own account in Forbes Italia; no state in the chain, so none."
 }
