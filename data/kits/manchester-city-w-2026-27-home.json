@@ -9,21 +9,83 @@
   "photos": {},
   "sponsors": [
     {
+      "sponsorId": "etihad-airways",
+      "placement": "front",
+      "source": {
+        "name": "SportsKhabri: Manchester City FC Sponsors 2025/26",
+        "date": "2025-09-04",
+        "url": "https://sportskhabri.com/manchester-city-fc-2025-26-sponsors/",
+        "quote": "Etihad Airways, the Abu Dhabi-headquartered UAE flag carrier, became the principal sponsor of Manchester City in 2011, acquiring not only the front space of the club\u2019s shirts",
+        "note": "The survey covers 'the men\u2019s and/or women\u2019s teams of Manchester City Football Club (MCFC)' for 2025/26. Etihad is still the front sponsor in 2026/27: the official women's 2026/27 home jersey on shop.mancity.com (product 701242808) shows the Etihad Airways logo across the chest of the product images (checked visually 2026-10-03), and Etihad's own sponsorships page says its partnership covers 'Manchester City FC and Manchester City Women's Football Club' (archived 2026-09-17). footballkitarchive.com 403s for scripts.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "okx",
+      "placement": "sleeve",
+      "source": {
+        "name": "Official Man City Shop \u2013 Women's Manchester City Home Jersey 2026/27 (product 701242808)",
+        "date": "2026",
+        "url": "https://shop.mancity.com/gb/en/womens-manchester-city-home-jersey-2026-27/701242808-teamlightblue-icyblue.html",
+        "quote": "OKX sponsor logo on the left sleeve",
+        "note": "The club's own current-season women's home jersey page lists the OKX logo on the left sleeve. OKX was announced as sleeve partner of both the men's and women's first team playing kits in June 2023 (PR Newswire, 30 Jun 2023) on a multi-year deal; the deal was later extended (Score and Change, 17 Sep 2026, on the 2026/27 Premier League sponsors).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "revolut",
+      "placement": "back",
+      "source": {
+        "name": "Manchester City FC \u2013 'City announce Revolut as official back of shirt partner'",
+        "date": "2026-02-13",
+        "url": "https://www.mancity.com/news/club/revolut-back-of-shirt-partner-63906575",
+        "quote": "the Revolut brand will feature on the back of the Men\u2019s team playing shirts for domestic cup matches and across WSL and cup fixtures for Manchester City Women",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "sponsorId": "joie",
       "placement": "shorts",
       "source": {
-        "name": "Nursery Today: Joie announces new partnership with Manchester City Women",
-        "date": "2023-03-29",
-        "url": "https://nurserytoday.co.uk/2023/03/29/joie-announces-new-partnership-with-manchester-city-women/",
-        "quote": "Joie will see its logo on the back of the women's first team playing shorts for all fixtures for the period of the partnership.",
+        "name": "Manchester City FC \u2013 Joie (partner page)",
+        "date": "2026",
+        "url": "https://www.mancity.com/club/partners/joie",
+        "quote": "As Official Family Partner, Joie also features on the back of the women’s first team’s playing shorts for all fixtures, for the duration of the partnership",
+        "note": "The club's live partner page, current in 2026 (undated; the partnership began in March 2023 and the stadium is now the Joie Stadium).",
         "checked": {
-          "on": "2026-09-27",
-          "by": "claude-review-282"
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "Manchester City FC \u2013 'City and PUMA unveil the 2026/27 Home Kit: Not Your Typical City!'",
+        "date": "2026-05-20",
+        "url": "https://www.mancity.com/news/club/manchester-city-202627-home-kit-launched-63914816",
+        "quote": "Manchester City and global sports brand PUMA have today revealed the Club's new Home Kit for the 2026/27 season.",
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. The launch video features women's first-team player Alex Greenwood ('With the likes of Pep Guardiola, Erling Haaland and Alex Greenwood answering calls'), and the club shop sells the same design as the Women's Manchester City Home Jersey 2026/27 ('Engineered with dryCELL technology by PUMA'), so the launch covers both teams.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Joie on the back of the shorts. The front-of-shirt sponsor isn't sourced yet: the City Football Group page cited for Etihad doesn't mention the women's team.",
-  "change": null
+  "sponsorsComplete": true,
+  "summary": "Etihad Airways (Abu Dhabi state-owned) fronts the Manchester City Women shirt, with OKX on the left sleeve, Revolut on the back, Joie on the back of the shorts, and Puma making the kit. Every placement is sourced from the club, its shop or named press.",
+  "change": null,
+  "headline": "The shirt is {level}: the front sponsor, Etihad Airways, belongs to the Abu Dhabi government.",
+  "shortLine": "Etihad on the front, OKX on the sleeve, Revolut on the back, Joie on the shorts"
 }

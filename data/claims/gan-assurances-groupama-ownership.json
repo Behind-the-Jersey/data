@@ -1,0 +1,45 @@
+{
+  "id": "gan-assurances-groupama-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gan-assurances"
+  ],
+  "text": "Gan Assurances is a subsidiary of the Groupama group.",
+  "short": "Gan Assurances is a subsidiary of the Groupama group",
+  "source": {
+    "name": "Groupama press space — Publicité : Gan Assurances, filiale du Groupe Groupama, reprend la parole à la télévision pour accompagner sa croissance",
+    "date": "2026-09-21",
+    "url": "https://presse.groupama.com/actualites/publicite-gan-assurances-filiale-du-groupe-groupama-reprend-la-parole-a-la-television-pour-accompagner-sa-croissance-e7821-55f34.html",
+    "quote": "Publicité : Gan Assurances, filiale du Groupe Groupama, reprend la parole à la télévision pour accompagner sa croissance",
+    "note": "Translation: 'Advertising: Gan Assurances, a subsidiary of the Groupama Group, returns to television to accompany its growth' (Groupama's press space, 21 September 2026).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Gan Assurances — Qui sommes-nous ?",
+      "date": "2026",
+      "url": "https://www.gan.fr/qui-sommes-nous/",
+      "quote": "Gan Assurances fait partie du Groupe Groupama et participe à permettre au plus grand nombre de construire leur vie en confiance",
+      "note": "Translation: 'Gan Assurances is part of the Groupama group and helps the greatest number to build their lives with confidence.' The page shows no publication date; its advertising campaign section refers to September 2026.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "FDJ-SUEZ — Gan Assurances (Groupe Groupama) renoue avec le cyclisme (communiqué officiel)",
+      "date": "2025-06-06",
+      "url": "https://www.fdj-suez.fr/gan-assurances-groupe-groupama-renoue-avec-le-cyclisme/",
+      "quote": "Gan Assurances (Groupe Groupama) renoue avec le cyclisme",
+      "note": "Translation: 'Gan Assurances (Groupama group) returns to cycling.' The club's own announcement titles Gan Assurances as part of the Groupama group.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

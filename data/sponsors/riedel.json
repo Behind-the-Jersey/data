@@ -1,14 +1,17 @@
 {
   "id": "riedel",
   "name": "Riedel",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "Riedel Communications"
+  "ownerId": "thomas-riedel",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The Riedel Group (Riedel Communications, Wuppertal) is fully privately owned by its founder Thomas Riedel. Nothing found.",
+  "claimIds": [
+    "thomas-riedel-ownership"
   ],
-  "note": "Official partner of the Germany team; founder Thomas Riedel is the German team's principal owner (sailgp.com team page and press release 10 Feb 2026)."
+  "aliases": [
+    "Riedel Communications",
+    "Riedel Group"
+  ],
+  "note": "Rating note: Official partner of the Germany SailGP Team (sailgp.com team page, confirmed 2026-10-03 from the page's embedded data). Privately owned by founder Thomas Riedel, who is also the team's majority owner (per press of Feb 2026); no state link, no qualifying human-rights finding -> none."
 }

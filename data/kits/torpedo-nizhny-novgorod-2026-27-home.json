@@ -7,8 +7,69 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "spar",
+      "placement": "front",
+      "source": {
+        "name": "HC Torpedo official site — «Презентация команды «Торпедо»» (team presentation at the City Day celebration)",
+        "date": "2026-08-16",
+        "url": "https://hctorpedo.ru/news/club/prezentatsiya-komandy-torpedo2026/",
+        "note": "The club's own photo gallery on this page shows the squad in the blue 2026-27 home jersey with SPAR printed in white across the lower front, above the hem. The same placement appears on the official replica of the game jersey with sponsors sold in the club shop (shop.hctorpedo.ru, product «Свитер хоккейный Торпедо НН синий оригинальный (A&C) со спонсором», photo shows SPAR across the lower front).",
+        "quote": "Презентация команды «Торпедо»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mir-nspk",
+      "placement": "patch",
+      "source": {
+        "name": "HC Torpedo official site — news API record «Дебют Мельникова, «сухарь» Шугаева» (match report, 2026-09-24)",
+        "date": "2026-09-24",
+        "url": "https://hctorpedo.ru/api/v1/website/news/debyut-melnikova-sukhar-shugaeva",
+        "note": "The club's news API record for the 24 Sep 2026 match report (human page: hctorpedo.ru/news/club/debyut-melnikova-sukhar-shugaeva/). Its photo (crm.hctorpedo.ru/storage/website/news/N9JghuxVEu5QKCRApgX2FIzMlIqaWxLiNsZBPeJc.jpg) shows the white MIR card patch on the right chest of the blue 2026-27 home jersey, worn in a KHL regular-season game. The club's partner feed lists МИР as an official KHL-group partner (entry created 2026-09-03).",
+        "quote": "N9JghuxVEu5QKCRApgX2FIzMlIqaWxLiNsZBPeJc.jpg",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "government-of-nizhny-novgorod-oblast",
+      "placement": "partner",
+      "source": {
+        "name": "HC Torpedo official site — partners feed (JSON API)",
+        "date": "2026-09-08",
+        "url": "https://hctorpedo.ru/api/v1/website/sponsors?club=torpedo",
+        "note": "The club's partners feed (the data behind the partners grid on the club site) lists the Government of Nizhny Novgorod Oblast: the quoted feed fragment decodes to name 'Правительство Нижегородской области', with category 'title' (title partner) and website nobl.ru. No shirt placement documented.",
+        "quote": "\"name\":\"\\u041f\\u0440\\u0430\\u0432\\u0438\\u0442\\u0435\\u043b\\u044c\\u0441\\u0442\\u0432\\u043e \\u041d\\u0438\\u0436\\u0435\\u0433\\u043e\\u0440\\u043e\\u0434\\u0441\\u043a\\u043e\\u0439 \\u043e\\u0431\\u043b\\u0430\\u0441\\u0442\\u0438\",\"logo_url\":\"\\/storage\\/website\\/sponsors\\/154_dizel.png\",\"website_url\":\"https:\\/\\/nobl.ru\\/\",\"category\":\"title\"",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "omk",
+      "placement": "partner",
+      "source": {
+        "name": "HC Torpedo official site — partners feed (JSON API)",
+        "date": "2026-09-08",
+        "url": "https://hctorpedo.ru/api/v1/website/sponsors?club=torpedo",
+        "note": "The club's partners feed lists ОМК (OMK) with category 'title' (title partner) and website omk.ru. No shirt placement documented.",
+        "quote": "\"website_url\":\"https:\\/\\/omk.ru\",\"category\":\"title\"",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit (blue, khokhloma-pattern sleeves). SPAR printed across the lower front (club's 2026-27 team presentation photo); MIR card patch on the right chest (club match-report photo, 24 Sep 2026). The oblast government and OMK are title partners on the club's partner feed, no shirt placement documented. Back, sleeves and shorts placements are unsourced: no kit launch or full-jersey photos found. The 2025/26 official replica carried an SBP chest patch and a Fonbet shoulder patch (club shop product photo); the 2026-27 game photos show the MIR patch instead of SBP and an unidentified yellow-and-black sponsor patch on the right shoulder.",
   "change": null
 }

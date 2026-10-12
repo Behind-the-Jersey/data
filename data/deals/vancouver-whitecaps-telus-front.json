@@ -1,0 +1,22 @@
+{
+  "id": "vancouver-whitecaps-telus-front",
+  "clubId": "vancouver-whitecaps",
+  "orgName": null,
+  "sponsorId": "telus",
+  "placement": "front",
+  "from": "2023",
+  "to": "2027",
+  "value": null,
+  "source": {
+    "name": "MLSsoccer.com – 'Vancouver Whitecaps FC announce TELUS as new front-of-jersey sponsor'",
+    "date": "2023-02-16",
+    "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-fc-announce-telus-as-new-front-of-jersey-sponsor",
+    "quote": "will be the Whitecaps’ premier partner through 2027",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page embeds the club's announcement tweet dated February 16, 2023 ('announced Thursday'); the article page itself shows no dateline in its HTML text. It also notes the club's decade-plus jersey partnership with Bell ended in January 2023. No deal value reported."
+  },
+  "note": "TELUS became the front-of-jersey ('premier') partner in 2023, replacing Bell, and the deal runs through 2027. No reported value."
+}

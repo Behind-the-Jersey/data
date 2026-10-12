@@ -1,0 +1,35 @@
+{
+  "id": "chengdu-rongjiu-sasac-actual-controller",
+  "kind": "ownership",
+  "ownerIds": [
+    "chengdu-rongjiu-liquor",
+    "chengdu-municipal-government"
+  ],
+  "text": "All five shareholders of Chengdu Rongjiu Liquor Co., Ltd. are state-owned enterprises, and the company's actual controller is the Chengdu Municipal State-owned Assets Supervision and Administration Commission (Chengdu SASAC).",
+  "short": "Chengdu Rongjiu Liquor's actual controller is the Chengdu municipal SASAC.",
+  "source": {
+    "name": "川观新闻·川商传媒 (Cover News / Sichuan Daily's Chuanshang Media): 斥资5亿元！成都五大国企联手，布局这一赛道→",
+    "date": "2025-11-25",
+    "url": "https://cbgc.scol.com.cn/news/7001298",
+    "quote": "上述股东企业均具有国资背景，蓉酒酒业实际控制人为成都市国资委",
+    "note": "Translation: 'The above shareholders all have state-owned backgrounds; Rongjiu Liquor's actual controller is the Chengdu Municipal SASAC.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "钛媒体 via 新浪财经 (TMTPost via Sina Finance): 成都5亿元国资合资企业落地，国资产区平台成白酒第三极，与巨头共舞？",
+      "date": "2025-11-28",
+      "url": "https://finance.sina.com.cn/cj/2025-11-28/doc-infyyanx9152393.shtml",
+      "quote": "实际控制人为成都市国资委",
+      "note": "Translation: 'The actual controller is the Chengdu Municipal SASAC.' The same article describes controlling shareholder Chengdu Industrial Investment Group as a large state-capital investment and operation platform established by the Chengdu municipal government.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

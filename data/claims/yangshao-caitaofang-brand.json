@@ -1,0 +1,34 @@
+{
+  "id": "yangshao-caitaofang-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "henan-yangshao-liquor"
+  ],
+  "text": "Yangshao Caitaofang (仰韶彩陶坊) is Henan Yangshao Liquor Industry Co., Ltd.'s main baijiu brand: the Caitaofang product line provides over 95% of the company's revenue. Henan Yangshao Liquor signed the naming-rights deal with Henan FC on 4 March 2026 and the team now competes as 'Henan FC Caitaofang'.",
+  "short": "Caitaofang is a Henan Yangshao Liquor brand.",
+  "source": {
+    "name": "新浪财经头条号 (Sina Finance, 智趣财经): 仰韶酒业的突围战，为什么越打越难？ (Why Yangshao Liquor's breakout battle keeps getting harder)",
+    "date": "2026-04-16",
+    "url": "https://cj.sina.com.cn/articles/view/3093070657/b85c834100101qz9u",
+    "quote": "彩陶坊系列为仰韶贡献了95%以上的营收",
+    "note": "Translation: 'The Caitaofang product line provides over 95% of Yangshao's revenue' — the article is about Henan Yangshao Liquor Industry Co., Ltd. ('仰韶酒业'), so the Caitaofang brand is that company's core product line.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "大河财立方 (Dahe Finance Cube, via henan100.com): 河南足球焕新！仰韶酒业冠名，\"彩陶坊队\"官宣出征2026中超",
+      "date": "2026-03-05",
+      "url": "https://www.henan100.com/news/2026/1238567.shtml",
+      "quote": "河南仰韶酒业与河南足球俱乐部正式签署冠名合作协议，球员代表展示了新赛季主客场球衣",
+      "note": "Translation: 'Henan Yangshao Liquor and Henan Football Club formally signed the naming-rights cooperation agreement; player representatives displayed the new season's home and away kits.' The article shows it was Henan Yangshao Liquor itself that signed, and the team took the name 'Henan FC Caitaofang' for the sponsor's brand.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "jfe-holdings-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "jfe-holdings-inc"
+  ],
+  "text": "JFE Holdings, Inc. is listed on the Tokyo Stock Exchange (Prime Market). Its largest shareholders as of 31 March 2026 were The Master Trust Bank of Japan (trust account) with 15.25% and Custody Bank of Japan (trust account) with 5.83%, followed by Nippon Life (2.49%) and employee shareholder associations.",
+  "short": "JFE Holdings is listed on TSE Prime; top holders are trust banks.",
+  "source": {
+    "name": "JFE Holdings: 株式基本情報 (Stock information, major shareholders)",
+    "date": "2026-03-31",
+    "url": "https://www.jfe-holdings.co.jp/investor/stock/basic/",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 97,152 15.25",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page in Japanese. Translation: listed on the Tokyo Stock Exchange (Prime Market); major shareholders as of 31 March 2026: Master Trust Bank of Japan (trust account) 97,152 thousand shares, 15.25%; Custody Bank of Japan (trust account) 37,121 thousand, 5.83%."
+  },
+  "reviewed": false
+}

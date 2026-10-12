@@ -1,0 +1,34 @@
+{
+  "id": "nizhny-novgorod-oblast-in-russia",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-nizhny-novgorod-oblast"
+  ],
+  "text": "Nizhny Novgorod Oblast is an oblast (region) in western Russia.",
+  "short": "Nizhny Novgorod Oblast is a region of Russia",
+  "source": {
+    "name": "Government of Nizhny Novgorod Oblast (nobl.ru): Нижегородская область (Nizhny Novgorod Oblast)",
+    "date": "2026",
+    "url": "https://nobl.ru/nizhegorodskaya-oblast/",
+    "note": "The oblast government's own description of the region (Russian). English: 'Nizhny Novgorod Oblast is one of the largest regions of Russia, part of the Volga Federal District.'",
+    "quote": "Нижегородская область — один из крупнейших регионов России, входит в состав Приволжского федерального округа.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Encyclopaedia Britannica: Nizhegorod (archived copy, snapshot 2025-02-14)",
+      "date": "2025-02-14",
+      "url": "https://web.archive.org/web/20250214060209/https://www.britannica.com/place/Nizhegorod",
+      "note": "English. Britannica lists the oblast as 'Also called: Nizhny Novgorod'.",
+      "quote": "oblast (region) in western Russia, in the middle of the Volga River basin",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

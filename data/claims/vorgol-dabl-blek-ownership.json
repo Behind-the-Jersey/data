@@ -1,0 +1,21 @@
+{
+  "id": "vorgol-dabl-blek-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dabl-blek-ooo"
+  ],
+  "text": "The Vorgol natural bottled-water brand is sold through Trade Company \"Double Black\" (OOO «Дабл Блэк», Moscow), which the brand's official site vorgolmsk.ru names as its exclusive distributor; the site's public offer and contact details are OOO «ДАБЛ БЛЭК» (Moscow, ul. Taldomskaya 2G, office@dblack.ru).",
+  "short": "The Vorgol water brand is run by its exclusive distributor OOO «Дабл Блэк»",
+  "source": {
+    "name": "Vorgol official site (vorgolmsk.ru), footer",
+    "date": "2026",
+    "url": "https://www.vorgolmsk.ru/",
+    "note": "Footer credit line of the brand's own site; translates as 'Exclusive distributor of Trade Company \"Double Black\"'. The site's public-offer link is titled 'Публичная оферта интернет-магазина ООО «ДАБЛ БЛЭК»' and its Moscow address and office@dblack.ru match OOO «ДАБЛ БЛЭК».",
+    "quote": "Эксклюзивный дистрибьютор Trade Company \"Double Black\"",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

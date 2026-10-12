@@ -1,11 +1,17 @@
 {
   "id": "flow-progressive-logistics",
   "name": "Flow Progressive Logistics",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownerId": "alsulaiman-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A subsidiary of Alsulaiman Group, a Saudi family group. Nothing found.",
+  "claimIds": [
+    "flow-alsulaiman-subsidiary",
+    "alsulaiman-group-family"
+  ],
+  "aliases": [
+    "Flow"
+  ],
+  "note": "Al-Ittihad sponsor under a three-year agreement signed in August 2024; on the 2026/27 home shirt the Flow logo sits on the right chest. Sponsorship announced by Alsulaiman Group on 21 Aug 2024."
 }
