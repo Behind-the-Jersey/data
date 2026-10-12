@@ -1,0 +1,33 @@
+{
+  "id": "decathlon-afm-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "decathlon",
+    "association-famille-mulliez"
+  ],
+  "text": "Le Journal des Entreprises lists Decathlon among the companies held by the Association Famille Mulliez, alongside ELO (parent of Auchan Retail) and Adeo (Leroy Merlin).",
+  "short": "Decathlon is held by the Mulliez family association (AFM)",
+  "source": {
+    "name": "Le Journal des Entreprises — Top 20 des entreprises des Hauts-de-France : un classement toujours dominé par l’Association Famille Mulliez",
+    "date": "2026-02-27",
+    "url": "https://www.lejournaldesentreprises.com/article/top-20-des-entreprises-des-hauts-de-france-un-classement-toujours-domine-par-lassociation-famille-2137610",
+    "quote": "En tête du classement figurent trois sociétés détenues par l’Association Famille Mulliez : ELO (maison mère d’Auchan Retail) devance Adeo (Leroy Merlin, Weldom…) et Decathlon.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Le Journal des Entreprises — Top 20 des entreprises des Hauts-de-France (archived copy, 16 April 2026)",
+      "date": "2026-02-27",
+      "url": "http://web.archive.org/web/20260416205859/https://www.lejournaldesentreprises.com/article/top-20-des-entreprises-des-hauts-de-france-un-classement-toujours-domine-par-lassociation-famille-2137610",
+      "quote": "Avec le groupe Decathlon, l’AFM (Association Famille Mulliez) compte une troisième de ses entreprises à la tête de ce top 1 000.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}

@@ -12,13 +12,33 @@
       "sponsorId": "avnet",
       "placement": "patch",
       "source": {
-        "name": "MLB.com / Arizona Diamondbacks",
+        "name": "MLB.com / Arizona Diamondbacks: Arizona Diamondbacks and Avnet announce new partnership to include first ever jersey patch",
         "date": "2023-02-02",
-        "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include"
+        "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include",
+        "quote": "The Arizona Diamondbacks have entered a multi-year partnership with Avnet that will include the company's \"A\" and name on the sleeve of the D-backs' jerseys beginning with the 2023 season",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "MLB.com: MLB, Nike and Fanatics form 10-year partnership",
+        "date": "2019-01-25",
+        "url": "https://www.mlb.com/news/mlb-nike-fanatics-form-10-year-partnership-c303162762",
+        "note": "Kit maker. The league-wide 10-year deal makes Nike the exclusive on-field uniform supplier of all 30 MLB clubs from 2020, so the Diamondbacks' shirts carry the Nike Swoosh. The club's kit launch for 2026/27 is not on the club site.",
+        "quote": "makes Nike the Official Uniform and Footwear Supplier of MLB starting in the 2020 season",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Jersey patch: Avnet.",
+  "summary": "Jersey patch: Avnet, on the sleeve. Nike is the kit maker (league-wide MLB uniform supplier).",
   "change": null
 }

@@ -1,0 +1,21 @@
+{
+  "id": "nintendo-co-ltd-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "nintendo-co-ltd"
+  ],
+  "text": "Nintendo Co., Ltd. (TSE code 7974) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 16.05%), Custody Bank of Japan, Ltd. (trust account, 5.02%), JP Morgan Chase Bank 380752 (3.75%), The Bank of Kyoto, Ltd. (3.37%), State Street Bank and Trust Company 505001 (2.67%), Chase Manhattan Bank London (2.50%), Citibank as depositary for depositary shares (2.22%) and GIC Private Limited (2.10%).",
+  "short": "Nintendo is Tokyo-listed; its largest holders are trust banks; Singapore's GIC holds 2.10%.",
+  "source": {
+    "name": "Nintendo Co., Ltd.: Status of Shares (IR)",
+    "date": "2026-03-31",
+    "url": "https://www.nintendo.co.jp/ir/en/stock/information/index.html",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 1,850,176 16.05",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page headed 'Status of Shares ( As of March 31, 2026 )' with a Major Shareholders table; treasury shares excluded."
+  },
+  "reviewed": false
+}

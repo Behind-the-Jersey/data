@@ -12,13 +12,50 @@
       "sponsorId": "pulsee-luce-e-gas",
       "placement": "front",
       "source": {
-        "name": "Pulsee",
+        "name": "Genoa CFC, 'Pulsee Luce e Gas e Genoa CFC: con l'energia di casa, uno sconto fino al 100% per la maglia ufficiale KOMBAT™'",
+        "date": "2026-10-02",
+        "url": "https://genoacfc.it/2026/10/02/pulsee-luce-e-gas-e-genoa-cfc-sconto-fino-al-100-per-la-maglia-ufficiale-kombat/",
+        "quote": "Pulsee Luce e Gas – Front Jersey Sponsor del Genoa– lancia una speciale operazione",
+        "note": "The club's own press release, restating Pulsee's role for the 2026/27 season. The club's partner page lists Pulsee as 'Front Jersey Sponsor' (genoacfc.it/partner/), and the club-shop product photo of the 2026/27 home shirt shows Pulsee Luce e Gas across the chest.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "bet365-scores",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "Genoa CFC, 'bet365 Scores è lo Sleeve Sponsor'",
+        "date": "2026-07-13",
+        "url": "https://genoacfc.it/2026/07/13/bet365-scores-e-sleeve-sponsor-del-genoa-cfc",
+        "quote": "bet365 Scores è il nuovo Sleeve Sponsor per le stagioni sportive 2026/27 e 2027/28 in relazione alla prima squadra maschile",
+        "note": "The club's announcement: the bet365 Scores logo goes on the left sleeve ('maniche sinistre') of the first-team shirts, with the deal brokered by Infront Sports. The club-shop product photo of the 2026/27 home shirt shows the bet365 Scores logo on the sleeve.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "kappa",
+      "placement": "partner",
+      "source": {
+        "name": "Genoa CFC, 'Genoa Home Kit 2026/27: You'll never run alone'",
         "date": "2026-07-14",
-        "url": "https://pulsee.it/chi-siamo/sponsorship/genoa-cfc"
+        "url": "https://genoacfc.it/2026/07/14/genoa-home-kit-2026-27-youll-never-run-alone",
+        "note": "Kit maker (technical sponsor), not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The club's kit launch describes the KOMBAT™ Pro shirt 'ideata da Genoa e Kappa'; the club's partner page lists Kappa as 'Technical Sponsor'.",
+        "quote": "ideata da Genoa e Kappa con la partecipazione di No Panic Agency",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "Kappa home shirt with a 1990s-style red-and-blue split: Pulsee Luce e Gas on the front, bet365 Scores on the left sleeve (new from July 2026, running through 2027/28). The club's launch photos and shop product photos show no back or shorts sponsor. Pulsee is the domestic retail brand of Axpo Italia, part of Switzerland's state-owned Axpo Group; bet365 Scores is bet365's live-scores app, controlled by the Coates family; Kappa is a BasicNet brand."
 }

@@ -12,13 +12,19 @@
       "sponsorId": "motorola",
       "placement": "patch",
       "source": {
-        "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
-        "date": "2026-04-20",
-        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+        "name": "MLB.com: Padres announce Motorola as official jersey patch partner",
+        "date": "2022-04-19",
+        "url": "http://web.archive.org/web/20250909131248/https://www.mlb.com/news/padres-announce-motorola-as-official-jersey-patch-partner",
+        "note": "Club/league release, read via the Wayback Machine capture of 2025-09-09 because the live mlb.com page returns 403 to scripts. It announces the patch from the 2023 season; Blinkfire Analytics' 2026 MLB jersey-patch list (2026-04-20) still lists Motorola on the Padres.",
+        "quote": "A patch of the iconic Motorola \u201cbatwing\u201d logo will be woven into the shoulder of the different versions of the Padres uniform.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Jersey patch: Motorola.",
+  "summary": "Jersey patch: Motorola (shoulder/sleeve).",
   "change": null
 }

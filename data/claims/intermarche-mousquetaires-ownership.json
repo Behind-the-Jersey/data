@@ -1,0 +1,20 @@
+{
+  "id": "intermarche-mousquetaires-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "groupement-mousquetaires"
+  ],
+  "text": "Intermarché is one of the seven brands of the Groupement Mousquetaires, an organisation bringing together more than 3,000 independent entrepreneurs.",
+  "short": "Intermarché is a brand of the Groupement Mousquetaires.",
+  "source": {
+    "name": "Lotto-Intermarché: Intermarché (partner page)",
+    "date": "2026",
+    "url": "https://www.lotto-intermarche.be/en/partner/intermarche",
+    "quote": "Intermarché is one of the seven brands of the Groupement Mousquetaires, an organisation bringing together more than 3,000 independent entrepreneurs",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

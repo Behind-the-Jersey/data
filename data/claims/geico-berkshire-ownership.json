@@ -1,0 +1,32 @@
+{
+  "id": "geico-berkshire-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "berkshire-hathaway"
+  ],
+  "text": "The GEICO group of insurance companies is wholly owned by Berkshire Hathaway Inc.",
+  "source": {
+    "name": "GEICO: Corporate Ownership",
+    "date": "2026-10-01",
+    "url": "https://www.geico.com/about/corporate/corporate-ownership/",
+    "quote": "The GEICO group is wholly owned by Berkshire Hathaway Inc.",
+    "note": "Page shows no publication date; its footer reads ©2026 GEICO. Date is the day the page was opened.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Berkshire Hathaway Inc.: Form 10-K for the year ended December 31, 2025 (SEC)",
+      "date": "2026-03-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+      "quote": "Berkshire's insurance underwriting operations include the following groups: (1) GEICO, (2) Berkshire Hathaway Primary Group and (3) Berkshire Hathaway Reinsurance Group.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

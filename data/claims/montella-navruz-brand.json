@@ -1,0 +1,21 @@
+{
+  "id": "montella-navruz-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "navruz-international"
+  ],
+  "text": "Montella is a bottled drinking-water brand of Navruz International Corp., a joint Uzbek-American LLC founded in March 2003 that produces soft drinks and bottled water in the Tashkent region.",
+  "short": "Montella is a Navruz International Corp. brand.",
+  "source": {
+    "name": "Navruz International Corp.: 'О компании'",
+    "date": "2026-10-01",
+    "url": "https://navruzint.com/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/",
+    "quote": "Совместная Узбекско — Американская компания СП ООО «Navruz International Corp.» была основана в марте 2003 года",
+    "note": "The same page says production of the bottled water brand «Montella» was launched in 2009-2010 ('бутилированной воды «Montella»').",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

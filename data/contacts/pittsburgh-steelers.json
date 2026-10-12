@@ -4,19 +4,31 @@
     {
       "type": "email",
       "value": "ticketoffice@steelers.com",
+      "label": "Steelers Ticket Office",
       "source": {
-        "name": "Club website contact page",
+        "name": "Pittsburgh Steelers - Contact Us",
         "url": "https://www.steelers.com/legal/contact-us/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Steelers Ticket Office Phone: (412) 323-1200 Email: ticketoffice@steelers.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "email",
       "value": "merchandise@steelers.com",
+      "label": "Steelers Pro Shop",
       "source": {
-        "name": "Club website contact page",
+        "name": "Pittsburgh Steelers - Contact Us",
         "url": "https://www.steelers.com/legal/contact-us/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Steelers Pro Shop Phone: 1-800-832-6883 Email: merchandise@steelers.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +36,46 @@
       "value": "https://www.steelers.com/legal/contact-us/",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "Pittsburgh Steelers - Contact Us",
         "url": "https://www.steelers.com/legal/contact-us/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Helpful Contact Information",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@steelers",
+      "label": "Steelers on X",
       "source": {
-        "name": "Club website contact page",
+        "name": "Pittsburgh Steelers homepage",
         "url": "https://www.steelers.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Social Media Pittsburgh Steelers",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@steelers",
+      "label": "Steelers on Instagram",
       "source": {
-        "name": "Club website contact page",
+        "name": "Pittsburgh Steelers homepage",
         "url": "https://www.steelers.com/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Social Media Pittsburgh Steelers",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

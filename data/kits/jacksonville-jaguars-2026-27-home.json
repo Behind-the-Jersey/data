@@ -12,13 +12,19 @@
       "sponsorId": "dream-finders-homes",
       "placement": "training-kit",
       "source": {
-        "name": "Zoomph",
-        "date": "2026-09-01",
-        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        "name": "Zoomph: The Ultimate Guide to NFL Practice Jersey Sponsors",
+        "date": "2026",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+        "note": "Page shows no publication date (posted '03 Nov', year not shown). The NFL jersey-patch program covers practice jerseys only, so this is the training-kit placement.",
+        "quote": "Jacksonville Jaguars: Dream Finders Homes",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Practice-jersey patch: Dream Finders Homes.",
+  "summary": "Practice-jersey patch: Dream Finders Homes. NFL game jerseys carry no commercial sponsor.",
   "change": null
 }

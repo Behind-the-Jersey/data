@@ -1,0 +1,21 @@
+{
+  "id": "horiba-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "horiba"
+  ],
+  "text": "HORIBA, Ltd. (TSE Prime code 6856) lists its top 10 shareholders as of 30 June 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 12.21%), Custody Bank of Japan, Ltd. (trust account, 7.47%), UBS AG London (3.98%), Atsushi Horiba (2.63%), Stichting Pensioenfonds Zorg en Welzijn (a Dutch sector pension fund, 2.51%), State Street Bank and Trust Company (two accounts, 2.34% and 2.17%), HORIBA Raku-Raku Kai (2.02%), The Bank of Kyoto, Ltd. (1.97%) and its employee stock-ownership association (1.67%).",
+  "short": "HORIBA is Tokyo-listed; its largest holders are trust banks (Master Trust 12.21%, Custody Bank 7.47%).",
+  "source": {
+    "name": "HORIBA: Stock Information",
+    "date": "2026-06-30",
+    "url": "https://www.horiba.com/int/company/investor-relations/stock-information/",
+    "quote": "The Master Trust Bank of Japan, Ltd.(trust account) 5,132 12.21",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page headed 'Stock Information. As of June 30, 2026' and 'Top 10 Shareholders'."
+  },
+  "reviewed": false
+}

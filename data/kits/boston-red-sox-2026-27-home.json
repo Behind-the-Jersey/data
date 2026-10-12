@@ -12,9 +12,15 @@
       "sponsorId": "massmutual",
       "placement": "patch",
       "source": {
-        "name": "MLB.com",
+        "name": "MLB.com - MassMutual named signature partner and first ever jersey patch sponsor of the Boston Red Sox",
         "date": "2022-11-30",
-        "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+        "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual",
+        "note": "The club's own announcement of a ten-year partnership beginning with the 2023 season, so it covers this season. The live page blocks scripted access; the quote was verified on the Wayback Machine capture of 20 August 2026.",
+        "quote": "designates MassMutual as the first official jersey patch partner of the Red Sox, which will result in the company's logo being featured on the sleeve of authentic Red Sox player jerseys",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

@@ -1,0 +1,20 @@
+{
+  "id": "emory-healthcare-part-of-emory-university",
+  "kind": "ownership",
+  "ownerIds": [
+    "emory-university"
+  ],
+  "text": "Emory Healthcare is part of Emory University, whose academic health system it is.",
+  "short": "Emory Healthcare is part of Emory University.",
+  "source": {
+    "name": "Emory Healthcare: About Us",
+    "date": "2026",
+    "url": "https://www.emoryhealthcare.org/about-us/index.html",
+    "quote": "As part of Emory University, we are the most comprehensive academic health system in Georgia",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

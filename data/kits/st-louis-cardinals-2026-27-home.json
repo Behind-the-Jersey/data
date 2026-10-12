@@ -12,9 +12,15 @@
       "sponsorId": "stifel",
       "placement": "patch",
       "source": {
-        "name": "MLB.com press release",
+        "name": "MLB.com press release – Cardinals announce Stifel as club's first jersey patch sponsor",
         "date": "2023-05-02",
-        "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+        "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor",
+        "note": "The club's own announcement of a seven-year agreement starting with the 2023 season, so it covers this season. The patch is worn on the jersey sleeve. The live page blocks scripted access (403); the quote was verified on the Wayback Machine capture of 7 March 2026.",
+        "quote": "As part of the new seven-year agreement starting this season, Stifel's logo will appear on the jersey sleeve of each of the Cardinals' four different on-field game uniforms.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

@@ -12,13 +12,49 @@
       "sponsorId": "guidehouse",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "The District Press – 'DC United reveals 2026 Home Kit'",
+        "date": "2026-02-11",
+        "url": "https://thedistrictpress.com/2026/02/11/dc-united-reveals-2026-home-kit/",
+        "quote": "The Guidehouse sponsor along with the Fruitist and Apple TV sleeve sponsors are in white, along with the Adidas logo on the right chest.",
+        "note": "Guidehouse has been the front-of-kit partner since 2024 (reported by Sportico on Feb 15, 2024; deal dc-united-guidehouse-front).",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "fruitist",
+      "placement": "sleeve",
+      "source": {
+        "name": "The District Press – 'DC United reveals 2026 Home Kit'",
+        "date": "2026-02-11",
+        "url": "https://thedistrictpress.com/2026/02/11/dc-united-reveals-2026-home-kit/",
+        "quote": "The Guidehouse sponsor along with the Fruitist and Apple TV sleeve sponsors are in white, along with the Adidas logo on the right chest.",
+        "note": "Sleeve-patch partner since 2024; the club's announcement of Feb 23, 2024 places The Fruitist logo on the right sleeve. For Soccer's 2026 MLS jersey review also lists The Fruitist on D.C. United's right sleeve.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "The District Press – 'DC United reveals 2026 Home Kit'",
+        "date": "2026-02-11",
+        "url": "https://thedistrictpress.com/2026/02/11/dc-united-reveals-2026-home-kit/",
+        "quote": "The Guidehouse sponsor along with the Fruitist and Apple TV sleeve sponsors are in white, along with the Adidas logo on the right chest.",
+        "note": "League-wide Apple TV patch on the left sleeve of every MLS kit (see deal mls-apple-tv); For Soccer's 2026 MLS jersey review lists Apple TV on D.C. United's left sleeve.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Black-and-red adidas home kit. Guidehouse fronts the jersey; The Fruitist patch is on the right sleeve and the Apple TV league patch on the left."
 }

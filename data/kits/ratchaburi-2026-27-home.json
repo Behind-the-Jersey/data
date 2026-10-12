@@ -1,0 +1,75 @@
+{
+  "id": "ratchaburi-2026-27-home",
+  "clubId": "ratchaburi",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "chang",
+      "placement": "front",
+      "source": {
+        "name": "Thai Sport (THSPORT): ราชบุรีเปิดตัวชุดแข่งซีซั่น2026/27 (kit launch, 29 Aug 2026)",
+        "date": "2026-08-29",
+        "url": "https://www.thsport.app/sport-news/footballthai/news-272041.html",
+        "quote": "ราชบุรี เอฟซี ร่วมกับ FPS Thailand และ Mizuno ประเทศไทย เปิดตัวชุดแข่งขันประจำฤดูกาล 2026/2027 อย่างเป็นทางการ",
+        "note": "The launch photo in the article shows the new home shirt with the Chang logo across the chest as main shirt sponsor (the same logo is on the official licensed product photos of Ari Football, SKU P2SADW54RB). Chang is Ratchaburi's longstanding front-of-shirt sponsor.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "rajachoos",
+      "placement": "front",
+      "source": {
+        "name": "The Business Plus (บิสิเนสพลัส): ราชาชูรส เดินหน้าสนับสนุน “ราชบุรี เอฟซี” ฤดูกาล 2026/27",
+        "date": "2026-09-01",
+        "url": "https://www.thebusinessplus.com/thai-fermentation-industry/",
+        "quote": "บริษัท ราชาชูรส จำกัด เดินหน้าสนับสนุนสโมสรฟุตบอลราชบุรี เอฟซี ในฤดูกาล 2026/27",
+        "note": "Press announcement that Raja Choos Co. (Rajachoos MSG) sponsors Ratchaburi FC for 2026/27. The ราชาชูรส logo sits directly beneath Chang on the chest of the official home jersey (Ari Football product photos, arionline.com).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "euro-cake",
+      "placement": "front",
+      "source": {
+        "name": "4 Force News (หนังสือพิมพ์ข่าว ๔ เหล่าทัพ): ราชบุรี-เอฟซี เปิดตัวสู้ศึกฤดูกาลใหม่ ชูธีม “DREAM BIG”",
+        "date": "2026-08-29",
+        "url": "https://www.4forcenews.com/603898/",
+        "quote": "สโมสรราชบุรี เอฟซี เปิดตัวสโมสรและผู้สนับสนุนหลัก ฤดูกาล 2026/27 อย่างเป็นทางการ",
+        "note": "The report's launch photos (IMG_7511, also hosted at siamfocustime.com) show a Euro Cake representative receiving the new home shirt, which carries the EURO CAKE logo on the lower front hem; the same logo appears in the official product photos on arionline.com.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mizuno",
+      "placement": "partner",
+      "source": {
+        "name": "Thai Sport (THSPORT): ราชบุรีเปิดตัวชุดแข่งซีซั่น2026/27 (kit launch with Mizuno, 29 Aug 2026)",
+        "date": "2026-08-29",
+        "url": "https://www.thsport.app/sport-news/footballthai/news-272041.html",
+        "quote": "ราชบุรี เอฟซี ร่วมกับ FPS Thailand และ Mizuno ประเทศไทย เปิดตัวชุดแข่งขันประจำฤดูกาล 2026/2027 อย่างเป็นทางการ",
+        "note": "Mizuno Thailand jointly launched the 2026/27 kits - kit maker, not a shirt-sponsor placement; the Mizuno runbird sits on the right chest in the article's launch photo (and in the official Ari Football product photos).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Mizuno 2026/27 home kit (launched 29 Aug 2026 with FPS Thailand; retail version 990 THB at Ari Football). Chest: Chang main front with ราชาชูรส (Rajachoos) beneath; EURO CAKE logo on the lower front hem; Mizuno right chest. The sleeves carry several small white-box logos that could not be read from the available photos, and no shorts photo exists, so the sponsor list is not complete. Ratchaburi also launched a separate ACL Elite 2026/27 home shirt on 15 Sep 2026 (different design, Chang front), not covered here.",
+  "change": null
+}

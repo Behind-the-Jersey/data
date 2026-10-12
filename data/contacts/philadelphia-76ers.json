@@ -2,6 +2,21 @@
   "clubId": "philadelphia-76ers",
   "channels": [
     {
+      "type": "contact-form",
+      "value": "https://www.nba.com/sixers/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Philadelphia 76ers - Contact",
+        "url": "https://www.nba.com/sixers/contact",
+        "date": "2026-10-01",
+        "quote": "Send us a message We will get back to you.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@Sixers",
       "source": {
@@ -20,5 +35,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

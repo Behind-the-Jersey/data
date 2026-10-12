@@ -1,0 +1,21 @@
+{
+  "id": "canyon-gbl-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "groupe-bruxelles-lambert"
+  ],
+  "text": "Groupe Bruxelles Lambert (GBL), the Brussels-based listed investment holding, controls Canyon Bicycles GmbH: GBL's portfolio page lists Canyon among its 'controlled/co-controlled stakes' with 52.6% of the share capital (30 June 2026); founder Roman Arnold remains a significant shareholder and Executive Chairman.",
+  "short": "GBL controls Canyon with 52.6% of the share capital.",
+  "source": {
+    "name": "GBL: Portfolio - Canyon",
+    "date": "2026",
+    "url": "https://www.gbl.com/en/portfolio/canyon",
+    "quote": "Performance DNA supported by the founder Roman Arnold, who remains a significant shareholder alongside GBL with active involvement as Executive Chairman",
+    "note": "Same page lists Canyon under 'Controlled/co-controlled stakes' with 'Share capital (06/30/2026) 52.6%'.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

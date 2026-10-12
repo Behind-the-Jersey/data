@@ -3,14 +3,20 @@
   "clubId": "cadillac",
   "orgName": null,
   "sponsorId": "ifs",
-  "placement": "partner",
+  "placement": "back",
   "from": "2026",
   "to": null,
   "value": null,
   "source": {
-    "name": "Cadillac Formula 1 Team – Official Partners",
-    "date": "2026-09-24",
-    "url": "https://www.cadillacf1team.com/partners"
+    "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+    "date": "2026-02-09",
+    "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+    "quote": "the IFS logo on the rear wing endplates refers to a Swedish software company.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "IFS logo on the rear wing endplates."
   },
-  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+  "note": "Cadillac Formula 1 Team back partner on the 2026 car."
 }

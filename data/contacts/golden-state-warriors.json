@@ -3,14 +3,19 @@
   "channels": [
     {
       "type": "contact-form",
-      "value": "https://www.nba.com/warriors/?tmd=1/contact",
+      "value": "https://www.nba.com/warriors/contact",
       "label": "Contact form",
       "source": {
         "name": "Club website contact page",
-        "url": "https://www.nba.com/warriors/?tmd=1/contact",
-        "date": "2026-09-24"
+        "url": "https://www.nba.com/warriors/contact",
+        "date": "2026-10-01",
+        "quote": "Contact Information | Golden State Warriors",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

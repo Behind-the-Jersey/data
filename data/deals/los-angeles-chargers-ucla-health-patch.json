@@ -4,13 +4,18 @@
   "orgName": "UCLA Health",
   "sponsorId": "ucla-health",
   "placement": "training-kit",
-  "from": "2025",
+  "from": "2024",
   "to": null,
   "value": null,
   "source": {
-    "name": "Zoomph (2026 NFL jersey patch guide)",
-    "date": "2026-09-01",
-    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+    "name": "Los Angeles Chargers — UCLA Health Named Official Medical Partner of the Los Angeles Chargers & Presenting Partner of Chargers Training Camp",
+    "date": "2024-08-08",
+    "url": "https://www.chargers.com/news/ucla-health-named-official-medical-partner-of-the-los-angeles-chargers-presenting-partner-of-chargers-training-camp",
+    "quote": "The Los Angeles Chargers and UCLA Health have entered a multi-year partnership designating UCLA Health as the team's Official Medical Partner and Presenting Partner of Chargers Training Camp.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Practice-jersey patch."
+  "note": "Partnership began August 2024. The club's announcement does not mention the practice-jersey patch; the UCLA Health patch on practice jerseys is documented from training camp 2025 (Zoomph's NFL practice-jersey guide, quoting the Chargers' 2025-08-05 post, and its 2026-season list)."
 }

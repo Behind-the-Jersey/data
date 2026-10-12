@@ -1,0 +1,20 @@
+{
+  "id": "securian-minnesota-mutual-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "securian-financial-group",
+    "minnesota-mutual-companies"
+  ],
+  "text": "All of the voting stock of Minnesota Life Insurance Company is owned by Securian Financial Group, Inc., which is a wholly-owned subsidiary of Securian Holding Company, whose ultimate parent is Minnesota Mutual Companies, Inc.",
+  "source": {
+    "name": "Securian Funds Trust: Definitive Information Statement (DEF 14C), SEC EDGAR",
+    "date": "2017-12-15",
+    "url": "https://www.sec.gov/Archives/edgar/data/766351/000119312517370260/d484353ddef14c.htm",
+    "quote": "Securian Financial Group, Inc., which in turn is a wholly-owned subsidiary of a first tier intermediate stock holding company named Securian Holding Company, which in turn is a wholly-owned subsidiary of the ultimate parent, Minnesota Mutual Companies, Inc.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

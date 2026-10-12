@@ -2,6 +2,51 @@
   "clubId": "kansas-city-chiefs",
   "channels": [
     {
+      "type": "email",
+      "value": "Fanexperience@chiefs.com",
+      "label": "Fan Experience team",
+      "source": {
+        "name": "Chiefs.com Fan Experience page",
+        "url": "https://www.chiefs.com/stadium/fanexperience",
+        "date": "2026-10-01",
+        "quote": "Email: Fanexperience@chiefs.com Call: 816-920-4237",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.chiefs.com/stadium/fanexperience",
+      "label": "Fan Experience",
+      "source": {
+        "name": "Chiefs.com Fan Experience page (club's Contact Us link)",
+        "url": "https://www.chiefs.com/stadium/fanexperience",
+        "date": "2026-10-01",
+        "quote": "Questions Not Answered? Our Fan Experience team is happy to help.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1-816-920-4237",
+      "label": "Fan Experience team",
+      "source": {
+        "name": "Chiefs.com Fan Experience page",
+        "url": "https://www.chiefs.com/stadium/fanexperience",
+        "date": "2026-10-01",
+        "quote": "Call: 816-920-4237",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@chiefs",
       "source": {
@@ -20,5 +65,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

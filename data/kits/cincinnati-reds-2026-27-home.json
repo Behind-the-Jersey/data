@@ -12,9 +12,15 @@
       "sponsorId": "kroger",
       "placement": "patch",
       "source": {
-        "name": "Front Office Sports",
+        "name": "Front Office Sports – 'MLB Jersey Patch Market Warming Up As Season Approaches'",
         "date": "2023-02-02",
-        "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+        "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal",
+        "note": "The Kroger patch deal was announced in February 2023; the Blinkfire 2026 list still names it as the Reds' patch.",
+        "quote": "The Cincinnati Reds inked a deal with Kroger worth $5 million annually, according to Sports Business Journal, to put the grocery store chain's logo on the team's uniforms.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

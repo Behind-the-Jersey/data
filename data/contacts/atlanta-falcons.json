@@ -3,32 +3,34 @@
   "channels": [
     {
       "type": "email",
-      "value": "tickets@falcons.nfl.com",
+      "value": "fans@falcons.nfl.com",
+      "label": "General issues",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.atlantafalcons.com/",
-        "date": "2026-09-24"
+        "name": "Atlanta Falcons website contact page",
+        "url": "https://www.atlantafalcons.com/about/contact",
+        "date": "2026-10-01",
+        "quote": "General Issues: Contact us with any questions, comments, suggestions or concerns at fans@falcons.nfl.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "phone",
-      "value": "4703414500",
+      "value": "4703414100",
+      "label": "Main phone number",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.atlantafalcons.com/",
-        "date": "2026-09-24"
-      }
-    },
-    {
-      "type": "contact-form",
-      "value": "https://www.atlantafalcons.com/about/contact",
-      "label": "Contact form",
-      "source": {
-        "name": "Club website contact page",
+        "name": "Atlanta Falcons website contact page",
         "url": "https://www.atlantafalcons.com/about/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Main Phone Number: 470-341-4100",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

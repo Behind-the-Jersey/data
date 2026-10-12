@@ -1,0 +1,21 @@
+{
+  "id": "jj-ugland-companies-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "jj-ugland-companies"
+  ],
+  "text": "The J.J. Ugland Companies is a family-owned Norwegian shipping and investment group whose sole owner is Knut N.T. Ugland.",
+  "short": "Knut N.T. Ugland is the sole owner of The J.J. Ugland Companies.",
+  "source": {
+    "name": "The J.J. Ugland Companies: About / History",
+    "date": "2026",
+    "url": "https://www.jjuc.no/about/",
+    "quote": "His grandson, Knut N.T. Ugland, is currently the sole owner of JJUC.",
+    "note": "The same page describes JJUC as a 'family-owned business' spanning shipping and offshore, industry (Nymo), financial investments, fish farming, real estate and dairy production.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

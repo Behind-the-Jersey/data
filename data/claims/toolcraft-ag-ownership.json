@@ -1,0 +1,20 @@
+{
+  "id": "toolcraft-ag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "toolcraft-ag"
+  ],
+  "text": "toolcraft AG is a public limited company (Aktiengesellschaft) registered in the commercial register of the Nuremberg Local Court (HRB 38176), based in Georgensgmünd.",
+  "source": {
+    "name": "toolcraft AG: Impressum",
+    "date": "2026",
+    "url": "https://www.toolcraft.de/impressum/",
+    "quote": "Handelsregister: AG Nürnberg. HRB 38176",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'Commercial register: Nuremberg Local Court (AG Nürnberg), HRB 38176'."
+  },
+  "reviewed": false
+}

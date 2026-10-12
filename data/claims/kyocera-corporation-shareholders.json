@@ -1,0 +1,21 @@
+{
+  "id": "kyocera-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "kyocera-corporation"
+  ],
+  "text": "Kyocera Corporation (TSE Prime code 6971) lists its top 10 shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 23.23%), Custody Bank of Japan, Ltd. (trust account, 8.56%), The Bank of Kyoto, Ltd. (4.38%), State Street Bank and Trust Company 505001 (4.10%), the Inamori Foundation (2.84%), Kyocera's own share-investment association (1.75%), JP Morgan Chase Bank 385781 (1.44%), MUFG Bank (1.40%), HSBC Hong Kong (1.31%) and Dai-ichi Life Insurance (1.28%).",
+  "short": "Kyocera is Tokyo-listed; its largest holders are trust banks (Master Trust 23.23%, Custody Bank 8.56%), the Bank of Kyoto (4.38%) and State Street (4.10%).",
+  "source": {
+    "name": "京セラ: 株式基本情報 (Kyocera Corporation: Basic Stock Information)",
+    "date": "2026-03-31",
+    "url": "https://www.kyocera.co.jp/ir/s_info/basic.html",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 306,092 23.23 株式会社日本カストディ銀行（信託口） 112,803 8.56",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page headed 大株主（上位10名）（2026年3月31日現在）, 'top 10 major shareholders (as of 31 March 2026)'."
+  },
+  "reviewed": false
+}

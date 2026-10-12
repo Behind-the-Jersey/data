@@ -1,0 +1,35 @@
+{
+  "id": "pidmco-pgpic-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pidmco",
+    "pgpic"
+  ],
+  "text": "Petrochemical Industries Development Management Company (PIDMCO) is a wholly owned subsidiary of PGPIC: 100% owned by PGPIC per company information, and the US Treasury's 7 June 2019 action designates PIDMCO among PGPIC's Iran-based subsidiary petrochemical companies for being owned or controlled by PGPIC.",
+  "short": "PIDMCO is a wholly owned PGPIC subsidiary.",
+  "source": {
+    "name": "Hormuz Group: Petrochemical Industries Development Management Company — company profile",
+    "date": "2026-09-26",
+    "url": "https://hormuz.group/companies/petrochemical-industries-development-management-company/",
+    "quote": "100% owned by Persian Gulf Petrochemical Industries Company (PGPIC), according to PGPIC information current as of 2023",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page 'Updated 26/09/2026' per its header."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "US Department of the Treasury: Treasury Sanctions Iran's Largest Petrochemical Holding Group and Vast Network of Subsidiaries and Sales Agents",
+      "date": "2019-06-07",
+      "url": "https://home.treasury.gov/news/press-releases/sm703",
+      "quote": "The following are Iran-based PGPIC subsidiary petrochemical companies that OFAC is also designating pursuant to E.O. 13382 for being owned or controlled by PGPIC.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The immediately following list includes 'Petrochemical Industries Development Management Company'."
+    }
+  ]
+}

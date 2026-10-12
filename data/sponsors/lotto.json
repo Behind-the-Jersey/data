@@ -3,12 +3,15 @@
   "name": "Lotto",
   "ownerId": "government-of-belgium",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Lotto is the brand of Belgium's National Lottery, a public-law company under the direct supervision of the Belgian government. Nothing found.",
+  "claimIds": [
+    "lotto-national-lottery-ownership",
+    "government-of-belgium-owns-lotto"
+  ],
   "aliases": [
     "belgian national lottery"
   ],
-  "note": "Belgium's state National Lottery; title sponsor."
+  "note": "Rating note: Lotto is the National Lottery's own brand (lotto-national-lottery-ownership) and the Lottery is a public-law company under direct Belgian government supervision (government-of-belgium-owns-lotto), so the Belgian state is a link. But the dataset has no record claim about Belgium and state ownership alone is not a tier (METHOD.md), so 'none'. Same reasoning as eurojackpot and fdj."
 }

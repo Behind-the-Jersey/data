@@ -4,13 +4,18 @@
   "orgName": "Amazon Web Services (AWS)",
   "sponsorId": "aws",
   "placement": "training-kit",
-  "from": "2024",
+  "from": null,
   "to": null,
   "value": null,
   "source": {
-    "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
-    "date": "2026-09-01",
-    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    "name": "Zoomph: The Ultimate Guide To NFL Practice Jersey Sponsors",
+    "date": "2025-11-03",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+    "quote": "Seattle Seahawks: AWS",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Practice-jersey patch."
+  "note": "Practice-jersey patch. Start year unknown: the guide lists AWS as the Seahawks' practice-jersey patch sponsor for the 2026 season (the Seahawks and AWS have partnered since 2019 on cloud services, per seahawks.com, 2019-11-25) but no source gives when the patch began."
 }

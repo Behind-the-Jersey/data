@@ -1,0 +1,21 @@
+{
+  "id": "gsa-sport-gepaworld-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gepaworld-group"
+  ],
+  "text": "GSA Sport's parent company is GEPAWORLD Group, whose CEO is Gerry F. Papaspyratos.",
+  "short": "GSA Sport's parent company is GEPAWORLD Group.",
+  "source": {
+    "name": "Anadolu Efes SK: 2025-2026 Sezonunda GSA Sport Tarafından Üretilen Formalarla Sahada Olacağız",
+    "date": "2025-09-10",
+    "url": "https://www.anadoluefessk.org/tr/news/rNYB-U_WDJkr5WdidEWoMA==",
+    "quote": "GSA Sport’un ana şirketi GEPAWORLD Group CEO’su Gerry F. Papaspyratos",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The club's announcement of the GSA Sport partnership names the brand's parent company and its CEO in the sentence 'GSA Sport'un ana şirketi GEPAWORLD Group CEO'su Gerry F. Papaspyratos iş birliği ile ilgili şunları söyledi'."
+  },
+  "reviewed": false
+}

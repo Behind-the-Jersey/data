@@ -8,7 +8,27 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.newyorkjets.com/faqs/contact-us",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Click Here to Contact Us",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1-800-469-5387",
+      "label": "Fan contact phone",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.newyorkjets.com/faqs/contact-us",
+        "date": "2026-10-01",
+        "quote": "800-469-JETS (5387)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -30,5 +50,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

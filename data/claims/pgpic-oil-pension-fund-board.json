@@ -1,0 +1,36 @@
+{
+  "id": "pgpic-oil-pension-fund-board",
+  "kind": "ownership",
+  "ownerIds": [
+    "oil-industry-pension-fund",
+    "pgpic",
+    "government-of-iran"
+  ],
+  "text": "At PGPIC's September 2026 AGM, three of the five board seats went to the Oil Industry Pension Fund group, one to Sahem-e Edalat (the Justice Shares scheme) and one to Tapico; the state-owned National Petrochemical Company (NPC) left the board.",
+  "short": "The Oil Industry Pension Fund group took 3 of the 5 seats on PGPIC's board in September 2026.",
+  "source": {
+    "name": "Petrochemiha: سه کرسی «هلدینگ خلیج فارس» در اختیار صندوق بازنشستگی نفت؛ NPC کنار رفت (three Khalij Fars holding seats go to the Oil Pension Fund; NPC is out)",
+    "date": "2026-09-16",
+    "url": "https://petrochemiha.ir/%D8%B3%D9%87-%DA%A9%D8%B1%D8%B3%DB%8C-%D9%87%D9%84%D8%AF%DB%8C%D9%86%DA%AF-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D8%B5%D9%86/",
+    "quote": "ترکیب جدید هیأت‌مدیره «فارس» نشان می‌دهد سه کرسی به مجموعه صندوق بازنشستگی نفت، یک کرسی به سهام عدالت و یک کرسی به تاپیکو اختصاص یافته و شرکت ملی صنایع پتروشیمی نیز از ترکیب حقوقی خارج شده است.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Translation: 'The new Fars board shows three seats assigned to the Oil Industry Pension Fund group, one to Justice Shares and one to Tapico, with the National Petrochemical Company dropped from the statutory composition.' Published 25 Shahrivar 1405 (16 September 2026), reporting the composition announced at the AGM (earlier coverage in the same outlet noted five legal-entity members were elected)."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "EnergyPress: سه صندلی هیات مدیره هلدینگ خلیج فارس به صندوق بازنشستگی صندوق نفت رسید (three Khalij Fars holding board seats go to the Oil Pension Fund)",
+      "date": "2026-09-16",
+      "url": "https://energypress.ir/%D8%B3%D9%87-%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D9%87%DB%8C%D8%A7%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1%D9%87-%D9%87%D9%84%D8%AF%DB%8C%D9%86%DA%AF-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87/",
+      "quote": "سه صندلی هیأت مدیره فارس به مجموعه صندوق بازنشستگی نفت رسید، یک صندلی به سهام عدالت و یک صندلی به تاپیکو.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Three of Fars's board seats went to the Oil Industry Pension Fund group, one seat to Justice Shares and one seat to Tapico.' Published 25 Shahrivar 1405 (16 September 2026), news code 57909."
+    }
+  ]
+}

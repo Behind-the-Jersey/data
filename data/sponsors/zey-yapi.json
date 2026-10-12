@@ -1,12 +1,14 @@
 {
   "id": "zey-yapi",
   "name": "Zey Yapı",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "zey-yapi",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Zey Yapı, a Turkish construction contractor set up in 2001, is owned by Mehmet Zeki Peker. Nothing found.",
+  "claimIds": [
+    "zey-yapi-ownership"
+  ],
   "aliases": [],
-  "note": "Back-of-shorts sponsor of Fenerbahçe's men's basketball team for 2026/27 (Anasponsor, 10-16 Aug 2026). Owner not researched yet."
+  "note": "Rated none 2026-10-01. Back-of-shorts sponsor of Fenerbahçe's men's basketball team for 2026/27 (Anasponsor, 10-16 Aug 2026). Identity check: zeyyapi.com.tr (a 2001 contractor) lists the same hospital projects — Aydın 950-bed, Sivas Numune, Çankırı, Akhisar — as the tenders ABC Gazetesi reports for Mehmet Zeki Peker's Zey Yapı, so the sponsor is this company, not the separate Hakkari firm of the same name. Winning public tenders and an AKP candidacy are not a human-rights record under METHOD.md; no record that passes the test was found."
 }

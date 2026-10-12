@@ -5,10 +5,13 @@
   "ownership": "owned",
   "tier": "unrated",
   "status": "being-rated",
-  "verdict": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
+  "verdict": "Pulsee Luce e Gas is the domestic-customer energy retailer of Axpo Italia, the Italian branch of the Swiss Axpo Group; Axpo Holding AG is 100% owned by Swiss cantons and their utilities. Nothing found.",
   "claimIds": [
+    "pulsee-axpo-italia-ownership",
     "axpo-holding-ag-record"
   ],
-  "aliases": [],
-  "note": "Rating note: Cantons are treated as 'state' (public-law bodies), which is why this lands at 'serious' rather than 'none'. The shareholder table on the page carries a 2014 date but the structure is current. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs."
+  "aliases": [
+    "Pulsee"
+  ],
+  "note": "Rating note: the owner chain is fully sourced (Pulsee Luce e Gas → Axpo Italia → Axpo Holding AG → Swiss cantons and their utilities). The public owner is in a state with no sourced record of serious abuses, and METHOD.md names Swiss cantons explicitly as public owners that are not a link to abuse; no human-rights finding against Axpo was found either. Proposed tier: none (a maintainer sets it); held as being-rated until then."
 }

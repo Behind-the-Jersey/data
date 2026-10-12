@@ -4,13 +4,18 @@
   "orgName": "Xfinity Mobile (Comcast)",
   "sponsorId": "xfinity-mobile",
   "placement": "stadium",
-  "from": "2026",
-  "to": null,
+  "from": "2025",
+  "to": "2030-31",
   "value": null,
   "source": {
     "name": "ESPN / Associated Press",
     "date": "2025-05-06",
-    "url": "https://www.espn.com/nhl/story/_/id/45025071/76ers-flyers-arena-lands-naming-rights-deal-xfinity-mobile"
+    "url": "https://www.espn.com/nhl/story/_/id/45025071/76ers-flyers-arena-lands-naming-rights-deal-xfinity-mobile",
+    "quote": "The arena will be renamed Xfinity Mobile Arena, effective Sept. 1 and running through the 2030-2031 season.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Xfinity Mobile Arena."
+  "note": "Arena naming rights: Xfinity Mobile Arena. Deal start is the rename date in the source (Sept. 1, 2025); the record previously said 2026."
 }

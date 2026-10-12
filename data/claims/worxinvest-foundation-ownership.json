@@ -1,0 +1,21 @@
+{
+  "id": "worxinvest-foundation-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "worxinvest",
+    "sd-worx-for-society"
+  ],
+  "text": "WorxInvest is entirely owned by the cooperative society SD Worx for Society, which is in turn held by two private foundations, SD and SD Patrimonium.",
+  "short": "WorxInvest is fully owned by a cooperative held by two private foundations.",
+  "source": {
+    "name": "WorxInvest - About (worxinvest.com)",
+    "date": "2026",
+    "url": "https://www.worxinvest.com/about",
+    "quote": "WorxInvest is entirely owned by the cooperative society SD Worx for Society, which is in turn held by two private foundations: SD and SD Patrimonium.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

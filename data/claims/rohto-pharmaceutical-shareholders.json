@@ -1,0 +1,20 @@
+{
+  "id": "rohto-pharmaceutical-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "rohto-pharmaceutical"
+  ],
+  "text": "Rohto Pharmaceutical Co., Ltd.'s largest shareholders (as of 2026-03-31) were The Master Trust Bank of Japan (trust account, 13.46%), State Street Bank and Trust Company (5.44%), Custody Bank of Japan (trust account, 4.92%) and Yamada Kosan LLC (3.72%, a founding Yamada family vehicle); no state or sovereign shareholder appears in the company's top-10 list.",
+  "short": "Rohto's top holders are trust banks, State Street and the founding family's company; no state shareholder.",
+  "source": {
+    "name": "ロート製薬株式会社 IR: 株式状況 — 株主構成（大株主）",
+    "date": "2026-03-31",
+    "url": "https://www.rohto.co.jp/ir/stock/overview/",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 30,437 13.46 STATE STREET BANK AND TRUST COMPANY 505223 12,302 5.44 株式会社日本カストディ銀行（信託口） 11,139 4.92",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

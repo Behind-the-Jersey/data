@@ -1,0 +1,20 @@
+{
+  "id": "leag-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "lausitz-energie-bergbau-ag"
+  ],
+  "text": "Lausitz Energie Bergbau AG is a public limited company (Aktiengesellschaft) registered in the commercial register of the Cottbus Local Court (HRB 3326), based in Cottbus.",
+  "source": {
+    "name": "LEAG: Impressum",
+    "date": "2026",
+    "url": "https://www.leag.de/de/service/impressum/",
+    "quote": "Diensteanbieter im Sinne des § 5 Digitale-Dienste-Gesetz ist die Lausitz Energie Bergbau AG Leagplatz 1 03050 Cottbus",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'The service provider within the meaning of § 5 of the Digital Services Act (Digitale-Dienste-Gesetz) is Lausitz Energie Bergbau AG, Leagplatz 1, 03050 Cottbus'."
+  },
+  "reviewed": false
+}

@@ -1,11 +1,13 @@
 {
   "id": "geico",
   "name": "GEICO",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "berkshire-hathaway",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "geico-berkshire-ownership"
+  ],
   "aliases": []
 }

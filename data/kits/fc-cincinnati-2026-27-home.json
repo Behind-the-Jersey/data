@@ -12,13 +12,49 @@
       "sponsorId": "mercy-health",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
+        "name": "FC Cincinnati: 'FC Cincinnati unveil The Orange and Blue Legacy Kit'",
+        "date": "2025-02-12",
+        "url": "https://www.fccincinnati.com/news/fc-cincinnati-unveil-the-orange-and-blue-legacy-kit",
+        "quote": "The primary sponsor, Mercy Health, is featured at the center of the jersey",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The Orange and Blue Legacy Kit, launched February 2025, is the club's primary jersey; the club's Kit Vault still lists it among the current kits in 2026. FOR SOCCER's 2026 MLS jersey-sponsor list (https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/, 2026-02-17) confirms Mercy Health as FC Cincinnati's front-of-jersey partner for 2026."
+      }
+    },
+    {
+      "sponsorId": "kroger",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Cincinnati: 'FC Cincinnati unveil The Orange and Blue Legacy Kit'",
+        "date": "2025-02-12",
+        "url": "https://www.fccincinnati.com/news/fc-cincinnati-unveil-the-orange-and-blue-legacy-kit",
+        "quote": "complemented by the secondary sponsor, Kroger, located on the wearer's right sleeve",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Right sleeve. Kroger has been the club's sleeve partner since at least the 2023 River Kit (club Kit Vault: 'Kroger returned as FC Cincinnati's sleeve partner'); FOR SOCCER's 2026 list again names Kroger on the right sleeve."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "League-wide Apple TV patch on the left sleeve; the same page's sleeve table lists 'Apple TV' on FC Cincinnati's left sleeve and Kroger on the right. Apple pays MLS, not the club (see the mls-apple-tv deal)."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "The Orange and Blue Legacy Kit, the club's primary jersey since February 2025, worn again in 2026. Mercy Health is on the front; Kroger is the secondary sponsor on the right sleeve; the league-wide Apple TV+ patch is on the left sleeve of every MLS kit. All MLS clubs wear Adidas."
 }

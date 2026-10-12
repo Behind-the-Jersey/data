@@ -3,14 +3,20 @@
   "clubId": "cadillac",
   "orgName": null,
   "sponsorId": "tommy-hilfiger",
-  "placement": "partner",
+  "placement": "front",
   "from": "2026",
   "to": null,
   "value": null,
   "source": {
-    "name": "Cadillac Formula 1 Team – Official Partners",
-    "date": "2026-09-24",
-    "url": "https://www.cadillacf1team.com/partners"
+    "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+    "date": "2026-02-09",
+    "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+    "quote": "Clothing brand Tommy Hilfiger is among several logos featuring on the nosecone.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Tommy Hilfiger logo on the nosecone."
   },
-  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+  "note": "Cadillac Formula 1 Team front partner on the 2026 car."
 }

@@ -1,12 +1,18 @@
 {
   "id": "lilley-plummer-risks",
   "name": "Lilley Plummer Risks",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Insurance broker owned by Goldman Sachs since 2024; West Ham's official sleeve partner from 2026/27."
+  "ownerId": "the-clear-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by The Clear Group, which is owned by Goldman Sachs (Private Equity at Goldman Sachs Alternatives; Business Insurance reports The Goldman Sachs Group, Inc. as majority owner). Nothing found.",
+  "claimIds": [
+    "lpr-clear-group-ownership",
+    "clear-group-goldman-ownership"
+  ],
+  "aliases": [
+    "LPR",
+    "Lilley Plummer"
+  ],
+  "note": "Rating note: chain is Lilley Plummer Risks Limited -> The Clear Group (acquired October 2024) -> Goldman Sachs. No human-rights record found against Lilley Plummer Risks, The Clear Group or Goldman Sachs of the kind METHOD.md counts (Goldman's 1MDB bribery settlement is a financial/bribery record, which does not count)."
 }

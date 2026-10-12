@@ -8,9 +8,14 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "Zoomph (NFL practice-jersey sponsor tracker)",
-    "date": "2026-09-01",
-    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    "name": "tEDmag: Eaton Teams Up With the Cleveland Browns",
+    "date": "2026-09-03",
+    "url": "https://tedmag.com/eaton-teams-up-with-the-cleveland-browns/",
+    "quote": "Eaton's logo will also appear on Browns practice jerseys.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Practice-jersey patch."
+  "note": "Practice-jersey patch. Multi-year collaboration announced 2026-09-03; eaton.com press release timed out for the checking script, so the trade-press report is cited."
 }

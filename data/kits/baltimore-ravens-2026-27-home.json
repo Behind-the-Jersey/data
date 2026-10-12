@@ -12,9 +12,15 @@
       "sponsorId": "perdue-farms",
       "placement": "training-kit",
       "source": {
-        "name": "Sports Business Journal",
+        "name": "Baltimore Ravens (club announcement)",
         "date": "2026-07-20",
-        "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+        "url": "https://www.baltimoreravens.com/news/ravens-perdue-partnership-team-up-official-chicken-jersey-patch-maryland-food-bank",
+        "quote": "The debut of the Perdue logo patch on Ravens practice jerseys, beginning this season.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Club's own release also published as a press release: /news/perdue-named-official-chicken-of-the-baltimore-ravens"
       }
     }
   ],

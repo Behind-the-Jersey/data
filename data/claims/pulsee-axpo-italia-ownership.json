@@ -1,0 +1,21 @@
+{
+  "id": "pulsee-axpo-italia-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "axpo-holding-ag"
+  ],
+  "text": "Pulsee Luce e Gas is the domestic-customer energy retailer of Axpo Italia, and Axpo Italia is the Italian branch of the Axpo Group, which was founded in Switzerland and is active in more than 30 countries.",
+  "short": "Pulsee Luce e Gas belongs to Axpo Italia, the Italian branch of the Swiss Axpo Group.",
+  "source": {
+    "name": "Pulsee, 'Chi siamo – Dove nasce la nostra energia'",
+    "date": "2026",
+    "url": "https://pulsee.it/chi-siamo",
+    "quote": "Axpo Italia è la filiale del Gruppo Axpo, nato in Svizzera e attivo in più di 30 Paesi",
+    "note": "Translation: 'Axpo Italia is the branch of the Axpo Group, born in Switzerland and active in more than 30 countries.' The same section, headed 'Siamo parte del Gruppo Axpo' (We are part of the Axpo Group), says 'Pulsee è la società energy per i clienti domestici, parte di Axpo Italia' (Pulsee is the energy company for domestic customers, part of Axpo Italia). Pulsee's site footer likewise reads 'Pulsee S.r.l. - Società soggetta a direzione e coordinamento da parte di Axpo Italia S.p.A.' (subject to management and coordination of Axpo Italia).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

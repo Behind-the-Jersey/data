@@ -1,14 +1,16 @@
 {
   "id": "intermarche",
   "name": "Intermarché",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "groupement-mousquetaires",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Intermarché is one of the seven brands of the Groupement Mousquetaires, a private French retail group of independent entrepreneurs. Nothing found.",
+  "claimIds": [
+    "intermarche-mousquetaires-ownership"
+  ],
   "aliases": [
     "les mousquetaires"
   ],
-  "note": "French supermarket chain."
+  "note": "Rating note: Intermarché is a Groupement Mousquetaires brand (intermarche-mousquetaires-ownership); a privately held retailer with no state owner and no human-rights finding in the dataset, so 'nothing found'."
 }

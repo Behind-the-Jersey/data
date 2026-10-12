@@ -1,0 +1,32 @@
+{
+  "id": "akfa-founder-artykkhodzhaev",
+  "kind": "ownership",
+  "ownerIds": [
+    "akfa-group"
+  ],
+  "text": "Jahongir Artykkhodjaev is the founder of the Akfa group of companies; Gazeta.uz and Spot identify him as such, and Gazeta adds that he was hokim (mayor) of Tashkent in 2018-2023.",
+  "short": "Akfa Group was founded by Jahongir Artykkhodjaev (Tashkent hokim 2018-2023).",
+  "source": {
+    "name": "Gazeta.uz: 'Akfa начала строительство завода в США с планируемыми инвестициями на $600 млн — Джахонгир Артыкходжаев'",
+    "date": "2025-11-10",
+    "url": "https://www.gazeta.uz/ru/2025/11/10/us-akfa/",
+    "quote": "Об этом в интервью программе «Менимча» телеканала «Узбекистан 24» сообщил основатель группы компаний Джахонгир Артыкходжаев.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Spot.uz: 'Akfa совместно с турецким партнером построит фабрику в США за $600 млн — Артыкходжаев'",
+      "date": "2025-11-10",
+      "url": "https://www.spot.uz/ru/2025/11/10/akfa-usa/",
+      "quote": "Об этом сообщил основатель Akfa Group Джахонгир Артыкходжаев в интервью телеканалу Oʻzbekiston 24.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

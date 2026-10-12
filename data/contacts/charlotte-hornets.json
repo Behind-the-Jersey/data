@@ -7,7 +7,12 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/hornets/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "arenainfo@hornets.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -17,27 +22,42 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/hornets/contact",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "Contact Page | Charlotte Hornets",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@hornets",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website",
         "url": "https://www.nba.com/hornets/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "\"twitter\":\"https://twitter.com/hornets\"",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@hornets",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website",
         "url": "https://www.nba.com/hornets/",
-        "date": "2026-09-24"
+        "date": "2026-10-01",
+        "quote": "\"instagram\":\"https://www.instagram.com/hornets/\"",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

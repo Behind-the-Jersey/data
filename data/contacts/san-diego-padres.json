@@ -4,19 +4,46 @@
     {
       "type": "email",
       "value": "comments@padres.com",
+      "label": "General Comments",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/padres/official-information/contact",
-        "date": "2026-09-24"
+        "name": "San Diego Padres contact page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260929164906/https://www.mlb.com/padres/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "General Comments",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "email",
       "value": "tickets@padres.com",
+      "label": "General Ticket Information",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/padres/official-information/contact",
-        "date": "2026-09-24"
+        "name": "San Diego Padres contact page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260929164906/https://www.mlb.com/padres/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "General Ticket Information",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1-619-795-5000",
+      "label": "Main phone line",
+      "source": {
+        "name": "San Diego Padres contact page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260929164906/https://www.mlb.com/padres/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "Main Phone Line: (619) 795-5000",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +51,46 @@
       "value": "https://www.mlb.com/padres/official-information/contact",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/padres/official-information/contact",
-        "date": "2026-09-24"
+        "name": "San Diego Padres contact page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20260929164906/https://www.mlb.com/padres/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "Contact the Padres",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@padres",
+      "label": "Padres on X",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/padres",
-        "date": "2026-09-24"
+        "name": "San Diego Padres social page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20251113191204/https://www.mlb.com/padres/social",
+        "date": "2026-10-01",
+        "quote": "The Official Accounts of the Padres",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@padres",
+      "label": "Padres on Instagram",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/padres",
-        "date": "2026-09-24"
+        "name": "San Diego Padres social page, read via the Wayback Machine",
+        "url": "http://web.archive.org/web/20251113191204/https://www.mlb.com/padres/social",
+        "date": "2026-10-01",
+        "quote": "The Official Accounts of the Padres",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

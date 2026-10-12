@@ -4,12 +4,18 @@
   "ownerIds": [
     "ucla-health-owner"
   ],
-  "text": "UCLA Health is ultimately owned by the University of California, a state entity.",
-  "short": "UCLA Health is ultimately owned by the University of California, a state entity.",
+  "text": "UCLA Health is one of the academic health centers of the University of California.",
+  "short": "UCLA Health is one of the University of California's academic health centers.",
   "source": {
-    "name": "UCLA Health About Us",
-    "date": "2026-09-25",
-    "url": "https://www.uclahealth.org/about-us/"
+    "name": "University of California Health — UCLA Health",
+    "date": "2026",
+    "url": "https://health.universityofcalifornia.edu/patient-care/academic-health-centers/ucla-health",
+    "quote": "our physicians and researchers work across the University of California system to exchange knowledge with clinicians at our other academic health centers",
+    "note": "University of California Health's own page on UCLA Health, under its Academic Health Centers listing.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "reviewed": false
 }

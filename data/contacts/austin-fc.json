@@ -2,6 +2,36 @@
   "clubId": "austin-fc",
   "channels": [
     {
+      "type": "email",
+      "value": "GuestServices@AustinFC.com",
+      "label": "Guest Services",
+      "source": {
+        "name": "Austin FC – Q2 Stadium A-Z Guide",
+        "url": "https://www.austinfc.com/stadium/az-guide",
+        "date": "2026-10-01",
+        "quote": "Fans with additional questions can contact Q2 Stadium Guest Services via GuestServices@AustinFC.com.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "email",
+      "value": "FanConduct@AustinFC.com",
+      "label": "Supporter conduct",
+      "source": {
+        "name": "Austin FC – Q2 Stadium A-Z Guide",
+        "url": "https://www.austinfc.com/stadium/az-guide",
+        "date": "2026-10-01",
+        "quote": "For Home Supporter (Austin Anthem, La Murga, & Los Verdes) exemptions, please contact FanConduct@austinfc.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@AustinFC",
       "source": {
@@ -20,5 +50,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

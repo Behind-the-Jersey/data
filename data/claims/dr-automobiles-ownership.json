@@ -1,0 +1,21 @@
+{
+  "id": "dr-automobiles-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dr-automobiles-groupe"
+  ],
+  "text": "DR Automobiles Groupe, born in Molise with its plant in Macchia d'Isernia, is the carmaker that Massimo Di Risio built, growing from a 1980s car-distribution activity; its first model, the DR5, launched in 2006.",
+  "short": "DR Automobiles Groupe is the carmaker built by Massimo Di Risio",
+  "source": {
+    "name": "La Gazzetta dello Sport (Gazzetta Motori), 'DR Automobiles Groupe: la scommessa di Massimo Di Risio'",
+    "date": "2026-05-27",
+    "url": "https://www.gazzetta.it/motori/la-mia-auto/27-05-2026/dr-automobiles-groupe-storia-crescita-e-strategia-del-costruttore-molisano.shtml",
+    "quote": "Massimo Di Risio ha costruito un gruppo che oggi guarda all’Europa con nuovi progetti industriali e una gamma sempre più ampia",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The article's lead also states: 'Dalle corse in pista all'intuizione di \"città dell'auto\" ... Massimo Di Risio ha costruito un gruppo'. The club's own release (uslecce.it, 25 Jul 2023) names him 'Presidente di DR Automobiles Groupe'. The company's exact shareholder split isn't published."
+  },
+  "reviewed": false
+}

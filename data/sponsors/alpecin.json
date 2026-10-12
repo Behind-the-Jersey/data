@@ -1,12 +1,17 @@
 {
   "id": "alpecin",
   "name": "Alpecin",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "German caffeine shampoo brand (Dr. Wolff Group)."
+  "ownerId": "dr-wolff-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Alpecin is a shampoo brand of Dr. Wolff Group, a Bielefeld family business in its fourth generation. Nothing found.",
+  "claimIds": [
+    "alpecin-dr-wolff-ownership"
+  ],
+  "aliases": [
+    "Alpecin DMG Shampoo",
+    "Alpecin DMG"
+  ],
+  "note": "German caffeine shampoo brand (Dr. Wolff Group). Rating note: family-owned German consumer group (claim alpecin-dr-wolff-ownership); no state capital, no relevant record found."
 }

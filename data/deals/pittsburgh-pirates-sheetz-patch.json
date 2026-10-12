@@ -8,9 +8,15 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "Pittsburgh Pirates / MLB.com press release",
+    "name": "MLB.com press release: Pittsburgh Pirates and Sheetz announce jersey patch partnership (archived)",
     "date": "2024-06-21",
-    "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+    "url": "http://web.archive.org/web/20240712152458/https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership",
+    "note": "Club press release, read via the Wayback Machine capture of 2024-07-12 because the live mlb.com page blocks scripts. The page is dated June 21st, 2024.",
+    "quote": "The Pittsburgh Pirates and Sheetz today announced a multi-year partnership in which the ultimate one-stop shop convenience chain will serve as the club’s first jersey patch partner.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch on the sleeves of the home and away jerseys; the club's first jersey patch partner."
 }

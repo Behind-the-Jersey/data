@@ -7,7 +7,12 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/pacers/contact-us-pacers",
-        "date": "2026-09-24"
+        "date": "2026-09-01",
+        "quote": "Indiana Pacers 125 S. Pennsylvania Street Indianapolis, IN 46204 Phone: (317) 917-2500 Email: GuestServices@Pacers.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -17,9 +22,14 @@
       "source": {
         "name": "Club website contact page",
         "url": "https://www.nba.com/pacers/contact-us-pacers",
-        "date": "2026-09-24"
+        "date": "2026-09-01",
+        "quote": "Before submitting your inquiry, please review our Frequently Asked Questions to see if your question has already been answered.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

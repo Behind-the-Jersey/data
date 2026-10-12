@@ -1,0 +1,21 @@
+{
+  "id": "samart-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "samart-corporation"
+  ],
+  "text": "Samart Corporation PCL (listed on the Stock Exchange of Thailand) is controlled by the Vilailuck family: its top-ten major shareholders report of 30 December 2025 shows the Vilailuck Group holding 42.176%, with the other top-ten entries individuals and Thai private companies.",
+  "short": "Samart Corp is SET-listed; the Vilailuck family group holds 42.176%.",
+  "source": {
+    "name": "Samart Corporation PCL: Major Shareholders (investor page)",
+    "date": "2025-12-30",
+    "url": "https://www.samartcorp.com/en/major-shareholders-en/",
+    "quote": "Vilailuck Group (1) 424,500,495 42.176",
+    "note": "The page ('Major shareholders' report on December 30, 2025 prepared by Thailand Securities Depository') lists the Vilailuck group and nine other non-state holders.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

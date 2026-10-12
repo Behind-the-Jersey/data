@@ -1,0 +1,33 @@
+{
+  "id": "skyward-specialty-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "skyward-specialty-insurance-group"
+  ],
+  "text": "Skyward Group, the front-of-jersey sponsor of USA Rugby's national teams, is the unified holding-company brand of Skyward Specialty Insurance Group, Inc., a Nasdaq-listed US specialty insurer (SKWD) whose businesses include Skyward Specialty and Apollo. Its 2026 proxy statement lists BlackRock (6.35%), James Hays (6.33%), Reinhart Partners (5.43%), Vanguard (5.1%) and Capital International Investors (5%) as its only 5%-or-more shareholders.",
+  "source": {
+    "name": "Skyward Specialty Insurance Group: 2026 Proxy Statement (DEF 14A), Security Ownership of Certain Beneficial Owners and Management (SEC EDGAR)",
+    "date": "2026-03-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1519449/000151944926000021/skwd-20260324.htm",
+    "quote": "BlackRock, Inc. (1) 2,830,571 6.35% James Hays (2) 2,821,020 6.33% Reinhart Partners, LLC (3) 2,416,753 5.43% Vanguard Group, Inc. (4) 2,258,663 5.1%",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Shareholder table '5% and Greater Shareholders' in the DEF 14A filed 2026-03-25; Capital International Investors follows at 5%. No state or state fund appears."
+  },
+  "additionalSources": [
+    {
+      "name": "USA Rugby: Skyward Group unveiled as Official Front-of-Jersey sponsor of USA Rugby",
+      "date": "2026-04-08",
+      "url": "https://eagles.rugby/news/skyward-group-unveiled-as-official-frontofjersey-sponsor-usa-rugby-202647",
+      "quote": "Skyward Group (Nasdaq: SKWD) (“the Group” or “the Company”), the unified specialty insurance organization whose operating businesses include Skyward Specialty Insurance Group, Inc.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Identifies the Skyward Group shirt sponsor as the brand of Nasdaq-listed Skyward Specialty Insurance Group. The live page rate-limited scripts (429); text verified on the Wayback Machine capture of 2026-04-30."
+    }
+  ],
+  "reviewed": false
+}

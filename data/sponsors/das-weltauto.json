@@ -3,10 +3,11 @@
   "name": "Das WeltAuto",
   "ownerId": "volkswagen-ag",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "being-rated",
+  "tier": "concern",
+  "status": "rated",
   "verdict": "Volkswagen Group's used-car brand; Qatar Holding LLC holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights.",
   "claimIds": [
+    "qatar-migrant-worker-abuse-2025",
     "das-weltauto-volkswagen-ownership",
     "qatar-holding-vw-stake",
     "qatar-holding-qia-ownership",
@@ -15,5 +16,17 @@
   "aliases": [
     "Das WeltAuto Portugal"
   ],
-  "note": "Official partner of FC Alverca - Futebol SAD from 2026-27, providing the club's mobility (Fleet Magazine; O Jogo, 29 July 2026); named on the back of Alverca's 2026-27 shirt only by Wikipedia's kit table, so it isn't on the kit record yet. Rating note: on hold for a maintainer, like skoda: Volkswagen AG, whose used-car brand this is, is 10.4% owned (17.0% of votes) by Qatar Holding LLC, part of the Qatar Investment Authority (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); Qatar's record is recorded (qatar-migrant-worker-abuse-2025). That passes the 5% test, so 'none' can't stand."
+  "note": "Official partner of FC Alverca - Futebol SAD from 2026-27, providing the club's mobility (Fleet Magazine; O Jogo, 29 July 2026); named on the back of Alverca's 2026-27 shirt only by Wikipedia's kit table, so it isn't on the kit record yet. Rating note: concern: Volkswagen AG, whose used-car brand this is, is 10.4% owned (17.0% of votes) by Qatar Holding LLC, part of the Qatar Investment Authority (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); Qatar's record is recorded (qatar-migrant-worker-abuse-2025). It passes the 5% test. Rated concern on 2026-10-01 (maintainer decision): Qatar's stake in Volkswagen AG is a link without control.",
+  "why": {
+    "text": "Das WeltAuto is the Volkswagen Group's used-car brand, and Qatar Holding LLC, the investment arm of Qatar's sovereign wealth fund, the Qatar Investment Authority, holds 10.4% of Volkswagen's subscribed capital and 17.0% of its voting rights. So the Qatari state's money is behind Das WeltAuto. Amnesty International and Human Rights Watch both report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "das-weltauto-volkswagen-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International reports that migrant workers in Qatar continued to face labour abuses, including an exploitative kafala sponsorship system, despite recent legal reforms.",
+    "status": "draft"
+  }
 }

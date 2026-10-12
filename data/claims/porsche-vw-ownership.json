@@ -1,0 +1,44 @@
+{
+  "id": "porsche-vw-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "porsche-ag",
+    "volkswagen-ag"
+  ],
+  "text": "Volkswagen AG indirectly holds 75.4% of the share capital of Dr. Ing. h.c. F. Porsche AG, via Porsche Holding Stuttgart GmbH. Porsche AG states that its ordinary shares are held indirectly by Volkswagen AG and Porsche SE, and the majority of its preferred shares indirectly by Volkswagen AG. The Volkswagen Group lists Porsche AG among the companies in which Volkswagen AG holds direct or indirect interests.",
+  "short": "Volkswagen AG indirectly holds 75.4% of Porsche AG’s share capital.",
+  "source": {
+    "name": "Dr. Ing. h.c. F. Porsche AG, Investor Relations: Shareholder Structure",
+    "date": "2026",
+    "url": "https://investorrelations.porsche.com/en/the-share/shareholder-structure",
+    "quote": "Volkswagen AG indirectly holds its shares via Porsche Holding Stuttgart GmbH",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Volkswagen Group Annual Report 2025: Structure and Business Activities",
+      "date": "2026-03-10",
+      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/structure-and-business-activities.html",
+      "quote": "Volkswagen AG holds direct or indirect interests in AUDI AG, SEAT S.A., Škoda Auto a.s., Dr. Ing. h.c. F. Porsche AG",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Fundamental Information about the Porsche Group",
+      "date": "2026",
+      "url": "https://newsroom.porsche.com/en/annual-sustainability-report/combined-management-report/fundamental-information-about-the-group/",
+      "quote": "Volkswagen AG indirectly holds, via Porsche Holding Stuttgart GmbH, 75.4% of Porsche AG’s share capital.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+      },
+      "note": "Porsche AG's online Annual and Sustainability Report 2025, combined management report."
+    }
+  ],
+  "reviewed": false
+}

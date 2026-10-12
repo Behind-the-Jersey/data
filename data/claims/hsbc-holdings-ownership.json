@@ -1,0 +1,20 @@
+{
+  "id": "hsbc-holdings-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "hsbc-holdings"
+  ],
+  "text": "The HSBC brand belongs to the HSBC Group, whose principal holding company, HSBC Holdings plc, is a public limited company incorporated in England, headquartered in London and listed on the London, Hong Kong, New York and Bermuda stock exchanges.",
+  "short": "HSBC is the brand of HSBC Holdings plc, a listed UK company.",
+  "source": {
+    "name": "HSBC: Investors — Group structure",
+    "date": "2026",
+    "url": "https://www.hsbc.com/investors/investing-in-hsbc/group-structure",
+    "quote": "Our principal holding company, HSBC Holdings plc, is a public limited company incorporated in England.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

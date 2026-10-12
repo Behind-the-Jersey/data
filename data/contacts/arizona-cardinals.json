@@ -46,7 +46,22 @@
         "url": "https://www.azcardinals.com/",
         "date": "2026-09-24"
       }
+    },
+    {
+      "type": "phone",
+      "value": "+16023790101",
+      "label": "General operator",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.azcardinals.com/about-us/contact-us",
+        "date": "2026-10-01",
+        "quote": "To reach the general operator during normal business hours: (602) 379-0101",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

@@ -12,9 +12,14 @@
       "sponsorId": "jpmorganchase",
       "placement": "patch",
       "source": {
-        "name": "JPMorgan Chase Newsroom",
+        "name": "JPMorgan Chase Newsroom: Dallas Mavericks and JPMorganChase announce multi-year strategic partnership",
         "date": "2026-07-08",
-        "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+        "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs",
+        "quote": "the Mavericks will feature the Chase logo on the upper left side of all four official Dallas Mavericks player jerseys",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],

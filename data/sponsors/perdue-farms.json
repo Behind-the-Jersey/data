@@ -3,12 +3,13 @@
   "name": "Perdue Farms",
   "ownerId": "perdue-farms-owner",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Owned by Perdue Farms. Nothing found.",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
   "claimIds": [
-    "perdue-farms-owner-record"
+    "perdue-farms-owner-record",
+    "perdue-farms-child-labor-record"
   ],
   "aliases": [],
-  "note": "Rating note: Perdue Farms is 100% family-owned (Perdue family); no state stake or government control. No documented human-rights concerns in ownership chain identified."
+  "note": "Rating note: the ownership claim cites Perdue's own release (\"fourth-generation, family-owned, U.S. food and agriculture company\", 2026-07-20). A US Department of Labor investigation found Perdue jointly employed children in hazardous occupations at its Accomac, Va. plant (2025-01-15; $4M restitution, $150,000 civil penalty). Held at unrated for a maintainer to weigh that company finding against METHOD.md."
 }

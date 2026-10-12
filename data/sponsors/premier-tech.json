@@ -1,12 +1,17 @@
 {
   "id": "premier-tech",
   "name": "Premier Tech",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Canadian horticulture/packaging company."
+  "ownerId": "premier-tech-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Premier Tech is a private Canadian industrial group; Bernard Bélanger bought it in 1978 and the family still runs it. Nothing found.",
+  "claimIds": [
+    "premier-tech-belanger-ownership"
+  ],
+  "aliases": [
+    "Premier Tech Ltd",
+    "PremierTech"
+  ],
+  "note": "Canadian horticulture/packaging/water-treatment group. Rating note: private since 2007; Bélanger family control documented (claim premier-tech-belanger-ownership); no state in the chain, no relevant record found."
 }

@@ -1,0 +1,21 @@
+{
+  "id": "wacoal-holdings-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "wacoal-holdings-corp"
+  ],
+  "text": "Wacoal Holdings Corp. (TSE code 3591) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (Trust Account) (9.7%), Meiji Yasuda Life Insurance Company (6.17%), The Bank of Kyoto, Ltd. (4.76%), MUFG Bank, Ltd. (4.62%), Goldman Sachs International (3.55%), Nippon Life Insurance Company (3.18%), The Shiga Bank, Ltd. (3.17%), Custody Bank of Japan, Ltd. (trust account, 3.17%) and Mitsubishi UFJ Trust and Banking Corporation (3.08%).",
+  "short": "Wacoal Holdings is Tokyo-listed; largest holders are Master Trust (9.7%) and Meiji Yasuda Life (6.17%).",
+  "source": {
+    "name": "Wacoal Holdings: Stock Information",
+    "date": "2026-03-31",
+    "url": "https://www.wacoalholdings.jp/en/ir/information/",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) (9.7％) Meiji Yasuda Life Insurance Company (6.17％)",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page labels the list 'Major shareholders ... (As of March 31,2026)'."
+  },
+  "reviewed": false
+}

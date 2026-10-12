@@ -1,12 +1,17 @@
 {
   "id": "foundation-building-materials",
   "name": "Foundation Building Materials (FBM)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "foundation-building-materials-owner",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "claimIds": [
+    "foundation-building-materials-lowes-ownership",
+    "lowes-companies-record"
+  ],
+  "aliases": [
+    "FBM"
+  ],
+  "note": "Acquired by Lowe's Companies, Inc. in October 2025; previously owned by American Securities and CD&R. Tier proposed in #105: none."
 }

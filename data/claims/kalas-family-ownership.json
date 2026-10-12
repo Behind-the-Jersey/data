@@ -1,0 +1,20 @@
+{
+  "id": "kalas-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kalas-sportswear"
+  ],
+  "text": "KALAS Sportswear, the Tábor (Czech Republic) cycling-apparel manufacturer founded by former cyclist Čestmír Kalaš, remains a family-owned company.",
+  "short": "Kalas remains a family-owned company.",
+  "source": {
+    "name": "Kalas: 'Kalas Story'",
+    "date": "2026",
+    "url": "https://www.kalas.cc/kalas-story/",
+    "quote": "Kalas remains a family-owned company, dedicated to supporting the local community of Tábor at its headquarters in the Czech Republic.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

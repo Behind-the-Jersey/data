@@ -1,0 +1,33 @@
+{
+  "id": "topsport-fortuna-70-pct",
+  "kind": "ownership",
+  "ownerIds": [
+    "fortuna-entertainment-group"
+  ],
+  "text": "Czech betting group Fortuna Entertainment Group (FEG) acquired a 70% controlling stake in TOPsport; the deal was announced in March 2026 and formally completed by mid-August 2026.",
+  "source": {
+    "name": "15min.lt: „TOPsport“ parduodamas čekams: kas laukia Lietuvos futbolo?",
+    "date": "2026-03-26",
+    "url": "https://www.15min.lt/sportas/naujiena/futbolas/topsport-parduotas-cekams-kas-laukia-lietuvos-futbolo-24-2649954",
+    "quote": "„Fortuna Entertainmet Group“ (FEG) įsigijo 70 proc. „TOPsport“ akcijų",
+    "note": "Lithuanian. Translation: 'Fortuna Entertainment Group (FEG) acquired 70% of TOPsport shares' (typo 'Entertainmet' in the original). Article also details the pre-sale owners: Gintaras Staniulis 89.99% via Confluence Investment, remainder via Dainius Gulbinas's ALDA Holding.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "iGamingWorld: Fortuna Entertainment Completes Acquisition of TOPsport",
+      "date": "2026-08-17",
+      "url": "https://igamingworld.com/mergers-and-acquisitions/fortuna-acquisition-topsport/",
+      "quote": "has successfully completed its acquisition of a majority interest in TOPsport",
+      "note": "Confirms formal closure (70%) of the deal announced in March 2026.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -2,6 +2,36 @@
   "clubId": "dallas-mavericks",
   "channels": [
     {
+      "type": "email",
+      "value": "mavsfoundation@dallasmavs.com",
+      "label": "Mavs Foundation",
+      "source": {
+        "name": "Dallas Mavericks: Mavs Foundation contact",
+        "url": "https://www.nba.com/mavs/community/dallas-mavericks-foundation",
+        "date": "2026-10-01",
+        "quote": "Mavs Foundation 1333 N. Stemmons Freeway Ste. 150 Dallas, Texas 75207 (214) 747-6287 mavsfoundation@dallasmavs.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "type": "email",
+      "value": "tickets@dallasmavs.com",
+      "label": "Ticket disputes (per the club's ticket terms)",
+      "source": {
+        "name": "Dallas Mavericks: Ticket terms",
+        "url": "https://www.nba.com/mavs/ticketterms",
+        "date": "2026-10-01",
+        "quote": "If the Holder has a dispute, they shall send the Dispute Notice to tickets@dallasmavs.com.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@dallasmavs",
       "source": {
@@ -20,5 +50,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

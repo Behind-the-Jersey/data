@@ -1,0 +1,43 @@
+{
+  "id": "heise-medien-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "heise-medien-gmbh-co-kg"
+  ],
+  "text": "Heise Medien GmbH & Co. KG is a media limited partnership based in Hannover. Its legal notice calls it “a company of the Heise Gruppe”, and the Heise Gruppe names its shareholders as Ansgar Heise, Christian Heise and, since April 2023, Ansgar Heise’s three daughters, Charlotte, Johanna and Luise Heise.",
+  "source": {
+    "name": "heise online: Impressum",
+    "date": "2026",
+    "url": "https://www.heise.de/impressum.html",
+    "quote": "Heise Medien GmbH & Co. KG Karl-Wiechert-Allee 10 30625 Hannover",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "heise online: Impressum",
+      "date": "2026",
+      "url": "https://www.heise.de/impressum.html",
+      "quote": "Ein Unternehmen der Heise Gruppe",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+      },
+      "note": "Translation: 'A company of the Heise Gruppe'. The same legal notice names Heise Medien GmbH & Co. KG as responsible for the site."
+    },
+    {
+      "name": "heise group: Über uns",
+      "date": "2026",
+      "url": "https://www.heisegroup.de/ueber-uns.html",
+      "quote": "Seit April 2023 sind die drei Töchter von Ansgar Heise Gesellschafterinnen der Heise Gruppe.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Since April 2023, Ansgar Heise's three daughters have been shareholders of the Heise Gruppe.' Under the heading 'Die Gesellschafter' (the shareholders) the page lists Ansgar Heise ('Geschäftsführender Gesellschafter', managing shareholder), Christian Heise ('ist Gesellschafter der Heise Gruppe', is a shareholder of the Heise Gruppe) and Charlotte, Johanna and Luise Heise."
+    }
+  ],
+  "reviewed": false
+}

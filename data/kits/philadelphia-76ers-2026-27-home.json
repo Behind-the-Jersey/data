@@ -9,16 +9,21 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "crypto-com",
+      "sponsorId": "bloom-energy",
       "placement": "patch",
       "source": {
-        "name": "Front Office Sports",
-        "date": "2026-07-30",
-        "url": "https://frontofficesports.com/lebron-james-sixers-expiring-jersey-patch"
+        "name": "Philadelphia 76ers - Philadelphia 76ers and Bloom Energy Announce Multi-Year Partnership and Patch Deal",
+        "date": "2026-09-28",
+        "url": "https://www.nba.com/sixers/news/philadelphia-76ers-and-bloom-energy-announce-partnership-and-patch-deal",
+        "quote": "Bloom Energy will become the Official Jersey Patch Partner on the team’s uniforms",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Jersey patch: Crypto.com.",
+  "summary": "Jersey patch: Bloom Energy.",
   "change": null
 }

@@ -3,20 +3,32 @@
   "channels": [
     {
       "type": "email",
-      "value": "tickets@cardinals.com",
+      "value": "guestservices@cardinals.com",
+      "label": "Guest services",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website contact page (Contact the Cardinals)",
         "url": "https://www.mlb.com/cardinals/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-28",
+        "quote": "Customer Service for Game Day Issues",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
-      "type": "email",
-      "value": "ticketinfo@cardinals.com",
+      "type": "phone",
+      "value": "+13143459600",
+      "label": "Executive offices",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website contact page (Contact the Cardinals)",
         "url": "https://www.mlb.com/cardinals/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-28",
+        "quote": "Cardinals Executive Offices Mailing Address: 700 Clark Street St. Louis, MO 63102 Phone: (314) 345-9600",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +36,44 @@
       "value": "https://www.mlb.com/cardinals/official-information/contact",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website contact page (Contact the Cardinals)",
         "url": "https://www.mlb.com/cardinals/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-28",
+        "quote": "Contact the Cardinals",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@Cardinals",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/cardinals",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Contact the Cardinals)",
+        "url": "https://www.mlb.com/cardinals/official-information/contact",
+        "date": "2026-09-28",
+        "quote": "Follow the St. Louis Cardinals:",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@cardinals",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/cardinals",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Contact the Cardinals)",
+        "url": "https://www.mlb.com/cardinals/official-information/contact",
+        "date": "2026-09-28",
+        "quote": "Follow the St. Louis Cardinals:",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

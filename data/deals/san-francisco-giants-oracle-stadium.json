@@ -4,13 +4,18 @@
   "orgName": "Oracle",
   "sponsorId": "oracle",
   "placement": "stadium",
-  "from": null,
-  "to": null,
+  "from": "2019",
+  "to": "2038",
   "value": null,
   "source": {
-    "name": "Oracle Blogs",
+    "name": "Oracle Blogs: San Francisco Giants and Oracle Announce Oracle Park (Wayback Machine archive)",
     "date": "2019-01-10",
-    "url": "https://blogs.oracle.com/san-francisco-giants-and-oracle-announce-oracle-park"
+    "url": "https://web.archive.org/web/20210919115042/https://blogs.oracle.com/san-francisco-giants-and-oracle-announce-oracle-park",
+    "quote": "Oracle won the naming rights to the bayfront ballpark through 2038.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Oracle Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2019-01-10."
+  "note": "Oracle Park naming rights. Announced 2019-01-10; the announcement says the rights run through 2038. The live Oracle blog page returns 403 to scripts, so the archived copy is cited."
 }

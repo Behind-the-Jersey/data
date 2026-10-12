@@ -1,0 +1,32 @@
+{
+  "id": "jefferson-health-nonprofit",
+  "kind": "ownership",
+  "ownerIds": [
+    "jefferson-health-owner"
+  ],
+  "text": "Jefferson Health is a nonprofit health system and one of the three brands of the Jefferson enterprise.",
+  "short": "Jefferson Health is a nonprofit health system, one of the three brands of the Jefferson enterprise.",
+  "source": {
+    "name": "We Are Jefferson (wearejefferson.org) – Brands",
+    "date": "2026",
+    "url": "https://www.wearejefferson.org/brands/",
+    "quote": "We are among the top 15 nonprofit health systems in the U.S.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "We Are Jefferson (wearejefferson.org) – Brands",
+      "date": "2026",
+      "url": "https://www.wearejefferson.org/brands/",
+      "quote": "The Jefferson Enterprise – Three Distinct Brands",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

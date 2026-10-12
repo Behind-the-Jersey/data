@@ -10,7 +10,12 @@
   "source": {
     "name": "MLB.com (Philadelphia Phillies)",
     "date": "2024-07-31",
-    "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner"
+    "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner",
+    "quote": "the iconic IBX blue logo will adorn the sleeve of each of the Phillies’ team jerseys (home, away and City Connect)",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Jersey patch."
 }

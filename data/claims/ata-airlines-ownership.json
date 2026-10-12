@@ -1,0 +1,33 @@
+{
+  "id": "ata-airlines-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "daric-investment-group"
+  ],
+  "text": "ATA Airline is one of the companies of the Daric Investment Group, which profiles the airline on its own website. Named press reported ATA's owner as Mohammad Reza Zonouzi-Motlaq, the group's founder and owner.",
+  "short": "ATA Airlines is a Daric Investment Group company; press names its owner as Mohammad Reza Zonouzi-Motlaq.",
+  "source": {
+    "name": "Daric Investment Group: ATA Airline company profile",
+    "date": "2026-09-30",
+    "url": "https://daricgroup.com/en/company/ATA-Airline",
+    "quote": "ATA Airline Company | Daric Investment Group",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Undated corporate page on the group's site listing ATA Airline under its activity fields (Transportation)."
+  },
+  "additionalSources": [
+    {
+      "name": "MEED: Ata Airline launches in Iran",
+      "date": "2010-01-03",
+      "url": "https://www.meed.com/ata-airline-launches-in-iran/",
+      "quote": "Ata's owner, Mohammad-Reza Zonouzi-Motlaq has said the company currently has four 1996-model Boeing MD83 aircraft",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

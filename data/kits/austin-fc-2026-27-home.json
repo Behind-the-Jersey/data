@@ -12,13 +12,46 @@
       "sponsorId": "yeti",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
-        "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "name": "Austin FC – 'Austin FC Unveils \"The Heartbeat Kit\": New Primary Jersey for 2025-2026 Seasons'",
+        "date": "2025",
+        "url": "https://www.austinfc.com/news/austin-fc-unveils-the-heartbeat-kit-new-primary-jersey-for-2025-2026-seasons",
+        "quote": "Returning on the front of the jersey is legendary Austin-based premium outdoor brand YETI",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "siete-foods",
+      "placement": "sleeve",
+      "source": {
+        "name": "Austin FC – 'Austin FC Unveils \"The Heartbeat Kit\": New Primary Jersey for 2025-2026 Seasons'",
+        "date": "2025",
+        "url": "https://www.austinfc.com/news/austin-fc-unveils-the-heartbeat-kit-new-primary-jersey-for-2025-2026-seasons",
+        "quote": "Austin-based Mexican-American food brand Siete Foods is emblazoned on the right sleeve for the first time",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "Austin FC – 'Austin FC Unveils \"The Heartbeat Kit\": New Primary Jersey for 2025-2026 Seasons'",
+        "date": "2025",
+        "url": "https://www.austinfc.com/news/austin-fc-unveils-the-heartbeat-kit-new-primary-jersey-for-2025-2026-seasons",
+        "quote": "Apple TV will continue to share the left sleeve alongside the MLS crest.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "Verde home kit with green stripes. YETI returns on the front; Siete Foods has the right sleeve; the Apple TV league patch is on the left sleeve."
 }

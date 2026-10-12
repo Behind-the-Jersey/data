@@ -1,0 +1,21 @@
+{
+  "id": "european-food-euro-cake-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "european-food"
+  ],
+  "text": "Euro Cake (ยูโร่ เค้ก) is a snack-cake brand of European Food Public Company Limited (บริษัท ยูโรเปี้ยนฟู้ด จำกัด (มหาชน)).",
+  "short": "Euro Cake is a brand of European Food PCL.",
+  "source": {
+    "name": "European Food PCL - official site (eurofood.co.th), 'Euro Cake รสใหม่!'",
+    "date": "2026-10-01",
+    "url": "https://www.eurofood.co.th/th",
+    "quote": "ผลิตภัณฑ์พัฟเค้กสอดไส้ครีมมะพร้าว รสชาติใหม่ล่าสุด ภายใต้แบรนด์ ยูโร่ เค้ก",
+    "note": "The company site (footer: 'บริษัท ยูโรเปี้ยนฟู้ด จำกัด (มหาชน)') presents the puff cake under the ยูโร่ เค้ก (Euro Cake) brand; the about-us timeline lists ยูโร่เค้ก among the company's own brands.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

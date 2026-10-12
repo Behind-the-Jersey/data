@@ -7,8 +7,39 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "ved-master",
+      "placement": "partner",
+      "source": {
+        "name": "VED-Master (vedmaster.ru) company news: ВЭД-Мастер стал официальным партнером футбольного клуба «Родина»",
+        "date": "2026-07-27",
+        "url": "https://vedmaster.ru/blog/ved-master-partner-fk-rodina",
+        "note": "The sponsor's own announcement of the 2026/27 partnership; it does not state the exact shirt position, hence the generic 'partner' placement. The club's own announcement (rodina.moscow/news/ved-master-novyi-partner-rodiny-na-sezon-202627, 30 Jul 2026) confirms the deal; Vedomosti (19 Aug 2026, sponsored feature) reported the logo appeared on the match kit.",
+        "quote": "Логотип ВЭД-Мастер появится на игровой форме основной команды",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "vorgol",
+      "placement": "shorts",
+      "source": {
+        "name": "FC Rodina official site: Vorgol — новый партнёр «Родины»",
+        "date": "2026-07-25",
+        "url": "https://rodina.moscow/news/vorgol-novyi-partner-rodiny",
+        "note": "Club announcement of Vorgol as official supplier. The shorts placement is not stated in text: it is visible in match photos of the white home kit (e.g. Sports.ru, 'Родина — Акрон: в гости к покорителю Зенита', 12 Aug 2026, photos by Oleg Bukharev / 'В мире спорта', https://www.sports.ru/football/blogs/3437201.html, where the Vorgol logo is printed on the players' shorts).",
+        "quote": "Производитель природной питьевой воды Vorgol стал официальным поставщиком для профессиональных команд и академии",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "No sponsor page on the club site (rodina.moscow); no front-of-shirt sponsor confirmed.",
+  "summary": "White home shirt of the club's own production, launched 21 Jul 2026 with no shirt sponsors: the launch photos show only the club crest and the RODINA wordmark across the chest. VED-Master (payments, official partner since 30 Jul 2026) has its logo on the match kit per the sponsor's announcement; Vorgol (water) is printed on the shorts per match photos. No title sponsor announced (rplstat.ru still lists it as 'уточняется'); Alfa-Bank names the league (Alfa-Bank RPL) and is recorded as a league-level deal.",
   "change": null
 }

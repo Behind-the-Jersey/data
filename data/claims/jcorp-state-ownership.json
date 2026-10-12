@@ -1,0 +1,32 @@
+{
+  "id": "jcorp-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-johor"
+  ],
+  "text": "Johor Corporation (JCorp) is a statutory body established under Johor Corporation Enactment No. 4 of 1968, whose Board of Directors is chaired ex officio by the Chief Minister of Johor.",
+  "source": {
+    "name": "BIX Malaysia: Principal terms and conditions of Johor Corporation's RM3.5 billion Sukuk Wakalah programme",
+    "date": "2022-03-02",
+    "url": "https://www.bixmalaysia.com/bixapi/search/DownloadDocument?DocID=90020&DocTypeID=3",
+    "quote": "Chairman of the Board of Directors of the Issuer shall be held by a person for the time being holding the office of the Chief Minister of Johor",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The terms also state JCorp is 'a statutory body incorporated under Johor Corporation Enactment No. 4, 1968 ... as a development agency and public enterprise'."
+  },
+  "additionalSources": [
+    {
+      "name": "Johor Corporation (JCorp): Who We Are",
+      "date": "",
+      "url": "https://www.jcorp.com.my/who-we-are/",
+      "quote": "Johor Corporation (JCorp) is Johor's principal state development institution",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

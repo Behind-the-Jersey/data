@@ -12,13 +12,49 @@
       "sponsorId": "bimbo",
       "placement": "front",
       "source": {
+        "name": "Philadelphia Union, 'Philadelphia Union Unveil New 2026 Primary “1776 Kit”'",
+        "date": "2026-02-10",
+        "url": "https://www.philadelphiaunion.com/news/philadelphia-union-unveil-new-2026-primary-1776-kit",
+        "quote": "Bimbo once again returns to the jersey as the front-of-kit sponsor.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Bimbo Bakeries USA brand Bimbo on the primary kit; Thomas' (same company) on the secondary kit. For Soccer's 2026 MLS jersey sponsor survey confirms the split: https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "independence-blue-cross",
+      "placement": "sleeve",
+      "source": {
+        "name": "Philadelphia Union, 'Philadelphia Union Unveil New 2026 Primary “1776 Kit”'",
+        "date": "2026-02-10",
+        "url": "https://www.philadelphiaunion.com/news/philadelphia-union-unveil-new-2026-primary-1776-kit",
+        "quote": "Independence Blue Cross’ (IBX) logo returns to the right sleeve of the Union’s primary, secondary, and specialty jersey’s worn during league competition",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Right sleeve; on the shirt since 2024 (club sleeve-patch announcement: https://www.philadelphiaunion.com/news/philadelphia-union-independence-blue-cross-renew-partnership-sleeve-patch). For Soccer's 2026 survey confirms IBX on the right sleeve: https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Left sleeve, league-wide MLS patch; the survey's Philadelphia Union row confirms Apple TV left, Independence Blue Cross right."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Bimbo fronts the jersey, with Independence Blue Cross (IBX) on the right sleeve."
 }

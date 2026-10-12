@@ -12,13 +12,19 @@
       "sponsorId": "newyork-presbyterian",
       "placement": "patch",
       "source": {
-        "name": "MLB.com press release",
+        "name": "NewYork-Presbyterian newsroom: New York Mets Announce Multi-Year Partnership with NewYork-Presbyterian",
         "date": "2023-04-06",
-        "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+        "url": "https://www.nyp.org/news/new-york-mets-announce-multi-year-partnership-with-newyork-presbyterian",
+        "quote": "As a symbol of the integrated partnership, a NewYork-Presbyterian patch will be featured on the Mets uniforms, the first jersey patch partnership in the team’s 61-year history.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Still the Mets' uniform ad in 2026: SportsLogos.net's MLB Team-by-Team Jersey Ads Tracker (https://news.sportslogos.net/2024/07/31/mlb-jersey-ads-by-team/baseball/, updated 2026-02-18) lists the Mets patch as New York-Presbyterian, and as of 18 Feb 2026 only the Tampa Bay Rays wear no ad on their uniform."
       }
     }
   ],
   "sponsorsComplete": true,
-  "summary": "Jersey patch: NewYork-Presbyterian.",
+  "summary": "Jersey patch: NewYork-Presbyterian, the club's only uniform ad (MLB permits one ad patch per jersey).",
   "change": null
 }

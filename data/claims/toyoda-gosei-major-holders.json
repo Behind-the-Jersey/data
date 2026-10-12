@@ -1,0 +1,20 @@
+{
+  "id": "toyoda-gosei-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "toyoda-gosei-co"
+  ],
+  "text": "Toyoda Gosei Co., Ltd.'s major shareholders as of 31 March 2026 were Toyota Motor Corporation with 21.71%, The Master Trust Bank of Japan (trust account) with 9.76% and Custody Bank of Japan (trust account) with 7.10%.",
+  "short": "Toyota Motor is Toyoda Gosei's largest holder with 21.71% (March 2026).",
+  "source": {
+    "name": "Toyoda Gosei: Stock Status – Major Shareholders",
+    "date": "2026-03-31",
+    "url": "https://www.toyoda-gosei.com/ir/shares/circumstances/",
+    "quote": "Toyota Motor Corporation 25,459 21.71",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

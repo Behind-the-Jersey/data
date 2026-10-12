@@ -2,6 +2,21 @@
   "clubId": "san-antonio-spurs",
   "channels": [
     {
+      "type": "contact-form",
+      "value": "https://sse.spurs.com/spurs-online-inquiry-main",
+      "label": "Spurs online inquiry",
+      "source": {
+        "name": "Spurs Sports & Entertainment – Spurs Online Inquiry",
+        "url": "https://sse.spurs.com/spurs-online-inquiry-main",
+        "date": "2026-10-01",
+        "quote": "Please fill out your information below and a Spurs Representative will contact you directly.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@spurs",
       "source": {
@@ -20,5 +35,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

@@ -4,13 +4,18 @@
   "orgName": "Ascension St. Vincent's",
   "sponsorId": "ascension-st-vincent",
   "placement": "training-kit",
-  "from": "2026",
+  "from": null,
   "to": null,
   "value": null,
   "source": {
-    "name": "Zoomph (NFL practice-jersey sponsor tracker)",
-    "date": "2026-09-01",
-    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    "name": "Zoomph: The Ultimate Guide To NFL Practice Jersey Sponsors",
+    "date": "2025-11-03",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+    "quote": "Indianapolis Colts: Ascension St. Vincent’s",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Practice-jersey patch."
+  "note": "Practice-jersey patch. Start year unknown: the page lists Ascension St. Vincent's as the Colts' practice-jersey patch sponsor for the 2026 season; no source found for when the patch deal began."
 }

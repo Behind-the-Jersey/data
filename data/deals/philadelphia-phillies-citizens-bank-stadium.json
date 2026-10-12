@@ -6,11 +6,23 @@
   "placement": "stadium",
   "from": null,
   "to": null,
-  "value": null,
+  "value": {
+    "amount": 95,
+    "currency": "USD",
+    "unit": "m",
+    "per": "total",
+    "upTo": false,
+    "usdApprox": 95
+  },
   "source": {
     "name": "Sports Business Journal",
-    "date": "2003-06-17",
-    "url": "https://sportsbusinessjournal.com/Daily/Issues/2003/06/17/Facilities-Venues/Citizens-Bank-Inks-25-Year-$95M-Phillies-Naming-Rights-Deal.aspx"
+    "date": "2003-06-16",
+    "url": "https://sportsbusinessjournal.com/Daily/Issues/2003/06/17/Facilities-Venues/Citizens-Bank-Inks-25-Year-$95M-Phillies-Naming-Rights-Deal.aspx",
+    "quote": "Citizens Bank has scheduled a press conference for noon ET today in Philadelphia to take the wraps off a 25-year, $95M naming rights deal",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Citizens Bank Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2003-06-17."
+  "note": "Arena naming rights: Citizens Bank Park. Reported as a 25-year, $95M package; the article says $57.5M is for the naming rights and the rest for media, tickets and hospitality. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2003."
 }

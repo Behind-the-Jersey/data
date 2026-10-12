@@ -1,0 +1,20 @@
+{
+  "id": "karhu-holding-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "karhu-holding"
+  ],
+  "text": "The Karhu running brand was bought in 2008 by Karhu Holding B.V., a Dutch holding company majority-owned by former Reebok executives Huub Valkenburg and Jay Duke.",
+  "short": "Karhu is owned by Karhu Holding B.V. (majority owners Huub Valkenburg and Jay Duke).",
+  "source": {
+    "name": "SGB Media: Finnish Running Brand Karhu Acquired",
+    "date": "2008-06-25",
+    "url": "https://sgbonline.com/finnish-running-brand-karhu-acquired/",
+    "quote": "Valkenburg and Duke, majority owners of the new holding company, KARHU Holding B.V.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

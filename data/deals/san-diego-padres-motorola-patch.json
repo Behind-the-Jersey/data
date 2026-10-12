@@ -4,13 +4,26 @@
   "orgName": "Motorola",
   "sponsorId": "motorola",
   "placement": "patch",
-  "from": "2023",
+  "from": "2022",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
-    "date": "2026-04-20",
-    "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+  "value": {
+    "amount": 10,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 10
   },
-  "note": "Jersey patch."
+  "source": {
+    "name": "SportsPro: San Diego Padres team up with Motorola for first MLB jersey patch deal",
+    "date": "2022-04-20",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/san-diego-padres-motorola-jersey-patch-sponsorship-mlb/",
+    "note": "Reports the agreement at US$10 million a year, attributed to SportBusiness. The club's own release (MLB.com, 2022-04-19) dates the patch from the 2023 season; the wider sponsorship and the official smartphone partnership began in 2022.",
+    "quote": "The agreement, reported by SportBusiness to be worth US$10 million a year, also sees Motorola named as the franchise\u2019s official smartphone partner.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Jersey patch (shoulder/sleeve). Announced 19 April 2022, from the 2023 season."
 }

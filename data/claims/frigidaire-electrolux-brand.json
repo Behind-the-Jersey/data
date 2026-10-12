@@ -1,0 +1,21 @@
+{
+  "id": "frigidaire-electrolux-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "electrolux-group"
+  ],
+  "text": "Frigidaire is a home appliance brand under Electrolux Group, with its North American headquarters in Charlotte, North Carolina.",
+  "short": "Frigidaire is an Electrolux Group brand",
+  "source": {
+    "name": "Charlotte FC: 'Charlotte FC Names Frigidaire as First-Ever Back-of-Kit Partner'",
+    "date": "2026-08-13",
+    "url": "https://www.charlottefootballclub.com/news/charlotte-fc-names-frigidaire-as-first-ever-back-of-kit-partner",
+    "quote": "a leading home appliance brand under Electrolux Group, has delivered innovative, reliable kitchen and home appliances",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Full sentence on the page: 'Frigidaire®, a leading home appliance brand under Electrolux Group, has delivered innovative, reliable kitchen and home appliances for more than 100 years.' The same page says 'The company's North American headquarters is in Charlotte'."
+  },
+  "reviewed": false
+}

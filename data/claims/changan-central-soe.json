@@ -1,0 +1,32 @@
+{
+  "id": "changan-central-soe",
+  "kind": "ownership",
+  "ownerIds": [
+    "china-changan-automobile-group"
+  ],
+  "text": "China's state-assets regulator SASAC inaugurated China Changan Automobile Group Co., Ltd. as a central state-owned enterprise on 29 July 2025; Changan is listed as No. 73 in the central SOE directory, under SASAC supervision.",
+  "short": "Changan is a Chinese central state-owned enterprise under SASAC supervision (No. 73 in the central SOE directory).",
+  "source": {
+    "name": "SASAC (en.sasac.gov.cn): China Inaugurates Changan as Central SOE",
+    "date": "2025-07-31",
+    "url": "http://en.sasac.gov.cn/2025/07/31/c_19613.htm",
+    "quote": "The State-owned Assets Supervision and Administration Commission of the State Council (SASAC) announced on July 29 the inauguration of China Changan Automobile Group Co., Ltd. \uff08Changan\uff09 as a central state-owned enterprise (SOE).",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Xinhua (english.news.cn): China inaugurates Changan Auto as central SOE",
+      "date": "2025-07-29",
+      "url": "https://english.news.cn/20250729/fd6357c876b742829cc3e96ac5d636ac/c.html",
+      "quote": "China's state-owned assets regulator on Tuesday announced the inauguration of China Changan Automobile Group Co., Ltd. as a centrally administered state-owned enterprise (SOE).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,12 +1,17 @@
 {
   "id": "paul-robinson-solicitors",
   "name": "Paul Robinson Solicitors",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Essex law firm; West Ham Women's back-of-shirt partner since July 2025."
+  "ownerId": "samuel-paul-robinson",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Samuel Paul Robinson, the sole active person with significant control (75% or more of voting rights), per Companies House. Nothing found.",
+  "claimIds": [
+    "paul-robinson-solicitors-ownership"
+  ],
+  "aliases": [
+    "PR Solicitors",
+    "Paul Robinson"
+  ],
+  "note": "Rating note: UK law firm (founded in Essex in 1983); trading entity is Paul Robinson Solicitors LLP (Companies House OC300127). Privately held; no state or state-fund owner found."
 }

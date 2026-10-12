@@ -1,0 +1,21 @@
+{
+  "id": "panasonic-holdings-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "panasonic-holdings"
+  ],
+  "text": "Panasonic Holdings Corporation's largest shareholders (FY2025 table, data as of 31 March 2026, republished from the EDINET annual securities report) are The Master Trust Bank of Japan (trust account, 15.06%), Custody Bank of Japan (trust account, 7.53%), State Street trusts and insurance companies; the only government name in the top 10 is 'GOVERNMENT OF NORWAY' with 1.32%. No state or sovereign shareholder is shown controlling the company.",
+  "short": "Panasonic Holdings' top holders are trust banks and institutions; GOVERNMENT OF NORWAY holds 1.32%.",
+  "source": {
+    "name": "ZaimDoc — パナソニック ホールディングス 大株主一覧 ('2025年度' section, reproduced from EDINET filings)",
+    "date": "2026-03-31",
+    "url": "https://zaimdoc.com/companies/detail/panasonic-holdings/major-shareholder",
+    "note": "Panasonic's own IR site (holdings.panasonic) returned HTTP 403 to scripts; this page republishes the 有価証券報告書 '大株主の状況' table from EDINET.",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口）（注）２ 東京都港区赤坂一丁目８番１号 赤坂インターシティAIR 351,621,000 15.06%",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -7,8 +7,69 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "corendon",
+      "placement": "front",
+      "source": {
+        "name": "Türkiye Basket: Anadolu Efes'in 2026-27 Sezonu Formaları Görücüye Çıktı",
+        "date": "2026-09-05",
+        "url": "https://www.turkiyebasket.com/anadolu-efes-2026-27-formalari/",
+        "quote": "Anadolu Efes, 2026-27 sezonu öncesinde yeni formalarını taraftarların beğenisine sundu.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The article's 2026-27 kit-launch photos (players in the new white home and blue away jerseys) show the Corendon logo on the front of the jersey, below the ANADOLU EFES wordmark and the number. Corendon's logo on the team's chest is also stated in the sponsorship-renewal press release of September 2024 (TSA): 'Corendon'un logosu Anadolu Efes takımının göğsünde yer almaya devam ederken'."
+      }
+    },
+    {
+      "sponsorId": "corendon",
+      "placement": "shorts",
+      "source": {
+        "name": "Türkiye Basket: Anadolu Efes'in 2026-27 Sezonu Formaları Görücüye Çıktı",
+        "date": "2026-09-05",
+        "url": "https://www.turkiyebasket.com/anadolu-efes-2026-27-formalari/",
+        "quote": "Anadolu Efes, 2026-27 sezonu öncesinde yeni formalarını taraftarların beğenisine sundu.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The article's 2026-27 launch photo shows the Corendon logo on the front of the shorts on both the white home and the blue away kit."
+      }
+    },
+    {
+      "sponsorId": "gsa-sport",
+      "placement": "partner",
+      "source": {
+        "name": "Türkiye Basket: Anadolu Efes'in 2026-27 Sezonu Formaları Görücüye Çıktı",
+        "date": "2026-09-05",
+        "url": "https://www.turkiyebasket.com/anadolu-efes-2026-27-formalari/",
+        "quote": "Pablo Laso yönetiminde yenilenmiş kadrosuyla yeni sezona giren lacivert-beyazlılar, giyim partneri GSA Sport iş birliğiyle hazırlanan koleksiyonu duyurdu.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker. The club's own announcement of 10 September 2025 says GSA Sport is Anadolu Efes' official jersey and sportswear partner from the 2025-2026 season onward; the 2026-27 launch photo shows the GSA logo on the chest of the new jerseys."
+      }
+    },
+    {
+      "sponsorId": "bilyoner",
+      "placement": "back",
+      "source": {
+        "name": "Anadolu Efes Official Store (GSA Sport) – '25/26 Beyaz Maç Forması' product page",
+        "date": "2025",
+        "url": "https://gsasport.com.tr/product/25-26-beyaz-mac-formasi",
+        "note": "Placement evidence: the product photo shows the Bilyoner logo above the number on the back of the white game jersey. The 2026-27 continuation is in the source moved to this note — Türk Spor Ajansı, 2026-09-29 (https://turksporajansi.com/2026/09/29/bilyoner-ile-anadolu-efeste-is-birligi-8-yilinda/): \"Bilyoner ile Anadolu Efes Spor Kulübü arasındaki sponsorluk anlaşması 2026-2027 sezonunda da devam edecek.\" No 2026-27 photo of the jersey back was found, so the back placement rests on this image — the review-agent objection on PR 1004.",
+        "quote": "25/26 Beyaz Maç Forması SKU: GT42507",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "BigBossRabbit"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "Corendon Airlines is on the front of the jersey, below the ANADOLU EFES wordmark and the number, and on the shorts; Bilyoner, the club's official sponsor for an eighth season in 2026-27, sits above the number on the back (placement shown on the official 25/26 jersey image); GSA Sport is the kit maker. Not complete: no 2026-27 source shows the back of the jersey or names sleeve or other placements.",
   "change": null
 }

@@ -9,27 +9,42 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "yelo",
+      "sponsorId": "tameeni-insurance",
       "placement": "front",
       "source": {
-        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-        "date": "2026-06-15",
-        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits. Its 'Al Hazem Away 26-27' montage shows Tameeni's blue print on the shirt chest; the same Tameeni chest print is on the home shirt in match photos from Al-Hazem v Al-Taawoun (2026-09-08; elmoudjazdz Facebook, post 1103011192414808). Tameeni also heads the sponsors' logo list on the club site (alhazem.sa)."
       }
     },
     {
-      "sponsorId": "hattrick",
+      "sponsorId": "saudi-qaid-transport",
+      "placement": "sleeve",
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "The gallery's 'Al Hazem Away 26-27' montage shows a gold 'QAID قايد' print on the sleeve; the same gold shoulder print is on the home shirt in the Al-Hazem v Al-Taawoun match photos (2026-09-08). Qaid is on the sponsors' logo list at alhazem.sa, and qaid.sa carries a 'رعايتنا لدوري روشن' (our Roshn-league sponsorship) section."
+      }
+    },
+    {
+      "sponsorId": "offside",
       "placement": "partner",
       "source": {
-        "name": "Sponsor note (kit supplier)",
-        "date": "2026-09",
-        "url": null,
-        "note": "Kit supplier to Al-Hazem. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+        "name": "Al-Hazem Club – الحزم يوقّع مع أوفسايد راعيًا رسميًا للأطقم الرياضية في دوري روشن 2026-2027",
+        "date": "2026-07-04",
+        "url": "https://alhazem.sa/2026/07/04/%d8%a7%d9%84%d8%ad%d8%b2%d9%85-%d9%8a%d9%88%d9%82%d9%91%d8%b9-%d9%85%d8%b9-%d8%a3%d9%88%d9%81%d8%b3%d8%a7%d9%8a%d8%af-%d8%b1%d8%a7%d8%b9%d9%8a%d9%8b%d8%a7-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%84/",
+        "quote": "أعلن نادي الحزم السعودي عن توقيع اتفاقية شراكة مع شركة “أوفسايد” لتكون الراعي الرسمي لأطقم الفريق الأول لكرة القدم خلال منافسات دوري روشن السعودي للموسم الرياضي 2026-2027.",
+        "note": "Club announcement: Offside becomes the official kit sponsor (technical supplier) of Al-Hazem's first football team for the 2026-2027 Roshn Saudi League season. Offside's store (offsideksa.com) sells the 'قميص الحزم الأساسي 26/27' (Al-Hazem home shirt 26/27, SKU HZM 10112627-S).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Hattrick home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "summary": "Offside home kit. Tameeni on the front and Qaid on the sleeve (SPL's 2026-27 kit-gallery montage and in-match photos of the home shirt); Offside supplies the kit (club announcement, 2026-07-04). The back of the player-issue shirt has not been confirmed, so the list is not complete.",
   "change": null
 }

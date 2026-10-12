@@ -1,0 +1,20 @@
+{
+  "id": "abus-bremicker-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "abus"
+  ],
+  "text": "ABUS August Bremicker Söhne KG, the lock and bicycle security and helmet maker based in Wetter an der Ruhr, is 100 percent owned by the Bremicker family.",
+  "short": "ABUS is 100% owned by the Bremicker family.",
+  "source": {
+    "name": "IHK Weltmarktführer Südwestfalen: ABUS company profile",
+    "date": "2024",
+    "url": "https://weltmarktfuehrer-sw.de/en/unternehmen/abus/",
+    "quote": "ABUS August Bremicker Söhne KG and its subsidiaries are 100 percent owned by the Bremicker family.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

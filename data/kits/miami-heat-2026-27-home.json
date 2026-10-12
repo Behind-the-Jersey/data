@@ -14,7 +14,13 @@
       "source": {
         "name": "Miami HEAT (nba.com/heat)",
         "date": "2024-09-24",
-        "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership"
+        "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership",
+        "quote": "Robinhood will showcase its logo on the franchise’s jerseys beginning with the 2024-25 NBA season and the Robinhood patch will be featured on all Sioux Falls Skyforce jerseys",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "nba.com serves a client-rendered page and blocked scripted access (Akamai 403); the text was read from the Wayback Machine capture of 2026-09-28 of this URL."
       }
     }
   ],

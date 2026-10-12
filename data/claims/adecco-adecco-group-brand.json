@@ -1,0 +1,32 @@
+{
+  "id": "adecco-adecco-group-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "adecco-group"
+  ],
+  "text": "Adecco is a brand of The Adecco Group, whose three global businesses are Adecco, Akkodis and LHH. Adecco partners the DECATHLON CMA CGM cycling team from January 1, 2026.",
+  "short": "Adecco is a brand of The Adecco Group",
+  "source": {
+    "name": "Adecco — Adecco to become a Partner of the DECATHLON CMA CGM Team from 2026",
+    "date": "2025-10-01",
+    "url": "https://www.adecco.com/employers/resources/news/2025-pr-decathlon-cma-cgm-sponsorship-decathlon",
+    "quote": "Adecco, a brand of The Adecco Group, will partner with the cycling team DECATHLON CMA CGM starting January 1, 2026, for several years.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "The Adecco Group — Who we are",
+      "date": "2026",
+      "url": "https://www.adeccogroup.com/who-we-are",
+      "quote": "Through our three market-leading global businesses - Adecco, Akkodis and LHH - we deliver end-to-end workforce, skilling and digital engineering solutions.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}

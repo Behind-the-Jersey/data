@@ -1,0 +1,20 @@
+{
+  "id": "daicel-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "daicel-corporation"
+  ],
+  "text": "Daicel Corporation is listed on the Tokyo Stock Exchange (code 4202). Its largest shareholders (as of 2026-03-31) were The Master Trust Bank of Japan (trust account, 13.81%), Custody Bank of Japan (trust account, 10.36%) and Nippon Life Insurance (6.81%); no state or sovereign shareholder appears in the company's top-10 list.",
+  "short": "Daicel is TSE-listed (4202); top holders are trust banks and insurers, no state shareholder.",
+  "source": {
+    "name": "株式会社ダイセル IR: 株式情報 — 大株主（上位10位）の状況",
+    "date": "2026-03-31",
+    "url": "https://www.daicel.com/ir/stock/stocks/",
+    "quote": "日本マスタートラスト信託銀行株式会社（信託口） 35,294 13.81 株式会社日本カストディ銀行（信託口） 26,472 10.36 日本生命保険相互会社 17,402 6.81",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

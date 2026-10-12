@@ -1,0 +1,75 @@
+{
+  "id": "johor-darul-tazim-2026-27-home",
+  "clubId": "johor-darul-tazim",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "jmyr",
+      "placement": "front",
+      "source": {
+        "name": "Media Digital Johor: 'JDT PERKENAL JERSI MUSIM BAHARU, KEKAL WARNA TRADISI JOHOR'",
+        "date": "2026-08-15",
+        "url": "https://mediadigitaljohor.gov.my/en/jdt-perkenal-jersi-musim-baharu-kekal-warna-tradisi-johor/",
+        "quote": "ketiga-tiga rekaan turut menampilkan logo JMYR di bahagian hadapan, logo UMW Toyota Motor di bahagian belakang dan logo Johor Corporation (JCorp) pada hujung kiri lengan.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Johor state media on the 15 Aug 2026 kit launch: the 2026/27 kits carry the JMYR logo on the front. 'Bahagian hadapan' = front."
+      }
+    },
+    {
+      "sponsorId": "toyota",
+      "placement": "back",
+      "source": {
+        "name": "Media Digital Johor: 'JDT PERKENAL JERSI MUSIM BAHARU, KEKAL WARNA TRADISI JOHOR'",
+        "date": "2026-08-15",
+        "url": "https://mediadigitaljohor.gov.my/en/jdt-perkenal-jersi-musim-baharu-kekal-warna-tradisi-johor/",
+        "quote": "ketiga-tiga rekaan turut menampilkan logo JMYR di bahagian hadapan, logo UMW Toyota Motor di bahagian belakang dan logo Johor Corporation (JCorp) pada hujung kiri lengan.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "UMW Toyota Motor logo on the back ('bahagian belakang'); launch photos show the TOYOTA wordmark below the back number."
+      }
+    },
+    {
+      "sponsorId": "jcorp",
+      "placement": "sleeve",
+      "source": {
+        "name": "Media Digital Johor: 'JDT PERKENAL JERSI MUSIM BAHARU, KEKAL WARNA TRADISI JOHOR'",
+        "date": "2026-08-15",
+        "url": "https://mediadigitaljohor.gov.my/en/jdt-perkenal-jersi-musim-baharu-kekal-warna-tradisi-johor/",
+        "quote": "ketiga-tiga rekaan turut menampilkan logo JMYR di bahagian hadapan, logo UMW Toyota Motor di bahagian belakang dan logo Johor Corporation (JCorp) pada hujung kiri lengan.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Johor Corporation (JCorp) logo on the end of the left sleeve ('hujung kiri lengan')."
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Media Digital Johor: 'JDT PERKENAL JERSI MUSIM BAHARU, KEKAL WARNA TRADISI JOHOR'",
+        "date": "2026-08-15",
+        "url": "https://mediadigitaljohor.gov.my/en/jdt-perkenal-jersi-musim-baharu-kekal-warna-tradisi-johor/",
+        "quote": "JDT yang terus mengekalkan jenama Nike sebagai pengeluar rasmi jersi pasukan untuk tahun ke-12 sejak musim 2014",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker since 2014 ('pengeluar rasmi jersi' = official jersey manufacturer); not a shirt sponsor in the front/back/sleeve sense."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "JDT's 2026/27 home kit, made by Nike and launched 15 August 2026: JMYR (a ringgit stablecoin) on the front, UMW Toyota Motor on the back, JCorp on the left sleeve.",
+  "change": null
+}

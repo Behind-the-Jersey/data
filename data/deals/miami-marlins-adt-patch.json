@@ -6,11 +6,23 @@
   "placement": "patch",
   "from": "2023",
   "to": null,
-  "value": null,
+  "value": {
+    "amount": 5,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 5000000
+  },
   "source": {
     "name": "Sports Business Journal",
     "date": "2025-05-13",
-    "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal"
+    "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal",
+    "quote": "worth $5M annually for ADT to be the franchise’s first-ever jersey patch sponsor",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Jersey patch."
+  "note": "Jersey patch. Value is the reported $5M/year of the original 2023 three-year deal; the May 2025 multiyear renewal's terms were not disclosed."
 }

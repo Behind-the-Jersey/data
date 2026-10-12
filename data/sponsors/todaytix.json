@@ -1,14 +1,16 @@
 {
   "id": "todaytix",
   "name": "TodayTix",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "mari",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "todaytix-ownership"
+  ],
   "aliases": [
     "todaytix group"
   ],
-  "note": "Theatre and live-experience ticketing platform; Charlton Athletic's Official Experience Partner on a two-year deal from June 2026, on the back of the men's and women's first-team shirts."
+  "note": "Theatre and live-experience ticketing platform; Charlton Athletic's Official Experience Partner on a two-year deal from June 2026, on the back of the men's and women's first-team shirts. TodayTix Group was acquired in October 2025 by MARI, the events and experiences company founded by Ariel Emanuel (marigrp.com press release); press reports say MARI is backed by Apollo Global Management and RedBird Capital Partners (the Guardian, 20 Oct 2025: 'Mari is backed by Apollo Global Management and RedBird Capital Partners'). No state ownership and no record evidence found. Propose: none."
 }

@@ -1,0 +1,32 @@
+{
+  "id": "kln-family-brands-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kln-family-brands"
+  ],
+  "text": "NutriSource Pet Foods and Finley's Pet Treats are members of KLN Family Brands; Twin Cities Business describes NutriSource as a subsidiary of Perham-based KLN Family Brands.",
+  "source": {
+    "name": "Minnesota United: 'Minnesota United Scores Historic First with NutriSource and Finley's as Jersey Sleeve Sponsors'",
+    "date": "2025-05-08",
+    "url": "https://www.mnufc.com/news/minnesota-united-scores-historic-first-with-nutrisource-and-finley-s-as-jersey-sleeve-sponsors",
+    "quote": "Minnesota-based NutriSource Pet Foods and Finley’s Pet Treats – members of the KLN Family Brands",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page's publication date (2025-05-08) is from its datePublished metadata; the page body shows no date line."
+  },
+  "additionalSources": [
+    {
+      "name": "Twin Cities Business: 'KLN’s NutriSource Pet Foods Partners with Finley’s'",
+      "date": "2021-06-16",
+      "url": "https://tcbmag.com/klns-nutrisource-partners-with-finleys",
+      "quote": "NutriSource Pet Foods, a subsidiary of Perham-based KLN Family Brands, is taking dog treat startup Finley’s under its wing",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

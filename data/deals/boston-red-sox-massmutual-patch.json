@@ -6,11 +6,25 @@
   "placement": "patch",
   "from": "2023",
   "to": null,
-  "value": null,
-  "source": {
-    "name": "MLB.com",
-    "date": "2022-11-30",
-    "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+  "value": {
+    "amount": 170,
+    "currency": "USD",
+    "unit": "m",
+    "per": "total",
+    "upTo": false,
+    "usdApprox": 170
   },
-  "note": "Jersey patch."
+  "source": {
+    "name": "SportsPro - Report: Boston Red Sox bag US$170m MassMutual jersey patch deal",
+    "date": "2022-07-26",
+    "url": "https://www.sportspro.com/news/boston-red-sox-massmutual-jeresy-patch-sponsor-mlb/",
+    "short": "SportsPro",
+    "note": "Value as reported by Sports Business Journal, cited here before the official announcement; SportsPro adds the pact 'could reportedly rise to as much as US$20 million per season' with performance bonuses, so no up-to figure is recorded. The club confirmed the ten-year partnership on 2022-11-30 (MLB.com: https://www.mlb.com/news/red-sox-jersey-patch-massmutual), so 'to' is left null rather than derived from the term.",
+    "quote": "have agreed a ten-year, US$170 million jersey patch sponsorship with insurance company MassMutual, according to Sports Business Journal (SBJ)",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Jersey patch, worn on the sleeve."
 }

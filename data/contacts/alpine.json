@@ -2,6 +2,21 @@
   "clubId": "alpine",
   "channels": [
     {
+      "type": "email",
+      "value": "feedback@alpinef1.com",
+      "label": "Team feedback",
+      "source": {
+        "name": "BWT Alpine Formula One Team – About Us",
+        "url": "https://www.alpinef1.com/about-us",
+        "date": "2026-10-01",
+        "quote": "feedback@alpinef1.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@AlpineF1Team",
       "source": {
@@ -20,5 +35,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

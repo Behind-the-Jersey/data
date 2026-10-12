@@ -4,13 +4,19 @@
   "orgName": "Nintendo (Nintendo of America)",
   "sponsorId": "nintendo",
   "placement": "patch",
-  "from": "2026",
+  "from": "2025",
   "to": null,
   "value": null,
   "source": {
-    "name": "Seattle Mariners (MLB.com)",
-    "date": "2026-03-27",
-    "url": "https://mariners.com/Nintendo"
+    "name": "MLB.com press release (archived): Seattle Mariners expand relationship with Nintendo with team's first-ever jersey sleeve partnership",
+    "date": "2025-03-20",
+    "url": "http://web.archive.org/web/20260312015727/https://www.mlb.com/press-release/press-release-seattle-mariners-expand-relationship-with-nintendo-with-team-s-first-ever-jersey-sleeve-partnership",
+    "quote": "The mark will debut on the Mariners jerseys on Opening Day, March 27 vs. the A's at T-Mobile Park.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Deal announced 2025-03-20 and debuted Opening Day 2025-03-27. Sports Business Journal (2025-03-20) reports 'a long-term pact worth seven figures annually' but gives no exact figure, so value stays null. Continues in 2026 per Blinkfire's 2026 list."
   },
-  "note": "Jersey patch."
+  "note": "Jersey sleeve patch. Start corrected from 2026 to 2025, the season it debuted."
 }

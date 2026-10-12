@@ -12,9 +12,15 @@
       "sponsorId": "ledger",
       "placement": "patch",
       "source": {
-        "name": "San Antonio Spurs (spurs.com)",
+        "name": "San Antonio Spurs – 'San Antonio Spurs Partner with Digital Asset Security Leader Ledger in New Global Jersey Patch Deal'",
         "date": "2025-06-24",
-        "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal"
+        "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal",
+        "quote": "The San Antonio Spurs today announced a new jersey patch partnership with Ledger, the world leader in digital asset security for consumers and enterprises",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Multi-year deal; the release says the patch debuts at the 2025 NBA draft. The page blocks the script check (403) and serves the quote from its embedded JSON; opened in a browser it reads as above."
       }
     }
   ],

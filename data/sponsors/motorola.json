@@ -1,12 +1,32 @@
 {
   "id": "motorola",
   "name": "Motorola",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  "ownerId": "lenovo-group-ltd",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Owned by Lenovo, about a tenth of which the Chinese state owns indirectly.",
+  "claimIds": [
+    "motorola-mobility-owner-record",
+    "lenovo-legend-stake-2026",
+    "legend-cas-holdings-stake-2026",
+    "cas-holdings-state-owned",
+    "china-xinjiang-un-assessment"
+  ],
+  "aliases": [
+    "Motorola Mobility"
+  ],
+  "note": "Re-rated 2026-10-01 (same chain as sponsor motorola-mobility, docs/rating-review-2026-09-27.md): the MLB jersey-patch partner of the Cubs and Padres is Motorola Mobility, a Lenovo subsidiary (Sports Business Journal post, 2022-04-19; the MLB.com club release names Motorola). Lenovo is about 9.5% indirectly owned by the Chinese state through CAS Holdings and Legend. A separate unused owner record `motorola-owner` calls the partner Motorola Solutions; see the pull request.",
+  "why": {
+    "text": "Motorola belongs to Lenovo. Lenovo\u2019s largest shareholder is Legend Holdings, with about a third, and Legend\u2019s largest shareholder, with 29%, is a company wholly owned by the Chinese state. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So part of the money behind Motorola is the Chinese state\u2019s.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "motorola-mobility-owner-record",
+      "lenovo-legend-stake-2026",
+      "legend-cas-holdings-stake-2026",
+      "cas-holdings-state-owned"
+    ],
+    "messageLine": "The UN human rights office found that China\u2019s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+    "status": "draft"
+  }
 }

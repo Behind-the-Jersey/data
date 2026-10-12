@@ -1,0 +1,75 @@
+{
+  "id": "pakhtakor-2026-home",
+  "clubId": "pakhtakor",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "akfa",
+      "placement": "front",
+      "source": {
+        "name": "oldfootballshirts.com: Pakhtakor Tashkent shirt sponsors",
+        "date": "2026-10-01",
+        "url": "https://www.oldfootballshirts.com/en/teams/p/pakhtakor-tashkent/sponsors-t6199.html",
+        "quote": "2023-2025 Akfa",
+        "note": "Fan-run shirt archive lists Akfa as Pakhtakor's shirt sponsor 2023-2025. Football Kit Archive describes the 2026 home shirt as 'manufactured by adidas, features AkfA as the sponsor' (footballkitarchive.com/pakhtakor-tashkent-2026-home-kit/464229/) but is Cloudflare-blocked to scripts (HTTP 403); the club homepage partner grid still shows AKFA Group (logo linking akfagroup.com) as of 2026-10-01.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "trustbank",
+      "placement": "partner",
+      "source": {
+        "name": "«Trastbank» XAB press centre: 'Paxtakor homiy va hamkorlariga tashakkurnomalar topshirdi'",
+        "date": "2022-03-02",
+        "url": "https://trustbank.uz/uz/press_center/news/paxtakor-homiy-va-hamkorlariga-tashakkurnomalar-topshirdi/",
+        "quote": "\"Trastbank\" XAB \"Paxtakor\" futbol klubiga homiylik qilib kelmoqda.",
+        "note": "Trustbank's own press service says the bank sponsors Pakhtakor. The club homepage partner grid still lists Trustbank (logo linking trustbank.uz) as of 2026-10-01; shirt placement (if any) not confirmed.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tashkent-city-administration",
+      "placement": "partner",
+      "source": {
+        "name": "«ПАХТАКОР» Футбол клуби — official website, homepage ('Бизнинг ҳамкорлар' partners section; Wayback snapshot 2026-08-31)",
+        "date": "2026-08-31",
+        "url": "https://web.archive.org/web/20260831042631/https://www.pakhtakor.uz/",
+        "quote": "Бизнинг ҳамкорлар",
+        "note": "The homepage partner grid (logo-only, no names in text) shows the Tashkent city administration emblem linking to tashkent.uz, the city hokimiyat's official portal ('Тошкент шаҳар ҳокимияти расмий сайти'). Same grid content verified on the live homepage https://www.pakhtakor.uz/ on 2026-09-30 (currently refuses script connections). Shirt placement (if any) not confirmed.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "montella",
+      "placement": "partner",
+      "source": {
+        "name": "«ПАХТАКОР» Футбол клуби — official website, homepage ('Бизнинг ҳамкорлар' partners section; Wayback snapshot 2026-08-31)",
+        "date": "2026-08-31",
+        "url": "https://web.archive.org/web/20260831042631/https://www.pakhtakor.uz/",
+        "quote": "Бизнинг ҳамкорлар",
+        "note": "The homepage partner grid (logo-only, no names in text) shows a 'Montella' logo linking to navruzint.com/montella/, the drinking-water brand of Navruz International Corp. Same grid content verified on the live homepage https://www.pakhtakor.uz/ on 2026-09-30 (currently refuses script connections). Shirt placement (if any) not confirmed.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "AKFA (Akfa Group, the construction-materials holding founded by Jahongir Artykkhodjaev) is Pakhtakor's shirt sponsor, documented 2023-2025 by oldfootballshirts.com and, for the 2026 adidas home shirt, by Football Kit Archive (blocked to scripts). The club homepage's logo-only partner grid also lists AKFA Group, the Tashkent city administration (tashkent.uz), Montella (Navruz International) and Trustbank; Trustbank's own press service confirms it sponsors the club. Back, sleeve and shorts sponsors could not be verified: Football Kit Archive 403s scripts and the club's news archive carries no 2026 kit announcement.",
+  "change": null
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thaibev-chang-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "thai-beverage"
+  ],
+  "text": "Chang (เบียร์ช้าง) is a flagship beer brand of Thai Beverage Public Company Limited.",
+  "short": "Chang beer is a Thai Beverage PCL brand.",
+  "source": {
+    "name": "Thai Beverage Plc - About Us (เกี่ยวกับ บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน))",
+    "date": "2026-10-01",
+    "url": "https://www.thaibev.com/aboutus",
+    "quote": "นอกจากนี้ เบียร์ช้าง ซึ่งเป็นอีกหนึ่งผลิตภัณฑ์หลัก ยังเป็นหนึ่งในเบียร์ของไทยที่เป็นที่รู้จักอย่างกว้างขวางทั้งในประเทศและต่างประเทศ",
+    "note": "Thai Beverage's own about page names Chang beer as one of the group's key products.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

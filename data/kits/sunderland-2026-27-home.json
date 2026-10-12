@@ -16,11 +16,34 @@
       "source": {
         "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
         "date": "2026-09-11",
-        "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/"
+        "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/",
+        "quote": "Sunderland AFC is delighted to announce Shuffle as the Club’s new Official Sleeve Partner in a multi-year partnership.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Sunderland AFC – 'Sunderland 2026-27 home shirt on sale now!'",
+        "date": "2026-07-28",
+        "url": "https://www.safc.com/news/2026/july/28/sunderland-afc-launches-triumph-of--37-home-kit-/",
+        "quote": "with red hummel chevrons proudly sitting on the shoulders",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "No front-of-shirt sponsor at the start of the season (SportsPro).",
-  "change": null
+  "sponsorsComplete": true,
+  "summary": "Sunderland start 2026-27 with a blank front: the Premier League's new ban on front-of-shirt gambling sponsors ended W88's deal, and a proposed Visit Ghana deal collapsed in September 2026. Shuffle is the sleeve sponsor and hummel makes the kit. Every placement checked: nothing on the front, Shuffle on the sleeve.",
+  "change": {
+    "kind": "worse",
+    "text": "Worse than last season: W88 left the front and no replacement was signed before the season began",
+    "badge": "W88 gone"
+  }
 }

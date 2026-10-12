@@ -3,20 +3,32 @@
   "channels": [
     {
       "type": "email",
-      "value": "ticketoffice@redsox.com",
+      "value": "fanfeedback@redsox.com",
+      "label": "Fan feedback",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website contact page (Contact the Red Sox)",
         "url": "https://www.mlb.com/redsox/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-29",
+        "quote": "By Email Ticket Sales Group Tickets Order Confirmation Lost or Never Received Tickets Other Ticket Inquiries Fenway Park Tours Private Special Events General Feedback",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
-      "type": "email",
-      "value": "tours@redsox.com",
+      "type": "phone",
+      "value": "+16172266000",
+      "label": "General information",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website contact page (Contact the Red Sox)",
         "url": "https://www.mlb.com/redsox/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-29",
+        "quote": "By Phone General Information: 617-226-6000",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +36,44 @@
       "value": "https://www.mlb.com/redsox/official-information/contact",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
+        "name": "Club website contact page (Contact the Red Sox)",
         "url": "https://www.mlb.com/redsox/official-information/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-29",
+        "quote": "Contact the Red Sox",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@RedSox",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/redsox",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Contact the Red Sox)",
+        "url": "https://www.mlb.com/redsox/official-information/contact",
+        "date": "2026-09-29",
+        "quote": "Follow the Boston Red Sox:",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@redsox",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/redsox",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Contact the Red Sox)",
+        "url": "https://www.mlb.com/redsox/official-information/contact",
+        "date": "2026-09-29",
+        "quote": "Follow the Boston Red Sox:",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

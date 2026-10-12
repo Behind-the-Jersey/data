@@ -1,0 +1,21 @@
+{
+  "id": "rugs-com-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "rugs-com"
+  ],
+  "text": "Rugs.com is a family-owned and family-operated business with over 55 years of experience in retail and wholesale; its headquarters is in Fort Mill, South Carolina.",
+  "short": "Family-owned rug retailer",
+  "source": {
+    "name": "Rugs.com – About Rugs.com (Help Center)",
+    "date": "2026",
+    "url": "https://rugs.com/customer-service/helpallquestions?about=",
+    "quote": "We are a family-owned and family-operated business with over 55 years of experience in the retail and wholesale industry",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Company's own FAQ. The page's only date is the site footer copyright (© 2026 Rugs.com); it does not name the owning family. 'Where is Rugs.com located?' on the same page: 'Our headquarters is located in Fort Mill, South Carolina.'"
+  },
+  "reviewed": false
+}

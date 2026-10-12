@@ -1,0 +1,20 @@
+{
+  "id": "bloom-energy-corp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bloom-energy-corp"
+  ],
+  "text": "Bloom Energy Corp registers its Class A Common Stock (symbol BE) on the New York Stock Exchange under Section 12(b) of the Securities Exchange Act.",
+  "short": "Bloom Energy Corp is a listed company (NYSE: BE).",
+  "source": {
+    "name": "Bloom Energy Corp Form 10-K for fiscal year ended December 31, 2025 (SEC cover page)",
+    "date": "2026-02-09",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm",
+    "quote": "Securities registered pursuant to Section 12(b) of the Act: Title of Each Class Trading Symbol(s) Name of each exchange on which registered Class A Common Stock, $0.0001 par value BE New York Stock Exchange",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

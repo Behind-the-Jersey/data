@@ -1,0 +1,42 @@
+{
+  "id": "arpa-broadview-hal-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "arpa-industriale"
+  ],
+  "text": "Arpa Industriale, the Italian manufacturer behind the FENIX brand, is part of Broadview Holding ('s-Hertogenbosch, Netherlands). Broadview is controlled by HAL Holding N.V.; all of HAL Holding's shares are held by HAL Trust, whose shares are quoted on the Amsterdam Stock Exchange.",
+  "short": "Arpa Industriale is part of Broadview Holding, controlled by HAL Holding N.V. (listed via HAL Trust, Amsterdam).",
+  "source": {
+    "name": "Arpa for interiors: 'The Group'",
+    "date": "2026",
+    "url": "https://www.arpaforinteriors.com/en-US/group",
+    "quote": "Arpa Industriale is part of Broadview Holding, a global group of leading brands and materials",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout (OpenCode, model kimi-k3)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "PR Newswire: 'Formica Group Acquired by Broadview Industries' (Formica Corporation release)",
+      "date": "2018-12-17",
+      "url": "https://www.prnewswire.com/news-releases/formica-group-acquired-by-broadview-industries-300767718.html",
+      "quote": "Broadview is controlled by HAL Holding N.V., an international holding company with a history that dates back to 1873",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model kimi-k3)"
+      }
+    },
+    {
+      "name": "HAL Holding N.V.: corporate website",
+      "date": "2026",
+      "url": "https://www.halholding.com/",
+      "quote": "All shares of HAL Holding are held by HAL Trust and form the Trust's entire assets. HAL Trust's shares are quoted on the Amsterdam Stock Exchange",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model kimi-k3)"
+      }
+    }
+  ],
+  "reviewed": false
+}

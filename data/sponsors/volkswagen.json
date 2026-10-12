@@ -2,10 +2,29 @@
   "id": "volkswagen",
   "name": "Volkswagen",
   "ownerId": "volkswagen-ag",
-  "ownership": "part-owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Brand of Volkswagen AG. Qatar Holding LLC holds 10.4% of Volkswagen AG’s capital and 17.0% of its voting rights.",
+  "claimIds": [
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership",
+    "qatar-migrant-worker-abuse-2025"
+  ],
+  "aliases": [
+    "vw"
+  ],
+  "note": "Main partner and shirt sponsor of VfL Wolfsburg; Volkswagen AG is the sole owner of VfL Wolfsburg’s football company (VfL Wolfsburg-Fußball GmbH). The sponsor is the Volkswagen Group itself. Rating note: concern. The link: Qatar Holding LLC, a wholly owned subsidiary of the Qatar Investment Authority, the State of Qatar’s sovereign wealth fund, holds 10.4% of Volkswagen AG’s capital and 17.0% of its voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership): 5% or more, without control. The record: Amnesty International and Human Rights Watch on migrant workers under Qatar’s kafala system (qatar-migrant-worker-abuse-2025). Rated concern on 2026-10-01 (maintainer decision): Qatar’s stake in Volkswagen AG is a link without control.",
+  "why": {
+    "text": "Qatar Holding LLC, a wholly owned subsidiary of the Qatar Investment Authority, the State of Qatar’s sovereign wealth fund, holds 10.4% of Volkswagen AG’s subscribed capital and 17.0% of its voting rights; it was Volkswagen’s third-largest shareholder at the end of 2025. Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses and exploitation under the kafala sponsorship system in 2025, despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses under the kafala sponsorship system.",
+    "status": "draft"
+  }
 }

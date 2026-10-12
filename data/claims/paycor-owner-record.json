@@ -4,12 +4,17 @@
   "ownerIds": [
     "paycor-owner"
   ],
-  "text": "Paycor, Inc. is owned by Paycor. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-  "short": "Paycor, Inc.",
+  "text": "Paycor was acquired by Paychex in April 2025.",
+  "short": "Paycor is owned by Paychex.",
   "source": {
     "name": "PAYCHEX INC DEF 14A 2026 (SEC)",
     "date": "2026-09-04",
-    "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526382805/d111983ddef14a.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526382805/d111983ddef14a.htm",
+    "quote": "In fiscal 2026, we completed the integration of Paycor, a leading provider of HCM, payroll, and talent software, acquired in April 2025.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "reviewed": false
 }

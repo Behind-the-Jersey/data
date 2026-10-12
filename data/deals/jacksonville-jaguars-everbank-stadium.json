@@ -4,13 +4,19 @@
   "orgName": "EverBank",
   "sponsorId": "everbank",
   "placement": "stadium",
-  "from": null,
-  "to": null,
+  "from": "2010",
+  "to": "2027",
   "value": null,
   "source": {
-    "name": "EverBank (news release)",
+    "name": "EverBank (news release): EverBank and the Jacksonville Jaguars Reach Pending Agreement for Stadium Naming-Rights Extension",
     "date": "2024-05-17",
-    "url": "https://www.everbank.com/about/news/05-17-2024/everbank-stadium-naming-rights"
+    "url": "https://www.everbank.com/about/news/05-17-2024/everbank-stadium-naming-rights",
+    "quote": "The home field of the Jacksonville Jaguars will remain EverBank Stadium through the end of the 2027 NFL season under a three-year naming-rights contract extension",
+    "note": "from 2010: the release says 'EverBank first acquired the naming rights to the Jaguars' stadium in 2010 and signed a 10-year extension in 2014'.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: EverBank Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-05-17."
+  "note": "Stadium naming rights: EverBank Stadium, through the 2027 NFL season (extension pending City of Jacksonville approval as of the 2024-05-17 release)."
 }

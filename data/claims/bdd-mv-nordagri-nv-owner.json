@@ -1,0 +1,23 @@
+{
+  "id": "bdd-mv-nordagri-nv-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "bdd-mv-investments",
+    "nordagri-nv",
+    "agri-europe-cyprus"
+  ],
+  "text": "NORDAGRI N.V. owns 100% of broker-dealer BDD M&V Investments a.d. Beograd, and M&V Investments in turn owns 100% of AIK Banka (AikBank) a.d. Beograd; the whole chain sits inside the AEC Group around Agri Europe Cyprus, the financial holding of Aleksandar Kostic, son of the late Miodrag Kostic.",
+  "short": "AikBank sits under BDD M&V Investments -> NORDAGRI N.V. -> Agri Europe Cyprus (AEC Group, Kostic family).",
+  "source": {
+    "name": "Forbes Crna Gora: \u0160ta Kosti\u0107ev Agri Europe Cyprus dobija preuzimanjem Hipotekarne banke",
+    "date": "2024-12-23",
+    "url": "https://forbes.vijesti.me/biznis/sta-kosticev-agri-europe-cyprus-dobija-preuzimanjem-hipotekarne-banke/",
+    "quote": "NORDAGRI N.V. 100% vlasnik Brokersko dilerskog dru\u0161tva \"M&V Investments\" a.d. Beograd, dok je ova brokerska ku\u0107a 100% vlasnik Agroindustrijsko komercijalne banke \u2013 AIK banka a.d. Beograd",
+    "note": "Article republishing analysis by portal Bankar about AEC Group's structure. It also describes Agri Europe Cyprus as part of the MK group of Aleksandar Kosti\u0107 (\"Kompanija Agri Europe Cyprus, koja posluje u sastavu MK grupe, Aleksandra Kosti\u0107a, sina preminulog Miodraga Kosti\u0107a\").",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

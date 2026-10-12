@@ -1,0 +1,32 @@
+{
+  "id": "ford-eeoc-buffalo-harassment",
+  "kind": "record",
+  "ownerIds": [
+    "ford-motor-company"
+  ],
+  "text": "The EEOC's investigation found reasonable cause to believe that Ford personnel at the company's Buffalo Stamping Plant subjected numerous employees to harassment and discrimination based on race and national origin; Ford agreed to pay $2.3 million to settle the 2021 charge, and the conciliation agreement requires anti-discrimination training and three years of reporting to the EEOC.",
+  "short": "EEOC found reasonable cause of race and national origin harassment at Ford's Buffalo Stamping Plant; Ford paid $2.3 million to settle.",
+  "source": {
+    "name": "U.S. Equal Employment Opportunity Commission",
+    "date": "2026-09-01",
+    "url": "https://www.eeoc.gov/newsroom/ford-motor-company-pay-23-million-resolve-eeoc-race-and-national-origin-harassment-charge",
+    "quote": "The EEOC's investigation found reasonable cause to believe that Ford personnel at the facility subjected numerous employees to harassment and discrimination based on race and national origin.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Buffalo Toronto Public Media",
+      "date": "2026-09-02",
+      "url": "https://www.btpm.org/local/2026-09-02/ford-to-pay-2-3-million-to-settle-ethnic-harassment-charge-at-hamburg-plant",
+      "quote": "According to the EEOC, an investigation found reasonable cause to believe Ford employees were targeting Black, Native American, Hispanic and other workers of various national or ethnic origins through graffiti left in several areas including break rooms and restrooms.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

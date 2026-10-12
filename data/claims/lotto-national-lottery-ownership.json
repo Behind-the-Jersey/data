@@ -1,0 +1,20 @@
+{
+  "id": "lotto-national-lottery-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-belgium"
+  ],
+  "text": "Lotto is the Belgian National Lottery's own brand: the Lottery's managing director Jannie Haek calls Lotto 'our brand', and the brand has been the cycling team's main partner since 1985.",
+  "short": "Lotto is the Belgian National Lottery's own brand, on the team since 1985.",
+  "source": {
+    "name": "Lotto-Intermarché: Lotto (partner page)",
+    "date": "2026",
+    "url": "https://www.lotto-intermarche.be/en/partner/lotto",
+    "quote": "Cycling holds a special place in Lotto’s history. Since 1985, our brand has been continuously present in the professional peloton.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

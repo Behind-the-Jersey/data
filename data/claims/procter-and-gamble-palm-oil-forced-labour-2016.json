@@ -1,0 +1,31 @@
+{
+  "id": "procter-and-gamble-palm-oil-forced-labour-2016",
+  "kind": "record",
+  "ownerIds": [
+    "procter-and-gamble"
+  ],
+  "text": "Amnesty International's 2016 investigation of palm-oil plantations in Indonesia documented child and forced labour, and traced palm oil to nine companies including Procter & Gamble; it said P&G is highly likely to be supplied by the plantations it investigated.",
+  "source": {
+    "name": "Amnesty International USA – The great palm oil scandal: Labor abuses behind big brand names",
+    "date": "2016-11-28",
+    "url": "https://www.amnestyusa.org/reports/the-great-palm-oil-scandal-labor-abuses-behind-big-brand-names/",
+    "quote": "Unilever, Nestlé, Proctor & Gamble among nine household names contributing to labor abuse",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Deutsche Welle – Report: Multinationals profiting from child labor",
+      "date": "2016-11-29",
+      "url": "https://www.dw.com/en/report-multinationals-profiting-from-child-labor/a-36583113",
+      "quote": "An Amnesty report released Wednesday says Unilever, Nestle and Procter & Gamble are among nine household names contributing to abuse including child and forced labor.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

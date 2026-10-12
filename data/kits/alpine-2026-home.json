@@ -12,59 +12,648 @@
       "sponsorId": "bwt",
       "placement": "front",
       "source": {
-        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
-        "date": "2026-09-24",
-        "url": "https://www.alpinef1.com/partners"
+        "name": "BWT Alpine Formula One Team – BWT partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/title-partner-bwt",
+        "quote": "BWT (Best Water Technology) is Europe’s leading water technology company, driven by a bold mission: to deliver the best water while protecting the planet.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "eni",
       "placement": "front",
       "source": {
-        "name": "Eni – Eni, Renault Group and BWT Alpine Formula One Team new strategic partnership (PDF)",
-        "date": "2025-02-13",
-        "url": "https://www.eni.com/content/dam/enicom/documents/press-release/migrated/2025-en/02/pr-eni-renault-group-bwt-alpine-formula-one-team-new-strategic-partnership.pdf"
-      }
-    },
-    {
-      "sponsorId": "qatar-airways",
-      "placement": "partner",
-      "source": {
-        "name": "Qatar Airways – Qatar Airways and BWT Alpine Formula One Team unite with Carmen Jordá",
-        "date": "2026",
-        "url": "https://www.qatarairways.com/press-releases/en-WW/258365-qatar-airways-and-bwt-alpine-formula-one-team-unite-with-carmen-jorda-to-champion-female-empowerment-in-motorsport-and-aviation/",
-        "note": "date precision: year"
+        "name": "BWT Alpine Formula One Team – Eni partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/premium-partner-eni",
+        "quote": "Eni is a global energy tech company operating in 61 Countries, with over 30.000 employees. Originally an oil & gas company, it has evolved into an integrated energy company, playing",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "msc-cruises",
+      "placement": "sleeve",
+      "source": {
+        "name": "BWT Alpine Formula One Team – MSC Cruises partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/premium-partner-msc-cruises",
+        "quote": "Headquartered in Geneva, Switzerland, the privately-owned MSC Cruises is the world’s third largest cruise line and the market leader in Europe with a strong and growing presence in North America.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "h-moser-cie",
       "placement": "partner",
       "source": {
-        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
-        "date": "2026-09-24",
-        "url": "https://www.alpinef1.com/partners"
+        "name": "BWT Alpine Formula One Team – H. Moser & Cie. partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/premium-partner-moser",
+        "quote": "H. Moser & Cie. was created by Heinrich Moser in 1828. Based in Neuhausen am Rheinfall, it currently employs 120 people globally, has developed 18 in-house calibres to date and",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "r5-turbo-3e",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – R5 Turbo 3E partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/premium-partner-R5TURBO3E",
+        "quote": "R5 TURBO 3E",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "atkinsrealis",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – AtkinsRéalis partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-atkinsrealis",
+        "quote": "Created by the integration of long-standing organisations dating back to 1911, AtkinsRéalis is a world-class engineering services and nuclear company dedicated to engineering a better future for our planet and",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "arctic-wolf",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Arctic Wolf partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-arctic-wolf",
+        "quote": "Arctic Wolf® is a global security operations leader, delivering a premier cloud-native security operations platform designed to end cyber risk.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "avature",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Avature partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-avature",
+        "quote": "Avature is a global leader in enterprise human capital management, delivering a powerful AI-driven platform designed to help organisations attract, develop and retain top talent as well as manage and",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "businessolver",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Businessolver partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-businessolver",
+        "quote": "At Businessolver, we are dedicated to delivering delight through our benefits technology and services. For over 25 years, our innovative benefits administration platform has addressed unique challenges faced by Human",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "castore",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Castore partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-castore",
+        "quote": "Castore is a performance sportswear brand and end-to-end digital retailing platform for global sports teams.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "cato-networks",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Cato Networks partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-cato-networks",
+        "quote": "Cato Networks delivers enterprise security and networking in a single cloud platform. The SASE leader creates a seamless and elegant customer experience that effortlessly enables threat prevention, data protection, and",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "etoro",
       "placement": "partner",
       "source": {
-        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
-        "date": "2026-09-24",
-        "url": "https://www.alpinef1.com/partners"
+        "name": "BWT Alpine Formula One Team – eToro partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-etoro",
+        "quote": "eToro is the trading and investing platform that empowers you to invest, share and learn. We were founded in 2007 with the vision of a world where everyone can trade",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "eurodatacar",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Eurodatacar partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-eurodatacar",
+        "quote": "Eurodatacar is the leader in the field of antitheft marking, approved by insurance companies for theft protection since 1978. Eurodatacar is distributed by the biggest car brands and car dealers",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "indramind",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – IndraMind partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-indra",
+        "quote": "IndraMind is Indra Group's technological initiative that develops sovereign artificial intelligence within a cyber-resilient environment",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mercado-libre",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Mercado Libre partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-mercado-libre",
+        "quote": "Founded in 1999, Mercado Libre, Inc (NASDAQ: MELI) is the leading company in e-commerce and financial technology in Latin America, with operations in 18 countries.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mobilize-financial-services",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Mobilize Financial Services partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-mobilize-financial-services",
+        "quote": "Attentive to the needs of all its customers, Mobilize Financial Services, a subsidiary of Renault Group, creates innovative financial services to build sustainable mobility for all.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "modo-casino",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – MODO Casino partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-modo-casino",
+        "quote": "MODO Casino has hundreds of Free To Play Social Casino-Style Games. Enjoy an immersive social gaming experience with a wide variety of thrilling casino games. Spin the reels, place your",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "new-era",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – New Era partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-new-era",
+        "quote": "Together with BWT Alpine Formula One Team, New Era unites the forefront of boundary-pushing motorsport with the pinnacle of performance and lifestyle headwear.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "oakberry",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Oakberry partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-oakberry",
+        "quote": "OAKBERRY was founded in Brazil in 2016 by Georgios Frangulis and Renato Haidar following a dream to create a quick-service superfood brand that is delicious, easy and fun to eat,",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "qatar-airways",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Qatar Airways partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-qatar-airways",
+        "quote": "A multiple award-winning airline, Qatar Airways continues to set the benchmark for excellence in global aviation. The airline continues to be synonymous with excellence and is renowned for its award-winning",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sealsq",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – SEALSQ partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-sealsq",
+        "quote": "SEALSQ (NASDAQ: LAES) is a leading company in semiconductor, cybersecurity, and digital identity technologies, pioneering the transition toward quantum-ready security. From connected devices to cloud infrastructures and mobility systems, SEALSQ",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "shamir",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Shamir partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-shamir",
+        "quote": "Shamir is a world-leading developer, producer and marketer of personalized high-performance ophthalmic lenses and innovative optical solutions. Eyecare professionals the world over recommend Shamir’s lenses thanks to uncompromising quality, cutting-edge",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "skip",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Skip partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/regional-partner-skip",
+        "quote": "The regional partnership will promote Skip across Argentina and Uruguay through “Ready for the Next Lap” campaign",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "valvoline",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Valvoline partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-valvoline",
+        "quote": "Valvoline™ Global, being America’s first branded motor oil, is powering the next generation of mobility through innovation for customers in 140+ countries and at more than 80,000 points of distribution.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "the-venetian-resort",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – The Venetian Resort partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-the-venetian-resort",
+        "quote": "The Venetian Resort Las Vegas marries the warmth of Venice with the thrill of Vegas to create a dazzling all-suite destination with over 7,000 suites that are nearly double the",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "viagogo",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – viagogo partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-viagogo",
+        "quote": "viagogo is the world’s leading marketplace to buy and sell tickets to any live event, anywhere. Through viagogo internationally and StubHub, their platform in North America, they service customers in",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "boeing",
       "placement": "partner",
       "source": {
-        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
-        "date": "2026-09-24",
-        "url": "https://www.alpinef1.com/partners"
+        "name": "BWT Alpine Formula One Team – Boeing partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-partner-boeing",
+        "quote": "As the advanced central research and development organization of The Boeing Company, Boeing Research & Technology (BR&T) provides innovative technologies that enable the development of future aerospace solutions while improving",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "3d-systems",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – 3D Systems partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-3d-systems",
+        "quote": "More than 35 years ago, 3D Systems brought the innovation of 3D printing to the manufacturing industry. Today, as the leading Additive Manufacturing solutions partner, we bring innovation, performance, and",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "alpinestars",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Alpinestars partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-alpine-stars",
+        "quote": "Alpinestars, the world’s premier motorsports performance protection manufacturer, has been racing at the highest levels of motorsports for more than 60 years.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "beforeyouspeak-coffee",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Beforeyouspeak Coffee partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-beforeyouspeak-coffee",
+        "quote": "Leading performance coffee brand, Beforeyouspeak Coffee has joined forces with BWT Alpine Formula One Team as Exclusive Coffee Provider.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "built-for-athletes",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Built For Athletes partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-built-for-athletes",
+        "quote": "As BWT Alpine Formula One Team continues to push the boundaries of performance on the track, Built For Athletes is proud to support their journey with gear designed to enhance",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "delphi",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Delphi partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-partner-delphi",
+        "quote": "Delphi, a brand of PHINIA Inc., is a global Aftermarket leader championing next-generation talent, first-to-market innovations, market leading products and smart service solutions, for a better and more connected today",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "d3o",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – D3O partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-d3o",
+        "quote": "D3O® is the world's leading protection company, keeping you and your things safe from harm caused by impact, vibration and fatigue. During the 2026 FIA Formula One World Championship™ season,",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "hmn24",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – HMN24 partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-hmn24",
+        "quote": "HMN24 was created to address the enormous physiological impacts of circadian misalignment, jet lag, and modern stressors on cellular, cardiovascular, metabolic, and mental.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "matrix",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Matrix partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-matrix",
+        "quote": "Matrix Fitness – A total solutions partner - is the commercial division of Johnson Health Tech. Matrix is comprised of a complete range of premium, commercial-grade cardiovascular and strength-training equipment",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "jaaq",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – JAAQ partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-jaaq",
+        "quote": "On a mission to improve the mental health of one billion people, British entrepreneur Danny Gray, fuelled by his life-long battle with Body Dysmorphic Disorder, launched JAAQ - Just Ask",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "lumi",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – LUMI partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-lumi",
+        "quote": "Established in 2020, Lumi Therapy has quickly emerged as an innovative and forward-thinking online company in the sports therapy and wellness industry. The company was founded by two fitness enthusiasts,",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "m-experiment",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – M-Experiment partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-m-experiment",
+        "quote": "Progress has never belonged to the comfortable. It belongs to the engineers, the drivers, the builders—the ones willing to test limits, challenge convention, and push beyond what’s already been proven.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mission",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – MISSION partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-mission",
+        "quote": "MISSION is a performance tea brand dedicated to tackling the caffeine crisis with slow-release energy.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pirelli",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Pirelli partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-pirelli",
+        "quote": "Established in 1872, Pirelli is among the world’s leading tyre producers. It is the only pure consumer tyre company that includes car, motorbike, and bicycle tyres as well as associated",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "roland-dg",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Roland DG partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-roland",
+        "quote": "Japanese manufacturer, Roland DG, have pioneered development of digital printing and CNC technology over the past 45 years. Today, they are the leading name in the field of print and",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "trak-racer",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Trak Racer partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-trak-racer",
+        "quote": "Since 2008, Trak Racer has been designing high-end gaming accessories. Trak Racer products are made from high-quality materials and with a durable construction that gives Trak Racer the confidence to",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "united-machining",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – United Machining partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-supplier-united-machining",
+        "quote": "United Machining is one of the world's leading providers of complete solutions for precision components and tools manufacturers and the mold-making industry.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "endstate",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Endstate partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-licensee-endstate",
+        "quote": "Endstate announce a licensing partnership with BWT Alpine Formula One Team, unveiling a contemporary luxury travel sneaker designed specifically for the team. The collaboration marks a significant milestone in merging",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "the-james-brand",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – The James Brand partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-licensee-the-james-brand",
+        "quote": "Based on the adage that if you can’t find what you want, you might have to make it yourself, we decided to put pen to paper and design something new:",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "perfect-moment",
+      "placement": "partner",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Perfect Moment partner page",
+        "date": "2026-10-01",
+        "url": "https://www.alpinef1.com/partners/team-licensee-perfect-moment",
+        "quote": "BWT Alpine Formula One Team and Luxury skiwear and lifestyle brand Perfect Moment (NYSE American; PMNT) will come together to reveal a special-edition, capsule collection that effortlessly fuses Perfect Moment’s",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "2026 car. S"
+  "summary": "2026 F1 car (A526). BWT title partner and Eni on the front; MSC Cruises on the sleeve; the rest of the team's published 2026 partner, supplier and licensee roster as partners. Pirelli is the league-wide tyre supplier."
 }

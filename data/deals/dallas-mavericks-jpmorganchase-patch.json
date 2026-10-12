@@ -8,9 +8,14 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "JPMorgan Chase Newsroom",
+    "name": "JPMorgan Chase Newsroom: Dallas Mavericks and JPMorganChase announce multi-year strategic partnership",
     "date": "2026-07-08",
-    "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+    "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs",
+    "quote": "The Dallas Mavericks announced a multi-year partnership with JPMorganChase, designating Chase the official Jersey Patch and Banking Partner of the franchise.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
   "note": "Jersey patch."
 }

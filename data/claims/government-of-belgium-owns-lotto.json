@@ -1,0 +1,20 @@
+{
+  "id": "government-of-belgium-owns-lotto",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-belgium"
+  ],
+  "text": "The Belgian National Lottery, whose brand is Lotto, is a public law limited company that comes under the direct supervision of the Belgian government via the Minister of Finance and the Minister of the Budget.",
+  "short": "The National Lottery (Lotto) is a public-law company under direct Belgian government supervision.",
+  "source": {
+    "name": "FPS Finance (Belgium.be): National Lottery",
+    "date": "2026",
+    "url": "https://finance.belgium.be/en/about_fps/institutions_dependent_upon_fps_finance/national_lottery",
+    "quote": "The National Lottery comes under the direct supervision of the government (via the Minister of Finance and the Minister of the Budget).",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

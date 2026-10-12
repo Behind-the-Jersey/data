@@ -1,0 +1,35 @@
+{
+  "id": "iran-executions-2025-record",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-iran",
+    "oil-industry-pension-fund",
+    "pgpic",
+    "pidmco"
+  ],
+  "text": "Iranian authorities carried out over 2,000 executions in 2025 — the highest number of known executions since the late 1980s — over half of them for drug-related offences (Human Rights Watch, citing the Abdorrahman Boroumand Center); Amnesty International had already recorded over 1,000 executions by September 2025, its highest yearly count for Iran in at least 15 years.",
+  "short": "Iran carried out over 2,000 executions in 2025, the highest in decades.",
+  "source": {
+    "name": "Human Rights Watch, World Report 2026: Iran",
+    "date": "2026-02-04",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/iran",
+    "quote": "By the end of 2025, authorities had carried out over 2,000 executions, according to the Abdorrahman Boroumand Center for Human Rights in Iran, the highest number of known executions since the late 1980s.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Amnesty International: Iran: Over 1,000 people executed as authorities step up horrifying assault on right to life",
+      "date": "2025-09-26",
+      "url": "https://www.amnesty.org/en/latest/news/2025/09/iran-over-1000-people-executed-as-authorities-step-up-horrifying-assault-on-right-to-life/",
+      "quote": "Iranian authorities have executed over 1,000 people thus far in 2025, the highest number of yearly executions in Iran that the organization has recorded in at least 15 years",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "technics-panasonic-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "panasonic-holdings"
+  ],
+  "text": "Technics is the Hi-Fi audio brand name and a trademark of Panasonic Co., Ltd. (パナソニック株式会社), part of the Panasonic Group under Panasonic Holdings Corporation.",
+  "short": "Technics is a Panasonic brand and trademark.",
+  "source": {
+    "name": "Technics official site (jp.technics.com): テクニクスについて (About Technics)",
+    "date": "2026",
+    "url": "https://jp.technics.com/aboutus/",
+    "note": "Page undated.",
+    "quote": "テクニクスは、パナソニック株式会社のHi-Fi オーディオ製品のブランド名です。",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

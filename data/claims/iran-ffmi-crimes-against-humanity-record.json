@@ -1,0 +1,36 @@
+{
+  "id": "iran-ffmi-crimes-against-humanity-record",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-iran",
+    "oil-industry-pension-fund",
+    "pgpic",
+    "pidmco"
+  ],
+  "text": "The UN Independent International Fact-Finding Mission on Iran found that the government's repression of the 2022 'Woman, Life, Freedom' protests — unlawful killings, torture, rape, enforced disappearances and gender persecution — included serious violations amounting to crimes against humanity; it cited credible figures of up to 551 protesters killed, among them at least 49 women and 68 children.",
+  "short": "UN Fact-Finding Mission: Iran's repression of the 2022 protests included crimes against humanity.",
+  "source": {
+    "name": "OHCHR: Iran: Institutional discrimination against women and girls enabled human rights violations and crimes against humanity in the context of recent protests, UN Fact-Finding Mission says (archived copy)",
+    "date": "2024-03-08",
+    "url": "http://web.archive.org/web/20260919003119/https://www.ohchr.org/en/press-releases/2024/03/iran-institutional-discrimination-against-women-and-girls-enabled-human",
+    "quote": "serious human rights violations by the Government of Iran, many amounting to crimes against humanity",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "ohchr.org returned HTTP 403 to this script on 2026-10-01; the quote was verified on the Wayback Machine copy (capture 2026-09-19). The report details extra-judicial killings, arbitrary detention, torture, rape and enforced disappearances in the repression of the protests that began 16 September 2022."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "The Guardian: UN: Iran committed crimes against humanity during protest crackdown",
+      "date": "2024-03-08",
+      "url": "https://www.theguardian.com/global-development/2024/mar/08/un-iran-committed-crimes-against-humanity-during-protest-crackdown",
+      "quote": "The Iranian regime's human rights violations during its brutal suppression of protests in 2022 amount to crimes against humanity, a UN fact-finding mission (FFM) has said.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}

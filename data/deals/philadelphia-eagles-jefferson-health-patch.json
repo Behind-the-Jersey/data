@@ -4,13 +4,18 @@
   "orgName": "Jefferson Health",
   "sponsorId": "jefferson-health",
   "placement": "training-kit",
-  "from": "2026",
+  "from": null,
   "to": null,
   "value": null,
   "source": {
-    "name": "Zoomph (2026 NFL practice jersey patch guide)",
-    "date": "2026-09-01",
-    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    "name": "Philadelphia Eagles (philadelphiaeagles.com) – Eagles announce expanded healthcare partnerships with Jefferson Health and Select Medical's NovaCare Rehabilitation",
+    "date": "2026-02-17",
+    "url": "https://www.philadelphiaeagles.com/news/eagles-announce-expanded-healthcare-partnerships-jefferson-health-novacare-rehabilitation",
+    "quote": "will continue to serve as the patch sponsor of the team's practice jerseys",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Practice-jersey patch."
+  "note": "Practice-jersey patch; the club's 2026-02-17 release says Jefferson will continue in the role as part of multi-year extensions. The deal's start is not given there."
 }

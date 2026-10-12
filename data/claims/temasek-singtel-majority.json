@@ -1,0 +1,35 @@
+{
+  "id": "temasek-singtel-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "singtel",
+    "temasek-holdings"
+  ],
+  "text": "Temasek Holdings (Private) Limited is the majority shareholder of Singtel: 50.57% of issued ordinary shares in Singtel's register of members (as at 2 June 2026, FY2026 Annual Report); the Singapore Exchange's company profile for Singtel also states it is majority-owned by Temasek.",
+  "short": "Temasek holds a majority stake (50.57%) in Singtel.",
+  "source": {
+    "name": "Singtel Annual Report 2026: Shareholder Information (as at 2 June 2026), Major Shareholders List - Top 20",
+    "date": "2026-06-30",
+    "url": "https://cdn2.singteldigital.com/content/dam/singtel/investorRelations/annualReports/2026/AR2026.pdf",
+    "quote": "TEMASEK HOLDINGS (PRIVATE) LIMITED 8,304,071,181 50.57",
+    "note": "The register of substantial shareholders on the same page shows Temasek with 8,304,071,181 direct shares plus 234,305,969 deemed.",
+    "checked": {
+      "on": "2026-09-30",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Singapore Exchange (SGX): corporate information page for Singapore Telecommunications Limited",
+      "date": "2026-09-29",
+      "url": "https://links.sgx.com/1.0.0/corporate-information/2032",
+      "quote": "It is majority-owned (2019: 49.8 percent) by Temasek Holdings (Private) Limited.",
+      "note": "SGX's background text (marked 'information last updated' 2026-09-29) confirms majority ownership by Temasek; the 49.8% figure is the exchange's 2019 number, while Singtel's own register shows 50.57% as at 2 June 2026.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

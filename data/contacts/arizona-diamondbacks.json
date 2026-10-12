@@ -30,6 +30,21 @@
       }
     },
     {
+      "type": "phone",
+      "value": "+16024626500",
+      "label": "General information",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/dbacks/official-information/contact",
+        "date": "2026-10-01",
+        "quote": "General Information: 602-462-6500",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@dbacks",
       "source": {
@@ -48,5 +63,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }

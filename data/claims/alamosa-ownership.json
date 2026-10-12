@@ -1,0 +1,31 @@
+{
+  "id": "alamosa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "alamosa"
+  ],
+  "text": "Dipart, the Spanish car-parts distribution group, says Alavesa del Motor, S.A. (Alamosa), a family company with over fifty years in car-parts retail, joined Dipart in 2013; Alamosa's own website says it belongs to the DP distribution group.",
+  "source": {
+    "name": "Dipart: 'DP Alamosa amplía sus instalaciones'",
+    "date": "2022-10-21",
+    "url": "https://dipart.es/dp-alamosa-amplia-sus-instalaciones/",
+    "quote": "Se incorporaron a Dipart en el año 2013 con el fin de poder ofrecer a sus clientes más herramientas y servicios para su desarrollo",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Alamosa (Alavesa del Motor, S.A.): Inicio",
+      "date": "2026",
+      "url": "https://alamosa.es/",
+      "quote": "Pertenecientes al grupo de distribución DP, es una empresa consciente de la importancia actual de contar con el soporte técnico",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
