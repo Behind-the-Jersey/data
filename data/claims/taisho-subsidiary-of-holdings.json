@@ -1,0 +1,21 @@
+{
+  "id": "taisho-subsidiary-of-holdings",
+  "kind": "ownership",
+  "ownerIds": [
+    "taisho-pharmaceutical-holdings"
+  ],
+  "text": "Taisho Pharmaceutical Co., Ltd. is the principal operating subsidiary of Taisho Pharmaceutical Holdings Co., Ltd., which was taken private by the founding Uehara family in an April 2024 management buyout and delisted from the Tokyo Stock Exchange.",
+  "short": "Taisho Pharmaceutical is the operating subsidiary of Taisho Pharmaceutical Holdings.",
+  "source": {
+    "name": "CNS Pulse: Taisho Pharmaceutical Co., Ltd. (company profile)",
+    "date": "2026",
+    "url": "https://cnspulse.com/company/taisho-pharmaceutical/",
+    "quote": "It is the principal operating subsidiary of Taisho Pharmaceutical Holdings Co., Ltd., which was taken private by the founding Uehara family in an April 2024 management buyout and delisted from the Tokyo Stock Exchange.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Undated company profile page, opened 2026-10-04. CNS Pulse is a psychopharmacology pipeline database; its entry links to taisho.co.jp."
+  },
+  "reviewed": false
+}
