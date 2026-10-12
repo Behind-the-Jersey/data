@@ -1,0 +1,33 @@
+{
+  "id": "helinox-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "helinox"
+  ],
+  "text": "Helinox is a South Korean outdoor-furniture brand described by the Hyundai Motorsport partners page as 'maker-founded and family-owned since 2008'; Genesis Magma Racing's partnership announcement calls Helinox a South Korean brand.",
+  "short": "Helinox: South Korean, maker-founded and family-owned.",
+  "source": {
+    "name": "Hyundai Motorsport: Partners & Sponsors - Genesis Magma Racing (Helinox)",
+    "date": "2026",
+    "url": "https://motorsport.hyundai.com/about-us/partners-sponsors",
+    "quote": "Maker-founded and family-owned since 2008, today they are a hub of culture, creativity, and craft.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Page without a date; opened 2026-10-03. 'Helinox is an award-winning outdoor furniture company born from a simple idea: design a lightweight, packable chair. Maker-founded and family-owned since 2008' (under Genesis Magma Racing Partners > Official Partners)."
+  },
+  "additionalSources": [
+    {
+      "name": "Genesis Newsroom: Genesis Magma Racing announces South Korean brand Helinox as partner for 2026 FIA WEC season",
+      "date": "2026-02-20",
+      "url": "https://newsroom.genesis.com/genesis-magma-racing-announces-south-korean-brand-helinox-as-partner-for-2026-fia-wec-season/",
+      "quote": "Genesis Magma Racing has appointed South Korean brand Helinox as its Official Outdoor Furniture Partner for the 2026 FIA World Endurance Championship",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

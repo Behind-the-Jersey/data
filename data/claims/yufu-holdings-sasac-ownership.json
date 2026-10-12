@@ -1,0 +1,35 @@
+{
+  "id": "yufu-holdings-sasac-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "chongqing-yufu-holdings",
+    "chongqing-municipal-government"
+  ],
+  "text": "The Chongqing Municipal State-owned Assets Supervision and Administration Commission holds 100% of Chongqing Yufu Holdings Group Co., Ltd. and is its controlling shareholder and actual controller.",
+  "short": "Chongqing SASAC holds 100% of Yufu Holdings and is its actual controller.",
+  "source": {
+    "name": "西南证券股份有限公司收购报告书 (Southwest Securities Co., Ltd. acquisition report), Shanghai Stock Exchange filing (mirror: Sina Finance)",
+    "date": "2025-01-08",
+    "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-1/2025-01-08/10698877.PDF",
+    "quote": "重庆市国资委持有渝富控股 100%股权，为渝富控股 控股股东、实际控制人",
+    "note": "Translation: 'The Chongqing Municipal SASAC holds 100% of Yufu Holdings and is Yufu Holdings' controlling shareholder and actual controller.' The same report adds that the commission is a special institution directly under the Chongqing Municipal People's Government performing its investor duties, and that Yufu Holdings' controlling shareholder and actual controller had not changed in the previous two years.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "重庆市国有资产监督管理委员会 (Chongqing Municipal SASAC portal, from 经济参考报): 奋楫逐浪 勇担使命 渝富控股二十年 深化改革谱新篇",
+      "date": "2024-03-21",
+      "url": "https://gzw.cq.gov.cn/gqdj/202403/t20240321_13054826.html",
+      "quote": "作为曾经的全国首家地方国有独资综合性资产经营管理公司，重庆渝富控股集团有限公司（简称“渝富控股”）",
+      "note": "Translation: 'As the country's first locally wholly state-owned comprehensive asset-management company, Chongqing Yufu Holdings Group Co., Ltd. (Yufu Holdings)...' Published in the SOE-news column of the Chongqing Municipal SASAC's own portal, which lists Yufu Holdings among the city's key municipal SOEs.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

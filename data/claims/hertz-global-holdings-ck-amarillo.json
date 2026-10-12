@@ -1,0 +1,32 @@
+{
+  "id": "hertz-global-holdings-ck-amarillo",
+  "kind": "ownership",
+  "ownerIds": [
+    "hertz-global-holdings"
+  ],
+  "text": "Hertz Global Holdings' largest stockholder is CK Amarillo LP, which held 57.6% of its common stock per the 2026 proxy statement; CK Amarillo is an entity for which Knighthead and Certares Opportunities serve as investment managers.",
+  "short": "Hertz Global Holdings' largest stockholder is CK Amarillo LP (57.6%), managed by Knighthead and Certares Opportunities.",
+  "source": {
+    "name": "Hertz Global Holdings, Inc., 2026 Proxy Statement (DEF 14A, SEC EDGAR) - beneficial ownership table",
+    "date": "2026-04-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/1657853/000110465926044356/tm261527-1_def14a.htm",
+    "quote": "CK Amarillo LP (1) 181,455,469 57.6% TD Securities (USA) LLC (2) 23,048,761 7.3% BlackRock, Inc. (3) 19,600,283 6.2%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Hertz Global Holdings, Inc., 2026 Proxy Statement (DEF 14A, SEC EDGAR) - governance section",
+      "date": "2026-04-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/1657853/000110465926044356/tm261527-1_def14a.htm",
+      "quote": "CK Amarillo LP (\u201cCK Amarillo\u201d), which is an entity for which Knighthead and Certares Opportunities serve as investment managers",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

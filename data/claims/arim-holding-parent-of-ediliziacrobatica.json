@@ -1,0 +1,16 @@
+{
+  "id": "arim-holding-parent-of-ediliziacrobatica",
+  "kind": "ownership",
+  "ownerIds": ["ediliziacrobatica-spa"],
+  "text": "Arim Holding is the parent company of EdiliziAcrobatica S.p.A., a rope-access renovations company listed on the Euronext Growth Milan and Euronext Growth Paris stock exchanges.",
+  "short": "Arim Holding is the parent company of EdiliziAcrobatica S.p.A.",
+  "source": {
+    "name": "ARIM Holding, company website",
+    "date": "2025",
+    "url": "https://arimholding.com/",
+    "quote": "Arim Holding is the parent company of EdiliziAcrobatica S.p.A., a leading rope access renovations company listed on the Euronext Growth Milan and Euronext Growth Paris stock exchanges.",
+    "note": "No publication date is shown on the page; the footer copyright reads 2019-2025.",
+    "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+  },
+  "reviewed": false
+}

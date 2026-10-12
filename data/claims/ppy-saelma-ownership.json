@@ -1,0 +1,21 @@
+{
+  "id": "ppy-saelma-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "saelma-co-ab"
+  ],
+  "text": "PPY Production AB belongs to a group; its parent company is Saelma & Co AB.",
+  "short": "PPY Production AB's parent company is Saelma & Co AB.",
+  "source": {
+    "name": "Allabolag: PPY Production AB (org.nr 556689-6857)",
+    "date": "2026",
+    "url": "https://www.allabolag.se/foretag/ppy-production-ab/billdal/kl%C3%A4der/2K2DX3TI5YEZD",
+    "quote": "PPY Production AB ingår i en koncern. Moderbolaget är Saelma & Co AB.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'PPY Production AB is part of a group. The parent company is Saelma & Co AB.' Allabolag cites Bolagsverket and UC AB."
+  },
+  "reviewed": false
+}

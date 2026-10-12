@@ -1,0 +1,21 @@
+{
+  "id": "teijin-tse-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "teijin-ltd"
+  ],
+  "text": "Teijin Limited is listed on the Tokyo Stock Exchange Prime Market (stock code 3401); its major-shareholder table as of March 31, 2026 shows The Master Trust Bank of Japan, Ltd. (trust account) as the largest shareholder with 15.37%, and no other holder above 7%.",
+  "short": "Teijin is Tokyo-listed; largest holder is a trust account at 15.37%.",
+  "source": {
+    "name": "Teijin Limited: Stock Data (Stock Information)",
+    "date": "2026-03-31",
+    "url": "https://www.teijin.com/ir/stocks/data/",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust account) 29,667,500 15.37",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The same page states 'Stock Exchange Listings | Tokyo Stock Exchange (Prime Market)' and 'Stock Code | 3401', with the table 'As of March 31, 2026'. The other holders in the top-10 table are each below 7% (custody and trust accounts, Goldman Sachs International 6.88%, Nippon Life Insurance 3.65%, the employee stock ownership association 3.19%)."
+  },
+  "reviewed": false
+}

@@ -12,13 +12,64 @@
       "sponsorId": "suzuki",
       "placement": "front",
       "source": {
-        "name": "Torino FC",
+        "name": "Torino FC, 'Torino FC e Suzuki insieme nel segno della continuità'",
         "date": "2026-07-03",
-        "url": "https://www.torinofc.it/news/03/07/2026/torino-fc-e-suzuki-insieme-nel-segno-della-continuita_43651"
+        "url": "https://www.torinofc.it/news/03/07/2026/torino-fc-e-suzuki-insieme-nel-segno-della-continuita_43651",
+        "quote": "La presenza della “S” di Suzuki sul petto dei giocatori granata rappresenta un segno concreto di continuità e di fiducia reciproca",
+        "note": "Translation: 'The presence of the Suzuki S on the chest of the granata players represents a concrete sign of continuity and mutual trust.' The announcement confirms the partnership for 2026/27, the fourteenth consecutive season.",
+        "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+      }
+    },
+    {
+      "sponsorId": "bet365-scores",
+      "placement": "front",
+      "source": {
+        "name": "Torino FC, 'bet365 Scores è il nuovo Second Main Partner del Torino'",
+        "date": "2025-08-17",
+        "url": "https://www.torinofc.it/news/17/08/2025/bet365-scores-e-il-nuovo-second-main-partner-del-torino_37236",
+        "quote": "Il logo del brand sarà posizionato sul fronte dell’iconica maglia del Club granata.",
+        "note": "Translation: 'The brand's logo will be positioned on the front of the granata club's iconic shirt.' This is the August 2025 announcement of the front placement; the club's home-kit launch of 3 July 2026 confirms bet365 Scores continues as Second Main Partner in 2026/27 ('Bet365 Scores come Second Main Partner').",
+        "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+      }
+    },
+    {
+      "sponsorId": "edilizia-acrobatica",
+      "placement": "back",
+      "source": {
+        "name": "Torino FC, 'MAGLIA HOME 2026/27: È QUESTIONE DI CASA'",
+        "date": "2026-07-03",
+        "url": "https://www.torinofc.it/news/03/07/2026/maglia-home-202627-e-questione-di-casa_43644",
+        "quote": "Suzuki si conferma Main Partner del Club. Bet365 Scores come Second Main Partner e Acrobatica rinnova la propria presenza come Back Partner.",
+        "note": "Translation: 'Suzuki is confirmed as the Club's Main Partner. Bet365 Scores as Second Main Partner and Acrobatica renews its presence as Back Partner.'",
+        "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+      }
+    },
+    {
+      "sponsorId": "fratelli-beretta",
+      "placement": "sleeve",
+      "source": {
+        "name": "Torino FC, 'Beretta è Sleeve Partner della Prima squadra'",
+        "date": "2026-08-22",
+        "url": "https://www.torinofc.it/news/22/08/2026/beretta-e-sleeve-partner-della-prima-squadra_44511",
+        "quote": "siamo felici di accogliere ancora una volta Salumificio Fratelli Beretta al nostro fianco come Sleeve Partner per la stagione 2026/27",
+        "note": "Translation: 'we are happy to welcome Salumificio Fratelli Beretta once again at our side as Sleeve Partner for the 2026/27 season.'",
+        "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "Torino FC, 'Beretta è Sleeve Partner della Prima squadra'",
+        "date": "2026-08-22",
+        "url": "https://www.torinofc.it/news/22/08/2026/beretta-e-sleeve-partner-della-prima-squadra_44511",
+        "quote": "formata da Suzuki (Main Partner), Bet365 Scores (Second Partner), Joma (Technical Partner) e Acrobatica (Back Partner)",
+        "note": "Kit maker (technical partner), not a shirt-sponsor placement; listed as partner per the convention for kit suppliers.",
+        "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Suzuki continued as main shirt partner for 26-27; Bet365 Scores also on the front."
+  "summary": "Suzuki on the front as Main Partner (14th consecutive season, renewed 3 July 2026), bet365 Scores on the front as Second Main Partner, Acrobatica on the back, Fratelli Beretta on the sleeve, kit made by Joma. All five are named in the club's 22 August 2026 announcement of its shirt-partner line-up and on the club's partner page."
 }

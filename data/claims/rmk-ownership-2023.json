@@ -1,0 +1,21 @@
+{
+  "id": "rmk-ownership-2023",
+  "kind": "ownership",
+  "ownerIds": [
+    "russian-copper-company-limited"
+  ],
+  "text": "After Igor Altushkin, former chairman of RMK's board of directors, exited the ownership on 14 June 2023, RMK's redomiciled parent company Russian Copper Company Limited is owned 34% by RMK president Vsevolod Levin, 33% by Roman Gorokhov, and 3% by Igor Kozhukhov, who also became the owner of Torivent Ventures Limited, holder of 30%.",
+  "short": "RMK parent owned by Levin 34%, Gorokhov 33%, Kozhukhov 3% plus Torivent's 30% (Interfax).",
+  "source": {
+    "name": "Interfax: Алтушкин вышел из числа владельцев редомицилированной в РФ материнской компании РМК",
+    "date": "2023-06-16",
+    "url": "https://www.interfax.ru/business/906780",
+    "note": "Translation of quote: 'Since 14 June, Levin owns 34% of Russian Copper Company Limited; another 3% is owned by Igor Kozhukhov.' The same article states Roman Gorokhov holds 33% and that Kozhukhov became the new owner of Torivent Ventures Limited (30%).",
+    "quote": "С 14 июня Левину в \"Рашн Коппер Компани Лимитед\" принадлежит 34%, еще 3% владеет Игорь Кожухов.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

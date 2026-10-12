@@ -7,8 +7,40 @@
   "periodFrom": "2025-26",
   "periodTo": "2025-26",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsors": [
+    {
+      "sponsorId": "citroen",
+      "placement": "front",
+      "source": {
+        "name": "Citroën Racing: Citroën unveils the single-seater that will carry its colours in Formula E",
+        "date": "2025-10-20",
+        "url": "https://citroen-racing.com/article/citroen-devoile-la-monoplace-qui-portera-ses-couleurs-en-formula-e/",
+        "quote": "Citroën unveils the single-seater that will carry the brand’s colours during its official participation in the ABB FIA Formula E World Championship.",
+        "note": "Team's own launch release (dateline Poissy, 20 October 2025; published on the team site under 01 Dec 2025). Citroën is the manufacturer brand the team is named after — Citroën Racing Formula E Team — so it takes the front slot, as CUPRA does for Cupra Kiro and DS Automobiles for DS Penske.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mitsubishi-electric",
+      "placement": "partner",
+      "source": {
+        "name": "MFE-Live (Marie-France Estenave): Mitsubishi Electric est partenaire officiel de Citroën Racing pour la saison 2025-2026 de Formule E",
+        "date": "2025-10-22",
+        "url": "https://www.mfe-live.com/2025/10/22/mitsubishi-electric-est-partenaire-officiel-de-citroen-racing-pour-la-saison-2025-2026-de-formule-e/",
+        "quote": "Mitsubishi Electric accompagne l’entrée du Citroën Racing Formula E Team dans l’unique compétition de monoplaces électriques au monde.",
+        "note": "French: 'Mitsubishi Electric accompanies the Citroën Racing Formula E Team's entry into the world's only electric single-seater competition.' Cross-checked on Mitsubishi Electric's own campaign site (electric-race.mitsubishielectric.fr): 'Mitsubishi Electric est sponsor officiel de Citroën Racing !'.",
+        "short": "MFE-Live",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Citroën — the Stellantis marque the team is named after — leads the kit, and Mitsubishi Electric is the team partner announced for the debut Season 12 (22 Oct 2025). The team site's partners block (checked 2026-10-03) lists only Mitsubishi Electric and TotalEnergies, and the TotalEnergies release says it is a partner 'from Season 13' (23 Sep 2026), so it is not on this kit. No other Season 12 team-partner announcement was found.",
   "change": null
 }

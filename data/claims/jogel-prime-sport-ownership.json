@@ -1,0 +1,21 @@
+{
+  "id": "jogel-prime-sport-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "prime-sport"
+  ],
+  "text": "The Jogel sportswear brand operates inside the Prime Sport company, which has more than 150 staff and eight other brands in its portfolio.",
+  "short": "Jogel is a brand of the Prime Sport company.",
+  "source": {
+    "name": "Metaratings.ru: «Одной из моих мечт было одевать сборную России» — интервью основателя Jögel Артура Мовсесяна",
+    "date": "2024-05-24",
+    "url": "https://metaratings.ru/blog/intervyu-osnovatelya-brenda-sportivnoj-ehkipirovki-jogel-artura-movsesyana/",
+    "quote": "Сейчас Jögel «живет» внутри большой компании «Прайм Спорт», у которой в штате более 150 сотрудников",
+    "note": "Translation: 'Today Jögel lives inside the large Prime Sport company, which has more than 150 staff.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xingcheng-group-sasac-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "chengdu-xingcheng-investment-group",
+    "chengdu-municipal-government"
+  ],
+  "text": "Chengdu Xingcheng Investment Group's shareholders are the Chengdu Municipal State-owned Assets Supervision and Administration Commission (Chengdu SASAC), with 90.00%, and the Sichuan Provincial Finance Department, with 10.00%; the SASAC is the group's controlling shareholder and actual controller.",
+  "short": "Chengdu SASAC holds 90% of Chengdu Xingcheng Investment Group and is its actual controller.",
+  "source": {
+    "name": "联合资信 (Lianhe Ratings): 成都兴城投资集团有限公司主体长期信用评级报告 (Chengdu Xingcheng Investment Group credit rating report)",
+    "date": "2026-07-21",
+    "url": "https://www.lhratings.com/uploads/file/20260722/20260722105716822485.pdf",
+    "quote": "成都市国有资产监督管理委员会（以下简称“成都市国资委”）和四川省财政厅分别持有公司90.00%和10.00%股权，成都市国资委为公司控股股东及实际控制人",
+    "note": "Translation: 'The Chengdu Municipal State-owned Assets Supervision and Administration Commission (Chengdu SASAC) and the Sichuan Provincial Finance Department hold 90.00% and 10.00% of the company respectively; the Chengdu SASAC is the company's controlling shareholder and actual controller.' Rating result AAA/stable, rating time 21 July 2026; the report's company profile section.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+      "date": "2026-03-17",
+      "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+      "quote": "成都建工集团有限公司与俱乐部同样隶属于成都兴城投资集团有限公司，背后的实际控制人均为成都市国资委",
+      "note": "Translation: 'Chengdu Construction Engineering Group Co., Ltd. and the club are both under Chengdu Xingcheng Investment Group Co., Ltd., and the actual controller behind both is the Chengdu Municipal SASAC.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

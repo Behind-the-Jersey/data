@@ -1,0 +1,33 @@
+{
+  "id": "peregrine-corporation-the-bend-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "peregrine-corporation-shahin-family"
+  ],
+  "text": "The Bend Motorsport Park (the circuit at Tailem Bend, South Australia) is owned by Peregrine Corporation, which is owned by the Shahin family.",
+  "short": "The Bend Motorsport Park is owned by the Shahin family-owned Peregrine Corporation.",
+  "source": {
+    "name": "Auto Action – 'New name for The Bend after huge OTR sale'",
+    "date": "2023-04-05",
+    "url": "https://autoaction.com.au/2023/04/05/new-name-for-the-bend-after-huge-otr-sale",
+    "quote": "struck a deal with the Shahin family-owned Peregrine Corporation, the owners of The Bend motorsport facility",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Bend Motorsport Park – About us",
+      "date": "2026",
+      "url": "https://www.thebend.com.au/about-us",
+      "note": "The sponsor's own site; page undated.",
+      "quote": "Developed and primarily funded by the Peregrine Corporation, South Australia's largest private company, construction started on The Bend in November 2016",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

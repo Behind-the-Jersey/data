@@ -1,0 +1,32 @@
+{
+  "id": "vistajet-vista-global-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vista-global"
+  ],
+  "text": "VistaJet is owned by Vista Global, a private aviation group headquartered in Dubai that was founded by entrepreneur Thomas Flohr; Vista Global sells private jet flights via its VistaJet and XO brands.",
+  "short": "VistaJet is owned by Vista Global, Thomas Flohr's Dubai-based aviation group",
+  "source": {
+    "name": "Private Jet Card Comparisons: VistaJet, XO parent Vista Global signs $600 million investment deal",
+    "date": "2025-03-17",
+    "url": "https://privatejetcardcomparisons.com/2025/03/17/vistajet-xo-parent-vista-global-signs-600-million-investment-deal",
+    "quote": "Vista Global, which owns VistaJet and XO",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Rhone Group: Vista Global (portfolio)",
+      "date": "2026",
+      "url": "https://www.rhonegroup.com/portfolio/vista-global",
+      "quote": "Vista Global is a leading global private aviation business founded by entrepreneur Thomas Flohr. Headquartered in Dubai",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

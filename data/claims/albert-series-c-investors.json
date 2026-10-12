@@ -1,0 +1,20 @@
+{
+  "id": "albert-series-c-investors",
+  "kind": "ownership",
+  "ownerIds": [
+    "albert-corporation"
+  ],
+  "text": "Albert, a U.S.-based fintech, raised $100 million in a Series C funding round led by General Atlantic with participation from CapitalG, Alphabet's independent growth fund, Portag3 and QED, bringing Albert's total funding to $173 million.",
+  "short": "Albert's $100M Series C (2021) was led by General Atlantic; CapitalG, Portag3 and QED joined.",
+  "source": {
+    "name": "Crowdfund Insider: U.S. Fintech Albert Raises $100 Million Through Series C Funding Round Led By General Atlantic",
+    "date": "2021-01-26",
+    "url": "https://www.crowdfundinsider.com/2021/01/171628-u-s-fintech-albert-raises-100-million-through-series-c-funding-round-led-by-general-atlantic/",
+    "quote": "raised $100 million through its Series C funding round, which was led by General Atlantic with participation from CapitalG, Alphabet’s independent growth fund, Portag3, and QED",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
