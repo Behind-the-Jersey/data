@@ -1,12 +1,16 @@
 {
   "id": "sabelt",
   "name": "Sabelt",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Audi Revolut F1 Team technical partner on the 2026 car; its logo tile is on the team's partners page and Sabelt posted the partnership on 2026-01-27. Owner not traced to a primary document in this pass."
+"ownerId": "sabelt",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Italian family company: the Marsiaj family owns Sabelt (Giorgio Marsiaj 61%, family holding 10%). Nothing found.",
+  "claimIds": [
+    "sabelt-marsiaj-ownership"
+  ],
+  "aliases": [
+    "Sabelt SpA"
+  ],
+  "note": "Harness/seat maker; logo on the cars' side sills. Also Alpine Endurance Team partner for 2026 (club release 19/03/2026) and Audi Revolut F1 Team technical partner on the 2026 car."
 }
