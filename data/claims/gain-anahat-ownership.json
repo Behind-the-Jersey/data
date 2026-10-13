@@ -1,0 +1,33 @@
+{
+  "id": "gain-anahat-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gain-medya"
+  ],
+  "text": "GAİN Medya A.Ş. is a company of the Anahat group: Anahat Medya A.Ş., founded by Selahattin Aydın, acquired GAİN Medya A.Ş. on 22 January 2025 for 450 million TL.",
+  "short": "Gain Medya was bought by Selahattin Aydın's Anahat in January 2025",
+  "source": {
+    "name": "Cumhuriyet: Gain Medya kimin, sahibi kim? Gain Medya'ya neden kayyım atandı?",
+    "date": "2025-12-16",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/gain-medya-kimin-sahibi-kim-gain-medya-ya-neden-kayyim-atandi-2461806",
+    "quote": "Gain Medya, Anahat Holding'e ait bir şirkettir. Anahat Holding'in sahibi ise Selahattin Aydın'dır.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Anka Haber: Gain Medya'ya TMSF kayyım atandı, 3 kişi gözaltına alındı",
+      "date": "2025-12-16",
+      "url": "https://ankahaber.net/haber/detay/gain_medyaya_tmsf_kayyim_atandi_3_kisi_gozaltina_alindi_279815",
+      "quote": "Anahat Medya Anonim Şirketi'nin, GAİN Medya Anonim Şirketi'ni 22/01/2025 tarihinde 450 milyon TL bedelle devraldığı",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "From the Istanbul Chief Public Prosecutor's statement quoted on the page, which sets out the share transfer and subsequent fund flows."
+    }
+  ],
+  "reviewed": false
+}

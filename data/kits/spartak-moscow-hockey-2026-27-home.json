@@ -10,11 +10,32 @@
   "sponsors": [
     {
       "sponsorId": "olimpbet",
+      "placement": "sleeve",
+      "source": {
+        "name": "sports.ru: Olimpbet продлил контракт с хоккейным «Спартаком» до 2027 года",
+        "date": "2025-09-05",
+        "url": "https://www.sports.ru/betting/industry/1116891718-olimpbet-prodlil-kontrakt-s-xokkejnym-spartakom-do-2027-goda.html",
+        "quote": "Olimpbet продлил контракт с хоккейным «Спартаком» до 2027 года",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Russian: Olimpbet extended its HC Spartak contract through end of season 2026/27 (a two-season agreement). Sleeve placement: white OLIMPBET tapes above the sleeve numbers are visible on the red 2026-27 home sweater in the club's own match photos (spartak.ru reports: Spartak–Traktor 2026-09-30, /news/spartak-ne-uderzhal-pobednyij-schyot-v-igre-s-traktorom-24/, photo sd-cr-spartak-traktor-0001763.jpg; Spartak–Avtomobilist 2026-09-26, photo 6m1a9117.jpg). The same photos also show OLIMPBET stickers on the pants front and helmet sides (no schema placement) and the KHL league-level marks — the Mir chest patch and the SOGAZ helmet sticker — recorded as league deals in data/deals/khl-mir-nspk.json and khl-sogaz.json. No text source names the sleeve position."
+      }
+    },
+    {
+      "sponsorId": "olimpbet",
       "placement": "partner",
       "source": {
         "name": "Spartak club site, sponsors and partners page",
-        "date": "2026-09-25",
-        "url": "https://spartak.ru/club/sponsory-i-partnery/"
+        "date": "2026-10-03",
+        "url": "https://spartak.ru/club/sponsory-i-partnery/",
+        "quote": "Olimpbet Официальный партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Undated club partners page; date is the day it was opened. Russian: Olimpbet — official partner. The club's 2026-10-02 news item 'С Днём рождения, OLIMPBET!' also calls Olimpbet 'нашего официального партнера'."
       }
     },
     {
@@ -22,12 +43,18 @@
       "placement": "partner",
       "source": {
         "name": "Spartak club site, sponsors and partners page",
-        "date": "2026-09-25",
-        "url": "https://spartak.ru/club/sponsory-i-partnery/"
+        "date": "2026-10-03",
+        "url": "https://spartak.ru/club/sponsory-i-partnery/",
+        "quote": "Комус Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Undated club partners page; date is the day it was opened. Russian: Komus — partner."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. Olimpbet official partner and Komus partner per the club site; front-of-shirt sponsor not yet sourced.",
+  "summary": "2026-27 home kit (red, Jogel is the technical partner). The front carries only the «Спартак» wordmark with KHL and 80th-anniversary club patches, per the official shop's 2026-27 game-sweater product photos; on-ice match photos from the club site (Traktor 2026-09-30, Avtomobilist 2026-09-26, Metallurg 2026-10-02) show OLIMPBET tapes on the sleeves plus OLIMPBET stickers on the pants and helmets (no schema placement), and the league-level Mir chest patch and SOGAZ helmet sticker (covered by data/deals/khl-mir-nspk.json and khl-sogaz.json). Komus is a club partner per the club partners page. Not marked complete: minor placements such as socks could not be verified, and the club's partners page lists further partners (Jogel, Azbuka Vkusa, Yandex Afisha, Yandex Pro, Pinsky & Co, Chernogolovka, Forge, Synergetic, Bionova, Nebo, Solntse Moskvy, Britva Barbershop, Herbarus, Plaza Garden, Sofi) not yet individually recorded.",
   "change": null
 }

@@ -1,0 +1,21 @@
+{
+  "id": "daihatsu-toyota-wholly-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "daihatsu-motor-co",
+    "toyota-motor-corporation"
+  ],
+  "text": "Daihatsu Motor Co., Ltd. is a fully owned subsidiary of Toyota Motor Corporation.",
+  "short": "Daihatsu is a wholly-owned subsidiary of Toyota Motor.",
+  "source": {
+    "name": "Toyota Motor Corporation: Toyota and Daihatsu to Establish 'Emerging-market Compact Car Company' on January 1",
+    "date": "2016-12-15",
+    "url": "https://global.toyota/en/detail/14515718",
+    "quote": "Toyota Motor Corporation (Toyota) and its fully owned subsidiary Daihatsu Motor Co., Ltd. (Daihatsu)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

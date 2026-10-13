@@ -1,0 +1,21 @@
+{
+  "id": "tokai-rika-stock-info",
+  "kind": "ownership",
+  "ownerIds": [
+    "tokai-rika-co",
+    "toyota-motor-corporation"
+  ],
+  "text": "TOKAI RIKA CO., LTD. is listed on the Tokyo and Nagoya Stock Exchanges. Its stock information page names Toyota Motor Corporation as its major shareholder as of 31 March 2026.",
+  "short": "Tokai Rika is listed; its IR page names Toyota Motor as its major shareholder.",
+  "source": {
+    "name": "Tokai Rika: Stock Information – Stock Status",
+    "date": "2026-03-31",
+    "url": "https://www.tokai-rika.co.jp/en/investors/shareholder/kabushiki/",
+    "quote": "Major shareholders Toyota Motor Corporation",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

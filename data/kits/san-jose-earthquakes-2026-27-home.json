@@ -12,13 +12,64 @@
       "sponsorId": "el-camino-health",
       "placement": "front",
       "source": {
-        "name": "FOR SOCCER",
+        "name": "San Jose Earthquakes – 'NEWS: San Jose Earthquakes and El Camino Health Announce Landmark Community-Focused Partnership'",
+        "date": "2025-01-29",
+        "url": "https://www.sjearthquakes.com/news/news-san-jose-earthquakes-and-el-camino-health-announce-landmark-community-focused-partnership",
+        "quote": "On the field, El Camino Health’s brand will adorn the front of the Earthquakes first-team jerseys, beginning with the upcoming 2025 Major League Soccer season",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Multi-year front deal announced 2025-01-29; FOR SOCCER's 2026 MLS jersey sponsor list (2026-02-17) still lists El Camino Health on the Earthquakes front for 2026."
+      }
+    },
+    {
+      "sponsorId": "apollo",
+      "placement": "sleeve",
+      "source": {
+        "name": "San Jose Earthquakes – 'San Jose Earthquakes and Apollo Announce Official Sleeve and Go-to-Market Partnership, Bringing the AI GTM System to Major League Soccer'",
+        "date": "2026-07-23",
+        "url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-and-apollo-announce-official-sleeve-and-go-to-market-partnership-bringing-the-ai-gtm-system-to-major-league-soccer",
+        "quote": "Apollo will serve as both a brand sponsor with its logo featured prominently on the right sleeve of the Earthquakes’ jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Multiyear deal debuting at the California Clásico on 2026-07-25; the right sleeve was unsponsored at the start of the 2026 season (FOR SOCCER, 2026-02-17)."
+      }
+    },
+    {
+      "sponsorId": "dude-wipes",
+      "placement": "back",
+      "source": {
+        "name": "San Jose Earthquakes – 'San Jose Earthquakes and DUDE Wipes Announce Official Back-of-Jersey Partnership'",
+        "date": "2026-07-31",
+        "url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-and-dude-wipes-announce-official-back-of-jersey-partnership",
+        "quote": "Starting with the Earthquakes’ Aug. 1 match against FC Cincinnati, the DUDE Wipes logo will appear on the back of the Major League Soccer club’s first-team jerseys",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Multiyear back-of-jersey deal under a new league asset allowed only from 1 August 2026 (after the 2026 All-Star break); no back sponsor before that date."
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
         "date": "2026-02-17",
-        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "League-wide left-sleeve patch on all 30 MLS kits under the Apple–MLS broadcast deal (see deal mls-apple-tv)."
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "adidas home kit. El Camino Health fronts the shirt from 2025; Apollo has the right sleeve since late July 2026; DUDE Wipes appears on the back from 1 August 2026 under the league's new back-ads rule; the league-wide Apple TV patch is on the left sleeve. No sponsor image on file."
 }

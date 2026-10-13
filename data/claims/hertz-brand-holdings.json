@@ -1,0 +1,20 @@
+{
+  "id": "hertz-brand-holdings",
+  "kind": "ownership",
+  "ownerIds": [
+    "hertz-global-holdings"
+  ],
+  "text": "Hertz Global Holdings and The Hertz Corporation are engaged principally in the business of renting vehicles through their Hertz, Dollar and Thrifty brands.",
+  "short": "The Hertz rental brand belongs to Hertz Global Holdings (Nasdaq: HTZ).",
+  "source": {
+    "name": "Hertz Global Holdings, Inc. / The Hertz Corporation, Form 10-K for fiscal year 2025 (SEC EDGAR)",
+    "date": "2026-02-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/47129/000165785326000008/htz-20251231.htm",
+    "quote": "We are engaged principally in the business of renting vehicles primarily through our Hertz, Dollar and Thrifty brands",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

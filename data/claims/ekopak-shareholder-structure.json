@@ -1,0 +1,21 @@
+{
+  "id": "ekopak-shareholder-structure",
+  "kind": "ownership",
+  "ownerIds": [
+    "ekopak"
+  ],
+  "text": "Ekopak NV's transparency notifications disclose: Marc Coucke controls Alychlo NV and Mylecke Management, Art & Invest NV — together 57.64% of Ekopak's voting rights (16 May 2025) — and Pieter Loose controls Pilovan BV, holding 25.29% (20 November 2025).",
+  "short": "Marc Coucke's group holds 57.64% of Ekopak; founder Pieter Loose's Pilovan holds 25.29%.",
+  "source": {
+    "name": "Ekopak: Share at a Glance (shareholder structure and transparency notifications)",
+    "date": "2025-11-21",
+    "url": "https://ekopakwater.com/en/shareholder-stock-information/ekopak-share-at-a-glance/",
+    "quote": "The overview above is based on the disclosures and notifications received by the company.",
+    "note": "Notifications linked on the page: 22 May 2025 PDF (threshold crossed 16 May 2025) — Alychlo NV 9,899,210 voting rights (56.56%), Marc Coucke personally 190,326 (1.09%), Mylecke Management, Art & Invest NV 0 after the transaction (group total 10,089,536 = 57.64%); 'Marc Coucke controls Alychlo NV and Mylecke Management, Art & Invest NV'. 21 Nov 2025 PDF — Pilovan BV 4,426,700 (25.29%); 'Pieter LOOSE controls PILOVAN BV'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

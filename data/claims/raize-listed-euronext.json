@@ -1,0 +1,34 @@
+{
+  "id": "raize-listed-euronext",
+  "kind": "ownership",
+  "ownerIds": [
+    "raize-instituicao-de-pagamentos"
+  ],
+  "text": "The sponsor Raize is the Portuguese payment institution Raize - Instituição de Pagamentos, S.A. (listed in 2018 as Raize Serviços de Gestão, S.A.): Euronext welcomed Raize on its listing in Euronext Access in Lisbon on 18 July 2018, under ticker MLRZE.",
+  "short": "Raize is the Lisbon-listed payment institution (MLRZE).",
+  "source": {
+    "name": "Euronext press release: Raize lists on Euronext",
+    "date": "2018-07-18",
+    "url": "https://www.euronext.com/en/about/media/euronext-press-releases/raize-lists-euronext",
+    "quote": "Euronext today welcomed Raize Serviços de Gestão (Raize) on its listing in Euronext Access in Lisbon.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The company was later renamed Raize - Instituição de Pagamentos, S.A.; the club's partners page (https://gilvicentefc.pt/patrocinadores/) links the Raize shirt mark to raize.pt, the company's platform."
+  },
+  "additionalSources": [
+    {
+      "name": "Jornal Económico: Flexdeal quer aumentar participação na Raize para 51%",
+      "date": "2026-01-20",
+      "url": "https://jornaleconomico.sapo.pt/noticias/flexdeal-quer-aumentar-participacao-na-raize-para-51",
+      "quote": "As ações representativas do capital social da Raize encontra-se admitidas à negociação no Mercado Regulamentado gerido pela Euronext Lisbon.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "English: the shares representing the share capital of Raize are admitted to trading on the regulated market run by Euronext Lisbon. The same report names the company Raize - Instituição de Pagamentos."
+    }
+  ],
+  "reviewed": false
+}

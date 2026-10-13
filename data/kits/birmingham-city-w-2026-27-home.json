@@ -12,17 +12,19 @@
       "sponsorId": "coral",
       "placement": "front",
       "source": {
-        "name": "Gambling News",
+        "name": "Gambling News: Birmingham City Welcomes Entain's Coral as Front-of-Shirt Sponsor in 2026/27",
         "date": "2026-07-28",
-        "url": "https://www.gamblingnews.com/news/birmingham-city-welcomes-entains-coral-as-front-of-shirt-sponsor-in-2026-27/"
+        "url": "https://www.gamblingnews.com/news/birmingham-city-welcomes-entains-coral-as-front-of-shirt-sponsor-in-2026-27/",
+        "quote": "Starting from the upcoming season, however, the brand will also have its logo displayed on men\u2019s and women\u2019s shirts.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The article reports Coral's first front-of-shirt partnership, with the logo on the men's and women's shirts from 2026/27."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Entain's Coral betting brand sits on the front of the Birmingham City Women shirt, its first front-of-shirt deal.",
-  "change": {
-    "kind": "worse",
-    "text": "Worse than last season: Coral took the front",
-    "badge": "+ Coral"
-  }
+  "summary": "Entain's Coral betting brand sits on the front of the Birmingham City Women shirt from 2026/27, the brand's first front-of-shirt deal (Gambling News). sponsorsComplete is false: the cited coverage names only the front sponsor and says nothing about sleeves, back or shorts; the club store product pages cited informally for that are not reachable to verify.",
+  "change": null
 }

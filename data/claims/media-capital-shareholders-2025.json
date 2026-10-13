@@ -1,0 +1,34 @@
+{
+  "id": "media-capital-shareholders-2025",
+  "kind": "ownership",
+  "ownerIds": [
+    "media-capital"
+  ],
+  "text": "At 15 September 2025 Media Capital's holders of 5% or more of capital and voting rights were Pluris Investments, S.A. (37.11%), Triun, SGPS, S.A. (23%), BIZ Partners, SGPS, S.A. (11.9725%), CIN - Corporação Industrial do Norte, S.A. (11.20%) and Zenithodyssey, Lda (10%). Pluris Investments is businessman Mário Ferreira's investment group; Ferreira is chairman of Media Capital's board.",
+  "short": "Media Capital's large shareholders are private vehicles; the biggest is Mário Ferreira's Pluris (37.11%).",
+  "source": {
+    "name": "Media Capital: Ação Media Capital / Estrutura Acionista (shareholder disclosure)",
+    "date": "2025-09-15",
+    "url": "https://mediacapital.pt/investidores/acao-media-capital/",
+    "quote": "Pluris Investments, S.A. Triun, SGPS, S.A. BIZ Partners, SGPS, S.A. CIN – Corporação Industrial do Norte, S.A. Zenithodyssey – Lda. 37,11% 23% 11,9725% 11,20% 10%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Current shareholding table, headed 'A 15 de setembro de 2025' ['at 15 September 2025']; listed in the same order as the name column, i.e. Pluris 37.11%, Triun 23%, BIZ Partners 11.9725%, CIN 11.20%, Zenithodyssey 10%."
+  },
+  "additionalSources": [
+    {
+      "name": "RTP Notícias (Lusa): Estrutura acionista da Media Capital fica 'definitivamente estabilizada', diz Mário Ferreira",
+      "date": "2021",
+      "url": "https://www.rtp.pt/noticias/economia/estrutura-acionista-da-media-capital-fica-definitivamente-estabilizada-diz-mario-ferreira_n1340466",
+      "quote": "A Pluris Investments, do empresário Mário Ferreira, adquiriu 5,16% da Media Capital",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page undated; Lusa report of the August 2021 overriding takeover offer. Translation: 'Pluris Investments, of businessman Mário Ferreira, acquired 5.16% of Media Capital'; the same report calls Media Capital 'dona da TVI' ['owner of TVI'] and notes Ferreira chairs its board."
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ktm-bajaj-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ktm-ag",
+    "bajaj-mobility-ag",
+    "bajaj-auto"
+  ],
+  "text": "KTM is one of the Bajaj Mobility group brands: the group's site says Bajaj Mobility AG is the holding company of KTM AG and unites the brands KTM, Husqvarna and GASGAS under one roof. Bajaj Mobility AG (formerly PIERER Mobility AG) is owned to around 74.9% by Bajaj Auto International Holdings AG, an indirect wholly owned subsidiary of Bajaj Auto Ltd, India, with a 25.1% free float.",
+  "short": "KTM is a Bajaj Mobility group brand; the group is 74.9% owned by Bajaj Auto of India.",
+  "source": {
+    "name": "Bajaj Mobility AG – homepage",
+    "date": "2026",
+    "url": "https://www.bajajmobility.com/en/",
+    "quote": "Bajaj Mobility AG is the holding company of KTM AG, a leading European motorcycle manufacturer.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Bajaj Mobility AG – Shareholder structure",
+      "date": "2026",
+      "url": "https://www.bajajmobility.com/en/investor-relations/shares/shareholder-structure",
+      "quote": "Around 74.9 percent of Bajaj Mobility AG (formerly PIERER Mobility AG) is owned by Bajaj Auto International Holdings AG, an indirect wholly owned subsidiary of Bajaj Auto Ltd, India.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

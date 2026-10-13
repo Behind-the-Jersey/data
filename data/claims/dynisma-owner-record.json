@@ -1,0 +1,21 @@
+{
+  "id": "dynisma-owner-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "dynisma-owner"
+  ],
+  "text": "Companies House lists Hawthorn Holdco Limited (company number 17313112) and Mr Ashley William Hawker Warne as the persons with significant control of Dynisma Ltd (company number 10923412), each holding more than 25% but not more than 50% of shares and voting rights.",
+  "short": "Dynisma Ltd's registered controllers are Hawthorn Holdco and Ashley Warne.",
+  "source": {
+    "name": "Companies House: DYNISMA LTD. (10923412) persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10923412/persons-with-significant-control",
+    "note": "Register page without a date; opened 2026-10-03.",
+    "quote": "Persons with significant control: 2 active persons with significant control / 0 active statements",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

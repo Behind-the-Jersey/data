@@ -1,0 +1,36 @@
+{
+  "id": "nmmc-state-co-management",
+  "kind": "ownership",
+  "ownerIds": [
+    "national-maritime-museum-of-china",
+    "government-of-tianjin",
+    "government-of-china"
+  ],
+  "text": "The National Maritime Museum of China is a public cultural institution co-built and co-managed by China's Ministry of Natural Resources and the Tianjin Municipal People's Government, and directly under the Binhai New Area People's Government.",
+  "short": "The National Maritime Museum of China is a public institution co-managed by the Ministry of Natural Resources and the Tianjin municipal government.",
+  "source": {
+    "name": "新华网客户端 (Xinhua News Agency client): 国家海洋博物馆 (National Maritime Museum of China)",
+    "date": "2025-04-17",
+    "url": "https://app.xinhuanet.com/news/article.html?articleId=8473ce540281e7ae4bc2a032b8679090",
+    "quote": "自然资源部与天津市人民政府共建共管、滨海新区人民政府直属的公益二类文化事业单位",
+    "note": "Translation: '...a public-benefit category-two cultural institution co-built and co-managed by the Ministry of Natural Resources and the Tianjin Municipal People's Government, directly under the Binhai New Area People's Government.' The museum's own site (www.nmmc.cc/intro) carries the same sentence but renders it with JavaScript, so a script sees only an empty shell.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "中国航海学会 (China Institute of Navigation): 天津国家海洋博物馆 (Tianjin National Maritime Museum)",
+      "date": "2024-05-31",
+      "url": "https://www.cinnet.cn/zh-hans/xsjl/hhkp/kpjdjs/9121-tian-jin-guo-jia-hai-yang-bo-wu-guan.htm",
+      "quote": "自然资源部与天津市人民政府共建共管、滨海新区人民政府直属的公益二类文化事业单位",
+      "note": "Translation: '...co-built and co-managed by the Ministry of Natural Resources and the Tianjin Municipal People's Government, a public-benefit category-two cultural institution directly under the Binhai New Area People's Government.' Institute's popular-science base page for the museum.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

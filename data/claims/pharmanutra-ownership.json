@@ -1,0 +1,21 @@
+{
+  "id": "pharmanutra-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pharmanutra"
+  ],
+  "text": "PharmaNutra S.p.A. is admitted to trading on Euronext STAR Milan; per the shareholder table on its own investor page, its relevant shareholders are Andrea Lacorte (31.384%, via Alh S.r.l.), Roberto Lacorte (23.168% in total) and Carlo Volpi (10.541%).",
+  "short": "PharmaNutra trades on Euronext STAR Milan; its relevant shareholders are the Lacorte family and Carlo Volpi.",
+  "source": {
+    "name": "PharmaNutra – Capitale sociale e azionariato (share capital and shareholdings)",
+    "date": "2026",
+    "url": "https://pharmanutragroup.com/investor/capitale-sociale-azionario/",
+    "note": "The company's own investor page, based on its share register ('libro soci'). Page in Italian; the quote is the first rows of the relevant-shareholders table. The same page states: 'Le Azioni Ordinarie di Pharmanutra S.p.A. sono ammesse alle negoziazioni sul mercato Euronext STAR Milan di Borsa Italiana' (the ordinary shares are admitted to trading on Euronext STAR Milan), and lists Roberto Lacorte's total holding at 23.168% and Carlo Volpi at 10.541% via Beda S.r.l. The page is undated.",
+    "quote": "Andrea Lacorte Alh S.r.l. 3.038.334 (1) 31,384% Roberto Lacorte Rlh S.r.l. 2.228.833 (2) 23,023%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

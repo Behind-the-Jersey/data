@@ -1,14 +1,18 @@
 {
   "id": "human-powered-health",
   "name": "Human Powered Health",
-  "ownerId": "optum",
+  "ownerId": "human-powered-health-labs",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Human Powered Health is a US healthcare company whose name the team carries; it is a subsidiary of Optum, one of UnitedHealth Group's two businesses. Nothing found.",
+  "claimIds": [
+    "hph-optum-ownership",
+    "optum-unitedhealth-ownership"
+  ],
   "aliases": [
     "hph"
   ],
-  "note": "US sports-science/health company; title sponsor of the Human Powered Health Women's WorldTeam. The Inner Ring (2026-08-05) describes it as a subsidiary of Optum, part of UnitedHealth Group."
+  "note": "US health and athletic performance company (performance labs plus the HumanGO training app). Chain: Human Powered Health -> Optum -> UnitedHealth Group (US listed company). No state capital in the chain and no human-rights finding against the company itself found; see the pull request.",
+  "ownerVerb": "owned by"
 }

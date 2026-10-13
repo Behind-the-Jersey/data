@@ -1,0 +1,35 @@
+{
+  "id": "southwest-securities-yufu-29pct",
+  "kind": "ownership",
+  "ownerIds": [
+    "chongqing-yufu-capital",
+    "chongqing-municipal-government"
+  ],
+  "text": "Chongqing Yufu Capital Operation Group Co., Ltd. holds 1,960,661,852 shares of Southwest Securities, 29.51% of the brokerage's total share capital, and Southwest Securities' actual controller remains the Chongqing Municipal State-owned Assets Supervision and Administration Commission.",
+  "short": "Chongqing Yufu Capital holds 29.51% of Southwest Securities; the brokerage's actual controller is the Chongqing SASAC.",
+  "source": {
+    "name": "西南证券股份有限公司关于控股股东变更进展情况的公告 (Southwest Securities Co., Ltd. announcement on the progress of the change of its controlling shareholder), cninfo",
+    "date": "2026-03-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-07/1224999306.PDF",
+    "quote": "渝富资本持有公司 1,960,661,852 股股份，占公司总股本的 29.51%。公司实际控制人仍为重庆市国有资产监督管理委员会。",
+    "note": "Translation: 'Yufu Capital holds 1,960,661,852 shares of the company, 29.51% of its total share capital. The company's actual controller remains the Chongqing Municipal State-owned Assets Supervision and Administration Commission.' The same announcement says the planned gratuitous transfer of this stake to Yufu Holdings was terminated in March 2026, so Yufu Capital remains the holder.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "上海证券报·中国证券网 via 新浪财经 (Shanghai Securities News via Sina Finance): 西南证券控股股东变更终止 实控人仍为重庆市国资委",
+      "date": "2026-03-06",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-03-06/doc-inhqaham2456207.shtml",
+      "quote": "目前渝富资本持有公司1960661852股股份，占公司总股本的29.51%，公司实际控制人仍为重庆市国有资产监督管理委员会。",
+      "note": "Translation: 'Yufu Capital currently holds 1,960,661,852 shares of the company, 29.51% of its total share capital, and the company's actual controller remains the Chongqing Municipal State-owned Assets Supervision and Administration Commission.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,14 +1,20 @@
 {
   "id": "uno-x",
   "name": "Uno-X",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "reitan"
+  "ownerId": "reitan-retail",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Uno-X is Reitan Retail's fuel and EV-charging brand, and the team it sponsors is owned by the group; the whole Reitan group belongs to the Reitan family. Nothing found.",
+  "claimIds": [
+    "reitan-retail-brand-ownership",
+    "reitan-retail-reitan-as-ownership",
+    "reitan-as-family-ownership"
   ],
-  "note": "Norwegian fuel/charging station chain owned by the Reitan group; private."
+  "aliases": [
+    "reitan",
+    "Uno-X Mobility",
+    "Uno X"
+  ],
+  "note": "Title sponsor of Uno-X Mobility (men's team) and Uno-X Mobility Women; the team is owned and operated by Uno-X Mobility (Reitan Retail). Rating note: owner chain sourced (Reitan Retail → REITAN AS → Reitan family, Odd Reitan and sons). No state or fund stake; no human-rights record found against the group (searched ILO/NGO/press). Rated none."
 }

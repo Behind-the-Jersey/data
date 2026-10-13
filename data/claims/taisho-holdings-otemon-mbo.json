@@ -1,0 +1,34 @@
+{
+  "id": "taisho-holdings-otemon-mbo",
+  "kind": "ownership",
+  "ownerIds": [
+    "taisho-pharmaceutical-holdings"
+  ],
+  "text": "Taisho Pharmaceutical Holdings was taken private in 2024: Otemon, a Tokyo-based company owned by a member of the founding Uehara family and led by Shigeru Uehara, secured a 73% stake in its tender offer and moved to acquire the remaining shares.",
+  "short": "Taisho Pharmaceutical Holdings was taken private by the Uehara family's Otemon in 2024.",
+  "source": {
+    "name": "JAKOTA Index News Hub: Taisho Pharmaceutical to Go Private in Japan’s Largest Management Buyout",
+    "date": "2024-01-17",
+    "url": "https://jakotaindex.com/news-hub/taisho-pharmaceutical-to-go-private-in-japans-largest-management-buyout/",
+    "quote": "Otemon, under the leadership of Shigeru Uehara, has garnered significant control over Taisho by acquiring more than 60.03 million shares, surpassing the minimum requirement and securing a 73% stake",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The same article calls Otemon 'a Tokyo-based company owned by a member of Taisho’s founding family' and says 'The strategic acquisition entails Otemon gaining full ownership of Taisho, with plans to purchase the remaining shares.'"
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Nikkei Biotech (日経バイオテク): 大正製薬ホールディングス、株式の上場廃止のお知らせ (Taisho Pharmaceutical Holdings: notice of delisting, company release)",
+      "date": "2024-04-09",
+      "url": "https://bio.nikkeibp.co.jp/atcl/release/24/04/09/20046/",
+      "quote": "2024年4月9日をもって東京証券取引所スタンダード市場において上場廃止となりますことをお知らせいたします",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Nikkei Biotech reproducing Taisho Pharmaceutical Holdings' company release of 2024-04-08. English: 'Notice that the company's shares will be delisted from the Tokyo Stock Exchange Standard Market effective April 9, 2024.'"
+    }
+  ]
+}

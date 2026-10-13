@@ -1,0 +1,20 @@
+{
+  "id": "aprilia-piaggio-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "piaggio-group"
+  ],
+  "text": "Aprilia is a motorcycle brand of the Piaggio Group (Piaggio & C. S.p.A.), alongside Piaggio, Vespa, Gilera, Moto Guzzi, Derbi and Scarabeo.",
+  "short": "Aprilia is a brand of the Piaggio Group.",
+  "source": {
+    "name": "Piaggio Group: FAQ",
+    "date": "2026",
+    "url": "https://www.piaggiogroup.com/en/faq",
+    "quote": "The Piaggio Group product range includes scooters, motorcycles and mopeds in the 50cc to 1200cc displacement range for the Piaggio, Vespa, Gilera, Aprilia, Moto Guzzi, Derbi and Scarabeo brands.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "factor-zhonglu-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "zhonglu-co"
+  ],
+  "text": "China's Zhonglu Co, through its subsidiary Zhonglu Advantage Global Investment Co., Ltd., acquired 21.15% of Factor Bikes in 2025, and together with VSI Cycling Limited (31.72%) holds a joint majority acquired from exiting non-management shareholders.",
+  "short": "Zhonglu Co holds 21.15% of Factor Bikes; with VSI Cycling (31.72%) it holds a joint majority.",
+  "source": {
+    "name": "Bicycle Retailer and Industry News: CORRECTION: Chinese manufacturer Zhonglu buys minority share in Factor Bikes",
+    "date": "2025-03-10",
+    "url": "https://www.bicycleretailer.com/international/2025/03/10/chinese-manufacturer-zhonglu-buys-majority-share-factor-bikes",
+    "quote": "Zhonglu Advantage Global Investment Co., Ltd. and VSI Cycling Limited — invested $15.26 million and $22.9 million to acquire 21.15% and 31.72% of Factor, respectively.",
+    "note": "The full sentence begins 'According to a filing with the Shanghai Stock Exchange, two groups —'. The article also states: 'Together the two entities have acquired a majority share in Factor from exiting non-management shareholders', and that the article title was corrected to clarify Zhonglu did not take a majority alone.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,14 +1,17 @@
 {
   "id": "alfa-bank",
   "name": "Alfa-Bank",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "abh-holdings",
+  "ownership": "part-owned",
   "tier": "unrated",
-  "status": "unrated",
+  "status": "being-rated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "Альфа-банк"
+  "claimIds": [
+    "alfa-bank-kosogov-ownership"
   ],
-  "note": "Partner of HC Avangard."
+  "aliases": [
+    "Альфа-банк",
+    "Alfa-Bank Russia"
+  ],
+  "note": "Largest private Russian bank; title partner of the Russian Premier League (the league is branded 'Альфа-Банк РПЛ') and the league patch on Rostov's 2026-27 home shirt. Rating note: on hold for a maintainer. Ownership changed in 2023-2024: Fridman and Aven completed the sale of their stakes to co-founder Andrey Kosogov (FT via Kommersant and Meduza; closed 2024, no official register published), and Kosogov also bought out Khan's and Kuzmichev's stakes, making him the largest shareholder (about 41% via ABH Holdings as of March 2022). ABHH's own press releases (abhh.lu, August 2023) describe ABH Financial Limited as holding the ownership interest in Alfa-Bank Russia with a sale to Kosogov signed in February 2023 pending Cyprus approval. No state in the chain; no human-rights finding against the bank found (searched 3 Oct 2026)."
 }

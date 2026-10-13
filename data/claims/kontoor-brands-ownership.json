@@ -1,0 +1,20 @@
+{
+  "id": "kontoor-brands-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kontoor-brands-inc"
+  ],
+  "text": "Helly Hansen is a brand of Kontoor Brands, Inc. (NYSE: KTB), the listed US apparel company (Wrangler, Lee); Kontoor completed the acquisition of Helly Hansen on 2 June 2025.",
+  "short": "Helly Hansen is owned by Kontoor Brands, Inc. (NYSE: KTB) since June 2025.",
+  "source": {
+    "name": "Kontoor Brands: 'Kontoor Brands Completes Acquisition of Helly Hansen'",
+    "date": "2025-06-02",
+    "url": "https://www.kontoorbrands.com/news-media/press-release/200/kontoor-brands-completes-acquisition-of-helly-hansen",
+    "quote": "Kontoor Brands, Inc. (NYSE: KTB) today announced that it has completed the previously announced acquisition of Helly Hansen, the global outdoor and workwear brand.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
