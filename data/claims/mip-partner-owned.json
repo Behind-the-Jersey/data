@@ -9,24 +9,15 @@
   "source": {
     "name": "Mexico Infrastructure Partners: MIP Real Assets Plans to Invest $12+ Billion to Support Mexico's Next Infrastructure Cycle",
     "date": "2026-05-04",
-    "url": "https://mexicoinfra.com/en/mexico-infrastructure-partners-mip-anuncia-su-plan-de-12000-millones-de-dolares-para-impulsar-el-proximo-ciclo-de-infraestructura-de-mexico/",
+    "url": "https://mexicoinfra.com/press-2026-05-04-mexico-infrastructure-cycle",
     "quote": "An independent, partner-owned firm headquartered in Mexico City with international presence in the Americas, Europe and the Gulf Region",
     "checked": {
-      "on": "2026-10-03",
-      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
-    }
+      "on": "2026-10-13",
+      "by": "BigBossRabbit"
+    },
+    "note": "Same dated MIP release at its current URL; the previous /en/ article URL redirects to the homepage."
   },
   "additionalSources": [
-    {
-      "name": "BNamericas: Mexico Infrastructure Partners company profile",
-      "date": "2026",
-      "url": "https://www.bnamericas.com/en/company-profile/mip",
-      "quote": "The firm’s ownership structure has remained partner-led.",
-      "checked": {
-        "on": "2026-10-03",
-        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
-      }
-    },
     {
       "name": "Mexico News Daily: Mexico Infrastructure Partners announces plan to invest US $12B across key sectors",
       "date": "2026-05-06",
