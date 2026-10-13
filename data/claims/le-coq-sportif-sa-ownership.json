@@ -1,0 +1,33 @@
+{
+  "id": "le-coq-sportif-sa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "le-coq-sportif-sa"
+  ],
+  "text": "Le Coq Sportif, the French sportswear company, has been bought by a group led by Franco-Swiss entrepreneur Dan Mamane, whose proposal the Paris Commercial Court ruled in favour of in July 2025; the brand was previously owned by Swiss-based private equity firm Airesis.",
+  "source": {
+    "name": "SportsPro: Le Coq Sportif out of receivership as new owner plans '€70m' investment",
+    "date": "2025-07-08",
+    "url": "https://www.sportspro.com/news/le-coq-sportif-sale-new-owner-dan-mamane-airesis-july-2025/",
+    "quote": "Struggling French sportswear company Le Coq Sportif has been bought by a group led by Franco-Swiss entrepreneur Dan Mamane.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The same article states the Paris Commercial Court 'ruled in favour of the proposal put forward by Mamane' and that 'Founded in 1882, Le Coq Sportif was owned by Swiss-based private equity firm Airesis'."
+  },
+  "additionalSources": [
+    {
+      "name": "SGB Media: EXEC: Le Coq Sportif Sold in Bankruptcy Proceedings",
+      "date": "2025-07-09",
+      "url": "https://sgbonline.com/exec-le-coq-sportif-sold-in-bankruptcy-proceedings/",
+      "quote": "Le Coq Sportif, in receivership, has been acquired by a group led by Franco-Swiss entrepreneur Dan Mamane.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "SGB Media also states: 'Le Coq Sportif has been owned since 2005 by Marc-Henri Beausire's Swiss group Airesis' and 'Mamane's consortium is backed by the Mirabaud Patrimoine Vivant investment fund'."
+    }
+  ],
+  "reviewed": false
+}

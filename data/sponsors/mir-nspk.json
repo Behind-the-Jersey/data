@@ -1,16 +1,32 @@
 {
   "id": "mir-nspk",
   "name": "MIR (NSPK payment system)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "bank-of-russia",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "russian-federation-record",
+    "nspk-owned-by-bank-of-russia",
+    "bank-of-russia-constitutional-status"
+  ],
   "aliases": [
     "МИР",
     "Mir card",
-    "НСПК"
+    "НСПК",
+    "NSPK"
   ],
-  "note": "League official partner for 2026-27 (replaced SBP, the 2025/26 official partner, in the syndicated club-site widget)."
+  "note": "Operator of the Mir payment system, 100% owned by the Central Bank of the Russian Federation. Official KHL league partner for 2026-27 and a chest-patch sponsor on Torpedo Nizhny Novgorod's 2026-27 home jersey. The Central Bank said in September 2026 it may sell shares in NSPK while keeping at least 50% plus one share; a sale to market participants was reported to be planned for 2027 (Interfax, 2026-09-24).",
+  "ownerVerb": "paid for by",
+  "why": {
+    "text": "The MIR card patch on Torpedo's shirt is paid for by NSPK, which is wholly owned by the Central Bank of Russia, the Russian Federation's central bank — a state that launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since, with UN human rights monitors documenting rising civilian casualties.",
+    "claimIds": [
+      "russian-federation-record",
+      "nspk-owned-by-bank-of-russia",
+      "bank-of-russia-constitutional-status"
+    ],
+    "messageLine": "Ask Torpedo about the MIR patch paid for by Russia's state-owned card system",
+    "status": "draft"
+  }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "zhejiang-2026-home",
+  "clubId": "zhejiang",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "leapmotor",
+      "placement": "front",
+      "source": {
+        "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "quote": "浙江职业足球俱乐部的胸前广告是零跑汽车（09863.HK）",
+        "note": "Translation: 'Zhejiang Professional Football Club's chest advertisement is Leapmotor (09863.HK)'. The article surveys all 16 CSL clubs' 2026 front-of-shirt ads after the season's opening rounds. Corroborated by the Greentown Football Archives kit-ad table (front: 零跑汽车 LEAPMOTOR) and by September 2026 match photos (zhejiangfc.com/2026/09/56880.html) showing '零跑汽车 LEAPMOTOR' across the chest. Leapmotor's 8 March 2026 announcement says it continues as Zhejiang FC's main sponsor for the 2026 CSL and FA Cup seasons.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "greentown",
+      "placement": "back",
+      "source": {
+        "name": "绿城足球档案馆 (Greentown Football Archives, zhejiangfc.com): 浙江队历年冠名及球衣广告赞助【1999-2026】",
+        "date": "2023-10-26",
+        "url": "https://www.zhejiangfc.com/2023/10/49005.html",
+        "quote": "绿城GREENTOWN",
+        "note": "Continuously updated fan-run archive of Zhejiang FC's naming and shirt advertising, 1999-2026. The 2026 row reads: naming sponsor 绿城 (Greentown), front ad 零跑汽车 LEAPMOTOR, back ad 绿城GREENTOWN, sleeve ad blank. Translation: '绿城GREENTOWN' = Greentown. Corroborated by September 2026 match photos (zhejiangfc.com/2026/09/56880.html) showing '绿城 ... GREENTOWN' on the back below the number, and by the club's March 2026 announcement (via Dongqiudi) that Greentown continues as naming sponsor in 2026.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+        "date": "2026-01-28",
+        "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+        "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+        "note": "Kit supplier for all 16 CSL clubs in 2026; Zhejiang FC has its own section (deep-green bespoke design). Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "2026 CSL home kit by Nike (launched 28 January 2026). Front sponsor Leapmotor (零跑汽车 LEAPMOTOR), Zhejiang FC's main sponsor since 2024; back sponsor Greentown (绿城 GREENTOWN), the club's naming sponsor again in 2026. Sleeve advertising is blank in the Greentown Football Archives' 1999-2026 kit-ad table and no sponsor patch appears in September 2026 match photos (only the CSL league badge on the left sleeve); shorts are unbranded in the same photos.",
+  "change": null
+}

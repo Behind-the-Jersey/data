@@ -1,0 +1,46 @@
+{
+  "id": "chengdu-jiangong-xingcheng-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "chengdu-construction-engineering-group",
+    "chengdu-xingcheng-investment-group"
+  ],
+  "text": "Chengdu Construction Engineering Group Co., Ltd. (成都建工集团有限公司, 'Chengdu Jian Gong'), the company behind the 成都建工 brand advertised on the Chengdu Rongcheng shirt front, is a wholly owned subsidiary (100.00%) of Chengdu Xingcheng Investment Group; the group's own website lists it as a member enterprise.",
+  "short": "Chengdu Jian Gong is a wholly owned subsidiary of state-owned Chengdu Xingcheng Investment Group.",
+  "source": {
+    "name": "联合资信 (Lianhe Ratings): 成都兴城投资集团有限公司主体长期信用评级报告 (Chengdu Xingcheng Investment Group credit rating report), annex 1-3, second-tier subsidiaries as at end of March 2026",
+    "date": "2026-07-21",
+    "url": "https://www.lhratings.com/uploads/file/20260722/20260722105716822485.pdf",
+    "quote": "成都建工集团有限公司 建筑施工 100.00% 其他",
+    "note": "Translation: 'Chengdu Construction Engineering Group Co., Ltd. — building construction — 100.00% held — other (acquisition).' The report's subsidiary table (data provided by the company); the report's main text also calls 成都建工集团有限公司 one of the group's 下属子公司 (subsidiaries).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+      "date": "2026-03-17",
+      "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+      "quote": "成都建工集团有限公司与俱乐部同样隶属于成都兴城投资集团有限公司，背后的实际控制人均为成都市国资委",
+      "note": "Translation: 'Chengdu Construction Engineering Group Co., Ltd. and the club are both under Chengdu Xingcheng Investment Group Co., Ltd., and the actual controller behind both is the Chengdu Municipal SASAC.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "成都兴城投资集团有限公司官网 (Chengdu Xingcheng Investment Group official site), 关于兴城 — 成员企业 (About — member enterprises), via the Wayback Machine",
+      "date": "2025-07-25",
+      "url": "http://web.archive.org/web/20250725090709/https://www.cdxctz.com/about.aspx?t=3",
+      "quote": "先后整合市小城投公司、成都建工集团，组建人居、润锦城、绿道、足球、康养等专业化公司",
+      "note": "Translation: 'It successively integrated the municipal small city-investment company and Chengdu Construction Engineering Group, and set up specialist companies including Renju, Runjincheng, Greenway, football and elderly care.' The same page's member-enterprise list shows 成都建工集团有限公司 and 成都蓉城足球俱乐部有限公司.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

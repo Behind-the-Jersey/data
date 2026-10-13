@@ -1,0 +1,19 @@
+{
+  "id": "todaytix-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "mari"
+  ],
+  "text": "TodayTix Group is owned by MARI, the global events and experiences company founded by Ariel Emanuel, which announced its acquisition of TodayTix Group from private equity firm Great Hill Partners on 20 October 2025.",
+  "source": {
+    "name": "MARI: 'MARI Expands Global Events Portfolio with Acquisition of TodayTix Group'",
+    "date": "2025-10-20",
+    "url": "https://marigrp.com/press/mari-expands-global-events-portfolio",
+    "quote": "MARI, the new global events and experiences company founded by Ariel Emanuel, today announced its acquisition of TodayTix Group",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

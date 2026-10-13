@@ -1,15 +1,19 @@
 {
   "id": "goldenpark",
-  "name": "Goldenpark Casino",
+  "name": "GoldenPark Casino",
   "ownerId": "azartia",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "The GoldenPark.pt brand is operated in Portugal by Azartia Games, S.A., whose Portuguese operation belongs to Spain's family-owned MGA-New Park group (Sanahuja brothers). Nothing found.",
+  "claimIds": [
+    "azartia-goldenpark-operator",
+    "azartia-mga-group-ownership",
+    "mga-new-park-sanahuja-ownership"
+  ],
   "aliases": [
     "goldenpark",
     "goldenpark.pt"
   ],
-  "note": "Portuguese online casino/betting brand; SRIJ licence 029 held by Azartia Games, S.A. Main kit sponsor at Gil Vicente in 2026-27."
+  "note": "Rating note: the chain is GoldenPark.pt -> Azartia Games, S.A. (SRIJ licences 029/030) -> Grupo MGA / MGA-New Park -> Joan and Enric Sanahuja Amat. All private owners in Spain and Portugal; no state or state fund was found in the chain in the sources checked, and no human-rights finding against the group, so nothing passes the METHOD.md test."
 }

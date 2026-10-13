@@ -1,12 +1,14 @@
 {
   "id": "soudal",
   "name": "Soudal",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "soudal",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Soudal is a Belgian sealants and adhesives maker founded in 1966 by Vic Swerts and still 100% family owned. Nothing found.",
+  "claimIds": [
+    "soudal-family-owned"
+  ],
   "aliases": [],
-  "note": "Belgian adhesives/sealants company owned by founder Vic Swerts."
+  "note": "Turnhout-based private group; co-title sponsor of AG Insurance-Soudal and Soudal Quick-Step. Rating note: family ownership documented (claim soudal-family-owned); no relevant record found."
 }

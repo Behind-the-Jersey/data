@@ -1,0 +1,35 @@
+{
+  "id": "shengjing-assets-shenyang-government",
+  "kind": "ownership",
+  "ownerIds": [
+    "shenyang-shengjing-assets-group",
+    "shenyang-municipal-government"
+  ],
+  "text": "Shenyang Shengjing Assets Management Group Co., Ltd. (沈阳盛京资产管理集团有限公司, founded July 2017, registered capital RMB 5 billion) is a wholly state-owned company established by the Shenyang municipal party committee and government, for which the Shenyang municipal State-owned Assets Supervision and Administration Commission performs the state's investor duties.",
+  "short": "Shengjing Assets Group is a wholly state-owned company of the Shenyang city government.",
+  "source": {
+    "name": "中国工业新闻网 via Sohu (大东北生活资讯): 盛京资产推动国有资本做强做优做大 形成“平台+实体”产业布局",
+    "date": "2025-10-28",
+    "url": "https://www.sohu.com/a/948259839_121106822",
+    "quote": "是由沈阳市委市政府组建、市国资委履行出资人职责的国有全资公司",
+    "note": "Translation: 'a wholly state-owned company established by the Shenyang municipal party committee and government, for which the municipal SASAC performs the investor's duties' (about Shengjing Assets Management Group). The article is credited to China Industry News (中国工业新闻网) at the bottom.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "沈阳市国资委 (Shenyang SASAC): 沈阳盛京资产管理集团有限公司招聘公告 (recruitment notice)",
+      "date": "2024-10-21",
+      "url": "https://gzw.shenyang.gov.cn/rcdwjszl/202410/t20241021_4749142.html",
+      "quote": "是沈阳市委、市政府批准设立的一家国有资本运营公司",
+      "note": "Translation: '(Shengjing Assets) is a state-capital operating company approved for establishment by the Shenyang municipal party committee and government.' Published by the Shenyang SASAC on its own site.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

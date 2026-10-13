@@ -1,0 +1,22 @@
+{
+  "id": "liv-new-era",
+  "clubId": null,
+  "orgName": "LIV Golf",
+  "sponsorId": "new-era",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "leagueId": "liv-golf",
+  "source": {
+    "name": "LIV Golf - Our Partners (New Era, Official Suppliers)",
+    "date": "2026",
+    "url": "https://www.livgolf.com/partners",
+    "quote": "New Era is a supplier partner and the Official Cap of LIV Golf and it's 13 teams",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Deal start date not stated on the page; left null. Page undated; opened 2026-10-03."
+  }
+}

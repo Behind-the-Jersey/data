@@ -1,0 +1,33 @@
+{
+  "id": "jota-motorsport-hignett",
+  "kind": "ownership",
+  "ownerIds": [
+    "jota-motorsport-limited"
+  ],
+  "text": "The persons with significant control of JOTA Motorsport Limited (Companies House 03890719) are Samuel John Hignett and Kelly Gabriella Hignett, each with ownership of shares of more than 25% but not more than 50%; Kent Online reported in 2016 that founder Sam Hignett co-owns JOTA Sport.",
+  "short": "JOTA Motorsport Limited's registered owners are Samuel John and Kelly Gabriella Hignett.",
+  "source": {
+    "name": "Companies House: JOTA MOTORSPORT LIMITED (03890719) - persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03890719/persons-with-significant-control",
+    "quote": "Ownership of shares \u2013 More than 25% but not more than 50%",
+    "note": "Page without a date; PSC statements active, opened 2026-10-03. The two named persons are Mr Samuel John Hignett and Mrs Kelly Gabriella Hignett.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "KentOnline: JOTA Sport: Success on and off the track",
+      "date": "2016-06-06",
+      "url": "https://www.kentonline.co.uk/kent-business/county-news/jota-sport-success-on-and-off-track-96882/",
+      "quote": "Sam Hignett founded and co-owns JOTA Sport",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

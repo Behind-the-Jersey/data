@@ -1,0 +1,26 @@
+{
+  "id": "fratelli-beretta-family-owned",
+  "kind": "ownership",
+  "ownerIds": ["salumificio-fratelli-beretta"],
+  "text": "Salumificio Fratelli Beretta presents itself as a 100% family brand: an inheritance passed down from father to son, built by nine generations since 1812.",
+  "short": "Fratelli Beretta, a family business now in its ninth generation.",
+  "source": {
+    "name": "Fratelli Beretta, 'Gruppo e Storia' (company website, via Wayback Machine)",
+    "date": "2026-05-08",
+    "url": "http://web.archive.org/web/20260508145702/https://www.fratelliberetta.com/azienda/gruppo-storia/",
+    "quote": "tramite l’impegno diretto di una Family Brand al 100%",
+    "note": "The live site serves a bot-check to scripts, so the archived page (snapshot 8 May 2026) was used. Translation: 'through the direct commitment of a 100% Family Brand.' The same page: 'Passione per la qualità dal 1812', 'L'impegno di nove generazioni' and 'Un'eredità tramandata di padre in figlio'.",
+    "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+  },
+  "additionalSources": [
+    {
+      "name": "Eventinews24, 'Il Gruppo Fratelli Beretta'",
+      "date": "2025-05-08",
+      "url": "https://www.eventinews24.com/2025/05/il-gruppo-fratelli-beretta/",
+      "quote": "Guidato dall’ottava generazione della famiglia del fondatore Carlo Antonio Beretta, il Gruppo opera sul mercato con tre marchi: Beretta, Wuber e Viva la mamma.",
+      "note": "Translation: 'Led by the eighth generation of the family of founder Carlo Antonio Beretta, the Group operates on the market with three brands: Beretta, Wuber and Viva la mamma.'",
+      "checked": { "on": "2026-10-03", "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)" }
+    }
+  ],
+  "reviewed": false
+}

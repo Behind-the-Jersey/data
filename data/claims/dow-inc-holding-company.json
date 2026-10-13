@@ -1,0 +1,34 @@
+{
+  "id": "dow-inc-holding-company",
+  "kind": "ownership",
+  "ownerIds": [
+    "dow-inc"
+  ],
+  "text": "Dow Inc. is a Delaware holding company for The Dow Chemical Company and its consolidated subsidiaries ('TDCC'), together with which it operates as 'Dow'. Its common stock trades on the New York Stock Exchange under the symbol DOW.",
+  "short": "The partner Dow is Dow Inc. (NYSE: DOW).",
+  "source": {
+    "name": "Dow Inc.: Annual Report on Form 10-K for the fiscal year ended December 31, 2025 (SEC EDGAR)",
+    "date": "2026-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/29915/000175178826000018/dow-20251231.htm",
+    "note": "The quote combines the cover page (securities registered under Section 12(b)) and the 'THE COMPANY' section of Item 1.",
+    "quote": "Dow Inc. was incorporated on August 30, 2018, under Delaware law, to serve as a holding company for The Dow Chemical Company and its consolidated subsidiaries",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "StockAnalysis.com: Dow Inc. (DOW) Stock Price & Overview",
+      "date": "2026-10-02",
+      "url": "https://stockanalysis.com/stocks/dow/",
+      "note": "Market-data page without a publication date; price shown 'At close: Oct 2, 2026'. Lists the company as 'Dow Inc. (DOW) NYSE: DOW'.",
+      "quote": "Dow Inc. (DOW) NYSE: DOW · Real-Time Price · USD",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
