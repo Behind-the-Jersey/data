@@ -1,0 +1,19 @@
+{
+  "id": "cadex-group-brand-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "giant-manufacturing"
+  ],
+  "text": "The CADEX cycling component brand is a product brand of Giant Group.",
+  "source": {
+    "name": "Giant Group corporate website: GIANT GROUP (footer, Product Brands)",
+    "date": "2026",
+    "url": "https://www.giantgroup-cycling.com/en-US",
+    "quote": "Product Brands GIANT LIV momentum CADEX",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

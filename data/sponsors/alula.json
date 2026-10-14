@@ -4,11 +4,28 @@
   "ownerId": "royal-commission-for-alula",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Saudi state tourism brand: Experience AlUla is published by the Royal Commission for AlUla, a Saudi government commission established by royal decree, and Saudi Arabia's record includes widespread migrant-worker labour abuse and a record number of executions.",
+  "claimIds": [
+    "alula-rcu-ownership",
+    "rcu-royal-decree-ownership",
+    "saudi-migrant-worker-abuse-2025",
+    "saudi-executions-2025"
+  ],
   "aliases": [
     "experience alula"
   ],
-  "note": "Saudi destination brand run by the Royal Commission for AlUla; co-title sponsor of Team Jayco AlUla."
+  "note": "Rating note: proposed serious, on hold for a maintainer. The Royal Commission for AlUla is a Saudi government commission (royal decree, July 2017), so the state controls the brand — the same shape as Visit Saudi, which the maintainers rated serious. Its record claims are the existing checked claims saudi-migrant-worker-abuse-2025 and saudi-executions-2025. AlUla is the co-title/naming-rights partner of Team Jayco AlUla and hosts the AlUla Tour (formerly the Saudi Tour).",
+  "why": {
+    "text": "AlUla is the tourism brand of the Royal Commission for AlUla, a Saudi government commission established by royal decree. Human Rights Watch and Amnesty International report widespread labour abuse of migrant workers in Saudi Arabia, including wage theft and workers dying in avoidable workplace accidents, and the country executed a record 356 people in 2025. A state tourism brand on a WorldTour jersey promotes the country while that goes on.",
+    "claimIds": [
+      "saudi-migrant-worker-abuse-2025",
+      "saudi-executions-2025",
+      "alula-rcu-ownership",
+      "rcu-royal-decree-ownership"
+    ],
+    "messageLine": "Human Rights Watch reports that migrant workers in Saudi Arabia face widespread labour abuses, including wage theft and dying in avoidable workplace accidents.",
+    "status": "draft"
+  },
+  "ownerVerb": "paid for by"
 }

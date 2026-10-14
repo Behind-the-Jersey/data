@@ -1,12 +1,25 @@
 {
   "id": "giant",
   "name": "Giant",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "giant-manufacturing",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "status": "being-rated",
+  "verdict": "Bicycle brand of Giant Manufacturing (Giant Group, listed TPE: 9921); in September 2025 US Customs and Border Protection detained Giant's Taiwan-made bicycles under a Withhold Release Order based on forced-labour indicators.",
+  "claimIds": [
+    "giant-manufacturing-forced-labour-wro-2025",
+    "giant-group-brand-ownership",
+    "giant-group-tpe-listing"
+  ],
   "aliases": [],
-  "note": "Taiwanese bicycle manufacturer; bike supplier."
+  "why": {
+    "text": "Giant is a product brand of Giant Manufacturing Co., Ltd. (Giant Group). In September 2025 US Customs and Border Protection issued a Withhold Release Order against bicycles, parts and accessories made in Taiwan by Giant Manufacturing, based on information that reasonably indicates forced labour; CBP said its investigation identified ILO forced-labour indicators including abuse of vulnerability, abusive working and living conditions, debt bondage, withholding of wages and excessive overtime.",
+    "claimIds": [
+      "giant-manufacturing-forced-labour-wro-2025",
+      "giant-group-brand-ownership"
+    ],
+    "messageLine": "In September 2025 US Customs ordered the detention of Giant's Taiwan-made bicycles after finding ILO forced-labour indicators including debt bondage and withholding of wages.",
+    "status": "draft"
+  },
+  "note": "Rating note: on hold for a maintainer. This PR (btj-scout) had proposed 'none', but the company test in METHOD.md is not met as 'nothing found': US CBP issued a WRO against Giant Manufacturing Co. Ltd on 24 September 2025 citing forced-labour indicators (claim giant-manufacturing-forced-labour-wro-2025). Under METHOD's company test (a regulator's order finding forced labour at the company itself), this plausibly means 'concern'; only a maintainer sets the tier, so the rating is held as being-rated. Context: Giant says it adopted a zero-recruitment-fee policy in January 2025 and has repaid broker fees to migrant workers, and has petitioned CBP to modify or revoke the WRO (Bicycle Retailer, 24 Sep 2025; CommonWealth Magazine, 30 Sep 2026)."
 }
