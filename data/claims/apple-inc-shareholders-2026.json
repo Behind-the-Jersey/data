@@ -1,0 +1,20 @@
+{
+  "id": "apple-inc-shareholders-2026",
+  "kind": "ownership",
+  "ownerIds": [
+    "apple-inc"
+  ],
+  "text": "Apple Inc.'s proxy statement for its 2026 annual meeting lists The Vanguard Group (9.63%) and BlackRock, Inc. (7.10%) as the holders known to beneficially own more than 5% of its common stock.",
+  "short": "Apple Inc. is listed; largest holders Vanguard 9.63% and BlackRock 7.10% (2026 proxy).",
+  "source": {
+    "name": "Apple Inc. Definitive Proxy Statement (DEF 14A) for the 2026 Annual Meeting of Shareholders, security ownership of certain beneficial owners (SEC EDGAR)",
+    "date": "2026-01-08",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm",
+    "quote": "The Vanguard Group 1,415,826,462 (2) 9.63% BlackRock, Inc. 1,043,713,019 (3) 7.10%",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
