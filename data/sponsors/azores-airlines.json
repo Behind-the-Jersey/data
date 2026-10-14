@@ -3,13 +3,16 @@
   "name": "Azores Airlines (SATA)",
   "ownerId": "sata-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by the SATA group (SATA Holding), which is controlled by the Regional Government of the Azores. Nothing found.",
+  "claimIds": [
+    "azores-airlines-sata-ownership",
+    "sata-azores-regional-government-ownership"
+  ],
   "aliases": [
     "sata",
     "sata azores airlines"
   ],
-  "note": "Airline of the Azores-based SATA group, controlled by the Regional Government of the Azores. Front-of-shirt sponsor at Santa Clara in 2026-27."
+  "note": "International airline of the Azores-based SATA group (SATA Internacional – Azores Airlines), on the front of Santa Clara's 2026-27 home shirt. Rating note: the SATA group is ultimately controlled by the Autonomous Region of the Azores (EC state-aid press release, 7 June 2022), and a privatisation of Azores Airlines (at least 75%) was still running in September 2026 (the group's own notice on azoresairlines.pt). No record of serious abuses by Portugal or the Azores government is recorded here, and state ownership alone is not a tier."
 }
