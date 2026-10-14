@@ -1,0 +1,32 @@
+{
+  "id": "chechnya-anti-lgbt-purges",
+  "kind": "record",
+  "ownerIds": [
+    "chechen-republic"
+  ],
+  "text": "Chechnya's law enforcement and security officials launched an anti-gay purge in 2017, rounding up dozens of men on suspicion of being gay and holding them in unofficial detention facilities where they were humiliated, starved and tortured; Human Rights Watch says top-level local authorities sanctioned the purge. UN experts reported a new wave of arrests from December 2018, with two deaths allegedly caused by torture in detention.",
+  "short": "Chechen security forces tortured men suspected of being gay in purges in 2017 and 2018-19 (HRW, UN)",
+  "source": {
+    "name": "Human Rights Watch: \u201cThey Have Long Arms and They Can Find Me\u201d \u2014 Anti-Gay Purge by Local Authorities in Russia\u2019s Chechen Republic",
+    "date": "2017-05-26",
+    "url": "https://www.hrw.org/report/2017/05/26/they-have-long-arms-and-they-can-find-me/anti-gay-purge-local-authorities-russias",
+    "quote": "They rounded up dozens of men on suspicion of being gay, held them in unofficial detention facilities for days, humiliated, starved, and tortured them.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "UNRIC (United Nations): LGBT community in Chechnya faces \u2018new wave of persecution\u2019: UN human rights experts",
+      "date": "2019-02-14",
+      "url": "https://unric.org/en/lgbt-community-in-chechnya-faces-new-wave-of-persecution-un-human-rights-experts/",
+      "quote": "More than 40 people have reportedly been arrested since December 2018 because of their perceived sexual orientation: the two deaths allegedly occurred as a result of torture during detention.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
