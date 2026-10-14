@@ -1,0 +1,76 @@
+{
+  "id": "rugby-spain-2026-27-home",
+  "clubId": "rugby-spain",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "kpmg",
+      "placement": "sleeve",
+      "source": {
+        "name": "KPMG España: KPMG se une a la familia de la selección española de rugby (press release)",
+        "date": "2025-10-29",
+        "url": "https://kpmg.com/es/es/sala-prensa/notas-prensa/2025/10/kpmg-familia-del-rugby-espanol.html",
+        "note": "Two-season deal (2025/26 and 2026/27) covering the men's and women's XV national teams. The white KPMG block logo sits on the right sleeve of the red home shirt in the RFER's official match photos of España v Suiza (Nueva Balastera, Valladolid, 14 February 2026) and of the Rugby Europe Championship bronze final v Romania (Leganés, 15 March 2026), and in Rugby Europe's official captains photo from the Madrid Finals.",
+        "quote": "el logotipo de KPMG estará presente en las equipaciones oficiales de ambos equipos nacionales",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "renfe",
+      "placement": "back",
+      "source": {
+        "name": "FERugby: Renfe, Tren Oficial de la Selección Española de Rugby",
+        "date": "2024-10-28",
+        "url": "https://ferugby.es/renfe-se-convierte-en-el-tren-oficial-de-la-seleccion-espanola-de-rugby-tras-la-renovacion-del-acuerdo-de-colaboracion-con-la-real-federacion-espanola-de-rugby-rfer-durante-los-tres-proximos-anos-e/",
+        "note": "Renfe is 'Tren Oficial' of the Spanish rugby selections for 2025-2027. Placement verified visually: the white lowercase 'renfe' wordmark sits above the back numbers on the red home shirt in the RFER's official photo of España v Suiza (Valladolid, 14 February 2026).",
+        "quote": "Este acuerdo permite hacer visible la apuesta de la Federación y las Selecciones femenina y masculina de rugby por Renfe de 2025 a 2027",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ebury",
+      "placement": "shorts",
+      "source": {
+        "name": "2Playbook: La Real Federación Española de Rugby firma a Ebury para el pantalón de la selección hasta 2029",
+        "date": "2026-04-29",
+        "url": "https://www.2playbook.com/patrocinio/real-federacion-espanola-rugby-firma-ebury-pantalon-seleccion-hasta-2029_22195_102.html",
+        "note": "Three-year sponsorship to 2029; AS ('Ebury patrocinará a las selecciones españolas de rugby XV', 29 April 2026) confirms the same shorts placement. The Ebury logotype also appears in the RFER partner bar of its July 2026 Nations Cup lineup graphics (ferugby.es).",
+        "quote": "la fintech lucirá en el pantalón de las selecciones españolas de rugby XV",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "joma",
+      "placement": "partner",
+      "source": {
+        "name": "Joma: Federación Española de Rugby (sponsor page)",
+        "date": "2026",
+        "url": "https://www.joma-sport.com/es_ES/sponsor-federacion-espanola-rugby.html",
+        "note": "Kit supplier (technical sponsor), listed as partner per the convention for kit makers. Page without a date, opened 4 October 2026. The Joma hero logo is on the right chest and the shorts of the match shirt in the RFER photos noted above; the RFER's official store (tiendaespanarugby.com) sells the current red home game shirt ('Camiseta de juego roja', Joma ref. AR10601B5101).",
+        "quote": "Joma será el patrocinador oficial de esta selección en todas sus categorías y géneros",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "A Joma red home shirt with no commercial sponsor across the front: KPMG on the sleeve, state-owned rail operator Renfe above the back numbers and fintech Ebury on the shorts. Placements checked against the RFER's official match photos (España v Suiza, Valladolid, 14 February 2026; REC bronze final v Romania, Leganés, 15 March 2026; Nations Cup, July 2026), Rugby Europe's official photos and the RFER store's product shots. Nothing found on any of them.",
+  "change": null,
+  "shortLine": "No front sponsor; KPMG on the sleeve"
+}
