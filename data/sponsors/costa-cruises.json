@@ -3,12 +3,15 @@
   "name": "Costa (Costa Crociere)",
   "ownerId": "costa-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Carnival plc (Carnival Corporation & plc), a listed cruise group. Nothing found.",
+  "claimIds": [
+    "costa-crociere-carnival-ownership"
+  ],
   "aliases": [
     "costa crociere",
     "costa"
-  ]
+  ],
+  "note": "LBA title and main sponsor of Virtus for 2026/27; the team plays domestically as Virtus Costa Bologna. Owner chain: Costa (Costa Crociere) -> Costa Crociere S.p.A. -> Carnival Corporation & plc."
 }

@@ -1,0 +1,20 @@
+{
+  "id": "savoia-nonsolohotel-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nonsolohotel-ltd"
+  ],
+  "text": "The Savoia Hotels website footer names Nonsolohotel Ltd. as the company exercising management and coordination.",
+  "short": "Savoia Hotels is under the management and coordination of Nonsolohotel Ltd.",
+  "source": {
+    "name": "Savoia Hotels: official website footer",
+    "date": "2026",
+    "url": "https://www.savoia.eu/en",
+    "quote": "Management and Coordination Nonsolohotel Ltd.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
