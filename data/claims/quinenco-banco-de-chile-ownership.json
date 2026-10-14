@@ -1,0 +1,21 @@
+{
+  "id": "quinenco-banco-de-chile-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "quinenco-sa"
+  ],
+  "text": "Quiñenco controls Banco de Chile through LQ Inversiones Financieras S.A. (LQIF), owned in equal parts by Quiñenco and Citigroup; LQIF held 51.2% of the voting and economic rights of Banco de Chile at 31 December 2025.",
+  "short": "Quiñenco controls Banco de Chile through LQIF, which holds 51.2% of its voting and economic rights.",
+  "source": {
+    "name": "Quiñenco S.A.: Banco de Chile (quinenco.cl company page)",
+    "date": "2026",
+    "url": "https://www.quinenco.cl/empresas-banco-de-chile/",
+    "quote": "Quiñenco y Citigroup participan en partes iguales en LQIF, que posee el 51,2% de los derechos de voto y de los derechos económicos del Banco de Chile al 31 de diciembre de 2025",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "English: Quiñenco (the Luksic-group holding) controls Banco de Chile through LQIF, held 50/50 with Citigroup. Page header: 'Participación LQIF: 51,2%' at 31 December 2025."
+  },
+  "reviewed": false
+}

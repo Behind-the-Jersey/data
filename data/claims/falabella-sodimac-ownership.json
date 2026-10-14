@@ -1,0 +1,21 @@
+{
+  "id": "falabella-sodimac-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "falabella-sa"
+  ],
+  "text": "Sodimac S.A. (Chile, RUT 96.792.430-K) is a wholly owned subsidiary of Falabella S.A.: Falabella's Memoria Anual 2025 names Sodimac S.A. among its CMF-registered subsidiaries and lists Falabella's total participation in it as 100%.",
+  "short": "Falabella S.A. owns 100% of Sodimac S.A. (2025 annual report).",
+  "source": {
+    "name": "Falabella S.A.: Memoria Anual 2025 (sociedades filiales inscritas en la CMF)",
+    "date": "2026-02",
+    "url": "https://investors.grupofalabella.com/app/uploads/2026/02/MemoriaAnualFalabella2025_Web.pdf",
+    "quote": "Las sociedades filiales inscritas en la CMF son las siguientes: FILIAL RUT N° INSCRIPCION Sodimac S.A. 96.792.430",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "English: Falabella's 2025 annual report lists Sodimac S.A. as a CMF-registered subsidiary; the subsidiaries table on p. 304 of the PDF gives 'Sodimac S.A. - 100 100 100 CHILE' (direct/indirect/total participation)."
+  },
+  "reviewed": false
+}
