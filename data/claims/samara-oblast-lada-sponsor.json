@@ -1,0 +1,46 @@
+{
+  "id": "samara-oblast-lada-sponsor",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-samara-oblast",
+    "russian-federation"
+  ],
+  "text": "The Government of Samara Oblast is a founder ('Учредитель') of HC Lada, per the club's official partners page, where the region's logo opens the 'Partners and sponsors of HC Lada 2026/2027' section, and the club is funded from the regional budget.",
+  "short": "Samara Oblast's government is a founder of HC Lada and funds the club from the regional budget.",
+  "source": {
+    "name": "HC Lada official site, club partners page ('Партнеры и спонсоры ХК «Лада» 2026/2027')",
+    "date": "2026-10-03",
+    "url": "https://hclada.ru/club/partners/",
+    "quote": "Учредитель ХК «Лада»",
+    "note": "Translation: 'Founder of HC Lada'. The label appears under the Samara Oblast logo (linking to samregion.ru) in the 2026/2027 partners section. The 'САМАРСКАЯ ОБЛАСТЬ' mark with the regional coat of arms across the front hem of the 2026-27 home jersey is visible in the club's own match-gallery photos (e.g. Lada–Dinamo Minsk, 14.09.2026) and the KHL press-service 2026/27 kit render (sports.ru, 13.09.2026).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Vedomosti.Sport: Самарская область готова выделить «Ладе» 750 млн рублей",
+      "date": "2023-02-27",
+      "url": "https://www.vedomosti.ru/sport/hockey/articles/2023/02/27/964493-lada-vozvraschenie-v-khl-byudzhet",
+      "quote": "клубу на предстоящий сезон выделят 750 млн руб. из регионального бюджета",
+      "note": "Translation: 'the club will be allocated 750 million rubles from the regional budget for the upcoming season' (acting sports minister of Samara Oblast, February 2023).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Жигули 63 (zhiguli63.info): «Лада» из Тольятти остаётся в КХЛ — инвестор и область гарантируют финансирование",
+      "date": "2026-05-19",
+      "url": "https://zhiguli63.info/2026/05/19/lada-iz-tolyatti-ostaetsya-v-kkhl-investor-i-oblast-garantiruyut-finansirovanie/",
+      "quote": "дополнительную поддержку хоккеистам окажет и областной бюджет",
+      "note": "Translation: 'the regional budget will also provide additional support to the players' — governor of Samara Oblast after meeting the club's investor, May 2026.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
