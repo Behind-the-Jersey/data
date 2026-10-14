@@ -1,0 +1,135 @@
+{
+  "id": "tf-sport-2026-home",
+  "clubId": "tf-sport",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "keating-chevrolet",
+      "placement": "partner",
+      "source": {
+        "name": "CorvetteBlogger: [PICS] TF Sport Unveils the 2026 Liveries for its Corvette Z06 GT3.R Racers",
+        "date": "2026-02-10",
+        "url": "https://www.corvetteblogger.com/2026/02/10/pics-tf-sport-unveils-the-2026-liveries-for-its-corvette-z06-gt3r-racers/",
+        "note": "The logo sits on the doors of the #33 2026 Corvette Z06 GT3.R. Car-body placements do not map onto shirt placements, so it is recorded as a partner.",
+        "quote": "On the doors are Keating Chevrolet, a nod to driver Ben Keating's Texas-based dealership group.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "wynns",
+      "placement": "partner",
+      "source": {
+        "name": "Wynn's Racing: Wynn's® Racing + Ben Keating are Ready for 2026 (Wayback Machine capture)",
+        "date": "2025-12-16",
+        "url": "https://web.archive.org/web/20260413010804/https://www.wynnsracing.com/wynns-racing-ben-keating-are-ready-for-2026/",
+        "note": "Wynn's own racing site announces its continued 2026 partnership with Ben Keating on the #33 Corvette; the Wynn's logo is on the car's windscreen banner. The live page serves a PHP error, so the 13 Apr 2026 capture is cited.",
+        "quote": "we’re proud to continue our partnership with one of endurance racing’s most respected names—Ben Keating.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "artisan-coffee",
+      "placement": "partner",
+      "source": {
+        "name": "TF Sport: Partners (club's own site)",
+        "date": "2026",
+        "url": "https://www.tfsport.co.uk/partners.php",
+        "note": "Club's 'Our partners' page; no date shown, opened 2026-10-03.",
+        "quote": "Artisan Coffee Co. is revolutionising the way to enjoy coffee.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "hrx",
+      "placement": "partner",
+      "source": {
+        "name": "TF Sport: Partners (club's own site)",
+        "date": "2026",
+        "url": "https://www.tfsport.co.uk/partners.php",
+        "note": "Club's 'Our partners' page; no date shown, opened 2026-10-03.",
+        "quote": "HRX are the world's fastest growing racewear manufacturer and specialist in bespoke and customised products",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ap-racing",
+      "placement": "partner",
+      "source": {
+        "name": "TF Sport: Partners (club's own site)",
+        "date": "2026",
+        "url": "https://www.tfsport.co.uk/partners.php",
+        "note": "Club's 'Our partners' page; no date shown, opened 2026-10-03.",
+        "quote": "AP Racing is the leading manufacturer of performance brake and clutch systems for motorsport",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pagid-racing",
+      "placement": "partner",
+      "source": {
+        "name": "TF Sport: Partners (club's own site)",
+        "date": "2026",
+        "url": "https://www.tfsport.co.uk/partners.php",
+        "note": "Club's 'Our partners' page; no date shown, opened 2026-10-03.",
+        "quote": "Pagid Racing products brake designed to guarantee the highest possible performance levels",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ao-racing",
+      "placement": "partner",
+      "source": {
+        "name": "TF Sport: Partners (club's own site)",
+        "date": "2026",
+        "url": "https://www.tfsport.co.uk/partners.php",
+        "note": "Club's 'Our partners' page; no date shown, opened 2026-10-03. The text predates 2026 but the partnership (AO by TF LMP2 cars) still runs.",
+        "quote": "2024 will mark a new history to be written for AO racing and TF Sport will be a major player.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "caseliner",
+      "placement": "partner",
+      "source": {
+        "name": "TF Sport: Partners (club's own site)",
+        "date": "2026",
+        "url": "https://www.tfsport.co.uk/partners.php",
+        "note": "Club's 'Our partners' page calls this partner 'CCM'; the link goes to caseliner.com (CASELINER s.r.o., Czech Republic). No date shown; opened 2026-10-03.",
+        "quote": "CCM are a direct manufacturer and offer a wide portfolio of motorsport products known as pit equipement",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 FIA WEC, #33 yellow Corvette Z06 GT3.R run by TF Sport in LMGT3 (drivers Ben Keating, Jonny Edgar, Nicky Catsburg). The team has no title sponsor: the team name carries no sponsor. Keating Chevrolet (driver Ben Keating's Texas dealership group) is on the doors and Wynn's continues its partnership on the car; both are recorded as partners because car-body placements do not map onto shirt placements. The club's partners page adds Artisan Coffee, HRX, AP Racing, Pagid Racing, AO Racing and CCM/Caseliner (team-wide, not tied to one car). Not complete: the 2026 launch renders also show Rain-X, MaxConnect Digital, Client Command and Heel Tread decals, plus series and manufacturer branding (Goodyear, DHL, Corvette), with no text source naming them.",
+  "change": null
+}
