@@ -3,13 +3,16 @@
   "name": "Cerveja Coral",
   "ownerId": "pestana-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Beer brand of Empresa de Cervejas da Madeira (ECM), part of the Pestana Group, owned and chaired by Dionísio Pestana. Nothing found.",
+  "claimIds": [
+    "ecm-pestana-group-ownership",
+    "pestana-group-pestana-ownership"
+  ],
   "aliases": [
     "coral beer",
     "empresa de cerveja da madeira"
   ],
-  "note": "Madeira beer brand of the Madeira Brewery (Empresa de Cerveja da Madeira), controlled since 1999 by the Pestana Group with the Miles family. Back-of-shirt sponsor at Nacional in 2026-27."
+  "note": "Madeira beer brand of the Madeira Brewery (Empresa de Cervejas da Madeira, ECM). ECM says it is part of the Pestana Group universe; the group (owner and chairman Dionísio Pestana) says it bought the Madeira brewery in the 1990s. Front-of-shirt sponsor at Nacional in 2026-27; the ECM-Nacional sponsorship was renewed in 2023 for three more years with shirt advertising (DNOTICIAS, 11 Aug 2023). Rating note (2026-10-03): private, family-owned Portuguese owners; no state or state fund in the chain and no human-rights finding against ECM or the Pestana Group found, so nothing passes the METHOD.md test."
 }

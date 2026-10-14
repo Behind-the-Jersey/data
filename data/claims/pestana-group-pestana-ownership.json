@@ -1,0 +1,21 @@
+{
+  "id": "pestana-group-pestana-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pestana-group"
+  ],
+  "text": "The Pestana Group was founded by Manuel Pestana, who with his son Dionísio Pestana, its owner and Chairman, expanded the group internationally; the group says it bought Madeira's brewery, the island's market leader in beer and soft drinks, in the 1990s.",
+  "short": "Pestana Group: owned and chaired by Dionísio Pestana; his group says it bought the Madeira brewery (ECM) in the 1990s.",
+  "source": {
+    "name": "Pestana Group: Founders",
+    "date": "2026",
+    "url": "https://www.pestanagroup.com/en/pestana-group/founders/",
+    "quote": "together with his son, Dionísio Pestana, owner and Chairman, expanded the brand's footprint internationally",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The same page, in the 1990s section of the timeline, says: 'In Madeira the group buys the Madeira Beer Company, the island's market leader producing beer and soft drinks.'"
+  },
+  "reviewed": false
+}
