@@ -1,0 +1,43 @@
+{
+  "id": "lg-electronics-canada-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "lg-electronics-inc"
+  ],
+  "text": "LG Electronics Canada, Inc. (LGECI) is the Canadian subsidiary of LG Electronics, Inc., a consumer-electronics group headquartered in Seoul, South Korea; LG Electronics' consolidated financial statements list LGECI with a 100% controlling interest.",
+  "short": "LG Electronics Canada is wholly owned by LG Electronics, Inc.",
+  "source": {
+    "name": "CNW / LG Electronics Canada: 'LG Electronics Canada and Maple Leaf Sports and Entertainment expands partnership to include Toronto FC'",
+    "date": "2024-07-17",
+    "url": "https://www.newswire.ca/news-releases/lg-electronics-canada-and-maple-leaf-sports-and-entertainment-expands-partnership-to-include-toronto-fc-811236511.html",
+    "quote": "LG Electronics Canada, Inc. is the Canadian subsidiary of LG Electronics Inc.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "LG Electronics Inc. and its subsidiaries: interim condensed consolidated financial statements, June 30, 2025 (list of subsidiaries)",
+      "date": "2025-06-30",
+      "url": "https://www.lg.com/content/dam/lge/global/ir/03-financial-information/pdf-file/financial-statements/2025/2025_2Q_LGE_Consolidated_financial_statements_ENG.pdf",
+      "quote": "LG Electronics Canada, Inc.(LGECI) 100.0% - 100.0% - December Sales of electronic products",
+      "note": "Subsidiaries table in LG Electronics' published consolidated financial statements: controlling interest 100%.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "LG Electronics Canada: 2024 Report on Fighting Forced Labour in Canadian Supply Chains (Fighting Against Forced Labour and Child Labour in Supply Chains Act report)",
+      "date": "2025-05-26",
+      "url": "https://www.lg.com/content/dam/channel/wcms/ca_en/pdf/LGECI-Modern-Slavery-Report-2024-EN_FINAL.pdf",
+      "quote": "LGECI is the Canadian subsidiary of LG Electronics Inc. (LG), which is headquartered in Seoul, South Korea",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
