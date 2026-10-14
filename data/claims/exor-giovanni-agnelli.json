@@ -1,0 +1,21 @@
+{
+  "id": "exor-giovanni-agnelli",
+  "kind": "ownership",
+  "ownerIds": [
+    "exor-nv",
+    "giovanni-agnelli-bv"
+  ],
+  "text": "Exor N.V., the Amsterdam-listed investment company that holds Iveco Group's largest block, reports Giovanni Agnelli B.V. as its largest shareholder with 54.94% of economic rights and 83.97% of voting rights as at 31 December 2025; Exor describes Giovanni Agnelli B.V. as a Dutch private company whose shares are held by descendants of Giovanni Agnelli, founder of Fiat.",
+  "short": "Exor is controlled by Giovanni Agnelli B.V., the Agnelli family's private holding.",
+  "source": {
+    "name": "Exor N.V. - Ownership structure (shareholders' corner)",
+    "date": "2025-12-31",
+    "url": "https://www.exor.com/pages/investors-media/shareholders-corner/ownership-structure",
+    "quote": "At 31 December 2025, Giovanni Agnelli B.V. was the largest shareholder of the company, holding 114,163,063 ordinary shares and 114,161,912 special voting shares A, representing 54.94% of the economic rights",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

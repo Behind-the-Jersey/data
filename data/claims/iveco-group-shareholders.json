@@ -1,0 +1,22 @@
+{
+  "id": "iveco-group-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "iveco-group-nv",
+    "exor-nv",
+    "giovanni-agnelli-bv"
+  ],
+  "text": "Iveco is the truck brand of Iveco Group N.V., incorporated in the Netherlands and listed on Euronext Milan. Its 2025 Annual Report's table of holders of 3% or more as at 31 December 2025 shows Giovanni Agnelli B.V. - held via Exor N.V. - with 42.49% of voting rights, Burlington Loan Management DAC with 5.02%, and Syquant Capital, BlackRock and Citigroup with about 3% each; no state or state fund appears. Iveco and Tata Motors announced on 30 July 2025 a tender offer for Iveco Group, not yet completed when checked in October 2026.",
+  "short": "Iveco Group is Euronext-listed; Giovanni Agnelli B.V. (via Exor) holds 42.49% of voting rights.",
+  "source": {
+    "name": "Iveco Group N.V. 2025 Annual Report - Major Shareholders (page 258)",
+    "date": "2026-03-04",
+    "url": "https://www.ivecogroup.com/-/media/investors/shareholder_meetings/docs/agm_2026/IVG_Annual_Report_2025.pdf?rev=63076637c5794591ae91d44f46efbd36",
+    "quote": "Giovanni Agnelli B.V. (3) 73,385,580 73,385,580.00 42.49 % 42.49 %",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

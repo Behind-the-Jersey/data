@@ -1,0 +1,22 @@
+{
+  "id": "astra-honda-motor-jv",
+  "kind": "ownership",
+  "ownerIds": [
+    "pt-astra-honda-motor",
+    "astra-international",
+    "honda-motor-co-ltd"
+  ],
+  "text": "PT Astra Honda Motor (AHM) is a 50% : 50% joint venture of the Jakarta-listed conglomerate PT Astra International Tbk and Honda Motor Co., Ltd., as stated in its entry on the Honda HRC Castrol team's sponsors page.",
+  "short": "Astra Honda Motor is a 50/50 joint venture of Astra International and Honda Motor.",
+  "source": {
+    "name": "Honda HRC Castrol - official team site, Sponsors page (motogp.honda.racing) - Astra Honda Motor entry",
+    "date": "2026",
+    "url": "https://motogp.honda.racing/page/sponsors-b59460dc",
+    "quote": "As a joint venture company of PT Astra International Tbk and Honda Motor Co., Ltd. with the share composition of 50% : 50%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

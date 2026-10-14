@@ -1,0 +1,20 @@
+{
+  "id": "mitsuba-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "mitsuba-corporation"
+  ],
+  "text": "Mitsuba Corporation, the electrical-components sponsor named on Honda HRC Castrol's sponsors page, publishes its major shareholders as at 31 March 2026: The Master Trust Bank of Japan (7.49%), The Bank of Yokohama (4.78%), a suppliers' shareholding association (4.41%), Honda Motor (3.62%) and others; no state or state fund appears among them.",
+  "short": "Mitsuba's major holders are Japanese trust banks, regional banks and Honda (3.62%); no state.",
+  "source": {
+    "name": "MITSUBA Corporation - Investor Relations, Shareholder Data (as at 31 March 2026)",
+    "date": "2026-03-31",
+    "url": "https://www.mitsuba.co.jp/en/ir/sto_bon/share.html",
+    "quote": "The Master Trust Bank of Japan, Ltd. 3,441 7.49",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
