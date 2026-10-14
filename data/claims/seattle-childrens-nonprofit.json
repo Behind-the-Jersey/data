@@ -1,0 +1,20 @@
+{
+  "id": "seattle-childrens-nonprofit",
+  "kind": "ownership",
+  "ownerIds": [
+    "seattle-childrens"
+  ],
+  "text": "Seattle Children's Foundation is a nonprofit 501(c)(3) organization (federal tax ID 91-1156519).",
+  "short": "Seattle Children's is a nonprofit 501(c)(3).",
+  "source": {
+    "name": "Seattle Children's - Giving page",
+    "date": "2026-10-03",
+    "url": "https://www.seattlechildrens.org/giving",
+    "quote": "Seattle Children’s Foundation is a nonprofit 501(c)(3) organization. Our federal tax identification number is 91-1156519.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

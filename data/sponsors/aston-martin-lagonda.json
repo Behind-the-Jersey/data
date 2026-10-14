@@ -1,0 +1,28 @@
+{
+  "id": "aston-martin-lagonda",
+  "name": "Aston Martin",
+  "ownerId": "aston-martin-lagonda",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "aston-martin-lagonda-brand",
+    "wec-pif-aston-martin-ownership",
+    "saudi-executions-2025"
+  ],
+  "aliases": [
+    "Aston Martin Racing"
+  ],
+  "ownerVerb": "owned by",
+  "note": "Aston Martin wings and ASTON MARTIN RACING windshield banner on the Heart of Racing WEC cars (#23, #27); the team is Aston Martin's partner in WEC and IMSA (theheartofracing.com). Proposed tier in the pull request: concern - Saudi PIF is Aston Martin Lagonda's largest shareholder (19.5%) with two board seats.",
+  "why": {
+    "text": "Aston Martin Lagonda is the car brand whose wings logo and Aston Martin Racing banner appear on the Heart of Racing WEC cars. Saudi Arabia's Public Investment Fund is Aston Martin Lagonda's largest shareholder (19.5%) and is entitled to two seats on its board. Saudi Arabia executed at least 356 people in 2025, a new record for the country, many of them for drug-related offences.",
+    "claimIds": [
+      "saudi-executions-2025",
+      "wec-pif-aston-martin-ownership",
+      "aston-martin-lagonda-brand"
+    ],
+    "status": "draft"
+  }
+}
