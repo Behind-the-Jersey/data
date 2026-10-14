@@ -1,0 +1,21 @@
+{
+  "id": "psp-thai-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pravdinskoe-svino-proizvodstvo"
+  ],
+  "text": "Since November 2024, 100% of the shares in AO «Правдинское свино производство» (AO PSP) are held by РБПИ (Таиланд) Компани Лимитед (RBPI (Thailand) Company Limited); the ultimate beneficial owners are not identified in the register.",
+  "short": "AO PSP is 100% held by a Thai company since November 2024.",
+  "source": {
+    "name": "Checko (checko.ru, EGRUL extract): АО «ПСП»",
+    "date": "2026-10-03",
+    "url": "https://checko.ru/company/pravdinskoe-svino-proizvodstvo-1063917004271",
+    "quote": "РБПИ (ТАИЛАНД) КОМПАНИ ЛИМИТЕД Таиланд Регистрационный номер 0105567081293 с 7 ноября 2024 г. 1 млрд руб. 100%",
+    "note": "Translation: sole shareholder of AO PSP since 7 November 2024 is RBPI (Thailand) Company Limited, registration no. 0105567081293, 100%. EGRUL (Federal Tax Service register) data as displayed by checko.ru; the individuals behind the Thai company are not named.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "red-wings-rostec-perimeter",
+  "kind": "ownership",
+  "ownerIds": [
+    "red-wings",
+    "rostec"
+  ],
+  "text": "Red Wings airline (АО «Ред Вингс») is within the management perimeter of the state corporation Rostec; Rostec describes it as its own airline.",
+  "short": "Red Wings is within Rostec's management perimeter.",
+  "source": {
+    "name": "Rostec: Red Wings: 24 года – полет нормальный! (archived copy of rostec.ru)",
+    "date": "2023-06-24",
+    "url": "https://web.archive.org/web/20240417101800/https://rostec.ru/news/red-wings-24-goda-polet-normalnyy-/",
+    "quote": "24 июня авиакомпании Red Wings, входящей в контур управления Госкорпорации Ростех",
+    "note": "Translation: 'On 24 June, Red Wings airline, which is within the management perimeter of the Rostec State Corporation, turns 24.' The article headline calls Red Wings 'Rostec's airline' (авиакомпания Ростеха).",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "RBC (rbc.ru): Red Wings сменит название на русское (archived copy)",
+      "date": "2024-04-17",
+      "url": "https://web.archive.org/web/20240417102643/https://www.rbc.ru/business/17/04/2024/661f89719a79470f0e773da7",
+      "quote": "Входящая в госкорпорацию «Ростех» авиакомпания Red Wings",
+      "note": "Translation: 'Red Wings airline, part of the Rostec state corporation'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "novikombank-rostec-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "novikombank",
+    "rostec"
+  ],
+  "text": "Novikombank (renamed NOVIKOM) is a subsidiary bank of the state corporation Rostec: Rostec became its majority shareholder in 2016, and since 2023 the bank has sat in Rostec's RT-Finans holding.",
+  "short": "Novikombank is Rostec's subsidiary bank.",
+  "source": {
+    "name": "Rostec: НОВИКОМ: новое имя банка российских инженеров (archived copy of rostec.ru)",
+    "date": "2024-05-15",
+    "url": "https://web.archive.org/web/20260911105529/https://www.rostec.ru/media/news/novikom-novoe-imya-banka-rossiyskikh-inzhenerov/",
+    "quote": "АО АКБ «НОВИКОМБАНК», входящее в состав Госкорпорации Ростех",
+    "note": "Translation: 'AO AKB NOVIKOMBANK, part of the Rostec State Corporation'. The article also says Rostec became its majority shareholder in 2016 and that since 2023 the bank is in the RT-Finans holding.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Council Implementing Regulation (EU) 2022/581 (EUR-Lex), Annex IV entry for Novikombank",
+      "date": "2022-04-08",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R0581",
+      "quote": "Novikombank is a subsidiary of Rostec (Russian Technologies State Corporation)",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
