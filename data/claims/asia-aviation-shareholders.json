@@ -1,0 +1,19 @@
+{
+  "id": "asia-aviation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "asia-aviation"
+  ],
+  "text": "Asia Aviation's top shareholders as of 11 March 2026 are Airasia Aviation Group Limited (40.71%) and Mr Tassapon Bijleveld (17.75%).",
+  "source": {
+    "name": "Asia Aviation PCL: Major Shareholders (Top 10, as of 11 March 2026)",
+    "date": "2026-03-11",
+    "url": "https://www.aavplc.com/en/investor-relations/shareholder-info/major-shareholders",
+    "quote": "1. Airasia Aviation Group Limited 5,230,616,671 40.71 2. Mr. Tassapon Bijleveld 2,280,661,686 17.75",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

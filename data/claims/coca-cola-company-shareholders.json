@@ -1,0 +1,19 @@
+{
+  "id": "coca-cola-company-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "coca-cola-company"
+  ],
+  "text": "The Coca-Cola Company's 2026 proxy statement lists three owners of more than 5% of its common stock: Berkshire Hathaway (9.29%), The Vanguard Group (8.61%) and BlackRock (7.28%).",
+  "source": {
+    "name": "The Coca-Cola Company: 2026 Proxy Statement (Schedule 14A), 'Share Ownership' table (SEC EDGAR)",
+    "date": "2026-03-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm",
+    "quote": "Berkshire Hathaway Inc. (1) 3555 Farnam Street, Omaha, Nebraska 68131 400,000,000",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

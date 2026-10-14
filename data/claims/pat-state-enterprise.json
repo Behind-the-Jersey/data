@@ -1,0 +1,33 @@
+{
+  "id": "pat-state-enterprise",
+  "kind": "ownership",
+  "ownerIds": [
+    "port-authority-of-thailand",
+    "government-of-thailand"
+  ],
+  "text": "The Port Authority of Thailand is a state enterprise of Thailand under the Ministry of Transport.",
+  "source": {
+    "name": "Ministry of Transport (Thailand) data catalog: organisation profile of การท่าเรือแห่งประเทศไทย (Port Authority of Thailand)",
+    "date": "",
+    "url": "https://datagov.mot.go.th/organization/about/port",
+    "quote": "การท่าเรือแห่งประเทศไทย เป็นหน่วยงานรัฐวิสาหกิจ ในสังกัดกระทรวงคมนาคม",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "'รัฐวิสาหกิจ ในสังกัดกระทรวงคมนาคม' = state enterprise under the Ministry of Transport (Ministry of Transport data catalog)."
+  },
+  "additionalSources": [
+    {
+      "name": "The Nation (Thailand): Port Authority of Thailand wins 2025 SOE Award for organisational development",
+      "date": "2026-01-01",
+      "url": "https://www.nationthailand.com/pr-news/pr-news/40060642",
+      "quote": "The Port Authority of Thailand (PAT) has won the Outstanding State Enterprise Award 2025 from the State Enterprise Policy Office (SEPO)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
