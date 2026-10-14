@@ -1,0 +1,35 @@
+{
+  "id": "gdo-gazprom-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "gazprom-dobycha-orenburg",
+    "gazprom"
+  ],
+  "text": "Gazprom dobycha Orenburg (OOO Gazprom dobycha Orenburg) is a wholly owned (100%) subsidiary of Gazprom.",
+  "short": "Gazprom owns 100% of Gazprom dobycha Orenburg.",
+  "source": {
+    "name": "Oren.Ru (regional news outlet): The head of Orenburg's gas producers announced his resignation",
+    "date": "2015-02-17",
+    "url": "https://oren.ru/glavnyj-gazovik-orenburzhya-obyavil-o-svoej-otstavke/",
+    "quote": "ООО «Газпром добыча Оренбург» — 100-процентное дочернее общество ОАО «Газпром».",
+    "note": "Company-profile paragraph in the article. «ОАО «Газпром»» was Gazprom's corporate form before its 2015 re-registration as a public joint-stock company (ПАО); a later source below uses ПАО.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "History Depositarium (Museum of Victory project): Faces of Victory — OOO Gazprom dobycha Orenburg",
+      "date": "2026",
+      "url": "https://historydepositarium.ru/litsa-pobedy-ooo-gazprom-dobycha-orenburg-/",
+      "quote": "ООО «Газпром добыча Оренбург» – 100-процентное дочернее общество ПАО «Газпром».",
+      "note": "Company profile page of the Victory Museum's History Depositarium project. The page itself carries no publication date; 2026 is the year shown in the site footer. Gazprom's own site (gazprom.ru) states the same 100%-subsidiary fact in its July 2026 subsidiary news (article584912), but gazprom.ru timed out from the research environment and could not be opened to quote.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
