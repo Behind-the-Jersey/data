@@ -1,0 +1,34 @@
+{
+  "id": "federal-pacific-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "federal-pacific-group"
+  ],
+  "text": "Federal Pacific Insurance says its group consists of privately owned general insurance companies with offices and branches in Samoa, Tonga, Cook Islands, East Timor and Vanuatu. Cook Islands News names the late Alistair Hutchison as the group's founder and his son Papalii Alan Hutchison as chairman.",
+  "short": "The Federal Pacific Insurance group says it is privately owned; Hutchison family.",
+  "source": {
+    "name": "Fedpac Insurance: Home",
+    "date": "2026-10-04",
+    "url": "https://www.fedpacinsurance.com",
+    "quote": "The Federal Pacific Insurance group consists of privately owned general insurance companies with offices and branches in Samoa, Tonga, Cook Islands, East Timor and Vanuatu.",
+    "note": "Company's own description of the group on its homepage.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Cook Islands News: 'Insurance provider celebrates nine years in Cooks, pledges continued commitment'",
+      "date": "2024-07-08",
+      "url": "https://www.cookislandsnews.com/internal/national/features/go-local/business/insurance-provider-celebrates-nine-years-in-cooks-pledges-continued-commitment/",
+      "quote": "chairman Papalii Alan Hutchison, for continuing to pursue the vision of his late father and group founder, Alistair Hutchison",
+      "note": "Names the Federal Pacific Group founder (the late Alistair Hutchison) and chairman (his son Papalii Alan Hutchison).",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

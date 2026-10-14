@@ -1,0 +1,21 @@
+{
+  "id": "dynasty-sport-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "dynasty-sport-ltd"
+  ],
+  "text": "The New Zealand Companies Office lists Dynasty Sport Limited (company number 6940613, Takapuna, Auckland) with 100,000 issued shares, 100.00% held in a single allocation by Peter Anthony Rakich, who is also its sole director.",
+  "short": "Dynasty Sport Limited is 100% owned by Peter Anthony Rakich.",
+  "source": {
+    "name": "New Zealand Companies Office: DYNASTY SPORT LIMITED (6940613), Shareholdings",
+    "date": "2026-10-04",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/6940613/shareholdings",
+    "quote": "1:100000 (100.00%) Peter Anthony RAKICH",
+    "note": "Register page generated 4 October 2026; 'Shareholders in Allocation: 1:100000 (100.00%) ... Peter Anthony RAKICH'. The register's Directors page for the company lists the same person as sole director.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

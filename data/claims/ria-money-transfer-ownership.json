@@ -1,0 +1,20 @@
+{
+  "id": "ria-money-transfer-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "euronet-worldwide"
+  ],
+  "text": "Euronet Worldwide, Inc.'s Form 10-K for fiscal year 2025 says its Money Transfer segment provides global money transfers and currency exchange information 'through Ria Money Transfer, Xe and the Dandelion cross-border real-time payments network'.",
+  "short": "Ria Money Transfer is part of Euronet Worldwide's Money Transfer segment.",
+  "source": {
+    "name": "Euronet Worldwide, Inc. Form 10-K for fiscal year ended December 31, 2025 (SEC EDGAR)",
+    "date": "2026-02-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1029199/000155485526000131/eeft-20251231.htm",
+    "quote": "provides global money transfers and currency exchange information in retail stores, apps, and websites through Ria Money Transfer, Xe and the Dandelion",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

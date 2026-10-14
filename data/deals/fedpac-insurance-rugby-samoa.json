@@ -1,0 +1,29 @@
+{
+  "id": "fedpac-insurance-rugby-samoa",
+  "clubId": "rugby-samoa",
+  "orgName": null,
+  "sponsorId": "fedpac-insurance",
+  "placement": "front",
+  "from": "2026-05",
+  "to": "2028",
+  "value": {
+    "amount": 0.55,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 0.55
+  },
+  "source": {
+    "name": "Samoa Observer: 'Federal Pacific commits $3M to Lakapi Samoa'",
+    "date": "2026-05-08",
+    "url": "https://www.samoaobserver.ws/category/samoa/119861",
+    "quote": "Federal Pacific Insurance Samoa has committed $3 million over the next two years as the major sponsor of Lakapi Samoa",
+    "note": "Reported as SAT $3 million (Samoan tālā) over two years; roughly USD 0.55m per year at about USD 0.36 per tālā (October 2026 rate). The Samoa Observer says 'the sponsorship will cover Manusina XV, Manu Samoa, and the sevens teams' and was unveiled 8 May 2026 at Taumeasina Island Resort alongside the NPC 2026 launch.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "note": "Two-year Lakapi Samoa major-sponsor deal covering Manu Samoa (FEDPAC INSURANCE logo is centre-front of the 2026 home jersey), Manusina XV and the sevens teams; package included three vehicles. Samoa Observer article also notes the Lakapi Samoa interim chairman, Namulauulu Sami Leota, is General Manager of Federal Pacific Samoa, and Federal Pacific's chairman is Alan Hutchison."
+}
