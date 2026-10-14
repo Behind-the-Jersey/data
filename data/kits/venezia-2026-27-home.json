@@ -12,13 +12,48 @@
       "sponsorId": "cynar-spritz",
       "placement": "front",
       "source": {
-        "name": "Venezia FC",
-        "date": "2026-08-23",
-        "url": "https://www.veneziafc.it/news/cynar-spritz-rinnova-il-suo-impegno-accanto-al-venezia-fc-e-lancia-un-nuovo-capitolo-di-contro-il-logorio-della-vita-moderna"
+        "name": "Venezia FC, 'Cynar Spritz rinnova il suo impegno accanto al Venezia FC e lancia un nuovo capitolo di \"Contro il logorio della vita moderna\"'",
+        "date": "2026-08-24",
+        "url": "https://www.veneziafc.it/news/cynar-spritz-rinnova-il-suo-impegno-accanto-al-venezia-fc-e-lancia-un-nuovo-capitolo-di-contro-il-logorio-della-vita-moderna",
+        "quote": "Cynar si riconferma Main Sponsor del Venezia FC anche per la nuova stagione",
+        "note": "Italian for: 'Cynar confirms itself again as Main Sponsor of Venezia FC for the new season'. The club names Main Sponsor Cynar Spritz as the front-of-shirt sponsor on its match jerseys, e.g. 'VENEZIA FC PRESENTA LA MAGLIA AWAY 26/27' (veneziafc.it, 14/08/2026): 'è presente lo sponsor di maglia Cynar Spritz sul fronte'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "pokerstars-news",
+      "placement": "sleeve",
+      "source": {
+        "name": "Venezia FC, 'PokerStarsNews è partner ufficiale di Venezia FC'",
+        "date": "2026-08-12",
+        "url": "https://www.veneziafc.it/news/pokerstarsnews-e-partner-ufficiale-di-venezia-fc",
+        "quote": "Il logo di PokerStarsNews sarà presente sulle maniche delle maglie da gioco della Prima Squadra Maschile del Club Arancioneroverde durante le partite di Serie A Enilive e Coppa Italia Frecciarossa 2026/2027.",
+        "note": "Italian for: 'The PokerStarsNews logo will be on the sleeves of the men's first team's match shirts during 2026/27 Serie A Enilive and Coppa Italia Frecciarossa matches. PokerStarsNews becomes Official Sleeve Partner of the club.'",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gwm",
+      "placement": "back",
+      "source": {
+        "name": "Venezia FC, 'Venezia FC and GWM announce their partnership'",
+        "date": "2026-08-21",
+        "url": "https://en.veneziafc.it/news/venezia-fc-and-gwm-announce-their-partnership",
+        "quote": "Under the agreement, GWM becomes the Official Automotive Sponsor and Official Back Sponsor of Venezia FC for the 2026/27 season. The GWM logo will appear on the back of the First Team's official match shirt",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": null
+  "summary": "NOCTA home shirt: Cynar Spritz on the front (Main Sponsor, renewed August 2026), PokerStarsNews on the sleeve, GWM on the back. Kit-launch reports show no shorts sponsor; the club announced no patch sponsor."
 }
