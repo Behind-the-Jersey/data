@@ -1,0 +1,28 @@
+{
+  "id": "tatneft",
+  "name": "Tatneft",
+  "ownerId": "tatneft",
+  "ownership": "part-owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Tied to the government of the Republic of Tatarstan: its holding Svyazinvestneftekhim is Tatneft's largest shareholder and Tatarstan holds a golden share over Tatneft.",
+  "claimIds": [
+    "tatneft-tatarstan-stake",
+    "russian-federation-record"
+  ],
+  "aliases": [
+    "Татнефть",
+    "TATNEFT",
+    "ПАО «Татнефть»"
+  ],
+  "note": "Rating note: propose a tier above 'none' (state with a record controls the sponsor: golden share + 27.2% of capital via the wholly republic-owned Svyazinvestneftekhim; chain tatneft → government-of-tatarstan → russian-federation, whose record claim documents the war in Ukraine). Mirrors the Gazprom/Aeroflot pattern for Russian state-controlled sponsors. Placement evidence: TATNEFT wordmark on the front of the 2026/27 home jersey in the KHL's official season renders (sports.ru 'КХЛ.Маркетинг', 13 Sep 2026); the club site's live sponsor data lists Tatneft as general sponsor. Leads, not recorded as claims: (1) Stavka TV (updated 2 May 2026) says the club is operated by LLC SKP 'Tatneft – Ak Bars' whose sole owner is Tatneft — club ownership, not a kit sponsor; (2) РБ Бизнес (via bookmaker-rating.com) reported Tatneft cut funding to Ak Bars by ~₽600m in 2025 — no per-year value readable, so no deal record. TAdviser gives Tatarstan's stake as 34% where Tatneft's own page gives 27.23%/29.07%; the claim uses the company's figures.",
+  "why": {
+    "text": "Tatneft's largest shareholder is Svyazinvestneftekhim — 27.2% of capital, 29.1% of votes — a holding whose sole shareholder is the Republic of Tatarstan, and Tatarstan holds a 'golden share' over Tatneft under its charter. The Russian Federation, at the top of that chain, launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since. A famous shirt makes the state behind the sponsor look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "russian-federation-record",
+      "tatneft-tatarstan-stake"
+    ],
+    "messageLine": "Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since.",
+    "status": "draft"
+  }
+}
