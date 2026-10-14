@@ -1,0 +1,20 @@
+{
+  "id": "alpha-dhabi-ihc-parent",
+  "kind": "ownership",
+  "ownerIds": [
+    "international-holding-company"
+  ],
+  "text": "Alpha Dhabi Holding's parent company is International Holding Company (IHC), its financial report for the year ended 31 December 2025 says.",
+  "short": "IHC is Alpha Dhabi Holding's parent company",
+  "source": {
+    "name": "Alpha Dhabi Holding PJSC: Directors' Report and Consolidated Financial Statements 2025 (note 1, General Information)",
+    "date": "2026-04",
+    "url": "https://alphadhabi.com/wp-content/uploads/2026/04/alpha-dhabi-holding%E2%80%93q4-2025%E2%80%93financial-report.pdf",
+    "quote": "Its parent company is International Holding Company PJSC",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
