@@ -1,0 +1,34 @@
+{
+  "id": "kingspan-group-company",
+  "kind": "ownership",
+  "ownerIds": [
+    "kingspan-group"
+  ],
+  "text": "Kingspan on Uruguay's rugby shirt is the brand of Kingspan Group plc, an Irish building-products company headquartered in County Cavan; the brand also sponsored Ulster Rugby's shirts and stadium.",
+  "short": "Kingspan is the brand of Kingspan Group plc, the Irish building-products company",
+  "source": {
+    "name": "BBC News: 'Kingspan was dishonest and cynical, Grenfell Inquiry finds'",
+    "date": "2024-09-04",
+    "url": "https://www.bbc.co.uk/news/articles/clyne526506o",
+    "quote": "The building products firm is one of the Republic of Ireland's biggest businesses and sponsors Ulster Rugby.",
+    "note": "The article identifies Kingspan as the County Cavan-headquartered building-products company. The Kingspan lion brand on Los Teros' shirt is visible in the Nations Cup 2026 match photos cited on the kit record. Kingspan's own announcement ('Kingspan are the new official sponsor of Los Teros', 17 May 2024, Kingspan global Facebook / kingspan-isoeste LinkedIn) could not be opened from this network (bot-blocked).",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Guardian: 'The three Grenfell Tower companies still denying all wrongdoing'",
+      "date": "2024-09-05",
+      "url": "https://www.theguardian.com/uk-news/article/2024/sep/05/the-three-grenfell-tower-companies-still-denying-all-wrongdoing",
+      "quote": "Kingspan – made about 5% of the combustible foam insulation known as K15",
+      "note": "Identifies Kingspan as the company that made the K15 insulation assessed by the Grenfell inquiry.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
