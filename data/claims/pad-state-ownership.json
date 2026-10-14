@@ -1,0 +1,34 @@
+{
+  "id": "pad-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-senegal"
+  ],
+  "text": "The Senegalese state is the Port Autonome de Dakar's shareholder at 100%; the port is a Senegalese public enterprise created by decree, and Senegal's law No. 1987/28 of 18 August 1987 authorized the creation of the Société nationale du Port Autonome de Dakar.",
+  "short": "Senegal state owns 100% of the Port Autonome de Dakar",
+  "source": {
+    "name": "BRVM / WARA: Notation financière du Port Autonome de Dakar (février 2016)",
+    "date": "2016-02-15",
+    "url": "https://www.brvm.org/sites/default/files/20160215_-_nf_wara_-_port_autonome_de_dakar_-_fevrier_2016.pdf",
+    "quote": "l'importance stratégique du PAD pour l'Etat du Sénégal (actionnaire à 100% du PAD) est élevée du fait que le PAD est une entreprise publique créée par décret",
+    "note": "WARA rating note published by the BRVM (the regional stock exchange): the Senegalese state is a 100% shareholder of the PAD. In French; English translation in the claim text.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "République du Sénégal / DRI-CDIIG: Loi n° 1987/28 du 18 août 1987",
+      "date": "2017-04-18",
+      "url": "https://dri.gouv.sn/loi-n%C2%B0-198728-du-18-ao%C3%BBt-1987",
+      "quote": "Loi n° 1987/28 du 18 août 1987 autorisant la création de la Société nationale du Port Autonome de Dakar.",
+      "note": "The Senegalese government's documentation centre (Direction des Relations avec les Institutions) recording the law that created the PAD as a 'Société nationale'. Replaces the port's own 'Statut et Mission' page, which serves an incomplete TLS chain the CI script can't verify.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

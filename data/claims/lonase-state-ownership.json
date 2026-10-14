@@ -1,0 +1,34 @@
+{
+  "id": "lonase-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-senegal"
+  ],
+  "text": "LONASE (Loterie Nationale Sénégalaise) is Senegal's public lottery operator — an 'entreprise publique' (public enterprise) that its site describes as 100% public — created as a 'Société Nationale' by Senegal's law No. 1987/43 of 23 December 1987.",
+  "short": "LONASE is a Senegalese state public enterprise",
+  "source": {
+    "name": "LONASE: Présentation institutionnelle (official site)",
+    "date": "2026",
+    "url": "https://www.lonase.sn/presentation/",
+    "quote": "La Loterie Nationale Sénégalaise (LONASE) est une entreprise publique chargée de l'exploitation et de la commercialisation des jeux de loterie et de hasard sur la totalité du territoire sénégalais.",
+    "note": "The company's own institutional page, which also lists '100% Public' among its institutional markers ('Entreprise nationale chargée de l'exploitation des jeux publics'). Page undated; footer says © 2026 LONASE. In French; English translation in the claim text.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "République du Sénégal / DRI-CDIIG: Loi n° 1987/43 du 23 décembre 1987",
+      "date": "2017-04-18",
+      "url": "https://dri.gouv.sn/loi-n%C2%B0-198743-du-23-d%C3%A9cembre-1987",
+      "quote": "Loi n° 1987/43 du 23 décembre 1987 autorisant la création d'une Société Nationale dénommée « Loterie Nationale Sénégalaise » (LONASE).",
+      "note": "The Senegalese government's documentation centre (Direction des Relations avec les Institutions) recording the law that created LONASE as a 'Société Nationale'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
