@@ -4,9 +4,26 @@
   "ownerId": "cruise-saudi",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Al-Nassr sleeve sponsor (a Cruise Saudi brand)."
+  "status": "being-rated",
+  "verdict": "AROYA Cruises is a cruise line launched by Cruise Saudi, a company owned by Saudi Arabia's Public Investment Fund.",
+  "claimIds": [
+    "saudi-executions-2024",
+    "aroya-cruise-saudi-ownership",
+    "pif-chaired-by-crown-prince"
+  ],
+  "aliases": [
+    "aroya"
+  ],
+  "note": "Al-Nassr sleeve sponsor (a Cruise Saudi brand); renewed for the 2026-27 season. Rating note: on hold for a maintainer; the pull request proposes serious. The link is aroya-cruise-saudi-ownership (PIF newswire: 'Cruise Saudi, a PIF company'; SPA: 'a subsidiary of the Public Investment Fund's (PIF) wholly-owned Cruise Saudi'). The record is saudi-executions-2024 (Amnesty + HRW) via the PIF chain (cruise-saudi -> saudi-pif -> government-of-saudi-arabia).",
+  "ownerVerb": "owned by",
+  "why": {
+    "text": "AROYA Cruises is a cruise line launched by Cruise Saudi, a company owned by Saudi Arabia's Public Investment Fund, the state fund chaired by Crown Prince Mohammed bin Salman. Saudi Arabia carried out a record 345 executions in 2024. The logo on the shirt sleeve is that state's money. That's called sportswashing.",
+    "claimIds": [
+      "saudi-executions-2024",
+      "aroya-cruise-saudi-ownership",
+      "pif-chaired-by-crown-prince"
+    ],
+    "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+    "status": "draft"
+  }
 }
