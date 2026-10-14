@@ -3,14 +3,14 @@
   "name": "Nike",
   "ownerId": "nike-inc",
   "ownership": "owned",
-  "tier": "none",
-  "status": "rated",
-  "verdict": "Listed company (NYSE: NKE) controlled by the Knight family via Swoosh LLC. Nothing found.",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Being rated: a maintainer decides whether a published investigation of a supplier factory counts as a finding.",
   "claimIds": [
     "nike-inc-ownership"
   ],
   "aliases": [
     "Nike, Inc."
   ],
-  "note": "Kit supplier to SV Elversberg (2026/27, SVE-Nike hologram on the hem), Chelsea (2026/27 kit maker), Angers SCO (2026/27) and to Al-Ittihad and Al-Qadsiah. Re-rated from unrated to none in the sv-elversberg rating sweep (PR for issue #327); ownership claim cites NIKE, Inc.'s SEC filings."
+  "note": "Kit supplier to SV Elversberg (2026/27, SVE-Nike hologram on the hem), Chelsea (2026/27 kit maker), Angers SCO (2026/27) and to Al-Ittihad and Al-Qadsiah. Ownership claim cites NIKE, Inc.'s SEC filings. Rating note: on hold for a maintainer; moved from none to being-rated on 2026-10-03 in the review of PR #1236 (company test). ASPI's February 2020 investigation 'Uyghurs for sale' examined factories outside Xinjiang using Uyghur workers transferred under a government labour-transfer scheme; its first case study is a factory in eastern China that manufactures shoes for Nike, 'equipped with watchtowers, barbed-wire fences and police guard boxes', and it lists Nike among 83 companies 'directly or indirectly benefiting from the use of Uyghur workers outside Xinjiang through potentially abusive labour transfer programs as recently as 2019' (summary at business-humanrights.org/en/latest-news/major-brands-implicated-in-report-on-forced-labour-beyond-xinjiang, opened 2026-10-03). In July 2023 the Canadian Ombudsperson for Responsible Enterprise opened a formal examination into Nike Canada over alleged Uyghur forced-labour supply-chain links (same BHRRC timeline, 12 Jul 2023). The reported abuse is at a supplier factory, not by Nike itself, and Nike disputed the links; no court or regulator finding against Nike was found. A maintainer decides whether this passes the company test."
 }
