@@ -1,0 +1,32 @@
+{
+  "id": "saas-properties-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "al-qassimi-family-saas"
+  ],
+  "text": "SAAS Properties is a family-owned UAE property developer, founded in 2019 by Chairman Mohammad Bin Ahmad Bin Saeed Al Qassimi and his son, CEO Ahmed Al Qassimi.",
+  "short": "SAAS Properties is a family-owned UAE developer founded by the Al Qassimi father and son.",
+  "source": {
+    "name": "Business Today Middle East: 'Visionary Developers and SAAS Properties reveals its newest projects'",
+    "date": "2022-03-11",
+    "url": "https://businesstoday.me/construction/visionary-developers-and-saas-properties-reveals-its-newest-projects-located-across-premium-locations-in-the-middle-east/",
+    "quote": "SAAS properties, founded in 2019 by Chairman Mohammad Bin Ahmad Bin Saeed Al Qassimi and his son and CEO Ahmed Al Qassimi",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Al Ain Club: Partners page, SAAS Properties entry",
+      "date": "2026",
+      "url": "https://alainclub.ae/en/partners/?lang=en",
+      "quote": "SAAS Properties is a reputed, family-run boutique firm with an unparalleled commitment to excellence in opulence, and luxury living.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
