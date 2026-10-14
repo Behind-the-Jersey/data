@@ -1,12 +1,14 @@
 {
   "id": "bupa",
   "name": "Bupa",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "bupa-group",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
+  "status": "being-rated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "bupa-ownership"
+  ],
   "aliases": [],
-  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  "note": "Global Partner of New Zealand Rugby (allblacks.com/partners, checked 2026-10-04). ON HOLD: Australia's Aged Care Quality and Safety Commission found in 2019 that 45 of Bupa's 72 Australian nursing homes failed health and safety standards, that residents' health and safety was at 'serious risk' in 22 homes and sanctioned 13 homes (The Conversation, 13 Sep 2019, https://theconversation.com/bupas-nursing-home-scandal-is-more-evidence-of-a-deep-crisis-in-regulation-123442). A regulator finding of this kind may count under METHOD.md's company test, so the tier needs a maintainer's review. Not counted: the 2021 Federal Court $6m penalty (consumer law, ACCC) and a 2025 class action that is allegations only."
 }

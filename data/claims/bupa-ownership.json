@@ -1,0 +1,21 @@
+{
+  "id": "bupa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bupa-group"
+  ],
+  "text": "Bupa, originally the British United Provident Association, is a company limited by guarantee with no shareholders; it reinvests profits into providing more and better healthcare.",
+  "short": "Bupa has no shareholders",
+  "source": {
+    "name": "Bupa Group: 'Our story'",
+    "date": "2026",
+    "url": "https://www.bupa.com/company/about-us/our-story",
+    "quote": "they created Bupa as a company limited by guarantee. With no shareholders, we reinvest profits into providing more and better healthcare",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page carries no publication date; 2026 is the year the page was read. Bupa has been a Global Partner of New Zealand Rugby per allblacks.com/partners."
+  },
+  "reviewed": false
+}

@@ -1,12 +1,29 @@
 {
   "id": "altrad",
   "name": "Altrad",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "altrad-group",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Major Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  "status": "being-rated",
+  "verdict": "The Altrad group is a family-owned French industrial group led by its founder Mohed Altrad, who holds 96.95% of the shares. Its UK engineering subsidiary Altrad Babcock admitted health and safety failures and was fined £967,500 at Kirkcaldy Sheriff Court in November 2025 after a metal coil fell on a rigger, leaving him with three skull fractures and a broken shoulder.",
+  "claimIds": [
+    "altrad-babcock-mossmorran-injury-2025",
+    "altrad-babcock-ownership",
+    "altrad-group-ownership"
+  ],
+  "aliases": [
+    "altrad group",
+    "altrad babcock"
+  ],
+  "why": {
+    "text": "Altrad's money on the All Blacks shirt belongs to the Altrad group, a family-owned company led by its founder Mohed Altrad, who holds 96.95% of the shares. The group's UK engineering subsidiary Altrad Babcock admitted health and safety failures after a 130kg metal coil fell on rigger Darren Spagnoletta at the Mossmorran plant in Fife, leaving him with three skull fractures and a broken shoulder; in November 2025 Kirkcaldy Sheriff Court fined the firm £900,000 plus a £67,500 victim surcharge, with the sheriff rating its culpability 'high'.",
+    "claimIds": [
+      "altrad-babcock-mossmorran-injury-2025",
+      "altrad-babcock-ownership",
+      "altrad-group-ownership"
+    ],
+    "messageLine": "Altrad's UK subsidiary Altrad Babcock admitted health and safety failures that left a rigger with three skull fractures, and was fined £967,500 by a Scottish court in November 2025.",
+    "status": "draft"
+  },
+  "note": "Rating note: propose 'concern' (the company itself has a human-rights finding: a court conviction over serious worker injuries, METHOD.md 'by the company itself'). The link: the group is family-owned, Mohed Altrad 96.95% (Altrad Annual Report 2025; Forbes 2015 profile: 'he owns 80% of the company'), and Altrad Babcock has been part of the group since the September 2022 Doosan Babcock acquisition (Altrad announcement; ScaffMag). The record: Altrad Babcock's guilty plea to health and safety breaches and the £967,500 Kirkcaldy Sheriff Court fine over the Mossmorran incident, two independent publishers (BBC, 5 Nov 2025; The National, 4 Nov 2025). Front of jersey: ALTRAD has been the Official Front of Jersey Sponsor of NZR's Teams in Black since the 2022 six-year deal, and the white ALTRAD mark sits centred on the 2026 'Greatest Rivalry' home jersey. Not counted under METHOD.md: Mohed Altrad's December 2022 French conviction in the FFR/rugby sponsorship case (bribery/misuse of corporate assets — financial) and the June 2026 French tax-fraud investigation (financial); Le Monde's 2020 investigation into migrant workers on Altrad projects in the Gulf is named press, not a court, regulator, UN or NGO finding. ON HOLD: proposed 'concern' in PR for issue #722, pending maintainer review."
 }

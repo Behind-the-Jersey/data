@@ -3,14 +3,19 @@
   "clubId": "rugby-new-zealand",
   "orgName": null,
   "sponsorId": "altrad",
-  "placement": "partner",
-  "from": "2026",
+  "placement": "front",
+  "from": "2022",
   "to": null,
   "value": null,
   "source": {
-    "name": "Union partners page",
-    "date": "2026-09-25",
-    "url": "https://www.allblacks.com/partners/",
-    "note": "Major Global Partner of New Zealand Rugby (allblacks.com/partners)."
+    "name": "New Zealand Rugby: 'Teams in Black kick off the year with new playing and training kit'",
+    "date": "2022-01-27",
+    "url": "https://www.nzrugby.co.nz/news-and-events/latest-news/teams-in-black-kick-off-the-year-with-new-playing-and-training-kit",
+    "quote": "New Zealand Rugby (NZR) has revealed new playing and training kit for its Teams in Black to mark the start of its six-year partnerships with Global Partner ALTRAD",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Same announcement: the kit will 'feature ALTRAD as the Official Front of Jersey Sponsor'. Altrad remains Major Global Partner on allblacks.com/partners (checked 2026-10-04). Placement changed from 'partner' to 'front' and from set to 2022 per the six-year deal's start; the white ALTRAD mark sits centred on the 2026/27 home jersey (boutique-rugby.com product page, KX2020)."
   }
 }
