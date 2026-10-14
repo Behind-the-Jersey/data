@@ -1,12 +1,22 @@
 {
   "id": "aloula-aviation",
   "name": "Aloula Aviation",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "aloula-aviation",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Al-Qadsiah front sponsor; reported link to Aramco (unconfirmed)."
+  "claimIds": [
+    "aloula-aviation-aramco-subsidiary",
+    "gov-saudi-arabia-record",
+    "saudi-executions-2024",
+    "saudi-executions-2025",
+    "khashoggi-assessment"
+  ],
+  "aliases": [
+    "Aloula",
+    "Mukamalah Aviation",
+    "Aloula Aviation Company"
+  ],
+  "note": "Al-Qadsiah's main front-of-shirt sponsor (club store product photos, 2026/27; 433FC lists Aloula Aviation as the club's main shirt sponsor). Rating note: proposed serious — the link is that Aloula is a wholly owned Aramco subsidiary (aloula-aviation-aramco-subsidiary) and the Saudi state that controls Aramco carries the record claims cited; this mirrors the aramco sponsor."
 }

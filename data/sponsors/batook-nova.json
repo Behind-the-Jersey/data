@@ -1,11 +1,17 @@
 {
   "id": "batook-nova",
-  "name": "Batook Nova",
-  "ownerId": null,
-  "ownership": null,
+  "name": "Nova (Batook)",
+  "ownerId": "batook",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "nova-batook-brand"
+  ],
+  "aliases": [
+    "Nova",
+    "NOVA"
+  ],
+  "note": "Shorts sponsor as NOVA (Footy Headlines home-kit photo, 2026-06-23; the club store's home-shorts product photo shows the crest only). Nova is Batook's chewing-gum brand, launched in 1996 (batook.com/about). Unrated: Batook was founded in 1981 by brothers Saeed and Omar Batook, but its current shareholders are not stated in the sources checked, so no owner above the company itself is named."
 }

@@ -1,0 +1,21 @@
+{
+  "id": "sixt-family-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "sixt-se"
+  ],
+  "text": "The Sixt entrepreneurial family holds the majority of the ordinary shares of Sixt SE.",
+  "short": "The Sixt family holds most ordinary shares of Sixt SE.",
+  "source": {
+    "name": "SIXT SE – FAQ (shareholder structure)",
+    "date": "2026",
+    "url": "https://about.sixt.com/en/faq",
+    "quote": "SIXT is a family business in listed form. The Sixt entrepreneurial family holds the majority of the ordinary shares.",
+    "note": "Page without a visible date; opened 2026-10-03. The site answers scripted fetches with 403, so CI can't check the quote; it was opened and read by the researcher.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

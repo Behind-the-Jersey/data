@@ -1,0 +1,20 @@
+{
+  "id": "genesis-hyundai-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "hyundai-motor-group"
+  ],
+  "text": "Genesis is Hyundai Motor's stand-alone global luxury car brand.",
+  "short": "Genesis is Hyundai Motor's luxury car brand.",
+  "source": {
+    "name": "Genesis Newsroom – Hyundai Motor launches new global luxury brand, 'Genesis' (press release)",
+    "date": "2015-11-04",
+    "url": "https://newsroom.genesis.com/hyundai-motor-launches-new-global-luxury-brand-genesis",
+    "quote": "Genesis will be a stand-alone brand that operates alongside the company’s popular Hyundai marque",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
