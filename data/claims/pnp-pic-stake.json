@@ -1,0 +1,34 @@
+{
+  "id": "pnp-pic-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "pick-n-pay-stores",
+    "public-investment-corporation"
+  ],
+  "text": "Public Investment Corporation Limited was the second largest shareholder of Pick n Pay Stores, owning 12% of the common stock.",
+  "short": "The PIC holds 12% of Pick n Pay Stores.",
+  "source": {
+    "name": "Yahoo Finance (Simply Wall St): Pick n Pay Stores Limited (JSE:PIK) is largely controlled by institutional shareholders",
+    "date": "2025-02-12",
+    "url": "https://finance.yahoo.com/news/pick-n-pay-stores-limited-105811430.html",
+    "quote": "Public Investment Corporation Limited is the second largest shareholder owning 12% of common stock",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Pick n Pay Stores Limited Group Annual Financial Statements 2026 (PDF)",
+      "date": "2026",
+      "url": "https://www.picknpayinvestor.co.za/pdf/investor-centre/results-and-presentations/2026/annual-results-2026/fy26-audited-annual-financial-statements-2026.pdf",
+      "quote": "Beneficial Shareholders Holding 1% or more Number of Shares % Ackerman Investment Holdings (RF) Proprietary Limited 125 296 139 16.8 Government Employees Pension Fund 116 264 867 15.6",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The company's audited accounts list the same state-fund block under the Government Employees Pension Fund's name at 15.6% (1 March 2026); the GEPF's assets are primarily managed by the PIC (GEPF Annual Report 2024/25: 'Primarily the Public Investment Corporation (PIC) manages the assets of the GEPF')."
+    }
+  ]
+}

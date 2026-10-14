@@ -1,0 +1,34 @@
+{
+  "id": "south-africa-marikana-killings",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-south-africa"
+  ],
+  "text": "On 16 August 2012, South African police opened fire and killed 34 striking miners at Marikana who were protesting against low wages.",
+  "short": "South African police killed 34 striking miners at Marikana in 2012.",
+  "source": {
+    "name": "Human Rights Watch: South Africa: NPA still wrong in Lonmin matter",
+    "date": "2012-09-04",
+    "url": "https://www.hrw.org/news/2012/09/04/south-africa-npa-still-wrong-lonmin-matter",
+    "quote": "The tragic scenes of August 16, 2012, when police opened fire and killed 34 miners who were part of a group protesting against low wages, sent shockwaves throughout the world.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Commentary by Cameron Jacobs, Human Rights Watch's South Africa director."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Amnesty International: South Africa: Five years on, Marikana victims still wait for justice",
+      "date": "2017-08-14",
+      "url": "https://www.amnesty.org/en/latest/news/2017/08/south-africa-five-years-on-marikana-victims-still-wait-for-justice-2/",
+      "quote": "Victims of the bloody tragedy at Marikana, in which 34 protesters were killed and at least 70 were injured by members of the South African Police Service (SAPS) during a mining strike",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Amnesty also reports that the Farlam Commission, set up by the South African government, recommended investigating the criminal liability of SAPS members involved."
+    }
+  ]
+}

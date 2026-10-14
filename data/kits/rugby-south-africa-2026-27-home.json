@@ -1,0 +1,61 @@
+{
+  "id": "rugby-south-africa-2026-27-home",
+  "clubId": "rugby-south-africa",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "fnb",
+      "placement": "front",
+      "source": {
+        "name": "World Rugby Shop: Springboks 26/27 Replica Home Jersey by Nike (official product page)",
+        "date": "2026",
+        "url": "https://www.worldrugbyshop.com/products/springboks-26-27-replica-home-jersey-by-nike",
+        "quote": "Sponsors FNB sublimated on the front and Pick n Pay on the back",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The product photos on the same page show the large gold FNB logo centre chest. SA Rugby announced FNB as front-of-shirt sponsor in March 2025 (SportsPro, 27 Mar 2025: 'FNB logo will feature on the front of all matchday jerseys, including men’s and women’s Springboks')."
+      }
+    },
+    {
+      "sponsorId": "pick-n-pay",
+      "placement": "back",
+      "source": {
+        "name": "SA Rugby: Pick n Pay joins SA Rugby family of partners",
+        "date": "2025-03-27",
+        "url": "https://springboks.rugby/news-features/articles/2025/03/27/pick-n-pay-joins-sa-rugby-family-of-partners",
+        "quote": "Pick n Pay has signed a four-year contract as a Tier 1 sponsor of SA Rugby, with the company’s logo set to feature in gold on the back of the Springbok jersey",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Confirmed on the 2026/27 shirt by the official product listing (World Rugby Shop: 'Sponsors FNB sublimated on the front and Pick n Pay on the back') and by its product photo showing 'Pick n Pay' in gold on the upper back."
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "World Rugby Shop: Springboks 26/27 Replica Home Jersey by Nike (official product page)",
+        "date": "2026",
+        "url": "https://www.worldrugbyshop.com/products/springboks-26-27-replica-home-jersey-by-nike",
+        "quote": "Stand behind the Springboks in the official Springboks 2026/27 Replica Home Jersey by Nike.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker, listed as partner per the convention for kit suppliers. Nike's own product page (nike.com/za, style IB6784-331) describes the shirt as 'Inspired by the Springboks' 2026/27 home shirt'."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Nike makes the Springboks' green 2026/27 home shirt, with FNB's gold logo centre chest on the front and Pick n Pay's gold logo on the upper back. The official product listings and photos show no other commercial marks: the left sleeve carries the South African flag badge (not a sponsor), the rest of the back is plain, and the replica home shorts carry only the Springbok crest and the Nike swoosh.",
+  "change": null,
+  "shortLine": "FNB on the front"
+}
