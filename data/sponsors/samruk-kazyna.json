@@ -4,11 +4,27 @@
   "ownerId": "samruk-kazyna",
   "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "samruk kazyna"
+  "status": "being-rated",
+  "verdict": "Kazakhstan's sovereign wealth fund; its sole shareholder is the Government of the Republic of Kazakhstan.",
+  "claimIds": [
+    "kazakhstan-january-2022-killings",
+    "kazakhstan-political-prisoners",
+    "samruk-kazyna-government-owner"
   ],
-  "note": "Kazakhstan's sovereign wealth fund; main partner of XDS Astana Team."
+  "aliases": [
+    "samruk kazyna",
+    "Самрук-Казына",
+    "Самұрық-Қазына"
+  ],
+  "note": "Main partner of Barys Astana ('Бас Серіктес') for 2026/27 per the club's partnership page; also main partner of XDS Astana Team. Rating note (2026-10-03): the link is samruk-kazyna-government-owner (the Government of Kazakhstan is the fund's sole shareholder); the record is kazakhstan-january-2022-killings and kazakhstan-political-prisoners. A state with a sourced record controls the sponsor -> proposed tier: serious. ON HOLD pending maintainer review.",
+  "why": {
+    "text": "Samruk-Kazyna, Barys's listed main partner, is Kazakhstan's sovereign wealth fund, whose sole shareholder is the Kazakh government. Under that state, security forces' response to the January 2022 protests left 238 people dead and police were later convicted of torturing detainees, impunity persisting per Amnesty International, while critics of the government remain imprisoned on politically motivated charges.",
+    "claimIds": [
+      "kazakhstan-january-2022-killings",
+      "kazakhstan-political-prisoners",
+      "samruk-kazyna-government-owner"
+    ],
+    "messageLine": "Barys's main partner is owned by the Kazakh state, whose forces killed 238 protesters in 2022.",
+    "status": "draft"
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "id": "transtelecom-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "transtelecom",
+    "unit-telecom",
+    "kazakhstan-temir-zholy"
+  ],
+  "text": "As of 1 July 2026, Unit Telecom LLP held 75% of Transtelecom JSC's shares and state railway NC Kazakhstan Temir Zholy JSC held 25%. In December 2025, businessman Timur Turlov's structures announced an agreement to acquire Transtelecom via Unit Telecom, subject to state regulatory approvals.",
+  "short": "Unit Telecom holds 75% of Transtelecom; state railway KTZ holds 25% (KASE, July 2026). A sale to Timur Turlov's entities was announced in Dec 2025, pending approvals.",
+  "source": {
+    "name": "Kazakhstan Stock Exchange — Information on shares and shareholders of Transtelecom as of July 1, 2026",
+    "date": "2026-07-16",
+    "url": "https://kase.kz/en/information/news/show/1571153",
+    "quote": "\"Unit Telecom\" LLP 4,228,572 75.00 \"National Company \"Kazakhstan Temir Zholy\" JSC 1,409,525 25.00",
+    "note": "Register figures for holders of 10%+ of outstanding shares.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Kapital.kz — Тимур Турлов покупает Транстелеком",
+      "date": "2025-12-12",
+      "url": "https://kapital.kz/business/143248/timur-turlov-pokupaet-transtelekom.html",
+      "quote": "На 1 октября 2025 года 75%-ная доля в «Транстелекоме» принадлежала ТОО «Unit Telecom», остальные 25% - АО «Қазақстан темір жолы».",
+      "note": "Translation: 'As of 1 October 2025, the 75% stake in Transtelecom belonged to Unit Telecom LLP, the remaining 25% to Kazakhstan Temir Zholy JSC.' The article reports Turlov's entities agreed on 11 December 2025 to acquire Transtelecom, pending state approvals.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

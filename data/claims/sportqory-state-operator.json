@@ -1,0 +1,35 @@
+{
+  "id": "sportqory-state-operator",
+  "kind": "ownership",
+  "ownerIds": [
+    "sportqory-fund",
+    "samruk-kazyna"
+  ],
+  "text": "Sport Qory (Fund for Support of Sport) is Kazakhstan's designated single operator for distributing off-budget money for sport, and took Barys hockey club under its management in 2021; its director-general says its main funds come from the quasi-state sector and names sovereign wealth fund Samruk-Kazyna as the fund's general partner.",
+  "short": "Sport Qory is the state-designated channel for off-budget sports money; its director names Samruk-Kazyna as its general partner providing the main funds.",
+  "source": {
+    "name": "Sport Qory — О Фонде (About the Fund)",
+    "date": "2026",
+    "url": "https://sportqory.kz/ru/about",
+    "quote": "Фонд является Единым оператором по распределению внебюджетных денежных средств, направленных на развитие физической культуры и спорта.",
+    "note": "Translation: 'The Fund is the single operator for distributing off-budget funds directed at developing physical culture and sport.' The same page says Barys hockey club was placed under the Fund's management in 2021.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Vesti.kz — Sport Qory: кто спонсирует казахстанский спорт и как это работает? (interview with director-general Askhat Seisembek)",
+      "date": "2023-08-24",
+      "url": "https://vesti.kz/sportsmanagement/sport-qory-sponsiruet-kazahstanskiy-sport-kak-rabotaet-332129/",
+      "quote": "Основные средства поступают из квазигосударственного сектора, наш генеральный партнер – Фонд национального благосостояния \"Самрук-Казына\".",
+      "note": "Translation (the fund's director-general speaking): 'The main funds come from the quasi-state sector; our general partner is the Samruk-Kazyna national welfare fund.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

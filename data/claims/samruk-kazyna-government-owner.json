@@ -1,0 +1,34 @@
+{
+  "id": "samruk-kazyna-government-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "samruk-kazyna",
+    "government-of-kazakhstan"
+  ],
+  "text": "Samruk-Kazyna, founded in 2008 by decree of the President of Kazakhstan, is the country's sovereign wealth fund; its sole shareholder is the Government of the Republic of Kazakhstan.",
+  "short": "Samruk-Kazyna is wholly owned by the Government of Kazakhstan.",
+  "source": {
+    "name": "Samruk-Kazyna JSC — About the Fund",
+    "date": "2026",
+    "url": "https://sk.kz/about-fund/?lang=en",
+    "quote": "The sole shareholder of the Fund is the Government of the Republic of Kazakhstan.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Kapital.kz — Раскрыты подробности сделки по вхождению Cамрук-Казыны в акционеры ERG",
+      "date": "2026-09-17",
+      "url": "https://kapital.kz/finance/153062/raskryty-podrobnosti-sdelki-po-vhozhdeniyu-camruk-kazyny-v-akcionery-erg.html",
+      "quote": "Таким образом, сейчас 40% ERG принадлежат ФНБ «Самрук-Казына», единственным акционером которого является Правительство Республики Казахстан.",
+      "note": "Translation: '40% of ERG now belongs to the Samruk-Kazyna NWF, whose sole shareholder is the Government of the Republic of Kazakhstan.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

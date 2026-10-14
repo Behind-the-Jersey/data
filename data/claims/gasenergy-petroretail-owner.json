@@ -1,0 +1,21 @@
+{
+  "id": "gasenergy-petroretail-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "petroretail-llp"
+  ],
+  "text": "GASENERGY is a network of premium filling stations in Kazakhstan operated by PetroRetail LLP of Astana.",
+  "short": "GASENERGY filling stations are PetroRetail LLP's brand.",
+  "source": {
+    "name": "Gasenergy.kz — About the company (homepage)",
+    "date": "2026",
+    "url": "https://gasenergy.kz/en/",
+    "note": "Statement in the site's About section: 'PetroRetail LLP represents a network of GASENERGY premium gas filling stations.'",
+    "quote": "PetroRetail LLP represents a network of GASENERGY premium gas filling stations.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
