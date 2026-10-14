@@ -7,8 +7,39 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": "No front-of-shirt sponsor found on the club sponsors page (fcakron.ru/sponsors lists only partners).",
+  "sponsors": [
+    {
+      "sponsorId": "avtovaz",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Akron official shop: Домашняя игровая футболка 26/27 (match-shirt mock-up with sponsors)",
+        "date": "2026-10-03",
+        "url": "https://shop.fcakron.ru/catalog/forma/domashnyaya-igrovaya-futbolka-26-27/",
+        "note": "The shop's 'add sponsors' (+1000₽) shirt preview shows a white LADA logo on one sleeve and the RPL league patch on the other. The club's sponsors page (fcakron.ru/sponsors) lists LADA as a club sponsor.",
+        "quote": "Добавить спонсоров: +1000₽",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "electroshield-samara",
+      "placement": "back",
+      "source": {
+        "name": "FC Akron official shop: Домашняя игровая футболка 26/27 (match-shirt mock-up with sponsors)",
+        "date": "2026-10-03",
+        "url": "https://shop.fcakron.ru/catalog/forma/domashnyaya-igrovaya-futbolka-26-27/",
+        "note": "The shop's 'add sponsors' (+1000₽) back-view mock-up carries an ЭЛЕКТРОЩИТ САМАРА logo mid-back. The club's sponsors page (fcakron.ru/sponsors) lists Электрощит Самара as a club sponsor.",
+        "quote": "Добавить спонсоров: +1000₽",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Black home shirt presented 21 July 2026. No front-of-shirt sponsor: launch photos and the club shop's match-shirt mock-ups show an empty chest (sports.ru, 21 Jul 2026; footbolno.ru table updated 29 Sep 2026 also lists 'none' for Akron). LADA is on the sleeve and Электрощит Самара on the back per the club shop's match-shirt mock-ups; the other sleeve carries the RPL league patch; shorts carry only the club crest and the club's АКРОН wordmark.",
   "change": null
 }

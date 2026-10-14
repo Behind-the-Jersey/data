@@ -1,0 +1,21 @@
+{
+  "id": "akron-holding-morozov-beneficiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "akron-holding"
+  ],
+  "text": "Pavel Morozov is the director and beneficiary of the Akron Holding industrial and metallurgical group; he founded FC Akron.",
+  "short": "Akron Holding's director and beneficiary is Pavel Morozov.",
+  "source": {
+    "name": "GTRK Samara (tvsamara.ru): «Это даже не первое место в РПЛ»: Павел Морозов рассказал о целях «Акрона» (archived copy)",
+    "date": "2024-12-20",
+    "url": "https://web.archive.org/web/20260510025506/https://www.tvsamara.ru/news/generalnyi-direktor-akrona-my-budem-borotsya-za-vysshie-mesta-rpl-i-v-nashikh-ambiciyakh/",
+    "note": "English: 'Pavel Morozov, director and beneficiary of the Akron Holding industrial and metallurgical group, created FC Akron in 2018.' The live tvsamara.ru page does not respond to scripts, so this archived copy is cited.",
+    "quote": "Павел Морозов, директор и бенефициар промышленно-металлургического объединения ГК «Акрон Холдинг», создал ФК «Акрон» в 2018 году.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
