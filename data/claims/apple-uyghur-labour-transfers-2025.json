@@ -1,0 +1,32 @@
+{
+  "id": "apple-uyghur-labour-transfers-2025",
+  "kind": "record",
+  "ownerIds": [
+    "apple-inc"
+  ],
+  "text": "A May 2025 joint investigation by The Bureau of Investigative Journalism, The New York Times and Der Spiegel reported that more than a hundred consumer brands, 'from Apple to Volkswagen', can be tied to factories using Uyghur and other ethnic minority workers recruited through a system international authorities call forced labour. Apple said its suppliers are regularly independently audited, that recent audits found no instances of forced labour, and that it is investigating the alleged link.",
+  "short": "TBIJ/NYT/Der Spiegel's May 2025 investigation reported that more than a hundred consumer brands, 'from Apple to Volkswagen', can be tied to factories using transferred Uyghur workers.",
+  "source": {
+    "name": "The Bureau of Investigative Journalism (Daniel Murphy): China's economy runs on Uyghur forced labour",
+    "date": "2025-05-29",
+    "url": "https://www.thebureauinvestigates.com/stories/2025-05-29/chinas-economy-runs-on-uyghur-forced-labour",
+    "quote": "More than a hundred consumer brands – from Apple to Volkswagen– can be tied to the tainted trade",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Business and Human Rights Centre: China: Over 100 global brands linked to factories using Uyghur workers recruited through state-imposed forced transfer programme, finds investigation",
+      "date": "2025-06-19",
+      "url": "https://www.business-humanrights.org/en/latest-news/china-over-100-global-brands-linked-to-factories-using-uyghur-workers-recruited-through-state-imposed-forced-transfer-programme-finds-investigation-incl-cos-comments-cos-non-response/",
+      "quote": "Over 100 consumer brands are linked to the factories, including Apple, Volkswagen, LG Electronics",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
