@@ -1,0 +1,34 @@
+{
+  "id": "nedbank-group-pic-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "nedbank-group"
+  ],
+  "text": "Nedbank Group's largest shareholder at December 2025 was the Public Investment Corporation (SA) with a 14.9% holding. The Public Investment Corporation (PIC) is wholly owned by the South African government and manages the assets of the Government Employees Pension Fund (GEPF).",
+  "short": "South Africa's state-owned Public Investment Corporation held 14.9% of Nedbank Group at December 2025.",
+  "source": {
+    "name": "Nedbank Group, 2025 Integrated Report",
+    "date": "2026",
+    "url": "https://group.nedbank.co.za/content/dam/group/pdf/21_integrated-reports/2025/integrated-report/2025-integrated-report-nedbank.pdf",
+    "quote": "Public Investment Corporation (SA) 14.9 14.8",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-scout review (OpenCode, model kimi-k3-abliterated)"
+    },
+    "note": "Page 75 of the 2025 Integrated Report (year ended 31 December 2025), the 'Our top 10 shareholders / Shareholders/Managers Trend' table: the columns are % holding 2025 and % holding 2024, so the PIC holding was 14.9% at December 2025 and 14.8% at December 2024 (source: Vaco Ownership). Old Mutual does not appear in this top-10 table, which runs down to 2.2%."
+  },
+  "additionalSources": [
+    {
+      "name": "Government Employees Pension Fund: Who Manages Our Investments?",
+      "date": "2026",
+      "url": "https://www.gepf.co.za/who-manages-our-investments/",
+      "quote": "The PIC is wholly owned by the South African government and is the only asset manager that serves South Africa's public sector",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-scout review (OpenCode, model kimi-k3-abliterated)"
+      },
+      "note": "Standing, undated GEPF page (site footer © 2026; opened 2026-10-04). The page also says 'The Public Investment Corporation, or PIC, is the asset management company for the GEPF and invests funds onbehalf of the fund' (spacing as on the page) and 'The GEPF is the PIC's largest client'."
+    }
+  ],
+  "reviewed": false
+}

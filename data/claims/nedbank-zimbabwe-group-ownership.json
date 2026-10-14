@@ -1,0 +1,21 @@
+{
+  "id": "nedbank-zimbabwe-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nedbank-group"
+  ],
+  "text": "Nedbank Group's 2025 country-by-country reporting names Nedbank Zimbabwe Limited as its resident entity in Zimbabwe.",
+  "short": "Nedbank Zimbabwe Limited is Nedbank Group's resident entity in Zimbabwe.",
+  "source": {
+    "name": "Nedbank Group, 2025 Governance Report (Individual country analysis, tax report)",
+    "date": "2026",
+    "url": "https://group.nedbank.co.za/content/dam/group/pdf/21_integrated-reports/2025/governance-reporting/2025-governance-report.pdf",
+    "quote": "Name of resident entities Nedbank Zimbabwe Limited",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "From the 'Individual country analysis' panel for Zimbabwe in Nedbank Group's 2025 report suite (year ended 31 December 2025); the panel continues 'Nedbank Zimbabwe Limited offers a full range of commercial and consumer banking products and services'. The same group's 2025 Integrated Report (page 7, https://group.nedbank.co.za/content/dam/group/pdf/21_integrated-reports/2025/integrated-report/2025-integrated-report-nedbank.pdf, opened 2026-10-04) says: 'The group also currently operates in 5 countries in the Southern African Development Community (SADC) through subsidiaries and banks in Lesotho, Mozambique, Namibia, Eswatini and Zimbabwe'. The suite was distributed to shareholders in April 2026."
+  },
+  "reviewed": false
+}
