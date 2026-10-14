@@ -1,12 +1,15 @@
 {
   "id": "shimano",
   "name": "Shimano",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "shimano-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Shimano Inc. is a Japanese components maker whose shares are listed on the Prime Market of the Tokyo Stock Exchange; no state sits in its ownership chain. Nothing found.",
+  "claimIds": [
+    "shimano-inc-ownership"
+  ],
   "aliases": [],
-  "note": "UCI World Cycling Partner."
+  "note": "Rated none on 2026-10-01: listed Japanese company per its own company profile; no state owner documented and no human-rights finding against the company found. Shimano's name is printed on the front of the 2026 XDS Astana jersey (also the team's groupset supplier and a UCI World Cycling Partner).",
+  "ownerVerb": "owned by"
 }

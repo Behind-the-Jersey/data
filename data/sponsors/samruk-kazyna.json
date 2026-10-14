@@ -6,9 +6,14 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "samruk kazyna"
+  "claimIds": [
+    "samruk-kazyna-gov-ownership",
+    "kazakhstan-jan2022-record"
   ],
-  "note": "Kazakhstan's sovereign wealth fund; main partner of XDS Astana Team."
+  "aliases": [
+    "samruk kazyna",
+    "samruk-qazyna"
+  ],
+  "note": "Kazakhstan's sovereign wealth fund and main partner of XDS Astana Team (its name runs down both shoulder panels of the 2026 jersey); the same sponsor mark is used by HC Barys. Ownership and record claims added 2026-10-01; tier proposal (serious) in pull request — a maintainer sets tiers.",
+  "ownerVerb": "paid for by"
 }

@@ -14,29 +14,77 @@
       "source": {
         "name": "Kazinform — XDS Astana Team ready for the 2026 season",
         "date": "2025-12-28",
-        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2",
+        "quote": "with the incredible support of our main partners Samruk-Kazyna, the SportQory Sports Support Fund, and XDS",
+        "note": "Title sponsor: the XDS wordmark and 'Astana Team' dominate the chest of the 2026 jersey (front and upper back), seen on the official EKOI replica jersey (https://www.ekoi.com/en-us/short-sleeve-cycling-jerseys/18412-replica-jersey-ekoi-racing-proteam-xds-astana.html) and in DirectVelo's photo of the race kit.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "samruk-kazyna",
-      "placement": "front",
+      "placement": "sleeve",
       "source": {
         "name": "Kazinform — XDS Astana Team ready for the 2026 season",
         "date": "2025-12-28",
-        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2",
+        "quote": "with the incredible support of our main partners Samruk-Kazyna, the SportQory Sports Support Fund, and XDS",
+        "note": "SAMRUK KAZYNA runs down both shoulder panels of the 2026 jersey (front view) and a large Samruk-Kazyna logo sits on the upper back — verified on the official EKOI replica jersey photos and DirectVelo's race-kit photo.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "sportqory",
-      "placement": "front",
+      "placement": "back",
       "source": {
         "name": "Kazinform — XDS Astana Team ready for the 2026 season",
         "date": "2025-12-28",
-        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2",
+        "quote": "with the incredible support of our main partners Samruk-Kazyna, the SportQory Sports Support Fund, and XDS",
+        "note": "Sport Qory logos sit on both sides of the back pockets of the 2026 jersey, below the Samruk-Kazyna back logo — verified on the official EKOI replica jersey photos.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "shimano",
+      "placement": "front",
+      "source": {
+        "name": "EKOI — XDS-ASTANA Replica Jersey EKOI Racing Proteam (official team replica)",
+        "date": "2026-10-01",
+        "url": "https://www.ekoi.com/en-us/short-sleeve-cycling-jerseys/18412-replica-jersey-ekoi-racing-proteam-xds-astana.html",
+        "quote": "The UCI WorldTour Team XDS ASTANA Replica Jersey",
+        "note": "The official replica of the 2026 race jersey carries SHIMANO on the upper chest (with the UCI WorldTeam badge); placements verified from the product photos, which match DirectVelo's photo of the race kit.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "ekoi",
+      "placement": "partner",
+      "source": {
+        "name": "DirectVelo — XDS Astana : Le maillot 2026 (Nicolas Gachet)",
+        "date": "2026-01-01",
+        "url": "https://www.directvelo.com/actualite/126215/xds-astana-le-maillot-2026",
+        "quote": "Le nouveau maillot est quasi-identique mais il est désormais réalisé par la société Ekoï et non plus Biemme.",
+        "note": "EKOI became the team's official supplier of clothing and eyewear from 2026 (three-year deal); EKOI's own replica page (https://www.ekoi.com/en-us/short-sleeve-cycling-jerseys/18412-replica-jersey-ekoi-racing-proteam-xds-astana.html) shows the EKOI mark on the chest and back of the jersey.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026 UCI WorldTeam. XDS Astana Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "sponsorsComplete": true,
+  "summary": "2026 UCI WorldTeam. XDS title sponsor across the front of the EKOI-made jersey, Samruk-Kazyna on the shoulders and back, Shimano on the chest, SportQory on the back pockets.",
   "change": null
 }
