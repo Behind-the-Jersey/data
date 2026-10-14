@@ -1,14 +1,28 @@
 {
   "id": "belavia",
   "name": "Belavia",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "government-of-belarus",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "Белавиа"
+  "claimIds": [
+    "belavia-state-owned",
+    "belarus-crackdown-2020-ongoing"
   ],
-  "note": "Partner of HC Dinamo Minsk; Belarusian state airline (ownership not traced)."
+  "aliases": [
+    "Белавиа",
+    "Belavia Belarusian Airlines",
+    "ОАО «Авиакомпания «Белавиа»"
+  ],
+  "note": "Official partner of HC Dinamo Minsk; Belavia wordmark is on the pants shell of the 2026-27 kits. Propose serious: Belavia is Belarus's state airline (state holds 100% of the shares), and UN-mandated experts found Belarus's repression of critics — arbitrary detention, torture — amounts in part to crimes against humanity.",
+  "why": {
+    "text": "Belavia is Belarus's state-owned airline. UN experts found that Belarus's authorities have carried out widespread, systematic repression of critics — arbitrary arrests, torture and persecution — some of it amounting to crimes against humanity, and more than a thousand political prisoners were still behind bars in late 2025. A famous jersey makes the country look good to fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "belarus-crackdown-2020-ongoing",
+      "belavia-state-owned"
+    ],
+    "messageLine": "UN experts found Belarus's repression of critics amounts in part to crimes against humanity, and Belavia is the state airline.",
+    "status": "draft"
+  }
 }

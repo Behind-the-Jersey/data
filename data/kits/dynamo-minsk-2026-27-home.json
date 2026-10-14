@@ -9,34 +9,307 @@
   "photos": {},
   "sponsors": [
     {
-      "sponsorId": "gazprom-transgaz-belarus",
-      "placement": "partner",
+      "sponsorId": "bsb-bank",
+      "placement": "front",
       "source": {
         "name": "HC Dinamo Minsk official site, partners page",
-        "date": "2026-09-25",
-        "url": "https://hcdinamo.by/club/partners/"
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "note": "The partners page names BSB Bank an official partner. The 'BSB Bank' logo sits on the front hem of the 2026-27 home jersey in the official KHL kit render (sports.ru/hockey/blogs/3467674.html; the KHL blog warns render sponsor logos may differ from final) and in club press-service match photos (belarushockey.com, 2026-10-01). Quote translation: 'ZAO BSB Bank — Official partner.'",
+        "quote": "ЗАО «БСБ Банк» Официальный партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "gazprom-transgaz-belarus",
+      "placement": "back",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "note": "GTB is the club's general partner. The blue 'Газпром трансгаз Беларусь' logo appears across the back of the home jersey below the player number (club press-service photo, belarushockey.com 2026-09-07) and large on the front of the away jersey (official KHL render). Quote translation: 'OAO Gazprom transgaz Belarus — General partner.'",
+        "quote": "ОАО «Газпром трансгаз Беларусь» Генеральный партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "maxline",
-      "placement": "partner",
+      "placement": "patch",
       "source": {
-        "name": "HC Dinamo Minsk official site, partners page",
-        "date": "2026-09-25",
-        "url": "https://hcdinamo.by/club/partners/"
+        "name": "HC Dinamo Minsk official site: ХК «Динамо-Минск» и Maxline объявляют о начале сотрудничества",
+        "date": "2026-09-01",
+        "url": "https://www.hcdinamo.by/news/sobytiya/khk-dinamo-minsk-i-maxline-obyavlyayut-o-nachale-sotrudnichestva_/",
+        "note": "Russian: 'Under the agreement the Maxline logo will appear on the playing kit of the Bisons.' A yellow MAXLINE patch is on both shoulders of the match jersey in club press-service photos (belarushockey.com, 2026-10-01).",
+        "quote": "В рамках соглашения логотип Maxline появится на игровой форме «зубров»",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "belavia",
+      "placement": "shorts",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "note": "Belavia is an official partner. The 'Belavia' wordmark sits on the pants shell of the 2026-27 kits (official KHL render and club press-service match photos). Quote translation: 'OAO Aviakompaniya Belavia — Official partner.'",
+        "quote": "ОАО «Авиакомпания «Белавиа» Официальный партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "mir-nspk",
+      "placement": "league-partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page (FONBET KHL Championship 2026/27 partners block)",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "note": "The МИР patch on the right chest of the match jersey (club press photos, 2026-10-01) is the KHL's league-wide official-partner placement, not a club deal; league deal recorded in data/deals/khl-mir-nspk.json. Quote translation: 'Partners of the FONBET KHL Championship of the 2026/27 season.'",
+        "quote": "Партнеры Фонбет Чемпионата КХЛ сезона 2026/2027",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sogaz",
+      "placement": "league-partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page (FONBET KHL Championship 2026/27 partners block)",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "note": "A СОГАЗ sticker on the helmet front is visible in club press photos (belarushockey.com, 2026-10-01); it is the KHL's league-wide general-partner helmet placement, not a club deal; league deal recorded in data/deals/khl-sogaz.json. Quote translation: 'Partners of the FONBET KHL Championship of the 2026/27 season.'",
+        "quote": "Партнеры Фонбет Чемпионата КХЛ сезона 2026/2027",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "baz",
       "placement": "partner",
       "source": {
         "name": "HC Dinamo Minsk official site, partners page",
-        "date": "2026-09-25",
-        "url": "https://hcdinamo.by/club/partners/"
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "BAZ Официальный партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'BAZ — Official partner.'"
+      }
+    },
+    {
+      "sponsorId": "minsk-arena",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "МКСК \"Минск-Арена\" Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'MKSK Minsk-Arena — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "alivaria",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ОАО «Пивоваренная компания Аливария» Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'OAO Brewing Company Alivaria — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "konus-lida",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ГП \"Конус\" Завод горячего цинкования Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'GP Konus, hot-dip galvanizing plant — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "belbet",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "Онлайн-лотерея \"BelBet\" Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'Online lottery BelBet — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "olympia-gym-spa",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "Olympia Gym & SPA Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'Olympia Gym & SPA — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "minsk-margarine-plant",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ОАО \"Минский маргариновый завод\" Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'OAO Minsk Margarine Plant — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "lidkon",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ОАО \"Лидапищеконцентраты\" Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'OAO Lidapishchekontsentraty — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "ticketpro",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ООО «Тикетпро» Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'OOO Ticketpro — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "vtb-belarus",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ЗАО Банк ВТБ (Беларусь) Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'ZAO Bank VTB (Belarus) — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "aigenis",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ЗАО «Айгенис» Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'ZAO Aigenis — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "sber-bank-belarus",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "ОАО «Сбер Банк» Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'OAO Sber Bank — Partner.'"
+      }
+    },
+    {
+      "sponsorId": "nasvyazi",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "note": "Quote keeps the page's typographic apostrophe. Quote translation: 'NA'SVYAZI — Partner.'",
+        "quote": "НА’СВЯЗИ Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tez-tour",
+      "placement": "partner",
+      "source": {
+        "name": "HC Dinamo Minsk official site, partners page",
+        "date": "2026",
+        "url": "https://hcdinamo.by/club/partners/",
+        "quote": "TEZ TOUR Партнер",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Quote translation: 'TEZ TOUR — Partner.'"
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. Gazprom transgaz Belarus general partner, Maxline official partner, Belavia partner per the club site; front-of-shirt sponsor not yet sourced.",
+  "summary": "2026-27 home kit (black jersey, light-blue 'Д' letter crest, unchanged from last season per the KHL's official kit blog). On the kit: BSB Bank logo on the front hem, yellow Maxline patches on the shoulders, Gazprom transgaz Belarus (general partner) across the back below the numbers (and large on the away front), Belavia wordmark on the pants shell; the МИР chest patch and СОГАЗ helmet sticker are KHL league placements on every club. Beyond the kit, every commercial partner named on the club's partners page is listed above: BAZ, Minsk-Arena, Alivaria, Konus, BelBet, Olympia Gym & SPA, Minsk Margarine Plant, Lidkon, Ticketpro, Bank VTB (Belarus), Aigenis, Sber Bank (Belarus), Na'Svyazi, TEZ TOUR. Not complete: one sticker on the helmet was not legible in photos; two information (media) partners on the partners page (Humor FM, Avtoradio) are not sponsors and were omitted.",
   "change": null
 }
