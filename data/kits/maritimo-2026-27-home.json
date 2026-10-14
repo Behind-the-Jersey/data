@@ -12,22 +12,94 @@
       "sponsorId": "bwin",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "CS Marítimo: bwin é o novo Main Sponsor do CS Marítimo",
+        "date": "2026-08-07",
+        "url": "https://csmaritimo.pt/noticias/bwin-e-o-novo-main-sponsor-do-cs-maritimo",
+        "quote": "a bwin estará presente na frente da camisola oficial da equipa principal de futebol, assumindo uma posição de destaque",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club announcement of the bwin main sponsorship for the coming seasons, 7 Aug 2026. Also reported by bwin Portugal ('bwin patrocina cinco clubes portugueses em 2026/27', bwin.pt/blog)."
       }
     },
     {
       "sponsorId": "madeira-tao-tua",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua front)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Força Portugal (official CS Marítimo retailer): Camisola principal CS Marítimo 2026/27",
+        "date": "2026",
+        "url": "https://www.fportugal.com/pt/unissexo/hummel/camisola-principal-cs-maritimo-202627-junior_p13028.html",
+        "quote": "A camisola que veste a paixão da Ilha. O equipamento principal do CS Marítimo é mais do que uma peça de vestuário",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The retailer's photos of the 2026/27 home shirt show the 'Madeira. Tão tua' destination logo on the upper front, between the maker logo and the crest; also visible in FootyLogos' match-shirt gallery (footylogos.com/kits/maritimo-2026-27). The club's own site lists 'Madeira Tão Tua' among its sponsors, linking to visitmadeira.pt (csmaritimo.pt footer)."
+      }
+    },
+    {
+      "sponsorId": "alberto-oculista",
+      "placement": "sleeve",
+      "source": {
+        "name": "Força Portugal (official CS Marítimo retailer): Camisola principal CS Marítimo 2026/27",
+        "date": "2026",
+        "url": "https://www.fportugal.com/pt/unissexo/hummel/camisola-principal-cs-maritimo-202627-junior_p13028.html",
+        "quote": "A camisola que veste a paixão da Ilha. O equipamento principal do CS Marítimo é mais do que uma peça de vestuário",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The retailer's photos and FootyLogos' match-shirt gallery (footylogos.com/kits/maritimo-2026-27, incl. player photos) show the blue 'Alberto Oculista' logo on the sleeve. JM Madeira, 3 Sep 2022 ('Marítimo anuncia novo patrocinador nas camisolas'): 'a marca Alberto Oculista figurará esta época nas camisolas verde-rubras' — the partnership dates from 2022."
+      }
+    },
+    {
+      "sponsorId": "coral-cerveja",
+      "placement": "back",
+      "source": {
+        "name": "Força Portugal (official CS Marítimo retailer): Camisola principal CS Marítimo 2026/27",
+        "date": "2026",
+        "url": "https://www.fportugal.com/pt/unissexo/hummel/camisola-principal-cs-maritimo-202627-junior_p13028.html",
+        "quote": "A camisola que veste a paixão da Ilha. O equipamento principal do CS Marítimo é mais do que uma peça de vestuário",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The retailer's back photo of the 2026/27 home shirt shows 'CORAL CERVEJA' across the upper back (below the gold '100 ANOS' commemorative print). Coral was Marítimo's front sponsor in 2022-26 and remains on the back in 2026-27."
+      }
+    },
+    {
+      "sponsorId": "rolo-pastelaria",
+      "placement": "back",
+      "source": {
+        "name": "Força Portugal (official CS Marítimo retailer): Camisola principal CS Marítimo 2026/27",
+        "date": "2026",
+        "url": "https://www.fportugal.com/pt/unissexo/hummel/camisola-principal-cs-maritimo-202627-junior_p13028.html",
+        "quote": "A camisola que veste a paixão da Ilha. O equipamento principal do CS Marítimo é mais do que uma peça de vestuário",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The retailer's back photo of the 2026/27 home shirt shows 'ROLO PASTELARIA' across the lower back. The club's site lists 'Grupo Rolo' among its sponsors (csmaritimo.pt footer, linking gruporolo.com)."
+      }
+    },
+    {
+      "sponsorId": "hummel",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Divulgada a camisa titular do CS Marítimo para a Liga Portugal 26-27 – A Hummel regressa após mais de 30 anos",
+        "date": "2026-08-02",
+        "url": "https://www.footyheadlines.com/pt/6388/divulgada-a-camisa-titular-do-cs-maritimo-para-a-liga-portugal-26-27-a-hummel-regressa-apos-mais-de-30-anos.html",
+        "quote": "o lançamento celebra também o regresso da Hummel como patrocinador técnico, após mais de três décadas de ausência",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker, recorded as partner per existing convention (e.g. adidas at Benfica)."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Main slot paid for by Entain plc via Bwin; Madeira destination branding also on the front.",
+  "sponsorsComplete": true,
+  "summary": "bwin took the front for 2026-27 (main sponsor, club announcement 7 Aug 2026); the 'Madeira. Tão tua' destination logo sits upper front; Alberto Oculista on the sleeve; Coral Cerveja (upper) and ROLO Pastelaria (lower) on the back. No other placement found: front, both sleeves and back checked against the official retailer's shirt photos and FootyLogos' match-shirt gallery; launch coverage describes the shorts as plain white. The Liga Portugal Betclic sleeve badge is league branding (see the league title deal).",
   "change": null
 }

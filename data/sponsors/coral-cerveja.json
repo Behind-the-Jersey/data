@@ -3,13 +3,15 @@
   "name": "Cerveja Coral",
   "ownerId": "pestana-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Beer brand of the Madeira Brewery (Empresa de Cervejas da Madeira), part of the Pestana Group, whose holding is wholly owned by Dionísio Fernandes Pestana. Nothing found.",
+  "claimIds": [
+    "coral-ecm-pestana-ownership"
+  ],
   "aliases": [
     "coral beer",
     "empresa de cerveja da madeira"
   ],
-  "note": "Madeira beer brand of the Madeira Brewery (Empresa de Cerveja da Madeira), controlled since 1999 by the Pestana Group with the Miles family. Back-of-shirt sponsor at Nacional in 2026-27."
+  "note": "Madeira beer brand of the Madeira Brewery (Empresa de Cervejas da Madeira), controlled since 1999 by the Pestana Group with the Miles family. On the back of Marítimo's 2026-27 home shirt (also back at Nacional in 2026-27). Rating note (2026-10-03): ownership now sourced from ECM's own site ('part of the Pestana Group') and Pestana International Holdings' consolidated annual report 2022 (100% owned by Dionísio Fernandes Pestana). News search found pay and strike disputes at ECM (dnoticias.pt 6 Apr 2022; abrilabril.pt) and a 2020 Brazilian labour judgment against a Pestana hotel in Rio over withheld service-charge percentages (migalhas.com.br): individual wage/labour disputes, not human-rights findings of the kind METHOD.md counts. No UN/NGO/court human-rights finding against ECM or the Pestana Group found."
 }
