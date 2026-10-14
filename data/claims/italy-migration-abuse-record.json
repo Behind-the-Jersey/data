@@ -1,0 +1,32 @@
+{
+  "id": "italy-migration-abuse-record",
+  "kind": "record",
+  "ownerIds": [
+    "italian-republic"
+  ],
+  "text": "Italy's migration-control model unlawfully detained migrants and asylum seekers in punitive conditions and obstructed humanitarian rescues at sea.",
+  "short": "Italy's migration-control model unlawfully detained migrants and asylum seekers and obstructed rescue at sea.",
+  "source": {
+    "name": "Human Rights Watch, 'World Report 2026: Italy'",
+    "date": "2026",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/italy",
+    "quote": "Italy pursued a repressive model of migration control including detaining people in Albania pending deportation and obstructing humanitarian rescues at sea.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International, 'Italy: Abuse of migration-related detention in punitive conditions deprives people of liberty and dignity'",
+      "date": "2024-07-04",
+      "url": "https://www.amnesty.org/en/latest/news/2024/07/italy-abuse-of-migration-related-detention-in-punitive-conditions-deprives-people-of-liberty-and-dignity/",
+      "quote": "In Italy, migrants and people seeking asylum are being unlawfully deprived of their liberty in detention centres that fall below international standards",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
