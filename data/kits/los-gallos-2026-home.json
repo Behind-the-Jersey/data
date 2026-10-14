@@ -12,9 +12,15 @@
       "sponsorId": "santander",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - Los Gallos Spain (Official Partners)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/spain/"
+        "name": "SailGP team page - Los Gallos (Official Partner group)",
+        "date": "2026-10-02",
+        "url": "https://www.sailgp.com/teams/spain/",
+        "quote": "Santander Logo White - Spain SailGP Team Official Partners",
+        "note": "Partner groups are rendered by script; contents confirmed on 2026-10-02 from the page's embedded data (Official Partners: Santander, Denza).",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -23,11 +29,76 @@
       "source": {
         "name": "SailGP - Los Gallos partner with DENZA for 2026 and 2027 SailGP Seasons",
         "date": "2026-02-09",
-        "url": "https://www.sailgp.com/news/26/los-gallos-partner-denza-2026-2027-sailgp-seasons/"
+        "url": "https://www.sailgp.com/news/26/los-gallos-partner-denza-2026-2027-sailgp-seasons/",
+        "quote": "Los Gallos partner with DENZA for 2026 and 2027 SailGP Seasons",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "north-sails",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Los Gallos (Official Suppliers group)",
+        "date": "2026-10-02",
+        "url": "https://www.sailgp.com/teams/spain/",
+        "quote": "North Sails Logo White - Spain SailGP Team Supplier",
+        "note": "Partner groups are rendered by script; contents confirmed on 2026-10-02 from the page's embedded data (Official Suppliers: North Sails, Forward WIP).",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "forward-wip",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Los Gallos (Official Suppliers group)",
+        "date": "2026-10-02",
+        "url": "https://www.sailgp.com/teams/spain/",
+        "quote": "Forward WIP Logo White - Spain SailGP Team Supplier",
+        "note": "Partner groups are rendered by script; contents confirmed on 2026-10-02 from the page's embedded data (Official Suppliers: North Sails, Forward WIP).",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sailors-for-the-sea",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Los Gallos (Purpose Partner)",
+        "date": "2026-10-02",
+        "url": "https://www.sailgp.com/teams/spain/",
+        "quote": "Sailors for the Sea Logo White - Spain Team Partner",
+        "note": "Partner groups are rendered by script; contents confirmed on 2026-10-02 from the page's embedded data (Purpose Partner: Sailors for the Sea).",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "instituto-cervantes",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Los Gallos (Partner group)",
+        "date": "2026-10-02",
+        "url": "https://www.sailgp.com/teams/spain/",
+        "quote": "Instituto Cervantes Logo White - Spain SailGP Team Partner",
+        "note": "Partner groups are rendered by script; contents confirmed on 2026-10-02 from the page's embedded data (Partner: Instituto Cervantes).",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Spain's Los Gallos have no title partner; Santander and DENZA (2026-2027) are the official partners.",
+  "sponsorsComplete": true,
+  "summary": "Spain's Los Gallos have no title partner. The team page (sailgp.com/teams/spain, opened 2026-10-02) lists Santander and DENZA as official partners, North Sails and Forward WIP as official suppliers, Sailors for the Sea as purpose partner and Instituto Cervantes as a partner.",
   "change": null
 }
