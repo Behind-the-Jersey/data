@@ -1,0 +1,21 @@
+{
+  "id": "betcity-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "betcity"
+  ],
+  "text": "The BetCity bookmaker is operated by LLC Fortuna, controlled by LLC BetCity. Gorod N reported in February 2025 that founder Sergey Samsonenko's controlling 60% stake passed into a personal fund; 10% sits with the Lernako fund and 5% each with Leon Tiratsuyan and Andrey Kamenev. All owners reported are private.",
+  "short": "BetCity is controlled via founder Sergey Samsonenko's personal fund and private partners.",
+  "source": {
+    "name": "Город N (gorodn.ru): Контроль за букмекерской сетью «Бетсити» передан в личные фонды",
+    "date": "2025-02-08",
+    "url": "https://gorodn.ru/razdel/novosti_kompaniy/praktika_biznesa/kontrol-za-bukmekerskoy-setyu-_betsiti_-peredan-v-lichnye-fondy/",
+    "note": "Rostov business paper citing SPARK-Interfax data. Translation: the controlling 60% stake in BetCity passed from Sergey Samsonenko into the personal fund Mak.",
+    "quote": "Контрольный пакет акций «Бетсити» (60%) перешел от Сергея Самсоненко в личный фонд «Мак».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

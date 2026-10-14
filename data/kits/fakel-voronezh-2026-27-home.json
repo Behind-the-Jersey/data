@@ -12,14 +12,59 @@
       "sponsorId": "ekoniva",
       "placement": "front",
       "source": {
-        "name": "FC Fakel – Partners",
-        "date": "2026-09-25",
-        "url": "https://fakelfc.ru/partners",
-        "note": "Эконива (ekoniva-moloko.com) listed among club partners."
+        "name": "FC Fakel: Факел и ГК ЭкоНива продлили контракт",
+        "date": "2025-12-30",
+        "url": "https://fakelfc.ru/news/view/10002-fakel-i-gk-ekoniva-prodlili-kontrakt",
+        "note": "Club announces long-term renewal with general partner EkoNiva. Large EKONIVA/ЭКОНИВА logo on the front of the 2026-27 home shirt in official match photos, e.g. https://fakelfc.ru/media/albums/1371-fakel-dinamo-mh (26 July 2026). Translation of quote: Fakel and general partner GK EkoNiva extended the contract.",
+        "quote": "«Факел» и Генеральный партнёр клуба ГК «ЭкоНива» продлили контракт. Стороны заключили долгосрочное соглашение.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "betcity",
+      "placement": "front",
+      "source": {
+        "name": "FC Fakel: «Факел» и БЕТСИТИ продлили сотрудничество",
+        "date": "2026-05-20",
+        "url": "https://fakelfc.ru/news/view/10176-fakel-i-betsiti-prodlili-sotrudnichestvo",
+        "note": "Betting partner renewed to 2028. БЕТСИТИ logo on the upper front of the 2026-27 home shirt, above the main Ekoniva logo, in official match photos, e.g. https://fakelfc.ru/media/albums/1371-fakel-dinamo-mh (26 July 2026).",
+        "quote": "«Факел» и БЕТСИТИ продлили сотрудничество до 2028 года",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "betcity",
+      "placement": "shorts",
+      "source": {
+        "name": "FC Fakel photo album: «Факел» – «Динамо» Мх (first home match of 2026-27)",
+        "date": "2026-07-26",
+        "url": "https://fakelfc.ru/media/albums/1371-fakel-dinamo-mh",
+        "note": "Small БЕТСИТИ print on the back/side of the home shorts in the club's official match photos (e.g. team huddle photo, players 7, 97, 99)."
+      }
+    },
+    {
+      "sponsorId": "tns-energo",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Fakel: Продлили контракт с ТНС Энерго",
+        "date": "2025-12-29",
+        "url": "https://fakelfc.ru/news/view/10001-prodlili-kontrakt-s-tns-energo",
+        "note": "Club announces renewal with PAO «ТНС Энерго Воронеж» as its energy partner. ТНС ЭНЕРГО logo at the top of both shoulders/sleeves of the 2026-27 home shirt in official match photos, e.g. https://fakelfc.ru/media/albums/1371-fakel-dinamo-mh. Translation: Fakel and TNS Energo Voronezh will continue cooperation; the sides extended the contract.",
+        "quote": "Футбольный клуб «Факел» и ПАО «ТНС Энерго Воронеж» продолжат сотрудничество",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Ekoniva listed among club partners; shirt placement not confirmed against a kit launch.",
+  "sponsorsComplete": true,
+  "summary": "Home shirt launched 24 July 2026 (Kelme). General partner Ekoniva on the front, BetCity on the upper front and shorts, TNS Energo Voronezh at the sleeve tops; back clean. Checked against the club's official match photos and partner announcements.",
   "change": null
 }

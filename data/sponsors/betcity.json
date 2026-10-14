@@ -3,10 +3,15 @@
   "name": "Betcity",
   "ownerId": "betcity",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Back-of-shirt sponsor at Dynamo Moscow and Dynamo Makhachkala partner."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Russian bookmaker controlled through founder Sergey Samsonenko's personal fund and private partners. Nothing found.",
+  "claimIds": [
+    "betcity-ownership"
+  ],
+  "aliases": [
+    "BetCity",
+    "БЕТСИТИ"
+  ],
+  "note": "Rating note: back-of-shirt sponsor at Dynamo Moscow, Dynamo Makhachkala partner; upper front and shorts of Fakel Voronezh (partnership renewed to 2028)."
 }
