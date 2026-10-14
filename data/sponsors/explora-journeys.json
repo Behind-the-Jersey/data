@@ -1,14 +1,17 @@
 {
   "id": "explora-journeys",
   "name": "Explora Journeys",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "msc-group-aponte-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Luxury ocean travel brand of MSC Group, the family-owned Aponte shipping group. Nothing found.",
+  "claimIds": [
+    "explora-msc-brand",
+    "msc-group-aponte-family-record"
+  ],
   "aliases": [
     "Explora"
   ],
-  "note": "Luxury ocean travel brand of MSC (Aponte-Diamant family, per Wikipedia lead); Title Partner of the Switzerland team since April 2026 - team races as Explora Journeys Swiss SailGP Team (SailGP press release, 15 Apr 2026)."
+  "note": "Title Partner of the Switzerland SailGP team since April 2026 - the team races as the Explora Journeys Swiss SailGP Team (Explora Journeys press office, April 2026)."
 }
