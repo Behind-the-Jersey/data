@@ -1,0 +1,20 @@
+{
+  "id": "mercari-inc-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "mercari-inc"
+  ],
+  "text": "Mercari, Inc. is listed on the Tokyo Stock Exchange Prime Market (code 4385). Its corporate governance report of 1 October 2025 lists its major shareholders as founder and CEO Shintaro Yamada (22.08%), The Master Trust Bank of Japan, Ltd. (Trust Account, 17.88%), Custody Bank of Japan, Ltd. (Trust Account, 6.16%) and suadd K.K. (5.68%), and records no controlling shareholder and no parent company.",
+  "short": "Mercari is listed on TSE Prime; founder-CEO Shintaro Yamada is the largest holder with 22.08%, and no controlling shareholder is recorded.",
+  "source": {
+    "name": "Mercari, Inc.: Corporate Governance Report (1 October 2025)",
+    "date": "2025-10-01",
+    "url": "https://storage.googleapis.com/prd-about-asset-2020/2025/10/78a9a91f-cg-report.pdf",
+    "quote": "Shintaro Yamada 36,337,546 22.08",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

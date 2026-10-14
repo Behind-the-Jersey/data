@@ -1,0 +1,20 @@
+{
+  "id": "kaneka-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "kaneka-corporation"
+  ],
+  "text": "Kaneka Corporation is listed on the Tokyo Stock Exchange (code 4118). Its major shareholders as of 31 March 2026 are The Master Trust Bank of Japan, Ltd. (Trust Account, 11.26%), Nippon Life Insurance Company (5.17%), Sumitomo Mitsui Banking Corporation (4.88%) and Meiji Yasuda Life Insurance Company (4.69%), with banks, insurers and trust accounts below 5% thereafter; in its shareholder composition, government and local public authorities hold 0.4 thousand shares (one holder).",
+  "short": "Kaneka is Tokyo-listed; its largest holders are trust-bank accounts, life insurers and banks (Master Trust 11.26%, Nippon Life 5.17%).",
+  "source": {
+    "name": "Kaneka Corporation: Stock Basic Information (Major Shareholders, as of March 31, 2026)",
+    "date": "2026-03-31",
+    "url": "https://www.kaneka.co.jp/en/ir/stocks/information/",
+    "quote": "The Master Trust Bank of Japan, Ltd.(Trust Account) 6,780 11.26",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
