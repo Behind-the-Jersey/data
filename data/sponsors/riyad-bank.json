@@ -1,12 +1,14 @@
 {
   "id": "riyad-bank",
   "name": "Riyad Bank",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "riyad-bank",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "riyad-bank-pif-stake"
+  ],
   "aliases": [],
-  "note": "Saudi listed bank."
+  "note": "Saudi bank listed on Tadawul; PIF is the largest shareholder with 21.75% and two board seats, state pension body GOSI holds 10.39%. Upper-back sponsor of Al-Hilal, renewed 30 Aug 2026 for five seasons."
 }
