@@ -12,13 +12,64 @@
       "sponsorId": "prometeon",
       "placement": "front",
       "source": {
-        "name": "Parma Calcio 1913",
-        "date": "2025-10-30",
-        "url": "https://www.parmacalcio1913.com/en/main-news/prometeon-and-parma-calcio-together-on-the-pitch-again/"
+        "name": "Parma Calcio 1913, 'Prometeon, AdmiralBet.news, and inX.aero, our jersey!'",
+        "date": "2024-07-12",
+        "url": "https://www.parmacalcio1913.com/en/main-news/prometeon-admiralbet-news-e-inx-aero-la-nostra-maglia/",
+        "quote": "Prometeon, a leader in the industrial tyre manufacturing sector, is the Main Sponsor of Parma Calcio for the third consecutive year.",
+        "note": "Still on the 2026/27 home shirt: the club's kit-launch press release (SportParma, 2026-06-05, https://sportparma.com/parma-calcio/parma-ecco-la-maglia-crociata-per-la-stagione-2026-2027.html, opened 2026-10-03) says 'Sulla maglia della Prima Squadra Maschile saranno presenti i loghi di Prometeon, AdmiralBet.news, Crédit Agricole e Moby'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "admiralbet-news",
+      "placement": "front",
+      "source": {
+        "name": "Parma Calcio 1913, 'Prometeon, AdmiralBet.news, and inX.aero, our jersey!'",
+        "date": "2024-07-12",
+        "url": "https://www.parmacalcio1913.com/en/main-news/prometeon-admiralbet-news-e-inx-aero-la-nostra-maglia/",
+        "quote": "For the first time, the brand will be the Second Sponsor on the jersey",
+        "note": "Second sponsor on the front. Still on the 2026/27 home shirt: the club's kit-launch press release (SportParma, 2026-06-05, https://sportparma.com/parma-calcio/parma-ecco-la-maglia-crociata-per-la-stagione-2026-2027.html, opened 2026-10-03) lists the AdmiralBet.news logo among the four brand logos on the Men's First Team shirt.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "credit-agricole",
+      "placement": "sleeve",
+      "source": {
+        "name": "Crédit Agricole Italia press release, 'Al via la partnership tra Crédit Agricole Italia e Parma Calcio'",
+        "date": "2024-09-24",
+        "url": "https://www.credit-agricole.it/media/filer_public/40/99/4099036d-1b29-44f3-ae63-e0b8453e65e0/cs-al-via-la-partnership-tra-credit-agricole-italia-e-parma-calcio.pdf",
+        "quote": "la Banca diventa per i prossimi tre anni Sleeve Sponsor della squadra gialloblu e il marchio CA compare sulla manica sinistra della maglia Gara della Prima Squadra Maschile",
+        "note": "The Bank becomes sleeve sponsor for the next three years, with the CA brand on the left sleeve of the men's first-team match shirt. A three-year term from September 2024 covers 2026/27, and the club's kit-launch press release (SportParma, 2026-06-05, opened 2026-10-03) confirms the Crédit Agricole logo on the 2026/27 shirt.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "moby",
+      "placement": "back",
+      "source": {
+        "name": "Parma Calcio 1913, 'Parma Calcio scende in campo con Moby'",
+        "date": "2025-06-17",
+        "url": "https://www.parmacalcio1913.com/news/parma-calcio-scende-in-campo-con-moby/",
+        "quote": "a partire dalla stagione 2025/2026 sarà back sponsor di maglia della Prima Squadra Maschile",
+        "note": "'From the 2025/2026 season Moby will be back sponsor of the Men's First Team shirt' (Italian). Still on the 2026/27 shirt per the club's kit-launch press release (SportParma, 2026-06-05, opened 2026-10-03), which lists Moby's logo on the Men's First Team shirt.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "Prometeon is main sponsor; AdmiralBet.news also front of shirt."
+  "summary": "Puma kit. Prometeon main front sponsor, AdmiralBet.news second front sponsor, Crédit Agricole left sleeve, Moby back. All four confirmed on the 2026/27 men's shirt by the club's launch press release. No shorts sponsor."
 }

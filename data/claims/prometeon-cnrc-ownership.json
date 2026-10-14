@@ -1,0 +1,33 @@
+{
+  "id": "prometeon-cnrc-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sinochem-holdings"
+  ],
+  "text": "Prometeon Tyre Group S.r.l. is controlled by China National Tyre & Rubber Co., Ltd (CNRC), a subsidiary of Sinochem Holdings. Sinochem says CNRC became the direct stakeholder of 38% of Prometeon's shares in 2022 and that the remaining shares are held by TP Industrial Holding S.p.A., a company controlled by CNRC (Aeolus Tyre holds 10%); CNRC later entrusted its stake to CNRC-controlled Aeolus Tyre.",
+  "short": "Prometeon is controlled by CNRC, a Sinochem Holdings subsidiary.",
+  "source": {
+    "name": "Sinochem Holdings - CNRC acquires 38% share in Prometeon Tyre Group",
+    "date": "2022-07-08",
+    "url": "https://www.sinochem.com/zhjten/PressRoom/NewsRelease/2024/10/I1294335443155812352.html",
+    "quote": "China National Tyre & Rubber Co., Ltd (CNRC), a subsidiary of Sinochem Holdings, completed the acquisition of the 38% share",
+    "note": "The release also states: 'With this deal, CNRC has become the direct stakeholder of 38% of Prometeon's shares, while Aeolus holds a 10% stake. The remaining 52% is owned by TP Industrial Holding S.p.A. - a company controlled by CNRC.' and that CNRC will entrust its stake in PTG to Aeolus Tyre.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Portal Economia - Prometeon Tyre Group: Leadership in the Global Industrial Tire Market",
+      "date": "2024-11-27",
+      "url": "https://www.portaleconomia.net/en/prometeon-tyre-group-leadership-in-the-global-industrial-tire-market/",
+      "quote": "The group is currently 90% owned by China National Tire & Rubber Corporation (CNRC), part of the Sinochem conglomerate, while the remaining 10% is held by the Chinese tire manufacturer Aeolus.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
