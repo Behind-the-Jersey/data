@@ -1,0 +1,21 @@
+{
+  "id": "cadex-giant-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "giant-manufacturing"
+  ],
+  "text": "Giant Group, the Taiwan-listed bicycle maker Giant Manufacturing (TPE: 9921), lists CADEX among its product brands.",
+  "short": "CADEX is a product brand of Giant Group (TPE: 9921).",
+  "source": {
+    "name": "Giant Group: corporate site (brands list)",
+    "date": "2026",
+    "url": "https://www.giantgroup-cycling.com/en-US",
+    "quote": "Product Brands GIANT LIV momentum CADEX",
+    "note": "Page header shows 'Giant Group (TPE: 9921)'; no date shown, opened 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

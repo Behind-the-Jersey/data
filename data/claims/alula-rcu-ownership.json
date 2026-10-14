@@ -1,0 +1,45 @@
+{
+  "id": "alula-rcu-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "royal-commission-for-alula",
+    "government-of-saudi-arabia"
+  ],
+  "text": "AlUla — the Experience AlUla destination brand behind the team's co-title sponsorship — is run by the Royal Commission for AlUla (RCU), a Saudi government body that Crown Prince Mohammed bin Salman has chaired since its establishment in 2017.",
+  "short": "AlUla is run by the Saudi Royal Commission for AlUla, chaired by the crown prince.",
+  "source": {
+    "name": "Royal Commission for AlUla: About RCU — Governance",
+    "date": "2026-06-17",
+    "url": "https://www.rcu.gov.sa/en/about-rcu",
+    "quote": "His Royal Highness the Crown Prince has chaired the Board of Directors of RCU since its establishment in July 2017.",
+    "note": "Page header: 'Official government website of the Government of the Kingdom of Saudi Arabia'; date from the page's 'Last Modified Date'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Guardian: Australia's World Tour cycling team to be renamed as Saudi Arabia partnership deepens",
+      "date": "2022-12-23",
+      "url": "https://www.theguardian.com/sport/2022/dec/23/australias-world-tour-cycling-team-to-be-renamed-as-saudi-arabia-partnership-deepens",
+      "quote": "after the Royal Commission for AlUla – an arm of the Saudi Arabian government – was elevated to naming rights sponsor",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Experience AlUla — official destination website (footer)",
+      "date": "2026",
+      "url": "https://www.experiencealula.com/en",
+      "quote": "© All rights reserved to Royal Commission for AlUla, Saudi Arabia",
+      "note": "Footer of the sponsor's own destination site; no date shown, opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
