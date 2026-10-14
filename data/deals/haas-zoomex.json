@@ -3,14 +3,20 @@
   "clubId": "haas",
   "orgName": null,
   "sponsorId": "zoomex",
-  "placement": "partner",
-  "from": "2026",
+  "placement": "sleeve",
+  "from": "2025",
   "to": null,
   "value": null,
   "source": {
-    "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
-    "date": "2026-01-19",
-    "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+    "name": "TGR Haas F1 Team – Partners: ZOOMEX",
+    "date": "2026",
+    "url": "https://www.haasf1team.com/partners/zoomex",
+    "quote": "Ahead of the 2026 FIA Formula 1 World Championship, TGR Haas F1 Team and ZOOMEX have renewed their partnership for a second year",
+    "note": "Page undated; checked 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "TGR Haas F1 Team other partner on the 2026 car."
+  "note": "Renewal for a second year ahead of 2026 implies a first year in 2025. ZOOMEX wordmark on a sleeve stack of the 2026 team shirt (store product photos)."
 }
