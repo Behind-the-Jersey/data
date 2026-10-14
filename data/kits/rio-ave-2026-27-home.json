@@ -12,22 +12,64 @@
       "sponsorId": "lebull",
       "placement": "front",
       "source": {
-        "name": "Rio Ave FC official partners page (Lebull listed as Main Sponsor) plus Wikipedia 2026-27 Personnel and kits",
-        "date": "2026-09",
-        "url": "https://www.rioavefc.pt/pt/clube/parceiros"
+        "name": "FootyLogos: Rio Ave 2026-27 kits",
+        "date": "2026",
+        "url": "https://www.footylogos.com/kits/rio-ave-2026-27",
+        "quote": "The front pairs Adidas branding with the club emblem and Lebull sponsorship.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Main sponsor across the front of the 2026-27 home shirt. The club's partners page (https://rioavefc.pt/parceiros/) lists Lebull under the heading 'Main Sponsor', and the club's launch photos (https://rioavefc.pt/wp-content/uploads/2026/07/Equipamento1.jpg, on the club store product page https://rioavefc.pt/produto/camisola-principal-rafc-2026-27-copia/) show 'Lebull' across the chest."
       }
     },
     {
       "sponsorId": "lus-iadas",
       "placement": "front",
       "source": {
-        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lusíadas front)",
-        "date": "2026-09",
-        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        "name": "Rio Ave FC: Grupo Lusíadas Saúde é o novo Parceiro Clínico do Rio Ave FC",
+        "date": "2026-06-29",
+        "url": "https://rioavefc.pt/destaque/grupo-lusiadas-saude-e-o-novo-parceiro-clinico-do-rio-ave-fc/",
+        "quote": "O Rio Ave FC e o Grupo Lusíadas Saúde formalizaram uma parceria institucional, através do qual os Hospitais Lusíadas Braga e Maia assumem o estatuto de parceiro clínico oficial do clube",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Club announcement of the Lusíadas partnership for the 2026-27 season. Upper right chest of the 2026-27 home shirt, above the adidas logo, in the club's launch photos (https://rioavefc.pt/wp-content/uploads/2026/07/Equipamento1.jpg; club store product page https://rioavefc.pt/produto/camisola-principal-rafc-2026-27-copia/)."
+      }
+    },
+    {
+      "sponsorId": "mahou-san-miguel",
+      "placement": "sleeve",
+      "source": {
+        "name": "Rio Ave FC: Cervezas San Miguel é o novo Premium Partner do Rio Ave FC",
+        "date": "2025-04-25",
+        "url": "https://rioavefc.pt/destaque/cervezas-san-miguel-e-o-novo-premium-partner-do-rio-ave-fc/",
+        "quote": "A marca San Miguel, que já figura na manga esquerda da camisola oficial do Rio Ave FC na sua equipa principal",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Left sleeve of the first team shirt. Announced April 2025 and still on the left sleeve of the 2026-27 home shirt in the club's launch photos (https://rioavefc.pt/wp-content/uploads/2026/07/Equipamento1.jpg)."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: Rio Ave 26-27 Home Kit Released",
+        "date": "2026-07-30",
+        "url": "https://www.footyheadlines.com/0745184812/rio-ave-26-27-home-kit-released.html",
+        "quote": "Rio Ave FC and Adidas have officially unveiled the club's new home kit for the 26-27 Liga Portugal season.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull; Lusíadas also on the front.",
+  "summary": "Adidas-made home shirt, launched 30 July 2026, with Lebull (Southern Stingray, S.A.) across the front, Lusíadas on the upper chest and San Miguel on the left sleeve. Not marked complete: no photo or text found documents the back of the home shirt or any shorts sponsor for 2026-27 (the club's store photos and launch images show only the front and sleeves).",
   "change": null
 }
