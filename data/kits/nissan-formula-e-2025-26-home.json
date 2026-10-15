@@ -7,8 +7,114 @@
   "periodFrom": "2025-26",
   "periodTo": "2025-26",
   "photos": {},
-  "sponsors": [],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsors": [
+    {
+      "sponsorId": "nissan",
+      "placement": "front",
+      "source": {
+        "name": "Nissan Global Newsroom: Nissan Formula E Press Kit",
+        "date": "2026",
+        "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+        "note": "Press kit page without a date; opened 2026-10-03. Nissan is the team's owner and name; per the league note, the manufacturer/team-title brand is mapped to the front.",
+        "quote": "After committing to the GEN3 era in 2021, Nissan took full control of the team in early 2022 in preparation for Season 9",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "electromin",
+      "placement": "partner",
+      "source": {
+        "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+        "date": "2026",
+        "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+        "note": "Press kit page without a date; opened 2026-10-03. The press kit shows the Electromin logo on the side of the #1 car; car-livery placements do not fit the schema, so recorded as partner.",
+        "quote": "Nissan Formula E Team now enters its second season of a four-year global partnership with Petromin Corporation, a leading mobility solutions provider in the Middle East",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "coral-climate",
+      "placement": "partner",
+      "source": {
+        "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+        "date": "2026",
+        "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+        "note": "Press kit page without a date; opened 2026-10-03. The press kit shows the Coral logo on the team's car; recorded as partner.",
+        "quote": "In Season 12 Nissan Formula E Team enters the third year of its partnership with Coral",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "marelli",
+      "placement": "partner",
+      "source": {
+        "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+        "date": "2026",
+        "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+        "note": "Press kit page without a date; opened 2026-10-03. The press kit shows the Marelli logo on the rear wing; recorded as partner.",
+        "quote": "Nissan Formula E Team will also continue to work with Marelli as its technical partner in Season 12",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "reflo",
+      "placement": "partner",
+      "source": {
+        "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+        "date": "2026",
+        "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+        "note": "Press kit page without a date; opened 2026-10-03.",
+        "quote": "Reflo will continue to support the squad as its Official Teamwear and Apparel Partner for Season 12",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "dynisma",
+      "placement": "partner",
+      "source": {
+        "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+        "date": "2026",
+        "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+        "note": "Press kit page without a date; opened 2026-10-03.",
+        "quote": "In November 2024, Nissan Formula E Team announced its partnership with Dynisma Ltd, which saw the supply of a brand-new bespoke racing simulator ahead of Season 12",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "alpinestars",
+      "placement": "partner",
+      "source": {
+        "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+        "date": "2026",
+        "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+        "note": "Press kit page without a date; opened 2026-10-03. Alpinestars supplies the race suits, gloves and boots.",
+        "quote": "The Italian motorsports and action sports safety equipment manufacturer provides the squad with high-quality gear including race suits, gloves and boots",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Season 12 (2025/26) Nissan e-4ORCE 05 works team. Nissan owns the team and gives it its name (front); the Season 12 press kit's Partners section names six partners - Electromin (Petromin), Coral, Marelli, Reflo (teamwear), Dynisma (simulator) and Alpinestars (race suits) - recorded as partner. Car-livery placements (side, rear wing) do not fit the schema yet.",
   "change": null
 }

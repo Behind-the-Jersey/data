@@ -1,0 +1,21 @@
+{
+  "id": "verge-magur-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "verge-sport"
+  ],
+  "text": "Verge Sport traces its roots to 1996 in New York, growing from Mike Magur's custom cycle clothing business, which later opened its own production facility.",
+  "short": "Verge Sport is the custom cycle clothing business that grew from Mike Magur's 1996 New York start.",
+  "source": {
+    "name": "Verge Sport: About us (Inside Verge)",
+    "date": "2026",
+    "url": "https://www.vergesport.com/pages/about-us",
+    "quote": "Verge traces its roots to 1996 in New York, growing from Mike Magur’s frustration to find cycle clothing that matched his race team’s potential.",
+    "note": "Same page: 'Mike’s racing career also took him to Europe where he settled in Poland, ultimately opening his own production facility so he could have direct control over quality and speed.' The team's kit launch (ProCyclingUK, 2026-01-05) calls Michael Magur the Verge Sport founder. The page does not name Verge's current shareholders; see the pull request.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

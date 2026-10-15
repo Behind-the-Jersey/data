@@ -1,14 +1,17 @@
 {
   "id": "mip",
   "name": "MIP (Mexico Infrastructure Partners)",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "mexicoinfra"
+  "ownerId": "mexico-infrastructure-partners",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "MIP (Mexico Infrastructure Partners) is an independent, partner-owned Mexican energy and infrastructure investment manager. Nothing found.",
+  "claimIds": [
+    "mip-partner-owned"
   ],
-  "note": "Fireballs GC partner, logo links to mexicoinfra.com (livgolf.com/fireballs-gc, fetched 2026-09-25)."
+  "aliases": [
+    "mexicoinfra",
+    "MIP Real Assets"
+  ],
+  "note": "Fireballs GC partner; its logo on livgolf.com/fireballs-gc links to mexicoinfra.com (verified in the page HTML, 2026-10-03). The firm's May 4, 2026 release describes it as an independent, partner-owned manager founded in 2012 and headquartered in Mexico City (mip-partner-owned); its current release URL was opened and quote-checked on 2026-10-13. Mexico News Daily independently reports its energy and infrastructure investment-manager description. Individual partners' stakes remain unknown. No state or state-fund owner found, no human-rights finding found."
 }

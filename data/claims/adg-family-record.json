@@ -1,0 +1,21 @@
+{
+  "id": "adg-family-record",
+  "kind": "ownership",
+  "ownerIds": [
+    "al-dabbagh-group"
+  ],
+  "text": "Al-Dabbagh Group (ADG) is a private, family-owned business, founded in 1962 by Sheikh Abdullah Al-Dabbagh, former Agriculture Minister of Saudi Arabia.",
+  "short": "Al-Dabbagh Group is family-owned.",
+  "source": {
+    "name": "Al-Dabbagh Group: About us",
+    "date": "2026",
+    "url": "https://www.aldabbagh.com/about-us",
+    "note": "Page without a date; opened 2026-10-03.",
+    "quote": "ADG is a private, family-owned business, founded in 1962 by His Excellency Sheikh Abdullah Al-Dabbagh, former Agriculture Minister of Saudi Arabia",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

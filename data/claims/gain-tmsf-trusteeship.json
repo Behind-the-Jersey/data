@@ -1,0 +1,35 @@
+{
+  "id": "gain-tmsf-trusteeship",
+  "kind": "ownership",
+  "ownerIds": [
+    "gain-medya",
+    "tmsf"
+  ],
+  "text": "On 16 December 2025, an Istanbul duty criminal court of peace appointed Turkey's state savings-deposit fund (TMSF) as trustee (kayyum) over Gain Medya A.Ş. and affiliated companies, including Anahat Holding, during an investigation into illegal betting and money laundering.",
+  "short": "TMSF appointed trustee over Gain Medya, December 2025",
+  "source": {
+    "name": "Anka Haber: Gain Medya'ya TMSF kayyım atandı, 3 kişi gözaltına alındı",
+    "date": "2025-12-16",
+    "url": "https://ankahaber.net/haber/detay/gain_medyaya_tmsf_kayyim_atandi_3_kisi_gozaltina_alindi_279815",
+    "quote": "aralarında Gain Medya AŞ'nin de bulunduğu 7 firmaya Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyım olarak atandı",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Quotes the Istanbul Chief Public Prosecutor's statement: the decision was taken by the Istanbul duty criminal court of peace, appointing TMSF trustee over GAİN Medya, GAİN Studio, GAİN Shorts, Anahat Holding, Anahat Medya, 3B Yazılım and Berton Yapı. Page updated 1 June 2026."
+  },
+  "additionalSources": [
+    {
+      "name": "Amida Haber: Gain Medya'ya operasyon: Kayyım atandı, gözaltılar var",
+      "date": "2025-12-16",
+      "url": "https://amidahaber.com/gundem/gain-medyaya-operasyon-kayyim-atandi-gozaltilar-var-225342h",
+      "quote": "GAİN Medya'ya bağlı tüm kuruluşlara Tasarruf Mevduatı Sigorta Fonu'nun (TMSF) kayyım olarak atandığı açıklandı.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Adds that the trusteeship decision was taken so that the company's activities are run under supervision for the duration of the investigation."
+    }
+  ],
+  "reviewed": false
+}

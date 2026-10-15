@@ -1,0 +1,21 @@
+{
+  "id": "reitan-retail-brand-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "reitan-retail"
+  ],
+  "text": "Uno-X Mobility and REMA 1000 are brands of Reitan Retail, the Reitan group's retail company in the Nordic and Baltic countries; Reitan Retail says Uno-X Mobility owns and operates the professional cycling team with both women's and men's teams.",
+  "short": "Uno-X Mobility and REMA 1000 are Reitan Retail brands.",
+  "source": {
+    "name": "Reitan Retail: Our business",
+    "date": "2026",
+    "url": "https://www.reitanretail.no/en/about/our-business",
+    "quote": "great brands including REMA 1000, Narvesen, R-kioski, Pressbyrån, 7-Eleven og Uno-X Mobility",
+    "note": "Same page: 'Uno-X Mobility is also passionate about cycling, and proudly owns and operates a professional cycling team with both women's and men's teams.'",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

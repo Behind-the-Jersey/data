@@ -1,12 +1,18 @@
 {
   "id": "atlantis-pak",
   "name": "Atlantis-Pak",
-  "ownerId": "atlantis-pak",
+  "ownerId": "agrokom-group",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "FC Rostov title sponsor."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Part of Agrokom Group, owned by Rostov businessman Ivan Savvidi. Nothing found.",
+  "claimIds": [
+    "atlantis-pak-agrokom-ownership",
+    "agrokom-savvidi-ownership"
+  ],
+  "aliases": [
+    "Атлантис-Пак",
+    "Atlantis Pak"
+  ],
+  "note": "FC Rostov's title sponsor; wordmark across the chest of the 2026-27 home shirt. Rating note: private Russian food-packaging group (world's largest producer of plastic sausage casings per the club's sponsor profile); chain ends at private owner Ivan Savvidi, no state stake found, and no court, regulator, UN-body or major-NGO human-rights finding against the company (searched 3 Oct 2026). Ukraine's 2024 confiscation of Savvidi-related shares is a sanctions action, which does not count under METHOD.md."
 }

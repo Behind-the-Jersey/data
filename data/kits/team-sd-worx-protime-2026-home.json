@@ -13,8 +13,13 @@
       "placement": "front",
       "source": {
         "name": "Team SD Worx-Protime - Partners page ('SD Worx & Protime chose to sponsor the world's best women's cycling team')",
-        "date": "2026-09-25",
-        "url": "https://teamsdworxprotime.com/en/partners"
+        "date": "2026",
+        "url": "https://teamsdworxprotime.com/en/partners",
+        "quote": "That is why SD Worx & Protime chose to sponsor the world's best women's cycling team.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -22,8 +27,13 @@
       "placement": "front",
       "source": {
         "name": "Team SD Worx-Protime - Partners page",
-        "date": "2026-09-25",
-        "url": "https://teamsdworxprotime.com/en/partners"
+        "date": "2026",
+        "url": "https://teamsdworxprotime.com/en/partners",
+        "quote": "That is why SD Worx & Protime chose to sponsor the world's best women's cycling team.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -31,12 +41,17 @@
       "placement": "partner",
       "source": {
         "name": "Team SD Worx-Protime - Partners page (premium partner Specialized)",
-        "date": "2026-09-25",
-        "url": "https://teamsdworxprotime.com/en/partners"
+        "date": "2026",
+        "url": "https://teamsdworxprotime.com/en/partners",
+        "quote": "the support from sponsors such as Dolmans Landscaping Group, Specialized, Finvision & BMW Le Couter",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "2026 UCI Women's WorldTeam; SD Worx and Protime are the title sponsors, Specialized a premium partner.",
+  "summary": "2026 UCI Women's WorldTeam; SD Worx and Protime are the title sponsors, Specialized a premium partner. The team's partners page also names other premium and official partners, but no source documents which logos sit on the jersey.",
   "change": null
 }

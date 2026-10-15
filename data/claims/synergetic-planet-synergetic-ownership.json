@@ -1,0 +1,21 @@
+{
+  "id": "synergetic-planet-synergetic-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "planet-synergetic-c-limited"
+  ],
+  "text": "ООО «Синергетик», the Russian company whose website is synergetic.ru, has had Planet Synergetic C Limited (Mauritius, registration number 216186) as its participant since 18 March 2025, holding 100% of its capital.",
+  "short": "Planet Synergetic C Limited (Mauritius) owns 100% of ООО «Синергетик»",
+  "source": {
+    "name": "Checko: ООО \"СИНЕРГЕТИК\" (EGRUL data), company page",
+    "date": "2026-10-03",
+    "url": "https://checko.ru/company/sinergetik-1115257005984",
+    "quote": "ПЛАНЕТА СИНЕРГЕТИК СИ ЛИМИТЕД Маврикий Регистрационный номер 216186 с 18 марта 2025 г. 16,3 тыс. руб. 100%",
+    "note": "Founders-table row of the Checko page: ПЛАНЕТА СИНЕРГЕТИК СИ ЛИМИТЕД (Mauritius, registration number 216186) has been the participant since 18 March 2025, with 'Доля капитала' 100% (16,3 тыс. руб.). The same page lists synergetic.ru among the company's websites. Page data is from the EGRUL and updated daily; the date given is the date the page was opened.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

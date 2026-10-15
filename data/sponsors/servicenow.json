@@ -1,12 +1,14 @@
 {
   "id": "servicenow",
   "name": "ServiceNow",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "servicenow-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by ServiceNow, Inc. Nothing found.",
+  "claimIds": [
+    "servicenow-inc-ownership"
+  ],
   "aliases": [],
-  "note": "BAL partner (bal.nba.com/partners)."
+  "note": "BAL partner (bal.nba.com/partners). Partner of the Ferrari Hypercar programme: the ServiceNow wordmark appears on the official Ferrari Hypercar partners board for 2026 (see the 2026 Ferrari AF Corse kit). Rating note: ServiceNow, Inc. is NYSE-listed; its only disclosed owners of more than 5% are BlackRock (8.8%) and Vanguard (8.7%) - no state stake and no human-rights finding located."
 }

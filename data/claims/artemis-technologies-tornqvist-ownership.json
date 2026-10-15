@@ -1,0 +1,20 @@
+{
+  "id": "artemis-technologies-tornqvist-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "torbjorn-tornqvist"
+  ],
+  "text": "Torbjörn Törnqvist is a person with significant control of Artemis Technologies Ltd, with significant influence or control.",
+  "short": "Torbjörn Törnqvist has significant influence or control over Artemis Technologies Ltd.",
+  "source": {
+    "name": "Companies House: ARTEMIS TECHNOLOGIES LTD (09412785) – Persons with significant control",
+    "date": "2026",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09412785/persons-with-significant-control",
+    "quote": "Has significant influence or control",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,12 +1,16 @@
 {
   "id": "corpay",
   "name": "Corpay",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "WTA Tour Global Partner (wtatennis.com footer)."
+  "ownerId": "corpay-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A brand of Corpay, Inc., an S&P 500 corporate payments company listed on the New York Stock Exchange. Nothing found.",
+  "claimIds": [
+    "corpay-inc-listed"
+  ],
+  "aliases": [
+    "Corpay Cross-Border"
+  ],
+  "note": "Official Commercial FX Partner and Premium Partner of Prima Pramac Racing from February 2026 (Corpay press release). Also WTA Tour Global Partner (wtatennis.com footer). Rating note: Corpay, Inc. is listed on the NYSE (corpay-inc-listed); no state shareholder identified, no human-rights finding found (checked 2026-10-03)."
 }

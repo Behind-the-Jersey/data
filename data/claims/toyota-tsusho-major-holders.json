@@ -1,0 +1,33 @@
+{
+  "id": "toyota-tsusho-major-holders",
+  "kind": "ownership",
+  "ownerIds": [
+    "toyota-tsusho-corporation"
+  ],
+  "text": "TOYOTA TSUSHO CORPORATION is listed on the Tokyo Stock Exchange (Prime) and Nagoya Stock Exchange (Premier). Its 10 leading shareholders as of 31 March 2026 were Toyota Motor Corporation with 21.69%, The Master Trust Bank of Japan (trust account) with 14.16%, Toyota Industries Corporation with 11.18% and Custody Bank of Japan (trust account) with 6.39%. Toyota Industries' 11.18% stake was tendered into Toyota Tsusho's own-share repurchase settled in June 2026, per the company's notice of 3 June 2026.",
+  "short": "Toyota Tsusho is listed; largest holder Toyota Motor with 21.69% (March 2026).",
+  "source": {
+    "name": "Toyota Tsusho: Stock Overview – 10 Leading Shareholders",
+    "date": "2026-03-31",
+    "url": "https://www.toyota-tsusho.com/english/ir/shareholders/outline.html",
+    "quote": "TOYOTA MOTOR CORPORATION 229,106 21.69",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The page notes that the June 2026 completion of a repurchase of 118,095,432 own shares changed the major-shareholder list; details in the company's notice of 3 June 2026."
+  },
+  "additionalSources": [
+    {
+      "name": "Toyota Tsusho: Notice Concerning Results of the Tender Offer for Own Shares, Completion of the Share Repurchase, Change in Major Shareholders, and the Cancellation of Own Shares",
+      "date": "2026-06-03",
+      "url": "https://www.toyota-tsusho.com/english/press/upload_files/202606031530_en.pdf",
+      "quote": "Toyota Industries Corporation (“Toyota Industries”), which is a major shareholder of Toyota Tsusho, tendered in the Tender Offer all 118,095,402 Toyota Tsusho common shares held by it",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-reviewer (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

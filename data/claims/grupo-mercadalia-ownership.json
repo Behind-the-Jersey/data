@@ -1,0 +1,20 @@
+{
+  "id": "grupo-mercadalia-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "grupo-mercadalia"
+  ],
+  "text": "Vitaldin is a brand of Boston Nutraceutical Science, which forms part of Mercadalia, a Spanish industrial group; Vitaldin is a registered trademark of Boston Nutraceutical Science S.L. (BNS).",
+  "short": "Vitaldin is a brand of Boston Nutraceutical Science, part of the Spanish group Mercadalia.",
+  "source": {
+    "name": "Vitaldin: 'Quiénes somos' (vitaldin.com/conocenos.html)",
+    "date": "2026",
+    "url": "https://www.vitaldin.com/conocenos.html",
+    "quote": "Vitaldin (Boston Nutraceutical Science) forma parte de Mercadalia, un grupo industrial español resultado de una larga trayectoria empresarial",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
