@@ -1,0 +1,34 @@
+{
+  "id": "pertamina-enduro-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pertamina"
+  ],
+  "text": "Pertamina Enduro, the VR46 Racing Team's title-sponsor brand, is a product of PT Pertamina Lubricants, which is 99.96% owned by PT Pertamina Patra Niaga, the Pertamina group's downstream subholding.",
+  "short": "Pertamina Enduro is PT Pertamina Lubricants' brand; the company is 99.96% held by PT Pertamina Patra Niaga.",
+  "source": {
+    "name": "PT Pertamina Lubricants: Tentang Kami (About us - company profile and shareholding)",
+    "date": "2026",
+    "url": "https://www.pertaminalubricants.com/tentang-kami",
+    "quote": "PT Pertamina Patra Niaga (99,96%)",
+    "note": "PT Pertamina Lubricants' own About page (Indonesian): 'PT Pertamina Lubricants is part of the Subholding Downstream PT Pertamina Patra Niaga' and its ownership table lists PT Pertamina Patra Niaga 99.96%, PT Pertamina Pedeve Indonesia 0.04%.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "VR46 Racing Team: Sponsors (team site)",
+      "date": "2026",
+      "url": "https://vr46racingteam.it/sponsors/",
+      "quote": "www.pertaminalubricants.com",
+      "note": "The team's Sponsors page shows Pertamina alone under the heading 'TITLE SPONSOR', with this website link (pertaminalubricants.com is PT Pertamina Lubricants' site).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}

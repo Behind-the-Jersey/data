@@ -1,0 +1,33 @@
+{
+  "id": "cupra-vw-brand-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "volkswagen-ag"
+  ],
+  "text": "CUPRA is one of the ten brands of the Volkswagen Group; its own website is operated by SEAT, S.A.U.",
+  "short": "CUPRA is a Volkswagen Group brand (one of its ten car brands).",
+  "source": {
+    "name": "Volkswagen Group (volkswagen-group.com): Group page",
+    "date": "2026",
+    "url": "https://www.volkswagen-group.com/en/group-15765",
+    "quote": "The Group comprises ten brands from five European countries: Volkswagen, Volkswagen Commercial Vehicles, ŠKODA, SEAT, CUPRA, Audi, Lamborghini, Bentley, Porsche and Ducati.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "CUPRA (cupra.com): site footer",
+      "date": "2026",
+      "url": "https://www.cupra.com/en/",
+      "quote": "Website operated by SEAT, S.A.U.",
+      "note": "CUPRA's own website footer states '© SEAT, S.A.U. 2026 - All rights reserved. Website operated by SEAT, S.A.U.' and carries a footer link labelled 'Part of Volkswagen Group' pointing to volkswagen-group.com.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}

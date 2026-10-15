@@ -1,0 +1,21 @@
+{
+  "id": "vmoto-asx-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vmoto-limited"
+  ],
+  "text": "Vmoto is the brand of Vmoto Limited, a company listed on the Australian Securities Exchange as VMT.",
+  "short": "Vmoto is the brand of Vmoto Limited, listed on the ASX (VMT).",
+  "source": {
+    "name": "Vmoto: Investor Centre",
+    "date": "2026",
+    "url": "https://vmoto.com/investor-centre",
+    "quote": "ASX trading ASX:VMT VMOTO",
+    "note": "Vmoto's own Investor Centre shows its ASX listing (ASX:VMT) and its corporate-governance documents; the site footer names the operator 'Vmoto Limited' ('© 2026 Vmoto Limited').",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
