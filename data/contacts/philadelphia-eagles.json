@@ -3,16 +3,16 @@
   "channels": [
     {
       "type": "contact-form",
-      "value": "https://www.philadelphiaeagles.com/footer/contact-us/",
-      "label": "Contact page / fan feedback",
+      "value": "https://forms.philadelphiaeagles.com/f/general-contact",
+      "label": "General / fan feedback form",
       "source": {
         "name": "Philadelphia Eagles (philadelphiaeagles.com) – Contact Us",
         "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
-        "date": "2026-10-01",
+        "date": "n.d.",
         "quote": "GENERAL / FAN FEEDBACK",
         "checked": {
-          "on": "2026-10-01",
-          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          "on": "2026-10-25",
+          "by": "BigBossRabbit"
         }
       }
     },
