@@ -1,0 +1,21 @@
+{
+  "id": "constell-group-galitsky-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "constell-group"
+  ],
+  "text": "Constell Group is a production holding (confectionery, paper, polymer and household-goods plants) created by Krasnodar businessman Sergei Galitsky in 2007.",
+  "short": "Constell Group is a production holding created in 2007 by Krasnodar businessman Sergei Galitsky.",
+  "source": {
+    "name": "93.ru: От туалетной бумаги до топовых вин. Что производит краснодарский бизнесмен Сергей Галицкий?",
+    "date": "2025-11-17",
+    "url": "https://93.ru/text/business/2025/11/17/76124431/",
+    "quote": "Еще в 2007-м, когда Галицкий владел «Магнитом», бизнесмен создал свой холдинг Constell Group.",
+    "note": "Translation: \"Back in 2007, when Galitsky owned Magnit, the businessman created his own holding Constell Group.\" The article adds the holding is linked to Galitsky companies LLC Plastictrade and LLC Novye Tekhnologii.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
