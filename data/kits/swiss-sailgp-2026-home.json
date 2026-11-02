@@ -12,13 +12,93 @@
       "sponsorId": "explora-journeys",
       "placement": "front",
       "source": {
-        "name": "SailGP - Switzerland SailGP Team announce Explora Journeys as Title Partner",
-        "date": "2026-04-15",
-        "url": "https://www.sailgp.com/news/26/switzerland-sailgp-team-announce-explora-journeys-title-partner/"
+        "name": "Explora Journeys press office: Explora Journeys Announces Exclusive Title Partnership With The Swiss SailGP Team",
+        "date": "2026-04",
+        "url": "https://explorajourneys.com/int/en/press-and-media/press/exclusive-title-partnership-with-the-swiss-sailgp-team",
+        "quote": "Explora Journeys confirmed it has entered into a multi-year major global sports partnership as the Title Partner of the Swiss SailGP Team.",
+        "note": "Announced at Seatrade Cruise Global, Miami; the team races as the Explora Journeys Swiss SailGP Team and the F50 and team apparel were reimagined in the brand's blue.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "oakley",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Explora Journeys Swiss SailGP Team (Official Suppliers)",
+        "date": "2026",
+        "url": "https://www.sailgp.com/teams/switzerland/",
+        "quote": "Oakley Logo White - Switzerland Tier 3",
+        "note": "SailGP team pages render via JavaScript: the partner list sits in the page's embedded data, so scripts cannot verify the quote. Open the page and check the Official Suppliers carousel, which lists Oakley, Slam, POC, Whoop and Velamont.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "slam",
+      "placement": "partner",
+      "source": {
+        "name": "SLAM Stories: On board Swiss SailGP Team (Official Technical Supplier)",
+        "date": "2026",
+        "url": "https://www.slam.com/blogs/slam-stories/slam-explora-journeys-swiss-sailgp-team-2026",
+        "quote": "SLAM makes its SailGP debut as Official Technical Supplier of the Explora Journeys Swiss SailGP Team",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "poc",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Explora Journeys Swiss SailGP Team (Official Suppliers)",
+        "date": "2026",
+        "url": "https://www.sailgp.com/teams/switzerland/",
+        "quote": "POC Logo White - Switzerland Tier 3",
+        "note": "SailGP team pages render via JavaScript: the partner list sits in the page's embedded data, so scripts cannot verify the quote. Open the page and check the Official Suppliers carousel.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "whoop",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Explora Journeys Swiss SailGP Team (Official Suppliers)",
+        "date": "2026",
+        "url": "https://www.sailgp.com/teams/switzerland/",
+        "quote": "Whoop Logo White - Switzerland Tier 3",
+        "note": "SailGP team pages render via JavaScript: the partner list sits in the page's embedded data, so scripts cannot verify the quote. Open the page and check the Official Suppliers carousel.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "velamont",
+      "placement": "partner",
+      "source": {
+        "name": "SailGP team page - Explora Journeys Swiss SailGP Team (Official Suppliers)",
+        "date": "2026",
+        "url": "https://www.sailgp.com/teams/switzerland/",
+        "quote": "Velamont Logo White - Switzerland Tier 3",
+        "note": "SailGP team pages render via JavaScript: the partner list sits in the page's embedded data, so scripts cannot verify the quote. Open the page and check the Official Suppliers carousel.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "MSC's cruise brand Explora Journeys took the Swiss title partnership in April 2026; the team now races under its name.",
+  "sponsorsComplete": true,
+  "summary": "MSC's cruise brand Explora Journeys took the Swiss title partnership in April 2026; the team now races under its name. The team page's Official Suppliers block (sailgp.com, opened 2026-10-03) lists Oakley, Slam (Official Technical Supplier), POC, Whoop and Velamont, each documented here by an announcement or the team page. The same page's 'Representing Partners' block lists Société Nautique de Genève and Team Tilt — the yacht club and sailing organisation behind the Swiss team, not shirt sponsors — so they are not recorded as sponsors.",
   "change": null
 }

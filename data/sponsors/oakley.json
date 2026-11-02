@@ -3,13 +3,13 @@
   "name": "Oakley",
   "ownerId": "essilorluxottica",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Oakley is a subsidiary of Luxottica Group; its parent EssilorLuxottica SA is listed on Euronext Paris and its largest shareholder is Delfin S.à r.l. at 32.42%. Nothing found.",
   "claimIds": [
     "oakley-ownership",
     "essilorluxottica-record"
   ],
   "aliases": [],
-  "note": "Rating note for maintainer: sport performance brand; the team's partner page states Oakley is a subsidiary of Luxottica Group. EssilorLuxottica SA is the group's parent (see the reused essilorluxottica-record claim); no state or state-fund holder found in this run."
+  "note": "Official Supplier of the Switzerland SailGP team (sailgp.com team page). Sport performance brand; EssilorLuxottica SA is the group's parent (see the reused essilorluxottica-record claim); no state or state-fund holder found in this run."
 }
