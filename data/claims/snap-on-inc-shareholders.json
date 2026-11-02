@@ -1,0 +1,20 @@
+{
+  "id": "snap-on-inc-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "snap-on-incorporated"
+  ],
+  "text": "The Snap-on sponsor entry on Honda HRC Castrol's sponsors page names Snap-on Incorporated, the NYSE-listed tool maker of Kenosha, Wisconsin, as the company behind the brand. Snap-on's 2026 proxy statement lists only two beneficial owners of more than 5% of its common stock: The Vanguard Group (12.4%) and BlackRock, Inc. (8.0%).",
+  "short": "Snap-on is Snap-on Incorporated, NYSE-listed; the only >5% holders are Vanguard (12.4%) and BlackRock (8.0%).",
+  "source": {
+    "name": "Snap-on Incorporated 2026 Proxy Statement (DEF 14A) - Security Ownership of Certain Beneficial Owners and Management",
+    "date": "2026-03-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000101/sna-20260311.htm",
+    "quote": "The Vanguard Group, Inc. (2) 6,430,977 12.4%",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

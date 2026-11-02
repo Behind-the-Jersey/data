@@ -1,0 +1,20 @@
+{
+  "id": "gs-yuasa-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "gs-yuasa-corporation"
+  ],
+  "text": "The GS Yuasa brand on the Honda HRC Castrol bike is that of GS Yuasa Corporation of Kyoto (its sponsors-page entry links to gs-yuasa.com); GS Yuasa Corporation's own corporate profile states it is listed on the Prime Market of the Tokyo Stock Exchange.",
+  "short": "GS Yuasa is GS Yuasa Corporation of Kyoto, listed on the Tokyo Stock Exchange prime market.",
+  "source": {
+    "name": "GS Yuasa Corporation - Corporate Profile",
+    "date": "2026",
+    "url": "https://www.gs-yuasa.com/en/company/profile.php",
+    "quote": "Prime Market of the Tokyo Stock Exchange",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
