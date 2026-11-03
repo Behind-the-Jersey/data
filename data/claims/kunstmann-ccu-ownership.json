@@ -1,0 +1,21 @@
+{
+  "id": "kunstmann-ccu-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ccu-sa"
+  ],
+  "text": "Cervecería Kunstmann S.A., brewer of the Kunstmann brand, is 50.0007% owned by Compañía Cervecerías Unidas (CCU S.A.), per CCU's Memoria Integrada 2025; the Kunstmann family holds the rest and Armin Kunstmann chairs the company.",
+  "short": "CCU S.A. holds 50.0007% of Cervecería Kunstmann S.A. (2025).",
+  "source": {
+    "name": "CCU S.A.: Memoria Integrada 2025 (Filiales y Coligadas: Cervecería Kunstmann S.A.)",
+    "date": "2026-04",
+    "url": "https://www.ccu.cl/wp-content/uploads/2026/04/memoria_integrada_CCU_2025.pdf",
+    "quote": "CERVECERÍA KUNSTMANN S.A. (Compañía Cervecera Kunstmann S.A., Cervecería Kunstmann, Kunstmann y CK) Naturaleza jurídica Sociedad anónima cerrada",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Same entry in the annual report (p. 203 of the PDF) gives: 'Capital suscrito y pagado M$ 1.796.995 % participación total en 2025 50,0007% (50,0007% en 2024)' and lists Armin Kunstmann Telge as chairman."
+  },
+  "reviewed": false
+}

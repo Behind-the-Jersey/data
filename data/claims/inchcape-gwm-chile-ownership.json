@@ -1,0 +1,21 @@
+{
+  "id": "inchcape-gwm-chile-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "inchcape-plc"
+  ],
+  "text": "GWM's business in Chile, which sponsors Chile Rugby, is run by Inchcape plc through Vehículos de Trabajo S.A.: the official GWM Chile website identifies itself as 'INCHCAPE AUTHORISED DISTRIBUTOR OF GREAT WALL MOTORS CHILE'.",
+  "short": "In Chile GWM is operated by Inchcape's Vehículos de Trabajo S.A.",
+  "source": {
+    "name": "GWM Chile (gwm.cl): GWM y Chile Rugby: tres años de patrocinio y vamos por más (site footer)",
+    "date": "2026-03-09",
+    "url": "https://www.gwm.cl/blog/chile-rugby-gwm/",
+    "quote": "©2025 VEHÍCULOS DE TRABAJO S.A., INCHCAPE DISTRIBUIDOR AUTORIZADO DE GREAT WALL MOTORS CHILE",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The same blog post covers GWM's renewed sponsorship of Chile Rugby. The GWM brand itself is Great Wall Motor (China); in Chile the operation is Inchcape's."
+  },
+  "reviewed": false
+}
