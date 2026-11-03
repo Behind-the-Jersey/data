@@ -1,0 +1,20 @@
+{
+  "id": "aequita-tmd-friction",
+  "kind": "ownership",
+  "ownerIds": [
+    "aequita"
+  ],
+  "text": "Brake manufacturer TMD Friction has been sold to Aequita, a Munich-based industrial group, in a sale completed in December 2023.",
+  "short": "TMD Friction was sold to Aequita in December 2023.",
+  "source": {
+    "name": "CAT (Car Aftermarket Trader): TMD Friction completes sale to German-based Aequita",
+    "date": "2023-12-11",
+    "url": "https://www.catmag.co.uk/article/tmd-friction-sold-to-german-based-aequita",
+    "quote": "World renowned brake firm TMD Friction has been sold to industrial German-based group Aequita. The now-completed sale",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
