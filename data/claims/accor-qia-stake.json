@@ -1,0 +1,34 @@
+{
+  "id": "accor-qia-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "qatar-holding-llc",
+    "qia"
+  ],
+  "text": "Qatar Holding LLC held 6.61% of Accor's share capital and 11.16% of its voting rights at 31 December 2025.",
+  "short": "Qatar Holding LLC held 6.61% of Accor at 31 December 2025.",
+  "source": {
+    "name": "Accor: 2025 Universal Registration Document, breakdown of capital ownership (AMF)",
+    "date": "2026-03-27",
+    "url": "https://assets.group.accor.com/yrj0orc8tx24/dwdklcBVai21ztMLgb3A5/9c5cee572414b86f8e59daecb0d80bdc/ACCOR_DEU2025_US_PDF_UA.pdf",
+    "quote": "Qatar Holding LLC 15,505,060 6.61% 30,660,120 11.16%",
+    "note": "The PDF is 19 MB, so scripts/check_sources.py reads only its first 8 MB and cannot extract the quote; opened by hand on 2026-10-02.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "La Revue des Hôtels: Parvus, Accor’s Leading Shareholder: What Strategy Lies Ahead?",
+      "date": "2026-06-02",
+      "url": "https://larevuedeshotels.com/en/parvus-accor-strategy",
+      "quote": "now surpasses the main historical shareholders represented on the board of directors: Kingdom Holding Company (~7%), Qatar Investment Authority (~6.7%), and BlackRock (~5.6%)",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}

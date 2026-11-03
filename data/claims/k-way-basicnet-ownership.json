@@ -1,0 +1,20 @@
+{
+  "id": "k-way-basicnet-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "basicnet"
+  ],
+  "text": "K-Way is a French premium outerwear brand of BasicNet SpA, a company led by the Boglione family; in October 2024 Permira entered into an agreement to acquire a significant minority stake in K-Way from BasicNet.",
+  "short": "K-Way is a BasicNet S.p.A. brand.",
+  "source": {
+    "name": "Permira: Permira Announces Strategic Investment in K-Way",
+    "date": "2024-10-25",
+    "url": "https://www.permira.com/news-and-insights/announcements/permira-announces-strategic-investment-in-k-way",
+    "quote": "acquire a significant minority stake in K-Way, the renowned French premium outerwear brand, from BasicNet SpA, led by the Boglione family.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
