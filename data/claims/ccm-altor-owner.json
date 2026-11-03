@@ -1,0 +1,32 @@
+{
+  "id": "ccm-altor-owner",
+  "kind": "ownership",
+  "ownerIds": [
+    "altor-equity-partners"
+  ],
+  "text": "CCM Hockey is majority-owned by Swedish private equity firm Altor Equity Partners, which bought a majority stake from Birch Hill Equity Partners in a deal announced in October 2024 and completed around the turn of 2024-25, with Northleaf Capital Partners as co-investor.",
+  "short": "CCM Hockey majority-owned by Altor Equity Partners",
+  "source": {
+    "name": "Sportico: Nordic Private Equity Firm Buys CCM Hockey Majority Stake",
+    "date": "2024-10-02",
+    "url": "https://www.sportico.com/business/commerce/2024/nordic-private-equity-firm-buys-majority-stake-ccm-hockey-1234799502/",
+    "quote": "Altor is taking a majority stake in CCM Hockey, the skates, equipment and accessories manufacturer that has outfitted players for over a century.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Northleaf Capital Partners: Northleaf Completes Investment in CCM Hockey Alongside Altor Equity Partners",
+      "date": "2025-01-09",
+      "url": "https://www.northleafcapital.com/news/northleaf-completes-investment-ccm-hockey-alongside-altor-equity-partners",
+      "quote": "Northleaf partnered with Altor Equity Partners (\"Altor\"), a leading European middle-market private equity firm, to acquire the business.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
