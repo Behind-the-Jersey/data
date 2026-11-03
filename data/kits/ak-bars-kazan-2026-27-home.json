@@ -7,8 +7,99 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "tatneft",
+      "placement": "front",
+      "source": {
+        "name": "Sports.ru, «КХЛ.Маркетинг» (KHL press-office blog): Форма и логотипы всех клубов КХЛ: что изменилось в новом сезоне? — Ак Барс section",
+        "date": "2026-09-13",
+        "url": "https://www.sports.ru/hockey/blogs/3467674.html",
+        "quote": "Форма «Ак Барса» также не претерпела изменений. Зеленый домашний и бело-зеленый выездной комплекты с гербом Татарстана на груди.",
+        "note": "Russian: 'Ak Bars's kit is unchanged. Green home and white-green away sets with the coat of arms of Tatarstan on the chest.' The section's official KHL 2026/27 render (photo credit: KHL) shows the TATNEFT wordmark across the lower front of the home jersey. The article warns that sponsor logos on the renders can differ from the final kit. The club site's live sponsor data (api.ak-bars.ru/portal/settings) lists tatneft.ru as type 'general_sponsor'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "winline",
+      "placement": "sleeve",
+      "source": {
+        "name": "Sports.ru, «КХЛ.Маркетинг» (KHL press-office blog): Форма и логотипы всех клубов КХЛ: что изменилось в новом сезоне? — Ак Барс section",
+        "date": "2026-09-13",
+        "url": "https://www.sports.ru/hockey/blogs/3467674.html",
+        "quote": "Форма «Ак Барса» также не претерпела изменений. Зеленый домашний и бело-зеленый выездной комплекты с гербом Татарстана на груди.",
+        "note": "The section's official KHL 2026/27 render shows the WINLINE wordmark on the right sleeve and WIN-line badges on the shorts. The article warns that sponsor logos on the renders can differ from the final kit.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "winline",
+      "placement": "shorts",
+      "source": {
+        "name": "Sports.ru, «КХЛ.Маркетинг» (KHL press-office blog): Форма и логотипы всех клубов КХЛ: что изменилось в новом сезоне? — Ак Барс section",
+        "date": "2026-09-13",
+        "url": "https://www.sports.ru/hockey/blogs/3467674.html",
+        "quote": "Форма «Ак Барса» также не претерпела изменений. Зеленый домашний и бело-зеленый выездной комплекты с гербом Татарстана на груди.",
+        "note": "The section's official KHL 2026/27 render shows WIN-line badges on both legs of the shorts (and the Winline wordmark on the sleeve). The article warns that sponsor logos on the renders can differ from the final kit.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "tatneft-azs-center",
+      "placement": "partner",
+      "source": {
+        "name": "HC Ak Bars official site: live sponsor data (api.ak-bars.ru/portal/settings)",
+        "date": "2026-10-03",
+        "url": "https://api.ak-bars.ru/portal/settings?club_id=2",
+        "quote": "\"type\":\"official_sponsor\",\"link\":\"https://azs.tatneft.ru/\"",
+        "note": "JSON driving the club site's 'Спонсоры и партнеры ХК «Ак Барс» сезона 2026/27' strip: azs.tatneft.ru (Tatneft filling stations) is flagged 'official_sponsor'. No jersey placement sourced.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "taneco",
+      "placement": "partner",
+      "source": {
+        "name": "HC Ak Bars official site: live sponsor data (api.ak-bars.ru/portal/settings)",
+        "date": "2026-10-03",
+        "url": "https://api.ak-bars.ru/portal/settings?club_id=2",
+        "quote": "\"type\":\"official_sponsor\",\"link\":\"http://taneco.tatneft.ru/\"",
+        "note": "JSON driving the club site's 2026/27 sponsors strip: taneco.tatneft.ru (AO TANECO) is flagged 'official_sponsor'. No jersey placement sourced.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "olimpbet",
+      "placement": "partner",
+      "source": {
+        "name": "HC Ak Bars official site: live sponsor data (api.ak-bars.ru/portal/settings)",
+        "date": "2026-10-03",
+        "url": "https://api.ak-bars.ru/portal/settings?club_id=2",
+        "quote": "\"type\":\"\",\"link\":\"https://www.olimp.bet/\"",
+        "note": "JSON driving the club site's sponsor/partner strip for 2026/27 lists olimp.bet among partners (the same array also links to the VHL and the Russian hockey federation). No jersey placement sourced.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+  "summary": "2026-27 home kit. TATNEFT on the front and WINLINE on the sleeve and shorts, per the KHL's official 2026/27 kit render in the league's marketing blog (13 Sep 2026; the article warns rendered sponsor logos may differ from the final kit). The club site's own sponsor data names Tatneft as general sponsor and Tatneft AZS Center and TANECO as official sponsors, with Olimp.bet among partners; none of these are tied to a readable jersey placement. The back, shoulder patches and helmet are not verified, so the list is not complete.",
   "change": null
 }
