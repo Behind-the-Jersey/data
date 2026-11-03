@@ -1,0 +1,33 @@
+{
+  "id": "azores-airlines-sata-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "sata-group"
+  ],
+  "text": "Azores Airlines is an airline of the SATA group: the European Commission lists it among the group's operating subsidiaries controlled by the group's holding company, and the group's own site runs the sale of 'SATA Internacional – Azores Airlines' under SATA Holding.",
+  "short": "Azores Airlines is an operating subsidiary of the SATA group (SATA Holding)",
+  "source": {
+    "name": "European Commission press release: State aid: Commission approves €453.25 million Portuguese restructuring aid in favour of SATA Group (IP/22/3525)",
+    "date": "2022-06-07",
+    "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_3525/IP_22_3525_EN.pdf",
+    "quote": "with a holding company replacing SATA Air Açores in controlling its operating subsidiaries (SATA Air Açores, Azores Airlines and SGA)",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Azores Airlines: SATA Holding recebe oito manifestações de interesse",
+      "date": "2026-09",
+      "url": "https://www.azoresairlines.pt/pt-pt/node/1983",
+      "note": "Page without a date; opened 2026-10-03. English: 'SATA Holding has received eight expressions of interest for the privatisation of SATA Internacional – Azores Airlines.'",
+      "quote": "A SATA Holding recebeu oito manifestações de interesse para o processo de privatização da SATA Internacional – Azores Airlines",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
