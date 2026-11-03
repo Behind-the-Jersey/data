@@ -1,0 +1,22 @@
+{
+  "id": "haas-play-n-go",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "play-n-go",
+  "placement": "partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "TGR Haas F1 Team – Partners: Play'n GO",
+    "date": "2026",
+    "url": "https://www.haasf1team.com/partners/playn-go",
+    "quote": "Now in year three, the partnership has evolved into a fully integrated collaboration, brought to life through race weekends, live experiences, and global activations.",
+    "note": "Page undated; checked 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "'Now in year three' (2026) implies a 2024 start; the page gives no start date, so from is left null."
+}
