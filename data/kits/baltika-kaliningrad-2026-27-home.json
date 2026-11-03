@@ -12,14 +12,79 @@
       "sponsorId": "rostec",
       "placement": "front",
       "source": {
-        "name": "FC Baltika – official site",
-        "date": "2026-09-25",
-        "url": "https://www.fc-baltika.ru/",
-        "note": "Ростех logo linked under Генеральный спонсор ФК Балтика."
+        "name": "FC Baltika official Telegram: ФОРМА 2026/2027 (kit launch post with 10 photos)",
+        "date": "2026-07-18",
+        "url": "https://t.me/s/fc_baltika/35096",
+        "quote": "Сегодня мы представили домашний и выездной комплекты, а также вратарскую форму.",
+        "note": "Launch of the 2026-27 kits; photos in this post show РОСТЕХ centre-front on the home shirt. The club site (fc-baltika.ru, opened 2026-10-03) lists Rostec as 'Генеральный спонсор ФК Балтика'.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "sogaz",
+      "placement": "front",
+      "source": {
+        "name": "FC Baltika official Telegram: ФОРМА 2026/2027 (kit launch post with 10 photos)",
+        "date": "2026-07-18",
+        "url": "https://t.me/s/fc_baltika/35096",
+        "quote": "Сегодня мы представили домашний и выездной комплекты, а также вратарскую форму.",
+        "note": "Small 'Согаз' logo on the chest of the shirt in the launch photos (also visible in the club's own match galleries: alfa-bank-rpl-26-27-2-tur and 4-tur on fc-baltika.ru).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "red-wings",
+      "placement": "front",
+      "source": {
+        "name": "FC Baltika official Telegram: ФОРМА 2026/2027 (kit launch post with 10 photos)",
+        "date": "2026-07-18",
+        "url": "https://t.me/s/fc_baltika/35096",
+        "quote": "Сегодня мы представили домашний и выездной комплекты, а также вратарскую форму.",
+        "note": "'RED WINGS airlines' logo on the chest of the shirt in the launch photos (also visible in the club's own match galleries: alfa-bank-rpl-26-27-2-tur and 4-tur on fc-baltika.ru).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "novikom",
+      "placement": "back",
+      "source": {
+        "name": "FC Baltika official Telegram: ФОРМА 2026/2027 (kit launch post with 10 photos)",
+        "date": "2026-07-18",
+        "url": "https://t.me/s/fc_baltika/35096",
+        "quote": "Сегодня мы представили домашний и выездной комплекты, а также вратарскую форму.",
+        "note": "'НОВИКОМ' above the player name/number on the back in the launch photos (also in match photos in the club's alfa-bank-rpl-26-27-2-tur gallery on fc-baltika.ru).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "rbpi-group",
+      "placement": "back",
+      "source": {
+        "name": "FC Baltika photo gallery: Альфа-Банк РПЛ 26/27 - 2 тур (home match Baltika 2-1 Dinamo Moscow)",
+        "date": "2026-08-01",
+        "url": "https://www.fc-baltika.ru/gallery/alfa-bank-rpl-26-27-2-tur/",
+        "quote": "Альфа-Банк РПЛ 26/27 - 2 тур",
+        "note": "Photos in this club gallery show 'rbpi group' printed under the number on the back of the shirt.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Rostec general sponsor per the club site; shirt placement not confirmed against a kit launch.",
+  "sponsorsComplete": true,
+  "summary": "2026-27 kit (Jako, presented 18 July 2026): Rostec centre-front, СОГАЗ and Red Wings on the chest, Новиком above the number and RBPI Group below it on the back. Sleeves carry only the Alfa-Bank RPL league patch; shorts carry only the Jako logo. Checked against the club's kit-launch post on Telegram and its own match photo galleries (2nd and 4th RPL tours).",
   "change": null
 }

@@ -5,10 +5,14 @@
   "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": "State corporation (Rostec) behind Baltika Kaliningrad's front-of-shirt sponsorship; not yet rated.",
-  "claimIds": [],
+  "verdict": "Russian state corporation; general sponsor of FC Baltika, main logo on the front of the 2026-27 shirt.",
+  "claimIds": [
+    "rostec-russian-federation",
+    "russian-federation-record"
+  ],
   "aliases": [
     "Ростех",
     "Rostec State Corporation"
-  ]
+  ],
+  "note": "Rating note: Rostec is a state corporation created by the Russian Federation (rostec.ru; EU Regulation 2022/581 calls it a state-owned defence conglomerate), and the Russian Federation is at war with Ukraine (russian-federation-record). Propose severe, mirroring the existing Gazprom and Aeroflot ratings (state directly tied to ongoing severe abuses controls/pays for the sponsor)."
 }

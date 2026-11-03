@@ -1,14 +1,18 @@
 {
   "id": "sogaz",
   "name": "SOGAZ",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "sogaz",
+  "ownership": "part-owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "verdict": "Nobody controls SOGAZ; state-controlled VTB holds 10% and a board seat (2018 merger). On the chest of FC Baltika's shirt in 2026-27.",
+  "claimIds": [
+    "sogaz-shareholders-2020",
+    "vtb-state-control",
+    "russian-federation-record"
+  ],
   "aliases": [
     "СОГАЗ"
   ],
-  "note": "League general partner and official insurer. Lead (unchecked against a primary document): insurance group founded by Gazprom; reported EU/UK (2022) and US (2024) sanctions."
+  "note": "Rating note: per SOGAZ's January 2020 shareholder disclosure (as relayed by The Bell and Forbes), the largest shareholder is the Kovalchuk family (32.3% via Aquilla); state-controlled VTB took 10% plus a board seat in the 2018 merger, and Gazprom-group entities held 21.19%. The disclosure is stale (January 2020) — a more recent structure was not found in open sources. Propose concern (a state with a documented record holds 5%+ and a board seat through VTB, without control); a maintainer may prefer to hold it unrated given the age of the disclosure. No company-level human-rights finding found. League-partner deal for KHL kept in data/deals/khl-sogaz.json."
 }

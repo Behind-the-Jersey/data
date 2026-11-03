@@ -1,0 +1,22 @@
+{
+  "id": "rbpi-group-psp-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "rbpi-group",
+    "pravdinskoe-svino-proizvodstvo"
+  ],
+  "text": "RBPI Group's management company (OOO «УК РБПИ ГРУПП», Kaliningrad) is 100% owned by AO «Правдинское свино производство» (AO PSP), an agro-industrial holding.",
+  "short": "RBPI Group is 100% owned by AO PSP (Pravdinskoe Svino Proizvodstvo).",
+  "source": {
+    "name": "Checko (checko.ru, EGRUL extract): ООО «УК РБПИ ГРУПП»",
+    "date": "2026-10-03",
+    "url": "https://checko.ru/company/uk-rbpi-grupp-1153926014109",
+    "quote": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРАВДИНСКОЕ СВИНО ПРОИЗВОДСТВО\" ОГРН 1063917004271 с 30 апреля 2015 г. 173,1 млн руб. 100%",
+    "note": "Translation: sole founder/shareholder of UK RBPI GRUPP is JSC Pravdinskoe Svino Proizvodstvo with a 100% stake. EGRUL (Federal Tax Service register) data as displayed by checko.ru.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
