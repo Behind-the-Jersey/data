@@ -1,0 +1,21 @@
+{
+  "id": "polyplast-owners",
+  "kind": "ownership",
+  "ownerIds": [
+    "polyplast"
+  ],
+  "text": "Polyplast JSC's audited 2025 IFRS consolidated financial statements name its shareholders as two individuals: Ilsur Shamsutdinov (80% of the shares, the ultimate controlling party and beneficial owner) and Alexander Kovalyov (20%).",
+  "short": "Polyplast is 80% owned by Ilsur Shamsutdinov and 20% by Alexander Kovalyov.",
+  "source": {
+    "name": "Interfax-CRKI disclosure portal (e-disclosure.ru): АО «Полипласт», consolidated IFRS financial statements for 2025, with auditor's report",
+    "date": "2026-04-30",
+    "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1924789",
+    "quote": "акционерами Компании являются: − Шамсутдинов Ильсур Зинурович (владеет 80% акций, конечная контролирующая сторона, бенефициарный владелец); − Ковалев Александр Федорович (владеет 20% акций)",
+    "note": "The link downloads a ZIP containing 'МСФО Группа Полипласт 2025.pdf'; the shareholder list is in note 1 ('Общие сведения'), page 14. Translation: 'the Company's shareholders are: Ilsur Shamsutdinov (holds 80% of the shares, ultimate controlling party, beneficial owner); Alexander Kovalyov (holds 20% of the shares)'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

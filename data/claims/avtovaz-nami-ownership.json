@@ -1,0 +1,34 @@
+{
+  "id": "avtovaz-nami-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nami",
+    "russian-federation"
+  ],
+  "text": "AvtoVAZ is wholly state-owned through FSUE NAMI: in May 2023 Rostec State Corporation withdrew from AvtoVAZ's shareholders, transferring its 32.3% share in Lada Auto Holding (the joint venture controlling AvtoVAZ) to FSUE NAMI, a federal state unitary enterprise subordinate to Russia's Ministry of Industry and Trade, which thereby became the 100% owner.",
+  "short": "FSUE NAMI, a state institute under the Ministry of Industry and Trade, is the 100% owner of AvtoVAZ.",
+  "source": {
+    "name": "NAPI (National Industrial Information Agency): NAMI received a share in AVTOVAZ from Rostec",
+    "date": "2023-05-17",
+    "url": "https://en.napinfo.ru/news/nami-received-a-share-in-avtovaz-from-rostec/",
+    "quote": "Now the 100% owner of the company controlling AVTOVAZ is FSUE NAMI.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AUTOSTAT analytic agency: Rostec transferred its shares in AVTOVAZ to FSUE NAMI",
+      "date": "2023-05-12",
+      "url": "https://eng.autostat.ru/news/23100/",
+      "quote": "Thus, now FSUE \"NAMI\" has become a 100% owner of AVTOVAZ.",
+      "note": "The same article states FSUE NAMI is 'subordinated to the Ministry of Industry and Trade'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
