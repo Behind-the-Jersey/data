@@ -5,18 +5,28 @@
       "type": "email",
       "value": "fans@okcthunder.com",
       "source": {
-        "name": "Club website contact page",
+        "name": "Oklahoma City Thunder (nba.com): Contact Us",
         "url": "https://www.nba.com/thunder/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "E-mail: fans@okcthunder.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "phone",
       "value": "+14052084800",
       "source": {
-        "name": "Club website contact page",
+        "name": "Oklahoma City Thunder (nba.com): Contact Us",
         "url": "https://www.nba.com/thunder/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "Phone: (405) 208-4800",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,11 +34,16 @@
       "value": "https://www.nba.com/thunder/contact",
       "label": "Contact page",
       "source": {
-        "name": "Club website contact page",
+        "name": "Oklahoma City Thunder (nba.com): Contact Us",
         "url": "https://www.nba.com/thunder/contact",
-        "date": "2026-09-24"
+        "date": "2026-09-24",
+        "quote": "E-mail: fans@okcthunder.com",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-01"
 }
