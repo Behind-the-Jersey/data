@@ -1,0 +1,32 @@
+{
+  "id": "letsgo-jayco-acquisition-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "jayco-corporation"
+  ],
+  "text": "Jayco acquired the motorhome rental company Around Australia Motorhomes and rebranded it as Let's Go Motorhomes, a 2017 press release announced; Let's Go Motorhomes' own site still says it is proudly backed by Jayco, Australia's largest manufacturer of recreational vehicles.",
+  "source": {
+    "name": "24-7PressRelease: Australian Recreational Vehicle Leader Jayco Announces Expansion Into RV Rental Market With Newly Acquired Let's Go Motorhomes",
+    "date": "2017-01-18",
+    "url": "https://www.24-7pressrelease.com/press-release/433376/australian-recreational-vehicle-leader-jayco-announces-expansion-into-rv-rental-market-with-newly-acquired-lets-go-motorhomes",
+    "quote": "they recently acquired Around Australia Motorhomes, who have a reputation as Australia's premium motorhome rental service. Jayco has rebranded Australia Motorhomes as Let's Go Motorhomes",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-scout (review agent)"
+    },
+    "note": "Press release distributed by Let's Go Motorhomes (its own contact details at the foot). The release spells the acquired company both 'Around Australia Motorhomes' and 'Australia Motorhomes'."
+  },
+  "additionalSources": [
+    {
+      "name": "Let's Go Motorhomes: About Us",
+      "date": "2026",
+      "url": "https://www.letsgomotorhomes.com.au/about-us/",
+      "quote": "We are proudly backed by Jayco, Australia’s largest manufacturer of recreational vehicles, giving us access to their extensive dealer network",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
