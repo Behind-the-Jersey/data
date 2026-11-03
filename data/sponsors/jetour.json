@@ -1,11 +1,14 @@
 {
   "id": "jetour",
   "name": "Jetour",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "chery-automobile",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": []
+  "claimIds": [
+    "chery-state-shareholders"
+  ],
+  "aliases": [],
+  "note": "Shorts sponsor of Al Ain's 2026/27 home kit ('JETOUR - Drive Your Future' on the right leg of the club shop's 26/27 home shorts product photos; also front sponsor of Al Shabab's 2026/27 home kit). Jetour is a marque of Chery Automobile (owner record note). Chery's HKEX prospectus (claim chery-state-shareholders) shows Wuhu Investment Holding at 20.08% at listing (itself 95.59% Wuhu SASAC, about 19.2% effective state share), plus Anhui Credit Guaranty 9.46% and Anhui Investment Holding 4.93%, and states the company is not a state-owned, state-controlled or state-actually-controlled enterprise. China's record is on file (china-xinjiang-un-assessment). Concern tier proposed in the PR for issue #521 (state fund over 5% without control)."
 }
