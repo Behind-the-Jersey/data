@@ -1,0 +1,19 @@
+{
+  "id": "airasia-aav-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "asia-aviation"
+  ],
+  "text": "Thai AirAsia Company Limited's only shareholder is Asia Aviation Public Company Limited.",
+  "source": {
+    "name": "Asia Aviation PCL: Company Overview",
+    "date": "",
+    "url": "https://www.aavplc.com/en/about/company-overview",
+    "quote": "Currently, Thai AirAsia Company Limited has only one shareholder, Asia Aviation Public Company Limited.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
