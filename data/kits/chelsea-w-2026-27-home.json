@@ -12,34 +12,62 @@
       "sponsorId": "circle-usdc",
       "placement": "front",
       "source": {
-        "name": "Chelsea FC, Circle partner page",
-        "date": "2026-09-25",
-        "url": "https://www.chelseafc.com/en/circle",
-        "note": "Circle Internet Group is a Principal Partner and official front-of-shirt partner beginning with the 2026/27 season; in 2026/27 the Circle and USDC brands appear on the front of Chelsea's Men's, Women's and Academy shirts."
+        "name": "Circle Pressroom: 'Chelsea FC and Circle Bring USDC Brand to the Global Game'",
+        "date": "2026-08-28",
+        "url": "https://www.circle.com/pressroom/chelsea-fc-and-circle-bring-usdc-brand-to-the-global-game",
+        "quote": "In the 2026/27 season, Circle and USDC brands will appear on the front of Chelsea's Men's, Women's and Academy shirts",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "skoda",
       "placement": "back",
       "source": {
-        "name": "Chelsea FC, Škoda partner page",
-        "date": "2026-09-25",
-        "url": "https://www.chelseafc.com/en/skoda",
-        "note": "Chelsea FC Women first teamed up with Škoda UK at the start of 2024 as Official Car Partner; the May 2025 extension established Škoda as Chelsea Women's first Official Back of Shirt Partner."
+        "name": "Škoda UK: 'First-ever Back of Shirt Partner of Chelsea Women'",
+        "date": "2025-05-08",
+        "url": "https://www.skoda.co.uk/news/details/first-ever-back-of-shirt-partner-of-chelsea-women",
+        "quote": "will see the back of shirt branding launch at the final game of the 2024/25 season and continue to feature on all match kit for the 2025/26 season and beyond",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "here-we-flo",
       "placement": "shorts",
       "source": {
-        "name": "Chelsea FC, Here We Flo partner page",
-        "date": "2026-09-25",
-        "url": "https://www.chelseafc.com/en/partner-page-flo",
-        "note": "Here We Flo is Chelsea FC Women's Official Back of Short partner."
+        "name": "Here We Flo: 'Flo is the Official Partner of Chelsea FC Women' (partner page)",
+        "date": "2025",
+        "url": "https://www.hereweflo.co/pages/chelsea-fc-women-x-here-we-flo",
+        "note": "Page live as of 2026-10-03 and still describes the partnership in the present tense.",
+        "quote": "The Flo logo will be on the back of shorts for all Chelsea FC Women.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "nike",
+      "placement": "partner",
+      "source": {
+        "name": "Footy Headlines: 'Chelsea 26-27 Home Kit Released'",
+        "date": "2026-06-02",
+        "url": "https://www.footyheadlines.com/2025/07/nike-chelsea-26-27-home-kit.html",
+        "note": "Club 2026/27 home kit is made by Nike and worn by Chelsea Women as well as the men's team (Circle's launch image shows both players in the same shirt). No sleeve sponsor on the women's home shirt (launch imagery; the men's team still has none).",
+        "quote": "The Nike Chelsea FC 26-27 home jersey combines Bright Blue with Midwest Gold",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Circle's USDC stablecoin takes the front of the Chelsea Women shirt, with Škoda on the back and Here We Flo on the shorts.",
+  "sponsorsComplete": true,
+  "summary": "Circle's USDC stablecoin takes the front of the Chelsea Women shirt, with Škoda on the back and Here We Flo on the shorts; no sleeve sponsor, and Nike makes the kit.",
   "change": null
 }
