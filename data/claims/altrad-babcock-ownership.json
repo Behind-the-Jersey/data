@@ -1,0 +1,35 @@
+{
+  "id": "altrad-babcock-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "altrad-babcock",
+    "altrad-group"
+  ],
+  "text": "Altrad completed its acquisition of Doosan Babcock Limited on 25 September 2022; to reflect the new ownership structure the UK engineering company was renamed Altrad Babcock Limited, making it part of the Altrad group.",
+  "short": "Altrad Babcock is part of the Altrad group",
+  "source": {
+    "name": "Altrad: 'Altrad completes the acquisition of Doosan Babcock Limited'",
+    "date": "2022-09-26",
+    "url": "https://www.altrad.com/en/newsreader/altrad-completes-the-acquisition-of-doosan-babcock-limited.html",
+    "quote": "To reflect the new ownership structure, the business will now be renamed Altrad Babcock Limited",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Same announcement: 'Altrad are delighted to announce it reached financial close on its agreement to acquire Doosan Babcock Limited on Sunday 25th September 2022.'"
+  },
+  "additionalSources": [
+    {
+      "name": "ScaffMag: 'Altrad completes acquisition of Doosan Babcock'",
+      "date": "2022-09-26",
+      "url": "https://scaffmag.com/scaffolding-news/altrad-completes-acquisition-of-doosan-babcock/",
+      "quote": "Altrad has added 4,000 new staff after signing its financial agreement to acquire Doosan Babcock Limited.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same article: 'Doosan Babcock which will now be renamed Altrad Babcock Limited is a specialist in delivering engineering, aftermarket and upgrade services to the nuclear, thermal, oil and gas, petrochemical and process sectors.'"
+    }
+  ],
+  "reviewed": false
+}
