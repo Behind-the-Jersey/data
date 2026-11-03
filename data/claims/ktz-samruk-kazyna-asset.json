@@ -1,0 +1,35 @@
+{
+  "id": "ktz-samruk-kazyna-asset",
+  "kind": "ownership",
+  "ownerIds": [
+    "kazakhstan-temir-zholy",
+    "samruk-kazyna"
+  ],
+  "text": "National railway Kazakhstan Temir Zholy (KTZ) is an asset of the Samruk-Kazyna sovereign wealth fund, which has been considering a partial stock-exchange listing of KTZ shares.",
+  "short": "KTZ is a Samruk-Kazyna asset; a partial IPO is under consideration.",
+  "source": {
+    "name": "Exclusive.kz — Фонд «Самрук-Қазына» рассматривает продажу акций Казахтелекома, КТЖ и QazaqGaz",
+    "date": "2025-07-04",
+    "url": "https://exclusive.kz/fond-samruk-azyna-rassmatrivaet-prodazhu-akcij-kazahtelekoma-ktzh-i-qazaqgaz/",
+    "quote": "АО «ФНБ «Самрук-Қазына» в ближайшие годы может вывести на IPO или SPO акции крупнейших национальных компаний",
+    "note": "Translation: 'Samruk-Kazyna NWF may in the coming years float (IPO or SPO) shares of the largest national companies — Kazakhtelecom, Kazakhstan temir zholy and QazaqGaz.' Reports a Prime Minister's reply to parliament.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Pravda.ru — КТЖ планирует разместить до 20% акций на биржах LSE, HKEX и AIX",
+      "date": "2026-09-12",
+      "url": "https://www.pravda.ru/news/kazakhstan/2406309-kazakhstan-temir-zholy-ipo/",
+      "quote": "Нацхолдинг \"Самрук-Казына\" планирует вывести на биржу компанию \"Казахстан темир жолы\" (КТЖ).",
+      "note": "Translation: 'National holding Samruk-Kazyna plans to list the Kazakhstan Temir Zholy (KTZ) company on stock exchanges.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
