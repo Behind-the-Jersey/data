@@ -1,0 +1,21 @@
+{
+  "id": "north-sails-ntg-oakley-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "north-technology-group",
+    "oakley-capital"
+  ],
+  "text": "North Sails is the sailmaking business of North Technology Group LLC, a portfolio company of Oakley Capital.",
+  "short": "North Sails belongs to North Technology Group, a portfolio company of Oakley Capital.",
+  "source": {
+    "name": "Baird: North Sails Refinances Debt (deal card)",
+    "date": "2023-11",
+    "url": "https://www.rwbaird.com/transactions/investment-banking/dealcard/6264",
+    "quote": "North Technology Group LLC (parent company of \"North Sails\" or the \"Company\"), a portfolio company of Oakley Capital",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

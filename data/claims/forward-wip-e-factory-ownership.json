@@ -1,0 +1,20 @@
+{
+  "id": "forward-wip-e-factory-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "e-factory-sarl"
+  ],
+  "text": "Forward WIP is one of the Forward Group websites published by the French company E-FACTORY SARL.",
+  "short": "Forward WIP is published by E-FACTORY SARL.",
+  "source": {
+    "name": "Forward WIP: Legal (privacy charter)",
+    "date": "2026",
+    "url": "https://www.forward-wip.com/legal",
+    "quote": "the websites Forward Sailing, Spinnaker One, and Forward WIP under the entity E-FACTORY SARL",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

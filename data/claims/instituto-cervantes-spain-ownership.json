@@ -1,0 +1,32 @@
+{
+  "id": "instituto-cervantes-spain-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-spain"
+  ],
+  "text": "Instituto Cervantes is a Spanish public-law entity created by the Government of Spain in March 1991 and attached to the foreign ministry.",
+  "short": "Instituto Cervantes is a public entity created by the Spanish government.",
+  "source": {
+    "name": "Instituto Cervantes: El Instituto Cervantes",
+    "date": "2026",
+    "url": "https://www.cervantes.es/sobre_instituto_cervantes/informacion.htm",
+    "quote": "El Instituto Cervantes fue creado por el Gobierno español en marzo de 1991",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Boletin Oficial del Estado: Ley 7/1991, de 21 de marzo, por la que se crea el Instituto Cervantes",
+      "date": "1991-03-22",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-7354",
+      "quote": "El Instituto Cervantes es una entidad pública sin ánimo de lucro, con personalidad jurídica propia",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

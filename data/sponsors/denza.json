@@ -1,14 +1,26 @@
 {
   "id": "denza",
   "name": "DENZA",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "byd",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Wholly owned by Chinese carmaker BYD, whose Camaçari factory site was added to Brazil's slavery-like-conditions registry in 2026.",
+  "claimIds": [
+    "denza-byd-ownership",
+    "byd-brazil-forced-labour"
+  ],
   "aliases": [
     "Denza"
   ],
-  "note": "Premium electric vehicle brand, official sponsor and electrified mobility partner of Los Gallos for the 2026 and 2027 seasons; originally formed 2010 as a joint venture with Mercedes-Benz (SailGP press release, 9 Feb 2026). BYD ownership chain not verified."
+  "note": "Premium electric-vehicle brand of BYD, wholly owned by BYD since Mercedes-Benz sold its remaining 10% stake in September 2024. Official sponsor and electrified-mobility partner of Los Gallos for 2026 and 2027 (SailGP press release, 9 Feb 2026). Rating note: propose 'concern'. The link: DENZA is wholly owned by BYD (denza-byd-ownership). The record: Brazil's Labour Ministry added BYD to its slavery-like-conditions registry in April 2026 after 163 workers were rescued at its Camaçari construction site (byd-brazil-forced-labour), a regulator's finding of forced labour, within the last 20 years. Denza is a brand of the company with the record, so the company test gives concern. A maintainer sets the tier.",
+  "why": {
+    "text": "DENZA is wholly owned by Chinese carmaker BYD, after Mercedes-Benz sold its remaining 10% stake in 2024. In April 2026, Brazil's Labour Ministry added BYD to its registry of employers that subjected workers to conditions analogous to slavery, after 163 workers were rescued from slave-like labour at its Camaçari factory site.",
+    "claimIds": [
+      "byd-brazil-forced-labour",
+      "denza-byd-ownership"
+    ],
+    "messageLine": "In 2026, Brazil put BYD on its registry of employers linked to slavery-like conditions over its Camaçari factory site.",
+    "status": "draft"
+  }
 }
