@@ -1,15 +1,17 @@
 {
   "id": "madeira-tao-tua",
-  "name": "Madeira. Tao tua",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "name": "Madeira. Tão tua!",
+  "ownerId": "governo-regional-da-madeira",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "'Madeira. Tão tua!' is the Madeira destination brand presented by the Associação de Promoção da Madeira (APM), per the Regional Government's tourism secretariat. Nothing found.",
+  "claimIds": [
+    "madeira-tao-tua-apm-ownership"
+  ],
   "aliases": [
     "madeira tao tua",
     "madeira promotion bureau"
   ],
-  "note": "'Madeira. Tua' destination-marketing slogan of the Madeira island authorities; appears as front-of-shirt sponsor at Maritimo and back at Nacional in 2026-27. The branding body (Madeira Promotion Bureau / regional government) not yet verified from a primary source."
+  "note": "'Madeira. Tão tua!' destination-marketing brand of the Madeira island authorities, presented by the Associação de Promoção da Madeira (APM) per the Regional Government's tourism secretariat (claim madeira-tao-tua-apm-ownership). Front of shirt at Maritimo and lower back at Nacional in 2026-27. Rating note (2026-10-03): public owner (regional government of Madeira, Portugal); Portugal has no sourced record of serious abuses of the kind METHOD.md's ratings rest on, so nothing passes the test."
 }
