@@ -1,0 +1,21 @@
+{
+  "id": "zoho-vembu-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "vembu-family"
+  ],
+  "text": "Zoho is privately held; founder Sridhar Vembu and his two siblings own a majority stake.",
+  "short": "Zoho is privately held, majority-owned by the Vembu siblings.",
+  "source": {
+    "name": "Forbes – Sridhar Vembu & siblings (billionaires profile)",
+    "date": "2026-09-30",
+    "url": "https://www.forbes.com/profile/sridhar-vembu-siblings",
+    "quote": "Vembu and his two siblings own a majority stake in Zoho.",
+    "note": "Profile page states 'Last Updated Sep 30, 2026' and calls Zoho 'privately held'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

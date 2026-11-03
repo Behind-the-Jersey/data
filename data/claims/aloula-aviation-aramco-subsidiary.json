@@ -1,0 +1,34 @@
+{
+  "id": "aloula-aviation-aramco-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "aloula-aviation",
+    "saudi-aramco"
+  ],
+  "text": "Aloula Aviation is a wholly owned subsidiary of Saudi Aramco.",
+  "short": "Aloula Aviation is a wholly owned Aramco subsidiary.",
+  "source": {
+    "name": "Aramco Elements: The soaring legacy of Aramco's aviation",
+    "date": "2025-09-08",
+    "url": "https://www.aramco.com/en/news-media/elements-magazine/2025/the-soaring-legacy-of-aramcos-aviation",
+    "quote": "A year later, it was rebranded as Aloula Aviation, a wholly owned Aramco subsidiary.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Al Qadsiah FC – Partnerships (Aloula Aviation)",
+      "date": "2026",
+      "url": "https://alqadsiah.com/en/partnerships",
+      "quote": "Aloula Aviation, a leading aviation services provider in Saudi Arabia and a subsidiary of Saudi Aramco, brings world-class air transport capabilities to the region",
+      "note": "The club's own partners page; it loads its text with JavaScript, so a script can't check the quote. Page without a visible date; opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
