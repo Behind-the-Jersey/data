@@ -4,13 +4,18 @@
   "orgName": "Kia America",
   "sponsorId": "kia-america",
   "placement": "stadium",
-  "from": null,
+  "from": "2023-12",
   "to": null,
   "value": null,
   "source": {
     "name": "Kia Media (Kia America press release)",
     "date": "2023-12-20",
-    "url": "https://kiamedia.com/us/en/media/pressreleases/21588/orlandos-premier-downtown-sports-and-entertainment-destination-to-be-renamed-kia-center"
+    "url": "https://kiamedia.com/us/en/media/pressreleases/21588/orlandos-premier-downtown-sports-and-entertainment-destination-to-be-renamed-kia-center",
+    "quote": "Starting December 20, 2023, the Amway Center will take on the new name.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+    }
   },
-  "note": "Arena naming rights: Kia Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-12-20."
+  "note": "Arena naming rights: Kia Center. Renaming takes effect 2023-12-20; term length not disclosed in the release."
 }
