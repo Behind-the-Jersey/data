@@ -1,0 +1,33 @@
+{
+  "id": "armani-operations-judicial-admin-2024",
+  "kind": "record",
+  "ownerIds": [
+    "armani"
+  ],
+  "text": "In April 2024 the preventive-measures section of the Tribunal of Milan placed Giorgio Armani Operations — the Armani group's clothing and accessories design and production company — under judicial administration: investigators found it unable to prevent labour exploitation ('caporalato') in its Chinese-run subcontracting chain, where workers were paid 3-4 euros an hour and housed in improvised dormitories. The company was not indicted; the measure was revoked early in February 2025 after the company cut the at-risk suppliers and set up controls.",
+  "source": {
+    "name": "Forbes Italia: Giorgio Armani Operations in amministrazione giudiziaria per presunto sfruttamento del lavoro",
+    "date": "2024-04-05",
+    "url": "https://forbes.it/2024/04/05/sfruttamento-lavoro-giorgio-armani-operations-amministrazione-giudiziaria",
+    "quote": "La Sezione misure di prevenzione del Tribunale di Milano ha disposto l’amministrazione giudiziaria per la Giorgio Armani Operations spa, società che si occupa di progettazione e produzione di abbigliamento e accessori del gruppo Armani.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Same article quotes investigators: GA Operations 'ritenuta incapace di prevenire e arginare fenomeni di sfruttamento lavorativo', 'agevolare (colposamente)' subjects with 'corposi elementi probatori' for 'caporalato'; and notes the company is not under investigation (misura di prevenzione)."
+  },
+  "additionalSources": [
+    {
+      "name": "Il Fatto Quotidiano: Revocata l'amministrazione giudiziaria della Giorgio Armani Operation, il Tribunale di Milano: 'Percorso virtuoso'",
+      "date": "2025-02-18",
+      "url": "https://www.ilfattoquotidiano.it/2025/02/18/revocata-lamministrazione-giudiziaria-della-giorgio-armani-operation-il-tribunale-di-milano-percorso-virtuoso/7882728/",
+      "quote": "l'inchiesta, in cui Armani non era indagata ma accusata di non essere in grado di arginare e prevenire fenomeni di sfruttamento lungo la catena produttiva, ha svelato l'esistenza di società",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Revocation report, confirming the measure (April 2024) and the case facts: 'produttori “ombra” che pagavano i lavoratori anche 3-4 euro l’ora'; revoked early after the 'virtuous path'."
+    }
+  ],
+  "reviewed": false
+}
