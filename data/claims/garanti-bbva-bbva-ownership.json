@@ -1,0 +1,20 @@
+{
+  "id": "garanti-bbva-bbva-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "bbva-sa"
+  ],
+  "text": "Garanti BBVA's majority shareholder is Banco Bilbao Vizcaya Argentaria S.A. (BBVA), which holds 85.97% of its shares.",
+  "source": {
+    "name": "Garanti BBVA: Investor Relations (undated page, read October 2026)",
+    "date": "2026-10",
+    "url": "https://www.garantibbva.com.tr/en/investor-relations",
+    "quote": "Garanti BBVA’s majority shareholder is Banco Bilbao Vizcaya Argentaria S.A. (BBVA), which holds 85.97% of its shares.",
+    "short": "Garanti BBVA IR",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
