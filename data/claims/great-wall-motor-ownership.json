@@ -1,0 +1,32 @@
+{
+  "id": "great-wall-motor-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "great-wall-motor"
+  ],
+  "text": "GWM is the global marque of Great Wall Motor Company Limited, a Chinese carmaker headquartered in Baoding, Hebei and listed in Hong Kong and Shanghai. Its 2024 annual report names Baoding Innovation Great Wall Asset Management (59.78% of voting rights) as the controlling shareholder and chairman Wei Jianjun as the company's ultimate controlling shareholder.",
+  "short": "GWM is the global marque of Great Wall Motor; chairman Wei Jianjun is its ultimate controlling shareholder.",
+  "source": {
+    "name": "Great Wall Motor Company Limited Annual Report 2024 (HKEX filing), Section 10 and financial-statement notes",
+    "date": "2024-12-31",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0331/2025032804888.pdf",
+    "quote": "The controlling shareholder of the Company is Baoding Innovation Great Wall Asset Management Company Limited ( “Innovation Great Wall ”) and the ultimate controlling shareholder is Wei Jian Jun.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "GWM Europe, 'GWM Introduction'",
+      "date": "2026",
+      "url": "https://www.gwm-eu.com/eu/about-gwm",
+      "quote": "GWM (Great Wall Motor) is a global intelligent technology company with fully integrated capabilities across design, R&D, manufacturing, sales and service. Product portfolio includes GWM HAVAL, GWM WEY, GWM TANK, GWM ORA, GWM POER, and GWM SOUO",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
