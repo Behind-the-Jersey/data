@@ -1,0 +1,21 @@
+{
+  "id": "tns-energo-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tns-energo"
+  ],
+  "text": "PJSC GK TNS Energo is a Moscow Exchange-listed electricity-sales holding. Kommersant reported in June 2025 that AO FinAlyans ST became its largest shareholder in 2024 after buying 28.6% of its shares; the sales are disputed in court by Sunflake Limited, linked to arrested former owner Dmitry Arzhanov.",
+  "short": "TNS Energo's largest shareholder is AO FinAlyans ST (28.6%, per Kommersant); stake disputed in court.",
+  "source": {
+    "name": "Kommersant (Nizhny Novgorod): Акции высокого напряжения",
+    "date": "2025-06-23",
+    "url": "https://www.kommersant.ru/doc/7832749",
+    "note": "Translation: the buyer of the shares was AO FinAlyans ST; in the course of last year, having bought the shares, this company became the largest shareholder of PJSC GK TNS Energo.",
+    "quote": "В течение прошлого года, купив акции, это общество стало крупнейшим акционером ПАО ГК «ТНС энерго».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

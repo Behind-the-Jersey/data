@@ -3,10 +3,15 @@
   "name": "Ekoniva",
   "ownerId": "ekoniva",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Fakel Voronezh partner."
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Stefan Dürr's private dairy and agriculture group. Nothing found.",
+  "claimIds": [
+    "ekoniva-ownership"
+  ],
+  "aliases": [
+    "EkoNiva",
+    "Эконива"
+  ],
+  "note": "General partner and front-of-shirt sponsor of Fakel Voronezh (renewal announced 30 December 2025)."
 }
