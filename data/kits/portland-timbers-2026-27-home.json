@@ -12,13 +12,47 @@
       "sponsorId": "bank-of-america",
       "placement": "front",
       "source": {
-        "name": "timbers.com",
-        "date": "2026-01-15",
-        "url": "https://www.timbers.com/news/portland-timbers-enter-multi-year-partnership-with-bank-of-america-to-become-front-of-jersey-partner"
+        "name": "Portland Timbers: Portland Timbers enter multi-year partnership with Bank of America to become front-of-jersey partner",
+        "date": "2025-12-09",
+        "url": "https://www.timbers.com/news/portland-timbers-enter-multi-year-partnership-with-bank-of-america-to-become-front-of-jersey-partner",
+        "quote": "The Portland Timbers today announced Bank of America as the club\u2019s new front-of-jersey partner in a multi-year deal",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Date previously recorded as 2026-01-15; the identical announcement appeared in Bank of America's newsroom dated 2025-12-09, as did press coverage (Sports Business Journal, Portland Business Journal)."
+      }
+    },
+    {
+      "sponsorId": "tillamook",
+      "placement": "sleeve",
+      "source": {
+        "name": "Portland Timbers: Portland Timbers enter multi-year partnership with Bank of America to become front-of-jersey partner",
+        "date": "2025-12-09",
+        "url": "https://www.timbers.com/news/portland-timbers-enter-multi-year-partnership-with-bank-of-america-to-become-front-of-jersey-partner",
+        "quote": "Tillamook will transition its kit placement to the sleeve patch, continuing its commitment to the club",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "apple-tv",
+      "placement": "sleeve",
+      "source": {
+        "name": "FOR SOCCER: 2026 MLS Jersey Sponsors",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+        "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
+  "sponsorsComplete": true,
   "change": null,
-  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Bank of America fronts the jersey; Tillamook moved from the front to the sleeve."
 }
