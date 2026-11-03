@@ -1,0 +1,20 @@
+{
+  "id": "euronet-worldwide-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "euronet-worldwide"
+  ],
+  "text": "Euronet Worldwide, Inc.'s common stock is registered under Section 12(b) of the Securities Exchange Act and traded on the Nasdaq Global Select Market under the symbol EEFT.",
+  "short": "Euronet Worldwide, Inc. is a listed company (Nasdaq: EEFT).",
+  "source": {
+    "name": "Euronet Worldwide, Inc. Form 10-K for fiscal year ended December 31, 2025 (SEC EDGAR, cover page)",
+    "date": "2026-02-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1029199/000155485526000131/eeft-20251231.htm",
+    "quote": "Common Stock EEFT Nasdaq Global Select Market",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
