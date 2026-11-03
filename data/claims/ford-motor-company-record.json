@@ -4,7 +4,7 @@
   "ownerIds": [
     "ford-motor-company"
   ],
-  "text": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker. Ford is publicly listed but not ownerless: the Ford family holds the super-voting Class B stock disclosed in the company's proxy's Class B beneficial ownership table, so control is family-anchored while the economic float is public. No state stake; human-rights relevance is ordinary manufacturing and battery-minerals supply-chain exposure.",
+  "text": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker. Ford is publicly listed but not ownerless: the Ford family holds the super-voting Class B stock disclosed in the company's proxy's Class B beneficial ownership table, so control is family-anchored while the economic float is public.",
   "short": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker.",
   "source": {
     "name": "Ford Motor Company DEF 14A proxy statement (SEC)",
@@ -16,5 +16,17 @@
       "by": "source-audit-2026-09-26"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Forbes (Bill Koenig): Ford Family Extends Influence On Automaker",
+      "date": "2023-09-27",
+      "url": "https://www.forbes.com/sites/billkoenig/2023/09/27/ford-family-extends-influence-on-automaker/",
+      "quote": "Dearborn, Michigan-based Ford went public in 1956. But the family retained 40% voting control through a special class of stock.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
