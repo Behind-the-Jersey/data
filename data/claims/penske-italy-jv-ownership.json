@@ -1,0 +1,20 @@
+{
+  "id": "penske-italy-jv-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "penske-automotive-group"
+  ],
+  "text": "Penske Automotive Italy was founded in February 2012 as a joint venture between Penske Automotive Group and the Vanti-Mantellini families, per the Italian branch's own website.",
+  "short": "Penske Automotive Italy is a joint venture of Penske Automotive Group and the Vanti-Mantellini families.",
+  "source": {
+    "name": "Penske Automotive Italy: company home page",
+    "date": "2026",
+    "url": "https://www.penskeautomotive.it/",
+    "quote": "Penske Automotive Italy, nata nel febbraio 2012 dalla joint venture tra Penske Automotive Group e le famiglie Vanti-Mantellini",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

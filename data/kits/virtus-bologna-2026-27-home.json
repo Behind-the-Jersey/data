@@ -12,14 +12,94 @@
       "sponsorId": "costa-cruises",
       "placement": "front",
       "source": {
-        "name": "Virtus Bologna, Costa Crociere is the new Title Sponsor LBA and Main Sponsor",
+        "name": "Virtus Pallacanestro Bologna: 'Costa Crociere è il nuovo Title Sponsor LBA e Main Sponsor della Virtus Pallacanestro Bologna'",
         "date": "2026-09-13",
         "url": "https://www.virtus.it/news/costa-crociere-e-il-nuovo-title-sponsor-lba-e-main-sponsor-della-virtus-pallacanestro-bologna/",
-        "note": "Costa Crociere Title and Main Sponsor for 2026/27; kit presented 13 Sep 2026 on Costa Pacifica"
+        "quote": "Costa Crociere, compagnia italiana di crociere con sede a Genova, è il nuovo Title Sponsor e Main Sponsor della Prima Squadra della Virtus Pallacanestro Bologna per la stagione 2026/27.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "LBA title and main sponsor, announced 13 September 2026 aboard Costa Pacifica at the kit presentation. The club's official store product photo of the black LBA home jersey (https://store.virtus.it/fi/virtus-bologna-black-league-jersey-26-27) shows the Costa mark across the front; the black EuroLeague home jersey front carries the Virtus wordmark instead."
+      }
+    },
+    {
+      "sponsorId": "pelliconi",
+      "placement": "front",
+      "source": {
+        "name": "Virtus Bologna official store: VIRTUS BOLOGNA BLACK EUROLEAGUE JERSEY 26/27",
+        "date": "2026",
+        "url": "https://store.virtus.it/fi/virtus-bologna-black-euroleague-jersey-26-27",
+        "quote": "VIRTUS BOLOGNA BLACK EUROLEAGUE JERSEY 26/27",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The official store product photo (https://store.virtus.it/images/virtusbologna/products/large/VB26A03.webp) shows the Pelliconi mark on the front left chest of the 2026/27 black EuroLeague home jersey, opposite the adidas logo. Pelliconi's own site calls it an official Virtus sponsor (pelliconi.it/etica). The club's 25 September 2025 jersey-sponsor note had put Pelliconi on the back for the EuroLeague (see pull request)."
+      }
+    },
+    {
+      "sponsorId": "castel-guelfo-the-style-outlets",
+      "placement": "front",
+      "source": {
+        "name": "Virtus Bologna official store: VIRTUS BOLOGNA BLACK LEAGUE JERSEY 26/27",
+        "date": "2026",
+        "url": "https://store.virtus.it/fi/virtus-bologna-black-league-jersey-26-27",
+        "quote": "VIRTUS BOLOGNA BLACK LEAGUE JERSEY 26/27",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The official store product photo (https://store.virtus.it/images/virtusbologna/products/large/VB26A01.webp) shows the Castel Guelfo thestyleoutlets mark on the front right chest of the 2026/27 black LBA home jersey, below the LBA patch."
+      }
+    },
+    {
+      "sponsorId": "savoia-hotels",
+      "placement": "back",
+      "source": {
+        "name": "Virtus Pallacanestro Bologna: 'I jersey sponsors della Virtus Bologna in LBA ed Eurolega'",
+        "date": "2025-09-25",
+        "url": "https://www.virtus.it/news/i-jersey-sponsor-della-virtus-bologna-in-lba-ed-eurolega/",
+        "quote": "In LBA sul retro delle divise dei Campioni d’Italia ci sarà per la prima volta Savoia Hotels, giunto alla sesta stagione di partnership con le V nere",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Back of the shirt. The official store product photos of the 2026/27 black LBA (https://store.virtus.it/images/virtusbologna/products/large/VB26A01_1.webp) and black EuroLeague (https://store.virtus.it/images/virtusbologna/products/large/VB26A03_1.webp) home jerseys both show SAVOIA HOTELS BOLOGNA across the upper back."
+      }
+    },
+    {
+      "sponsorId": "penske-automotive-italy",
+      "placement": "shorts",
+      "source": {
+        "name": "Virtus Pallacanestro Bologna: 'I jersey sponsors della Virtus Bologna in LBA ed Eurolega'",
+        "date": "2025-09-25",
+        "url": "https://www.virtus.it/news/i-jersey-sponsor-della-virtus-bologna-in-lba-ed-eurolega/",
+        "quote": "Sul pantaloncino della divisa invece ci sarà per il quinto anno consecutivo Penske Automotive Italy",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Shorts sponsor, fifth consecutive year as announced for 2025-26. No 2026/27 confirmation found and the retail shorts product photos look plain, so the placement is carried from the club's own note and flagged in the pull request."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Virtus Bologna: 'adidas and Virtus Bologna unveil the 2026/27 EuroLeague Jerseys: a tribute to their roots and a tribute to the city'",
+        "date": "2026-09-09",
+        "url": "https://www.virtus.it/en/news/adidas-and-virtus-bologna-unveil-the-2026-27-euroleague-jerseys-a-tribute-to-their-roots-and-a-tribute-to-the-city",
+        "quote": "adidas and Virtus Bologna present the new home and away jerseys for the 2026–2027 EuroLeague season.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Kit maker (technical sponsor), recorded as partner per existing convention; adidas mark on the chest of the jerseys in the official store product photos."
       }
     }
   ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "2026/27 black home jersey: Costa (LBA title and main sponsor, front, team plays as Virtus Costa Bologna), Pelliconi (front left chest of the EuroLeague jersey), Castel Guelfo The Style Outlets (front right chest of the LBA jersey), Savoia Hotels (upper back of both the LBA and EuroLeague jerseys) and adidas (kit maker), plus Penske Automotive Italy on the shorts as announced by the club. Not marked complete: the club's current sponsor page still lists Penske Automotive, Cribis and Regione Emilia-Romagna (Sport Valley) as jersey sponsors but no 2026/27 source checked pins down their placement, and the retail shorts photos look plain.",
   "change": null
 }
