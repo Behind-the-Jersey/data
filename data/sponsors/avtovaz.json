@@ -1,16 +1,19 @@
 {
   "id": "avtovaz",
   "name": "AvtoVAZ (LADA)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "nami",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
+  "claimIds": [
+    "avtovaz-nami-state-ownership",
+    "russian-federation-record"
+  ],
   "aliases": [
     "АВТОВАЗ",
     "LADA",
     "Lada"
   ],
-  "note": "League partner; lada.ru is the title sponsor of HC Lada."
+  "note": "League partner; lada.ru is the title sponsor of HC Lada. Also sleeve sponsor on FC Akron's 2026-27 home shirt. AvtoVAZ is wholly owned via LADA Auto Holding by FSUE NAMI, a state institute under Russia's Ministry of Industry and Trade (Interfax, 2023)."
 }

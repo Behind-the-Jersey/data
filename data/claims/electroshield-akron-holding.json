@@ -1,0 +1,21 @@
+{
+  "id": "electroshield-akron-holding",
+  "kind": "ownership",
+  "ownerIds": [
+    "akron-holding"
+  ],
+  "text": "Electroshield Samara, an electrical equipment plant in Samara, is part of Akron Holding, a Tolyatti-based industrial holding.",
+  "short": "Electroshield Samara is one of Akron Holding's enterprises.",
+  "source": {
+    "name": "Akron Holding: О компании (About the company)",
+    "date": "2026-10-03",
+    "url": "https://www.akron-holding.ru/about-company/",
+    "note": "English: 'The plants Electroshield Samara, Russky Transformator and Foskhim are part of Akron Holding.' The holding's enterprise directory lists Электрощит Самара under its electrotechnical division.",
+    "quote": "В состав Акрон Холдинга входят заводы Электрощит Самара, Русский трансформатор, Фосфохим.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
