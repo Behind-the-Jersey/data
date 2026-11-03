@@ -1,0 +1,34 @@
+{
+  "id": "telekom-srbija-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "telekom-srbija",
+    "government-of-serbia"
+  ],
+  "text": "mts is Telekom Srbija a.d.'s commercial brand (Telekom Srbija integrated all its services into the single mts brand), and the Republic of Serbia is the majority owner of Telekom Srbija with a 58.11% stake.",
+  "short": "The Republic of Serbia owns 58.11% of Telekom Srbija, whose brand is mts.",
+  "source": {
+    "name": "mts (Telekom Srbija): Investitori i akcionari (Investors and shareholders)",
+    "date": "2026",
+    "url": "https://mts.rs/O-Telekomu/Investitori-i-akcionari",
+    "quote": "Većinski vlasnik kompanije je Republika Srbija sa 58,11% udela u vlasništvu.",
+    "note": "Undated official investor page; the same page's history section states that in April 2015 the company integrated all its services into the single mts brand.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "N1: Da li je Telekom za prodaju imovine trebalo da ima odluku Skupštine akcionara",
+      "date": "2024-02-02",
+      "url": "https://n1info.rs/biznis/da-li-je-telekom-za-prodaju-imovine-trebalo-da-ima-odluku-skupstine-akcionara/",
+      "quote": "Telekom Srbija je akcionarsko društvo u većinskom vlasništvu države: Republika Srbija ima 58,11 odsto akcija",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
