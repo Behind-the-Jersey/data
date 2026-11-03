@@ -1,0 +1,29 @@
+{
+  "id": "cagliari-regione-sardegna-doppio-malto-front",
+  "clubId": "cagliari",
+  "orgName": "Regione Sardegna e Doppio Malto",
+  "sponsorId": "sardegna-turismo",
+  "placement": "front",
+  "from": null,
+  "to": null,
+  "value": {
+    "amount": 3.6,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "season",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "Calcio e Finanza, 'I ricavi da sponsor di maglia in Serie A: il Napoli vola al quinto posto, Milan in vetta'",
+    "date": "2026-07-07",
+    "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/",
+    "quote": "10 – Cagliari – Regione Sardegna e Doppio Malto: 3,6 milioni di euro a stagione",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "note": "Press estimate for the combined front-of-shirt deal ('main sponsor' ranking for 2026/27). The two front brands are reported together, so the value is booked on one deal with both named in orgName. Start date not reported. Calcio Casteddu (2026-03-11) gives the same EUR 3.6m a season and calls Cagliari ninth in Serie A.",
+  "leagueId": "serie-a"
+}
