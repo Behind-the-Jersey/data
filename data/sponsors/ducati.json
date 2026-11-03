@@ -1,0 +1,33 @@
+{
+  "id": "ducati",
+  "name": "Ducati",
+  "ownerId": "audi-ag",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "claimIds": [
+    "qatar-migrant-worker-abuse-2025",
+    "ducati-audi-group-ownership",
+    "audi-vw-ownership",
+    "qatar-holding-vw-stake",
+    "qatar-holding-qia-ownership",
+    "qia-government-of-qatar-ownership"
+  ],
+  "aliases": [
+    "Ducati Motor Holding"
+  ],
+  "verdict": null,
+  "note": "Technical sponsor (bike supplier) listed on the Pertamina Enduro VR46 Racing Team's 2026 Sponsors page. Rating note: Ducati is a brand of the Audi Group (ducati-audi-group-ownership), AUDI AG is a fully owned subsidiary of Volkswagen AG (audi-vw-ownership), and Qatar Holding LLC / Qatar Investment Authority holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (qatar-holding-vw-stake); Qatar's record is documented (qatar-migrant-worker-abuse-2025). Proposed concern in the pull request: the Qatar stake passes the 5% test without control.",
+  "why": {
+    "text": "Ducati is one of the Audi Group's brands, and AUDI AG is a fully owned subsidiary of Volkswagen AG. Qatar Holding LLC — wholly owned by the Qatar Investment Authority, the State of Qatar's sovereign wealth fund — holds 10.4% of Volkswagen AG's subscribed capital and 17.0% of its voting rights, so Qatari state money is part of what is behind Ducati. Amnesty International and Human Rights Watch report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "ducati-audi-group-ownership",
+      "audi-vw-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "status": "draft"
+  }
+}

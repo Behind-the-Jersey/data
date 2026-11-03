@@ -1,0 +1,34 @@
+{
+  "id": "ducati-audi-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "audi-ag"
+  ],
+  "text": "Ducati is one of the Audi Group's brands (the Audi Group comprises Audi, Bentley, Lamborghini, Ducati and Audi Sport GmbH).",
+  "short": "Ducati is a brand of the Audi Group.",
+  "source": {
+    "name": "AUDI AG (audi.com): Audi Group - A strong alliance",
+    "date": "2026",
+    "url": "https://www.audi.com/en/audi-group-213",
+    "quote": "The Audi Group comprises Audi, Bentley, two traditional Italian brands Lamborghini and Ducati, and Audi Sport GmbH.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The page is undated (page footer 'As of: 08/31/2026' on its images album)."
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Volkswagen Group (volkswagen-group.com): Group page",
+      "date": "2026",
+      "url": "https://www.volkswagen-group.com/en/group-15765",
+      "quote": "The Group comprises ten brands from five European countries: Volkswagen, Volkswagen Commercial Vehicles, ŠKODA, SEAT, CUPRA, Audi, Lamborghini, Bentley, Porsche and Ducati.",
+      "note": "The Volkswagen Group's own overview lists Ducati among its ten brands.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ]
+}
