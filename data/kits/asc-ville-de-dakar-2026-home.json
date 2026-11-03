@@ -17,9 +17,69 @@
         "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
         "note": "'Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine' - league-wide branding on all 12 teams' uniforms, not a club-level shirt deal."
       }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "BAL (bal.nba.com): BAL names PUMA as League's Official Outfitter ahead of 2026 season",
+        "date": "2026-03-17",
+        "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+        "quote": "The Basketball Africa League (BAL) and PUMA, one of the world's leading sports brands, today announced a multiyear collaboration that makes PUMA the Official Outfitter of the BAL.",
+        "note": "Kit maker, league-wide: the release says the collaboration 'will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms' from the 2026 season, so ASC Ville de Dakar's 2026 uniform is PUMA-made. Not a club-level shirt slot; the league deal is also recorded as bal-puma.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "port-autonome-de-dakar",
+      "placement": "partner",
+      "source": {
+        "name": "Le Journal de Dakar: ASC Ville de Dakar – BAL : autorités et sponsors affichent leur soutien avant Rabat",
+        "date": "2026-04-13",
+        "url": "https://lejournaldedakar.info/asc-ville-de-dakar-bal-autorites-et-sponsors-affichent-leur-soutien-avant-rabat/",
+        "quote": "Nous sommes sponsors de presque toutes les Fédérations. C'est un honneur pour le Port de les accompagner. Particulièrement l'ASC Ville de Dakar.",
+        "note": "Port Autonome de Dakar director general Waly Diouf Bodian at the club's send-off for the BAL Sahara Conference in Rabat; the mayor also lists 'le Port' among the club's sponsors. Documents the sponsorship, not a shirt placement.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "kebimo",
+      "placement": "partner",
+      "source": {
+        "name": "Netcomsn: Basket sénégalais — KEBIMO prolonge son partenariat avec l'ASC Ville de Dakar pour la WBLA et la BAL 2025-2026",
+        "date": "2025-11-26",
+        "url": "https://netcomsn.com/sports/basket-senegalais-kebimo-prolonge-son-partenariat-avec-lasc-ville-de-dakar-pour-la-wbla-et-la-bal-2025-2026/",
+        "quote": "a officialisé ce mardi 25 novembre 2025 un partenariat avec l'Association sportive et culturelle (ASC) Ville de Dakar de basketball",
+        "note": "Named press: the construction group KEBIMO signed a partnership on 25 Nov 2025 covering, among others, the men's team's BAL 2026 campaign (FCFA 20m for WBLA + BAL, per the article and club president Yatma Diaw). The sponsor's own site also carries a page titled 'KEBIMO SA, SPONSOR OFFICIEL DE L'ASC VILLE DE DAKAR' (kebimo.com/bien/12/). Documents the sponsorship, not a shirt placement.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "lonase",
+      "placement": "partner",
+      "source": {
+        "name": "Le Journal de Dakar: ASC Ville de Dakar – BAL : autorités et sponsors affichent leur soutien avant Rabat",
+        "date": "2026-04-13",
+        "url": "https://lejournaldedakar.info/asc-ville-de-dakar-bal-autorites-et-sponsors-affichent-leur-soutien-avant-rabat/",
+        "quote": "Côté sponsors, il salue l'apport du Port, Kébimo et la Lonase",
+        "note": "Dakar's mayor Abass Fall lists the Lonase among the club's sponsors days before the BAL Sahara Conference in Rabat. Documents the sponsorship, not a shirt placement.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
     }
   ],
   "sponsorsComplete": false,
-  "summary": "League-controlled branding only: Visit Rwanda is carried on BAL team uniforms league-wide. No club-level shirt sponsor found for the 2026 season.",
+  "summary": "League branding only on the shirt itself: Visit Rwanda on all BAL uniforms and PUMA as the league-wide kit maker from 2026. The club's named 2026 sponsors — the state-owned Port Autonome de Dakar, the construction group Kébimo and the state lottery Lonase — are documented by named press and the company's site, but no shirt placement for them could be verified.",
   "change": null
 }

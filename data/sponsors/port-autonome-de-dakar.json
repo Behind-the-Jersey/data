@@ -1,0 +1,30 @@
+{
+  "id": "port-autonome-de-dakar",
+  "name": "Port Autonome de Dakar (PAD)",
+  "ownerId": "government-of-senegal",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Senegal's state-owned autonomous port authority ('société nationale'), a named sponsor of ASC Ville de Dakar's 2026 BAL campaign.",
+  "claimIds": [
+    "pad-state-ownership",
+    "senegal-protest-crackdown-2021-2024"
+  ],
+  "aliases": [
+    "PAD",
+    "Port de Dakar",
+    "SONAPAD",
+    "Autonomous Port of Dakar"
+  ],
+  "ownerVerb": "paid for by",
+  "why": {
+    "text": "Senegalese security forces killed at least 65 protesters and arrested a further 2,000 people during the 2021–2024 crackdown on protests, according to Amnesty International. The Port Autonome de Dakar, one of the club's sponsors, is 100% owned by the Senegalese state.",
+    "claimIds": [
+      "senegal-protest-crackdown-2021-2024",
+      "pad-state-ownership"
+    ],
+    "messageLine": "Amnesty International says Senegalese security forces killed at least 65 protesters between 2021 and 2024.",
+    "status": "draft"
+  },
+  "note": "Rating note: on hold for a maintainer. Propose 'serious' per METHOD.md — the Senegalese state (100% shareholder) controls the sponsor, and Senegal's 2021–2024 protest crackdown is documented by Amnesty International and Human Rights Watch. For the maintainers to weigh: the September 2026 France/Renault decision found protest-policing findings alone don't make a record; Senegal's documented deaths (65+ killed, most by firearms) and mass arrests (2,000) go beyond the excessive-force findings that decision turned on."
+}
