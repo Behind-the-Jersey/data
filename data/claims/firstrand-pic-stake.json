@@ -1,0 +1,33 @@
+{
+  "id": "firstrand-pic-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "firstrand-limited",
+    "public-investment-corporation"
+  ],
+  "text": "The Public Investment Corporation had a significant beneficial interest of 15.7% in FirstRand's issued ordinary shares in the year ended 30 June 2025.",
+  "short": "The PIC holds 15.7% of FirstRand's ordinary shares.",
+  "source": {
+    "name": "FirstRand Limited Group Annual Financial Statements 2025 (PDF)",
+    "date": "2025",
+    "url": "https://www.firstrand.co.za/media/investors/reports/firstrand-annual-financial-statements-2025.pdf",
+    "quote": "The following shareholders have a significant beneficial interest in FirstRand’s issued ordinary shares. Year ended 30 June % 2025 2024 Public Investment Corporation 15.7 14.7",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Yahoo Finance (Simply Wall St): While institutions own 38% of FirstRand Limited (JSE:FSR), retail investors are its largest shareholders",
+      "date": "2024-10-13",
+      "url": "https://finance.yahoo.com/news/while-institutions-own-38-firstrand-060310505.html",
+      "quote": "FirstRand is not owned by hedge funds. Public Investment Corporation Limited is currently the largest shareholder, with 15% of shares outstanding.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}

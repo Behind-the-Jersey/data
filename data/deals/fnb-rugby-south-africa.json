@@ -3,14 +3,19 @@
   "clubId": "rugby-south-africa",
   "orgName": null,
   "sponsorId": "fnb",
-  "placement": "partner",
-  "from": "2026",
+  "placement": "front",
+  "from": "2025-03",
   "to": null,
   "value": null,
   "source": {
-    "name": "Union partners page",
-    "date": "2026-09-25",
-    "url": "https://www.springboks.rugby/partners/",
-    "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
+    "name": "SportsPro: South Africa Rugby upgrades FNB to Springboks front-of-shirt sponsor",
+    "date": "2025-03-27",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/south-africa-rugby-springboks-fnb-jersey-sponsor-parnter-mtn-march-2025/",
+    "quote": "FNB logo will feature on the front of all matchday jerseys, including men’s and women’s Springboks",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "FNB confirmed as principal partner of all SA Rugby national teams on 26-27 March 2025, replacing MTN; the same article says the FNB logo would first appear on the front of the Springbok Test jersey against Italy in Pretoria on 5 July 2025. Exact contract length not stated, so 'to' is null."
   }
 }

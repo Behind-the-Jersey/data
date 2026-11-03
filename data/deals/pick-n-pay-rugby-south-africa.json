@@ -3,14 +3,19 @@
   "clubId": "rugby-south-africa",
   "orgName": null,
   "sponsorId": "pick-n-pay",
-  "placement": "partner",
-  "from": "2026",
+  "placement": "back",
+  "from": "2025-03",
   "to": null,
   "value": null,
   "source": {
-    "name": "Union partners page",
-    "date": "2026-09-25",
-    "url": "https://www.springboks.rugby/partners/",
-    "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+    "name": "SA Rugby: Pick n Pay joins SA Rugby family of partners",
+    "date": "2025-03-27",
+    "url": "https://springboks.rugby/news-features/articles/2025/03/27/pick-n-pay-joins-sa-rugby-family-of-partners",
+    "quote": "Pick n Pay has signed a four-year contract as a Tier 1 sponsor of SA Rugby, with the company’s logo set to feature in gold on the back of the Springbok jersey",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Four-year contract announced 27 March 2025, so 'to' is expected around 2029; recorded as null until an end month is stated. Placement changed from 'partner' to 'back' (the gold Pick n Pay logo on the back of the matchday jersey)."
   }
 }
