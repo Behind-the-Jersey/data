@@ -1,0 +1,45 @@
+{
+  "id": "kingspan-grenfell-k15-inquiry",
+  "kind": "record",
+  "ownerIds": [
+    "kingspan-group"
+  ],
+  "text": "The Grenfell Tower public inquiry's final report (September 2024) found that Kingspan marketed its K15 insulation for use on high-rise buildings with 'deeply entrenched and persistent dishonesty' and 'a complete disregard for fire safety', having 'knowingly created a false market in insulation' from 2005; the inquiry covered the 2017 tower fire that killed 72 people, while finding the insulation type immaterial to that fire's spread.",
+  "short": "Grenfell inquiry: Kingspan showed 'deeply entrenched and persistent dishonesty' in marketing K15 insulation",
+  "source": {
+    "name": "Grenfell Tower Inquiry: Phase 2 Report, Volume 2 (gov.uk), chapter 22 conclusion 22.134",
+    "date": "2024-09-04",
+    "url": "https://assets.publishing.service.gov.uk/media/66d817ba9084b18b95709f85/CCS0923434692-004_GTI_Phase_2_Volume_2_BOOKMARKED.pdf",
+    "quote": "deeply entrenched and persistent dishonesty on the part of Kingspan in pursuit of commercial gain coupled with a complete disregard for fire safety",
+    "note": "Official final report of the Grenfell Tower public inquiry (published 4 September 2024). The conclusion of chapter 22 reads in full: 'The story of the development and marketing of K15 for use on buildings of over 18 metres in height between 2006 and 2019 is one of deeply entrenched and persistent dishonesty on the part of Kingspan in pursuit of commercial gain coupled with a complete disregard for fire safety.'",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "BBC News: 'Kingspan was dishonest and cynical, Grenfell Inquiry finds'",
+      "date": "2024-09-04",
+      "url": "https://www.bbc.co.uk/news/articles/clyne526506o",
+      "quote": "It also demonstrated \"deeply entrenched and persistent dishonesty...in pursuit of commercial gain\".",
+      "note": "The same article states: 'The blaze in west London in 2017 resulted in the deaths of 72 people' and that the report found Kingspan 'knowingly created a false market in insulation' from 2005 onwards for use on buildings over 18 metres tall.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "The Guardian: 'The three Grenfell Tower companies still denying all wrongdoing'",
+      "date": "2024-09-05",
+      "url": "https://www.theguardian.com/uk-news/article/2024/sep/05/the-three-grenfell-tower-companies-still-denying-all-wrongdoing",
+      "quote": "one of deeply entrenched and persistent dishonesty on the part of Kingspan in pursuit of commercial gain coupled with a complete disregard for fire safety",
+      "note": "The Guardian reproduces the inquiry's findings about Kingspan before quoting the company's response.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
