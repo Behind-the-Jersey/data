@@ -1,0 +1,28 @@
+{
+  "id": "qiib",
+  "name": "QIIB",
+  "ownerId": "qiib",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [
+    "qia-qiib-stake",
+    "qia-government-of-qatar-ownership",
+    "qatar-migrant-worker-abuse-2025"
+  ],
+  "aliases": [
+    "Qatar International Islamic Bank"
+  ],
+  "note": "Rating proposal: concern (maintainer sets tiers). The link: the Qatar Investment Authority, the State of Qatar's sovereign wealth fund, is QIIB's largest shareholder, holding 17% via its subsidiary Qatar Holdings Company (QIIB HY-2025 presentation) / 16.62% as of May 2024 (Forbes Middle East) (qia-qiib-stake; qia-government-of-qatar-ownership). The record: Amnesty International and Human Rights Watch on migrant workers under Qatar's kafala system (qatar-migrant-worker-abuse-2025). Same pattern as Volkswagen (Qatar Holding 17% voting rights, rated concern 2026-10-01).",
+  "why": {
+    "text": "QIIB's largest shareholder is the Qatar Investment Authority, the State of Qatar's sovereign wealth fund, which holds about 17% of the bank through its subsidiary Qatar Holdings Company. Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses and exploitation under the kafala sponsorship system in 2025, despite reforms.",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "qia-qiib-stake",
+      "qia-government-of-qatar-ownership"
+    ],
+    "messageLine": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses under the kafala sponsorship system.",
+    "status": "draft"
+  }
+}
