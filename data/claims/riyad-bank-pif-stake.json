@@ -1,0 +1,43 @@
+{
+  "id": "riyad-bank-pif-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "riyad-bank",
+    "saudi-pif"
+  ],
+  "text": "Saudi Arabia's Public Investment Fund is Riyad Bank's largest shareholder with a 21.75% stake, two PIF representatives sit on the bank's board, and the state pension body GOSI holds a further 10.39%.",
+  "short": "PIF is Riyad Bank's largest shareholder (21.75%) with two board seats; GOSI holds 10.39%.",
+  "source": {
+    "name": "Riyad Bank: Annual Report 2023 (shareholder information, pp. 24-25 and board composition)",
+    "date": "2024-03",
+    "url": "https://www.riyadbank.com/documents/20121/5017791/Riyad%20Bank%20Annual%20Report%202023%20-%20English.pdf",
+    "quote": "21.8% Public Investment Fund 10.4% General Organization for Social Insurance",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The National: PIF-backed Riyad Bank considers IPO of its investment banking unit",
+      "date": "2024-04-04",
+      "url": "https://www.thenationalnews.com/business/banking/2024/04/04/pif-backed-riyad-bank-considers-ipo-of-its-investment-banking-unit/",
+      "quote": "Riyad Bank is backed by the Public Investment Fund with a stake of 21.75 per cent, while the Saudi government has a 10.39 per cent ownership in the lender.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Mubasher: Riyad Bank company profile (shareholding and board representation)",
+      "date": "2026-10-01",
+      "url": "https://english.mubasher.info/markets/TDWL/stocks/1010/profile",
+      "quote": "Public Investment Fund (21.7536%) General Organization for Social Insurance - Saudi Arabia (10.39%)",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

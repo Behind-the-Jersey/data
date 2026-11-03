@@ -1,0 +1,33 @@
+{
+  "id": "nhc-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nhc",
+    "government-of-saudi-arabia"
+  ],
+  "text": "NHC, Saudi Arabia's National Housing Company, was established in 2016 as the investment arm of the Ministry of Municipalities and Housing; in 2020 its ownership was transferred to the Saudi state.",
+  "short": "NHC's ownership was transferred to the Saudi state in 2020.",
+  "source": {
+    "name": "Saudipedia (Saudi Ministry of Media): The National Housing Company (NHC)",
+    "date": "2021-10-30",
+    "url": "https://saudipedia.com/en/the-national-housing-company-nhc",
+    "quote": "In 2020, after its business grew, the company's ownership was transferred to the state.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Microsoft Customer Stories: National Housing Company offers fully automated smart customer journey with Dynamics 365",
+      "date": "2023-06-20",
+      "url": "https://www.microsoft.com/en/customers/story/1650191049191897675-nhc-national-government-dynamic365-en-sa",
+      "quote": "The National Housing Company (NHC), a state-owned Saudi company, leads the way in real estate development",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
