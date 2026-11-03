@@ -16,5 +16,18 @@
       "by": "claude-review-282"
     }
   },
+  "additionalSources": [
+    {
+      "name": "Russian-Chinese Business Council (rcbc.ru): VTB member profile",
+      "date": "2026",
+      "url": "https://rcbc.ru/en/council/vtb/",
+      "note": "Undated profile page (footer © 2004-2026); retrieved 2026-10-03.",
+      "quote": "The largest holder of the Bank’s ordinary shares is Rosimushchestvo, which holds 60.93% of the Bank’s ordinary shares.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
