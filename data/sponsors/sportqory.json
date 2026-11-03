@@ -1,12 +1,21 @@
 {
   "id": "sportqory",
   "name": "SportQory Sports Support Fund",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "sportqory",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kazakh sports support fund credited as a main partner by XDS Astana GM; ownership/structure not found."
+  "claimIds": [
+    "sportqory-sole-operator",
+    "sportqory-samruk-funding",
+    "sportqory-ministry-oversight",
+    "kazakhstan-jan2022-record"
+  ],
+  "aliases": [
+    "sport qory",
+    "sportqory qazaqstan"
+  ],
+  "note": "Kazakh state-linked sports support fund: sole operator for extra-budgetary sport funding, overseen by the Ministry of Culture and Sport, funded mainly by Samruk-Kazyna, and manager of the XDS Astana Team since 2024. Its logo sits on the back of the 2026 jersey. Claims added 2026-10-01; tier proposal (concern) in pull request — a maintainer sets tiers.",
+  "ownerVerb": "paid for by"
 }

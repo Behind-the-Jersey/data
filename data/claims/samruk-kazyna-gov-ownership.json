@@ -1,0 +1,33 @@
+{
+  "id": "samruk-kazyna-gov-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "samruk-kazyna"
+  ],
+  "text": "Samruk-Kazyna is Kazakhstan's sovereign wealth fund, founded in 2008 by decree of the President of Kazakhstan; its audited IFRS financial statements state that the Government of the Republic of Kazakhstan is the Fund's sole shareholder and ultimate controlling party.",
+  "short": "The Government of Kazakhstan is Samruk-Kazyna's sole shareholder.",
+  "source": {
+    "name": "Sovereign Wealth Fund Samruk-Kazyna JSC — 1H 2025 Consolidated Financial Statements (IFRS)",
+    "date": "2025",
+    "url": "https://sk.kz/upload/iblock/001/1H_2025_Consolidated%20Financial%20statements_IFRS_ENG.pdf",
+    "quote": "The Government is the sole shareholder (hereinafter − the “Shareholder” or the “Parent”)  and the ultimate controlling party of the Fund in accordance with IFRS accounting standards.",
+    "note": "Quote contains a double space after the closing parenthesis, as in the PDF text layer.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Economics Atlas — Samruk-Kazyna (institution profile)",
+      "date": "2026",
+      "url": "https://economics.interactiveatlas.org/national-treasuries-and-fiscal-authorities/sovereign-wealth-funds-and-investment-authorities/samruk-kazyna",
+      "quote": "Wholly owned by the Government of Kazakhstan, it holds controlling or partial stakes in the country's major national companies, including KazMunayGas, Kazakhtelecom, KEGOC, Kazpost, Air Astana and Kazatomprom",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
