@@ -1,0 +1,20 @@
+{
+  "id": "akkodis-adecco-group-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "adecco-group"
+  ],
+  "text": "Akkodis is one of The Adecco Group's three market-leading global businesses, alongside Adecco and LHH.",
+  "short": "Akkodis is a business of The Adecco Group",
+  "source": {
+    "name": "The Adecco Group — Who we are",
+    "date": "2026",
+    "url": "https://www.adeccogroup.com/who-we-are",
+    "quote": "Through our three market-leading global businesses - Adecco, Akkodis and LHH - we deliver end-to-end workforce, skilling and digital engineering solutions.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
