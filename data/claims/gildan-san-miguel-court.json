@@ -1,0 +1,32 @@
+{
+  "id": "gildan-san-miguel-court",
+  "kind": "record",
+  "ownerIds": [
+    "gildan-activewear"
+  ],
+  "text": "In 2023 Honduras' Supreme Court of Justice ruled that Gildan's San Miguel garment factory had violated workers' human and labour rights and unjustly dismissed five women workers who had occupational illnesses or injuries; the factory closed months later.",
+  "short": "Honduras' Supreme Court found Gildan violated workers' rights.",
+  "source": {
+    "name": "PRI (Principles for Responsible Investment): Human Rights Infrastructure at GILDAN ACTIVEWEAR INC.",
+    "date": "2024",
+    "url": "https://collaborate.unpri.org/group/24796/home",
+    "quote": "Honduras' Supreme Court of Justice ruled Gildan violated workers' human and labour rights and unjustly dismissed workers.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "CoDevelopment Canada: Canada's Gildan Activewear must accommodate their injured workers!",
+      "date": "2023-10-10",
+      "url": "https://www.codev.org/urgent-actions/update-gildan-honduras",
+      "quote": "the Supreme Court of Justice of Honduras issued a ruling in favour of the five Gildan San Miguel, S.A. workers",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
