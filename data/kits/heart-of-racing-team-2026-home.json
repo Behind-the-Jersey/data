@@ -1,0 +1,75 @@
+{
+  "id": "heart-of-racing-team-2026-home",
+  "clubId": "heart-of-racing-team",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "aston-martin-lagonda",
+      "placement": "partner",
+      "source": {
+        "name": "The Heart of Racing - team homepage",
+        "date": "2026-10-03",
+        "url": "https://www.theheartofracing.com/2026-home",
+        "quote": "Together with Aston Martin, The Heart of Racing competes around the world in the FIA World Endurance Championship, IMSA WeatherTech SportsCar Championship, and IMSA Michelin Pilot Challenge.",
+        "note": "Manufacturer support partner. Aston Martin wings logo on the fire-suit chest and hood; ASTON MARTIN RACING banner on the windshield of cars #23 and #27.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "seattle-childrens",
+      "placement": "back",
+      "source": {
+        "name": "The Heart of Racing - team homepage",
+        "date": "2026-10-03",
+        "url": "https://www.theheartofracing.com/2026-home",
+        "quote": "Beyond the track, we race for something bigger—supporting the life-changing work of Seattle Children’s.",
+        "note": "Charity beneficiary: Seattle Children's name and heart logo on the rear wing of cars #23 and #27 (seen at the 2026 Lone Star Le Mans); donations raised for the hospital.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "goodyear",
+      "placement": "league-partner",
+      "source": {
+        "name": "FIA WEC - Goodyear extends LMGT3 tyre partnership with long-term commitment",
+        "date": "2026-06-11",
+        "url": "https://www.fiawec.com/en/news/goodyear-extends-lmgt3-tyre-partnership-with-long-term-commitment/13610",
+        "quote": "ensuring it will continue to provide tyres to the series’ fiercely competitive LMGT3 category until at least 2029",
+        "note": "Goodyear is the championship's exclusive LMGT3 tyre supplier; its logos appear on the cars' tyres and bodywork and on driver suits.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "dhl",
+      "placement": "league-partner",
+      "source": {
+        "name": "DHL InMotion - FIA World Endurance Championship partnership page",
+        "date": "2026-10-03",
+        "url": "https://inmotion.dhl/en/wec",
+        "quote": "As Official Logistics Partner of the FIA WEC, we deliver more than cargo – we set the stage for world-class endurance racing.",
+        "note": "DHL branding appears on the car number panel, a championship-wide placement for every WEC car.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "2026 FIA WEC season: Aston Martin Vantage LMGT3, cars #23 and #27. The team name (The Heart of Racing) sits across the suit chest and the car sides; the only other branding is the Aston Martin wings/Aston Martin Racing windshield banner (manufacturer partner), Seattle Children's on the rear wing (the team's charity beneficiary), plus championship-supplied Goodyear (exclusive LMGT3 tyre partner) and DHL (number-panel logistics partner). No commercial sponsor on the suit chest or car side.",
+  "change": null
+}
