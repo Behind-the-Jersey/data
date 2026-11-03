@@ -1,0 +1,20 @@
+{
+  "id": "yellow-hat-ltd-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "yellow-hat-ltd"
+  ],
+  "text": "Yellow Hat Ltd.'s top-10 shareholders as of 31 March 2026 are led by Kouei Kikaku Co. ((株)幸栄企画, 14.67%), a Japan-Up trust at Intertrust Trustees Cayman (standing proxy Mizuho Bank, 9.68%), The Master Trust Bank of Japan (Trust Account, 9.23%), the Yellow Hat Kyowa-kai association (6.43%) and a second Japan-Up trust (standing proxy Tachibana Securities, 4.67%).",
+  "short": "Yellow Hat's top-10 holders as of 31 March 2026: Kouei Kikaku 14.67%, Japan-Up trust 9.68%, Master Trust 9.23%.",
+  "source": {
+    "name": "イエローハット: 株式の状況（大株主（上位10名）, 2026年3月31日現在）",
+    "date": "2026-03-31",
+    "url": "https://www.yellowhat.jp/corp/ir/status.html",
+    "quote": "(株)幸栄企画 12,549 14.67",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

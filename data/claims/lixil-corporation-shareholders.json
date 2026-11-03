@@ -1,0 +1,20 @@
+{
+  "id": "lixil-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "lixil-corporation"
+  ],
+  "text": "LIXIL Corporation's major shareholders as of 31 March 2026 are The Master Trust Bank of Japan, Ltd. (Trust Account, 12.18%), Custody Bank of Japan, Ltd. (Trust Account, 3.56%) and the LIXIL Employee Stock Ownership (3.01%), with custodial accounts and insurers below 2%; in its shareholder classification, individuals and others hold 51.8%.",
+  "short": "LIXIL's largest holders as of 31 March 2026 are trust-bank accounts (Master Trust 12.18%) and its employee stock ownership (3.01%).",
+  "source": {
+    "name": "LIXIL Corporation: Shareholder Structure (as of March 31, 2026)",
+    "date": "2026-03-31",
+    "url": "https://www.lixil.com/en/investor/share/structure.html",
+    "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) *35,006 12.18",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
