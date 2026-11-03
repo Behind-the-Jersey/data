@@ -1,0 +1,22 @@
+{
+  "id": "omv-petrom-romanian-state-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "omv-petrom-sa",
+    "government-of-romania"
+  ],
+  "text": "The Romanian state, through the Ministry of Energy, held 20.7% of OMV Petrom at the end of 2025.",
+  "short": "Romanian state holds 20.7% of OMV Petrom",
+  "source": {
+    "name": "OMV Petrom: Shareholder Information (omvpetrom.com)",
+    "date": "2026-10-04",
+    "url": "https://www.omvpetrom.com/en/investors/shares-and-dividends/shareholder-information",
+    "quote": "of which the Romanian state, through the Ministry of Energy, held 20.7%",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Undated investor page; the stake is stated as at end-2025, within 'Romanian shareholders held around 45% of the shares'. Date is the day the page was opened."
+  },
+  "reviewed": false
+}

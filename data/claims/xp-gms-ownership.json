@@ -1,0 +1,35 @@
+{
+  "id": "xp-gms-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "xp-group",
+    "gms-holdings"
+  ],
+  "text": "XP Group (formerly Expert Petroleum) is an investment managed through GMS Holdings, the family office of its board chairman Ghiath Sukhtian, who invested in the company two decades ago.",
+  "short": "Backed by the Sukhtian family's GMS Holdings; chairman Ghiath Sukhtian",
+  "source": {
+    "name": "The Diplomat Bucharest: Ghiath Sukhtian, Expert Petroleum (XP): \"XP has significant growth potential...\"",
+    "date": "2025-06-12",
+    "url": "https://www.thediplomat.ro/2025/06/12/ghiath-sukhtian-expert-petroleum-xp-xp-has-significant-growth-potential-not-only-in-europe-but-also-in-central-asia-and-the-middle-east/",
+    "quote": "Today, all our investments—spanning several continents—are managed through our family office, GMS Holdings, which oversees a diversified portfolio of nearly $1 billion in global assets.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Interview with Ghiath Munir Sukhtian. The interviewer's question asks what 'convinced you, two decades ago, to invest in Expert Petroleum—now XP Group', and the magazine identifies him as 'chairman of GMS Holdings, and of the Board of XP Group'. The ownership percentage is not stated anywhere."
+  },
+  "additionalSources": [
+    {
+      "name": "XP Group: About us — Board of directors",
+      "date": "2026-10-04",
+      "url": "https://xp-group.com/about/",
+      "quote": "Ghiath SUKHTIAN Chairman of the Board",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "XP Group's own board page; his profile there names him 'Founder & Chairman of GMS Holdings'. The same page says the company was 'Founded by ex-Schlumberger managers' in 2005. Undated page; date is the day it was opened."
+    }
+  ],
+  "reviewed": false
+}

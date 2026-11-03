@@ -1,0 +1,34 @@
+{
+  "id": "ans-romanian-government-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-romania"
+  ],
+  "text": "The National Agency for Sport (Agenția Națională pentru Sport) is a Romanian public institution set up by government emergency ordinance in 2023, taking over the former Ministry of Sport.",
+  "short": "Romanian state sports agency",
+  "source": {
+    "name": "Libertatea: Funcționarea și atribuțiile Agenţiei Naţionale pentru Sport, condusă de Elisabeta Lipă, aprobată de Guvern",
+    "date": "2023-07-07",
+    "url": "https://www.libertatea.ro/stiri/functionarea-agentiei-nationale-pentru-sport-condusa-de-elisabeta-lipa-aprobata-guvern-4599210",
+    "quote": "Agenția Națională pentru Sport a înlocuit Ministerul Tineretului și Sportului și a fost înființată prin OUG adoptată în ședința de Guvern din 15 iunie",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Translation: 'The National Agency for Sport replaced the Ministry of Youth and Sport and was established by emergency ordinance adopted in the government meeting of 15 June.'"
+  },
+  "additionalSources": [
+    {
+      "name": "Sindicatul Național Sport și Tineret: Ordonanţă de urgenţă – reorganizare (text of the draft emergency ordinance)",
+      "date": "2023-06-15",
+      "url": "https://snst.ro/ordonanta-de-urgenta-reorganizare/",
+      "quote": "Se înființează Agenția Națională pentru Sport, instituție publică, cu personalitate juridică, în subordinea Guvernului și coordonarea prim-ministrului",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'The National Agency for Sport is established, a public institution with legal personality, under the Government and the coordination of the prime minister.' The provisions of the emergency ordinance establishing ANS, published by the sports trade union on 15 June 2023 (the day the government adopted it, as reported by Libertatea); the union's page presents the text as a draft ('proiect')."
+    }
+  ],
+  "reviewed": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "omv-adnoc-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "omv",
+    "adnoc"
+  ],
+  "text": "ADNOC (Abu Dhabi National Oil Company) owns 24.9% of the shares of OMV Aktiengesellschaft.",
+  "short": "ADNOC owns 24.9% of OMV",
+  "source": {
+    "name": "OMV: Shareholder structure (omv.com)",
+    "date": "2026-10-04",
+    "url": "https://www.omv.com/en/investors/omv-on-the-capital-markets/more-insights/shareholder-structure",
+    "quote": "24.9% Abu Dhabi National Oil Company (ADNOC) P.J.S.C.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Undated investor page listing OMV's shareholder base (the '1' is a footnote marker). A note on the page says ADNOC has announced its intention to transfer the 24.9% stake to XRG P.J.S.C., its wholly-owned investment company, subject to regulatory approvals. Date is the day the page was opened."
+  },
+  "additionalSources": [
+    {
+      "name": "ADNOC press release: ADNOC Closes Acquisition of 24.9% Stake in OMV",
+      "date": "2024-02-29",
+      "url": "https://www.adnoc.ae/en/news-and-media/press-releases/2023/adnoc-closes-acquisition-of-249-stake-in-omv/",
+      "quote": "Following the successful completion of the transaction, ADNOC owns 24.9% of OMV",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "ADNOC's announcement of the closing of the purchase of Mubadala's 24.9% stake in OMV, completed 28 February 2024."
+    }
+  ],
+  "reviewed": false
+}
