@@ -3,14 +3,15 @@
   "name": "Apple TV",
   "ownerId": "apple-inc",
   "ownership": "owned",
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Apple Inc. is a Nasdaq-listed US company; its 2026 proxy statement lists The Vanguard Group (9.63%) and BlackRock, Inc. (7.10%) as its only holders above 5%. Nothing found.",
   "claimIds": [
-    "apple-inc-record"
+    "apple-inc-record",
+    "apple-inc-shareholders-2026"
   ],
   "aliases": [
     "Apple TV+"
   ],
-  "note": "League-wide sleeve-patch sponsor of MLS; the patch sits on the left sleeve of every club's first-team kit."
+  "note": "League-wide sleeve-patch sponsor of MLS; the patch sits on the left sleeve of every club's first-team kit. No state or state fund in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against Apple Inc. itself found (searched 4 Oct 2026)."
 }

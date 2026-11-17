@@ -1,0 +1,32 @@
+{
+  "id": "judi-health-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "judi-health"
+  ],
+  "text": "Judi Health, formerly named Capital Rx, Inc., is a private US health-technology company founded in late 2017 by Chief Executive Officer AJ Loiacono and Chief Technology Officer Ryan Kelly; in September 2025 it announced a $400 million investment including a $252 million Series F round led by Wellington Management and General Catalyst.",
+  "short": "Judi Health (formerly Capital Rx): private US company founded by AJ Loiacono and Ryan Kelly; 2025 round led by Wellington Management and General Catalyst.",
+  "source": {
+    "name": "PR Newswire (Capital Rx): Capital Rx Announces Funding Round of $400M to Accelerate AI-Powered Health Benefits Platform; Rebrands as \"Judi Health\"",
+    "date": "2025-09-23",
+    "url": "https://www.prnewswire.com/news-releases/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expansion-beyond-pharmacy-302563763.html",
+    "quote": "Founded in late 2017 by Chief Executive Officer AJ Loiacono and Chief Technology Officer Ryan Kelly, Judi Health has earned national recognition",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Managed Healthcare Executive (Briana Contreras): Capital Rx Raises $400 Million and Rebrands as Judi Health to Expand Beyond Pharmacy",
+      "date": "2025-09-23",
+      "url": "https://www.managedhealthcareexecutive.com/view/capital-rx-raises-400-million-and-rebrands-as-judi-health-to-expand-beyond-pharmacy",
+      "quote": "This latest financing round, led by Wellington Management and General Catalyst, includes a $252 million Series F investment",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
