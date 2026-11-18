@@ -1,0 +1,22 @@
+{
+  "id": "costa-crociere-carnival-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "costa-group",
+    "carnival-corporation"
+  ],
+  "text": "Costa Crociere S.p.A. owns and operates the Costa and AIDA cruise brands and is the principal operating subsidiary of Carnival plc (part of Carnival Corporation & plc), which lists a 99.9% ownership interest in it in the group's 2025 annual report.",
+  "short": "Costa Crociere is a subsidiary of Carnival plc (Carnival Corporation & plc)",
+  "source": {
+    "name": "Carnival plc: Annual Report Year Ended November 30, 2025 (PDF, pp. 115 and 117)",
+    "date": "2025",
+    "url": "https://www.carnivalcorp.com/wp-content/uploads/2025/03/Carnival-plc-2025-Annual-Report-2.pdf",
+    "quote": "the Parent Company’s principal operating subsidiary was Costa Crociere S.p.A. (“Costa Crociere”), which owns and operates the Costa and AIDA cruise brands.",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The report's list of the Parent Company's undertakings (financial statements, p. 117) states 'Costa Crociere S.p.A. 99.9%'."
+  },
+  "reviewed": false
+}
