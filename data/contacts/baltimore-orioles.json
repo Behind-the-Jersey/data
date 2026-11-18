@@ -5,18 +5,28 @@
       "type": "email",
       "value": "birdmail@orioles.com",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/orioles/official-information/contact",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Wayback Machine snapshot; the live page blocks scripts)",
+        "url": "https://web.archive.org/web/2026/https://www.mlb.com/orioles/official-information/contact",
+        "date": "2026-09-24",
+        "quote": "birdmail@orioles.com",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "phone",
       "value": "+18888482473",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/orioles",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Wayback Machine snapshot; the live page blocks scripts)",
+        "url": "https://web.archive.org/web/2026/https://www.mlb.com/orioles/official-information/contact",
+        "date": "2026-09-24",
+        "quote": "888-848-BIRD",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
@@ -24,29 +34,44 @@
       "value": "https://www.mlb.com/orioles/official-information/contact",
       "label": "Contact form",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/orioles/official-information/contact",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Wayback Machine snapshot; the live page blocks scripts)",
+        "url": "https://web.archive.org/web/2026/https://www.mlb.com/orioles/official-information/contact",
+        "date": "2026-09-24",
+        "quote": "To submit your request, please complete the form below.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "x",
       "value": "@Orioles",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/orioles",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Wayback Machine snapshot; the live page blocks scripts)",
+        "url": "https://web.archive.org/web/2026/https://www.mlb.com/orioles/official-information/contact",
+        "date": "2026-09-24",
+        "quote": "birdmail@orioles.com",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "type": "instagram",
       "value": "@orioles",
       "source": {
-        "name": "Club website contact page",
-        "url": "https://www.mlb.com/orioles",
-        "date": "2026-09-24"
+        "name": "Club website contact page (Wayback Machine snapshot; the live page blocks scripts)",
+        "url": "https://web.archive.org/web/2026/https://www.mlb.com/orioles/official-information/contact",
+        "date": "2026-09-24",
+        "quote": "More ways to stay in touch",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-02"
 }

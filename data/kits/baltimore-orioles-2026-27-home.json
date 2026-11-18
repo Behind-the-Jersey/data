@@ -12,9 +12,14 @@
       "sponsorId": "t-rowe-price",
       "placement": "patch",
       "source": {
-        "name": "Baltimore Orioles / MLB.com press release",
-        "date": "2024-06-10",
-        "url": "https://www.mlb.com/press-release/press-release-baltimore-orioles-and-t-rowe-price-announce-marquee-sponsorship-agreement-with-jersey-patch"
+        "name": "T. Rowe Price: The Baltimore Orioles and T. Rowe Price",
+        "date": "2026",
+        "url": "https://www.troweprice.com/en/us/about-us/baltimore-orioles-partnership",
+        "quote": "A T. Rowe Price-branded uniform patch adorns the sleeve of players",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
