@@ -1,0 +1,34 @@
+{
+  "id": "first-spring-scenic-area-jctg-operations",
+  "kind": "ownership",
+  "ownerIds": [
+    "jinan-culture-tourism-group"
+  ],
+  "text": "The 'First Spring Under Heaven' (天下第一泉) 5A scenic area is among the core assets that Jinan Culture & Tourism Development Group manages and operates.",
+  "short": "Jinan Culture & Tourism Group operates the 'First Spring Under Heaven' scenic area.",
+  "source": {
+    "name": "山东人才就业网 (Shandong Talent Employment Network): 2026年济南文旅发展集团有限公司校园招聘公告（20人）",
+    "date": "2026-04-03",
+    "url": "https://www.sdrcjy.com.cn/index.php?g=Wap&a=shows&catid=66&id=53204",
+    "quote": "现管理运营天下第一泉风景区(5A)、济南奥体中心、济南野生动物世界、济南鲜花港等核心资源资产",
+    "note": "Translation: 'It currently manages and operates core assets including the First Spring Under Heaven scenic area (5A), Jinan Olympic Sports Center, Jinan Wildlife World and Jinan Flower Port.' The group's own 2026 campus recruitment announcement.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "澎湃新闻/大众日报客户端 (The Paper / Dazhong Daily): 济南\"天下第一泉景区\"由政府主管变为济南文旅发展集团代管",
+      "date": "2019-12-02",
+      "url": "https://m.thepaper.cn/newsDetail_forward_5119468",
+      "quote": "这意味着，济南天下第一泉景区开始由济南文旅发展集团代管。",
+      "note": "Translation: 'This means the Jinan First Spring Under Heaven scenic area is now managed on behalf of the city by Jinan Culture & Tourism Development Group.' Reports the December 2019 transfer from the municipal gardens and forestry bureau to the group.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
