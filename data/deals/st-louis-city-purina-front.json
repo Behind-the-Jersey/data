@@ -1,0 +1,21 @@
+{
+  "id": "st-louis-city-purina-front",
+  "clubId": "st-louis-city",
+  "orgName": null,
+  "sponsorId": "purina",
+  "placement": "front",
+  "from": "2021-03",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Nestlé Purina News Center – 'Pets on the Pitch: St. Louis CITY SC Introduces Purina as the Team's First Founding Partner'",
+    "date": "2021-03-31",
+    "url": "https://newscenter.purina.com/2021-03-31-Pets-on-the-Pitch-St-Louis-CITY-SC-Introduces-Purina-as-the-Teams-First-Founding-Partner",
+    "quote": "the club today introduced Purina as the team's first founding partner and kit sponsor",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The same release quotes the club's CEO saying Purina would be 'represented on the front of our team's kit'. No deal value for this specific deal has been reported; see the pull request for the league-wide range a local outlet cited."
+  }
+}
