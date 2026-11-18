@@ -1,0 +1,33 @@
+{
+  "id": "marquez-brothers-family-owned",
+  "kind": "ownership",
+  "ownerIds": [
+    "marquez-brothers-international"
+  ],
+  "text": "Marquez Brothers International, Inc., owner of the El Mexicano Brand (per its CEO's statement in LAFC's announcement), is a family-owned company founded in 1981; Gustavo Marquez Jr. is its CEO and President.",
+  "short": "Marquez Brothers International, Inc., owner of the El Mexicano Brand, is a family-owned company founded in 1981.",
+  "source": {
+    "name": "Perishable News: Marquez Brothers International, Inc's. Brands Win Best of Class for Cheese and Yogurt at 2026 World Championship Cheese Contest",
+    "date": "2026-03-17",
+    "url": "https://perishablenews.com/dairy/marquez-brothers-international-incs-brands-win-best-of-class-for-cheese-and-yogurt-at-2026-world-championship-cheese-contest/",
+    "quote": "Marquez Brothers International, Inc. (MBI) is a family-owned company and a leading producer of authentic Hispanic dairy products in the United States.",
+    "note": "Company-issued press release carried by the trade outlet Perishable News; the page also quotes 'Gustavo Marquez JR CEO / President of Marquez Brothers'.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "LAFC – LAFC Announces El Mexicano Brand as Club's First-Ever Back-of-Kit Partner",
+      "date": "2026-07-31",
+      "url": "https://www.lafc.com/news/lafc-announces-el-mexicano-brand-as-club-s-first-ever-back-of-kit-partner",
+      "quote": "said Gustavo Marquez Jr., CEO of Marquez Brothers International, Inc., owner of El Mexicano® Brand",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
