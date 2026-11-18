@@ -1,0 +1,20 @@
+{
+  "id": "tillamook-cooperative-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "tillamook-county-creamery-association"
+  ],
+  "text": "Tillamook is the brand of Tillamook County Creamery Association, a farmer-owned dairy cooperative; the company is owned by a group of farming families in Tillamook County, Oregon.",
+  "short": "Tillamook is a brand of a farmer-owned dairy cooperative.",
+  "source": {
+    "name": "Tillamook: About Us (tillamook.com)",
+    "date": "2026",
+    "url": "https://www.tillamook.com/about-us",
+    "quote": "This means that a group of farming families in Tillamook County, on the coast of Oregon, own the company and benefit directly from its growth and success.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
