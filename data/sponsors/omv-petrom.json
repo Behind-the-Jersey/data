@@ -1,0 +1,34 @@
+{
+  "id": "omv-petrom",
+  "name": "OMV Petrom",
+  "ownerId": "omv-petrom-sa",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Austria's OMV holds 51.2% of OMV Petrom; the Romanian state holds 20.7%; through OMV, Abu Dhabi's ADNOC holds an indirect stake of about 12.8%. Proposed: concern.",
+  "claimIds": [
+    "uae-mass-trial-2024",
+    "adnoc-abu-dhabi-ownership",
+    "omv-petrom-omv-majority",
+    "omv-adnoc-stake",
+    "omv-petrom-romanian-state-stake",
+    "omv-oebag-stake"
+  ],
+  "aliases": [
+    "Petrom",
+    "OMV"
+  ],
+  "ownerVerb": "owned by",
+  "why": {
+    "text": "The name on the back of Romania's shirt belongs to OMV Petrom, which is majority owned by Austria's OMV. Abu Dhabi's state oil company ADNOC owns 24.9% of OMV — about 13% of OMV Petrom — and ADNOC is wholly owned by the Government of Abu Dhabi. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "adnoc-abu-dhabi-ownership",
+      "omv-petrom-omv-majority",
+      "omv-adnoc-stake"
+    ],
+    "messageLine": "In 2024, a court in Abu Dhabi gave 43 people, among them human rights defenders, life sentences after a mass trial monitors called unfair.",
+    "status": "draft"
+  },
+  "note": "Rating note: propose 'concern'. The link: the Government of Abu Dhabi reaches OMV Petrom with a stake of about 12.8% (ADNOC 24.9% of OMV × OMV 51.2% of OMV Petrom), above the 5% threshold but without control (claims adnoc-abu-dhabi-ownership, omv-adnoc-stake, omv-petrom-omv-majority). ÖBAG's consortium agreement with ADNOC provides for coordinated behaviour but Austria's ~16% indirect stake and Romania's direct 20.7% (Ministry of Energy) carry no sourced record of serious abuses, so they add nothing to the tier. The record: uae-mass-trial-2024 (HRW + UN experts; July 2024 mass-trial life sentences in Abu Dhabi), ownerIds include government-of-abu-dhabi and uae, both reached through the ADNOC ownership claims. A 5%+ state stake without control with a sourced record -> 'concern'. ON HOLD: proposed 'concern' in PR, pending maintainer review.\n\nOn the shirt: OMV Petrom's wordmark and Petrom logo sit across the upper back of Romania's current O'Neills home shirt (official product photo, O'Neills shop, linked from rugbyromania.ro). OMV Petrom is also on the federation's partner bar (rugbyromania.ro footer, linking omvpetrom.com)."
+}
