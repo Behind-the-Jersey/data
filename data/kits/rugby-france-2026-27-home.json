@@ -1,0 +1,76 @@
+{
+  "id": "rugby-france-2026-27-home",
+  "clubId": "rugby-france",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "altrad",
+      "placement": "front",
+      "source": {
+        "name": "L'Équipe: Le sponsor maillot de l'équipe de France de rugby va-t-il changer dès cet été ?",
+        "date": "2026-06-03",
+        "url": "https://web.archive.org/web/20260705190805/https://www.lequipe.fr/Rugby/Actualites/Le-sponsor-maillot-de-l-equipe-de-france-de-rugby-va-t-il-changer-des-cet-ete/1681445",
+        "quote": "la marque Altrad s'affichera sur le maillot des Bleus cet été, à l'occasion du Championnat des nations qui verra le quinze de France jouer en Nouvelle-Zélande (4 juillet), en Australie (11 juillet) et au Japon (18 juillet), et jusqu'au 30 juin 2027, ce qui inclut donc le prochain Tournoi des Six Nations",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "L'Équipe (live page 403s scripts; archived copy opened) reports the one-year extension ('avenant') keeping the Altrad name on the front of the France shirt until 30 June 2027, i.e. the whole 2026-27 season. The official FFR shop product photos of the current Adidas home shirt (replica and player-issue, opened 4 Oct 2026) show the large white ALTRAD wordmark centre chest."
+      }
+    },
+    {
+      "sponsorId": "societe-generale",
+      "placement": "back",
+      "source": {
+        "name": "Société Générale: Sponsoring du rugby — l'engagement de Société Générale",
+        "date": "2026",
+        "url": "https://www.societegenerale.com/fr/groupe/presentation/philanthropie-sponsoring/rugby",
+        "quote": "Société Générale est désormais présent au dos de tous les maillots des équipes de France.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The bank's own site states: 'Société Générale is now on the back of all the French national teams' shirts' — the 'haut du dos de maillot' rights for all France teams were acquired in its 2024-2028 'partenaire premium' deal (News Tank Sport, 19 Nov 2024). The official partner-shop photos of the current home shirt show SOCIETE GENERALE across the upper back."
+      }
+    },
+    {
+      "sponsorId": "renault",
+      "placement": "shorts",
+      "source": {
+        "name": "News Tank Sport: FFR — Société Générale et Renault, premiers sponsors dos de maillot et short des équipes de France",
+        "date": "2023-09-04",
+        "url": "https://sport.newstank.fr/article/view/298895/ffr-societe-generale-renault-premiers-sponsors-dos-maillot-short-equipes.html",
+        "quote": "vont devenir respectivement sponsor dos de maillot et sponsor short des équipes de France de rugby pour un cycle qui ira du 01/01/2024 au 31/12/2027",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "FFR president Florian Grill told News Tank that Société Générale (shirt back) and Renault Group (shorts) won the bidding for the 01/01/2024-31/12/2027 rights cycle — the current one. The match shorts carry the sponsor; the replica home shorts sold on boutique.ffr.fr and rugbyshop.com (checked 4 Oct 2026) show only the rooster crest and the Adidas mark: replicas omit the shorts sponsor."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "SportBusiness.Club: En attendant CMA CGM, la FFR annonce cinq nouveaux sponsors",
+        "date": "2026-10-01",
+        "url": "https://www.sportbusiness.club/en-attendant-cma-cgm-la-ffr-annonce-5-nouveaux-sponsors/",
+        "quote": "La FFR a également officialisé la prolongation de son contrat d’équipementier avec Adidas pour dix années supplémentaires, jusqu’en 2036",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Adidas has made the France kits since November 2025; on 1 October 2026 the FFR officially extended the kit-maker contract by ten years, to 2036 (English: 'FFR ... extended its kit-supplier contract with Adidas ... until 2036'). Kit maker, listed as partner per the convention for kit suppliers."
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "France plays the 2026-27 internationals in the Adidas home shirt launched in November 2025 (first worn 8 Nov 2025 against South Africa, still the current match shirt for the Nations Championship and Six Nations 2027). Altrad sits centre front, extended to 30 June 2027; Société Générale is on the upper back; Renault Group holds the shorts placement for the current rights cycle. Adidas makes the kit (contract extended to 2036). Official shop and partner-shop photos show plain sleeves and crest-plus-Adidas shorts: no other commercial marks. Altrad (owned by Mohed Altrad) and Société Générale both have recorded issues to weigh: a 2026 tax-fraud investigation and a 2022 first-instance corruption conviction (Mohed Altrad, appeal pending) — excluded categories under METHOD.md — and a September 2025 Paris Court of Appeal discrimination finding against Société Générale, proposed as Concern.",
+  "change": null,
+  "shortLine": "Altrad on the front, Société Générale on the back"
+}

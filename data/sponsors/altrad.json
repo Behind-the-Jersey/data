@@ -1,12 +1,17 @@
 {
   "id": "altrad",
   "name": "Altrad",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Major Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  "ownerId": "altrad",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned and chaired by its founder Mohed Altrad. Nothing found that passes the method.",
+  "claimIds": [
+    "altrad-mohed-altrad-ownership"
+  ],
+  "aliases": [
+    "Altrad Group",
+    "Groupe Altrad"
+  ],
+  "note": "Front-of-shirt sponsor of France (to 30 June 2027) and major sponsor of New Zealand Rugby and Montpellier Hérault Rugby. A 2022 first-instance corruption conviction of Mohed Altrad (Laporte-Altrad affair, appeal pending) and a 2026 tax-fraud investigation of the group are not human-rights records and fall in the categories METHOD.md excludes (bribery, tax), so they are not claimed."
 }

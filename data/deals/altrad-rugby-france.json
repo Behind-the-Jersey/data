@@ -1,0 +1,28 @@
+{
+  "id": "altrad-rugby-france",
+  "clubId": "rugby-france",
+  "orgName": null,
+  "sponsorId": "altrad",
+  "placement": "front",
+  "from": "2023",
+  "to": "2027",
+  "value": {
+    "amount": 10,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "L'Équipe: Le sponsor maillot de l'équipe de France de rugby va-t-il changer dès cet été ?",
+    "date": "2026-06-03",
+    "url": "https://web.archive.org/web/20260705190805/https://www.lequipe.fr/Rugby/Actualites/Le-sponsor-maillot-de-l-equipe-de-france-de-rugby-va-t-il-changer-des-cet-ete/1681445",
+    "quote": "Le contrat a depuis été renouvelé et réévalué pour un montant annuel de l'ordre de 10 M€ sans les primes.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "note": "Renewal agreed in January 2024 ran to the 2026 Six Nations, then a one-year extension ('avenant') runs to 30 June 2027 (L'Équipe). Value is a press estimate ('de l'ordre de' = about), excluding bonuses; earlier contract was about €7m/season. Other outlets reported the up-front estimate differently (Rugbyrama wrote 'entre 2018 et 2023' €7m then €9m)."
+}
