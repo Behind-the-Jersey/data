@@ -1,0 +1,33 @@
+{
+  "id": "pnp-ackerman-voting-interest",
+  "kind": "ownership",
+  "ownerIds": [
+    "pick-n-pay-stores"
+  ],
+  "text": "During the year, the Ackerman family's voting interest reduced from approximately 49.0% to 36.8%.",
+  "short": "The Ackerman family holds a 36.8% voting interest in Pick n Pay.",
+  "source": {
+    "name": "Pick n Pay Integrated Annual Report 2026 (PDF)",
+    "date": "2026",
+    "url": "https://www.picknpayinvestor.co.za/pdf/annual-report/2026/integrated-annual-report-2026-spread.pdf",
+    "quote": "During the year, the Ackerman family’s voting interest reduced from approximately 49.0% to 36.8%.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Retail Insight Network: Ackerman family cedes controlling stake in SA retailer Pick n Pay",
+      "date": "2025-11-19",
+      "url": "https://www.retail-insight-network.com/news/ackerman-family-stake-pick-n-pay/",
+      "quote": "Following the disposal, the Ackerman family’s voting interest in Pick n Pay will decrease from 49% to 36.8%.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Reports the November 2025 accelerated bookbuild (64 million shares, R1.6bn) and that the family remains the retailer's anchor shareholder."
+    }
+  ]
+}
