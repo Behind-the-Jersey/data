@@ -6,7 +6,26 @@
   "tier": "unrated",
   "status": "unrated",
   "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Regional Public Fund named after Akhmat Kadyrov; listed partner of RFK Akhmat."
+  "claimIds": [
+    "akhmat-foundation-ownership",
+    "akhmat-foundation-ukraine-children",
+    "chechnya-anti-lgbt-purges"
+  ],
+  "aliases": [
+    "Akhmat Kadyrov Foundation",
+    "Akhmat Fund",
+    "\u0424\u043e\u043d\u0434 \u0410\u0445\u043c\u0430\u0442",
+    "\u0424\u043e\u043d\u0434 \u0410\u0445\u043c\u0430\u0442\u0430 \u041a\u0430\u0434\u044b\u0440\u043e\u0432\u0430"
+  ],
+  "note": "Front-shirt sponsor of RFK Akhmat (fondkadyrova.net), confirmed against the club's 2026-27 kit launch. Chain: the fund (state-fund of the Chechen Republic) is owned or controlled by Chechen head Ramzan Kadyrov per a 2020 US Treasury designation; the fund itself was sanctioned by the UK in 2025 over 're-education' programmes for deported Ukrainian children. Severe tier proposed in PR; maintainer to set.",
+  "why": {
+    "text": "The name across the front of Akhmat's shirt is the Akhmat Kadyrov Foundation, controlled by Ramzan Kadyrov, the head of Chechnya: the US Treasury designated it in 2020 as owned or controlled by him, and it is run by his mother. The UK sanctioned the foundation in September 2025 for running 're-education' programmes, with militaristic training, for deported Ukrainian children. And Chechen security forces under Kadyrov have rounded up and tortured men suspected of being gay in repeated purges, with deaths reported. A famous shirt makes that regime look good while it goes on. That\u2019s called sportswashing.",
+    "claimIds": [
+      "akhmat-foundation-ukraine-children",
+      "chechnya-anti-lgbt-purges",
+      "akhmat-foundation-ownership"
+    ],
+    "messageLine": "The front sponsor runs 're-education' programmes for deported Ukrainian children, says the UK government.",
+    "status": "draft"
+  }
 }

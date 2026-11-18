@@ -1,0 +1,32 @@
+{
+  "id": "akhmat-foundation-ukraine-children",
+  "kind": "record",
+  "ownerIds": [
+    "akhmat-foundation"
+  ],
+  "text": "The UK government sanctioned the Akhmat Kadyrov Foundation in September 2025 for running 're-education' programmes for Ukrainian children and teenagers, subjecting them to militaristic training, as part of Russia's policy of forcibly deporting and indoctrinating Ukrainian children. Its president is Aymani Kadyrova, the mother of Chechen head Ramzan Kadyrov.",
+  "short": "UK: the Akhmat Kadyrov Foundation runs 're-education' programmes for deported Ukrainian children",
+  "source": {
+    "name": "GOV.UK (Foreign, Commonwealth & Development Office): UK sanctions actors forcibly deporting, indoctrinating and militarising Ukrainian children",
+    "date": "2025-09-03",
+    "url": "https://www.gov.uk/government/news/uk-sanctions-actors-forcibly-deporting-indoctrinating-and-militarising-ukrainian-children",
+    "quote": "the Akhmat Kadyrov Foundation which runs re-education programmes for Ukrainian children and teenagers, subjecting them to militaristic training",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Kyiv Independent: UK sanctions Kadyrov's mother, others over Russian deportation of Ukrainian children",
+      "date": "2025-09-03",
+      "url": "https://kyivindependent.com/uk-sanctions-individuals-groups-behind-russian-deportation-of-ukrainian-children/",
+      "quote": "Among them is the Akhmat Kadyrov Foundation, which runs re-education programs, and its president, Aymani Kadyrova, the mother of Chechen dictator Ramzan Kadyrov.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

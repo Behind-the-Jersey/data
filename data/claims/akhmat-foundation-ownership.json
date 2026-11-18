@@ -1,0 +1,33 @@
+{
+  "id": "akhmat-foundation-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "akhmat-foundation",
+    "chechen-republic"
+  ],
+  "text": "The US Treasury designated the Akhmat Kadyrov Foundation in December 2020 for being owned or controlled by Ramzan Kadyrov, the head of the Chechen Republic.",
+  "short": "US Treasury: the Akhmat Kadyrov Foundation is owned or controlled by Chechen head Ramzan Kadyrov",
+  "source": {
+    "name": "US Department of the Treasury: Treasury Sanctions Serious Human Rights Abusers on International Human Rights Day",
+    "date": "2020-12-10",
+    "url": "https://home.treasury.gov/news/press-releases/sm1208",
+    "quote": "Akhmat Kadyrov Foundation for being owned or controlled by Kadyrov.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Meduza: U.S. imposes sanctions on Kadyrov's foundation and soccer club over rights violations in Chechnya",
+      "date": "2020-12-10",
+      "url": "https://meduza.io/en/news/2020/12/10/u-s-imposes-sanctions-on-kadyrov-s-foundation-and-soccer-club-over-rights-violations-in-chechnya",
+      "quote": "Among the organizations added to the sanctions list are the soccer club FC Akhmat Grozny and the Akhmat Kadyrov Foundation",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
