@@ -12,22 +12,88 @@
       "sponsorId": "ds-automobiles",
       "placement": "front",
       "source": {
-        "name": "SailGP team page - DS Automobiles France (Title Partner)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/france/"
+        "name": "K-Challenge: DS Automobiles SailGP Team France (Team)",
+        "date": "2026",
+        "url": "https://www.k-challenge.fr/en/sailgp",
+        "quote": "This sporting and social ambition is backed by an exceptional title partner, DS Automobiles",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     },
     {
       "sponsorId": "accor",
       "placement": "partner",
       "source": {
-        "name": "SailGP team page - France (Global Partners: ALL - Accor Live Limitless)",
-        "date": "2026-09-25",
-        "url": "https://www.sailgp.com/teams/france/"
+        "name": "K-Challenge: DS Automobiles SailGP Team France (Team)",
+        "date": "2026",
+        "url": "https://www.k-challenge.fr/en/sailgp",
+        "quote": "prestigious official partners including ALL Accor, L'Oréal Groupe, Leyton and K-Way",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "loreal",
+      "placement": "partner",
+      "source": {
+        "name": "K-Challenge: DS Automobiles SailGP Team France (Team)",
+        "date": "2026",
+        "url": "https://www.k-challenge.fr/en/sailgp",
+        "quote": "prestigious official partners including ALL Accor, L'Oréal Groupe, Leyton and K-Way",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "leyton",
+      "placement": "partner",
+      "source": {
+        "name": "K-Challenge: DS Automobiles SailGP Team France (Team)",
+        "date": "2026",
+        "url": "https://www.k-challenge.fr/en/sailgp",
+        "quote": "prestigious official partners including ALL Accor, L'Oréal Groupe, Leyton and K-Way",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "k-way",
+      "placement": "partner",
+      "source": {
+        "name": "K-Challenge: DS Automobiles SailGP Team France (Team)",
+        "date": "2026",
+        "url": "https://www.k-challenge.fr/en/sailgp",
+        "quote": "prestigious official partners including ALL Accor, L'Oréal Groupe, Leyton and K-Way",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "inspired-by-km",
+      "placement": "partner",
+      "source": {
+        "name": "K-Challenge: DS Automobiles SailGP Team France (Team)",
+        "date": "2026",
+        "url": "https://www.k-challenge.fr/en/sailgp",
+        "quote": "Flying the colours of Mbappé's foundation, Inspired by KM — the team's official charity partner",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "Stellantis marque DS Automobiles is France's Title Partner; ALL - Accor Live Limitless leads the global-partner block.",
+  "sponsorsComplete": true,
+  "summary": "Stellantis marque DS Automobiles is France's Title Partner; ALL Accor, L'Oréal Groupe, Leyton and K-Way are official partners and Kylian Mbappé's Inspired by KM is the charity partner, per the team's operator K-Challenge. All placements on the F50 partner block were checked.",
   "change": null
 }
