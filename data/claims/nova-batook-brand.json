@@ -1,0 +1,21 @@
+{
+  "id": "nova-batook-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "batook"
+  ],
+  "text": "Nova, the chewing-gum brand, was launched by Batook Chewing Gum Industries in 1996.",
+  "short": "Nova is a Batook brand, launched in 1996.",
+  "source": {
+    "name": "Batook – About (company history)",
+    "date": "2026",
+    "url": "https://www.batook.com/about/",
+    "quote": "1996 Launching Nova brand",
+    "note": "Batook's corporate history: 'Founded in Dammam, Saudi Arabia, in 1981, Batook Chewing Gum Industries' and, under history milestones, the 1996 Nova launch. Page without a visible date (site footer says © 2021); opened 2026-10-03.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
