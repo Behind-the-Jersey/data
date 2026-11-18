@@ -1,0 +1,21 @@
+{
+  "id": "renfe-state-owned-entity",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-spain"
+  ],
+  "text": "Renfe (the brand on the back of Spain's rugby shirts) is Renfe-Operadora, a Spanish public business entity attached to the Ministry of Transport and Sustainable Mobility.",
+  "short": "Renfe-Operadora is a Spanish state rail entity attached to the Ministry of Transport.",
+  "source": {
+    "name": "Renfe: Nuestra web (información legal)",
+    "date": "2026",
+    "url": "https://www.renfe.com/es/es/ayuda/informacion-legal-viajeros/nuestra-web",
+    "note": "Legal notice page without a date; opened 2026-10-04. English: 'Renfe-Operadora is a public business entity, a public body under article 103 of Law 40/2015. It is attached to the Ministry of Transport and Sustainable Mobility.'",
+    "quote": "Renfe-Operadora es una entidad pública empresarial, organismo público de los previstos en el artículo 103 de la referida Ley 40/2015. Está adscrita al Ministerio de Transportes y Movilidad Sostenible",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
