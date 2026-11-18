@@ -1,0 +1,35 @@
+{
+  "id": "sogaz-shareholders-2020",
+  "kind": "ownership",
+  "ownerIds": [
+    "sogaz",
+    "vtb"
+  ],
+  "text": "SOGAZ has no state majority: per its January 2020 shareholder disclosure the largest shareholder is the Kovalchuk family (32.3% via Aquilla); state-controlled bank VTB received 10% of SOGAZ and a board seat in the 2018 merger of VTB Strakhovanie into SOGAZ (held via Kordex in the January 2020 list).",
+  "short": "SOGAZ: no state majority; VTB got 10% and a board seat in 2018.",
+  "source": {
+    "name": "Forbes.Россия: Загадка «Согаза»: кого, кроме миллиардера Ковальчука и двоюродного племянника Путина, обогатил страховщик «Газпрома» (archived copy)",
+    "date": "2019-09-02",
+    "url": "https://web.archive.org/web/20230106061212/https://www.forbes.ru/milliardery/382745-zagadka-sogaza-kogo-krome-milliardera-kovalchuka-i-dvoyurodnogo-plemyannika-putina-obogatil-strahovshchik-gazproma",
+    "quote": "ВТБ получил 10% в компании и место в совете директоров",
+    "note": "Translation: 'VTB received 10% in the company and a seat on the board of directors' (in the VTB Strakhovanie – SOGAZ merger). SOGAZ's own January 2020 shareholder list is an image-only PDF; the figures it shows are relayed by The Bell.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Bell (thebell.io): Выходец из спецназа ФСБ оказался владельцем 5% акций «Согаза» на $440 млн (archived copy)",
+      "date": "2020-01-31",
+      "url": "https://web.archive.org/web/20200131193219/https://thebell.io/vyhodets-iz-spetsnaza-fsb-okazalsya-vladeltsem-5-aktsij-sogaza-na-440-mln/",
+      "quote": "Крупнейшие акционеры «Согаза» (32,3%) — совладелец банка «Россия», друг Владимира Путина Юрий Ковальчук, его родственники и топ-менеджеры банка.",
+      "note": "Translation: 'The largest shareholders of SOGAZ (32.3%) are Yuri Kovalchuk, co-owner of Bank Rossiya and a friend of Vladimir Putin, his relatives and the bank's top managers.' Written from SOGAZ's January 2020 disclosure.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
