@@ -1,0 +1,32 @@
+{
+  "id": "keating-auto-group-keating-chevrolet",
+  "kind": "ownership",
+  "ownerIds": [
+    "keating-auto-group"
+  ],
+  "text": "Keating Chevrolet, the branding on the doors of TF Sport's 2026 #33 Corvette, is the Texas-based dealership group of TF Sport driver Ben Keating, who is the principal owner of the Keating Auto Group.",
+  "short": "Keating Chevrolet is TF Sport driver Ben Keating's Texas dealership group.",
+  "source": {
+    "name": "CorvetteBlogger: [PICS] TF Sport Unveils the 2026 Liveries for its Corvette Z06 GT3.R Racers",
+    "date": "2026-02-10",
+    "url": "https://www.corvetteblogger.com/2026/02/10/pics-tf-sport-unveils-the-2026-liveries-for-its-corvette-z06-gt3r-racers/",
+    "quote": "On the doors are Keating Chevrolet, a nod to driver Ben Keating's Texas-based dealership group.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Digital Dealer: Interview With Ben Keating of Keating Auto Group",
+      "date": "2018-04-03",
+      "url": "https://digitaldealer.com/news/interview-ben-keating-keating-auto-group/90815/",
+      "quote": "Today, Ben is the principal owner and chief visionary of the Keating Auto Group, a family-owned company that currently includes 17 popular automobile dealerships across Texas",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
