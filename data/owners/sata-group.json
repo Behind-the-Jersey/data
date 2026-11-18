@@ -1,8 +1,8 @@
 {
   "id": "sata-group",
-  "name": "Grupo SATA",
+  "name": "Grupo SATA (SATA Holding)",
   "type": "state",
   "country": "Portugal",
-  "note": "Azores airline group (Azores Airlines, SATA Air Acores). Became a public company in 1980 with 50% of shares held by the Regional Government of the Azores and the remainder by TAP Air Portugal (per pt.wikipedia SATA Air Acores / Grupo SATA); the government of the Azores remains the controlling public owner. Opened https://www.azoresairlines.pt/en/corporate and corporate-governance/investors pages - they link governance documents but do not print current percentages, so the 50% figure is from the Portuguese Wikipedia history section.",
-  "parentId": null
+  "note": "Azores airline group: SATA Holding controls the operating subsidiaries SATA Air Açores, Azores Airlines and SGA (European Commission press release approving restructuring aid, 7 June 2022), and the SATA Group is 'ultimately controlled by the Portuguese Autonomous Region of Azores' (same release). Azores Airlines' own site (/news, September 2026) confirms the privatisation of SATA Internacional – Azores Airlines, a sale of at least 75%, was running then; no completed sale reported as of 3 October 2026.",
+  "parentId": "regional-government-of-the-azores"
 }
