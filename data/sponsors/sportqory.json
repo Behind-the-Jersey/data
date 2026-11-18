@@ -1,12 +1,28 @@
 {
   "id": "sportqory",
   "name": "SportQory Sports Support Fund",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "sportqory-fund",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [],
-  "note": "Kazakh sports support fund credited as a main partner by XDS Astana GM; ownership/structure not found."
+  "status": "being-rated",
+  "verdict": "Kazakhstan's designated single operator for off-budget sports money, managing Barys and other Astana clubs; its director says the main funds come from the quasi-state sector, with sovereign wealth fund Samruk-Kazyna as general partner.",
+  "claimIds": [
+    "kazakhstan-january-2022-killings",
+    "sportqory-state-operator"
+  ],
+  "aliases": [
+    "Sport Qory",
+    "SportQory Qazaqstan",
+    "Фонд поддержки спорта"
+  ],
+  "note": "Partner of Barys Astana for 2026/27 (club partnership page; logo on sportqory.kz); the fund has managed Barys itself since 2021. Rating note (2026-10-03): the link is sportqory-state-operator (state-designated single operator for off-budget sports money; per its director the main funds come from the quasi-state sector with Samruk-Kazyna as general partner), and Samruk-Kazyna's sole shareholder is the Government of Kazakhstan (claim samruk-kazyna-government-owner); the record is kazakhstan-january-2022-killings. State with a sourced record directs and funds the sponsor -> proposed tier: serious. ON HOLD pending maintainer review.",
+  "why": {
+    "text": "Sport Qory, which manages Barys and appears among its partners, is Kazakhstan's designated single operator for distributing off-budget sports money; its director says the main funds come from the quasi-state sector, with the state's wholly owned fund Samruk-Kazyna as general partner. Under the Kazakh state, the January 2022 protest crackdown left 238 people dead, with officers convicted of torturing detainees and impunity persisting per Amnesty International.",
+    "claimIds": [
+      "kazakhstan-january-2022-killings",
+      "sportqory-state-operator"
+    ],
+    "messageLine": "Sport Qory channels state money through Samruk-Kazyna, whose state killed 238 protesters in 2022.",
+    "status": "draft"
+  }
 }

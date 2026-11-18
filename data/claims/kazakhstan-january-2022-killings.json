@@ -1,0 +1,33 @@
+{
+  "id": "kazakhstan-january-2022-killings",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-kazakhstan"
+  ],
+  "text": "Kazakhstan's response to the January 2022 anti-government protests left 238 people dead and hundreds injured; police officers have since been convicted of torturing detainees, but Human Rights Watch and Amnesty International say the authorities have failed to investigate the serious loss of life and grave violations effectively.",
+  "short": "238 people died in Kazakhstan's January 2022 crackdown; impunity persists.",
+  "source": {
+    "name": "Human Rights Watch — World Report 2026: Kazakhstan",
+    "date": "2026-01",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/kazakhstan",
+    "quote": "anti-government protests in January 2022 that left 238 dead and hundreds injured",
+    "note": "The same chapter reports convictions of police for torture tied to the January 2022 events and the government's failure to investigate the loss of life effectively.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International — Report 2025/26: Kazakhstan",
+      "date": "2026-04",
+      "url": "https://www.amnesty.org/en/location/europe-and-central-asia/eastern-europe-and-central-asia/kazakhstan/report-kazakhstan/",
+      "quote": "Impunity persisted for the majority of serious human rights violations committed during the January 2022 protests.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
