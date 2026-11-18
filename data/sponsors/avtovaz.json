@@ -1,16 +1,19 @@
 {
   "id": "avtovaz",
   "name": "AvtoVAZ (LADA)",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "nami",
+  "ownership": "owned",
   "tier": "unrated",
   "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "verdict": "Wholly state-owned through FSUE NAMI, subordinate to Russia's Ministry of Industry and Trade (since May 2023); tier proposed in the originating pull request.",
+  "claimIds": [
+    "avtovaz-nami-ownership",
+    "russian-federation-record"
+  ],
   "aliases": [
     "АВТОВАЗ",
     "LADA",
     "Lada"
   ],
-  "note": "League partner; lada.ru is the title sponsor of HC Lada."
+  "note": "Title sponsor of HC Lada ('Титульный спонсор' on the club's partners page, 2026/27); the LADA wordmark is on both shoulders (and the helmet) of the 2026-27 home jersey. Also a KHL league partner (see deal khl-avtovaz)."
 }
