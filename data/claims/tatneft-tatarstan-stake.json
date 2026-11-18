@@ -1,0 +1,57 @@
+{
+  "id": "tatneft-tatarstan-stake",
+  "kind": "ownership",
+  "ownerIds": [
+    "tatneft",
+    "government-of-tatarstan"
+  ],
+  "text": "Tatneft's own shareholder-structure page names AO Svyazinvestneftekhim as holder of 27.23% of its authorized capital (29.07% of voting shares); Svyazinvestneftekhim's own site says the Republic of Tatarstan is its sole shareholder; and Tatneft's Articles of Association state that the Republic of Tatarstan can exercise a special right (\"golden share\") over the company.",
+  "short": "Tatarstan's holding Svyazinvestneftekhim holds 27.2% of Tatneft (29.1% of votes), and Tatarstan holds a golden share.",
+  "source": {
+    "name": "PJSC TATNEFT: Equity Capital Structure (official investor page)",
+    "date": "2021-12-05",
+    "url": "https://old.tatneft.ru/for-shareholders/pjsc-tatneft-equity-capital-structure?lang=en",
+    "quote": "Svyazinvestneftekhim Owner (nominal holding of the \"Central Depository of the Republic of Tatarstan\" Joint Stock Company) 27.228284 29.071778",
+    "note": "Shareholder table, figures 'as of 05.12.2021': 27.228284% of authorized capital, 29.071778% of voting (ordinary) shares. Still the live disclosure on tatneft.ru's shareholder pages in October 2026.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "AO Svyazinvestneftekhim: Общая информация о компании (official site, company overview)",
+      "date": "2025",
+      "url": "https://sin-x.ru/about/",
+      "quote": "Единственным акционером Общества является Республика Татарстан.",
+      "note": "Russian: 'The sole shareholder of the Company is the Republic of Tatarstan.' The page also says the Government of the Republic of Tatarstan contributed state shareholdings in the republic's largest companies to its capital.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "PJSC TATNEFT: Articles of Association (official English translation, as amended at the shareholders' meeting of 21 June 2019)",
+      "date": "2019-06-21",
+      "url": "https://old.tatneft.ru/storage/block_editor/files/110b93543373d2aa4cab0072d44c179768d789f4.pdf",
+      "quote": "In accordance with the applicable Law, the Republic of Tatarstan can exercise a special right (\"Golden share\") with respect to the Company.",
+      "note": "Section 4.2 of the charter, linked from Tatneft's 'Internal documents of the Company' page. Quote checked in the extracted PDF text.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "TAdviser: Компания «Татнефть» (company profile)",
+      "date": "2026-03",
+      "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F:%D0%A2%D0%B0%D1%82%D0%BD%D0%B5%D1%84%D1%82%D1%8C",
+      "quote": "основным акционером является республика Татарстан - 34% акций",
+      "note": "Russian: 'the principal shareholder is the Republic of Tatarstan - 34% of shares.' TAdviser's figure (34%) is higher than Tatneft's own disclosure (27.23% of capital, 29.07% of votes); the claim states the company's own figures.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
