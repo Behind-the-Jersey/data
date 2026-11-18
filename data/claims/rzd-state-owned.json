@@ -16,5 +16,18 @@
       "by": "claude-review-282"
     }
   },
+  "additionalSources": [
+    {
+      "name": "AK&M: Чистая прибыль РЖД за 2025 год по МСФО упала в 22 раза",
+      "date": "2026-03-27",
+      "url": "https://www.akm.ru/news/chistaya_pribyl_rzhd_za_2025_god_po_msfo_upala_v_22_raza/",
+      "quote": "Государству принадлежат 100% акций компании.",
+      "note": "English: 'The state owns 100% of the company's shares' (in the corporate identity note for OAO Russian Railways).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
