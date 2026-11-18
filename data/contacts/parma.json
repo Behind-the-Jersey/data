@@ -2,6 +2,21 @@
   "clubId": "parma",
   "channels": [
     {
+      "type": "email",
+      "value": "gsquarcia@parmacalcio1913.com",
+      "label": "Supporter Liaison Officer (fans)",
+      "source": {
+        "name": "Parma Calcio 1913 - Supporters Liaison Officer (SLO)",
+        "url": "https://www.parmacalcio1913.com/en/supporters-liaison-officer-slo/",
+        "date": "2026-10-03",
+        "quote": "The SLO of Parma Calcio 1913 is Giuseppe Squarcia, who can be contacted at the following e-mail address gsquarcia@parmacalcio1913.com",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
       "type": "x",
       "value": "@1913parmacalcio",
       "source": {
@@ -20,5 +35,5 @@
       }
     }
   ],
-  "lastChecked": "2026-09-24"
+  "lastChecked": "2026-10-03"
 }
