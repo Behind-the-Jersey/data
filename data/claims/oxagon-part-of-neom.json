@@ -1,0 +1,34 @@
+{
+  "id": "oxagon-part-of-neom",
+  "kind": "ownership",
+  "ownerIds": [
+    "oxagon",
+    "neom"
+  ],
+  "text": "Oxagon is NEOM's reimagined industrial city, NEOM's industrial hub.",
+  "short": "Oxagon is NEOM's industrial city.",
+  "source": {
+    "name": "NEOM: Oxagon – An advanced and clean industrial city (NEOM's own site, Our Region)",
+    "date": "2026",
+    "url": "https://www.neom.com/en-us/regions/oxagon",
+    "note": "NEOM's own presentation of Oxagon as its industrial city; page undated, accessed 2026-10-03.",
+    "quote": "Oxagon is emerging as NEOM's reimagined industrial city with a 48km2 core development area",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Football Business Journal: NEOM SC Signs Industrial Partnership with Oxagon Covering Matchday and Training Apparel",
+      "date": "2025-12-24",
+      "url": "https://www.footballbusinessjournal.com/post/neom-sc-signs-industrial-partnership-with-oxagon-covering-matchday-and-training-apparel",
+      "quote": "Oxagon operates as NEOM's industrial hub, focused on advanced manufacturing and logistics",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
