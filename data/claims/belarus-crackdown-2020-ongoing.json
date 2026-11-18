@@ -1,0 +1,33 @@
+{
+  "id": "belarus-crackdown-2020-ongoing",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-belarus"
+  ],
+  "text": "Since the disputed 2020 election, Belarus's authorities have carried out widespread, systematic repression of critics: UN Human Rights Council-mandated experts documented arbitrary arrests, torture and persecution, some of it amounting to crimes against humanity. More than 1,100 people remained political prisoners in late 2025, facing ill-treatment, isolation and torture.",
+  "short": "UN-mandated experts: Belarus's repression of critics includes arbitrary detention and torture, partly amounting to crimes against humanity; 1,100+ political prisoners in late 2025.",
+  "source": {
+    "name": "UN News: Belarus: Violations remain ‘widespread and systematic’, says independent expert group",
+    "date": "2025-02-14",
+    "url": "https://news.un.org/en/story/2025/02/1160156",
+    "quote": "authorities have been committing widespread human rights violations, some amounting to crimes against humanity, as part of a systematic campaign to silence political opposition.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Human Rights Watch: World Report 2026 - Belarus (events of 2025)",
+      "date": "2026",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/belarus",
+      "note": "The chapter also reports that in December 2025 at least 1,110 people remained behind bars on politically motivated grounds.",
+      "quote": "Political prisoners continue to face ill-treatment, isolation, and torture.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
