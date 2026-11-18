@@ -8,9 +8,15 @@
   "to": null,
   "value": null,
   "source": {
-    "name": "Oklahoma City Thunder (nba.com)",
+    "name": "Oklahoma City Thunder (nba.com): Thunder, Paycom Announce 15-Year Arena Naming Rights Agreement",
     "date": "2021-07-27",
-    "url": "https://www.nba.com/thunder/news/release-paycom-210727"
+    "url": "https://www.nba.com/thunder/news/release-paycom-210727",
+    "quote": "The Oklahoma City Thunder and Paycom (NYSE: PAYC) today jointly announced an exclusive, 15-year naming rights partnership that will transform the downtown home of the Thunder into Paycom Center.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The page body is JavaScript-rendered, so scripts/check_sources.py cannot read the quote."
   },
   "note": "Arena naming rights: Paycom Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-07-27."
 }
