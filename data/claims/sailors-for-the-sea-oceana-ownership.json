@@ -1,0 +1,20 @@
+{
+  "id": "sailors-for-the-sea-oceana-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "oceana"
+  ],
+  "text": "In 2018 Sailors for the Sea joined forces with Oceana, the US ocean-conservation organisation, and now operates as Sailors for the Sea Powered by Oceana.",
+  "short": "Sailors for the Sea joined Oceana in 2018.",
+  "source": {
+    "name": "Sailors for the Sea: About Us",
+    "date": "2026",
+    "url": "https://sailorsforthesea.org/about-us",
+    "quote": "In 2018, Sailors for the Sea joined forces with Oceana",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "spain-catalan-leaders-detention",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-spain"
+  ],
+  "text": "In June 2019 the UN Working Group on Arbitrary Detention said Spain's detention of three Catalan pro-independence leaders during their trial violated their rights, and in October 2019 Spain's Supreme Court convicted nine of them of sedition for non-violent acts around the 2017 referendum; the group renewed its call for their release in 2020.",
+  "short": "UN experts found Spain's detention of Catalan leaders arbitrary.",
+  "source": {
+    "name": "Human Rights Watch - World Report 2020, Spain",
+    "date": "2020-01-14",
+    "url": "https://www.hrw.org/world-report/2020/country-chapters/spain",
+    "quote": "the UN working group on arbitrary detention said the detention of three of the defendants during the trial violated their rights",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Catalan News: UN group renews call for release of Catalan leaders despite Spain's criticism",
+      "date": "2020-09-16",
+      "url": "https://www.catalannews.com/catalan-trial/item/un-group-renews-call-for-release-of-catalan-leaders-despite-spain-s-criticism",
+      "quote": "In May 2019, the panel issued a first opinion calling for the immediate release of three imprisoned leaders",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

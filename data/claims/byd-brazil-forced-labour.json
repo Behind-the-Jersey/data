@@ -1,0 +1,32 @@
+{
+  "id": "byd-brazil-forced-labour",
+  "kind": "record",
+  "ownerIds": [
+    "byd"
+  ],
+  "text": "Brazil's Ministry of Labour added BYD to its registry of employers that subjected workers to conditions analogous to slavery, after 163 workers were rescued from slave-like labour at BYD's Camaçari factory site; labour prosecutors are suing BYD over the site.",
+  "short": "Brazil's Labour Ministry put BYD on its slavery-like-conditions registry (2026).",
+  "source": {
+    "name": "Agencia Brasil: Chinese carmaker BYD added to Brazil's forced labor list",
+    "date": "2026-04-08",
+    "url": "https://agenciabrasil.ebc.com.br/en/direitos-humanos/noticia/2026-04/chinese-carmaker-byd-added-brazils-forced-labor-list",
+    "quote": "Among the names included is Chinese automaker BYD",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "BBC News: Brazil sues China carmaker BYD over 'slave-like' conditions",
+      "date": "2025-05-28",
+      "url": "https://www.bbc.com/news/articles/c3v5n7w55kpo",
+      "quote": "Brazilian prosecutors are suing Chinese electric vehicle (EV) giant BYD and two of its contractors",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
