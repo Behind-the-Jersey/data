@@ -9,17 +9,82 @@
   "photos": {},
   "sponsors": [
     {
+      "sponsorId": "plenitude",
+      "placement": "front",
+      "source": {
+        "name": "RealOlimpiaMilano: Il brand Olimpia Milano, tra sponsorizzazioni e aspetto mediatico (Alessandro Maggi)",
+        "date": "2026-04-20",
+        "url": "https://realolimpiamilano.com/2026/04/20/il-brand-olimpia-milano-tra-sponsorizzazioni-e-aspetto-mediatico/",
+        "quote": "subito sotto compaiono Plenitude e MediaWorld come main sponsor",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Article places Plenitude directly under title sponsor EA7 in the club's sponsor hierarchy. The plenitude logo below the number on the front of the 2026/27 EuroLeague home jersey is visible in the club store's official product photos (https://store.olimpiamilano.com/it/olimpia-milano-canotta-replica-eurolega-bianca-26-27), and in the club's 16 September 2026 presentation photo of the shirt. Front product photo: https://store.olimpiamilano.com/images/olimpia/products/large/OM26A03.webp."
+      }
+    },
+    {
       "sponsorId": "ea7-emporio-armani",
       "placement": "front",
       "source": {
         "name": "Olimpia Milano, 'L'Olimpia torna EA7' title-sponsor announcement (Wayback snapshot 7 Apr 2023)",
         "date": "2022-07-07",
         "url": "https://web.archive.org/web/20230407225620/https://www.olimpiamilano.com/ci-siamo-lolimpia-diventa-ea7-e-domani-scatta-la-campagna-abbonamenti-tutti-insieme/",
-        "note": "EA7 Emporio Armani title sponsor since 2022"
+        "quote": "il ritorno del marchio EA7 Emporio Armani come “title sponsor” della squadra",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "EA7 Emporio Armani title sponsor since 2022; the club plays as 'EA7 Emporio Armani Olimpia Milano' and EA7 also makes the kit: its EA7 Emporio Armani mark sits on the left chest of the 2026/27 EuroLeague home jersey (club store product photo, same page as above) and on the front of the shorts. Front product photo: https://store.olimpiamilano.com/images/olimpia/products/large/OM26A03.webp; shorts: https://store.olimpiamilano.com/images/olimpia/products/large/OM26A23.webp."
+      }
+    },
+    {
+      "sponsorId": "teamsystem",
+      "placement": "patch",
+      "source": {
+        "name": "TeamSystem press release (teamsystem.com, PDF): TeamSystem vola a canestro con l'Armani Olimpia Milano: sarà sponsor di maglia in EuroLeague fino al 2028",
+        "date": "2026-09-16",
+        "url": "https://www.teamsystem.com/media/files/1752_CS_TeamSystem_Partnership%20Olimpia%20Milano.pdf",
+        "quote": "di Official Partner di Olimpia Milano e, nell’ambito dell’EuroLeague, di Jersey Partner, ovvero sponsor di maglia, con la presenza del brand TeamSystem sulle divise",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Two seasons, 2026/27 and 2027/28 ('durata biennale fino a giugno 2028'). The TeamSystem logo sits on the left chest of the 2026/27 EuroLeague home jersey, below the EA7 mark (club store product photo, front: https://store.olimpiamilano.com/it/olimpia-milano-canotta-replica-eurolega-bianca-26-27). Front product photo: https://store.olimpiamilano.com/images/olimpia/products/large/OM26A03.webp."
+      }
+    },
+    {
+      "sponsorId": "acqua-di-gio",
+      "placement": "back",
+      "source": {
+        "name": "RealOlimpiaMilano: Il brand Olimpia Milano, tra sponsorizzazioni e aspetto mediatico (Alessandro Maggi)",
+        "date": "2026-04-20",
+        "url": "https://realolimpiamilano.com/2026/04/20/il-brand-olimpia-milano-tra-sponsorizzazioni-e-aspetto-mediatico/",
+        "quote": "Poi si apre un secondo anello, quello dei jersey partner, dove figurano marchi come Acqua di Giò, EA Eyewear, GiGroup, AON, Drivalia e Simmenthal.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Also in the club's 'Jersey Partner' tier on olimpiamilano.com/partners. On the back of the 2026/27 EuroLeague home jersey, 'ACQUA DI GIÒ GIORGIO ARMANI' is printed on the upper back — on the club store's blank replica it sits above the 'MILAN' lettering that takes the number spot (club store product photo, back of the same page; visible in the 16 September 2026 presentation photos too). Back product photo: https://store.olimpiamilano.com/images/olimpia/products/large/OM26A03_1.webp."
+      }
+    },
+    {
+      "sponsorId": "ea7-emporio-armani-eyewear",
+      "placement": "shorts",
+      "source": {
+        "name": "RealOlimpiaMilano: Il brand Olimpia Milano, tra sponsorizzazioni e aspetto mediatico (Alessandro Maggi)",
+        "date": "2026-04-20",
+        "url": "https://realolimpiamilano.com/2026/04/20/il-brand-olimpia-milano-tra-sponsorizzazioni-e-aspetto-mediatico/",
+        "quote": "Poi si apre un secondo anello, quello dei jersey partner, dove figurano marchi come Acqua di Giò, EA Eyewear, GiGroup, AON, Drivalia e Simmenthal.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Also in the club's 'Jersey Partner' tier on olimpiamilano.com/partners ('EA Eyewear'). The 'EA7 EMPORIO ARMANI EYEWEAR' box logo sits on the right leg of the 2026/27 EuroLeague home shorts, beside the EA7 Emporio Armani wordmark (club store product photo: https://store.olimpiamilano.com/it/olimpia-milano-pantaloncini-replica-eurolega-bianchi-26-27). Shorts product photo: https://store.olimpiamilano.com/images/olimpia/products/large/OM26A23.webp."
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": null,
+  "sponsorsComplete": true,
+  "summary": "2026/27 EuroLeague home kit (the white sleeveless jersey sold as 'EUROLEGA BIANCA 26/27'): Plenitude main on the front below the number, TeamSystem logo on the left chest below the EA7 Emporio Armani mark (new EuroLeague 'Jersey Partner', announced 16 September 2026), and Acqua di Giò on the upper back. EA7 Emporio Armani is title sponsor (the team is 'EA7 Emporio Armani Olimpia Milano') and kit maker, with its marks on the chest and on the shorts; the shorts also carry an 'EA7 Emporio Armani Eyewear' box. Marked complete: the club store's product photos of the EuroLeague home jersey and shorts, front and back, plus the 16 September 2026 presentation photos and the 29 September 2026 game (Milano-Virtus) show no other sponsor. The chest badge is the EuroLeague mark with its partner Etihad, league-wide (also on opponents' jerseys; see the club's euroleague-etihad league deal), not a club sponsor. The LBA (Italian league) jersey for the same season is a different design with different sponsors (MediaWorld main front; EA7, Acqua di Giò, Gi Group, EA7 Eyewear chest-front; Omoda Jaecoo and AON above the name on the back; EA7 Emporio Armani below the back number) — not covered by this record.",
   "change": null
 }
