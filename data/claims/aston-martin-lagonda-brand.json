@@ -1,0 +1,32 @@
+{
+  "id": "aston-martin-lagonda-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "aston-martin-lagonda"
+  ],
+  "text": "Aston Martin, the car brand whose wings logo and Aston Martin Racing banner appear on the Heart of Racing WEC cars, is the brand of Aston Martin Lagonda Global Holdings plc, the listed carmaker.",
+  "short": "Aston Martin is the brand of Aston Martin Lagonda Global Holdings plc.",
+  "source": {
+    "name": "Aston Martin Lagonda - Modern Slavery Statement 2025",
+    "date": "2026",
+    "url": "https://www.astonmartin.com/-/media/corporate/corporatearchive/documents/modern-slavery-statement-2025.pdf?rev=875ceabc383c4f34b29c58d0abe2db5a&hash=646BB6ACF407DDA6B243C91E4CDE802A",
+    "quote": "reviewed and approved by members of the Board of Directors of Aston Martin Lagonda Global Holdings plc, referred to as Aston Martin for convenience in this document",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "The Guardian - Aston Martin raises £650m as Saudi Arabia takes a stake",
+      "date": "2022-07-15",
+      "url": "https://www.theguardian.com/business/2022/jul/15/aston-martin-raises-650m-as-saudi-arabia-takes-a-stake",
+      "quote": "Aston Martin Lagonda has received a large investment from Saudi Arabia as part of raising £650m of capital to pay down the luxury sportscar maker's large debts.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
