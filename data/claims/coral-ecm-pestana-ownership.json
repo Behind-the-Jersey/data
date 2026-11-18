@@ -1,0 +1,34 @@
+{
+  "id": "coral-ecm-pestana-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pestana-group"
+  ],
+  "text": "Cerveja Coral is the beer brand of the Empresa de Cervejas da Madeira (ECM), which describes itself as part of the Pestana Group; the Pestana Group's holding, Pestana International Holdings S.A., is wholly owned by Dionísio Fernandes Pestana, son of the Group's founder.",
+  "short": "Coral beer is a brand of the Madeira Brewery (ECM), part of the Pestana Group, owned by Dionísio Fernandes Pestana.",
+  "source": {
+    "name": "ECM — Empresa de Cervejas da Madeira: Actividade (ecm.pt/empresa)",
+    "date": "2026",
+    "url": "https://www.ecm.pt/empresa/",
+    "quote": "Fazendo parte do universo do Grupo Pestana, maior grupo hoteleiro português já com forte investimento internacional",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "ECM's own 'Empresa' page, undated; the footer identifies the company as 'Empresa de Cervejas da Madeira, Soc. Unipessoal, LDA'. ECM's homepage lists Coral ('1.logo_coral', cervejacoral.com) among its brands."
+  },
+  "additionalSources": [
+    {
+      "name": "Pestana International Holdings S.A.: Consolidated Annual Report 2022 (pestanagroup.com)",
+      "date": "2022",
+      "url": "https://www.pestanagroup.com/wp-content/uploads/2019/09/Relatorio-e-Contas-PIH-Consolidado-2022.pdf.pdf",
+      "quote": "Pestana International Holdings S.A. is the holding company and its share capital is 100% owned by Dionísio Fernandes Pestana, its President and only son of the Group’s founder.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "PDF, p. 22 (general information); note 40 (p. 160) adds: 'Pestana Hotel Group is owned and controlled by Dionísio Fernandes Pestana, who owns 99,99% of the capital.'"
+    }
+  ],
+  "reviewed": false
+}
