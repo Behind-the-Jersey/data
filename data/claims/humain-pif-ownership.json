@@ -1,0 +1,43 @@
+{
+  "id": "humain-pif-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "humain",
+    "saudi-pif"
+  ],
+  "text": "HUMAIN is a PIF-owned company: Saudi Arabia's Public Investment Fund launched the AI company in May 2025.",
+  "short": "HUMAIN is owned by Saudi Arabia's Public Investment Fund (PIF).",
+  "source": {
+    "name": "Public Investment Fund: HRH Crown Prince launches HUMAIN as global AI powerhouse (press release)",
+    "date": "2025-05-12",
+    "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse",
+    "quote": "today announced the launch of HUMAIN, a PIF-owned company",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "PR Newswire (Humain): NASSR FC Football Club and HUMAIN Announce Landmark Strategic Sponsorship",
+      "date": "2026-07-28",
+      "url": "https://www.prnewswire.com/news-releases/nassr-fc-football-club-and-humain-announce-landmark-strategic-sponsorship-302836360.html",
+      "quote": "HUMAIN, a PIF company, is a global artificial intelligence company delivering full-stack AI capabilities across four core areas",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "Arab News: Al-Nassr FC, Humain announce landmark strategic sponsorship",
+      "date": "2026-07-28",
+      "url": "https://www.arabnews.com/saudi-football/al-nassr-fc-humain-announce-landmark-strategic-sponsorship-2652560",
+      "quote": "The PIF company, which delivers full-stack AI capabilities globally, will combine forces with Al-Nassr to develop jersey branding",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
