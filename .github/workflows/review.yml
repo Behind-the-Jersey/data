@@ -63,7 +63,11 @@ jobs:
           fi
           echo "since=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_OUTPUT"
           base=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json baseRefName -q .baseRefName)
-          git fetch -q origin "refs/pull/$PR/head:review-pr"
+          # In a private repo an anonymous fetch of refs/pull/ has no credentials (checkout
+          # runs with persist-credentials: false), so the one fetch that reads the pull
+          # request's head authenticates with the run's short-lived, read-only token.
+          git fetch -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}" \
+            "refs/pull/$PR/head:review-pr"
           mkdir -p review
           echo "$base" > review/base
           git diff --merge-base "origin/$base" review-pr > review/pr.diff
