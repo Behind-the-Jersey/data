@@ -122,7 +122,18 @@ jobs:
           GLM_API_KEY: ${{ secrets.GLM_API_KEY }}
           GLM_BASE_URL: ${{ vars.GLM_BASE_URL }}
           GITHUB_TOKEN: ${{ github.token }}
-        run: opencode github run
+        run: |
+          # `opencode github run` reads the repository with git itself too ("Checking out local
+          # branch": `git fetch origin --depth=20 <head>`), and in a private repository an
+          # anonymous fetch has no credentials (found by the crosscheck-pipeline smoke test,
+          # run 45271518569). So git gets an askpass helper: it answers the username and
+          # password questions from the environment, holds no secret itself, and nothing is
+          # written to a git config or the disk. Inert on a public repository.
+          askpass="$(mktemp)"
+          printf '#!/bin/sh\ncase "$1" in *Username*) echo x-access-token;; *) printf %%s "$GITHUB_TOKEN";; esac\n' > "$askpass"
+          chmod +x "$askpass"
+          trap 'rm -f "$askpass"' EXIT
+          GIT_ASKPASS="$askpass" opencode github run
       # The review is a comment, and this check turns it into a signal: it fails when the agent found a
       # source that doesn't hold up (a ❌ row or "Needs changes"), or posted nothing.
       - name: Fail if the review found problems
