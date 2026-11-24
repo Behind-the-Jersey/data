@@ -63,7 +63,11 @@ jobs:
           fi
           echo "since=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_OUTPUT"
           base=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json baseRefName -q .baseRefName)
-          git fetch -q origin "refs/pull/$PR/head:review-pr"
+          # In a private repo an anonymous fetch of refs/pull/ has no credentials (checkout
+          # runs with persist-credentials: false), so the one fetch that reads the pull
+          # request's head authenticates with the run's short-lived, read-only token.
+          git fetch -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}" \
+            "refs/pull/$PR/head:review-pr"
           mkdir -p review
           echo "$base" > review/base
           git diff --merge-base "origin/$base" review-pr > review/pr.diff
@@ -80,25 +84,56 @@ jobs:
           git worktree add -q review/pr review-pr
           python3 scripts/check_sources.py --root review/pr --base "origin/$(cat review/base)" --report review/sources.md || true
           git worktree remove --force review/pr
-      - if: steps.collect.outputs.run == 'true'
-        uses: anomalyco/opencode/github@latest
+        # Upstream anomalyco/opencode/github, vendored here (2026-11-23). Its version step curls
+        # the GitHub API without a token, and on a rate-limited runner IP that made it fail the
+        # whole review (run 44343285784, 2026-11-18); its @latest tag has also drifted off the
+        # v2.x release line, so it can change under us any day. Same contract as its action.yml
+        # (install, `opencode github run`, the env vars it passes), minus the version lookup: it
+        # only fed the cache key, so no GitHub API call can fail a review.
+      - name: Install opencode
+        if: steps.collect.outputs.run == 'true'
+        shell: bash
+        run: curl -fsSL https://opencode.ai/install | bash
+      - name: Add opencode to PATH
+        if: steps.collect.outputs.run == 'true'
+        shell: bash
+        run: echo "$HOME/.opencode/bin" >> "$GITHUB_PATH"
+      - name: Run the review agent
+        if: steps.collect.outputs.run == 'true'
         env:
-          OPENCODE_CONFIG: .github/opencode/review.json
-          GLM_API_KEY: ${{ secrets.GLM_API_KEY }}
-          GLM_BASE_URL: ${{ vars.GLM_BASE_URL }}
-          GITHUB_TOKEN: ${{ github.token }}
-        with:
-          model: gateway/${{ vars.GLM_MODEL }}
-          use_github_token: true
+          # What the action passed from its inputs (empty where review.yml set no input).
+          MODEL: gateway/${{ vars.GLM_MODEL }}
+          AGENT: ''
+          SHARE: 'false'
+          USE_GITHUB_TOKEN: 'true'
+          MENTIONS: ''
+          VARIANT: ''
+          OIDC_BASE_URL: ''
           # Don't publish the session on opencode.ai (the default for public repos).
-          share: false
-          prompt: |
+          PROMPT: |
             Read agents/review.md and follow it exactly. The pull request's diff is review/pr.diff,
             its changed files are listed in review/files.txt (A added, M modified, D deleted,
             R renamed), its title and description are in review/pr.md, and the script check of every
             source it cites is review/sources.md. The dataset on main is in data/. Your final
             message is posted as the pull request comment exactly as you write it: start with
             "**Review agent:**", with nothing before it.
+          # What review.yml passed to the action step.
+          OPENCODE_CONFIG: .github/opencode/review.json
+          GLM_API_KEY: ${{ secrets.GLM_API_KEY }}
+          GLM_BASE_URL: ${{ vars.GLM_BASE_URL }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          # `opencode github run` reads the repository with git itself too ("Checking out local
+          # branch": `git fetch origin --depth=20 <head>`), and in a private repository an
+          # anonymous fetch has no credentials (found by the crosscheck-pipeline smoke test,
+          # run 45271518569). So git gets an askpass helper: it answers the username and
+          # password questions from the environment, holds no secret itself, and nothing is
+          # written to a git config or the disk. Inert on a public repository.
+          askpass="$(mktemp)"
+          printf '#!/bin/sh\ncase "$1" in *Username*) echo x-access-token;; *) printf %%s "$GITHUB_TOKEN";; esac\n' > "$askpass"
+          chmod +x "$askpass"
+          trap 'rm -f "$askpass"' EXIT
+          GIT_ASKPASS="$askpass" opencode github run
       # The review is a comment, and this check turns it into a signal: it fails when the agent found a
       # source that doesn't hold up (a ❌ row or "Needs changes"), or posted nothing.
       - name: Fail if the review found problems
