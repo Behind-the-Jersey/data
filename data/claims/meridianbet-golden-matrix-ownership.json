@@ -1,0 +1,32 @@
+{
+  "id": "meridianbet-golden-matrix-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "meridianbet-group",
+    "golden-matrix-group"
+  ],
+  "text": "Meridianbet is a subsidiary of Golden Matrix Group Inc. (NASDAQ: GMGI), which acquired the Meridianbet Group in April 2024; on 3 March 2026 Golden Matrix Group rebranded as Meridian Holdings Inc. (NASDAQ: MRDN).",
+  "source": {
+    "name": "GlobeNewswire: Meridianbet (GMGI) Extends Title Sponsorship with EuroLeague's Crvena Zvezda Through 2030",
+    "date": "2025-12-29",
+    "url": "https://www.globenewswire.com/news-release/2025/12/29/3211209/0/en/Meridianbet-GMGI-Extends-Title-Sponsorship-with-EuroLeague-s-Crvena-Zvezda-Through-2030.html",
+    "quote": "Meridianbet, a leading sports betting and iGaming operator in 18 jurisdictions and subsidiary of Golden Matrix Group Inc. (NASDAQ: GMGI)",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Meridianbet IR: Meridian Holdings Inc., Formerly Golden Matrix Group, Inc., Announces Commencement of Trading Under New Ticker \"MRDN\"",
+      "date": "2026-03-03",
+      "url": "https://ir.meridianbet.com/2026/03/03/meridian-holdings-inc-formerly-golden-matrix-group-inc-announces-commencement-of-trading-under-new-ticker-mrdn/",
+      "quote": "In connection with the previously announced corporate rebranding from Golden Matrix Group, Inc., Meridian Holdings Inc's shares will now trade under the new ticker symbol",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
