@@ -1,0 +1,21 @@
+{
+  "id": "bse-state-entity",
+  "kind": "ownership",
+  "ownerIds": [
+    "government-of-uruguay"
+  ],
+  "text": "BSE (Banco de Seguros del Estado), Uruguay's state insurance bank, is an autonomous state entity belonging to the state's commercial domain (article 1 of its organic law, Ley 18.243); its assets and the state's responsibility guarantee its operations (article 20).",
+  "short": "BSE is a Uruguayan state entity (state insurance bank)",
+  "source": {
+    "name": "IMPO (Uruguay's official law gazette): Ley N° 18.243 (Ley Orgánica del Banco de Seguros del Estado), article 1",
+    "date": "2008-01-09",
+    "url": "https://www.impo.com.uy/bases/leyes/18243-2007",
+    "quote": "El Banco de Seguros del Estado, creado por la Ley N° 3.935, de 27 de diciembre de 1911, es un ente autónomo que integra el dominio comercial del Estado",
+    "note": "English: 'The Banco de Seguros del Estado... is an autonomous entity that belongs to the state's commercial domain.' The page is served in Latin-1, so accents drop out when read as UTF-8; the quote matches the page's characters exactly.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
