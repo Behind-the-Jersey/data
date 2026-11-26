@@ -4,12 +4,31 @@
   "ownerIds": [
     "regione-autonoma-della-sardegna"
   ],
-  "text": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department (Assessorato del Turismo, Artigianato e Commercio), which has repeatedly signed main-sponsor deals with the club. It is a public-law regional body. The shirt front is co-branded with Sardinian craft-beer chain Doppio Malto, a private company.",
-  "short": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department….",
+  "text": "The 'Sardegna' front brand on the Cagliari shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department (Assessorato del Turismo).",
+  "short": "The 'Sardegna' front brand on the Cagliari shirt is the tourism promotion of the Autonomous Region of Sardinia….",
   "source": {
-    "name": "Regione Autonoma della Sardegna, Assessorato del turismo, artigianato e commercio",
-    "date": "2026-09",
-    "url": "https://www.regione.sardegna.it/ricerca/assessorato-del-turismo-artigianato-e-commercio-527"
+    "name": "Sporteconomy, 'Cagliari calcio rinnova il legame con la Regione Sardegna'",
+    "date": "2019-12-30",
+    "url": "https://www.sporteconomy.it/cagliari-calcio-rinnova-il-legame-con-la-regione-sardegna/",
+    "quote": "Sulla divisa ufficiale della squadra apparirà il logo \"Sardegna\"",
+    "note": "Italian. The region's tourism department (Assessorato al Turismo della Regione Sardegna) signs as main sponsor and the shirt carries the 'Sardegna' logo.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
   },
+  "additionalSources": [
+    {
+      "name": "Calcio Casteddu, 'Serie A, quanto valgono gli sponsor di maglia: Cagliari nella top ten'",
+      "date": "2026-03-11",
+      "url": "https://www.calciocasteddu.it/2026/03/11/serie-a-quanto-valgono-gli-sponsor-di-maglia-cagliari-nella-top-ten/",
+      "quote": "Il club rossoblù può contare su un doppio sponsor sulla maglia: Regione Sardegna e il marchio birrario Doppio Malto.",
+      "note": "Italian. Names 'Regione Sardegna' as one of the two shirt sponsors in 2026.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
   "reviewed": false
 }
