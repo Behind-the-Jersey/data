@@ -1,0 +1,20 @@
+{
+  "id": "pelliconi-group-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "pelliconi-c-spa"
+  ],
+  "text": "Pelliconi Abruzzo S.r.l., a Pelliconi group production company based at Atessa, is subject to the activity of management and coordination of Pelliconi & C. S.p.A., per the group's own contacts page.",
+  "short": "Pelliconi & C. S.p.A. exercises management and coordination over Pelliconi Abruzzo S.r.l.",
+  "source": {
+    "name": "Pelliconi: Contacts (group contacts page)",
+    "date": "2026",
+    "url": "https://www.pelliconi.com/contacts",
+    "quote": "Company subject to the activity; management and coordination of Pelliconi & C. S.p.A. Single-member company",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
