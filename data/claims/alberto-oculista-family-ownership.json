@@ -1,0 +1,21 @@
+{
+  "id": "alberto-oculista-family-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "alberto-oculista-sa"
+  ],
+  "text": "Alberto Oculista is the brand of Alberto Oculista, SA, a Madeira opticians retail chain founded in 1984 by Alberto Caires; in the CEO's message on the company site, Miguel Caires says the company remains 100% owned by the family that founded it.",
+  "short": "Alberto Oculista, SA says it remains 100% owned by the founding Caires family.",
+  "source": {
+    "name": "Alberto Oculista: Mensagem da Administração",
+    "date": "2026",
+    "url": "https://www.albertooculista.com/mensagem-da-administracao/",
+    "quote": "A empresa continua a 100% na família que a fundou. O fundador, Alberto Caires, é o Presidente do Conselho de Administração",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "CEO message (by Miguel Caires, 'CEO Alberto Oculista, S.A'), undated; site footer identifies the company as 'Alberto Oculista, SA'."
+  },
+  "reviewed": false
+}

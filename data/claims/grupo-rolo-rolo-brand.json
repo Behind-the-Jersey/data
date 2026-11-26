@@ -1,0 +1,21 @@
+{
+  "id": "grupo-rolo-rolo-brand",
+  "kind": "ownership",
+  "ownerIds": [
+    "grupo-rolo"
+  ],
+  "text": "ROLO (ROLO Pastelaria) is the own brand of Grupo Rolo, a Portuguese industrial pastry and confectionery group founded in 1995, based at Óbidos; the group's site says it launched the ROLO brand in October 2025 and describes the group as a family business.",
+  "short": "ROLO Pastelaria is the brand of Grupo Rolo, a Portuguese family pastry group founded in 1995.",
+  "source": {
+    "name": "Grupo Rolo: Sobre o Grupo (gruporolo.com/sobre-nos)",
+    "date": "2026",
+    "url": "https://gruporolo.com/sobre-nos",
+    "quote": "Em outubro de 2025, apresentámos a nova identidade do Grupo Rolo e lançámos a marca ROLO",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Same page: 'O Grupo Rolo foi fundado em 1995' with nine industrial units in Mafra, Óbidos and Alcobaça, 'preservando a essência de empresa familiar'; footer contact: Zona Industrial das Gaeiras, 2510-752 Gaeiras, Óbidos. The owning family is not named. Undated page."
+  },
+  "reviewed": false
+}
