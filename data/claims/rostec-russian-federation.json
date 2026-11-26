@@ -1,0 +1,35 @@
+{
+  "id": "rostec-russian-federation",
+  "kind": "ownership",
+  "ownerIds": [
+    "rostec",
+    "russian-federation"
+  ],
+  "text": "Rostec is a state corporation created by the Russian Federation under Federal Law No. 270-FZ of 23 November 2007; the Russian Federation is its founder.",
+  "short": "Rostec is a state corporation created by the Russian Federation.",
+  "source": {
+    "name": "Rostec: About the State Corporation (archived copy of rostec.ru/about/)",
+    "date": "2026",
+    "url": "https://web.archive.org/web/20260914124037/https://rostec.ru/about/",
+    "quote": "является юридическим лицом, созданным Российской Федерацией в организационно-правовой форме государственной корпорации",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "Translation: '[Rostec] is a legal entity created by the Russian Federation in the organisational-legal form of a state corporation.' Page also notes it acts under Federal Law No. 270-FZ of 23 November 2007."
+  },
+  "additionalSources": [
+    {
+      "name": "Council Implementing Regulation (EU) 2022/581 (EUR-Lex), Annex IV entry for Novikombank",
+      "date": "2022-04-08",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R0581",
+      "quote": "a major Russian state owned defence conglomerate",
+      "note": "The entry describes Rostec (Russian Technologies State Corporation) as a major Russian state-owned defence conglomerate.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
