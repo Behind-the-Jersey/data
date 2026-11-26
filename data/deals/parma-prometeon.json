@@ -1,0 +1,29 @@
+{
+  "id": "parma-prometeon",
+  "clubId": "parma",
+  "orgName": null,
+  "sponsorId": "prometeon",
+  "placement": "front",
+  "from": "2022-08",
+  "to": null,
+  "value": {
+    "amount": 1.5,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": null
+  },
+  "source": {
+    "name": "Forza Parma - Sponsor, Parma 12° con Prometeon: 1,5 milioni a stagione",
+    "date": "2026-03-12",
+    "url": "https://www.forzaparma.it/2026/03/12/sponsor-parma-12-con-prometeon-15-milioni-a-stagione/",
+    "quote": "grazie all'accordo con Prometeon che vale circa 1,5 milioni di euro a stagione",
+    "note": "'The deal with Prometeon is worth around 1.5 million euros per season' (Italian). Forza Parma relays Calcio e Finanza's Serie A main-sponsor revenue ranking.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "note": "Main shirt sponsor since August 2022: the club (2023-08-10) says the Prometeon brand 'has been on Parma's jersey since August last year', and its CEO (2024-07-12) says Prometeon 'decided to support Parma Calcio in the summer of 2022'. No end date published; still main sponsor in 2026/27 per the club's kit-launch press release."
+}
