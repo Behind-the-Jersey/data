@@ -1,14 +1,17 @@
 {
   "id": "airasia",
   "name": "AirAsia",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "asia-aviation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "AirAsia roundel low on Port FC's 2026-27 home shirt; in Thailand the airline is Thai AirAsia, wholly owned by SET-listed Asia Aviation, whose largest holders are AirAsia Aviation Group (40.7%) and Tassapon Bijleveld (17.8%). Nothing found.",
+  "claimIds": [
+    "airasia-aav-ownership",
+    "asia-aviation-shareholders"
+  ],
   "aliases": [
     "Air Asia"
   ],
-  "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25)."
+  "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25). Port FC 2026/27: the red AirAsia mark on the home shirt belongs to Thai AirAsia (the club's named sponsor is 'Air Asia'; Siamsport 2026-09-12). Thai AirAsia's sole shareholder is Asia Aviation PCL (its own company overview); Asia Aviation is SET-listed since 2012."
 }
