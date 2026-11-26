@@ -1,0 +1,28 @@
+{
+  "id": "seattle-sounders-providence-front",
+  "clubId": "seattle-sounders",
+  "orgName": "Providence",
+  "sponsorId": "providence",
+  "placement": "front",
+  "from": "2023-01",
+  "to": "2027",
+  "value": {
+    "amount": 10,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 10
+  },
+  "source": {
+    "name": "SportsPro: 'Seattle Sounders agree ten-year Providence main kit sponsor deal'",
+    "date": "2023-01-23",
+    "url": "https://www.sportspro.com/news/seattle-sounders-providence-jersey-sponsorship-deal",
+    "quote": "Financial terms not disclosed, but reports suggest deal will reach figures close to US$10 million per year towards the end of the contract",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "note": "Ten-year partnership announced 2023-01-20 (club's own release); price per SportsPro citing Sports Business Journal — the figure covers a multi-asset partnership (front of home and away shirts, team wear, medical partnership). In January 2026 the club announced the front-of-shirt portion ends at the conclusion of the 2027 'sprint' season, about six years early (Sounder at Heart, 2026-01-29, and the Seattle Times, which put the original deal at approximately $100 million in total, with a front-of-jersey opt-out after five years); Providence keeps the training-facility naming rights (Providence Swedish Performance Center & Clubhouse) through 2033 and healthcare/community work continues."
+}
