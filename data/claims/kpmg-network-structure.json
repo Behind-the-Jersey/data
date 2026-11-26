@@ -1,0 +1,21 @@
+{
+  "id": "kpmg-network-structure",
+  "kind": "ownership",
+  "ownerIds": [
+    "kpmg-international-limited"
+  ],
+  "text": "The KPMG sponsorship of Spain's national rugby teams is by KPMG, S.A., a Spanish public limited company and member firm of the global KPMG organization of independent member firms affiliated with KPMG International Limited, an English private company limited by guarantee.",
+  "short": "KPMG España (KPMG, S.A.) is a member firm affiliated with KPMG International Limited, an English company limited by guarantee.",
+  "source": {
+    "name": "KPMG España: KPMG se une a la familia de la selección española de rugby (press release; legal statement in the page footer)",
+    "date": "2025-10-29",
+    "url": "https://kpmg.com/es/es/sala-prensa/notas-prensa/2025/10/kpmg-familia-del-rugby-espanol.html",
+    "note": "The statement runs in the legal footer of KPMG España's site, on this page and others: 'Spanish public limited company and member firm of the global KPMG organization of independent member firms affiliated with KPMG International Limited, an English private company limited by guarantee.'",
+    "quote": "sociedad anónima española y firma miembro de la organización global de KPMG de firmas miembro independientes afiliadas a KPMG International Limited, sociedad inglesa limitada por garantía",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
