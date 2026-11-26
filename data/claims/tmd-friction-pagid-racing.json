@@ -1,0 +1,22 @@
+{
+  "id": "tmd-friction-pagid-racing",
+  "kind": "ownership",
+  "ownerIds": [
+    "tmd-friction"
+  ],
+  "text": "PAGID Racing is the exclusive motorsport brand of the TMD Friction Group; PAGID Racing's own site says TMD Friction owns 100% of PAGID Racing.",
+  "short": "PAGID Racing is the motorsport brand of TMD Friction, which owns it 100%.",
+  "source": {
+    "name": "PAGID Racing: About PAGID Racing",
+    "date": "2026",
+    "url": "https://www.pagidracing.com/company",
+    "note": "Page without a date; opened 2026-10-03.",
+    "quote": "PAGID Racing is the exclusive motorsport brand of the TMD Friction Group, producing racing and high performance brake pads.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [],
+  "reviewed": false
+}
