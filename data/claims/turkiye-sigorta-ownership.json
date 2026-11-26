@@ -1,0 +1,47 @@
+{
+  "id": "turkiye-sigorta-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "turkiye-wealth-fund"
+  ],
+  "text": "Türkiye Wealth Fund owns 76.1% of Türkiye Sigorta through TWF Finansal Yatırımlar A.Ş., in which the fund holds 100% of the shares; the remaining 23.9% of the shares trade on Borsa Istanbul.",
+  "source": {
+    "name": "Türkiye Sigorta Investor Relations: Ownership Structure (undated page, read October 2026)",
+    "date": "2026-10",
+    "url": "https://www.turkiyesigorta.com.tr/en/investor-relations/insurance/about-turkiye-sigorta/company-information/ownership-structure",
+    "quote": "Türkiye Wealth Fund owns 76.1% of the company's shares and the remaining 23.9% of the shares are traded on Borsa Istanbul.",
+    "note": "The same page's shareholder table lists TWF Finansal Yatırımlar Anonim Şirketi at 76.1%, with the footnote 'Türkiye Wealth Fund holds 100% of the shares in TWF Finansal Yatırımlar Anonim Şirketi.'",
+    "short": "Türkiye Sigorta IR",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Türkiye Today: Türkiye Wealth Fund divests $150M stake in top insurer to foreign investors",
+      "date": "2026-05-15",
+      "url": "https://www.turkiyetoday.com/business/turkiye-wealth-fund-divests-150m-stake-in-top-insurer-to-foreign-investors-3220030",
+      "quote": "Following the sale, TWF’s ownership in Türkiye Sigorta fell to 76.1%, while the portion of shares publicly traded on the stock market rose to 23.9%.",
+      "note": "The same article says the Türkiye Wealth Fund is owned entirely by the Turkish government and that the 5% stake sale was announced by the fund.",
+      "short": "Türkiye Today",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    {
+      "name": "GKC Partners (with White & Case) press release: GKC Partners and White & Case advise TVF Finansal Yatırımlar on sale of strategic stake in Türkiye Sigorta",
+      "date": "2026-06-03",
+      "url": "https://www.gkcpartners.com/press-releases/gkc-partners-advises-tvf-finansal-yatirimlar-sale-strategic-stake-turkiye-sigorta",
+      "quote": "Following completion of the transaction, TVF Finansal Yatırımlar’s direct shareholding in Türkiye Sigorta is 76.10% and the Türkiye Wealth Fund continues to be Türkiye Sigorta’s principal shareholder.",
+      "note": "The same release says the Türkiye Wealth Fund is the strategic investment arm of the Republic of Türkiye and wholly owns TVF Finansal Yatırımlar A.Ş.",
+      "short": "GKC Partners",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
