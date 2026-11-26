@@ -1,0 +1,22 @@
+{
+  "id": "nedbank-rugby-zimbabwe",
+  "clubId": "rugby-zimbabwe",
+  "orgName": null,
+  "sponsorId": "nedbank",
+  "placement": "front",
+  "from": "2021",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Zim Sport Live (source: NewsDay): Nedbank renews headline sponsorship of the Sables",
+    "date": "2022-02-24",
+    "url": "https://zimsportlive.co.zw/nedbank-renews-headline-sponsorship-of-the-sables/",
+    "quote": "Nedbank Zimbabwe, which has been the headline sponsor of the Sables since last year, unveiled a massive US$200 000 sponsorship at glitzy ceremony in Harare on Tuesday evening",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The package announced at the February 2022 renewal was US$200,000; no value for the current deal has been reported, so value is null. 'Since last year' dates the headline sponsorship to 2021. The Sables Trust's Instagram post of 20 August 2024 (https://www.instagram.com/p/C-QAIz7IO6q/, opened 2026-10-04) instead says the bank 'began its journey with the Zimbabwe Sables in 2022' - the two accounts disagree on the start year."
+  },
+  "note": "Nedbank's branding appears across the front of the current Sables shirt (official ZRU match-day graphic, 1 July 2026, https://zru.co.zw/2026/07/01/sables-name-match-day-23-for-nations-cup-opener-against-tonga/; USA v Zimbabwe Nations Cup match photo, Fanzone, 14 July 2026)."
+}
