@@ -1,0 +1,20 @@
+{
+  "id": "maap-private-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "maap-apparel"
+  ],
+  "text": "MAAP is an Australian cycling-apparel brand founded by Jarrad Smith and Oliver Cousins; co-founder Oliver Cousins said it is a private company with no stock price and no venture capital.",
+  "source": {
+    "name": "Cycling Weekly: 'We're not just trying to build a cycling brand, we want to build a global brand' - meeting MAAP's founders, Jarrad Smith and Oliver Cousins",
+    "date": "2025-03-02",
+    "url": "https://www.cyclingweekly.com/news/were-not-just-trying-to-build-a-cycling-brand-we-want-to-build-a-global-brand-meeting-maaps-founders-jarrad-smith-and-oli-cousins",
+    "quote": "We're a private company, so we've got no one else to answer to, there's no stock price, there's no minimum growth or venture capital.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "The same article says MAAP began \"when MAAP was just Smith and his co-founder Oliver Cousins, working out of the former's garage in Melbourne\" and that it is \"currently sponsoring its first WorldTour squad, Jayco AlUla\"."
+  },
+  "reviewed": false
+}

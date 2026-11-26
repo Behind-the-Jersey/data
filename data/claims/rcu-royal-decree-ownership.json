@@ -1,0 +1,32 @@
+{
+  "id": "rcu-royal-decree-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "royal-commission-for-alula",
+    "government-of-saudi-arabia"
+  ],
+  "text": "The Royal Commission for AlUla was established by royal decree in July 2017 to preserve and develop AlUla, in north-west Saudi Arabia; its website is an official government website of the Kingdom of Saudi Arabia.",
+  "source": {
+    "name": "UNESCO: Royal Commission for AlUla and UNESCO sign pioneering agreement for cultural collaboration",
+    "date": "2023-09-25",
+    "url": "https://www.unesco.org/en/articles/royal-commission-alula-and-unesco-sign-pioneering-agreement-cultural-collaboration",
+    "quote": "The Royal Commission for AlUla (RCU) was established by royal decree in July 2017 to preserve and develop AlUla, a region of outstanding natural and cultural significance in north-west Saudi Arabia.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Royal Commission for AlUla official website (rcu.gov.sa), site banner",
+      "date": "2026",
+      "url": "https://rcu.gov.sa/en",
+      "quote": "Official government website of the Government of the Kingdom of Saudi Arabia",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

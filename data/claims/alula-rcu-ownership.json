@@ -1,0 +1,31 @@
+{
+  "id": "alula-rcu-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "royal-commission-for-alula"
+  ],
+  "text": "Experience AlUla is published by the Royal Commission for AlUla (RCU): the brand's website footer carries RCU's copyright, and the Experience AlUla mobile app lists RCU as its developer.",
+  "source": {
+    "name": "Experience AlUla (official AlUla destination website), site footer",
+    "date": "2026",
+    "url": "https://www.experiencealula.com/en",
+    "quote": "© All rights reserved to Royal Commission for AlUla, Saudi Arabia",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Google Play: Experience AlUla app listing (About the developer)",
+      "date": "2026",
+      "url": "https://play.google.com/store/apps/details?id=com.discoverhegra&hl=en",
+      "quote": "About the developer Royal Commission for AlUla",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
