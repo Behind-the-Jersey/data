@@ -1,0 +1,35 @@
+{
+  "id": "omv-petrom-omv-majority",
+  "kind": "ownership",
+  "ownerIds": [
+    "omv-petrom-sa",
+    "omv"
+  ],
+  "text": "OMV Aktiengesellschaft holds a 51.2% stake in OMV Petrom and is its majority shareholder.",
+  "short": "OMV holds 51.2% of OMV Petrom",
+  "source": {
+    "name": "OMV Petrom: Shareholder Information (omvpetrom.com)",
+    "date": "2026-10-04",
+    "url": "https://www.omvpetrom.com/en/investors/shares-and-dividends/shareholder-information",
+    "quote": "OMV Aktiengesellschaft, one of the largest listed industrial companies in Austria, holds a 51.2% stake in OMV Petrom.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Undated investor page; the stake is stated as at end-2025. Date is the day the page was opened."
+  },
+  "additionalSources": [
+    {
+      "name": "OMV: Capital Market Story, May 2025 (PDF)",
+      "date": "2025-05",
+      "url": "https://www.omv.com/downloads/2025/05/bebaaf84-cf77-74dd-ff32-9dfa3d5ec516/OMV%20Capital%20Market%20Story_May%202025.pdf",
+      "quote": "OMV Petrom - listed on BSE, fully consolidated − OMV share 51%",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "OMV Aktiengesellschaft's own investor presentation, under 'Stock listed participations'."
+    }
+  ],
+  "reviewed": false
+}

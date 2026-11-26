@@ -1,0 +1,22 @@
+{
+  "id": "kaufland-schwarz-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "kaufland",
+    "schwarz-group"
+  ],
+  "text": "Kaufland is one of the two retail companies of the Schwarz Group, alongside Lidl.",
+  "short": "Kaufland is a Schwarz Group retail company",
+  "source": {
+    "name": "Schwarz Group: Who We Are (gruppe.schwarz)",
+    "date": "2026-10-04",
+    "url": "https://gruppe.schwarz/en/who-we-are",
+    "quote": "Lidl and Kaufland form the pillars of the food retail market and are an integral part of their customers’ daily lives in 33 countries.",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    },
+    "note": "Undated corporate page of the Schwarz Group describing its companies ('The companies of Schwarz Group are all perfectly in sync'); Kaufland is listed under its 'Business Areas' next to Lidl, Schwarz Produktion, PreZero and Schwarz Digits. Date is the day the page was opened."
+  },
+  "reviewed": false
+}
