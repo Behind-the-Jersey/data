@@ -10,15 +10,66 @@
   "sponsors": [
     {
       "sponsorId": "avtovaz",
-      "placement": "partner",
+      "placement": "patch",
       "source": {
-        "name": "HC Lada official site, club partners page",
-        "date": "2026-09-25",
-        "url": "https://hclada.ru/club/partners/"
+        "name": "HC Lada official site, club partners page ('Партнеры и спонсоры ХК «Лада» 2026/2027')",
+        "date": "2026-10-03",
+        "url": "https://hclada.ru/club/partners/",
+        "quote": "Титульный спонсор",
+        "note": "Translation: 'Title sponsor' — the label under the LADA logo (linking to lada.ru) in the club's 2026/2027 partners section. The LADA wordmark is printed on both shoulder yokes of the home jersey, and on the front of the home helmet: visible in the club's own match-gallery photos (e.g. Lada–Dinamo Minsk, 14.09.2026) and the KHL press-service 2026/27 kit render (sports.ru, 13.09.2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "samara-oblast",
+      "placement": "front",
+      "source": {
+        "name": "HC Lada official site, club partners page ('Партнеры и спонсоры ХК «Лада» 2026/2027')",
+        "date": "2026-10-03",
+        "url": "https://hclada.ru/club/partners/",
+        "quote": "Учредитель ХК «Лада»",
+        "note": "Translation: 'Founder of HC Lada' — the label under the Samara Oblast logo (linking to samregion.ru) in the club's 2026/2027 partners section. The 'САМАРСКАЯ ОБЛАСТЬ' wordmark with the regional coat of arms runs across the front hem of the home jersey: visible in the club's match-gallery photos (e.g. Lada–Dinamo Minsk, 14.09.2026) and the KHL press-service 2026/27 kit render (sports.ru, 13.09.2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "polyplast",
+      "placement": "shorts",
+      "source": {
+        "name": "HC Lada official site, club partners page ('Партнеры и спонсоры ХК «Лада» 2026/2027')",
+        "date": "2026-10-03",
+        "url": "https://hclada.ru/club/partners/",
+        "quote": "Учредитель ХК «Лада»",
+        "note": "Translation: 'Founder of HC Lada' — the label under the Polyplast logo (linking to polyplast-un.ru) in the club's 2026/2027 partners section. The Polyplast logo glyph appears on both legs of the home shorts: visible in the club's match-gallery photos (e.g. Lada–Dinamo Minsk, 14.09.2026) and the KHL press-service 2026/27 kit render (sports.ru, 13.09.2026).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    },
+    {
+      "sponsorId": "polyplast",
+      "placement": "back",
+      "source": {
+        "name": "HC Lada official site, club partners page ('Партнеры и спонсоры ХК «Лада» 2026/2027')",
+        "date": "2026-10-03",
+        "url": "https://hclada.ru/club/partners/",
+        "quote": "Учредитель ХК «Лада»",
+        "note": "Translation: 'Founder of HC Lada' — Polyplast's position on the club's partners page. The full 'ПОЛИПЛАСТ' wordmark runs across the lower back of the home jersey (below the player number): visible in the club's own locker-room photo, Lada–CSKA gallery, 25.09.2026 (hclada.ru/media/photo/lada_tsska_moskva_05/).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
       }
     }
   ],
-  "sponsorsComplete": false,
-  "summary": "2026-27 home kit. LADA (AvtoVAZ) title sponsor per the club partners page, which also lists the club's founders; front-of-shirt sponsor not yet sourced.",
+  "sponsorsComplete": true,
+  "summary": "2026-27 home kit, checked on the club's own match-gallery photos (Lada–Dinamo Minsk 14.09.2026, Lada–CSKA 25.09.2026) and the KHL press-service kit render (sports.ru, 13.09.2026): club crest front centre; LADA (AvtoVAZ, title sponsor and club namesake) wordmark on both shoulders and on the helmet; 'САМАРСКАЯ ОБЛАСТЬ' with the regional coat of arms across the front hem; Polyplast logo on both shorts legs and full wordmark across the lower back; league-mandated KHL partner patches — MIR above the crest (khl-mir-nspk deal) and T-Bank below the back collar (khl-t-bank deal); FONBET KHL 80 shield on the collar. No sleeve or sock ads.",
   "change": null
 }
