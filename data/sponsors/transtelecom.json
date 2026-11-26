@@ -1,0 +1,31 @@
+{
+  "id": "transtelecom",
+  "name": "TTC (Transtelecom)",
+  "ownerId": "unit-telecom",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Unit Telecom LLP holds 75% of Transtelecom and state railway NC Kazakhstan Temir Zholy — a Samruk-Kazyna asset — holds 25% (KASE register, July 2026).",
+  "claimIds": [
+    "kazakhstan-january-2022-killings",
+    "transtelecom-shareholders",
+    "ktz-samruk-kazyna-asset"
+  ],
+  "aliases": [
+    "Transtelecom",
+    "Транстелеком",
+    "TTC",
+    "ttc.kz"
+  ],
+  "note": "Partner of Barys Astana for 2026/27 (club partnership page; logo on ttc.kz). Rating note (2026-10-03): the link — KTZ, a state asset of Samruk-Kazyna, holds 25% of Transtelecom per the KASE register as of 1 July 2026 (claim transtelecom-shareholders), above the 5% threshold; the record — kazakhstan-january-2022-killings. Majority owner Unit Telecom is private (Nurali Aliyev era ended 2025; a sale to Timur Turlov's entities was announced in Dec 2025 but not in the register by July 2026). Proposed tier: concern. ON HOLD pending maintainer review.",
+  "why": {
+    "text": "TTC (Transtelecom), listed as a Barys partner, is 25% owned by state railway Kazakhstan Temir Zholy, an asset of the state's sovereign fund Samruk-Kazyna. In Kazakhstan's January 2022 crackdown on anti-government protests 238 people were killed and officers later convicted of torturing detainees, with impunity persisting per Amnesty International.",
+    "claimIds": [
+      "kazakhstan-january-2022-killings",
+      "transtelecom-shareholders",
+      "ktz-samruk-kazyna-asset"
+    ],
+    "messageLine": "A quarter of TTC belongs to Kazakhstan's state railway, and the state's 2022 crackdown killed 238 people.",
+    "status": "draft"
+  }
+}

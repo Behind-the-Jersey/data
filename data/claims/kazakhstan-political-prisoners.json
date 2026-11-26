@@ -1,0 +1,32 @@
+{
+  "id": "kazakhstan-political-prisoners",
+  "kind": "record",
+  "ownerIds": [
+    "government-of-kazakhstan"
+  ],
+  "text": "Kazakh authorities keep government critics and opposition figures in prison in retaliation for peaceful activism; rights monitors recorded at least 39 people imprisoned on politically motivated charges in 2025, and the UN Working Group on Arbitrary Detention found opposition activist Marat Zhylanbayev's detention arbitrary, calling for his release.",
+  "short": "Kazakhstan imprisons critics on politically motivated charges; the UN found Marat Zhylanbayev's detention arbitrary.",
+  "source": {
+    "name": "Human Rights Watch — World Report 2026: Kazakhstan",
+    "date": "2026-01",
+    "url": "https://www.hrw.org/world-report/2026/country-chapters/kazakhstan",
+    "quote": "Authorities persisted in keeping government critics and opposition figures locked up in retaliation for their peaceful activism.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Amnesty International — Report 2025/26: Kazakhstan",
+      "date": "2026-04",
+      "url": "https://www.amnesty.org/en/location/europe-and-central-asia/eastern-europe-and-central-asia/kazakhstan/report-kazakhstan/",
+      "quote": "The local human rights community recorded at least 39 people imprisoned on politically motivated charges during the year",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
