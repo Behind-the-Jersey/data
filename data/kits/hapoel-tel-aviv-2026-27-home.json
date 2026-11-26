@@ -7,8 +7,54 @@
   "periodFrom": "2026-27",
   "periodTo": "2026-27",
   "photos": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "sponsorId": "ibi-investment-house",
+      "placement": "front",
+      "source": {
+        "name": "מועדון הכדורסל הפועל תל אביב (Hapoel Tel Aviv B.C.) — הפועל IBI תל אביב",
+        "date": "2026-10-01",
+        "url": "https://hapoelbc.com/ibi/",
+        "quote": "חברת IBI בית השקעות, נותנת החסות הראשית של הפועל",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "IBI is the club's main sponsor; the team plays as Hapoel IBI Tel Aviv. The page is undated (date is the day it was opened). In the club's kit-launch photos of 24 Sep 2026 and the club shop's photos of the 2026/27 home jersey (https://shop.hapoelbc.com/products/jy9090-home-isr, front photo https://cdn.shopify.com/s/files/1/0621/0122/5535/files/8J3A7420.jpg?v=1790242816; EuroLeague version https://shop.hapoelbc.com/products/jy9090-home-eur, front photo https://cdn.shopify.com/s/files/1/0621/0122/5535/files/8J3A7407.jpg?v=1790242951), the 'בית השקעות IBI' / 'IBI INVESTMENT HOUSE' mark sits across the chest. hapoelbc.com and shop.hapoelbc.com return 403/429 to automated scripts; they were read the same day through other routes."
+      }
+    },
+    {
+      "sponsorId": "rtmi",
+      "placement": "patch",
+      "source": {
+        "name": "Hapoel Tel Aviv BC Official Store — גופיית משחק יורוליג בית (EuroLeague home game jersey, 2026/27)",
+        "date": "2026-10-01",
+        "url": "https://shop.hapoelbc.com/products/jy9090-home-eur",
+        "quote": "גופיית משחק יורוליג בית",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The page's first product photo (https://cdn.shopify.com/s/files/1/0621/0122/5535/files/8J3A7407.jpg?v=1790242951) shows a white 'RTMI' wordmark on the upper left chest of the 2026/27 EuroLeague home jersey, under the adidas mark; the domestic-league version of the same shirt (jy9090-home-isr) has no such mark. Walla Sport reported (16 Jul 2026, https://sports.walla.co.il/item/3853992) that RTMI became a main sponsor of Hapoel Tel Aviv for two years and quoted owner Stav Shaham saying RTMI has been a partner of the club's basketball team in recent years. shop.hapoelbc.com rate-limits automated scripts (429); its product feed was read the same day."
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "ערוץ הספורט (Sport5): הפועל ת\"א חשפה את מדיה החדשים לעונה",
+        "date": "2026-09-24",
+        "url": "https://www.sport5.co.il/articles.aspx?FolderID=274&docID=561629",
+        "quote": "הפועל ת\"א וחברת אדידס חשפו היום (חמישי) את מדיה החדשים לעונת 2026/27",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Kit maker: the adidas mark sits on the upper chest of the home jersey and three stripes run down the sides, in the article's launch photos and in the club shop's product photos."
+      }
+    }
+  ],
   "sponsorsComplete": false,
-  "summary": null,
+  "summary": "IBI, the club's main sponsor (the team plays as Hapoel IBI Tel Aviv), is across the front of the 2026/27 home jersey — 'בית השקעות IBI' on the Israeli-league version, 'IBI INVESTMENT HOUSE' on the EuroLeague version. The EuroLeague version also carries 'RTMI' on the upper left chest under the adidas mark; adidas is the kit maker. Not marked complete: the retail photos show a blank back, but no cited photo shows the playing version's back (name/number area in games), and no shorts product or club photo shows the shorts, so a sponsor on either can't be ruled out. The 'ליגת Winner' chest mark (domestic games) and the EuroLeague/Etihad chest patch (EuroLeague games) are competition marks, not club sponsors.",
   "change": null
 }

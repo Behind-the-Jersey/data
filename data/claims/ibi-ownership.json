@@ -1,0 +1,21 @@
+{
+  "id": "ibi-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "ibi-investment-house-ltd"
+  ],
+  "text": "IBI (בית השקעות IBI) is IBI Investment House Ltd (אי.בי.אי. בית השקעות בע\"מ), an Israeli public company whose shares are traded on the Tel Aviv Stock Exchange.",
+  "short": "IBI is IBI Investment House Ltd, a company listed on the Tel Aviv Stock Exchange.",
+  "source": {
+    "name": "IBI Investment House — גילוי נאות (adequate disclosure)",
+    "date": "2026-10-01",
+    "url": "https://www.ibi.co.il/about/disclosures/",
+    "quote": "הינה חברה ציבורית שמניותיה נסחרות בבורסה לניירות ערך בתל-אביב",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "The page is undated; date is the day it was opened. The sentence opens 'אי.בי.אי. בית השקעות בע\"מ (\"בית ההשקעות\"), הינה חברה ציבורית...'."
+  },
+  "reviewed": false
+}
