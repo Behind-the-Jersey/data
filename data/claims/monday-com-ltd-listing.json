@@ -1,0 +1,32 @@
+{
+  "id": "monday-com-ltd-listing",
+  "kind": "ownership",
+  "ownerIds": [
+    "monday-com-ltd"
+  ],
+  "text": "The monday.com work platform belongs to monday.com Ltd., whose ordinary shares trade on Nasdaq under the ticker MNDY.",
+  "short": "monday.com Ltd. is Nasdaq-listed (MNDY).",
+  "source": {
+    "name": "monday.com investor relations: monday.com Files its 2025 Annual Report on Form 20-F",
+    "date": "2026-03-13",
+    "url": "https://ir.monday.com/news-and-events/news-releases/news-details/2026/monday-com-Files-its-2025-Annual-Report-on-Form-20-F/default.aspx",
+    "quote": "monday.com (NASDAQ: MNDY), the AI work platform that turns strategy into execution at scale",
+    "checked": {
+      "on": "2026-10-02",
+      "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "SEC: monday.com Ltd. Annual Report on Form 20-F for the year ended December 31, 2025",
+      "date": "2026-03-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/1845338/000117891326000870/zk2634436.htm",
+      "quote": "monday.com Ltd.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}

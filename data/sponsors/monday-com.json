@@ -1,14 +1,16 @@
 {
   "id": "monday-com",
   "name": "Monday.com",
-  "ownerId": null,
-  "ownership": null,
-  "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
+  "ownerId": "monday-com-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by monday.com Ltd. (Nasdaq: MNDY). Nothing found.",
+  "claimIds": [
+    "monday-com-ltd-listing"
+  ],
   "aliases": [
     "monday.com"
   ],
-  "note": "Global Partner of the BONDS Flying Roos (sailgp.com team page, fetched 2026-09-25)."
+  "note": "Global Partner of the BONDS Flying Roos (sailgp.com team page, fetched 2026-10-02). Rating note: owned by monday.com Ltd., listed on Nasdaq; no state or state fund in the chain and no company human-rights finding sourced."
 }
