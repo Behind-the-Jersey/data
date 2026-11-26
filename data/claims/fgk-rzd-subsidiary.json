@@ -1,0 +1,35 @@
+{
+  "id": "fgk-rzd-subsidiary",
+  "kind": "ownership",
+  "ownerIds": [
+    "fgk",
+    "rzd"
+  ],
+  "text": "AO Federal Freight Company (FGK), a rail freight wagon operator, is a subsidiary of OAO Russian Railways (OAO RZD).",
+  "short": "FGK is a subsidiary of RZD",
+  "source": {
+    "name": "HC Lokomotiv Yaroslavl sponsors page (club API, api.hclokomotiv.ru)",
+    "date": "2026-10-03",
+    "url": "https://api.hclokomotiv.ru/api/sponsors?populate%5Blogo%5D=*",
+    "quote": "является дочерним обществом ОАО «РЖД» и одним из крупнейших грузовых железнодорожных операторов в России",
+    "note": "English: '(FGK) is a subsidiary of OAO RZD and one of the largest rail freight operators in Russia.' JSON behind https://hclokomotiv.ru/sponsors, which we also opened.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Vgudok: Тоннаж средь бела дня. Рынок операторов на сети РЖД лихорадит",
+      "date": "2026-07-02",
+      "url": "https://vgudok.com/lenta/tonnazh-sred-bela-dnya-rynok-operatorov-na-seti-rzhd-lihoradit-fgk-i-pgk-vozyat-menshe-atlant",
+      "quote": "«Федеральная грузовая компания» (ФГК, принадлежит ОАО «РЖД»)",
+      "note": "English: 'Federal Freight Company (FGK, owned by OAO RZD)'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
