@@ -1,0 +1,33 @@
+{
+  "id": "flynas-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "flynas"
+  ],
+  "text": "flynas listed a 30% stake on the Saudi exchange Tadawul in 2025; its substantial shareholders post-offering are National Flight Services Company (28.88%, wholly owned by Prince Khalid bin Sultan bin Abdulaziz Al Saud), Kingdom Holding Company (27.44%) and Nasser Ibrahim Rashid Al Rashid (6.53%). PIF's indirect stake, through its 16.87% of Kingdom Holding, is 4.63% post-offering.",
+  "short": "Post-IPO, flynas's substantial shareholders are National Flight Services (28.88%), Kingdom Holding (27.44%) and Nasser Al Rashid (6.53%).",
+  "source": {
+    "name": "flynas Company Prospectus (May 2025, tables 0.2 and 0.3; PDF mirrored by EnterpriseAM)",
+    "date": "2025-05-06",
+    "url": "https://ent.news/2025/5/367.pdf",
+    "note": "Original copy at static.flynas.com blocks scripts (Cloudflare); other claims in this dataset cite archived or mirrored copies of filings. Table 0.3 gives PIF's indirect stake as 4.628% post-offering.",
+    "quote": "The Company's Substantial Shareholders who directly own 5% or more of its shares are: (1) National Flight Services Company, (2) Kingdom Holding Company, and (3) Nasser Ibrahim Rashid Al Rashid.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "EnterpriseAM: Saudi budget airline Flynas pushes ahead with IPO",
+      "date": "2025-05-06",
+      "url": "https://enterpriseam.com/logistics/2025/05/06/saudi-budget-airline-flynas-pushes-ahead-with-ipo",
+      "quote": "Flynas’ three substantial shareholders — National Flight Services Company, Kingdom Holding Company, and Nasser Ibrahim Rashid Al Rashid — will retain majority ownership, holding a combined 62.84% stake post-offering",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
