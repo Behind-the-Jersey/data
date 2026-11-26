@@ -1,0 +1,34 @@
+{
+  "id": "sportqory-samruk-funding",
+  "kind": "ownership",
+  "ownerIds": [
+    "sportqory",
+    "samruk-kazyna"
+  ],
+  "text": "The general partner of the Sport Qory sports support fund is Samruk-Kazyna JSC, Kazakhstan's sovereign wealth fund, which provided 49.6 billion tenge in 2021-22; according to the fund's 2024 financial report, most of Sport Qory's 32.26 billion tenge income that year was charitable aid, mostly from Samruk-Kazyna, and the largest single recipient was the XDS Astana cycling team with 6 billion tenge.",
+  "short": "Samruk-Kazyna is Sport Qory's general partner and provides most of its funding.",
+  "source": {
+    "name": "BAQ.kz — Профессиональный и массовый спорт: как финансируется Sport Qory",
+    "date": "2023-07-11",
+    "url": "https://rus.baq.kz/professionalnyy-i-massovyy-sport-kak-finansiruetsya-sport-qory_156097/",
+    "quote": "Генеральным партнёром фонда является АО \"ФНБ \"Самрук-Казына\". В 2021-22 годах сумма вливаний составила 49,6 миллиардов тенге.",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "Pin-Up Sport — Названы крупнейшие получатели господдержки в спорте Казахстана за 2024 год",
+      "date": "2025-05-14",
+      "url": "https://pin-upsport.kz/nazvany-krupnejshie-poluchateli-gospodderzhki-v-sporte-kazahstana-za-2024-god/",
+      "quote": "фонд получил 32,26 млрд тенге ($63,21 млн), основная часть из которых — 29 млрд — благотворительная помощь, преимущественно от АО «Самрук-Қазына»",
+      "note": "Same article: 'Самыми финансируемыми организациями стали ХК «Барыс» (8,5 млрд), велокоманда XDS Astana Team (6 млрд)' — the most-funded organisations were HC Barys and the XDS Astana Team.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
