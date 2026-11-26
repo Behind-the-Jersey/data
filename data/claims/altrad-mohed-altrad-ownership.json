@@ -1,0 +1,21 @@
+{
+  "id": "altrad-mohed-altrad-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "altrad"
+  ],
+  "text": "The Altrad group is owned and chaired by Mohed Altrad, its founder: French press describes the company as 'le groupe Altrad, dont le propriétaire et président Mohed Altrad'.",
+  "short": "Altrad is owned by its founder-president Mohed Altrad",
+  "source": {
+    "name": "Rugbyrama: Top 14. Montpellier. Le groupe Altrad soupçonné de fraude fiscale : 350 à 400 millions d’euros de préjudice",
+    "date": "2026-06-23",
+    "url": "https://www.rugbyrama.fr/2026/06/23/top-14-montpellier-le-groupe-altrad-soupconne-de-fraude-fiscale-350-a-400-millions-deuros-de-prejudice-13433035.php",
+    "quote": "une enquête préliminaire pour fraude fiscale visait le groupe Altrad, dont le propriétaire et président Mohed Altrad est à la tête du Montpellier Hérault Rugby",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    },
+    "note": "English: 'the Altrad group, whose owner and president Mohed Altrad heads Montpellier Hérault Rugby'. Altrad's own governance page presents 'Mohed Altrad, Founder and President' and says he 'purchased Mefran ... This was the beginning of the Altrad group' (altrad.com/en/governance.html)."
+  },
+  "reviewed": false
+}
