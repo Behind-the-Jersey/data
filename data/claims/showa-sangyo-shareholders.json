@@ -1,0 +1,20 @@
+{
+  "id": "showa-sangyo-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "showa-sangyo"
+  ],
+  "text": "Showa Sangyo Co., Ltd.'s major shareholders as of 31 March 2026 are ITOCHU Corporation (7.0%), The Master Trust Bank of Japan (Trust Account, 6.4%) and Mitsui & Co., Ltd. (4.7%), followed by its business-partner shareholding association, Yuasa Funashoku, Cargill Japan, its employee shareholding association, Chiba Bank, a Mizuho retirement-benefit trust and Marubeni, all under 5%.",
+  "short": "Showa Sangyo's top holders as of 31 March 2026: ITOCHU 7.0%, Master Trust 6.4%, Mitsui & Co. 4.7%.",
+  "source": {
+    "name": "昭和産業: 株主の状況（大株主の状況, 2026年3月31日現在）",
+    "date": "2026-03-31",
+    "url": "https://www.showa-sangyo.co.jp/corporate/ir/stock/shareholders/",
+    "quote": "伊藤忠商事株式会社 2,290 7.0",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}

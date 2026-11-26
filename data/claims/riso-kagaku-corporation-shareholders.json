@@ -1,0 +1,20 @@
+{
+  "id": "riso-kagaku-corporation-shareholders",
+  "kind": "ownership",
+  "ownerIds": [
+    "riso-kagaku-corporation"
+  ],
+  "text": "Riso Kagaku Corporation's major shareholders (top five) as of 31 March 2026 are RISO Limited (15.71%), the Riso Educational Foundation (8.46%), Akatsuki Kosan Co., Ltd. (6.22%), The Master Trust Bank of Japan, Ltd. (Trust Account, 5.99%) and a Mizuho retirement-benefit trust re-entrusted to Custody Bank of Japan (4.98%).",
+  "short": "Riso Kagaku's top holders as of 31 March 2026: RISO Limited 15.71%, Riso Educational Foundation 8.46%, Akatsuki Kosan 6.22%.",
+  "source": {
+    "name": "Riso Kagaku Corporation: Share Information / Ownership Statistics (as of March 31, 2026)",
+    "date": "2026-03-31",
+    "url": "https://www.riso.co.jp/english/ir/stock/gaiyo.html",
+    "quote": "RISO Limited 9,883 15.71",
+    "checked": {
+      "on": "2026-10-01",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
