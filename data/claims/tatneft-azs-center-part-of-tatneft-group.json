@@ -1,0 +1,22 @@
+{
+  "id": "tatneft-azs-center-part-of-tatneft-group",
+  "kind": "ownership",
+  "ownerIds": [
+    "tatneft-azs-center",
+    "tatneft"
+  ],
+  "text": "Tatneft's official list of group divisions and companies includes OOO Tatneft-AZS Center.",
+  "short": "Tatneft-AZS Center is a Tatneft Group company.",
+  "source": {
+    "name": "PJSC TATNEFT: Сайты подразделений и компаний (sites of divisions and group companies)",
+    "date": "2026",
+    "url": "https://old.tatneft.ru/o-kompanii/predpriyatiya-gruppi-tatneft/?lang=ru",
+    "quote": "ООО «Татнефть-АЗС Центр» rss.tatneft.ru/centercontacts",
+    "note": "Entry in Tatneft's official list of group divisions and companies. The company's own site azs.tatneft.ru rejects scripted access (HTTP 401), so no independent statement was found; see the Ak Bars PR notes.",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false
+}
