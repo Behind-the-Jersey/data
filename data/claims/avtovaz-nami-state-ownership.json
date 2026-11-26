@@ -1,0 +1,34 @@
+{
+  "id": "avtovaz-nami-state-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "nami"
+  ],
+  "text": "AvtoVAZ, the maker of Lada cars, is owned by LADA Auto Holding; since 5 May 2023 NAMI, a federal state unitary enterprise under Russia's Ministry of Industry and Trade, is its sole owner.",
+  "short": "AvtoVAZ (Lada) is wholly owned by state institute NAMI.",
+  "source": {
+    "name": "Interfax: «Ростех» вышел из капитала «АвтоВАЗа», 100% долей которого консолидировал НАМИ",
+    "date": "2023-05-07",
+    "url": "https://www.interfax.ru/business/900478",
+    "note": "English: 'EGRUL data shows that on 5 May NAMI became the sole owner of LADA Auto Holding LLC.' The same article states that LADA Auto Holding is AvtoVAZ's owner and calls NAMI a federal state unitary enterprise subordinate to the Ministry of Industry and Trade.",
+    "quote": "Данные ЕГРЮЛ свидетельствуют, что 5 мая НАМИ стал единственным владельцем ООО «Лада Авто Холдинг».",
+    "checked": {
+      "on": "2026-10-03",
+      "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+    }
+  },
+  "additionalSources": [
+    {
+      "name": "TASS: French carmaker Renault's assets in Russia get nationalized, ministry announces",
+      "date": "2022-05-16",
+      "url": "https://tass.com/economy/1451209",
+      "note": "Covers the first step, Renault's 67.69% stake going to NAMI (a state-backed research center); Interfax documents the 2023 consolidation to 100%.",
+      "quote": "NAMI, a state-backed research center, has become the owner of Renault's stake in Avtovaz",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    }
+  ],
+  "reviewed": false
+}
