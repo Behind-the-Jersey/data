@@ -1,0 +1,32 @@
+{
+  "id": "firstrand-bank-ownership",
+  "kind": "ownership",
+  "ownerIds": [
+    "firstrand-bank-limited"
+  ],
+  "text": "FirstRand Bank Limited is a wholly owned subsidiary of FirstRand Limited, which is listed on the JSE and the Namibian Stock Exchange.",
+  "short": "FirstRand Bank Limited is wholly owned by JSE-listed FirstRand Limited.",
+  "source": {
+    "name": "FirstRand Bank Limited Annual Report 2023 (PDF)",
+    "date": "2023",
+    "url": "https://www.firstrand.co.za/media/investors/financial-results/firstrand-bank-annual-report-2023.pdf",
+    "quote": "FirstRand Bank Limited (FRB or the bank) is a wholly owned subsidiary of FirstRand Limited (FirstRand or the group), which is listed on the Johannesburg Stock Exchange (JSE) and Namibian Stock Exchange (NSX).",
+    "checked": {
+      "on": "2026-10-04",
+      "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+    }
+  },
+  "reviewed": false,
+  "additionalSources": [
+    {
+      "name": "Sharenet SENS: FirstRand Bank Limited - Availability of the Annual Report",
+      "date": "2025-09-11",
+      "url": "https://www.sharenet.co.za/v3/sens_display.php?tdate=20250911084500&seq=16",
+      "quote": "FRB is a wholly owned subsidiary of FirstRand Limited (FirstRand or the group).",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  ]
+}

@@ -1,14 +1,21 @@
 {
   "id": "fnb",
   "name": "FNB",
-  "ownerId": null,
-  "ownership": null,
+  "ownerId": "firstrand-bank-limited",
+  "ownership": "owned",
   "tier": "unrated",
-  "status": "unrated",
-  "verdict": null,
-  "claimIds": [],
-  "aliases": [
-    "first national bank"
+  "status": "being-rated",
+  "verdict": "FNB is a division of FirstRand Bank Limited, wholly owned by JSE-listed FirstRand Limited; the Public Investment Corporation, an asset manager wholly owned by the South African government, holds 15.7% of FirstRand.",
+  "claimIds": [
+    "fnb-firstrand-division",
+    "firstrand-bank-ownership",
+    "firstrand-pic-stake",
+    "pic-government-ownership",
+    "south-africa-marikana-killings"
   ],
-  "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
+  "aliases": [
+    "first national bank",
+    "First National Bank"
+  ],
+  "note": "Front-of-shirt sponsor of the Springboks since the March 2025 announcement (first worn vs Italy, 5 July 2025); the gold FNB logo sits centre chest on the 2026/27 home jersey. Rating note: on hold for a maintainer. Proposed concern: the Public Investment Corporation (PIC), wholly owned by the South African government, holds 15.7% of FirstRand (firstrand-pic-stake, pic-government-ownership) - over the 5% threshold - and South Africa's record is documented (south-africa-marikana-killings: police killed 34 striking miners at Marikana in 2012). The stake is a portfolio holding without control. First set to none in the rating sweep before the PIC stake was known; reset to unrated after the review flagged the state fund in the chain (issue #727)."
 }
