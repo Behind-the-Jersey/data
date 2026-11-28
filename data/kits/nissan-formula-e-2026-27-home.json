@@ -1,0 +1,30 @@
+{
+  "id": "nissan-formula-e-2026-27-home",
+  "clubId": "nissan-formula-e",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "Season 13 (2026/27, GEN4)",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nissan",
+      "placement": "front",
+      "source": {
+        "name": "NISMO: Nissan Formula E Team confirms Zane Maloney alongside Oliver Rowland for Season 13",
+        "date": "2026-08-26",
+        "url": "https://www.nismo.com/news/nissan-formula-e-team-confirms-zane-maloney-alongside-oliver-rowland-for-season-13",
+        "note": "Opened 2026-11-28. Confirms the team races in 2026/27 at all and that the manufacturer's name carries the entry; the team-title brand is mapped to the front per the league note. The Season 13 livery itself is not publicly revealed until 2026-12-06, so other placements are unconfirmed.",
+        "quote": "Nissan Formula E Team will field Oliver Rowland and Zane Maloney as its driver line-up for the 2026/27 ABB FIA Formula E World Championship, which marks the first season of the new GEN4 era.",
+        "checked": {
+          "on": "2026-11-28",
+          "by": "BigBossRabbit"
+        }
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Season 13 (2026/27) GEN4 entry. Only the manufacturer's own name is confirmed for the car: the GEN4-era driver line-up was announced on 2026-08-26 and the team ran a testing livery at Madrid pre-season testing, but the race livery and its partner set are not revealed until 2026-12-06, so the Season 12 partner list (Electromin, Coral, Marelli, Reflo, Dynisma, Alpinestars) is not carried forward here. sponsorsComplete is false for that reason.",
+  "change": null
+}
